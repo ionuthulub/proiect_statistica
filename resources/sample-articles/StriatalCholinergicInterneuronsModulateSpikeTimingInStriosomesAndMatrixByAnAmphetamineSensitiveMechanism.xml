@@ -1,0 +1,1030 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5359318</identifier><datestamp>2017-04-04</datestamp><setSpec>frontneuranat</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Neuroanat</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Neuroanat</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Neuroanat.</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Neuroanatomy</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1662-5129</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5359318</article-id>
+      <article-id pub-id-type="pmcid">PMC5359318</article-id>
+      <article-id pub-id-type="pmc-uid">5359318</article-id>
+      <article-id pub-id-type="doi">10.3389/fnana.2017.00020</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Neuroscience</subject>
+          <subj-group>
+            <subject>Original Research</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Striatal Cholinergic Interneurons Modulate Spike-Timing in Striosomes and Matrix by an Amphetamine-Sensitive Mechanism</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Crittenden</surname>
+            <given-names>Jill R.</given-names>
+          </name>
+          <xref ref-type="author-notes" rid="fn002">
+            <sup>†</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/26110/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lacey</surname>
+            <given-names>Carolyn J.</given-names>
+          </name>
+          <xref ref-type="author-notes" rid="fn002">
+            <sup>†</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Weng</surname>
+            <given-names>Feng-Ju</given-names>
+          </name>
+          <xref ref-type="author-notes" rid="fn002">
+            <sup>†</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/66747/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Garrison</surname>
+            <given-names>Catherine E.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gibson</surname>
+            <given-names>Daniel J.</given-names>
+          </name>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/404228/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lin</surname>
+            <given-names>Yingxi</given-names>
+          </name>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/77112/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Graybiel</surname>
+            <given-names>Ann M.</given-names>
+          </name>
+          <xref ref-type="author-notes" rid="fn001">
+            <sup>*</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/1595/overview"/>
+        </contrib>
+      </contrib-group>
+      <aff>
+        <institution>Department of Brain and Cognitive Sciences, McGovern Institute for Brain Research, Massachusetts Institute of Technology</institution>
+        <country>Cambridge, MA, USA</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <p>Edited by: Fumino Fujiyama, Doshisha University, Japan</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Reviewed by: Heinz Steiner, Rosalind Franklin University of Medicine and Science, USA; Tetsuo Yamamori, RIKEN Brain Science Institute (BSI), Japan</p>
+        </fn>
+        <corresp id="fn001">*Correspondence: Ann M. Graybiel <email xlink:type="simple">graybiel@mit.edu</email></corresp>
+        <fn fn-type="other" id="fn002">
+          <p>†These authors have contributed equally to this work.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>3</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2017</year>
+      </pub-date>
+      <volume>11</volume>
+      <elocation-id>20</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>12</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>06</day>
+          <month>3</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2017 Crittenden, Lacey, Weng, Garrison, Gibson, Lin and Graybiel.</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <copyright-holder>Crittenden, Lacey, Weng, Garrison, Gibson, Lin and Graybiel</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The striatum is key for action-selection and the motivation to move. Dopamine and acetylcholine release sites are enriched in the striatum and are cross-regulated, possibly to achieve optimal behavior. Drugs of abuse, which promote abnormally high dopamine release, disrupt normal action-selection and drive restricted, repetitive behaviors (stereotypies). Stereotypies occur in a variety of disorders including obsessive-compulsive disorder, autism, schizophrenia and Huntington's disease, as well as in addictive states. The severity of drug-induced stereotypy is correlated with induction of c-Fos expression in striosomes, a striatal compartment that is related to the limbic system and that directly projects to dopamine-producing neurons of the substantia nigra. These characteristics of striosomes contrast with the properties of the extra-striosomal matrix, which has strong sensorimotor and associative circuit inputs and outputs. Disruption of acetylcholine signaling in the striatum blocks the striosome-predominant c-Fos expression pattern induced by drugs of abuse and alters drug-induced stereotypy. The activity of striatal cholinergic interneurons is associated with behaviors related to sensory cues, and cortical inputs to striosomes can bias action-selection in the face of conflicting cues. The neurons and neuropil of striosomes and matrix neurons have observably separate distributions, both at the input level in the striatum and at the output level in the substantia nigra. Notably, cholinergic axons readily cross compartment borders, providing a potential route for local cross-compartment communication to maintain a balance between striosomal and matrix activity. We show here, by slice electrophysiology in transgenic mice, that repetitive evoked firing patterns in striosomal and matrix striatal projection neurons (SPNs) are interrupted by optogenetic activation of cholinergic interneurons either by the addition or the deletion of spikes. We demonstrate that this cholinergic modulation of projection neurons is blocked in brain slices taken from mice exposed to amphetamine and engaged in amphetamine-induced stereotypy, and lacking responsiveness to salient cues. Our findings support a model whereby activity in striosomes is normally under strong regulation by cholinergic interneurons, favoring behavioral flexibility, but that in animals with drug-induced stereotypy, this cholinergic signaling breaks down, resulting in differential modulation of striosomal activity and an inability to bias action-selection according to relevant sensory cues.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>striosome</kwd>
+        <kwd>striatum</kwd>
+        <kwd>amphetamine</kwd>
+        <kwd>stereotypy</kwd>
+        <kwd>cholinergic interneuron</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source id="cn001">National Institute of Mental Health<named-content content-type="fundref-id">10.13039/100000025</named-content></funding-source>
+          <award-id rid="cn001">R01 MH060379</award-id>
+        </award-group>
+        <award-group>
+          <funding-source id="cn002">Eunice Kennedy Shriver National Institute of Child Health and Human Development<named-content content-type="fundref-id">10.13039/100009633</named-content></funding-source>
+          <award-id rid="cn002">R37 HD028341</award-id>
+        </award-group>
+        <award-group>
+          <funding-source id="cn003">Simons Foundation<named-content content-type="fundref-id">10.13039/100000893</named-content></funding-source>
+        </award-group>
+      </funding-group>
+      <counts>
+        <fig-count count="11"/>
+        <table-count count="5"/>
+        <equation-count count="0"/>
+        <ref-count count="112"/>
+        <page-count count="20"/>
+        <word-count count="13762"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="s1">
+      <title>Introduction</title>
+      <p>Pathologically repetitive and restricted behaviors, known as stereotypies, occur in numerous disorders and are notably difficult to disrupt, suggesting a failure in attention to environmental cues that might normally direct a change in behavior. Stereotypies can also be induced in humans and other animals by high doses of habit-forming drugs such as cocaine and amphetamine. Animals with drug-induced stereotypic behavior exhibit high c-Fos immediate-early gene induction in striatal projection neurons (SPNs) within the striosome compartment of the striatum, relative to low activation in SPNs located in the surrounding matrix compartment (Canales and Graybiel, <xref rid="B17" ref-type="bibr">2000</xref>; Tan et al., <xref rid="B99" ref-type="bibr">2000</xref>; Saka et al., <xref rid="B88" ref-type="bibr">2004</xref>; Crittenden and Graybiel, <xref rid="B22" ref-type="bibr">2011</xref>, <xref rid="B23" ref-type="bibr">2016</xref>; Horner et al., <xref rid="B50" ref-type="bibr">2012</xref>; Jedynak et al., <xref rid="B53" ref-type="bibr">2012</xref>). Such differential c-Fos induction in striosomes, relative to c-Fos induction in the matrix, is blocked by intrastriatal ablation of cholinergic interneurons (referred to herein as ChIs), along with somatostatin-expressing interneurons (Saka et al., <xref rid="B89" ref-type="bibr">2002</xref>), and manipulations of ChI signaling have a direct impact on the severity of cocaine- and amphetamine-induced stereotypies (Schoffelmeer et al., <xref rid="B93" ref-type="bibr">2002</xref>; Collins and Izenwasser, <xref rid="B20" ref-type="bibr">2004</xref>; Thomsen et al., <xref rid="B101" ref-type="bibr">2010</xref>; Aliane et al., <xref rid="B2" ref-type="bibr">2011</xref>; Crittenden et al., <xref rid="B24" ref-type="bibr">2014</xref>). High-dose drug treatments also are related to an imbalance in activity of cortical regions that differentially project to the striatal striosome or matrix compartment (Gerfen, <xref rid="B37" ref-type="bibr">1984</xref>; Kincaid and Wilson, <xref rid="B59" ref-type="bibr">1996</xref>; Aliane et al., <xref rid="B3" ref-type="bibr">2009</xref>; Friedman et al., <xref rid="B34" ref-type="bibr">2015</xref>; Kupferschmidt et al., <xref rid="B62" ref-type="bibr">2015</xref>). All together, these findings suggest that a balance in activity between striosome-based and matrix-based cortico-basal ganglia loops could be critical for behavioral flexibility.</p>
+      <p>In contrast to the widespread interconnections that occur among the D1- and D2-dopamine receptor-positive SPNs of the direct and indirect output pathways (Taverna et al., <xref rid="B100" ref-type="bibr">2008</xref>), SPNs that lie in the striosome or matrix compartments seem particularly separated, not only physically but also electrophysiologically (Kawaguchi et al., <xref rid="B56" ref-type="bibr">1989</xref>; Banghart et al., <xref rid="B9" ref-type="bibr">2015</xref>; Lopez-Huerta et al., <xref rid="B64" ref-type="bibr">2016</xref>), though with some cross-compartment crossing of their processes (Bolam et al., <xref rid="B12" ref-type="bibr">1988</xref>; Walker et al., <xref rid="B108" ref-type="bibr">1993</xref>). Striosomal SPNs give rise to a unique striatonigral connection to subgroups of neurons in the substantia nigra pars compacta that produce dopamine (Gerfen, <xref rid="B38" ref-type="bibr">1985</xref>; Jimenez-Castellanos and Graybiel, <xref rid="B55" ref-type="bibr">1989</xref>; Fujiyama et al., <xref rid="B35" ref-type="bibr">2011</xref>; Watabe-Uchida et al., <xref rid="B110" ref-type="bibr">2012</xref>; Crittenden et al., <xref rid="B25" ref-type="bibr">2016</xref>), a neurotransmitter that is released by all known drugs of abuse and is a key driver of motivated behaviors and movement initiation (Schultz, <xref rid="B94" ref-type="bibr">2011</xref>; Dodson et al., <xref rid="B28" ref-type="bibr">2016</xref>; Howe and Dombeck, <xref rid="B51" ref-type="bibr">2016</xref>). Further, the striosome-targeted dopamine-positive neurons project back both to striosomes and matrix, suggesting a circuit by which striosomes could exert both localized and global control over the dorsal striatum (Crittenden et al., <xref rid="B25" ref-type="bibr">2016</xref>). For technical reasons, few studies have addressed how striosomal neurons are regulated, and striosomes are difficult targets because they comprise only ~15–20% of the SPN populations, which primarily occupy the extrastriosomal matrix that houses the cells of origin of the classic direct and indirect basal ganglia pathways for motor control. Yet striosomes are preferential targets of some cortical regions related to the limbic system, and they target lateral habenula-linked circuits and the dopamine-containing nigral pars compacta, both implicated in motivation and reinforcement-driven behaviors. Thus, striosomal SPNs, insofar as they act through their main GABAergic neurotransmitter mechanism, are well placed to counterbalance hyper-activation of the dopamine system.</p>
+      <p>The relative segregation of striosomal and matrix SPNs raises the question of what mechanisms maintain the normal balance of the striatal compartments, including the balanced expression of immediate-early gene products, such as c-Fos, expression that becomes striosome-predominant in animals exhibiting drug-induced stereotypy. ChIs and other interneurons that are located along the striosomal borders are leading candidates for coordinating activity between the two compartments (Graybiel et al., <xref rid="B47" ref-type="bibr">1986</xref>; Sandell et al., <xref rid="B91" ref-type="bibr">1986</xref>; Kubota and Kawaguchi, <xref rid="B61" ref-type="bibr">1993</xref>; Aosaki et al., <xref rid="B5" ref-type="bibr">1995</xref>; Mounir and Parent, <xref rid="B79" ref-type="bibr">2002</xref>; Miura et al., <xref rid="B77" ref-type="bibr">2007</xref>; Brimblecombe and Cragg, <xref rid="B13" ref-type="bibr">2015</xref>). ChIs are thought to correspond to the tonically active neurons of the striatum (TANs), which respond to salient or instructive stimuli with an activation, pause and rebound pattern of activity (Apicella et al., <xref rid="B7" ref-type="bibr">1991</xref>; Aosaki et al., <xref rid="B5" ref-type="bibr">1995</xref>; Blazquez et al., <xref rid="B11" ref-type="bibr">2002</xref>; Minamimoto and Kimura, <xref rid="B75" ref-type="bibr">2002</xref>; Goldberg and Reynolds, <xref rid="B41" ref-type="bibr">2011</xref>; Doig et al., <xref rid="B29" ref-type="bibr">2014</xref>; Thorn and Graybiel, <xref rid="B102" ref-type="bibr">2014</xref>). This cue-response is semi-synchronized among TANs across the striatum and is driven by input from the neocortex and from the intralaminar nuclei of the thalamus, which are themselves activated by sensory inputs (Aosaki et al., <xref rid="B5" ref-type="bibr">1995</xref>; Matsumoto et al., <xref rid="B69" ref-type="bibr">2001</xref>; Morris et al., <xref rid="B78" ref-type="bibr">2004</xref>; Brown et al., <xref rid="B14" ref-type="bibr">2010</xref>; Doig et al., <xref rid="B29" ref-type="bibr">2014</xref>). Strategic switching behaviors exhibited in learning tasks are impacted by manipulations of ChIs in the striatum (Minamimoto et al., <xref rid="B73" ref-type="bibr">2005</xref>; McCool et al., <xref rid="B72" ref-type="bibr">2008</xref>; Brown et al., <xref rid="B14" ref-type="bibr">2010</xref>; Okada et al., <xref rid="B84" ref-type="bibr">2014</xref>). The extreme loss of behavioral flexibility that occurs in animals engaged in drug-induced stereotypies is likewise modulated by cholinergic manipulations (Schoffelmeer et al., <xref rid="B93" ref-type="bibr">2002</xref>; Collins and Izenwasser, <xref rid="B20" ref-type="bibr">2004</xref>; Thomsen et al., <xref rid="B101" ref-type="bibr">2010</xref>; Aliane et al., <xref rid="B2" ref-type="bibr">2011</xref>; Crittenden et al., <xref rid="B24" ref-type="bibr">2014</xref>). These findings suggest that thalamic and cortical input to the ChIs of the dorsal striatum helps to re-set motor systems to modulate behavioral flexibility in the face of conflicting cues or drug-induced overload of the dopamine system (Ding et al., <xref rid="B27" ref-type="bibr">2010</xref>; Minamimoto et al., <xref rid="B74" ref-type="bibr">2014</xref>; Eskow Jaunarajs et al., <xref rid="B31" ref-type="bibr">2015</xref>). Whether striosomal and matrix SPNs are differentially controlled by ChIs, however, has not been tested. We now have performed such a test, and have specifically asked whether we could estimate the ChIs modulation of SPN firing activity related to amphetamine-induced stereotypies by examining SPN responses in slices prepared from animals actively engaged in such behaviors.</p>
+      <p>It is known from much work on striatal slices that activation of ChIs induces GABA release from local sources to drive inhibitory responses in SPNs (Miura et al., <xref rid="B76" ref-type="bibr">2006</xref>; English et al., <xref rid="B30" ref-type="bibr">2012</xref>; Luo et al., <xref rid="B65" ref-type="bibr">2013</xref>; Nelson et al., <xref rid="B82" ref-type="bibr">2014b</xref>; Faust et al., <xref rid="B33" ref-type="bibr">2016</xref>). These measurements have been made without identification of striatal compartments, but likely were made mostly in the large matrix compartment. Inoue and colleagues (Inoue et al., <xref rid="B52" ref-type="bibr">2016</xref>) have now identified striosomes in a brain slice recording preparation by using young transgenic mice expressing green fluorescent protein (GFP) under the control of the tyrosine hydroxylase promoter (Matsushita et al., <xref rid="B70" ref-type="bibr">2002</xref>), which is striosome-enriched in young mice (&lt;28 days of age). Paired neuronal recordings in these mice demonstrated that SPNs, and other ChIs, can inhibit ChIs within and across compartments (Inoue et al., <xref rid="B52" ref-type="bibr">2016</xref>), consistent with the fact that ChI neuropil crosses compartment borders (Graybiel et al., <xref rid="B47" ref-type="bibr">1986</xref>; Crittenden et al., <xref rid="B24" ref-type="bibr">2014</xref>). Whether ChI activation induces the prominent pause in activity in both striosomal and matrix SPNs was not examined.</p>
+      <p>We performed slice recordings and optogenetic stimulation of ChIs in double transgenic mice that have matrix-enriched GFP and channelrhodopsin (ChR2) in ChIs. Wide-field application of a blue light pulse to the slices induced a single spike in the ChIs. We show here that this ChI stimulation produced a brief inhibition of evoked, repetitive firing in both striosomal and matrix SPNs. We also observed, in SPNs of both the matrix and striosomes, that the optogenetic activation of ChIs occasionally induced a spike-advance in the SPN firing pattern. All of these effects were blocked by the nicotinic acetylcholine receptor antagonist, dihydro-β-erythroidine (DHβE). Furthermore, in brain slices taken from drug-treated transgenic mice engaged in amphetamine-induced stereotypies and non-respondent to salient cues, ChI stimulation failed to disrupt the evoked repetitive striosomal and matrix SPN firing. These results raise the proposal, favored here, that the loss of behavioral flexibility that occurs in animals under the influence of psychomotor stimulants could result from a failure in the ability of ChIs to reset ongoing striatal activity and motor behavior in response to relevant environmental cues.</p>
+    </sec>
+    <sec sec-type="materials and methods" id="s2">
+      <title>Materials and methods</title>
+      <sec>
+        <title>Mice</title>
+        <p>All procedures were approved by the Committee on Animal Care at the Massachusetts Institute of Technology, which is AAALAC accredited. Table <xref ref-type="table" rid="T1">1</xref> summarizes mouse lines used. Double transgenic mice were generated from intercrosses of single hemizygous mice so that no offspring were homozygous for a transgene. ChAT-IRES-Cre knock-in mice (JAX stock #006410) (Rossi et al., <xref rid="B87" ref-type="bibr">2011</xref>) were on a mixed 129S6, C57Bl/6J genetic background. Mice with the ChAT-ChR2-EYFP bacterial artificial chromosome (BAC) (Zhao et al., <xref rid="B111" ref-type="bibr">2011</xref>) were on a C57Bl/6 genetic background. CalDAG-GEFI (aka RasGRP2)-EGFP BAC mice (Gong et al., <xref rid="B43" ref-type="bibr">2003</xref>) were on a FVB/N-Swiss Webster hybrid background. For neuroanatomical studies, ChAT-IRES-Cre knock-in mice were crossed to Ai32(RCL-ChR2(H134R)/EYFP) knock-in mice (JAX stock #024109) (Madisen et al., <xref rid="B66" ref-type="bibr">2012</xref>) on a C57Bl/6 background. Experimental mice were male, 2–6 months of age, and housed under a standard light-dark cycle (lights on at 7 am and off at 7 pm), with free access to food and water. Mice with intracerebral viral injections were single-housed post-surgery, and mice that were D-amphetamine-treated were single-housed. Otherwise mice were group-housed with brothers.</p>
+        <table-wrap id="T1" position="float">
+          <label>Table 1</label>
+          <caption>
+            <p><bold>Transgenic mice used in this study</bold>.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Transgenic mouse line</bold>
+                </th>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Description</bold>
+                </th>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>References</bold>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Single transgenic CalDAG-GEFI-GFP BAC</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">EGFP is inserted in the CalDAG-GEFI (aka RasGRP2) BAC and is expressed in matrix SPNs.</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Gong et al., <xref rid="B43" ref-type="bibr">2003</xref>; Crittenden et al., <xref rid="B25" ref-type="bibr">2016</xref></td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Double knock-in transgenic ChAT-Cre;Ai32</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cre is inserted in the choline acetyl transferase (ChAT) gene locus and is expressed in ChIs. Cre-dependent EYFP is inserted in the Rosa 26 locus to permit expression in most cell types that express Cre.</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Rossi et al., <xref rid="B87" ref-type="bibr">2011</xref>; Madisen et al., <xref rid="B66" ref-type="bibr">2012</xref></td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Double transgenic CalDAG-GEFI-GFP BAC;ChAT-Cre knock-in</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">EGFP is expressed in matrix SPNs. ChR2 is expressed in ChIs by intracerebral injection of a viral vector for Cre-dependent ChR2.</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Gong et al., <xref rid="B43" ref-type="bibr">2003</xref>; Rossi et al., <xref rid="B87" ref-type="bibr">2011</xref></td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Double BAC transgenic CalDAG-GEFI-GFP;ChATChR2</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">EGFP is expressed in matrix SPNs. ChR2 is inserted in a BAC containing the ChAT gene and is expressed in ChIs.</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Zhao et al., <xref rid="B111" ref-type="bibr">2011</xref></td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Tissue preparation, immunolabeling, and microscopy</title>
+        <p>Mice were anesthetized with Euthasol (Virbac AH Inc.; pentobarbital sodium and phenytoin sodium) and then trans-cardially perfused with 0.9% saline, followed by 4% paraformaldehyde in 0.1 M NaKPO<sub>4</sub> buffer solution (PBS). Brains were then dissected, post-fixed for 90 min, stored in 20% glycerin sinking solution overnight or longer, and cut into transverse sections at 30 μm on a freezing microtome. Sections were stored in 0.1% sodium azide in 0.1 M PBS until use. Free-floating sections were rinsed in 0.01 M PBS with 0.2% Triton X-100 and then were blocked in TSA Blocking Reagent (Perkin Elmer) prior to incubation for 1 or 2 nights with immunosera against GFP (Aves Lab, GFP-1020, 1:500 dilution), yellow fluorescent protein (Abcam, Ab6556, 1:2,000 dilution), mu-opioid receptor subtype 1 (MOR1) (Abcam, Ab134054, 1:500 dilution), CalDAG-GEFI (#3752, 1:5,000, dilution) (Crittenden et al., <xref rid="B21" ref-type="bibr">2004</xref>), c-Fos (Santa Cruz, sc-52, 1:10,000 dilution), or vesicular acetylcholine transferase (VAChT) (Millipore, AB1588, 1:100) followed by the appropriate secondary antisera coupled to ALEXA fluorophores (ThermoFisher Scientific, 1:300). Following secondary incubation, sections were rinsed in 0.1 M PBS, mounted on subbed glass slides and coverslipped with ProLong antifade reagent (Thermo Fisher Scientific). Imaging was performed with a Zeiss LSM 510 confocal microscope with Zen Software and the data were processed and analyzed with Fiji software (Schindelin et al., <xref rid="B92" ref-type="bibr">2012</xref>).</p>
+      </sec>
+      <sec>
+        <title>Amphetamine treatments and behavioral tests</title>
+        <p>Mice were injected at ~10 am in their home cage for 3 days with saline only (10 ml/kg/day, i.p.) followed by 7 daily injections of D-amphetamine (Sigma-Aldrich) dissolved in saline (7 mg/kg/day, 10 ml/kg, i.p.), or saline vehicle, followed by 7 days without treatment and then a final challenge with amphetamine (7 mg/kg) or saline. To measure behavior on challenge day, the bedding (nestlet) was removed from the cages of the test mice, the mice received their challenge injection of D-amphetamine (or saline for the control mice) and, 30 min later, a ball of bedding was introduced from a mixture from 10 cages of female mice. Saline-treated mice were challenged again with saline 7 days later and the same test was done, but with bedding re-introduced from their own home cage. Mice were videotaped and their behavior was scored for a 2 min period beginning at 5 min after the introduction of the cage bedding. An experimenter blinded to mouse treatment scored the videotapes using a keyboard scoring system with the public domain software JWatcher™, version 1.0 (University of California, Los Angeles, CA, USA, and Macquarie University, Sidney, Australia, <ext-link ext-link-type="uri" xlink:href="http://www.jwatcher.ucla.edu/">http://www.jwatcher.ucla.edu/</ext-link>). Individual keys were assigned to score resting, locomotion, sniffing or touching bedding, and highly confined stereotypy. The interaction of saline-treated mice with female cage bedding vs. their own home cage bedding was compared by a paired-sample, 2-tailed Student's <italic>t</italic>-tests. The interaction of amphetamine-treated mice vs. saline-treated mice with female cage bedding was compared by an unpaired, 2-tailed Student's <italic>t</italic>-test. Statistical analysis of amphetamine-induced stereotypy and interaction with female bedding was made on mice that carry the ChAT-Cre transgene alone, but equivalent severe stereotypy was observed in all double transgenic CalDAG-GEFI-GFP;ChAT-Cre knock-in mice that were used for recording and c-Fos induction experiments.</p>
+      </sec>
+      <sec>
+        <title>Intrastriatal viral injections</title>
+        <p>ChAT-IRES-Cre mice or double transgenic, CalDAG-GEFI-EGFP-BAC;ChAT-IRES-Cre mice and CalDAG-GEFI-EGFP-BAC;ChAT-ChR2-EYFP BAC mice were maintained in deep anesthesia with a continuous flow of 2% isoflurane (Southmedic Inc.) in an oxygen mixture, delivered by a nose-cone attached to a stereotaxic frame. Mice were given bilateral intrastriatal injections, via NanoFil microsyringe (World Precision Instruments), of AAV5 encoding EF1αDIO hChR2(H134R)-mCherry (University of N. Carolina vector core), 0.75 μl per site, at the following stereotactic coordinates (AP = 0.9 mm, ML = −1.9 mm and +1.9 mm, DV = 2.0 mm and 2.7 mm, relative to bregma). Mice were allowed to fully recover from surgery for 2 weeks prior to the initiation of saline or D-amphetamine injections.</p>
+      </sec>
+      <sec>
+        <title><italic>In vitro</italic> slice preparation and patch-clamp electrophysiology recordings</title>
+        <p>For patch-clamp recording experiments, double transgenic CalDAG-GEFI-GFP BAC;ChAT-Cre knock-in mice and CalDAG-GEFI-GFP BAC;ChAT-ChR2-EYFP BAC mice were given saline or drug treatments beginning at ~2 weeks after intrastriatal viral injection. At 30 min post-injection of saline or drug on the challenge day, mice were anesthetized with Avertin (tribromoethanol) (0.25 mg/g, i.p.), and brain slices were prepared for whole-cell patch-clamp recordings. Slice preparation and recordings were made by an experimenter blinded to the treatment conditions. Mice (2–6 months old) were anesthetized with Avertin (tribromoethanol, 0.25 mg/g, i.p.), and the brains were rapidly removed and immersed in an ice-cold (4°C) slicing solution containing (in mM): 105 mM N-methyl-D-glucamine (NMDG), 105 mM HCl, 2.5 mM KCl, 1.2 mM NaH<sub>2</sub>PO<sub>4</sub>, 26 mM NaHCO<sub>3</sub>, 25 mM glucose, 2 mM thiourea, 1 mM Na-ascorbate, 3 mM Na-pyruvate, 0.5 mM CaCl<sub>2</sub>·4H<sub>2</sub>O, and 10 mM MgSO<sub>4</sub>·7H<sub>2</sub>O. The pH of the solution was titrated to 7.4 with concentrated HCl equilibrated with 95% O<sub>2</sub> and 5% CO<sub>2</sub>, pH 7.4. Coronal corticostriatal slices (270 μm) were cut with a Leica VT1200 microtome. The slices were incubated, initially in the above slicing solution, for 10 min at 32°C, then for 40 min and subsequently at room temperature in artificial cerebrospinal fluid (ACSF) containing (in mM): 124 mM NaCl, 2.5 mM KCl, 1.2 mM NaH<sub>2</sub>PO<sub>4</sub>, 26 mM NaHCO<sub>3</sub>, 10 mM glucose, 2 mM CaCl<sub>2</sub>·4H<sub>2</sub>O, 1 mM MgSO<sub>4</sub>·7H<sub>2</sub>O, equilibrated with 95% O<sub>2</sub> and 5% CO<sub>2</sub>, pH 7.4. The osmolality of all solutions was measured at 300–310 mOsm. Brain slices were transferred from the incubation chamber to the recording chamber and superfused with warmed (32°C), equilibrated (95% O<sub>2</sub> and 5% CO<sub>2</sub>) ACSF at a flow rate of 2 ml/min. Whole-cell recordings were obtained from visually identified dorsolateral striatal neurons with an Olympus BX-51WI microscope (Olympus, Japan) equipped with Nomarski optics, infrared differential interference contrast (DIC) optics (900 nm) and epifluorescence. Whole-cell patch-clamp recordings were obtained from visually identified neurons using borosilicate glass pipettes (King Precision Glass, Inc., Glass type 8250) pulled (P-1000, Sutter Instruments) to a resistance of 2–5 MΩ when filled with the internal solution containing 131 mM K-Gluconate, 17.5 mM KCl, 9 mM NaCl, 10 mM HEPES, 1 mM EGTA, 1 mM Mg-ATP, 0.2 mM Na<sub>2</sub>-GTP, and 1 mM MgCl<sub>2</sub>. The pH was adjusted to 7.3 with KOH (290–300 mOsm). In all recording conditions, access resistance was monitored and cells were included for analysis only if the series resistance was &lt;25 MΩ and the change of resistance was &lt;15% over the course of the experiment. A Digidata 1440A digitizer and pClamp10 (Molecular Devices) were used for data acquisition and analysis, and signals were amplified with a Multiclamp 700B amplifier (Molecular Devices). A holding command of −70 mV was applied to the patched cell, and once the whole-cell mode was established, the cell was allowed to stabilize for 5–10 min. Both SPNs and ChIs were identified by cell-body size and shape and by intrinsic membrane properties. In current-clamp mode, light application evoked depolarization and action potentials in identified mCherry-positive ChIs in all except for one drug-treated, CalDAG-GEFI-GFP BAC;ChAT-Cre knock-in mouse that was therefore dropped from the study. In the single transgenic, virally injected ChAT-Cre knock-in mice and double transgenic CalDAG-GEFI-GFP BAC;ChAT-Cre knock-in mice, a blue LED pulse (10 ms) was used to stimulate ChIs. In the double BAC transgenic CalDAG-GEFI-GFP;ChAT-ChR2-EYFP mice, a hand-controlled shutter was briefly opened to activate the ChIs. For analysis of action potentials in SPNs, each SPN was maintained at resting membrane potential and injected for 800 ms with depolarization currents of 20–200 pA (enough current injection for adequate action potential firing). After a rest of 30 s, the same current sweep was repeated, this time with blue light application at 500 ms after the beginning of current injection. After 1 min of rest, another such pair of no-light/light current sweeps was given but with a slightly higher current injection to induce higher frequency firing. A total of 3 or 4 pairs of no-light/light current sweeps were given to each cell.</p>
+        <p>In recordings from two CalDAG-GEFI-GFP BAC;ChAT-Cre knock-in mice, and additional experiments with double BAC transgenic CalDAG-GEFI-GFP;ChAT-ChR2-EYFP mice, DHβE (1 mM; Tocris, Bristol, UK) was added to the perfusate after the initial recordings and slices were allowed to equilibrate for 30 min before repetition of action potential measurements.</p>
+      </sec>
+      <sec>
+        <title>Electrophysiological data analyses</title>
+        <p>Data were obtained and recorded in ClampFit (Molecular Devices), and the output abf files were converted in MiniAnalysis (SynaptoSoft) to assign the timestamp of each spike. For spike density functions, a 1 kHz sampling rate was used. The value 1 was assigned at each sample that corresponded to a spike time, and the remaining samples were assigned the value 0. The resulting time series was then smoothed with a Hanning window whose half-width was 80 ms.</p>
+        <p>For the Grubbs' test to identify outlier interspike intervals (ISIs), trials of two sweeps (one without blue light pulse, one with) were selected based on the following criteria: (1) the combined pre-light baseline period contained at least 7 ISIs, (2) the pre-light period contained at least two ISIs (no trial failed this test after passing the first test), (3) the combined pre-light baseline ISIs were normally distributed according to the Lilliefors test with alpha = 0.001 (this low alpha value was chosen because of the small sample sizes under examination), and (4) the combined pre-light baseline ISIs did not contain any outliers as determined by the Grubbs' test. All but one neuron had at least one analyzable trial, although in most cases the first trials had too few spikes to analyze. The first ISI was discarded because in some instances it appeared to be longer than the remaining ones. To test for a significant “advanced spike” response, the minimum ISI recorded during the post-light period was added to the pre-light baseline set of ISIs, and the Grubbs' test for an outlier was performed. To test for a “pause” response, the Grubbs' test was performed again but with the maximum post-light ISI added to the pre-light baseline set. If the duration between the last spike of the trial and the termination of current injection was longer than the longest recorded ISI, it was used in place of the maximum ISI. As two Grubbs' tests were performed on each of 123 trials that met our criteria, we used the Bonferroni correction for 246 comparisons to set alpha = 0.0002, corresponding to a <italic>p</italic> level of 0.05 for the entire set of comparisons.</p>
+        <p>The Lilliefors statistical test was performed using the Matlab function “lillietest.” Other tests were performed by in-house code written around the Matlab functions “chi2cdf” (Chi squared tests) and “tinv” (Grubbs' test).</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="s3">
+      <title>Results</title>
+      <sec>
+        <title>Mice engaged in amphetamine-induced repetitive behaviors fail to respond to a sensory cue and exhibit striosome-enriched c-Fos induction</title>
+        <p>To test whether mice with drug-induced stereotypies fail to respond to salient sensory cues, we measured the response of single-housed, amphetamine-treated male mice to the introduction of bedding from female cages to their own cage. To induce stereotypy, mice were treated for 7 days with high-dose D-amphetamine (7.0 mg/kg/day, i.p.), followed by 7 days of no-treatment and then a challenge dose (7.0 mg/kg, i.p.), as previously described (Figure <xref ref-type="fig" rid="F1">1A</xref>; Crittenden et al., <xref rid="B24" ref-type="bibr">2014</xref>). Control mice were treated in parallel with vehicle (saline) injections only. On the challenge day, at 30 min after injection, we introduced a ball of used bedding taken from multiple cages of females. We scored the times the mice spent sniffing the bedding, locomoting or engaging in confined stereotypic behaviors based on a video taken 5 min after the introduction of the female bedding. Control mice spent between 30 and 50% of the time sniffing the female bedding (Figure <xref ref-type="fig" rid="F1">1B</xref>). We compared this level to the times that they interacted with bedding that had been taken from their own home cage and found that they spent significantly more time interacting with the female cage bedding (Figure <xref ref-type="fig" rid="F1">1B</xref>), supporting the interpretation that female cage bedding is a salient cue. By contrast, mice that were treated with repeated amphetamine spent most of their time engaging in stereotypic behaviors, sometimes interrupted by running bouts, and did not interact with the female cage bedding at all (Figure <xref ref-type="fig" rid="F1">1B</xref>).</p>
+        <fig id="F1" position="float">
+          <label>Figure 1</label>
+          <caption>
+            <p><bold>Mice with amphetamine-induced stereotypy fail to engage with a salient sensory cue</bold>. <bold>(A)</bold> Schedule of D-amphetamine or saline injections. <bold>(B)</bold> Analysis of behavior in saline-treated (<italic>n</italic> = 8) or D-amphetamine-treated mice (<italic>n</italic> = 8), for a 2 min videotaped interval at 30 min after injection, and 5 min after the introduction of bedding from female cages, or from their own home cage (for saline-treated only). The saline-treated mice interacted more with the female cage bedding than with bedding that was re-introduced from their own home cage (<sup>*</sup><italic>p</italic> = 1.2 × 10<sup>−3</sup>, paired <italic>t</italic>-test). D-amphetamine-treated mice did not spend any time sniffing the female bedding (<sup>**</sup><italic>p</italic> = 8.1 × 10<sup>−11</sup>, unpaired <italic>t</italic>-test, relative to saline-treated mice with female bedding). Error bars show standard deviations.</p>
+          </caption>
+          <graphic xlink:href="fnana-11-00020-g0001"/>
+        </fig>
+        <p>To test whether the mice exhibiting drug-induced stereotypy had imbalanced striosome-to-matrix ratios of immediate-early gene activation, as occurs in rats and monkeys (Canales and Graybiel, <xref rid="B17" ref-type="bibr">2000</xref>; Saka et al., <xref rid="B88" ref-type="bibr">2004</xref>; Horner et al., <xref rid="B50" ref-type="bibr">2012</xref>; Jedynak et al., <xref rid="B53" ref-type="bibr">2012</xref>), we imaged c-Fos expression in striatal sections taken from D-amphetamine-treated mice (<italic>n</italic> = 4) compared to saline-treated mice (<italic>n</italic> = 4). To detect the striosome and matrix compartments, we used BAC transgenic mice (Gong et al., <xref rid="B42" ref-type="bibr">2007</xref>) with an enhanced GFP reporter for the matrix-enriched signaling molecule, CalDAG-GEFI (Kawasaki et al., <xref rid="B57" ref-type="bibr">1998</xref>; Crittenden et al., <xref rid="B25" ref-type="bibr">2016</xref>). The compartmental selectivity of CalDAG-GEFI-GFP expression followed gradients across the striatum, with the compartmental borders being easiest to identify in the central and lateral parts of the caudoputamen (Figures <xref ref-type="fig" rid="F2">2A–C</xref>). CalDAG-GEFI-GFP mice were treated with D-amphetamine or saline, according to the schedule shown in Figure <xref ref-type="fig" rid="F1">1A</xref>, and brain tissue was taken for analysis 90 min after the challenge injection. Mice that received amphetamine injections, but none of the saline-treated mice, were engaged in stereotypic behaviors at the time of euthanasia. Saline-treated control mice showed low levels of c-Fos expression in cell nuclei distributed across both compartments in the striatum (Figures <xref ref-type="fig" rid="F2">2D–F</xref>). By contrast, the striatum of the D-amphetamine-treated mice showed strong expression of c-Fos in the striosomes, with a lower density of c-Fos-positive nuclei in the surrounding matrix compartment (Figures <xref ref-type="fig" rid="F2">2G–I</xref>).</p>
+        <fig id="F2" position="float">
+          <label>Figure 2</label>
+          <caption>
+            <p><bold>Induction of c-Fos expression is striosome-predominant in D-amphetamine-treated mice</bold>. <bold>(A–C)</bold> Image of GFP fluorescence in a coronal hemisection through the left striatum of a CalDAG-GEFI-GFP BAC transgenic mouse used to differentiate striosomes and matrix <bold>(A)</bold> and co-immunolabeling for the striosome marker, MOR1 <bold>(B)</bold>, with merged image <bold>(C)</bold>. <bold>(D–I)</bold> Sections from transgenic mice treated with repeated saline <bold>(D–F)</bold> or repeated D-amphetamine <bold>(G–I)</bold> showing CalDAG-GEFI-GFP fluorescence <bold>(D,G)</bold> and c-Fos co-immunolabeling (red nuclei) <bold>(E,H)</bold>. Merged images <bold>(F,I)</bold> illustrate the striosome-predominant c-Fos induction by the D-amphetamine challenge injection. Asterisks indicate examples of striosomes. Similar results were observed in 4 saline-treated and 4 D-amphetamine-treated mice.</p>
+          </caption>
+          <graphic xlink:href="fnana-11-00020-g0002"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Cholinergic interneurons of the striatum project their axons into both striosome and matrix compartments of both control and drug-treated mice</title>
+        <p>To allow simultaneous detection of striatal ChIs and striosome-matrix compartments, we crossed the CalDAG-GEFI-GFP BAC mice to ChAT-Cre knock-in mice (Table <xref ref-type="table" rid="T1">1</xref>). In the ChAT-Cre knock-in mice, Cre recombinase is fused to the end of the choline acetyltransferase gene at its endogenous locus (Rossi et al., <xref rid="B87" ref-type="bibr">2011</xref>) so as not to evoke over-expression of the nearby VAChT gene, as has been reported to occur in ChAT BAC transgenic mice (Kolisnyk et al., <xref rid="B60" ref-type="bibr">2013</xref>; Crittenden et al., <xref rid="B24" ref-type="bibr">2014</xref>). We labeled ChIs in the double transgenic mice by intrastriatal injections of an AAV5 virus encoding a Cre-dependent transgene for the mCherry fluorophore fused to channelrhodopsin [Ef1αDIOhChR2(H134R)-mCherry] (Mattis et al., <xref rid="B71" ref-type="bibr">2012</xref>). The infected mCherry-positive cells (Figures <xref ref-type="fig" rid="F3">3A–F</xref>) resembled ChIs in that they were large and appeared scattered across the striatum, contained substantial extra-nuclear cytoplasm in the soma, and had multiple spots in the nucleus that stained for the chromatin-marker DAPI (Matamales et al., <xref rid="B68" ref-type="bibr">2009</xref>). We confirmed that these mCherry-positive neurons expressed the endogenous cholinergic cell marker VAChT in their cell bodies (in cyan in Figures <xref ref-type="fig" rid="F3">3G,H</xref>). Very fine ChI fibers, presumably axons, were present in both the striosomes and matrix (Figure <xref ref-type="fig" rid="F3">3F</xref>). Thicker, presumably dendritic, processes were concentrated in the matrix, with some running along compartment borders and occasionally crossing the borders (Figure <xref ref-type="fig" rid="F3">3F</xref>).</p>
+        <fig id="F3" position="float">
+          <label>Figure 3</label>
+          <caption>
+            <p><bold>Cholinergic interneuron processes in striosomes and matrix of control and D-amphetamine-treated mice</bold>. Striatal sections from CalDAG-GEFI-GFP BAC;ChAT-Cre knock-in mice labeled for GFP in the matrix <bold>(A,D,I,K)</bold>, AAV5 Cre-dependent ChR2-mCherry in ChIs <bold>(B,E,J,L)</bold>, and merged images from double transgenic mice <bold>(C,F,M)</bold> treated with saline <bold>(A–F)</bold> or repeated D-amphetamine <bold>(I–M)</bold>. Immunofluorescence (cyan) for VAChT <bold>(G)</bold> confirms the cholinergic identity of an AAV-infected mCherry-positive neuron <bold>(H)</bold>. Asterisks indicate examples of striosomes.</p>
+          </caption>
+          <graphic xlink:href="fnana-11-00020-g0003"/>
+        </fig>
+        <p>To be sure that the ChI innervation of both striosomes and matrix was maintained after repeated D-amphetamine treatment, we injected the double transgenic mice intrastriatally with the AAV5-ChR2-mCherry, waited for 2 weeks, and then treated the mice with D-amphetamine according to the standard schedule (Figure <xref ref-type="fig" rid="F1">1A</xref>) prior to collection of brain tissue on the challenge day. As in control mice, cholinergic neurons were evident along with dense neuropil from infected ChIs (Figures <xref ref-type="fig" rid="F3">3I–M</xref>).</p>
+        <p>Cholinergic neuropil, though present in both compartments, was not homogenously distributed across the striatum, in accord with previous findings (Graybiel et al., <xref rid="B47" ref-type="bibr">1986</xref>). The cholinergic neuropil distribution was most clearly evident in mice with global labeling for cholinergic cell reporters (double transgenic knock-in ChAT-Cre;Ai32-EYFP mice and single BAC transgenic ChAT-ChR2-EYFP mice, (Table <xref ref-type="table" rid="T1">1</xref>; Figure <xref ref-type="fig" rid="F4">4</xref>). Striosomes, especially in the medial striatum, were often visible as darker regions with reduced densities of large cholinergic processes, both in the ChAT-Cre mice with intrastriatal viral injections and in the ChAT-Cre;Ai32-EYFP knock-in and ChAT-ChR2-EYFP BAC mice.</p>
+        <fig id="F4" position="float">
+          <label>Figure 4</label>
+          <caption>
+            <p><bold>Cholinergic neuropil is not homogenously distributed across the striatum</bold>. Hemi-sections through the left striatum from ChAT-Cre;Ai32-EYFP knock-in <bold>(A–C)</bold> and ChAT-ChR2-EYFP BAC <bold>(D–F)</bold> transgenic mice showing fluorescence labeling of global cholinergic neuropil in green <bold>(A,D)</bold> relative to co-immunolabeling in red for the matrix marker CalDAG-GEFI <bold>(B)</bold> or striosome marker MOR1 <bold>(E)</bold>. <bold>(C,F)</bold> Merged images. Asterisks indicate examples of striosomes.</p>
+          </caption>
+          <graphic xlink:href="fnana-11-00020-g0004"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Cholinergic interneuron activation induces a pause or a spike advance to disrupt SPN firing patterns</title>
+        <p>We made whole-cell patch-clamp recordings from GFP-positive striatal neurons in the matrix and from GFP-negative striatal neurons within striosomes of CalDAG-GEFI-GFP BAC mice (Figures <xref ref-type="fig" rid="F5">5A–F</xref>). With the goal of testing for cholinergic modulation of excitatory inputs to SPNs, we measured the amount of current injection required to induce repetitive spiking activity (rheobase) in striosomal and matrix SPNs. SPNs typically fired regularly at current injection levels above rheobase, and striosomal neurons were more excitable than matrix neurons in the striatal slices taken from mature mice (<italic>n</italic> = 33 striosomal SPNs, <italic>n</italic> = 32 matrix SPNs, from 16 mice; Figures <xref ref-type="fig" rid="F5">5G–I</xref>), as previously reported for slices taken from young mice and rats (Kawaguchi et al., <xref rid="B56" ref-type="bibr">1989</xref>; Miura et al., <xref rid="B77" ref-type="bibr">2007</xref>; Smith et al., <xref rid="B95" ref-type="bibr">2016</xref>).</p>
+        <fig id="F5" position="float">
+          <label>Figure 5</label>
+          <caption>
+            <p><bold>Increased excitability in striosomal SPNs</bold>. <bold>(A–F)</bold> Photomicrograph of the left dorsolateral striatum from a CalDAG-GEFI-GFP BAC transgenic mouse with transmitted light (differential interference contrast) <bold>(A–C)</bold> and epifluorescence <bold>(D–F)</bold> microscopy. Green asterisk denotes matrix, and white denotes a striosome in <bold>(D)</bold>. Patch-clamp recording pipette in contact with a GFP-positive matrix cell <bold>(B,E)</bold> or a striosomal cell <bold>(C,F)</bold>. Black and white arrows point to cell somata patched with a recording pipette. <bold>(G,H)</bold> Current-voltage curve traces from a matrix SPN with rheobase (320 pA) in dark green <bold>(G)</bold> and a striosomal SPN with rheobase (140 pA) in magenta <bold>(H)</bold>. <bold>(I)</bold> Striosomal SPNs (magenta) are more excitable than matrix SPNs (green) as measured by resting membrane potential, current injection for rheobase, spike-firing frequency at rheobase, IV curve, and membrane time constant. <sup>***</sup><italic>p</italic> &lt; 0.0005 by Mann-Whitney Rank Sum test.</p>
+          </caption>
+          <graphic xlink:href="fnana-11-00020-g0005"/>
+        </fig>
+        <p>As a direct test of whether the striatal ChIs can modulate activity in striosomal and matrix SPNs, we then made whole-cell patch-clamp recordings in coronal slices through the striatum of double transgenic CalDAG-GEFI-GFP BAC;ChAT-Cre knock-in mice in which intrastriatal injections of AAV5-ChR2-mCherry had been made (Figures <xref ref-type="fig" rid="F3">3A–F</xref>, <xref ref-type="fig" rid="F6">6A</xref>). At 2 weeks after intrastriatal virus injection, the double transgenic CalDAG-GEFI-GFP BAC;ChAT-Cre knock-in mice began daily saline injections in order that they could serve as controls for comparison to sibling mice treated with D-amphetamine (Figure <xref ref-type="fig" rid="F1">1A</xref>). After the final injection, we prepared brain slices and applied wide-field, 10 ms blue light pulses to the striatal slices (Figure <xref ref-type="fig" rid="F6">6A</xref>). This treatment reliably generated an action potential in ChIs of both saline-treated and amphetamine-treated mice (Figure <xref ref-type="fig" rid="F7">7A</xref>). To test how ChI activation modulated SPN activity, we induced epochs of regular SPN spiking activity by 800 ms current injection sweeps. We then compared SPN responses to current injection alone to the responses elicited 30 s later by the same current injection combined with a 10 ms light pulse beginning at 500 ms after the start of current injection (Figure <xref ref-type="fig" rid="F6">6B</xref>). Most neurons in the control group exhibited a pause or marked reduction in spiking following the light pulse, and some also showed a single spike at short latency after light application, typically followed by a pause (Figures <xref ref-type="fig" rid="F6">6B,C</xref>; <italic>n</italic> = 5 ChAT-Cre knock-in mice with viral expression of ChR2, 35 striatal neurons, 12 from striosomes, 10 from matrix, and 13 from mice with no matrix-GFP label). These effects were found in both single transgenic ChAT-Cre knock-in mice and double transgenic CalDAG-GEFI-GFP BAC;ChAT-Cre knock-in mice (Figure <xref ref-type="fig" rid="F6">6C</xref>). To insure that the responses were not artifacts of light application, we measured the SPN responses in single transgenic CalDAG-GEFI-GFP BAC mice with no ChR2 expression. In these control mice, the light application did not disrupt firing at all (data not shown).</p>
+        <fig id="F6" position="float">
+          <label>Figure 6</label>
+          <caption>
+            <p><bold>ChI activation disrupts spiking pattern in striosomal and matrix SPNs, but not after D-amphetamine treatment. (A)</bold> Cartoon of slice recording set-up with ChI (yellow), matrix SPN (green) and striosomal SPN (magenta) in a mouse with CalDAG-GEFI-GFP labeling in the matrix and blue light responsive ChR2 in the ChIs. <bold>(B)</bold> A timeline showing the schedule of paired 800 ms current injections used, with light pulse during the second sweep. Examples of a pause (top trace) and a spike advance followed by a pause (bottom trace) after optogenetic activation of ChIs (at blue line). <bold>(C,D)</bold> Raster plots (upper) and spike density functions (lower) of all of the spikes recorded across all sweeps (one trial per row) from saline-treated <bold>(C)</bold> and D-amphetamine-treated <bold>(D)</bold> mice. In the raster plots, matrix SPN spikes are in green, striosomal SPN spikes in magenta and compartmentally unidentified SPN spikes from single transgenic ChAT-Cre knock-in mice in black. Spike density functions are averaged over all trials from identified matrix (green) and striosomal (magenta) SPNs. The blue line indicates the onset of 10 ms light stimulus. Gray shading denotes the “baseline” period (270–800 ms after the start of the first current injection) and the “pre-light” period (from 270 ms after the start of the second current injection until light onset). Yellow shading denotes the “response” period (from 40 to 150 ms after light onset).</p>
+          </caption>
+          <graphic xlink:href="fnana-11-00020-g0006"/>
+        </fig>
+        <fig id="F7" position="float">
+          <label>Figure 7</label>
+          <caption>
+            <p><bold>ChI spike responses to blue-light stimulation</bold>. Black traces show that ChIs, expressing ChR2-mCherry from AAV5 injections, fired single action potentials in response to 10 ms blue light pulses (vertical blue lines) in striatal slices from saline-treated <bold>(A)</bold> and D-amphetamine-treated <bold>(B)</bold> CalDAG-GEFI-GFP BAC;ChAT-Cre knock-in mice.</p>
+          </caption>
+          <graphic xlink:href="fnana-11-00020-g0007"/>
+        </fig>
+        <p>Responses of a given SPN to the ChI activation were generally consistent across different trials at different current intensities, as shown in Figures <xref ref-type="fig" rid="F8">8A–C</xref>. SPNs typically exhibited one of three response types: advanced spike followed by a pause, pause only (without advanced spike), and non-responsive. The pause response was observed more frequently than the advanced spike response, but there was one exceptional neuron that responded to the light with advanced spikes but no pause (Table <xref ref-type="table" rid="T2">2</xref>). In neurons with advanced spikes, the extra spikes were limited to a time window of about 40 or 50 ms after light onset (Figure <xref ref-type="fig" rid="F8">8D</xref>). To quantify these differences, we developed a statistical analysis to detect both increases and decreases in firing rate on a trial-by-trial basis. For each trial, ISIs were calculated for spikes in three time windows (Figure <xref ref-type="fig" rid="F6">6C</xref>): the first current injection (“baseline”), the portion of the second current injection preceding the light (“pre-light”), and the remainder of the second current injection (“post-light”). We then used Grubbs' test (see Materials and Methods) for outliers to determine whether the shortest and/or the longest post-light ISIs could be considered outliers in the context of the pre-light baseline ISIs. By this method, we found that both the pause and the advanced spike responses (Table <xref ref-type="table" rid="T2">2</xref>) were statistically significant.</p>
+        <fig id="F8" position="float">
+          <label>Figure 8</label>
+          <caption>
+            <p><bold>ChI activation induces a pause or a spike that disrupts SPN spike-timing patterns</bold>. Raster plots (top) and trial-averaged spike density functions (bottom) grouped according to neuronal response type. SPN types are color coded as in Figure <xref ref-type="fig" rid="F6">6</xref>. To show which trials belong to an individual SPN, spikes from odd-numbered neurons within each color group are plotted as plus signs, and those from even-numbered as diamonds (one trial per row). <bold>(A–C)</bold> SPNs recorded in saline-treated mice, showing advanced spike response <bold>(A)</bold>, pause response <bold>(B)</bold> or no response <bold>(C)</bold>. <bold>(D)</bold> Expanded time scale showing SPNs with advanced spike response in saline-treated mice. <bold>(E,F)</bold> SPNs recorded in D-amphetamine-treated mice, showing pause response in 4 neurons <bold>(E)</bold> or no response <bold>(F)</bold>.</p>
+          </caption>
+          <graphic xlink:href="fnana-11-00020-g0008"/>
+        </fig>
+        <table-wrap id="T2" position="float">
+          <label>Table 2</label>
+          <caption>
+            <p><bold>Response types of neurons in saline-treated control mice</bold>.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>35 analyzed neurons</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>Matrix (<italic>n</italic> = 10)</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>Striosomal (<italic>n</italic> = 12)</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>Unidentified (<italic>n</italic> = 13)</bold>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Pause</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">7</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">10</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">8</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Advanced</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">7</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Both</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Neither</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p><italic>If a neuron showed a statistically significant pause response in at least one trial, then it was counted as having a pause response, and similarly for advanced spike responses</italic>.</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Striosomal SPNs can be more responsive to ChI modulation than matrix SPNs</title>
+        <p>To calculate the statistical significance of the striosomal and matrix SPN responses to light, we compared the total numbers of spikes in the response period from 40 to 150 ms after light onset to the numbers of spikes in the baseline and pre-light time windows (Figure <xref ref-type="fig" rid="F6">6C</xref>). We added the spike counts in the baseline and pre-light windows, and then performed a chi-squared test with Yates' correction comparing the actual spike counts in the response window and combined pre-light baseline window with the values expected under the null hypothesis that the light had no effect. The entire procedure was repeated separately for identified striosomal SPNs and identified matrix SPNs (Table <xref ref-type="table" rid="T3">3</xref>). Striosomal SPNs as a group showed a significant effect of the light at a substantially lower <italic>p</italic> level than did the matrix group (<italic>p</italic> = 1.2 × 10<sup>−7</sup> vs. <italic>p</italic> = 0.009). To verify that this difference reflected a stronger response to the light in striosomal SPNs, we performed a chi-squared test for dependence between the effects of neuron type (striosomal vs. matrix) and time window (pre-light baseline vs. response). The null hypothesis of no difference between striosomal and matrix SPNs was rejected with a significance level of <italic>p</italic> = 0.016 for the slice recordings from saline-treated mice. When aggregating spike counts across different neurons, the results will be dominated by the highest firing neurons. There were 3 out of 22 compartment-identified SPNs in the saline-treated group and 1 out of 14 compartment-identified SPNs in the amphetamine-treated group that had spike counts during the combined pre-light baseline window that were more than 1.5 times the aggregated median value. We repeated the statistical analysis after excluding these neurons (Table <xref ref-type="table" rid="T4">4</xref>) and found with a chi-squared test that the group of striosomal SPNs still showed a trend to be more significantly affected than the matrix SPNs, but now with a non-significant <italic>p</italic> = 0.14. Just as before the exclusion of the more highly firing neurons, both the striosomal and matrix SPNs were found to be responsive to ChI-mediated modulation (<italic>p</italic> = 9 × 10<sup>−5</sup> for striosomal vs. <italic>p</italic> = 0.024 for matrix SPNs).</p>
+        <table-wrap id="T3" position="float">
+          <label>Table 3</label>
+          <caption>
+            <p><bold>Chi-squared test results for effect of light on total spike count</bold>.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>
+                    <italic>p</italic>
+                  </bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>Striosomal</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>Matrix</bold>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Saline</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.2 × 10<sup>−7</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.009</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Drug</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.30</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.32</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <table-wrap id="T4" position="float">
+          <label>Table 4</label>
+          <caption>
+            <p><bold>Chi-squared test results for effect of light after excluding high-firing neurons</bold>.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>
+                    <italic>p</italic>
+                  </bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>Striosomal</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>Matrix</bold>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Saline</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">9 × 10<sup>−5</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.024</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Drug</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.30</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.44</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Firing activity of striosomal and matrix SPNs is resistant to ChI-mediated disruption in mice with drug-induced stereotypy</title>
+        <p>To test whether SPNs from mice in a state of severe repetitive behavior exhibit abnormalities in the ChI-to-SPN signaling microcircuit, we recorded in slices taken from mice engaged in amphetamine-induced stereotypy (<italic>n</italic> = 4 ChAT-Cre knock-in mice with viral expression of ChR2, 24 striatal neurons, 7 from striosomes, 7 from matrix, and 10 from mice with no matrix-GFP label). On the amphetamine challenge day, we isolated brain tissue at the 30 min time-point after D-amphetamine injection and prepared striatal sections for whole-cell recording (Figure <xref ref-type="fig" rid="F1">1A</xref>). The drug-treated mice were confirmed to be in a state of stereotypy at the time of tissue collection. ChIs in the dorsal striatum of slices from the drug-treated mice responded reliably to light stimulation (Figure <xref ref-type="fig" rid="F7">7B</xref>) except in one mouse; data from this mouse were not included in the analyses. We did not analyze baseline activity of ChI activity in control or drug-treated mice but, rather, tested whether SPNs responded differently to the single spike induced by optogenetic stimulation of the ChIs.</p>
+        <p>The raster plots and spike density plots of the striosomal and matrix SPN responses to ChI stimulation showed a severely blunted SPN response in the slices from D-amphetamine-treated mice (Figure <xref ref-type="fig" rid="F6">6D</xref>). We evaluated the significance of the responses by performing chi-squared tests with Yates' correction to compare the spike counts in the post-light time-window and the baseline plus pre-light spike counts with the values expected under the null hypothesis that the light had no effect. These tests showed that neither striosomal nor matrix SPN firing frequencies showed a significant response to the light (<italic>p</italic> = 0.4 for striosomal SPNs and <italic>p</italic> = 0.4 for matrix SPNs). We performed a chi-squared test for dependence between the effects of neuron type (striosomal vs. matrix) and time window (pre-light baseline vs. response) and found that no difference was apparent (<italic>p</italic> = 0.9). Although there were some neurons that showed a response to the light after D-amphetamine treatment (Table <xref ref-type="table" rid="T5">5</xref>; Figure <xref ref-type="fig" rid="F8">8E</xref>), the proportion of SPNs that responded was much lower in the drug-treated group (Figure <xref ref-type="fig" rid="F8">8F</xref>) than in the saline-treated group (22% vs. 74% respectively), and this difference was significant by Fisher's exact test (<italic>p</italic> = 1.3 × 10<sup>−4</sup>).</p>
+        <table-wrap id="T5" position="float">
+          <label>Table 5</label>
+          <caption>
+            <p><bold>Response types of SPNs in D-amphetamine-treated mice</bold>.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>23 analyzed neurons</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>Matrix (<italic>n</italic> = 7)</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>Striosomal (<italic>n</italic> = 7)</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>Unidentified (<italic>n</italic> = 9)</bold>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Pause</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Advanced</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Both</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Neither</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">7</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>To confirm that our results were not unique to virally mediated expression of ChR2, we also made recordings in double BAC transgenic CalDAG-GEFI-GFP;ChAT-ChR2-EYFP mice that had global cholinergic expression of a ChR2 transgene (<italic>n</italic> = 5 mice) and that were treated with either repeated saline or repeated D-amphetamine (Figure <xref ref-type="fig" rid="F1">1A</xref>). For these tests, we administered blue light with a manually controlled shutter, thus inducing multiple spikes in the ChIs of saline-treated and D-amphetamine-treated mice (Figures <xref ref-type="fig" rid="F9">9A,B</xref>). We recorded from 7 SPNs that were CalDAG-GEFI-GFP-positive (matrix) and 7 SPNs that were in CalDAG-GEFI-GFP-negative zones (striosomes). In the saline-treated preparations, we observed that the spiking pattern of both striosomal and matrix SPNs could be disrupted by a pause or by a spike advance (Figures <xref ref-type="fig" rid="F9">9C–F</xref>), as we had found for the SPN responses in ChAT-Cre knock-in mice with virally expressed ChR2. However, in slices taken from the amphetamine-treated mice expressing severe D-amphetamine-induced stereotypy (<italic>n</italic> = 5 mice, 29 striatal SPNs, 13 from striosomes, 16 from matrix), the striosomal and matrix SPNs no longer responded to light (Figures <xref ref-type="fig" rid="F9">9G,H</xref>). Thus, ChI activation normally produced a pause or spike-advance in the regular firing pattern of striosomal and matrix SPNs in brain slices from two different lines of transgenic mice but these effects were blocked in slices taken from amphetamine-treated mice exhibiting drug-induced stereotypic behavior.</p>
+        <fig id="F9" position="float">
+          <label>Figure 9</label>
+          <caption>
+            <p><bold>ChI activation disrupts spiking patterns in striosomal and matrix SPNs by a pause or an advanced spike in ChAT-ChR2-EYFP BAC mice and the effect is blocked by D-amphetamine treatment. (A,B)</bold> ChIs showed a burst of firing in response to shutter-controlled blue light application (designated by horizontal blue lines) in striatal sections from saline-treated <bold>(A)</bold> and D-amphetamine-treated <bold>(B)</bold> ChAT-ChR2-EYFP BAC mice. <bold>(C–F)</bold> Current-induced spiking in striosomal (magenta, <bold>C,E</bold>) and matrix (green, <bold>D,F</bold>) SPNs is disrupted by an advanced spike <bold>(C,D)</bold> or a pause <bold>(E,F)</bold> after blue-light application. <bold>(G,H)</bold> The striosomal (magenta, <bold>G</bold>) and matrix (green, <bold>H</bold>) SPN responses to ChI activation with blue light is blocked in sections from D-amphetamine-treated mice.</p>
+          </caption>
+          <graphic xlink:href="fnana-11-00020-g0009"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>D-amphetamine treatment did not induce a chronic, baseline failure in the ability of ChIs to disrupt SPN firing patterns</title>
+        <p>Repeated methamphetamine treatments can produce prolonged changes in baseline striatal acetylcholine signaling (Bamford et al., <xref rid="B8" ref-type="bibr">2008</xref>). To test whether the ChI to SPN signaling phenotype that we observed in drug-treated mice was due to a baseline change in SPN responsivity, we treated mice with the same 7-day drug treatment schedule but challenged them with saline, not amphetamine, prior to recording (<italic>n</italic> = 2 mice, 10 striatal neurons, 3 from striosomes, 3 from matrix, and 4 from mice with no matrix-GFP label). As before, we harvested brain slices at 30 min after the challenge, and we confirmed, in every slice, that ChIs responded to the 10 ms light pulse with a spike. Optogenetic stimulation of ChIs in striatal slices taken from these mice appeared to disrupt SPN spike-timing just as in mice that had never been exposed to drug (Figure <xref ref-type="fig" rid="F10">10</xref>). A chi-squared test comparing spike density in the baseline and pre-light periods to the period after light application (periods highlighted in Figure <xref ref-type="fig" rid="F10">10</xref>) showed that there was a significant effect in each mouse that was tested (<italic>p</italic> = 0.0013 and <italic>p</italic> = 4.2 × 10<sup>−5</sup>), and when the results from both mice were combined, the value was <italic>p</italic> = 4.6 × 10<sup>−7</sup>.</p>
+        <fig id="F10" position="float">
+          <label>Figure 10</label>
+          <caption>
+            <p><bold>Striosomal and matrix SPN responses to ChI activation were maintained in mice that received repeated D-amphetamine treatment but were challenged with saline only</bold>. Raster plots (upper) and spike density functions (lower) of all of the spikes recorded across all sweeps (one trial per row). In the raster plots, matrix SPN spikes are in green, striosomal SPN spikes in magenta and compartmentally unidentified SPN spikes from single transgenic ChAT-Cre knock-in mice in black. To show which trials belong to an individual SPN, spikes from odd-numbered neurons are plotted as plus signs, and those from even-numbered as diamonds. Spike density functions are averaged over all trials from identified matrix (green) and striosomal (magenta) SPNs. The blue line indicates the onset of 10 ms light stimulus. Gray shading denotes the “baseline” and “pre-light” periods and yellow shading denotes the “response” period.</p>
+          </caption>
+          <graphic xlink:href="fnana-11-00020-g0010"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>The disruption of striosomal and matrix SPN firing pattern by ChI activation is dependent on nicotinic acetylcholine receptors</title>
+        <p>ChI signaling can drive disynaptic inhibition in SPNs by activating nicotinic receptors on nearby terminals (Miura et al., <xref rid="B76" ref-type="bibr">2006</xref>; English et al., <xref rid="B30" ref-type="bibr">2012</xref>; Tritsch et al., <xref rid="B106" ref-type="bibr">2012</xref>; Luo et al., <xref rid="B65" ref-type="bibr">2013</xref>; Nelson et al., <xref rid="B82" ref-type="bibr">2014b</xref>; Faust et al., <xref rid="B32" ref-type="bibr">2015</xref>). We tested whether bath application of the α4β2 nicotinic receptor antagonist, DHβE, would block the response to ChI stimulation that we found in striosomal and matrix SPNs. We recorded from 4 SPNs in the CalDAG-GEFI-GFP-negative (striosomes) and 2 CalDAG-GEFI-GFP-positive (matrix) SPNs, all of which responded with a pause or a spike-advance to the optogenetic stimulation of ChIs (examples shown in Figures <xref ref-type="fig" rid="F11">11A,B</xref>, left panels). After bath application of DHβE, these same 6 SPNs no longer responded to the light (Figures <xref ref-type="fig" rid="F11">11A,B</xref>, right panels). Similarly, in ChAT-ChR2-EYFP BAC mice, bath-applied DHβE blocked the light-induced responses of 8/10 SPNs (Figure <xref ref-type="fig" rid="F11">11C</xref>).</p>
+        <fig id="F11" position="float">
+          <label>Figure 11</label>
+          <caption>
+            <p><bold>Nicotinic acetylcholine antagonism blocks the ChI disruption of SPN spiking activity. (A,B)</bold> Current-induced spiking in striosomal <bold>(A)</bold> and matrix <bold>(B)</bold> SPNs from CalDAG-GEFI-GFP BAC;ChAT-Cre knock-in mice is disrupted by blue light pulse (left traces) but the effect is blocked after application of DHβE (right traces). <bold>(C)</bold> Spiking in two SPNs from ChAT-ChR2-EYFP BAC mice that showed an advanced spike or pause response (left traces) that was blocked after application of DHβE (right traces).</p>
+          </caption>
+          <graphic xlink:href="fnana-11-00020-g0011"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="s4">
+      <title>Discussion</title>
+      <sec>
+        <title>ChIs send abundant axonal projections into striosomes and matrix circuits implicated in selecting behavioral responses to salient cues</title>
+        <p>Stereotypy can be viewed as an extreme loss of behavioral flexibility (Graybiel, <xref rid="B46" ref-type="bibr">2008</xref>) and loss of responsiveness to salient cues, a feature recognized in individuals with disorders on the autism spectrum (Gotham et al., <xref rid="B44" ref-type="bibr">2007</xref>). Presentation of an instructive cue induces a semi-synchronized response in striatal ChIs consisting of a brief activation followed by a pause in spiking and then a rebound activation before a return to unsynchronized, tonic firing (Aosaki et al., <xref rid="B6" ref-type="bibr">1994b</xref>; Minamimoto and Kimura, <xref rid="B75" ref-type="bibr">2002</xref>; Goldberg and Reynolds, <xref rid="B41" ref-type="bibr">2011</xref>; Doig et al., <xref rid="B29" ref-type="bibr">2014</xref>; Thorn and Graybiel, <xref rid="B102" ref-type="bibr">2014</xref>). A leading hypothesis is that this ChI response is important for an animal's ability to adapt its behavior in accordance with predicted outcomes (Minamimoto et al., <xref rid="B73" ref-type="bibr">2005</xref>; McCool et al., <xref rid="B72" ref-type="bibr">2008</xref>; Brown et al., <xref rid="B14" ref-type="bibr">2010</xref>; Ding et al., <xref rid="B27" ref-type="bibr">2010</xref>; Goldberg and Reynolds, <xref rid="B41" ref-type="bibr">2011</xref>; Okada et al., <xref rid="B84" ref-type="bibr">2014</xref>). The response of ChIs to cue presentation is dependent upon inputs from the sensory thalamus, the dopaminergic system and the cerebral cortex (Aosaki et al., <xref rid="B4" ref-type="bibr">1994a</xref>; Goldberg and Reynolds, <xref rid="B41" ref-type="bibr">2011</xref>; Doig et al., <xref rid="B29" ref-type="bibr">2014</xref>). Inputs from sensory thalamus to ChI dendrites are matrix-preferring (Fujiyama et al., <xref rid="B36" ref-type="bibr">2006</xref>; Raju et al., <xref rid="B86" ref-type="bibr">2006</xref>). Consistently, we observed that ChI dendrites appeared slightly more prominent in the matrix compartment, relative to the high abundance of ChI axons in both striosomes and matrix. Thus, ChI dendrites, as well as labeling of matrix-preferring inputs from brainstem cholinergic projections (Dautan et al., <xref rid="B26" ref-type="bibr">2014</xref>), likely account for the overall matrix-enriched expression of transgene reporters, immunomarkers and chemical markers for cholinergic processes (Graybiel et al., <xref rid="B47" ref-type="bibr">1986</xref>; Crittenden et al., <xref rid="B24" ref-type="bibr">2014</xref>).</p>
+        <p>Psychomotor stimulants are well known to induce stereotypic behaviors, and in accordance with this linkage, we found that after repeated high-dose D-amphetamine treatment, male mice were engaged in stereotypy and failed to respond when we introduced the normally salient stimulus of bedding taken from female cages. Multiple brain regions and signaling mechanisms are implicated in evoking stereotypic behaviors of different sorts (Berridge, <xref rid="B10" ref-type="bibr">2006</xref>; Mason and Rushen, <xref rid="B67" ref-type="bibr">2008</xref>). In the dorsal striatum, dopaminergic and cholinergic signaling modulate drug-induced stereotypic behaviors (Capper-Loup et al., <xref rid="B18" ref-type="bibr">2002</xref>; Aliane et al., <xref rid="B2" ref-type="bibr">2011</xref>; Crittenden and Graybiel, <xref rid="B23" ref-type="bibr">2016</xref>). Both increases and decreases in acetylcholine signaling have been implicated in the induction of stereotypic behavior, highlighting how a <italic>balance</italic> of neurotransmitter effects may be what is key to preventing this pathological behavior. For example, the ablation or inhibition of ChI signaling in the striosome-rich anteromedial dorsal striatum prolongs cocaine-induced stereotypy in rats (Aliane et al., <xref rid="B2" ref-type="bibr">2011</xref>), but as well, mice with abnormally high levels of VAChT, thought to augment acetylcholine release, exhibit increased amphetamine-induced stereotypy (Crittenden et al., <xref rid="B24" ref-type="bibr">2014</xref>). Stimulation of the ionotropic nicotinic receptors increases motoric responses to cocaine and amphetamine (Schoffelmeer et al., <xref rid="B93" ref-type="bibr">2002</xref>; Collins and Izenwasser, <xref rid="B20" ref-type="bibr">2004</xref>), whereas antagonism of the slower metabotropic muscarinic signaling system generally increases cocaine-induced responses, including stereotypy (Thomsen et al., <xref rid="B101" ref-type="bibr">2010</xref>; Aliane et al., <xref rid="B2" ref-type="bibr">2011</xref>). Thus, the relationship between cholinergic signaling and stereotypy is complex, with contradictory observations being reported. Some ideas that may help reconcile them are (1) muscarinic and nicotinic transmission may in general have opposite effects, (2) disrupting cholinergic transmission in different districts of the striatum has different effects, and so (3) stereotypies may be controlled both by stimulation and by inhibition of cholinergic transmission, depending on exactly where and how the stimulation or inhibition is accomplished. How this relates to the role of acetylcholine in cue-detection remains unknown.</p>
+      </sec>
+      <sec>
+        <title>Drugs of abuse and imbalanced striosome vs. matrix gene activation</title>
+        <p>With repeated administration of psychomotor stimulants, overall gene induction in the matrix of the dorsal striatum is suppressed relative to control treatments (Steiner and Gerfen, <xref rid="B96" ref-type="bibr">1995</xref>; Nguyen et al., <xref rid="B83" ref-type="bibr">2009</xref>), and the striosome-to-matrix ratio of c-Fos immediate-early gene induction is increased (Graybiel et al., <xref rid="B48" ref-type="bibr">1990</xref>; Canales and Graybiel, <xref rid="B17" ref-type="bibr">2000</xref>; Vanderschuren et al., <xref rid="B107" ref-type="bibr">2002</xref>; Saka et al., <xref rid="B88" ref-type="bibr">2004</xref>; Jedynak et al., <xref rid="B53" ref-type="bibr">2012</xref>). By contrast, rats engaged in normal behaviors in their home cage are reported to have similar levels of metabolic activity in the two compartments (Brown et al., <xref rid="B15" ref-type="bibr">2002</xref>). Experiments aimed at directly ablating striosomes in rats by intrastriatal injection of MOR1-binding toxins (Tokuno et al., <xref rid="B104" ref-type="bibr">2002</xref>; Lawhorn et al., <xref rid="B63" ref-type="bibr">2009</xref>) have been reported to result in reduced stereotypic responses to methamphetamine and increased c-Fos induction in the matrix (Murray et al., <xref rid="B80" ref-type="bibr">2014</xref>). Our experimental mice showed the expected imbalance in striosome-to-matrix c-Fos induction after a challenge injection of D-amphetamine, with strong nuclear c-Fos immunoreactivity in neurons of GFP-negative striosomes and low levels of c-Fos in neurons of the surrounding matrix. The saline-treated mice showed low-level c-Fos immunostaining that was similar across the compartments. The predominant striosomal activity in drug-treated animals, as measured by the proxy of c-Fos induction, could serve to minimize excess dopamine release driven by drugs of abuse. This speculation would fit with a bare-bones circuit model whereby relative activation of striosomal SPNs directly inhibits dopamine-containing neurons in the substantia nigra pars compacta, and relative silencing of matrix SPNs disinhibits substantia nigra reticulata neurons that thereby are released to inhibit the dopamine-containing neurons.</p>
+      </sec>
+      <sec>
+        <title>ChI modulation of SPN spike firing patterns in striosomal and matrix SPNs</title>
+        <p>The electrophysiological response of SPNs to direct ChI stimulation has been previously described without classification of striosomal or matrix cell type and thus should favor those in the matrix, which makes up most of the total volume of the striatum. Analyses of SPN responses to ChI stimulation have shown that there are multiple inhibitory post-synaptic currents with fast, slow and very slow time-courses (English et al., <xref rid="B30" ref-type="bibr">2012</xref>), and small excitatory post-synaptic currents (Higley et al., <xref rid="B49" ref-type="bibr">2011</xref>). The inhibitory effects can be transmitted from ChIs to SPNs disynaptically, via nicotinic receptor-mediated release of GABA from neurogliaform and tyrosine hydroxylase-positive striatal interneurons (English et al., <xref rid="B30" ref-type="bibr">2012</xref>; Luo et al., <xref rid="B65" ref-type="bibr">2013</xref>; Faust et al., <xref rid="B33" ref-type="bibr">2016</xref>), from other SPNs (Miura et al., <xref rid="B76" ref-type="bibr">2006</xref>), or from dopamine-containing afferents (Tritsch et al., <xref rid="B106" ref-type="bibr">2012</xref>; Nelson et al., <xref rid="B82" ref-type="bibr">2014b</xref>). Acetylcholine can also inhibit SPNs via muscarinic receptors on SPNs (Clements et al., <xref rid="B19" ref-type="bibr">2013</xref>) and via muscarinic receptor-mediated suppression of glutamate release from cortical terminals (Ding et al., <xref rid="B27" ref-type="bibr">2010</xref>). The effects of ChI activation on striatal microcircuits can be particularly powerful, at least as measured in slice preparations, in that single spikes of ChIs can promote nicotinic receptor-mediated release of GABA and recurrent inhibition (Sullivan et al., <xref rid="B98" ref-type="bibr">2008</xref>; Inoue et al., <xref rid="B52" ref-type="bibr">2016</xref>). The findings raise the possibility that the prominent pause in tonic ChI activity might in fact be preceded by a single, instructive ChI action potential. We found that optogenetic induction of a single spike in ChIs in striatal slices could induce both a brief pause of evoked firing activity and a spike advance in striatal SPNs. Prolonged ChI stimulation appeared to have the same brief consequence on SPN firing patterns.</p>
+        <p>Relative to SPNs in the matrix, we found that striosomal SPNs showed a greater response to ChI stimulation. Considering the diversity of SPN cell types (Gokce et al., <xref rid="B40" ref-type="bibr">2016</xref>), a larger sample of neurons would make this conclusion firmer. We found that the SPN responses to ChI activation were blocked by bath application of the β2 nicotinic receptor antagonist, DhβE, consistent with a disynaptic inhibition microcircuit, such as that relayed by nicotinic acetylcholine receptors on GABAergic terminals. All together, these results suggest that there may be greater nicotinic receptor-dependent transmission from GABAergic terminals onto at least some striosomal SPNs than onto matrix SPNs. We and others previously found that subsets of nigral neurons (Gerfen et al., <xref rid="B39" ref-type="bibr">1987</xref>; Jimenez-Castellanos and Graybiel, <xref rid="B54" ref-type="bibr">1987</xref>; Prensa and Parent, <xref rid="B85" ref-type="bibr">2001</xref>; Crittenden et al., <xref rid="B25" ref-type="bibr">2016</xref>), which from their positions are likely overlapping with those that synthesize GABA (Kim et al., <xref rid="B58" ref-type="bibr">2015</xref>), appeared to project more abundantly to striosomes than to the matrix. Thus, striosome-enriched terminals from GABAergic dopamine-containing neurons are one potential source of the increased ChI-mediated inhibition of striosomal neurons.</p>
+        <p>Friedman and colleagues found that relatively selective activation of striosomal SPNs, induced by optogenetic manipulation of prelimbic cortex input fibers, biased rats' cost-benefit trade-off decisions in a T-maze task, so that rats were biased to choose the high-cost/high-value arm over the low-cost/low-value arm (Friedman et al., <xref rid="B34" ref-type="bibr">2015</xref>). This effect appeared to be mediated by a microcircuit in which the activity of high-firing inhibitory interneurons of the striatum was normally enhanced by prelimbic cortical inputs during the trade-off task, leading to suppression of putative striosomal prelimbic-recipient SPNs, but not of non-prelimbic-recipient SPNs of the extrastriosomal matrix. Our results here suggest that other microcircuits, involving ChIs, could be important for the relative inhibition, or disruption of spike timing, in striosomes. It is clearly of great interest that these two classes of striatal interneurons both appear to affect SPN spike timing, a fundamental characteristic of circuit organization and plasticity.</p>
+        <p>In some instances, and in both compartments, we observed an SPN spike that occurred within 40–50 ms of the light application, and sometimes much sooner, raising the possibility of monosynaptic transmission from ChIs to SPNs. Considering that evidence is sparse for nicotinic acetylcholine receptor mediated currents in SPNs (Luo et al., <xref rid="B65" ref-type="bibr">2013</xref>), these responses could more likely be mediated by glutamate. VGluT3 glutamate transporters are enriched in subsets of ChIs (Gras et al., <xref rid="B45" ref-type="bibr">2008</xref>; Stensrud et al., <xref rid="B97" ref-type="bibr">2013</xref>), and glutamate released from ChIs in the dorsal striatum can induce fast excitatory post-synaptic responses in striatal interneurons (Luo et al., <xref rid="B65" ref-type="bibr">2013</xref>; Nelson et al., <xref rid="B81" ref-type="bibr">2014a</xref>) and in SPNs (Higley et al., <xref rid="B49" ref-type="bibr">2011</xref>).</p>
+      </sec>
+      <sec>
+        <title>Cholinergic signaling in the striosome and matrix compartments is disrupted in slices taken from mice engaged in drug-induced stereotypy</title>
+        <p>Normally, electrically evoked dopamine release is slightly higher in the matrix than in striosomes (Brimblecombe and Cragg, <xref rid="B13" ref-type="bibr">2015</xref>; Salinas et al., <xref rid="B90" ref-type="bibr">2016</xref>), but in mice in which striosomal neurons are identifiable by Nr4a1-GFP, the ratio is reversed by acute application of cocaine to the brain slices (Salinas et al., <xref rid="B90" ref-type="bibr">2016</xref>). These findings in striatal slices suggest that cocaine disrupts local circuits that maintain the baseline striosome-to-matrix ratio of dopamine signaling. In brain slices from drug-naive rats and mice, neurokinin 1 (NK1) receptor agonists have differential effects on evoked dopamine release in the striosomes and matrix, and these agonist effects are partially affected by cholinergic blockade (Tremblay et al., <xref rid="B105" ref-type="bibr">1992</xref>; Brimblecombe and Cragg, <xref rid="B13" ref-type="bibr">2015</xref>). Part of the effect might also be mediated by somatostatin-containing interneurons (Brimblecombe and Cragg, <xref rid="B13" ref-type="bibr">2015</xref>), which tend to lie near striosomal borders. The possibility that striatal interneurons might mediate direct striosome-matrix communication is further supported by the finding that striatal injection of an NK1 receptor-coupled toxin ablates ChIs and somatostatin-positive interneurons and causes a disruption to the pattern of heightened c-Fos induction in striosomes induced by dopamine agonists (Saka et al., <xref rid="B88" ref-type="bibr">2004</xref>). We have found that ChIs do indeed modulate spike-timing of striosomal and matrix neurons in drug-naive mice and that this modulation is severely blunted in slices taken from mice treated with a schedule of D-amphetamine that induces an imbalance in the striosome-to-matrix ratio of c-Fos expression.</p>
+        <p>Repeated exposure to psychomotor stimulants strongly impacts ChI signaling in the dorsal striatum (Wang et al., <xref rid="B109" ref-type="bibr">2013</xref>), including partial inhibition of nicotinic acetylcholine receptor mediated dopamine release as measured by fast-scan cyclic voltammetry in slices (Acevedo-Rodriguez et al., <xref rid="B1" ref-type="bibr">2014</xref>). This effect may be a compensatory response to over-stimulation of the dopamine system, considering that ChIs drive nicotinic acetylcholine receptor mediated dopamine release (Zhou et al., <xref rid="B112" ref-type="bibr">2001</xref>; Cachope et al., <xref rid="B16" ref-type="bibr">2012</xref>; Threlfell et al., <xref rid="B103" ref-type="bibr">2012</xref>). Consistently, DHβE application reduces electrically evoked dopamine release in both striosome and matrix compartments (Salinas et al., <xref rid="B90" ref-type="bibr">2016</xref>). We confirmed that optogenetic stimulation induced a spike in ChIs in slices from drug-treated mice, but we did not examine whether baseline ChI firing rates or acetylcholine release were impaired. Thus, whether the ChI-to-SPN signaling defects are pre- or post-synaptic, or both, remains to be tested. Regardless of the mechanism, if semi-synchronized signaling from ChIs to SPNs is important for responsiveness to salient cues, one consequence of drug-repressed cholinergic signaling could be a loss of normal engagement with the environment. When the ChI signaling across striosome and matrix compartments breaks down under drug intoxication, behavioral flexibility and cue responsiveness could be lost.</p>
+      </sec>
+    </sec>
+    <sec id="s5">
+      <title>Author contributions</title>
+      <p>CL and FW conducted all recording experiments. JC and CG generated mouse crosses, and conducted behavioral and histology experiments. YL provided reagents. DG performed statistical data analyses. JC, CL, and AG designed experiments, analyzed data and wrote the manuscript.</p>
+      <sec>
+        <title>Conflict of interest statement</title>
+        <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We thank Dr. Zhanyan Fu for equipment use and discussion, Drs. Bernard Bloem and Patrick Tierney for helpful discussions, Dr. Dan Hu, Jannifer Lee, and Anne Kim for technical support, and Dr. Yasuo Kubota and Jeffrey Curry for support in manuscript preparation. This work was funded by NIH grants R01 MH060379 and R37 HD028341, European Union Grant 201716, the Saks Kavanaugh Foundation, the James and Pat Poitras Research Fund, and the Simons Foundation, the Stanley Center for Psychiatric Research at the Broad Institute, via a grant to Edward Scolnick from the Stanley Medical Research Institute.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Acevedo-Rodriguez</surname><given-names>A.</given-names></name><name><surname>Zhang</surname><given-names>L.</given-names></name><name><surname>Zhou</surname><given-names>F.</given-names></name><name><surname>Gong</surname><given-names>S.</given-names></name><name><surname>Gu</surname><given-names>H.</given-names></name><name><surname>De Biasi</surname><given-names>M.</given-names></name><etal/></person-group>. (<year>2014</year>). <article-title>Cocaine inhibition of nicotinic acetylcholine receptors influences dopamine release</article-title>. <source>Front. Synaptic Neurosci.</source>
+<volume>6</volume>:<fpage>19</fpage>. <pub-id pub-id-type="doi">10.3389/fnsyn.2014.00019</pub-id><?supplied-pmid 25237305?><pub-id pub-id-type="pmid">25237305</pub-id></mixed-citation>
+      </ref>
+      <ref id="B2">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Aliane</surname><given-names>V.</given-names></name><name><surname>Perez</surname><given-names>S.</given-names></name><name><surname>Bohren</surname><given-names>Y.</given-names></name><name><surname>Deniau</surname><given-names>J. M.</given-names></name><name><surname>Kemel</surname><given-names>M. L.</given-names></name></person-group> (<year>2011</year>). <article-title>Key role of striatal cholinergic interneurons in processes leading to arrest of motor stereotypies</article-title>. <source>Brain</source>
+<volume>134</volume>(<issue>Pt 1</issue>), <fpage>110</fpage>–<lpage>118</lpage>. <pub-id pub-id-type="doi">10.1093/brain/awq285</pub-id><?supplied-pmid 21097493?><pub-id pub-id-type="pmid">21097493</pub-id></mixed-citation>
+      </ref>
+      <ref id="B3">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Aliane</surname><given-names>V.</given-names></name><name><surname>Perez</surname><given-names>S.</given-names></name><name><surname>Nieoullon</surname><given-names>A.</given-names></name><name><surname>Deniau</surname><given-names>J. M.</given-names></name><name><surname>Kemel</surname><given-names>M. L.</given-names></name></person-group> (<year>2009</year>). <article-title>Cocaine-induced stereotypy is linked to an imbalance between the medial prefrontal and sensorimotor circuits of the basal ganglia</article-title>. <source>Eur. J. Neurosci.</source>
+<volume>30</volume>, <fpage>1269</fpage>–<lpage>1279</lpage>. <pub-id pub-id-type="doi">10.1111/j.1460-9568.2009.06907.x</pub-id><?supplied-pmid 19769590?><pub-id pub-id-type="pmid">19769590</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Aosaki</surname><given-names>T.</given-names></name><name><surname>Graybiel</surname><given-names>A. M.</given-names></name><name><surname>Kimura</surname><given-names>M.</given-names></name></person-group> (<year>1994a</year>). <article-title>Effect of the nigrostriatal dopamine system on acquired neural responses in the striatum of behaving monkeys</article-title>. <source>Science</source>
+<volume>265</volume>, <fpage>412</fpage>–<lpage>415</lpage>. <pub-id pub-id-type="doi">10.1126/science.8023166</pub-id><?supplied-pmid 8023166?><pub-id pub-id-type="pmid">8023166</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Aosaki</surname><given-names>T.</given-names></name><name><surname>Kimura</surname><given-names>M.</given-names></name><name><surname>Graybiel</surname><given-names>A. M.</given-names></name></person-group> (<year>1995</year>). <article-title>Temporal and spatial characteristics of tonically active neurons of the primate's striatum</article-title>. <source>J. Neurophysiol.</source>
+<volume>73</volume>, <fpage>1234</fpage>–<lpage>1252</lpage>. <?supplied-pmid 7608768?><pub-id pub-id-type="pmid">7608768</pub-id></mixed-citation>
+      </ref>
+      <ref id="B6">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Aosaki</surname><given-names>T.</given-names></name><name><surname>Tsubokawa</surname><given-names>H.</given-names></name><name><surname>Ishida</surname><given-names>A.</given-names></name><name><surname>Watanabe</surname><given-names>K.</given-names></name><name><surname>Graybiel</surname><given-names>A. M.</given-names></name><name><surname>Kimura</surname><given-names>M.</given-names></name></person-group> (<year>1994b</year>). <article-title>Responses of tonically active neurons in the primate's striatum undergo systematic changes during behavioral sensorimotor conditioning</article-title>. <source>J. Neurosci.</source>
+<volume>14</volume>, <fpage>3969</fpage>–<lpage>3984</lpage>. <?supplied-pmid 8207500?><pub-id pub-id-type="pmid">8207500</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Apicella</surname><given-names>P.</given-names></name><name><surname>Scarnati</surname><given-names>E.</given-names></name><name><surname>Schultz</surname><given-names>W.</given-names></name></person-group> (<year>1991</year>). <article-title>Tonically discharging neurons of monkey striatum respond to preparatory and rewarding stimuli</article-title>. <source>Exp. Brain Res.</source>
+<volume>84</volume>, <fpage>672</fpage>–<lpage>675</lpage>. <pub-id pub-id-type="doi">10.1007/BF00230981</pub-id><?supplied-pmid 1864338?><pub-id pub-id-type="pmid">1864338</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bamford</surname><given-names>N. S.</given-names></name><name><surname>Zhang</surname><given-names>H.</given-names></name><name><surname>Joyce</surname><given-names>J. A.</given-names></name><name><surname>Scarlis</surname><given-names>C. A.</given-names></name><name><surname>Hanan</surname><given-names>W.</given-names></name><name><surname>Wu</surname><given-names>N. P.</given-names></name><etal/></person-group>. (<year>2008</year>). <article-title>Repeated exposure to methamphetamine causes long-lasting presynaptic corticostriatal depression that is renormalized with drug readministration</article-title>. <source>Neuron</source>
+<volume>58</volume>, <fpage>89</fpage>–<lpage>103</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuron.2008.01.033</pub-id><?supplied-pmid 18400166?><pub-id pub-id-type="pmid">18400166</pub-id></mixed-citation>
+      </ref>
+      <ref id="B9">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Banghart</surname><given-names>M. R.</given-names></name><name><surname>Neufeld</surname><given-names>S. Q.</given-names></name><name><surname>Wong</surname><given-names>N. C.</given-names></name><name><surname>Sabatini</surname><given-names>B. L.</given-names></name></person-group> (<year>2015</year>). <article-title>Enkephalin disinhibits mu opioid receptor-rich striatal patches via delta opioid receptors</article-title>. <source>Neuron</source>
+<volume>88</volume>, <fpage>1227</fpage>–<lpage>1239</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuron.2015.11.010</pub-id><?supplied-pmid 26671460?><pub-id pub-id-type="pmid">26671460</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Berridge</surname><given-names>C. W.</given-names></name></person-group> (<year>2006</year>). <article-title>Neural substrates of psychostimulant-induced arousal</article-title>. <source>Neuropsychopharmacology</source>
+<volume>31</volume>, <fpage>2332</fpage>–<lpage>2340</lpage>. <pub-id pub-id-type="doi">10.1038/sj.npp.1301159</pub-id><?supplied-pmid 16855535?><pub-id pub-id-type="pmid">16855535</pub-id></mixed-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Blazquez</surname><given-names>P. M.</given-names></name><name><surname>Fujii</surname><given-names>N.</given-names></name><name><surname>Kojima</surname><given-names>J.</given-names></name><name><surname>Graybiel</surname><given-names>A. M.</given-names></name></person-group> (<year>2002</year>). <article-title>A network representation of response probability in the striatum</article-title>. <source>Neuron</source>
+<volume>33</volume>, <fpage>973</fpage>–<lpage>982</lpage>. <pub-id pub-id-type="doi">10.1016/S0896-6273(02)00627-X</pub-id><?supplied-pmid 11906702?><pub-id pub-id-type="pmid">11906702</pub-id></mixed-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bolam</surname><given-names>J. P.</given-names></name><name><surname>Izzo</surname><given-names>P. N.</given-names></name><name><surname>Graybiel</surname><given-names>A. M.</given-names></name></person-group> (<year>1988</year>). <article-title>Cellular substrate of the histochemically defined striosome/matrix system of the caudate nucleus: a combined Golgi and immunocytochemical study in cat and ferret</article-title>. <source>Neuroscience</source>
+<volume>24</volume>, <fpage>853</fpage>–<lpage>875</lpage>. <pub-id pub-id-type="doi">10.1016/0306-4522(88)90073-5</pub-id><?supplied-pmid 2454418?><pub-id pub-id-type="pmid">2454418</pub-id></mixed-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brimblecombe</surname><given-names>K. R.</given-names></name><name><surname>Cragg</surname><given-names>S. J.</given-names></name></person-group> (<year>2015</year>). <article-title>Substance P weights striatal dopamine transmission differently within the striosome-matrix axis</article-title>. <source>J. Neurosci.</source>
+<volume>35</volume>, <fpage>9017</fpage>–<lpage>9023</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.0870-15.2015</pub-id><?supplied-pmid 26085627?><pub-id pub-id-type="pmid">26085627</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brown</surname><given-names>H. D.</given-names></name><name><surname>Baker</surname><given-names>P. M.</given-names></name><name><surname>Ragozzino</surname><given-names>M. E.</given-names></name></person-group> (<year>2010</year>). <article-title>The parafascicular thalamic nucleus concomitantly influences behavioral flexibility and dorsomedial striatal acetylcholine output in rats</article-title>. <source>J. Neurosci.</source>
+<volume>30</volume>, <fpage>14390</fpage>–<lpage>14398</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.2167-10.2010</pub-id><?supplied-pmid 20980596?><pub-id pub-id-type="pmid">20980596</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brown</surname><given-names>L. L.</given-names></name><name><surname>Feldman</surname><given-names>S. M.</given-names></name><name><surname>Smith</surname><given-names>D. M.</given-names></name><name><surname>Cavanaugh</surname><given-names>J. R.</given-names></name><name><surname>Ackermann</surname><given-names>R. F.</given-names></name><name><surname>Graybiel</surname><given-names>A. M.</given-names></name></person-group> (<year>2002</year>). <article-title>Differential metabolic activity in the striosome and matrix compartments of the rat striatum during natural behaviors</article-title>. <source>J. Neurosci.</source>
+<volume>22</volume>, <fpage>305</fpage>–<lpage>314</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.2167-10.2010</pub-id><?supplied-pmid 11756514?><pub-id pub-id-type="pmid">11756514</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cachope</surname><given-names>R.</given-names></name><name><surname>Mateo</surname><given-names>Y.</given-names></name><name><surname>Mathur</surname><given-names>B. N.</given-names></name><name><surname>Irving</surname><given-names>J.</given-names></name><name><surname>Wang</surname><given-names>H. L.</given-names></name><name><surname>Morales</surname><given-names>M.</given-names></name><etal/></person-group>. (<year>2012</year>). <article-title>Selective activation of cholinergic interneurons enhances accumbal phasic dopamine release: setting the tone for reward processing</article-title>. <source>Cell Rep.</source>
+<volume>2</volume>, <fpage>33</fpage>–<lpage>41</lpage>. <pub-id pub-id-type="doi">10.1016/j.celrep.2012.05.011</pub-id><?supplied-pmid 22840394?><pub-id pub-id-type="pmid">22840394</pub-id></mixed-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Canales</surname><given-names>J. J.</given-names></name><name><surname>Graybiel</surname><given-names>A. M.</given-names></name></person-group> (<year>2000</year>). <article-title>A measure of striatal function predicts motor stereotypy</article-title>. <source>Nat. Neurosci.</source>
+<volume>3</volume>, <fpage>377</fpage>–<lpage>383</lpage>. <pub-id pub-id-type="doi">10.1038/73949</pub-id><?supplied-pmid 10725928?><pub-id pub-id-type="pmid">10725928</pub-id></mixed-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Capper-Loup</surname><given-names>C.</given-names></name><name><surname>Canales</surname><given-names>J. J.</given-names></name><name><surname>Kadaba</surname><given-names>N.</given-names></name><name><surname>Graybiel</surname><given-names>A. M.</given-names></name></person-group> (<year>2002</year>). <article-title>Concurrent activation of dopamine D<sub>1</sub> and D<sub>2</sub> receptors is required to evoke neural and behavioral phenotypes of cocaine sensitization</article-title>. <source>J. Neurosci.</source>
+<volume>22</volume>, <fpage>6218</fpage>–<lpage>6227</lpage>. <?supplied-pmid 12122080?><pub-id pub-id-type="pmid">12122080</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Clements</surname><given-names>M. A.</given-names></name><name><surname>Swapna</surname><given-names>I.</given-names></name><name><surname>Morikawa</surname><given-names>H.</given-names></name></person-group> (<year>2013</year>). <article-title>Inositol 1,4,5-triphosphate drives glutamatergic and cholinergic inhibition selectively in spiny projection neurons in the striatum</article-title>. <source>J. Neurosci.</source>
+<volume>33</volume>, <fpage>2697</fpage>–<lpage>2708</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.4759-12.2013</pub-id><?supplied-pmid 23392696?><pub-id pub-id-type="pmid">23392696</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Collins</surname><given-names>S. L.</given-names></name><name><surname>Izenwasser</surname><given-names>S.</given-names></name></person-group> (<year>2004</year>). <article-title>Chronic nicotine differentially alters cocaine-induced locomotor activity in adolescent vs. adult male and female rats</article-title>. <source>Neuropharmacology</source>
+<volume>46</volume>, <fpage>349</fpage>–<lpage>362</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuropharm.2003.09.024</pub-id><?supplied-pmid 14975690?><pub-id pub-id-type="pmid">14975690</pub-id></mixed-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Crittenden</surname><given-names>J. R.</given-names></name><name><surname>Bergmeier</surname><given-names>W.</given-names></name><name><surname>Zhang</surname><given-names>Y.</given-names></name><name><surname>Piffath</surname><given-names>C. L.</given-names></name><name><surname>Liang</surname><given-names>Y.</given-names></name><name><surname>Wagner</surname><given-names>D. D.</given-names></name><etal/></person-group>. (<year>2004</year>). <article-title>CalDAG-GEFI integrates signaling for platelet aggregation and thrombus formation</article-title>. <source>Nat. Med.</source>
+<volume>10</volume>, <fpage>982</fpage>–<lpage>986</lpage>. <pub-id pub-id-type="doi">10.1038/nm1098</pub-id><?supplied-pmid 15334074?><pub-id pub-id-type="pmid">15334074</pub-id></mixed-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Crittenden</surname><given-names>J. R.</given-names></name><name><surname>Graybiel</surname><given-names>A. M.</given-names></name></person-group> (<year>2011</year>). <article-title>Basal Ganglia disorders associated with imbalances in the striatal striosome and matrix compartments</article-title>. <source>Front. Neuroanat.</source>
+<volume>5</volume>:<fpage>59</fpage>. <pub-id pub-id-type="doi">10.3389/fnana.2011.00059</pub-id><?supplied-pmid 21941467?><pub-id pub-id-type="pmid">21941467</pub-id></mixed-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Crittenden</surname><given-names>J. R.</given-names></name><name><surname>Graybiel</surname><given-names>A. M.</given-names></name></person-group> (<year>2016</year>). <article-title>Disease-associated changes in the striosome and matrix compartments of the dorsal striatum</article-title>, in <source>Handbook of Basal Ganglia Structure and Function, 2nd Edn.</source>, eds <person-group person-group-type="editor"><name><surname>Steiner</surname><given-names>H.</given-names></name><name><surname>Tseng</surname><given-names>K.</given-names></name></person-group> (<publisher-loc>Amsterdam</publisher-loc>: <publisher-name>Elsevier</publisher-name>), <fpage>801</fpage>–<lpage>821</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B24">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Crittenden</surname><given-names>J. R.</given-names></name><name><surname>Lacey</surname><given-names>C. J.</given-names></name><name><surname>Lee</surname><given-names>T.</given-names></name><name><surname>Bowden</surname><given-names>H. A.</given-names></name><name><surname>Graybiel</surname><given-names>A. M.</given-names></name></person-group> (<year>2014</year>). <article-title>Severe drug-induced repetitive behaviors and striatal overexpression of VAChT in ChAT-ChR2-EYFP BAC transgenic mice</article-title>. <source>Front. Neural Circuits</source>
+<volume>8</volume>:<fpage>57</fpage>. <pub-id pub-id-type="doi">10.3389/fncir.2014.00057</pub-id><?supplied-pmid 24904300?><pub-id pub-id-type="pmid">24904300</pub-id></mixed-citation>
+      </ref>
+      <ref id="B25">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Crittenden</surname><given-names>J. R.</given-names></name><name><surname>Tillberg</surname><given-names>P. W.</given-names></name><name><surname>Riad</surname><given-names>M. H.</given-names></name><name><surname>Shima</surname><given-names>Y.</given-names></name><name><surname>Gerfen</surname><given-names>C. R.</given-names></name><name><surname>Curry</surname><given-names>J.</given-names></name><etal/></person-group>. (<year>2016</year>). <article-title>Striosome-dendron bouquets highlight a unique striatonigral circuit targeting dopamine-containing neurons</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume>113</volume>, <fpage>11318</fpage>–<lpage>11323</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1613337113</pub-id><?supplied-pmid 27647894?><pub-id pub-id-type="pmid">27647894</pub-id></mixed-citation>
+      </ref>
+      <ref id="B26">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dautan</surname><given-names>D. H.-O. I.</given-names></name><name><surname>Witten</surname><given-names>I. B.</given-names></name><name><surname>Deisseroth</surname><given-names>K.</given-names></name><name><surname>Bolam</surname><given-names>J. P.</given-names></name><name><surname>Gerdjikov</surname><given-names>T.</given-names></name><name><surname>Mena-Segovia</surname><given-names>J.</given-names></name></person-group> (<year>2014</year>). <article-title>A major external source of cholinergic innervation of the striatum and nucleus accumbens originates in the brainstem</article-title>. <source>J. Neurosci.</source>
+<volume>34</volume>, <fpage>4509</fpage>–<lpage>4518</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.5071-13.2014</pub-id><?supplied-pmid 24671996?><pub-id pub-id-type="pmid">24671996</pub-id></mixed-citation>
+      </ref>
+      <ref id="B27">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ding</surname><given-names>J. B.</given-names></name><name><surname>Guzman</surname><given-names>J. N.</given-names></name><name><surname>Peterson</surname><given-names>J. D.</given-names></name><name><surname>Goldberg</surname><given-names>J. A.</given-names></name><name><surname>Surmeier</surname><given-names>D. J.</given-names></name></person-group> (<year>2010</year>). <article-title>Thalamic gating of corticostriatal signaling by cholinergic interneurons</article-title>. <source>Neuron</source>
+<volume>67</volume>, <fpage>294</fpage>–<lpage>307</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuron.2010.06.017</pub-id><?supplied-pmid 20670836?><pub-id pub-id-type="pmid">20670836</pub-id></mixed-citation>
+      </ref>
+      <ref id="B28">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dodson</surname><given-names>P. D.</given-names></name><name><surname>Dreyer</surname><given-names>J. K.</given-names></name><name><surname>Jennings</surname><given-names>K. A.</given-names></name><name><surname>Syed</surname><given-names>E. C.</given-names></name><name><surname>Wade-Martins</surname><given-names>R.</given-names></name><name><surname>Cragg</surname><given-names>S. J.</given-names></name><etal/></person-group>. (<year>2016</year>). <article-title>Representation of spontaneous movement by dopaminergic neurons is cell-type selective and disrupted in parkinsonism</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume>113</volume>, <fpage>E2180</fpage>–<lpage>E2188</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1515941113</pub-id><?supplied-pmid 27001837?><pub-id pub-id-type="pmid">27001837</pub-id></mixed-citation>
+      </ref>
+      <ref id="B29">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Doig</surname><given-names>N. M.</given-names></name><name><surname>Magill</surname><given-names>P. J.</given-names></name><name><surname>Apicella</surname><given-names>P.</given-names></name><name><surname>Bolam</surname><given-names>J. P.</given-names></name><name><surname>Sharott</surname><given-names>A.</given-names></name></person-group> (<year>2014</year>). <article-title>Cortical and thalamic excitation mediate the multiphasic responses of striatal cholinergic interneurons to motivationally salient stimuli</article-title>. <source>J. Neurosci.</source>
+<volume>34</volume>, <fpage>3101</fpage>–<lpage>3117</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.4627-13.2014</pub-id><?supplied-pmid 24553950?><pub-id pub-id-type="pmid">24553950</pub-id></mixed-citation>
+      </ref>
+      <ref id="B30">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>English</surname><given-names>D. F.</given-names></name><name><surname>Ibanez-Sandoval</surname><given-names>O.</given-names></name><name><surname>Stark</surname><given-names>E.</given-names></name><name><surname>Tecuapetla</surname><given-names>F.</given-names></name><name><surname>Buzsaki</surname><given-names>G.</given-names></name><name><surname>Deisseroth</surname><given-names>K.</given-names></name><etal/></person-group>. (<year>2012</year>). <article-title>GABAergic circuits mediate the reinforcement-related signals of striatal cholinergic interneurons</article-title>. <source>Nat. Neurosci.</source>
+<volume>15</volume>, <fpage>123</fpage>–<lpage>130</lpage>. <pub-id pub-id-type="doi">10.1038/nn.2984</pub-id><?supplied-pmid 22158514?><pub-id pub-id-type="pmid">22158514</pub-id></mixed-citation>
+      </ref>
+      <ref id="B31">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Eskow Jaunarajs</surname><given-names>K. L.</given-names></name><name><surname>Bonsi</surname><given-names>P.</given-names></name><name><surname>Chesselet</surname><given-names>M. F.</given-names></name><name><surname>Standaert</surname><given-names>D. G.</given-names></name><name><surname>Pisani</surname><given-names>A.</given-names></name></person-group> (<year>2015</year>). <article-title>Striatal cholinergic dysfunction as a unifying theme in the pathophysiology of dystonia</article-title>. <source>Prog. Neurobiol.</source> 127–<volume>128</volume>, <fpage>91</fpage>–<lpage>107</lpage>. <pub-id pub-id-type="doi">10.1016/j.pneurobio.2015.02.002</pub-id></mixed-citation>
+      </ref>
+      <ref id="B32">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Faust</surname><given-names>T. W.</given-names></name><name><surname>Assous</surname><given-names>M.</given-names></name><name><surname>Shah</surname><given-names>F.</given-names></name><name><surname>Tepper</surname><given-names>J. M.</given-names></name><name><surname>Koos</surname><given-names>T.</given-names></name></person-group> (<year>2015</year>). <article-title>Novel fast adapting interneurons mediate cholinergic-induced fast GABAA inhibitory postsynaptic currents in striatal spiny neurons</article-title>. <source>Eur. J. Neurosci.</source>
+<volume>42</volume>, <fpage>1764</fpage>–<lpage>1774</lpage>. <pub-id pub-id-type="doi">10.1111/ejn.12915</pub-id><?supplied-pmid 25865337?><pub-id pub-id-type="pmid">25865337</pub-id></mixed-citation>
+      </ref>
+      <ref id="B33">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Faust</surname><given-names>T. W.</given-names></name><name><surname>Assous</surname><given-names>M.</given-names></name><name><surname>Tepper</surname><given-names>J. M.</given-names></name><name><surname>Koos</surname><given-names>T.</given-names></name></person-group> (<year>2016</year>). <article-title>Neostriatal GABAergic interneurons mediate cholinergic inhibition of spiny projection neurons</article-title>. <source>J. Neurosci.</source>
+<volume>36</volume>, <fpage>9505</fpage>–<lpage>9511</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.0466-16.2016</pub-id><?supplied-pmid 27605623?><pub-id pub-id-type="pmid">27605623</pub-id></mixed-citation>
+      </ref>
+      <ref id="B34">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Friedman</surname><given-names>A.</given-names></name><name><surname>Homma</surname><given-names>D.</given-names></name><name><surname>Gibb</surname><given-names>L. G.</given-names></name><name><surname>Amemori</surname><given-names>K.</given-names></name><name><surname>Rubin</surname><given-names>S. J.</given-names></name><name><surname>Hood</surname><given-names>A. S.</given-names></name><etal/></person-group>. (<year>2015</year>). <article-title>A corticostriatal path targeting striosomes controls decision-making under conflict</article-title>. <source>Cell</source>
+<volume>161</volume>, <fpage>1320</fpage>–<lpage>1333</lpage>. <pub-id pub-id-type="doi">10.1016/j.cell.2015.04.049</pub-id><?supplied-pmid 26027737?><pub-id pub-id-type="pmid">26027737</pub-id></mixed-citation>
+      </ref>
+      <ref id="B35">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fujiyama</surname><given-names>F.</given-names></name><name><surname>Sohn</surname><given-names>J.</given-names></name><name><surname>Nakano</surname><given-names>T.</given-names></name><name><surname>Furuta</surname><given-names>T.</given-names></name><name><surname>Nakamura</surname><given-names>K. C.</given-names></name><name><surname>Matsuda</surname><given-names>W.</given-names></name><etal/></person-group>. (<year>2011</year>). <article-title>Exclusive and common targets of neostriatofugal projections of rat striosome neurons: a single neuron-tracing study using a viral vector</article-title>. <source>Eur. J. Neurosci.</source>
+<volume>33</volume>, <fpage>668</fpage>–<lpage>677</lpage>. <pub-id pub-id-type="doi">10.1111/j.1460-9568.2010.07564.x</pub-id><?supplied-pmid 21314848?><pub-id pub-id-type="pmid">21314848</pub-id></mixed-citation>
+      </ref>
+      <ref id="B36">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fujiyama</surname><given-names>F.</given-names></name><name><surname>Unzai</surname><given-names>T.</given-names></name><name><surname>Nakamura</surname><given-names>K.</given-names></name><name><surname>Nomura</surname><given-names>S.</given-names></name><name><surname>Kaneko</surname><given-names>T.</given-names></name></person-group> (<year>2006</year>). <article-title>Difference in organization of corticostriatal and thalamostriatal synapses between patch and matrix compartments of rat neostriatum</article-title>. <source>Eur. J. Neurosci.</source>
+<volume>24</volume>, <fpage>2813</fpage>–<lpage>2824</lpage>. <pub-id pub-id-type="doi">10.1111/j.1460-9568.2006.05177.x</pub-id><?supplied-pmid 17156206?><pub-id pub-id-type="pmid">17156206</pub-id></mixed-citation>
+      </ref>
+      <ref id="B37">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gerfen</surname><given-names>C. R.</given-names></name></person-group> (<year>1984</year>). <article-title>The neostriatal mosaic: compartmentalization of corticostriatal input and striatonigral output systems</article-title>. <source>Nature</source>
+<volume>311</volume>, <fpage>461</fpage>–<lpage>464</lpage>. <pub-id pub-id-type="doi">10.1038/311461a0</pub-id><?supplied-pmid 6207434?><pub-id pub-id-type="pmid">6207434</pub-id></mixed-citation>
+      </ref>
+      <ref id="B38">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gerfen</surname><given-names>C. R.</given-names></name></person-group> (<year>1985</year>). <article-title>The neostriatal mosaic. I. Compartmental organization of projections from the striatum to the substantia nigra in the rat</article-title>. <source>J. Comp. Neurol.</source>
+<volume>236</volume>, <fpage>454</fpage>–<lpage>476</lpage>. <pub-id pub-id-type="doi">10.1002/cne.902360404</pub-id><?supplied-pmid 2414339?><pub-id pub-id-type="pmid">2414339</pub-id></mixed-citation>
+      </ref>
+      <ref id="B39">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gerfen</surname><given-names>C. R.</given-names></name><name><surname>Herkenham</surname><given-names>M.</given-names></name><name><surname>Thibault</surname><given-names>J.</given-names></name></person-group> (<year>1987</year>). <article-title>The neostriatal mosaic: II. Patch- and matrix-directed mesostriatal dopaminergic and non-dopaminergic systems</article-title>. <source>J. Neurosci.</source>
+<volume>7</volume>, <fpage>3915</fpage>–<lpage>3934</lpage>. <?supplied-pmid 2891799?><pub-id pub-id-type="pmid">2891799</pub-id></mixed-citation>
+      </ref>
+      <ref id="B40">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gokce</surname><given-names>O.</given-names></name><name><surname>Stanley</surname><given-names>G. M.</given-names></name><name><surname>Treutlein</surname><given-names>B.</given-names></name><name><surname>Neff</surname><given-names>N. F.</given-names></name><name><surname>Camp</surname><given-names>J. G.</given-names></name><name><surname>Malenka</surname><given-names>R. C.</given-names></name><etal/></person-group>. (<year>2016</year>). <article-title>Cellular taxonomy of the mouse striatum as revealed by single-cell RNA-seq</article-title>. <source>Cell Rep.</source>
+<volume>16</volume>, <fpage>1126</fpage>–<lpage>1137</lpage>. <pub-id pub-id-type="doi">10.1016/j.celrep.2016.06.059</pub-id><?supplied-pmid 27425622?><pub-id pub-id-type="pmid">27425622</pub-id></mixed-citation>
+      </ref>
+      <ref id="B41">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Goldberg</surname><given-names>J. A.</given-names></name><name><surname>Reynolds</surname><given-names>J. N.</given-names></name></person-group> (<year>2011</year>). <article-title>Spontaneous firing and evoked pauses in the tonically active cholinergic interneurons of the striatum</article-title>. <source>Neuroscience</source>
+<volume>198</volume>, <fpage>27</fpage>–<lpage>43</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuroscience.2011.08.067</pub-id><?supplied-pmid 21925242?><pub-id pub-id-type="pmid">21925242</pub-id></mixed-citation>
+      </ref>
+      <ref id="B42">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gong</surname><given-names>S.</given-names></name><name><surname>Doughty</surname><given-names>M.</given-names></name><name><surname>Harbaugh</surname><given-names>C. R.</given-names></name><name><surname>Cummins</surname><given-names>A.</given-names></name><name><surname>Hatten</surname><given-names>M. E.</given-names></name><name><surname>Heintz</surname><given-names>N.</given-names></name><etal/></person-group>. (<year>2007</year>). <article-title>Targeting Cre recombinase to specific neuron populations with bacterial artificial chromosome constructs</article-title>. <source>J. Neurosci.</source>
+<volume>27</volume>, <fpage>9817</fpage>–<lpage>9823</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.2707-07.2007</pub-id><?supplied-pmid 17855595?><pub-id pub-id-type="pmid">17855595</pub-id></mixed-citation>
+      </ref>
+      <ref id="B43">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gong</surname><given-names>S.</given-names></name><name><surname>Zheng</surname><given-names>C.</given-names></name><name><surname>Doughty</surname><given-names>M. L.</given-names></name><name><surname>Losos</surname><given-names>K.</given-names></name><name><surname>Didkovsky</surname><given-names>N.</given-names></name><name><surname>Schambra</surname><given-names>U. B.</given-names></name><etal/></person-group>. (<year>2003</year>). <article-title>A gene expression atlas of the central nervous system based on bacterial artificial chromosomes</article-title>. <source>Nature</source>
+<volume>425</volume>, <fpage>917</fpage>–<lpage>925</lpage>. <pub-id pub-id-type="doi">10.1038/nature02033</pub-id><?supplied-pmid 14586460?><pub-id pub-id-type="pmid">14586460</pub-id></mixed-citation>
+      </ref>
+      <ref id="B44">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gotham</surname><given-names>K.</given-names></name><name><surname>Risi</surname><given-names>S.</given-names></name><name><surname>Pickles</surname><given-names>A.</given-names></name><name><surname>Lord</surname><given-names>C.</given-names></name></person-group> (<year>2007</year>). <article-title>The Autism Diagnostic Observation Schedule: revised algorithms for improved diagnostic validity</article-title>. <source>J. Autism Dev. Disord.</source>
+<volume>37</volume>, <fpage>613</fpage>–<lpage>627</lpage>. <pub-id pub-id-type="doi">10.1007/s10803-006-0280-1</pub-id><?supplied-pmid 17180459?><pub-id pub-id-type="pmid">17180459</pub-id></mixed-citation>
+      </ref>
+      <ref id="B45">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gras</surname><given-names>C.</given-names></name><name><surname>Amilhon</surname><given-names>B.</given-names></name><name><surname>Lepicard</surname><given-names>E. M.</given-names></name><name><surname>Poirel</surname><given-names>O.</given-names></name><name><surname>Vinatier</surname><given-names>J.</given-names></name><name><surname>Herbin</surname><given-names>M.</given-names></name><etal/></person-group>. (<year>2008</year>). <article-title>The vesicular glutamate transporter VGLUT3 synergizes striatal acetylcholine tone</article-title>. <source>Nat. Neurosci.</source>
+<volume>11</volume>, <fpage>292</fpage>–<lpage>300</lpage>. <pub-id pub-id-type="doi">10.1038/nn2052</pub-id><?supplied-pmid 18278042?><pub-id pub-id-type="pmid">18278042</pub-id></mixed-citation>
+      </ref>
+      <ref id="B46">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Graybiel</surname><given-names>A. M.</given-names></name></person-group> (<year>2008</year>). <article-title>Habits, rituals, and the evaluative brain</article-title>. <source>Annu. Rev. Neurosci.</source>
+<volume>31</volume>, <fpage>359</fpage>–<lpage>387</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.neuro.29.051605.112851</pub-id><?supplied-pmid 18558860?><pub-id pub-id-type="pmid">18558860</pub-id></mixed-citation>
+      </ref>
+      <ref id="B47">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Graybiel</surname><given-names>A. M.</given-names></name><name><surname>Baughman</surname><given-names>R. W.</given-names></name><name><surname>Eckenstein</surname><given-names>F.</given-names></name></person-group> (<year>1986</year>). <article-title>Cholinergic neuropil of the striatum observes striosomal boundaries</article-title>. <source>Nature</source>
+<volume>323</volume>, <fpage>625</fpage>–<lpage>627</lpage>. <pub-id pub-id-type="doi">10.1038/323625a0</pub-id><?supplied-pmid 3773990?><pub-id pub-id-type="pmid">3773990</pub-id></mixed-citation>
+      </ref>
+      <ref id="B48">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Graybiel</surname><given-names>A. M.</given-names></name><name><surname>Moratalla</surname><given-names>R.</given-names></name><name><surname>Robertson</surname><given-names>H. A.</given-names></name></person-group> (<year>1990</year>). <article-title>Amphetamine and cocaine induce drug-specific activation of the c-fos gene in striosome-matrix compartments and limbic subdivisions of the striatum</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume>87</volume>, <fpage>6912</fpage>–<lpage>6916</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.87.17.6912</pub-id><?supplied-pmid 2118661?><pub-id pub-id-type="pmid">2118661</pub-id></mixed-citation>
+      </ref>
+      <ref id="B49">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Higley</surname><given-names>M. J.</given-names></name><name><surname>Gittis</surname><given-names>A. H.</given-names></name><name><surname>Oldenburg</surname><given-names>I. A.</given-names></name><name><surname>Balthasar</surname><given-names>N.</given-names></name><name><surname>Seal</surname><given-names>R. P.</given-names></name><name><surname>Edwards</surname><given-names>R. H.</given-names></name><etal/></person-group>. (<year>2011</year>). <article-title>Cholinergic interneurons mediate fast VGluT3-dependent glutamatergic transmission in the striatum</article-title>. <source>PLoS ONE</source>
+<volume>6</volume>:<fpage>e19155</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pone.0019155</pub-id><?supplied-pmid 21544206?><pub-id pub-id-type="pmid">21544206</pub-id></mixed-citation>
+      </ref>
+      <ref id="B50">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Horner</surname><given-names>K. A.</given-names></name><name><surname>Hebbard</surname><given-names>J. C.</given-names></name><name><surname>Logan</surname><given-names>A. S.</given-names></name><name><surname>Vanchipurakel</surname><given-names>G. A.</given-names></name><name><surname>Gilbert</surname><given-names>Y. E.</given-names></name></person-group> (<year>2012</year>). <article-title>Activation of mu opioid receptors in the striatum differentially augments methamphetamine-induced gene expression and enhances stereotypic behavior</article-title>. <source>J. Neurochem.</source>
+<volume>120</volume>, <fpage>779</fpage>–<lpage>794</lpage>. <pub-id pub-id-type="doi">10.1111/j.1471-4159.2011.07620.x</pub-id><?supplied-pmid 22150526?><pub-id pub-id-type="pmid">22150526</pub-id></mixed-citation>
+      </ref>
+      <ref id="B51">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Howe</surname><given-names>M. W.</given-names></name><name><surname>Dombeck</surname><given-names>D. A.</given-names></name></person-group> (<year>2016</year>). <article-title>Rapid signalling in distinct dopaminergic axons during locomotion and reward</article-title>. <source>Nature</source>
+<volume>535</volume>, <fpage>505</fpage>–<lpage>510</lpage>. <pub-id pub-id-type="doi">10.1038/nature18942</pub-id><?supplied-pmid 27398617?><pub-id pub-id-type="pmid">27398617</pub-id></mixed-citation>
+      </ref>
+      <ref id="B52">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Inoue</surname><given-names>R.</given-names></name><name><surname>Suzuki</surname><given-names>T.</given-names></name><name><surname>Nishimura</surname><given-names>K.</given-names></name><name><surname>Miura</surname><given-names>M.</given-names></name></person-group> (<year>2016</year>). <article-title>Nicotinic acetylcholine receptor-mediated GABAergic inputs to cholinergic interneurons in the striosomes and the matrix compartments of the mouse striatum</article-title>. <source>Neuropharmacology</source>
+<volume>105</volume>, <fpage>318</fpage>–<lpage>328</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuropharm.2016.01.029</pub-id><?supplied-pmid 26808315?><pub-id pub-id-type="pmid">26808315</pub-id></mixed-citation>
+      </ref>
+      <ref id="B53">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jedynak</surname><given-names>J. P.</given-names></name><name><surname>Cameron</surname><given-names>C. M.</given-names></name><name><surname>Robinson</surname><given-names>T. E.</given-names></name></person-group> (<year>2012</year>). <article-title>Repeated methamphetamine administration differentially alters fos expression in caudate-putamen patch and matrix compartments and nucleus accumbens</article-title>. <source>PLoS ONE</source>
+<volume>7</volume>:<fpage>e34227</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pone.0034227</pub-id><?supplied-pmid 22514626?><pub-id pub-id-type="pmid">22514626</pub-id></mixed-citation>
+      </ref>
+      <ref id="B54">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jimenez-Castellanos</surname><given-names>J.</given-names></name><name><surname>Graybiel</surname><given-names>A. M.</given-names></name></person-group> (<year>1987</year>). <article-title>Subdivisions of the dopamine-containing A8-A9-A10 complex identified by their differential mesostriatal innervation of striosomes and extrastriosomal matrix</article-title>. <source>Neuroscience</source>
+<volume>23</volume>, <fpage>223</fpage>–<lpage>242</lpage>. <pub-id pub-id-type="doi">10.1016/0306-4522(87)90285-5</pub-id><?supplied-pmid 3683862?><pub-id pub-id-type="pmid">3683862</pub-id></mixed-citation>
+      </ref>
+      <ref id="B55">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jimenez-Castellanos</surname><given-names>J.</given-names></name><name><surname>Graybiel</surname><given-names>A. M.</given-names></name></person-group> (<year>1989</year>). <article-title>Compartmental origins of striatal efferent projections in the cat</article-title>. <source>Neuroscience</source>
+<volume>32</volume>, <fpage>297</fpage>–<lpage>321</lpage>. <pub-id pub-id-type="doi">10.1016/0306-4522(89)90080-8</pub-id><?supplied-pmid 2479881?><pub-id pub-id-type="pmid">2479881</pub-id></mixed-citation>
+      </ref>
+      <ref id="B56">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kawaguchi</surname><given-names>Y.</given-names></name><name><surname>Wilson</surname><given-names>C. J.</given-names></name><name><surname>Emson</surname><given-names>P. C.</given-names></name></person-group> (<year>1989</year>). <article-title>Intracellular recording of identified neostriatal patch and matrix spiny cells in a slice preparation preserving cortical inputs</article-title>. <source>J. Neurophysiol.</source>
+<volume>62</volume>, <fpage>1052</fpage>–<lpage>1068</lpage>. <?supplied-pmid 2585039?><pub-id pub-id-type="pmid">2585039</pub-id></mixed-citation>
+      </ref>
+      <ref id="B57">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kawasaki</surname><given-names>H.</given-names></name><name><surname>Springett</surname><given-names>G. M.</given-names></name><name><surname>Mochizuki</surname><given-names>N.</given-names></name><name><surname>Toki</surname><given-names>S.</given-names></name><name><surname>Nakaya</surname><given-names>M.</given-names></name><name><surname>Matsuda</surname><given-names>M.</given-names></name><etal/></person-group>. (<year>1998</year>). <article-title>A family of cAMP-binding proteins that directly activate Rap1</article-title>. <source>Science</source>
+<volume>282</volume>, <fpage>2275</fpage>–<lpage>2279</lpage>. <pub-id pub-id-type="doi">10.1126/science.282.5397.2275</pub-id><?supplied-pmid 9856955?><pub-id pub-id-type="pmid">9856955</pub-id></mixed-citation>
+      </ref>
+      <ref id="B58">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kim</surname><given-names>J. I.</given-names></name><name><surname>Ganesan</surname><given-names>S.</given-names></name><name><surname>Luo</surname><given-names>S. X.</given-names></name><name><surname>Wu</surname><given-names>Y. W.</given-names></name><name><surname>Park</surname><given-names>E.</given-names></name><name><surname>Huang</surname><given-names>E. J.</given-names></name><etal/></person-group>. (<year>2015</year>). <article-title>Aldehyde dehydrogenase 1a1 mediates a GABA synthesis pathway in midbrain dopaminergic neurons</article-title>. <source>Science</source>
+<volume>350</volume>, <fpage>102</fpage>–<lpage>106</lpage>. <pub-id pub-id-type="doi">10.1126/science.aac4690</pub-id><?supplied-pmid 26430123?><pub-id pub-id-type="pmid">26430123</pub-id></mixed-citation>
+      </ref>
+      <ref id="B59">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kincaid</surname><given-names>A. E.</given-names></name><name><surname>Wilson</surname><given-names>C. J.</given-names></name></person-group> (<year>1996</year>). <article-title>Corticostriatal innervation of the patch and matrix in the rat neostriatum</article-title>. <source>J. Comp. Neurol.</source>
+<volume>374</volume>, <fpage>578</fpage>–<lpage>592</lpage>. <pub-id pub-id-type="doi">10.1002/(SICI)1096-9861(19961028)374:4&lt;578::AID-CNE7&gt;3.0.CO;2-Z</pub-id><?supplied-pmid 8910736?><pub-id pub-id-type="pmid">8910736</pub-id></mixed-citation>
+      </ref>
+      <ref id="B60">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kolisnyk</surname><given-names>B.</given-names></name><name><surname>Al-Onaizi</surname><given-names>M. A.</given-names></name><name><surname>Hirata</surname><given-names>P. H.</given-names></name><name><surname>Guzman</surname><given-names>M. S.</given-names></name><name><surname>Nikolova</surname><given-names>S.</given-names></name><name><surname>Barbash</surname><given-names>S.</given-names></name><etal/></person-group>. (<year>2013</year>). <article-title>Forebrain deletion of the vesicular acetylcholine transporter results in deficits in executive function, metabolic, and RNA splicing abnormalities in the prefrontal cortex</article-title>. <source>J. Neurosci.</source>
+<volume>33</volume>, <fpage>14908</fpage>–<lpage>14920</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.1933-13.2013</pub-id><?supplied-pmid 24027290?><pub-id pub-id-type="pmid">24027290</pub-id></mixed-citation>
+      </ref>
+      <ref id="B61">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kubota</surname><given-names>Y.</given-names></name><name><surname>Kawaguchi</surname><given-names>Y.</given-names></name></person-group> (<year>1993</year>). <article-title>Spatial distributions of chemically identified intrinsic neurons in relation to patch and matrix compartments of rat neostriatum</article-title>. <source>J. Comp. Neurol.</source>
+<volume>332</volume>, <fpage>499</fpage>–<lpage>513</lpage>. <pub-id pub-id-type="doi">10.1002/cne.903320409</pub-id><?supplied-pmid 8349845?><pub-id pub-id-type="pmid">8349845</pub-id></mixed-citation>
+      </ref>
+      <ref id="B62">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kupferschmidt</surname><given-names>D. A.</given-names></name><name><surname>Cody</surname><given-names>P. A.</given-names></name><name><surname>Lovinger</surname><given-names>D. M.</given-names></name><name><surname>Davis</surname><given-names>M. I.</given-names></name></person-group> (<year>2015</year>). <article-title>Brain BLAQ: <italic>post-hoc</italic> thick-section histochemistry for localizing optogenetic constructs in neurons and their distal terminals</article-title>. <source>Front. Neuroanat.</source>
+<volume>9</volume>:<fpage>6</fpage>. <pub-id pub-id-type="doi">10.3389/fnana.2015.00006</pub-id><?supplied-pmid 25698938?><pub-id pub-id-type="pmid">25698938</pub-id></mixed-citation>
+      </ref>
+      <ref id="B63">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lawhorn</surname><given-names>C.</given-names></name><name><surname>Smith</surname><given-names>D. M.</given-names></name><name><surname>Brown</surname><given-names>L. L.</given-names></name></person-group> (<year>2009</year>). <article-title>Partial ablation of mu-opioid receptor rich striosomes produces deficits on a motor-skill learning task</article-title>. <source>Neuroscience</source>
+<volume>163</volume>, <fpage>109</fpage>–<lpage>119</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuroscience.2009.05.021</pub-id><?supplied-pmid 19463902?><pub-id pub-id-type="pmid">19463902</pub-id></mixed-citation>
+      </ref>
+      <ref id="B64">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lopez-Huerta</surname><given-names>V. G.</given-names></name><name><surname>Nakano</surname><given-names>Y.</given-names></name><name><surname>Bausenwein</surname><given-names>J.</given-names></name><name><surname>Jaidar</surname><given-names>O.</given-names></name><name><surname>Lazarus</surname><given-names>M.</given-names></name><name><surname>Cherassse</surname><given-names>Y.</given-names></name><etal/></person-group> (<year>2016</year>). <article-title>The neostriatum: two entities, one structure?</article-title>
+<source>Brain Struct. Funct.</source>
+<volume>221</volume>, <fpage>1737</fpage>–<lpage>1749</lpage>. <pub-id pub-id-type="doi">10.1007/s00429-015-1000-4</pub-id><pub-id pub-id-type="pmid">25652680</pub-id></mixed-citation>
+      </ref>
+      <ref id="B65">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Luo</surname><given-names>R.</given-names></name><name><surname>Janssen</surname><given-names>M. J.</given-names></name><name><surname>Partridge</surname><given-names>J. G.</given-names></name><name><surname>Vicini</surname><given-names>S.</given-names></name></person-group> (<year>2013</year>). <article-title>Direct and GABA-mediated indirect effects of nicotinic ACh receptor agonists on striatal neurones</article-title>. <source>J. Physiol.</source>
+<volume>591</volume>, <fpage>203</fpage>–<lpage>217</lpage>. <pub-id pub-id-type="doi">10.1113/jphysiol.2012.241786</pub-id><?supplied-pmid 23045343?><pub-id pub-id-type="pmid">23045343</pub-id></mixed-citation>
+      </ref>
+      <ref id="B66">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Madisen</surname><given-names>L.</given-names></name><name><surname>Mao</surname><given-names>T.</given-names></name><name><surname>Koch</surname><given-names>H.</given-names></name><name><surname>Zhuo</surname><given-names>J. M.</given-names></name><name><surname>Berenyi</surname><given-names>A.</given-names></name><name><surname>Fujisawa</surname><given-names>S.</given-names></name><etal/></person-group>. (<year>2012</year>). <article-title>A toolbox of Cre-dependent optogenetic transgenic mice for light-induced activation and silencing</article-title>. <source>Nat. Neurosci.</source>
+<volume>15</volume>, <fpage>793</fpage>–<lpage>802</lpage>. <pub-id pub-id-type="doi">10.1038/nn.3078</pub-id><?supplied-pmid 22446880?><pub-id pub-id-type="pmid">22446880</pub-id></mixed-citation>
+      </ref>
+      <ref id="B67">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Mason</surname><given-names>G.</given-names></name><name><surname>Rushen</surname><given-names>J.</given-names></name></person-group> (<year>2008</year>). <source>Stereotypic Animal Behavior, Fundamentals and Applications to Animal Welfare, 2nd Edn</source>. <publisher-loc>Wallingford, CT</publisher-loc>: <publisher-name>CABI</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="B68">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Matamales</surname><given-names>M.</given-names></name><name><surname>Bertran-Gonzalez</surname><given-names>J.</given-names></name><name><surname>Salomon</surname><given-names>L.</given-names></name><name><surname>Degos</surname><given-names>B.</given-names></name><name><surname>Deniau</surname><given-names>J. M.</given-names></name><name><surname>Valjent</surname><given-names>E.</given-names></name><etal/></person-group>. (<year>2009</year>). <article-title>Striatal medium-sized spiny neurons: identification by nuclear staining and study of neuronal subpopulations in BAC transgenic mice</article-title>. <source>PLoS ONE</source>
+<volume>4</volume>:<fpage>e4770</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pone.0004770</pub-id><?supplied-pmid 19274089?><pub-id pub-id-type="pmid">19274089</pub-id></mixed-citation>
+      </ref>
+      <ref id="B69">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Matsumoto</surname><given-names>N.</given-names></name><name><surname>Minamimoto</surname><given-names>T.</given-names></name><name><surname>Graybiel</surname><given-names>A. M.</given-names></name><name><surname>Kimura</surname><given-names>M.</given-names></name></person-group> (<year>2001</year>). <article-title>Neurons in the thalamic CM-Pf complex supply striatal neurons with information about behaviorally significant sensory events</article-title>. <source>J. Neurophysiol.</source>
+<volume>85</volume>, <fpage>960</fpage>–<lpage>976</lpage>. <?supplied-pmid 11160526?><pub-id pub-id-type="pmid">11160526</pub-id></mixed-citation>
+      </ref>
+      <ref id="B70">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Matsushita</surname><given-names>N.</given-names></name><name><surname>Okada</surname><given-names>H.</given-names></name><name><surname>Yasoshima</surname><given-names>Y.</given-names></name><name><surname>Takahashi</surname><given-names>K.</given-names></name><name><surname>Kiuchi</surname><given-names>K.</given-names></name><name><surname>Kobayashi</surname><given-names>K.</given-names></name></person-group> (<year>2002</year>). <article-title>Dynamics of tyrosine hydroxylase promoter activity during midbrain dopaminergic neuron development</article-title>. <source>J. Neurochem.</source>
+<volume>82</volume>, <fpage>295</fpage>–<lpage>304</lpage>. <pub-id pub-id-type="doi">10.1046/j.1471-4159.2002.00972.x</pub-id><?supplied-pmid 12124430?><pub-id pub-id-type="pmid">12124430</pub-id></mixed-citation>
+      </ref>
+      <ref id="B71">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mattis</surname><given-names>J.</given-names></name><name><surname>Tye</surname><given-names>K. M.</given-names></name><name><surname>Ferenczi</surname><given-names>E. A.</given-names></name><name><surname>Ramakrishnan</surname><given-names>C.</given-names></name><name><surname>O'Shea</surname><given-names>D. J.</given-names></name><name><surname>Prakash</surname><given-names>R.</given-names></name><etal/></person-group>. (<year>2012</year>). <article-title>Principles for applying optogenetic tools derived from direct comparative analysis of microbial opsins</article-title>. <source>Nat. Methods</source>
+<volume>9</volume>, <fpage>159</fpage>–<lpage>172</lpage>. <pub-id pub-id-type="doi">10.1038/nmeth.1808</pub-id><?supplied-pmid 22179551?><pub-id pub-id-type="pmid">22179551</pub-id></mixed-citation>
+      </ref>
+      <ref id="B72">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McCool</surname><given-names>M. F.</given-names></name><name><surname>Patel</surname><given-names>S.</given-names></name><name><surname>Talati</surname><given-names>R.</given-names></name><name><surname>Ragozzino</surname><given-names>M. E.</given-names></name></person-group> (<year>2008</year>). <article-title>Differential involvement of M1-type and M4-type muscarinic cholinergic receptors in the dorsomedial striatum in task switching</article-title>. <source>Neurobiol. Learn. Mem.</source>
+<volume>89</volume>, <fpage>114</fpage>–<lpage>124</lpage>. <pub-id pub-id-type="doi">10.1016/j.nlm.2007.06.005</pub-id><?supplied-pmid 17709264?><pub-id pub-id-type="pmid">17709264</pub-id></mixed-citation>
+      </ref>
+      <ref id="B73">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Minamimoto</surname><given-names>T.</given-names></name><name><surname>Hori</surname><given-names>Y.</given-names></name><name><surname>Kimura</surname><given-names>M.</given-names></name></person-group> (<year>2005</year>). <article-title>Complementary process to response bias in the centromedian nucleus of the thalamus</article-title>. <source>Science</source>
+<volume>308</volume>, <fpage>1798</fpage>–<lpage>1801</lpage>. <pub-id pub-id-type="doi">10.1126/science.1109154</pub-id><?supplied-pmid 15961671?><pub-id pub-id-type="pmid">15961671</pub-id></mixed-citation>
+      </ref>
+      <ref id="B74">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Minamimoto</surname><given-names>T.</given-names></name><name><surname>Hori</surname><given-names>Y.</given-names></name><name><surname>Yamanaka</surname><given-names>K.</given-names></name><name><surname>Kimura</surname><given-names>M.</given-names></name></person-group> (<year>2014</year>). <article-title>Neural signal for counteracting pre-action bias in the centromedian thalamic nucleus</article-title>. <source>Front. Syst. Neurosci.</source>
+<volume>8</volume>:<fpage>3</fpage>. <pub-id pub-id-type="doi">10.3389/fnsys.2014.00003</pub-id><?supplied-pmid 24478641?><pub-id pub-id-type="pmid">24478641</pub-id></mixed-citation>
+      </ref>
+      <ref id="B75">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Minamimoto</surname><given-names>T.</given-names></name><name><surname>Kimura</surname><given-names>M.</given-names></name></person-group> (<year>2002</year>). <article-title>Participation of the thalamic CM-Pf complex in attentional orienting</article-title>. <source>J. Neurophysiol.</source>
+<volume>87</volume>, <fpage>3090</fpage>–<lpage>3101</lpage>. <pub-id pub-id-type="doi">10.1016/S0168-0102(02)00087-1</pub-id><?supplied-pmid 12037210?><pub-id pub-id-type="pmid">12037210</pub-id></mixed-citation>
+      </ref>
+      <ref id="B76">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Miura</surname><given-names>M.</given-names></name><name><surname>Ishii</surname><given-names>K.</given-names></name><name><surname>Aosaki</surname><given-names>T.</given-names></name><name><surname>Sumikawa</surname><given-names>K.</given-names></name></person-group> (<year>2006</year>). <article-title>Chronic nicotine treatment increases GABAergic input to striatal neurons</article-title>. <source>Neuroreport</source>
+<volume>17</volume>, <fpage>537</fpage>–<lpage>540</lpage>. <pub-id pub-id-type="doi">10.1097/01.wnr.0000204984.21748.e3</pub-id><?supplied-pmid 16543821?><pub-id pub-id-type="pmid">16543821</pub-id></mixed-citation>
+      </ref>
+      <ref id="B77">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Miura</surname><given-names>M.</given-names></name><name><surname>Saino-Saito</surname><given-names>S.</given-names></name><name><surname>Masuda</surname><given-names>M.</given-names></name><name><surname>Kobayashi</surname><given-names>K.</given-names></name><name><surname>Aosaki</surname><given-names>T.</given-names></name></person-group> (<year>2007</year>). <article-title>Compartment-specific modulation of GABAergic synaptic transmission by mu-opioid receptor in the mouse striatum with green fluorescent protein-expressing dopamine islands</article-title>. <source>J. Neurosci.</source>
+<volume>27</volume>, <fpage>9721</fpage>–<lpage>9728</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.2993-07.2007</pub-id><?supplied-pmid 17804632?><pub-id pub-id-type="pmid">17804632</pub-id></mixed-citation>
+      </ref>
+      <ref id="B78">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Morris</surname><given-names>G.</given-names></name><name><surname>Arkadir</surname><given-names>D.</given-names></name><name><surname>Nevet</surname><given-names>A.</given-names></name><name><surname>Vaadia</surname><given-names>E.</given-names></name><name><surname>Bergman</surname><given-names>H.</given-names></name></person-group> (<year>2004</year>). <article-title>Coincident but distinct messages of midbrain dopamine and striatal tonically active neurons</article-title>. <source>Neuron</source>
+<volume>43</volume>, <fpage>133</fpage>–<lpage>143</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuron.2004.06.012</pub-id><?supplied-pmid 15233923?><pub-id pub-id-type="pmid">15233923</pub-id></mixed-citation>
+      </ref>
+      <ref id="B79">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mounir</surname><given-names>S.</given-names></name><name><surname>Parent</surname><given-names>A.</given-names></name></person-group> (<year>2002</year>). <article-title>The expression of neurokinin-1 receptor at striatal and pallidal levels in normal human brain</article-title>. <source>Neurosci. Res.</source>
+<volume>44</volume>, <fpage>71</fpage>–<lpage>81</lpage>. <pub-id pub-id-type="doi">10.1016/S0168-0102(02)00087-1</pub-id><?supplied-pmid 12204295?><pub-id pub-id-type="pmid">12204295</pub-id></mixed-citation>
+      </ref>
+      <ref id="B80">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Murray</surname><given-names>R. C.</given-names></name><name><surname>Gilbert</surname><given-names>Y. E.</given-names></name><name><surname>Logan</surname><given-names>A. S.</given-names></name><name><surname>Hebbard</surname><given-names>J. C.</given-names></name><name><surname>Horner</surname><given-names>K. A.</given-names></name></person-group> (<year>2014</year>). <article-title>Striatal patch compartment lesions alter methamphetamine-induced behavior and immediate early gene expression in the striatum, substantia nigra and frontal cortex</article-title>. <source>Brain Struct. Funct.</source>
+<volume>219</volume>, <fpage>1213</fpage>–<lpage>1229</lpage>. <pub-id pub-id-type="doi">10.1007/s00429-013-0559-x</pub-id><?supplied-pmid 23625147?><pub-id pub-id-type="pmid">23625147</pub-id></mixed-citation>
+      </ref>
+      <ref id="B81">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nelson</surname><given-names>A. B.</given-names></name><name><surname>Bussert</surname><given-names>T. G.</given-names></name><name><surname>Kreitzer</surname><given-names>A. C.</given-names></name><name><surname>Seal</surname><given-names>R. P.</given-names></name></person-group> (<year>2014a</year>). <article-title>Striatal cholinergic neurotransmission requires VGLUT3</article-title>. <source>J. Neurosci.</source>
+<volume>34</volume>, <fpage>8772</fpage>–<lpage>8777</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.0901-14.2014</pub-id><?supplied-pmid 24966377?><pub-id pub-id-type="pmid">24966377</pub-id></mixed-citation>
+      </ref>
+      <ref id="B82">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nelson</surname><given-names>A. B.</given-names></name><name><surname>Hammack</surname><given-names>N.</given-names></name><name><surname>Yang</surname><given-names>C. F.</given-names></name><name><surname>Shah</surname><given-names>N. M.</given-names></name><name><surname>Seal</surname><given-names>R. P.</given-names></name><name><surname>Kreitzer</surname><given-names>A. C.</given-names></name></person-group> (<year>2014b</year>). <article-title>Striatal cholinergic interneurons Drive GABA release from dopamine terminals</article-title>. <source>Neuron</source>
+<volume>82</volume>, <fpage>63</fpage>–<lpage>70</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuron.2014.01.023</pub-id><?supplied-pmid 24613418?><pub-id pub-id-type="pmid">24613418</pub-id></mixed-citation>
+      </ref>
+      <ref id="B83">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nguyen</surname><given-names>X. V.</given-names></name><name><surname>Liu</surname><given-names>M.</given-names></name><name><surname>Kim</surname><given-names>H. C.</given-names></name><name><surname>Bing</surname><given-names>G.</given-names></name></person-group> (<year>2009</year>). <article-title>Effects of prodynorphin deletion on striatal dopamine in mice during normal aging and in response to MPTP</article-title>. <source>Exp. Neurol.</source>
+<volume>219</volume>, <fpage>228</fpage>–<lpage>238</lpage>. <pub-id pub-id-type="doi">10.1016/j.expneurol.2009.05.028</pub-id><?supplied-pmid 19500577?><pub-id pub-id-type="pmid">19500577</pub-id></mixed-citation>
+      </ref>
+      <ref id="B84">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Okada</surname><given-names>K.</given-names></name><name><surname>Nishizawa</surname><given-names>K.</given-names></name><name><surname>Fukabori</surname><given-names>R.</given-names></name><name><surname>Kai</surname><given-names>N.</given-names></name><name><surname>Shiota</surname><given-names>A.</given-names></name><name><surname>Ueda</surname><given-names>M.</given-names></name><etal/></person-group>. (<year>2014</year>). <article-title>Enhanced flexibility of place discrimination learning by targeting striatal cholinergic interneurons</article-title>. <source>Nat. Commun.</source>
+<volume>5</volume>, <fpage>3778</fpage>. <pub-id pub-id-type="doi">10.1038/ncomms4778</pub-id><?supplied-pmid 24797209?><pub-id pub-id-type="pmid">24797209</pub-id></mixed-citation>
+      </ref>
+      <ref id="B85">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Prensa</surname><given-names>L.</given-names></name><name><surname>Parent</surname><given-names>A.</given-names></name></person-group> (<year>2001</year>). <article-title>The nigrostriatal pathway in the rat: a single-axon study of the relationship between dorsal and ventral tier nigral neurons and the striosome/matrix striatal compartments</article-title>. <source>J. Neurosci.</source>
+<volume>21</volume>, <fpage>7247</fpage>–<lpage>7260</lpage>. <?supplied-pmid 11549735?><pub-id pub-id-type="pmid">11549735</pub-id></mixed-citation>
+      </ref>
+      <ref id="B86">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Raju</surname><given-names>D. V.</given-names></name><name><surname>Shah</surname><given-names>D. J.</given-names></name><name><surname>Wright</surname><given-names>T. M.</given-names></name><name><surname>Hall</surname><given-names>R. A.</given-names></name><name><surname>Smith</surname><given-names>Y.</given-names></name></person-group> (<year>2006</year>). <article-title>Differential synaptology of vGluT2-containing thalamostriatal afferents between the patch and matrix compartments in rats</article-title>. <source>J. Comp. Neurol.</source>
+<volume>499</volume>, <fpage>231</fpage>–<lpage>243</lpage>. <pub-id pub-id-type="doi">10.1002/cne.21099</pub-id><?supplied-pmid 16977615?><pub-id pub-id-type="pmid">16977615</pub-id></mixed-citation>
+      </ref>
+      <ref id="B87">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rossi</surname><given-names>J.</given-names></name><name><surname>Balthasar</surname><given-names>N.</given-names></name><name><surname>Olson</surname><given-names>D.</given-names></name><name><surname>Scott</surname><given-names>M.</given-names></name><name><surname>Berglund</surname><given-names>E.</given-names></name><name><surname>Lee</surname><given-names>C. E.</given-names></name><etal/></person-group>. (<year>2011</year>). <article-title>Melanocortin-4 receptors expressed by cholinergic neurons regulate energy balance and glucose homeostasis</article-title>. <source>Cell Metab.</source>
+<volume>13</volume>, <fpage>195</fpage>–<lpage>204</lpage>. <pub-id pub-id-type="doi">10.1016/j.cmet.2011.01.010</pub-id><?supplied-pmid 21284986?><pub-id pub-id-type="pmid">21284986</pub-id></mixed-citation>
+      </ref>
+      <ref id="B88">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Saka</surname><given-names>E.</given-names></name><name><surname>Goodrich</surname><given-names>C.</given-names></name><name><surname>Harlan</surname><given-names>P.</given-names></name><name><surname>Madras</surname><given-names>B. K.</given-names></name><name><surname>Graybiel</surname><given-names>A. M.</given-names></name></person-group> (<year>2004</year>). <article-title>Repetitive behaviors in monkeys are linked to specific striatal activation patterns</article-title>. <source>J. Neurosci.</source>
+<volume>24</volume>, <fpage>7557</fpage>–<lpage>7565</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.1072-04.2004</pub-id><?supplied-pmid 15329403?><pub-id pub-id-type="pmid">15329403</pub-id></mixed-citation>
+      </ref>
+      <ref id="B89">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Saka</surname><given-names>E.</given-names></name><name><surname>Iadarola</surname><given-names>M.</given-names></name><name><surname>Fitzgerald</surname><given-names>D. J.</given-names></name><name><surname>Graybiel</surname><given-names>A. M.</given-names></name></person-group> (<year>2002</year>). <article-title>Local circuit neurons in the striatum regulate neural and behavioral responses to dopaminergic stimulation</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume>99</volume>, <fpage>9004</fpage>–<lpage>9009</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.132212499</pub-id><?supplied-pmid 12060713?><pub-id pub-id-type="pmid">12060713</pub-id></mixed-citation>
+      </ref>
+      <ref id="B90">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Salinas</surname><given-names>A. G.</given-names></name><name><surname>Davis</surname><given-names>M. I.</given-names></name><name><surname>Lovinger</surname><given-names>D. M.</given-names></name><name><surname>Mateo</surname><given-names>Y.</given-names></name></person-group> (<year>2016</year>). <article-title>Dopamine dynamics and cocaine sensitivity differ between striosome and matrix compartments of the striatum</article-title>. <source>Neuropharmacology</source>
+<volume>108</volume>, <fpage>275</fpage>–<lpage>283</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuropharm.2016.03.049</pub-id><?supplied-pmid 27036891?><pub-id pub-id-type="pmid">27036891</pub-id></mixed-citation>
+      </ref>
+      <ref id="B91">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sandell</surname><given-names>J. H.</given-names></name><name><surname>Graybiel</surname><given-names>A. M.</given-names></name><name><surname>Chesselet</surname><given-names>M. F.</given-names></name></person-group> (<year>1986</year>). <article-title>A new enzyme marker for striatal compartmentalization: NADPH diaphorase activity in the caudate nucleus and putamen of the cat</article-title>. <source>J. Comp. Neurol.</source>
+<volume>243</volume>, <fpage>326</fpage>–<lpage>334</lpage>. <pub-id pub-id-type="doi">10.1002/cne.902430304</pub-id><?supplied-pmid 2419368?><pub-id pub-id-type="pmid">2419368</pub-id></mixed-citation>
+      </ref>
+      <ref id="B92">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schindelin</surname><given-names>J.</given-names></name><name><surname>Arganda-Carreras</surname><given-names>I.</given-names></name><name><surname>Frise</surname><given-names>E.</given-names></name><name><surname>Kaynig</surname><given-names>V.</given-names></name><name><surname>Longair</surname><given-names>M.</given-names></name><name><surname>Pietzsch</surname><given-names>T.</given-names></name><etal/></person-group>. (<year>2012</year>). <article-title>Fiji: an open-source platform for biological-image analysis</article-title>. <source>Nat. Methods</source>
+<volume>9</volume>, <fpage>676</fpage>–<lpage>682</lpage>. <pub-id pub-id-type="doi">10.1038/nmeth.2019</pub-id><?supplied-pmid 22743772?><pub-id pub-id-type="pmid">22743772</pub-id></mixed-citation>
+      </ref>
+      <ref id="B93">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schoffelmeer</surname><given-names>A. N.</given-names></name><name><surname>De Vries</surname><given-names>T. J.</given-names></name><name><surname>Wardeh</surname><given-names>G.</given-names></name><name><surname>van de Ven</surname><given-names>H. W.</given-names></name><name><surname>Vanderschuren</surname><given-names>L. J.</given-names></name></person-group> (<year>2002</year>). <article-title>Psychostimulant-induced behavioral sensitization depends on nicotinic receptor activation</article-title>. <source>J. Neurosci.</source>
+<volume>22</volume>, <fpage>3269</fpage>–<lpage>3276</lpage>. <?supplied-pmid 11943828?><pub-id pub-id-type="pmid">11943828</pub-id></mixed-citation>
+      </ref>
+      <ref id="B94">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schultz</surname><given-names>W.</given-names></name></person-group> (<year>2011</year>). <article-title>Potential vulnerabilities of neuronal reward, risk, and decision mechanisms to addictive drugs</article-title>. <source>Neuron</source>
+<volume>69</volume>, <fpage>603</fpage>–<lpage>617</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuron.2011.02.014</pub-id><?supplied-pmid 21338874?><pub-id pub-id-type="pmid">21338874</pub-id></mixed-citation>
+      </ref>
+      <ref id="B95">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Smith</surname><given-names>J. B.</given-names></name><name><surname>Klug</surname><given-names>J. R.</given-names></name><name><surname>Ross</surname><given-names>D. L.</given-names></name><name><surname>Howard</surname><given-names>C. D.</given-names></name><name><surname>Hollon</surname><given-names>N. G.</given-names></name><name><surname>Ko</surname><given-names>V. I.</given-names></name><etal/></person-group>. (<year>2016</year>). <article-title>Genetic-based dissection unveils the inputs and outputs of striatal patch and matrix compartments</article-title>. <source>Neuron</source>
+<volume>91</volume>, <fpage>1069</fpage>–<lpage>1084</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuron.2016.07.046</pub-id><?supplied-pmid 27568516?><pub-id pub-id-type="pmid">27568516</pub-id></mixed-citation>
+      </ref>
+      <ref id="B96">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Steiner</surname><given-names>H.</given-names></name><name><surname>Gerfen</surname><given-names>C. R.</given-names></name></person-group> (<year>1995</year>). <article-title>Dynorphin opioid inhibition of cocaine-induced, D1 dopamine receptor-mediated immediate-early gene expression in the striatum</article-title>. <source>J. Comp. Neurol.</source>
+<volume>353</volume>, <fpage>200</fpage>–<lpage>212</lpage>. <pub-id pub-id-type="doi">10.1002/cne.903530204</pub-id><?supplied-pmid 7745131?><pub-id pub-id-type="pmid">7745131</pub-id></mixed-citation>
+      </ref>
+      <ref id="B97">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Stensrud</surname><given-names>M. J.</given-names></name><name><surname>Chaudhry</surname><given-names>F. A.</given-names></name><name><surname>Leergaard</surname><given-names>T. B.</given-names></name><name><surname>Bjaalie</surname><given-names>J. G.</given-names></name><name><surname>Gundersen</surname><given-names>V.</given-names></name></person-group> (<year>2013</year>). <article-title>Vesicular glutamate transporter-3 in the rodent brain: vesicular colocalization with vesicular gamma-aminobutyric acid transporter</article-title>. <source>J. Comp. Neurol.</source>
+<volume>521</volume>, <fpage>3042</fpage>–<lpage>3056</lpage>. <pub-id pub-id-type="doi">10.1002/cne.23331</pub-id><?supplied-pmid 23633129?><pub-id pub-id-type="pmid">23633129</pub-id></mixed-citation>
+      </ref>
+      <ref id="B98">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sullivan</surname><given-names>M. A.</given-names></name><name><surname>Chen</surname><given-names>H.</given-names></name><name><surname>Morikawa</surname><given-names>H.</given-names></name></person-group> (<year>2008</year>). <article-title>Recurrent inhibitory network among striatal cholinergic interneurons</article-title>. <source>J. Neurosci.</source>
+<volume>28</volume>, <fpage>8682</fpage>–<lpage>8690</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.2411-08.2008</pub-id><?supplied-pmid 18753369?><pub-id pub-id-type="pmid">18753369</pub-id></mixed-citation>
+      </ref>
+      <ref id="B99">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tan</surname><given-names>A.</given-names></name><name><surname>Moratalla</surname><given-names>R.</given-names></name><name><surname>Lyford</surname><given-names>G. L.</given-names></name><name><surname>Worley</surname><given-names>P.</given-names></name><name><surname>Graybiel</surname><given-names>A. M.</given-names></name></person-group> (<year>2000</year>). <article-title>The activity-regulated cytoskeletal-associated protein arc is expressed in different striosome-matrix patterns following exposure to amphetamine and cocaine</article-title>. <source>J. Neurochem.</source>
+<volume>74</volume>, <fpage>2074</fpage>–<lpage>2078</lpage>. <pub-id pub-id-type="doi">10.1046/j.1471-4159.2000.0742074.x</pub-id><?supplied-pmid 10800951?><pub-id pub-id-type="pmid">10800951</pub-id></mixed-citation>
+      </ref>
+      <ref id="B100">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Taverna</surname><given-names>S.</given-names></name><name><surname>Ilijic</surname><given-names>E.</given-names></name><name><surname>Surmeier</surname><given-names>D. J.</given-names></name></person-group> (<year>2008</year>). <article-title>Recurrent collateral connections of striatal medium spiny neurons are disrupted in models of Parkinson's disease</article-title>. <source>J. Neurosci.</source>
+<volume>28</volume>, <fpage>5504</fpage>–<lpage>5512</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.5493-07.2008</pub-id><?supplied-pmid 18495884?><pub-id pub-id-type="pmid">18495884</pub-id></mixed-citation>
+      </ref>
+      <ref id="B101">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Thomsen</surname><given-names>M.</given-names></name><name><surname>Conn</surname><given-names>P. J.</given-names></name><name><surname>Lindsley</surname><given-names>C.</given-names></name><name><surname>Wess</surname><given-names>J.</given-names></name><name><surname>Boon</surname><given-names>J. Y.</given-names></name><name><surname>Fulton</surname><given-names>B. S.</given-names></name><etal/></person-group>. (<year>2010</year>). <article-title>Attenuation of cocaine's reinforcing and discriminative stimulus effects via muscarinic M1 acetylcholine receptor stimulation</article-title>. <source>J. Pharmacol. Exp. Ther.</source>
+<volume>332</volume>, <fpage>959</fpage>–<lpage>969</lpage>. <pub-id pub-id-type="doi">10.1124/jpet.109.162057</pub-id><?supplied-pmid 19996296?><pub-id pub-id-type="pmid">19996296</pub-id></mixed-citation>
+      </ref>
+      <ref id="B102">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Thorn</surname><given-names>C. A.</given-names></name><name><surname>Graybiel</surname><given-names>A. M.</given-names></name></person-group> (<year>2014</year>). <article-title>Differential entrainment and learning-related dynamics of spike and local field potential activity in the sensorimotor and associative striatum</article-title>. <source>J. Neurosci.</source>
+<volume>34</volume>, <fpage>2845</fpage>–<lpage>2859</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.1782-13.2014</pub-id><?supplied-pmid 24553926?><pub-id pub-id-type="pmid">24553926</pub-id></mixed-citation>
+      </ref>
+      <ref id="B103">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Threlfell</surname><given-names>S.</given-names></name><name><surname>Lalic</surname><given-names>T.</given-names></name><name><surname>Platt</surname><given-names>N. J.</given-names></name><name><surname>Jennings</surname><given-names>K. A.</given-names></name><name><surname>Deisseroth</surname><given-names>K.</given-names></name><name><surname>Cragg</surname><given-names>S. J.</given-names></name></person-group> (<year>2012</year>). <article-title>Striatal dopamine release is triggered by synchronized activity in cholinergic interneurons</article-title>. <source>Neuron</source>
+<volume>75</volume>, <fpage>58</fpage>–<lpage>64</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuron.2012.04.038</pub-id><?supplied-pmid 22794260?><pub-id pub-id-type="pmid">22794260</pub-id></mixed-citation>
+      </ref>
+      <ref id="B104">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tokuno</surname><given-names>H.</given-names></name><name><surname>Chiken</surname><given-names>S.</given-names></name><name><surname>Kametani</surname><given-names>K.</given-names></name><name><surname>Moriizumi</surname><given-names>T.</given-names></name></person-group> (<year>2002</year>). <article-title>Efferent projections from the striatal patch compartment: anterograde degeneration after selective ablation of neurons expressing mu-opioid receptor in rats</article-title>. <source>Neurosci. Lett.</source>
+<volume>332</volume>, <fpage>5</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1016/S0304-3940(02)00837-6</pub-id><?supplied-pmid 12377371?><pub-id pub-id-type="pmid">12377371</pub-id></mixed-citation>
+      </ref>
+      <ref id="B105">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tremblay</surname><given-names>L.</given-names></name><name><surname>Kemel</surname><given-names>M. L.</given-names></name><name><surname>Desban</surname><given-names>M.</given-names></name><name><surname>Gauchy</surname><given-names>C.</given-names></name><name><surname>Glowinski</surname><given-names>J.</given-names></name></person-group> (<year>1992</year>). <article-title>Distinct presynaptic control of dopamine release in striosomal- and matrix-enriched areas of the rat striatum by selective agonists of NK1, NK2, and NK3 tachykinin receptors</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume>89</volume>, <fpage>11214</fpage>–<lpage>11218</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.89.23.11214</pub-id><?supplied-pmid 1280822?><pub-id pub-id-type="pmid">1280822</pub-id></mixed-citation>
+      </ref>
+      <ref id="B106">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tritsch</surname><given-names>N. X.</given-names></name><name><surname>Ding</surname><given-names>J. B.</given-names></name><name><surname>Sabatini</surname><given-names>B. L.</given-names></name></person-group> (<year>2012</year>). <article-title>Dopaminergic neurons inhibit striatal output through non-canonical release of GABA</article-title>. <source>Nature</source>
+<volume>490</volume>, <fpage>262</fpage>–<lpage>266</lpage>. <pub-id pub-id-type="doi">10.1038/nature11466</pub-id><?supplied-pmid 23034651?><pub-id pub-id-type="pmid">23034651</pub-id></mixed-citation>
+      </ref>
+      <ref id="B107">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vanderschuren</surname><given-names>L. J.</given-names></name><name><surname>Schoffelmeer</surname><given-names>A. N.</given-names></name><name><surname>Van Leeuwen</surname><given-names>S. D.</given-names></name><name><surname>Hof</surname><given-names>L.</given-names></name><name><surname>Jonker</surname><given-names>A. J.</given-names></name><name><surname>Voorn</surname><given-names>P.</given-names></name></person-group> (<year>2002</year>). <article-title>Compartment-specific changes in striatal neuronal activity during expression of amphetamine sensitization are the result of drug hypersensitivity</article-title>. <source>Eur. J. Neurosci.</source>
+<volume>16</volume>, <fpage>2462</fpage>–<lpage>2468</lpage>. <pub-id pub-id-type="doi">10.1046/j.1460-9568.2002.02308.x</pub-id><?supplied-pmid 12492441?><pub-id pub-id-type="pmid">12492441</pub-id></mixed-citation>
+      </ref>
+      <ref id="B108">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Walker</surname><given-names>R. H.</given-names></name><name><surname>Arbuthnott</surname><given-names>G. W.</given-names></name><name><surname>Baughman</surname><given-names>R. W.</given-names></name><name><surname>Graybiel</surname><given-names>A. M.</given-names></name></person-group> (<year>1993</year>). <article-title>Dendritic domains of medium spiny neurons in the primate striatum: relationships to striosomal borders</article-title>. <source>J. Comp. Neurol.</source>
+<volume>337</volume>, <fpage>614</fpage>–<lpage>628</lpage>. <pub-id pub-id-type="doi">10.1002/cne.903370407</pub-id><?supplied-pmid 8288774?><pub-id pub-id-type="pmid">8288774</pub-id></mixed-citation>
+      </ref>
+      <ref id="B109">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>W.</given-names></name><name><surname>Darvas</surname><given-names>M.</given-names></name><name><surname>Storey</surname><given-names>G. P.</given-names></name><name><surname>Bamford</surname><given-names>I. J.</given-names></name><name><surname>Gibbs</surname><given-names>J. T.</given-names></name><name><surname>Palmiter</surname><given-names>R. D.</given-names></name><etal/></person-group>. (<year>2013</year>). <article-title>Acetylcholine encodes long-lasting presynaptic plasticity at glutamatergic synapses in the dorsal striatum after repeated amphetamine exposure</article-title>. <source>J. Neurosci.</source>
+<volume>33</volume>, <fpage>10405</fpage>–<lpage>10426</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.0014-13.2013</pub-id><?supplied-pmid 23785153?><pub-id pub-id-type="pmid">23785153</pub-id></mixed-citation>
+      </ref>
+      <ref id="B110">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Watabe-Uchida</surname><given-names>M.</given-names></name><name><surname>Zhu</surname><given-names>L.</given-names></name><name><surname>Ogawa</surname><given-names>S. K.</given-names></name><name><surname>Vamanrao</surname><given-names>A.</given-names></name><name><surname>Uchida</surname><given-names>N.</given-names></name></person-group> (<year>2012</year>). <article-title>Whole-brain mapping of direct inputs to midbrain dopamine neurons</article-title>. <source>Neuron</source>
+<volume>74</volume>, <fpage>858</fpage>–<lpage>873</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuron.2012.03.017</pub-id><?supplied-pmid 22681690?><pub-id pub-id-type="pmid">22681690</pub-id></mixed-citation>
+      </ref>
+      <ref id="B111">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhao</surname><given-names>S.</given-names></name><name><surname>Ting</surname><given-names>J. T.</given-names></name><name><surname>Atallah</surname><given-names>H. E.</given-names></name><name><surname>Qiu</surname><given-names>L.</given-names></name><name><surname>Tan</surname><given-names>J.</given-names></name><name><surname>Gloss</surname><given-names>B.</given-names></name><etal/></person-group>. (<year>2011</year>). <article-title>Cell type-specific channelrhodopsin-2 transgenic mice for optogenetic dissection of neural circuitry function</article-title>. <source>Nat. Methods</source>
+<volume>8</volume>, <fpage>745</fpage>–<lpage>752</lpage>. <pub-id pub-id-type="doi">10.1038/nmeth.1668</pub-id><?supplied-pmid 21985008?><pub-id pub-id-type="pmid">21985008</pub-id></mixed-citation>
+      </ref>
+      <ref id="B112">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhou</surname><given-names>F. M.</given-names></name><name><surname>Liang</surname><given-names>Y.</given-names></name><name><surname>Dani</surname><given-names>J. A.</given-names></name></person-group> (<year>2001</year>). <article-title>Endogenous nicotinic cholinergic activity regulates dopamine release in the striatum</article-title>. <source>Nat. Neurosci.</source>
+<volume>4</volume>, <fpage>1224</fpage>–<lpage>1229</lpage>. <pub-id pub-id-type="doi">10.1038/nn769</pub-id><?supplied-pmid 11713470?><pub-id pub-id-type="pmid">11713470</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record>

@@ -1,0 +1,793 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5359317</identifier><datestamp>2017-04-04</datestamp><setSpec>frontmicrobio</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Microbiol</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Microbiol</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Microbiol.</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Microbiology</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1664-302X</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5359317</article-id>
+      <article-id pub-id-type="pmcid">PMC5359317</article-id>
+      <article-id pub-id-type="pmc-uid">5359317</article-id>
+      <article-id pub-id-type="doi">10.3389/fmicb.2017.00459</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Microbiology</subject>
+          <subj-group>
+            <subject>Methods</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Production of Superoxide in Bacteria Is Stress- and Cell State-Dependent: A Gating-Optimized Flow Cytometry Method that Minimizes ROS Measurement Artifacts with Fluorescent Dyes</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>McBee</surname>
+            <given-names>Megan E.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn002">
+            <sup>†</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn003">
+            <sup>‡</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/411092/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chionh</surname>
+            <given-names>Yok H.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn003">
+            <sup>‡</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/411259/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sharaf</surname>
+            <given-names>Mariam L.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn003">
+            <sup>‡</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ho</surname>
+            <given-names>Peiying</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/415985/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cai</surname>
+            <given-names>Maggie W. L.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/416006/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dedon</surname>
+            <given-names>Peter C.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn001">
+            <sup>*</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/144095/overview"/>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <sup>1</sup>
+        <institution>Infectious Disease Interdisciplinary Research Group, Singapore-MIT Alliance for Research and Technology</institution>
+        <country>Singapore, Singapore</country>
+      </aff>
+      <aff id="aff2">
+        <sup>2</sup>
+        <institution>Department of Microbiology and Immunology, Yong Loo Lin School of Medicine, National University of Singapore</institution>
+        <country>Singapore, Singapore</country>
+      </aff>
+      <aff id="aff3">
+        <sup>3</sup>
+        <institution>Department of Biological Engineering, Massachusetts Institute of Technology, Cambridge</institution>
+        <country>MA, USA</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <p>Edited by: <italic>Miguel A. Aon, National Institute on Aging (NIH), USA</italic></p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Reviewed by: <italic>Catrin Ffion Williams, Cardiff University, UK; Sergio Adrian Guerrero, National University of the Littoral, Argentina</italic></p>
+        </fn>
+        <corresp id="fn001">*Correspondence: <italic>Peter C. Dedon, <email xlink:type="simple">pcdedon@mit.edu</email></italic></corresp>
+        <fn fn-type="other" id="fn002">
+          <p><sup>†</sup>Present address: <italic>Megan E. McBee, Tychan Pte Ltd, Singapore, Singapore</italic></p>
+        </fn>
+        <fn fn-type="other" id="fn003">
+          <p>
+            <sup>‡</sup>
+            <italic>These authors have contributed equally to this work.</italic>
+          </p>
+        </fn>
+        <fn fn-type="other" id="fn004">
+          <p>This article was submitted to Microbial Physiology and Metabolism, a section of the journal Frontiers in Microbiology</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>3</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2017</year>
+      </pub-date>
+      <volume>8</volume>
+      <elocation-id>459</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>31</day>
+          <month>1</month>
+          <year>2017</year>
+        </date>
+        <date date-type="accepted">
+          <day>06</day>
+          <month>3</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2017 McBee, Chionh, Sharaf, Ho, Cai and Dedon.</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <copyright-holder>McBee, Chionh, Sharaf, Ho, Cai and Dedon</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The role of reactive oxygen species (ROS) in microbial metabolism and stress response has emerged as a major theme in microbiology and infectious disease. Reactive fluorescent dyes have the potential to advance the study of ROS in the complex intracellular environment, especially for high-content and high-throughput analyses. However, current dye-based approaches to measuring intracellular ROS have the potential for significant artifacts. Here, we describe a robust platform for flow cytometric quantification of ROS in bacteria using fluorescent dyes, with ROS measurements in 10s-of-1000s of individual cells under a variety of conditions. False positives and variability among sample types (e.g., bacterial species, stress conditions) are reduced with a flexible four-step gating scheme that accounts for side- and forward-scattered light (morphological changes), background fluorescence, DNA content, and dye uptake to identify cells producing ROS. Using CellROX Green dye with <italic>Escherichia coli, Mycobacterium smegmatis</italic>, and <italic>Mycobacterium bovis</italic> BCG as diverse model bacteria, we show that (1) the generation of a quantifiable CellROX Green signal for superoxide, but not hydrogen peroxide-induced hydroxyl radicals, validates this dye as a superoxide detector; (2) the level of dye-detectable superoxide does not correlate with cytotoxicity or antibiotic sensitivity; (3) the non-replicating, antibiotic tolerant state of nutrient-deprived mycobacteria is associated with high levels of superoxide; and (4) antibiotic-induced production of superoxide is idiosyncratic with regard to both the species and the physiological state of the bacteria. We also show that the gating method is applicable to other fluorescent indicator dyes, such as the 5-carboxyfluorescein diacetate acetoxymethyl ester and 5-cyano-2,3-ditolyl tetrazolium chloride for cellular esterase and reductive respiratory activities, respectively. These results demonstrate that properly controlled flow cytometry coupled with fluorescent probes provides precise and accurate quantitative analysis of ROS generation and metabolic changes in stressed bacteria.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>reactive oxygen species (ROS)</kwd>
+        <kwd>flow cytometry</kwd>
+        <kwd>bacteria</kwd>
+        <kwd>oxidative stress</kwd>
+        <kwd>starvation</kwd>
+        <kwd>antibiotics</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source id="cn001">Singapore-MIT Alliance for Research and Technology Centre<named-content content-type="fundref-id">10.13039/501100001474</named-content></funding-source>
+        </award-group>
+      </funding-group>
+      <counts>
+        <fig-count count="5"/>
+        <table-count count="0"/>
+        <equation-count count="0"/>
+        <ref-count count="72"/>
+        <page-count count="17"/>
+        <word-count count="0"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Introduction</title>
+      <p>Reactive oxygen species (ROS) have been proposed to play critical roles in microbial metabolism (<xref rid="B27" ref-type="bibr">Imlay, 2013</xref>) and response to environmental stressors such as antibiotic exposure (<xref rid="B10" ref-type="bibr">Brynildsen et al., 2013</xref>; <xref rid="B72" ref-type="bibr">Zhao and Drlica, 2014</xref>). Though “ROS” are often viewed as a single agent, the widely differing chemistry of specific types of ROS critically determines their function in microbes. Among the biologically relevant ROS, superoxide (O<sub>2</sub><sup>•–</sup>) is a relatively unreactive species (t<sub>1/2</sub> ∼ 1–15 min) arising from electron transport processes and cytochrome activity, and is detoxified by superoxide dismutases (SOD) to the relatively inert hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) (<xref rid="B23" ref-type="bibr">Hassan and Fridovich, 1979</xref>; <xref rid="B33" ref-type="bibr">Iyanagi, 1990</xref>; <xref rid="B13" ref-type="bibr">Dedon and Tannenbaum, 2004</xref>). Reduction of H<sub>2</sub>O<sub>2</sub> by redox-active metals (e.g., Fe<sup>2+</sup>/Fe<sup>3+</sup> and Cu<sup>1+</sup>/Cu<sup>2+</sup> in Fenton chemistry), yields highly reactive hydroxyl radicals (t<sub>1/2</sub> ∼ 10<sup>-9</sup> s) (<xref rid="B29" ref-type="bibr">Imlay et al., 1988</xref>; <xref rid="B27" ref-type="bibr">Imlay, 2013</xref>, <xref rid="B28" ref-type="bibr">2015</xref>; <xref rid="B5" ref-type="bibr">Bataineh et al., 2016</xref>). Though less abundant in bacteria, another source of hydroxyl radicals involves homolytic scission of peroxynitrite (ONOO<sup>-</sup>; t<sub>1/2</sub> ∼ 1 s) arising from the reaction of nitric oxide (NO) and O<sub>2</sub><sup>•–</sup> (<xref rid="B13" ref-type="bibr">Dedon and Tannenbaum, 2004</xref>).</p>
+      <p>The recent emergence of fluorescent probes to detect ROS builds on the decades-long use of fluorescent dyes to study bacterial components, such as nucleic acid abundance or dehydrogenase activity (<xref rid="B68" ref-type="bibr">Walberg et al., 1999</xref>; <xref rid="B50" ref-type="bibr">Nebe-von-Caron et al., 2000</xref>). In bacteria, fluorescent probes have been most widely used in attempts to define the role of ROS production in response to antibiotic exposures (<xref rid="B3" ref-type="bibr">Albesa et al., 2004</xref>; <xref rid="B21" ref-type="bibr">Goswami et al., 2006</xref>; <xref rid="B38" ref-type="bibr">Kohanski et al., 2007</xref>; <xref rid="B69" ref-type="bibr">Wang et al., 2010</xref>; <xref rid="B16" ref-type="bibr">Dwyer et al., 2012</xref>). A variety of fluorescent ROS probes are now available, with each probe claiming to possess different reactivity, stability, fluorescence and membrane transport properties (<xref rid="B34" ref-type="bibr">Kalyanaraman et al., 2012</xref>; <xref rid="B28" ref-type="bibr">Imlay, 2015</xref>). However, the efficiency and specificity of different dyes for detecting different ROS <italic>in vivo</italic> have rarely been established with any confidence (<xref rid="B34" ref-type="bibr">Kalyanaraman et al., 2012</xref>), much less across a range of different bacteria. Among other dyes, bacterial ROS have often been studied using 3′-(<italic>p</italic>-hydroxyphenyl) fluorescein (HPF) (<xref rid="B38" ref-type="bibr">Kohanski et al., 2007</xref>; <xref rid="B16" ref-type="bibr">Dwyer et al., 2012</xref>, <xref rid="B15" ref-type="bibr">2014</xref>) and 5- or 6-chloromethyl-2′,7′-dichlorodihydrofluorescein diacetate (CM-H<sub>2</sub>DCFDA) (<xref rid="B57" ref-type="bibr">Roca and Ramakrishnan, 2013</xref>; <xref rid="B15" ref-type="bibr">Dwyer et al., 2014</xref>). The latter is prone to signal artifacts due to erroneous amplification of the fluorescence intensity by a redox-cycling mechanism involving an intermediate radical (<xref rid="B34" ref-type="bibr">Kalyanaraman et al., 2012</xref>). This problem has led several groups to use HPF for ROS analysis in bacteria (<xref rid="B38" ref-type="bibr">Kohanski et al., 2007</xref>; <xref rid="B51" ref-type="bibr">Nguyen et al., 2011</xref>; <xref rid="B16" ref-type="bibr">Dwyer et al., 2012</xref>; <xref rid="B22" ref-type="bibr">Grant et al., 2012</xref>), but HPF almost exclusively detects “highly ROS” such as hydroxyl radical and hypochlorous acid (<xref rid="B63" ref-type="bibr">Setsukinai et al., 2003</xref>). While there is emerging evidence for involvement of ROS in antibiotic-induced stress in a limited range of model bacteria, mainly <italic>Escherichia coli</italic>, recent studies have challenged the generality of antibiotic-induced ROS production on the basis of the low dynamic range of HPF (<xref rid="B55" ref-type="bibr">Renggli et al., 2013</xref>) and problems with spurious fluorescent signals and other artifacts (<xref rid="B35" ref-type="bibr">Keren et al., 2013</xref>; <xref rid="B40" ref-type="bibr">Liu and Imlay, 2013</xref>; <xref rid="B55" ref-type="bibr">Renggli et al., 2013</xref>; <xref rid="B54" ref-type="bibr">Paulander et al., 2014</xref>).</p>
+      <p>There are other factors that complicate the use of ROS-sensitive dyes. Among these are the uptake and removal of both unreacted and ROS-activated dye molecules from the cells by efflux pumps, increased membrane permeability caused by cellular stress (<xref rid="B55" ref-type="bibr">Renggli et al., 2013</xref>), as well as poorly defined bacterial metabolic states at the time of the stress and dye staining. For example, while <italic>E. coli</italic> does not possess cytochrome P450s, mycobacteria have dozens (<xref rid="B45" ref-type="bibr">McLean et al., 2010</xref>; <xref rid="B53" ref-type="bibr">Ouellet et al., 2010</xref>), with P450s as well-established sources of O<sub>2</sub><sup>•–</sup> (<xref rid="B49" ref-type="bibr">Munro et al., 2013</xref>). The difficulty of measuring ROS coupled with these idiosyncratic factors in individual bacteria and across different bacterial species have hindered a broader examination of cell state as a factor in stress-induced ROS generation and its role in the decision between cell death and survival.</p>
+      <p>To overcome these problems, we developed a robust, artifact-minimized platform for high-throughput flow cytometric detection of ROS in bacteria using a stable, DNA-binding fluorescent dye. This standardized approach employs a four-step gating scheme to account for side-scattered and forward-scattered light, DNA content, and dye uptake to accurately identify and quantify ROS-producing cells. The method accounts for autofluorescence arising from changes in cell morphology, membrane composition, and protein expression during normal cell growth and the cellular response to stresses such as antibiotic treatment and starvation (<xref rid="B37" ref-type="bibr">Kim et al., 2011</xref>; <xref rid="B55" ref-type="bibr">Renggli et al., 2013</xref>; <xref rid="B54" ref-type="bibr">Paulander et al., 2014</xref>).</p>
+      <p>We piloted this method with CellROX Green dye to assess its activity in living bacteria and to assess claims (<xref rid="B12" ref-type="bibr">Choi et al., 2015</xref>) that CellROX Green is selective for O<sub>2</sub><sup>•–</sup> in bacterial cells. There are many methods for detecting O<sub>2</sub><sup>•–</sup>, including electrochemistry, UV-VIS spectroscopy, chemiluminescence, and vibrational spectroscopy (<xref rid="B24" ref-type="bibr">Hayyan et al., 2016</xref>), though intracellular O<sub>2</sub><sup>•–</sup> has traditionally been quantified by extracellular reduction of ferricytochrome c or by electron spin-resonance (ESR) with spin trapping by 5-diethoxyphosphoryl-5-methyl-1-pyrroline <italic>N</italic>-oxide (<xref rid="B18" ref-type="bibr">Frejaville et al., 1995</xref>; <xref rid="B26" ref-type="bibr">Huycke et al., 1996</xref>; <xref rid="B39" ref-type="bibr">Korshunov and Imlay, 2006</xref>). Neither of these bulk measurements provide single-cell resolution of endogenous O<sub>2</sub><sup>•–</sup> in bacterial populations. Though new probes specific to O<sub>2</sub><sup>•–</sup> and suitable for direct <italic>in vivo</italic> studies have been developed in recent years, they have not been evaluated in bacteria (<xref rid="B47" ref-type="bibr">Mukhopadhyay et al., 2007</xref>; <xref rid="B25" ref-type="bibr">Hu et al., 2015</xref>; <xref rid="B64" ref-type="bibr">Shin et al., 2015</xref>). Here, we applied our flow cytometric method with CellROX Green to quantify O<sub>2</sub><sup>•–</sup> production in three diverse but well-studied model bacteria, <italic>E. coli</italic> and the mycobacterial species <italic>Mycobacterium smegmatis</italic> and <italic>Mycobacterium bovis</italic> bacille Calmette-Guérin (BCG), all subjected to the well-studied stresses of antibiotic exposure and nutrient depletion. We found that changes in O<sub>2</sub><sup>•–</sup> production across isogenic bacterial populations are heterogeneous and highly dependent upon the nature of the stress and the physiological state of the cells. We also demonstrate the utility of the flow-cytometry method for two other metabolism-sensitive fluorescent dyes: 5-carboxyfluorescein diacetate acetoxymethyl ester (CFDA) for esterase activity (<xref rid="B61" ref-type="bibr">Schreer et al., 2005</xref>) and 5-cyano-2,3-ditolyl tetrazolium chloride (CTC) for cellular respiratory activity (<xref rid="B58" ref-type="bibr">Rodriguez et al., 1992</xref>).</p>
+    </sec>
+    <sec sec-type="materials|methods" id="s1">
+      <title>Materials and Methods</title>
+      <sec>
+        <title>Bacteria Strains and Culture</title>
+        <p><italic>Mycobacterium smegmatis</italic> mc<sup>2</sup>155 (ATCC 700084) was plated on 7H10 agar supplemented with 10% Middlebrook Oleic Albumin Dextrose Catalase (OADC) growth supplement and 0.2% glycerol. After picking three separate colonies, the mycobacterial strain was grown in 10 mL of 7H9 media supplemented with 10% albumin <sc>D</sc>-glucose-salt supplement (ADS), 0.2% glycerol, 0.05% Tween 80 at 37°C in a shaker. <italic>M. smegmatis</italic> was passaged twice before treatment of mid-log growing cells. <italic>M. bovis</italic> bacille Calmette Guérin (BCG) Pasteur strain 1172P2 was cultured from isogenic freezer stocks in 50 mL conical tubes then passaged into roller bottles with supplemented 7H9 media (<xref rid="B11" ref-type="bibr">Chionh et al., 2016</xref>). For nutrient-deprived (i.e., starved) cultures, <italic>M. smegmatis</italic> and BCG were grown to OD<sub>600</sub> 0.8–1.0, washed twice in PBS (137 mM NaCl, 2.7 mM KCl, 10 mM NaH<sub>2</sub>PO<sub>4</sub>, 1.8 mM KH<sub>2</sub>PO<sub>4</sub>, pH 7.4), and re-suspended to an OD<sub>600</sub> ∼1.0 (BCG) or 0.1 (<italic>M. smegmatis</italic>) in PBS plus 0.05% Tyloxapol (non-metabolizable detergent to prevent clumping) in roller bottles. CFUs for BCG were determined from 10-fold serial dilution plating on 7H10 at 37°C for 14–21 days. Single colonies of <italic>E. coli</italic> DH5α or K-12 BW25113 were grown overnight in LB broth, diluted 1:100 in fresh LB as a subculture and grown to OD<sub>600</sub> 0.4–0.6 to use in studies. CFUs for <italic>E. coli</italic> and <italic>M. smegmatis</italic> was determined from 10-fold serial dilution plating on LB incubated overnight (<italic>E. coli</italic>) or 2 days (<italic>M. smegmatis</italic>) at 37°C. Knock-out mutants for <italic>sodA</italic> and <italic>sodB</italic> in the <italic>E. coli</italic> K-12 BW25113 background were obtained from the <italic>E. coli</italic> Keio Knockout Collection (GE Dharmacon).</p>
+      </sec>
+      <sec>
+        <title>Antibiotic and Toxicant Exposures</title>
+        <p>Antibiotics were subjected to twofold serial dilutions in 7H9 media or PBS in 96-well plates containing 100 μL per well. For H<sub>2</sub>O<sub>2</sub> and menadione treatments, reagents were added to each well of a 96-well plate at concentrations twofold higher than the final exposure condition. Bacterial cultures were diluted to an OD 0.1 (<italic>M. smegmatis</italic> and <italic>E. coli</italic>) or 0.2 (BCG) and 100 μL was added to each well containing antibiotic, H<sub>2</sub>O<sub>2</sub>, menadione, media or PBS, for a total treatment volume of 200 μL. The plates were incubated for indicated times at 37°C. For menadione and H<sub>2</sub>O<sub>2</sub> treatments, cultures were washed once and resuspended in PBS, while antibiotic-treated cells were diluted in fresh media without washing. For the PBS versus 10% 7H9/LB, 20 uL of culture was transferred directly (no wash) into either 180 uL of 100% PBS or PBS + 10% LB/7H9 in the presence of 0.5 uM CellROX (a 10x dilution). After 30 min cells were fixed by the addition of paraformaldehyde (PFA; 4%) and analyzed by flow cytometry. Antibiotic-tolerant <italic>M. smegmatis</italic> were generated by diluting mid-log growing cells to OD 0.1 and aliquoting 100 μL to individual wells containing an antibiotic at a range of concentrations in a 96-well plate. Cultures were covered and incubated at 37°C with humidity for 1 or 5 days prior to analysis.</p>
+      </sec>
+      <sec>
+        <title>Flow Cytometry and Dye Staining</title>
+        <p>For flow cytometry staining, 20 μL volumes of treated cells were added to 180 μL of 0.5 μM CellROX Green (ThermoFisher), 5 mM CTC (ThermoFisher), or 10 ng/mL CFDA (ThermoFisher) in PBS in 96-well V-bottom plates and incubated for 30 min (1 h for CTC) at 37°C. For menadione and H<sub>2</sub>O<sub>2</sub> treatments, CellROX Green was included in the PBS during treatment (60 min). After incubation, 50 μL of DAPI (5 μg/mL) in 4% PFA-PBS was added to the cells for &gt;10 min at 25°C prior to analysis. Samples were analyzed within 2 h on a custom LSR II flow cytometer (BD Biosciences) with CellROX Green, CFDA, and CTC excited by an argon laser and detected with a 530/30 nm band-pass emission filter or 670 LP emission filter for CTC. DAPI was excited with a UV laser and detected with a 450/50 nm band-pass emission filter. Samples were analyzed using a HTS fluidics system directly from the 96-well V-bottom staining plate. The flow rate was set to 3.0 μL/s with a 150 μL injection volume, 100 μL mixing volume, 250 μL/s mixing speed, five mixes, and a wash volume of 800 μL. For each sample 50,000–200,000 events were collected when possible. For antibiotic treatments, only samples with &gt;10,000 DAPI<sup>+</sup> cells were analyzed. Data was collected by Diva (BD Biosciences) and analyzed with FlowJo v10.0.6 (Tree Star, Inc.). Gating was set using unstained samples for the bacterial population by forward-scatter (FSC; correlates with cell size) and side-scatter (SSC; correlates with cell internal granularity) of light and to determine background fluorescence. Single DAPI-stained cells were used to gate the DNA-positive population, while single CellROX Green-, CFDA-, or CTC-stained cells were used to determine the dye-positive population. The single-color stains were also used for compensation, as needed, between the dye signals. A Biotek Synergy 4 microplate reader was used for fluorescence measurements with excitation of CellROX Green using a 485/20 nm filter and emission captured at 528/20 nm. Statistical analyses were performed with Prism GraphPad Software 6.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Results</title>
+      <sec>
+        <title>Design Criteria for an Artifact-Minimized Method for High-Throughput Quantification of Bacterial ROS Using Fluorescent Dyes</title>
+        <p>The availability of fluorescent dyes for the detection and quantification of reactive chemical species in cells has fostered the development of single-cell, multi-parameter, high-throughput analyses in microbiology and antibiotic pharmacology, including both multi-well plate-based population assays and flow cytometry assays. However, factors such as dye uptake efficiency, dye efflux, changes in cell morphology, and background fluorescence complicate the application of these fluorescent dye-based assays to bacteria and confound the interpretation of observed changes in fluorescence. To achieve assay precision and accuracy and ensure credible and biologically meaningful results, we developed a four-step gating scheme (<bold>Figures <xref ref-type="fig" rid="F1">1A,B</xref></bold>) to select for: (1) particle size based on FSC and SSC as light passes through the cells, (2) DNA content based on DAPI staining (or other DNA-binding dyes), (3) the presence of dye based on fluorescence above unstained and DAPI-stained particles, and (4) dye reactivity above baseline or basal fluorescence. Application of this two-dye, multi-gating flow cytometry method distinguishes bacteria from debris by selecting for size and DNA content, which also distinguishes single cells from dividing cells and individual bacterial species in mixed cultures. Additionally, greater sensitivity and specificity for ROS and metabolic activity is achieved by removing contributions from autofluorescence and by selecting only cells that have taken up the dye, with sub-gating of those cells for highly fluorescent activated dye. Here, we illustrate this scheme with CellROX<sup>hi</sup> gating for endogenous ROS quantification (<bold>Figure <xref ref-type="fig" rid="F1">1B</xref></bold>) and then demonstrate the versatility of the assay with examples using CTC and CFDA dyes for cellular metabolism (<bold>Figures <xref ref-type="fig" rid="F1">1C,D</xref></bold>).</p>
+        <fig id="F1" position="float">
+          <label>FIGURE 1</label>
+          <caption>
+            <p><bold>Optimization of gating and other flow cytometric parameters minimizes artifacts in reactive oxygen species (ROS) detection with fluorescent probes in bacteria. (A)</bold> Workflow diagram summarizing the four-step flow cytometry gating strategy. <italic>Step 1</italic> selects for bacteria-sized and -shaped particles. <italic>Step 2</italic> excludes particles that do not contain DNA. <italic>Step 3</italic> accounts for background fluorescence by eliminating cells that did not take up the dye and cells with non-specific autofluorescence. <italic>Step 4</italic> quantifies metabolism-associated dye activation. The gating process and rationale is further elaborated in Section “Results and Discussion.” <bold>(B)</bold> Representative contour plots of the four-step gating scheme <italic>of Mycobacterium smegmatis</italic> stained with DAPI and the ROS-reactive dye CellROX Green. Cells are sequentially selected for FSC and SSC (<italic>Size</italic>), DAPI staining (<italic>DNA<sup>+</sup></italic>), dye presence (<italic>Dye<sup>+</sup></italic>), and dye reactivity (<italic>CellROX<sup>hi</sup></italic>). Representative contour plots of <italic>Steps 3 and 4</italic> for CTC <bold>(C)</bold> and CFDA <bold>(D)</bold> analyses in <italic>Mycobacterium bovis</italic> BCG. <bold>(E)</bold> SSC and FSC contour plots of log-growing (black) and antibiotic-exposed (gray) <italic>Escherichia coli</italic> and <italic>M. smegmatis</italic>. <italic>E. coli</italic> cultures were treated with 2 μg/mL ampicillin for 1 h and <italic>M. smegmatis</italic> with 2 μg/mL ethambutol for 1 h. <bold>(F)</bold> Histograms of DAPI-stained (DNA<sup>+</sup>) <italic>E. coli</italic> and <italic>M. smegmatis</italic> demonstrating increased background fluorescence in dead bacteria (heat-killed, red; PFA fixed, black) in comparison to live bacteria (gray) in the CellROX Green detection channel (green fluorescence).</p>
+          </caption>
+          <graphic xlink:href="fmicb-08-00459-g001"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>A 4-Steps Gating Scheme for the Accurate Quantification of ROS Levels in Bacteria</title>
+        <p><italic>Step 1</italic> in the analysis scheme (<bold>Figures <xref ref-type="fig" rid="F1">1A,B</xref></bold>) defines the bacterial population of interest based on FSC and SSC properties. In addition, <italic>Step 1</italic> gating can be adjusted for populations in which a significant portion exhibits changes in cell morphology. By considering increases in fluorescence observed in cells with elevated SSC or FSC post-treatment, which can be performed by two-dimensional gating such as SSC versus fluorescence, these cells can be selected for analysis if they pass the subsequent gates for non-specific background fluorescence (to be considered Dye<sup>+</sup>) and then for desired activation of the fluorescent dye. Each bacterial cell has morphological and biological properties that may be uniquely altered in response to stress or as part of its life cycle. Gating (i.e., restricting) SSC and FSC in <italic>Step 1</italic> allows consistent selection for cell size, shape, complexity, and composition. For example, during logarithmic growth, SSC and FSC profiles of rod-shaped filamentous <italic>E. coli</italic> differ from those of <italic>M. smegmatis</italic> bacilli (<bold>Figure <xref ref-type="fig" rid="F1">1E</xref></bold>). Overall, both bacilli and filamentous bacteria have higher FSC signals during cell division. At the same time, population heterogeneity in cell size or length and cellular macromolecular composition can be detected by FSC and SSC, respectively. For <italic>M. smegmatis</italic>, heterogeneity is likely due to bacterial replication on the basis of time rather than cell size (<xref rid="B4" ref-type="bibr">Aldridge et al., 2012</xref>). Depending upon cytometer settings, non-coccoid bacteria passing through the light source at different angles will be detected as lower or higher FSC/SSC signals than those observed for uniform spheres. Additionally, stresses such as antibiotic exposures can alter cell light scatter by inhibiting replication or altering cell morphology, such as by causing filamentation or by inhibiting septation (<bold>Figure <xref ref-type="fig" rid="F1">1E</xref></bold>) (<xref rid="B55" ref-type="bibr">Renggli et al., 2013</xref>; <xref rid="B54" ref-type="bibr">Paulander et al., 2014</xref>; <xref rid="B59" ref-type="bibr">Saint-Ruf et al., 2016</xref>). These differences in morphology and composition detected by FSC and SSC should be considered when interpreting bacterial populations during an analysis since these changes can significantly alter the observed fluorescence.</p>
+        <p><italic>Step 2</italic> ensures that only cells with intact DNA are included in the analysis. Small non-viable particles such as cell debris and dust particles also generate FSC and SSC signals. Therefore, DNA content staining is used to differentiate bacteria from particles. This staining step further enables the assessment of several biologically relevant parameters including detection of doubling cells, cell aggregates, and dead cells with fragmented DNA (<xref rid="B50" ref-type="bibr">Nebe-von-Caron et al., 2000</xref>). The gating also excludes artifacts from the analysis, which may arise from an abundance of dead cell debris in studies of bacterial persistence and dormancy, as pursued here with <italic>M. smegmatis</italic>. For example, subsequent experiments (illustrated in <bold>Figures <xref ref-type="fig" rid="F4">4</xref></bold>, <bold><xref ref-type="fig" rid="F5">5</xref></bold>) show that &gt;90% of the mycobacteria were killed by antibiotics before a drug-resistant population was established, with the debris potentially confounding flow cytometry analysis.</p>
+        <p><italic>Step 3</italic> accounts for dye-based background fluorescence and helps to distinguish cells that take up dye molecules from those that do not, thus increasing the accuracy and rigor of the ROS analysis. Here, the relatively weak but detectable fluorescence of unactivated dye is exploited to select all presumptive dye-containing cells by virtue of their fluorescence above that of unstained cells. This fluorescence of unactivated CellROX Green is apparent as a 10-fold increase in fluorescence in PBS solutions above the PBS background (28 versus 254 f.u. under conditions used in the flow studies) and by a &gt;1.5-fold increase in fluorescence when CellROX Green is added to heat-killed or PFA-fixed cells (depending upon fluorimeter settings and cell concentration). It is important to note that flow cytometry cannot be used to accurately attribute the source of increased fluorescence (above unstained controls) to specific changes in cellular morphology, composition and metabolism, steady-state ROS generation, or increased dye uptake. However, using this gate for dye uptake increases the accuracy for ROS-specific events in the assay. In the absence of this step, all cells from <italic>Steps 1</italic> and <italic>2</italic> will be analyzed regardless of dye uptake status. Only after gating for size, DNA, and dye presence is it possible to accurately identify cells in which ROS has potentially activated the dye molecules to fluoresce above background levels and to quantify the fluorescence intensities of these cells.</p>
+        <p>It is important to point out that <italic>Step 3</italic> also accounts for changes in background fluorescence from a variety of sources. For example, in our hands, the exponential growth in the presence of LB or 7H9 cell culture medium during staining of <italic>E. coli</italic> and <italic>M. smegmatis</italic>, respectively, increased background signals by up to 20-fold. Increases in fluorescence were also observed in PFA-fixed and heat-killed bacteria (<bold>Figure <xref ref-type="fig" rid="F1">1F</xref></bold>). As dead cells do not have ROS-generating metabolic processes, such fluorescence increases indicate that ungated fluorescent signals cannot be entirely attributed to the presence of ROS. In these cases, variation in the background fluorescence makes it difficult to determine whether the summed fluorescence increment, above that observed in unstained cells, is due to activated dye that reacted with ROS produced in metabolically active cells, by unreacted dye taken up by cells, or by fluorescent intracellular compounds, such as flavins (<xref rid="B7" ref-type="bibr">Benson et al., 1979</xref>). The Dye<sup>+/-</sup> gating in <italic>Step 3</italic> minimizes this issue by pre-selecting cells that possess fluorescence greater than unstained cells, which includes cells that have internalized dye molecules regardless of their activation state.</p>
+        <p>In <italic>Step 4</italic>, the degree of dye activation, presumably by ROS, is quantified, here as “CellROX<sup>hi</sup>.” <italic>Step 3</italic> selects for cells with fluorescence above untreated or control levels, with those with higher levels of fluorescence (CellROX<sup>hi</sup>) are deemed to contain elevated levels of the dye-reactive chemicals, presumably ROS; the identity of the reactive chemicals as specific forms of ROS must be defined by appropriate control experiments. Heat-killed or fixed cells that take up dye, but do not produce ROS or other reactive chemicals, are used as gating controls to set the threshold for CellROX<sup>hi</sup>. Alternatively, ROS production above basal levels or production observed in a control population (e.g., log growing, wild-type, or untreated cells) may also be used to set the CellROX<sup>hi</sup> threshold. With the prior gating steps, the normalizing denominator for the CellROX<sup>hi</sup> population is the sum total of cells with detectable fluorescence rather than all bacteria analyzed in the sample.</p>
+        <p>The general applicability and utility of the gating scheme is further illustrated in BCG for reductive respiratory activities using CTC and for cellular esterase activity using CFDA-AM (<bold>Figures <xref ref-type="fig" rid="F1">1B,C</xref></bold>). Similar considerations were made for FSC and SSC (<italic>Step 1</italic>), DNA counterstaining to differentiate cells from debris (<italic>Step 2</italic>), dye update and retention (<italic>Step 3</italic>) and dye activation above background fluorescence (<italic>Step 4</italic>). It is important to note here that CTC becomes insoluble upon reaction, which results in strong fluorescence from activated dye molecules retained within the cells, while the fluorescent carboxyfluoroscein product of CFDA-AM is negatively charged and thus retained within cells longer than fluorescein. This positive attribute is similar to the DNA-binding activity of ROS-activated CellRox Green.</p>
+      </sec>
+      <sec>
+        <title>CellROX Green is a Sensitive Detector of Superoxide but not H<sub>2</sub>O<sub>2</sub>-Induced ROS</title>
+        <p>In addition to quantifying ROS, identifying the ROS species generated during stress is a crucial step in establishing the precise molecular mechanisms underlying the stress response. The challenge here is that the reactivity of individual fluorescent probes for specific ROS has not been clearly defined under biological conditions and many probes react with a variety of oxidants and free radical species. We chose to use CellROX Green as an ROS probe due to its unique feature of having high fluorescence quantum yields only upon ROS-activation and binding to dsDNA (<xref rid="B31" ref-type="bibr">Invitrogen, 2012</xref>). This feature obviates artifacts due to altered membrane integrity resulting from stress or cell state, and enhances accumulation of ROS-activated dye to maximize fluorescence signal intensity above background and autofluorescence in cells – critical to setting the Dye<sup>+</sup> gate in <italic>Step 3</italic>. However, for this probe especially, there is a lack of clarity in the scientific community about its intracellular ROS specificity (<xref rid="B56" ref-type="bibr">ResearchGate, 2013</xref>; <xref rid="B12" ref-type="bibr">Choi et al., 2015</xref>), and, to our knowledge, there is no consensus on its reactivity in bacterial cells. CellROX Green is a propriety photostable dye, which, according to the manufacturer, exhibits ROS reactivity that complements HPF. Unlike HPF, CellROX Green reacts with hydroxyl radicals, O<sub>2</sub><sup>•–</sup> and <italic>t</italic>-butylhydroperoxide <italic>in vitro</italic>, but not with H<sub>2</sub>O<sub>2</sub>, NO, ONOO<sup>-</sup>, or HOCl (<xref rid="B30" ref-type="bibr">Invitrogen, 2010</xref>). However, CellROX Green has recently been claimed to react almost exclusively with O<sub>2</sub><sup>•–</sup>
+<italic>in vivo</italic> (<xref rid="B12" ref-type="bibr">Choi et al., 2015</xref>). Hence, we sought to confirm the identity of the intracellular ROS detected by CellROX Green in bacteria using two well-studied ROS generators: (1) menadione, a quinone that undergoes catalytic one-electron redox cycling to reduce molecular oxygen (O<sub>2</sub>) to O<sub>2</sub><sup>•–</sup> (t<sub>1/2</sub> ∼ 1–15 min) (<xref rid="B23" ref-type="bibr">Hassan and Fridovich, 1979</xref>; <xref rid="B33" ref-type="bibr">Iyanagi, 1990</xref>), and (2) H<sub>2</sub>O<sub>2</sub> that reacts with redox-active metals to produce extremely short-lived ferryl or hydroxyl radicals (t<sub>1/2</sub> ∼ 10<sup>-9</sup> s) under specific conditions (<xref rid="B29" ref-type="bibr">Imlay et al., 1988</xref>; <xref rid="B27" ref-type="bibr">Imlay, 2013</xref>, <xref rid="B28" ref-type="bibr">2015</xref>; <xref rid="B5" ref-type="bibr">Bataineh et al., 2016</xref>).</p>
+        <p>CellROX Green reproducibly detected of intracellular ROS when incubated for 1 h with live bacteria in the presence of menadione in PBS (<bold>Figure <xref ref-type="fig" rid="F2">2</xref></bold>). While menadione can induce CellROX Green-reactive species by indirect mechanisms, such as alterations of cell metabolism that lead to ROS production (<xref rid="B44" ref-type="bibr">Marinho et al., 2014</xref>), we observed no shift in FSC, SSC, or fluorescence signals in either the DAPI or CellROX Green channels (Supplementary Figures <xref ref-type="supplementary-material" rid="SM1">S1A,B</xref>), which ruled out menadione-induced changes in cell biochemistry or morphology that could cause increased non-specific fluorescence or light scattering. Using the four-step gating protocol to minimize signals due to menadione-induced cell permeability changes, non-cytotoxic menadione exposures (Supplementary Figure <xref ref-type="supplementary-material" rid="SM1">S2A</xref>) generated CellROX Green-detectable ROS in both <italic>E. coli</italic> and <italic>M. smegmatis</italic> in a dose-dependent manner (<bold>Figures <xref ref-type="fig" rid="F2">2A–E</xref></bold>). Although ROS levels were not elevated in all menadione-exposed cells in an isogenic population when compared with untreated cells, both the cellular fluorescence intensity and number of cells with detectable ROS increased in a dose-dependent manner (<bold>Figures <xref ref-type="fig" rid="F2">2A,C,E</xref></bold>).</p>
+        <fig id="F2" position="float">
+          <label>FIGURE 2</label>
+          <caption>
+            <p><bold>Reactive oxygen species production detected by CellROX Green in <italic>E. coli</italic> and <italic>M. smegmatis.</italic> (A)</bold> Proportion of <italic>M. smegmatis</italic> cells producing ROS after 1.5 h of treatment with menadione or H<sub>2</sub>O<sub>2</sub>. Mean ± SEM for <italic>N</italic> = 3. <bold>(B)</bold> Representative contour plots of DAPI-stained (Dye<sup>+</sup>) <italic>M. smegmatis</italic> treated (gray) with 100 μM menadione or 2 mM H<sub>2</sub>O<sub>2</sub> or untreated (black) for 1.5 h. Representative histograms of dose-dependent increases in CellROX Green fluorescence of Dye<sup>+</sup>
+<italic>M. smegmatis.</italic>
+<bold>(C)</bold> Proportion of <italic>E. coli</italic> (BW25113) cells producing ROS after 1 h treatment with menadione or H<sub>2</sub>O<sub>2</sub>. Mean ± SEM for <italic>N</italic> = 3. <bold>(D)</bold> Representative contour plots of Dye<sup>+</sup>
+<italic>E. coli</italic> treated with 200 μM menadione (gray) or 4 mM H<sub>2</sub>O<sub>2</sub> (gray) or untreated (black) for 1 h. Representative histograms of dose-dependent increase in CellROX Green fluorescence of Dye<sup>+</sup>
+<italic>E. coli.</italic>
+<bold>(E)</bold> Changes in proportion of Dye<sup>+</sup> cells during menadione or H<sub>2</sub>O<sub>2</sub> stress in <italic>E. coli</italic> and <italic>M. smegmatis</italic> (left). Median, mean, and mode fluorescence intensity of Dye<sup>+</sup>
+<italic>E. coli</italic> or <italic>M. smegmatis</italic> treated with menadione reflect the differential responses of the two bacteria to menadione. One-way ANOVA with Dunn’s multiple comparisons versus untreated, <sup>∗</sup><italic>P</italic> &lt; 0.05, <sup>∗∗</sup><italic>P</italic> &lt; 0.01, <sup>∗∗∗</sup><italic>P</italic> &lt; 0.001 <bold>(A,C)</bold> or with Tukey’s multiple comparisons across all treatments, <sup>∗</sup><italic>P</italic> &lt; 0.05 <bold>(E)</bold>.</p>
+          </caption>
+          <graphic xlink:href="fmicb-08-00459-g002"/>
+        </fig>
+        <p>Unlike menadione treatment, no increases in the proportion of Dye<sup>+</sup> or CellROX<sup>hi</sup> cells were detected with H<sub>2</sub>O<sub>2</sub> treatment in PBS, even at bactericidal concentrations (<bold>Figure <xref ref-type="fig" rid="F2">2</xref></bold> and Supplementary Figure <xref ref-type="supplementary-material" rid="SM1">S2B</xref>). H<sub>2</sub>O<sub>2</sub> exposures did not change SSC, FSC, or fluorescent profiles of either bacterial species, which suggests minimal contributions by non-specific fluorescence or light scattering (Supplementary Figures <xref ref-type="supplementary-material" rid="SM1">S1C,D</xref>). CellROX Green is highly sensitive to hydroxyl radicals arising from Fe<sup>2+</sup>/H<sub>2</sub>O<sub>2</sub>-mediated Fenton chemistry, as demonstrated with hydroxyl radicals generated in reactions of ferrous perchlorate (II) with H<sub>2</sub>O<sub>2</sub> (<xref rid="B30" ref-type="bibr">Invitrogen, 2010</xref>, <xref rid="B31" ref-type="bibr">2012</xref>, <xref rid="B32" ref-type="bibr">2016</xref>). So our results suggest that H<sub>2</sub>O<sub>2</sub>-derived hydroxyl radicals and other H<sub>2</sub>O<sub>2</sub>-derived ROS do not reach levels detectable by CellROX Green in H<sub>2</sub>O<sub>2</sub>-treated <italic>E. coli</italic> or <italic>M. smegmatis</italic>. This observation stands in contrast to previous observations in human cells treated with H<sub>2</sub>O<sub>2</sub> (<xref rid="B62" ref-type="bibr">Segard et al., 2013</xref>). However, the fluorescence attributed to CellROX dye in the studies of <xref rid="B62" ref-type="bibr">Segard et al. (2013)</xref> is possibly due to autofluorescence or morphologic changes in FSC/SSC caused by extreme protein aggregation in these studies. Changes in autofluorescence and morphology, and not dye activation, similarly accounted for increased fluorescence observed in antibiotic-treated <italic>E. coli</italic> (<xref rid="B55" ref-type="bibr">Renggli et al., 2013</xref>; <xref rid="B54" ref-type="bibr">Paulander et al., 2014</xref>). Our findings with superoxide-generating menadione and hydroxyl radical-producing H<sub>2</sub>O<sub>2</sub> support the conclusion that bacterial exposure to even high levels of H<sub>2</sub>O<sub>2</sub> does not produce hydroxyl radicals at a level detectable by activation of CellROX Green and the conclusion by <xref rid="B12" ref-type="bibr">Choi et al. (2015)</xref> that CellROX Green is a sensitive detector of O<sub>2</sub><sup>•–</sup> in bacteria.</p>
+      </sec>
+      <sec>
+        <title>Basal Superoxide Levels Depend upon the Bacterial Metabolic State</title>
+        <p>Here, we tested the ability of CellROX Green to detect changes in O<sub>2</sub><sup>•–</sup> levels in cells in different states of respiration and growth. A major source of O<sub>2</sub><sup>•–</sup> in respiring cells involves reduction of O<sub>2</sub> by electrons leaking from the bacterial respiratory chain from NADH dehydrogenase and cytochrome b and at the ubiquinone sites. In <italic>E. coli</italic>, this respiration-dependent O<sub>2</sub><sup>•–</sup> production varies according to nutrient levels, at least at early times following changes in nutrient sources and levels (<xref rid="B20" ref-type="bibr">Gonzalez-Flecha and Demple, 1995</xref>; <xref rid="B65" ref-type="bibr">Turrens, 2003</xref>; <xref rid="B39" ref-type="bibr">Korshunov and Imlay, 2006</xref>; <xref rid="B10" ref-type="bibr">Brynildsen et al., 2013</xref>; <xref rid="B15" ref-type="bibr">Dwyer et al., 2014</xref>; <xref rid="B2" ref-type="bibr">Adolfsen and Brynildsen, 2015</xref>; <xref rid="B41" ref-type="bibr">Lobritz et al., 2015</xref>). To assess the effects of active respiration on basal O<sub>2</sub><sup>•–</sup> levels, we performed CellROX Green staining after transferring actively dividing <italic>E. coli</italic> and <italic>M. smegmatis</italic> into either 10% LB or 7H9 media, respectively, in PBS or into 100% PBS, both after washing twice in their respective media. After 30 min in the absence of LB or 7H9, in which cells have reduced respiration due to acute nutrient deprivation, both <italic>E. coli</italic> and <italic>M. smegmatis</italic> had very low levels of activated CellROX Green fluorescence compared to the background signal from unstained cells (<bold>Figures <xref ref-type="fig" rid="F3">3A,B</xref></bold>). However, &gt;95% of both cell types in 10% media/90% PBS showed evidence of dye uptake and a uniform several order-of-magnitude increase in the CellROX<sup>hi</sup> fluorscence (<bold>Figures <xref ref-type="fig" rid="F3">3A,B</xref></bold>). CellROX Green activation observed in cells in the presence of LB or 7H9 media is likely attributable to higher basal metabolism in the actively dividing cells, which leads to respiration-derived O<sub>2</sub><sup>•–</sup> (<xref rid="B20" ref-type="bibr">Gonzalez-Flecha and Demple, 1995</xref>; <xref rid="B65" ref-type="bibr">Turrens, 2003</xref>; <xref rid="B39" ref-type="bibr">Korshunov and Imlay, 2006</xref>; <xref rid="B10" ref-type="bibr">Brynildsen et al., 2013</xref>; <xref rid="B15" ref-type="bibr">Dwyer et al., 2014</xref>; <xref rid="B2" ref-type="bibr">Adolfsen and Brynildsen, 2015</xref>; <xref rid="B41" ref-type="bibr">Lobritz et al., 2015</xref>).</p>
+        <fig id="F3" position="float">
+          <label>FIGURE 3</label>
+          <caption>
+            <p><bold>Basal O<sub>2</sub><sup>•–</sup> production in actively dividing <italic>E. coli</italic> and <italic>M. smegmatis.</italic> (A)</bold> Histograms of DNA<sup>+</sup>
+<italic>E. coli</italic> and <italic>M. smegmatis</italic> demonstrating increased CellROX Green fluorescence in live bacteria incubated in 10% (v/v) media (LB or 7H9) in comparison to bacteria incubated in PBS. <bold>(B)</bold> Growth stage dependent elevated endogenous O<sub>2</sub><sup>•–</sup> in superoxide dismutase (SOD) knockouts (<italic>ΔsodA</italic> and <italic>ΔsodB</italic>). Early log: OD<sub>600</sub> = 0.2, Mid-log: OD<sub>600</sub> = 0.6, Stationary: OD<sub>600</sub> &gt; 2. One-way ANOVA with Dunn’s multiple comparisons versus WT (<italic>E. coli</italic> K-12 BW25113), Bars represent mean ± SEM, <italic>N</italic> = 3, <sup>∗</sup><italic>P</italic> &lt; 0.05, <sup>∗∗</sup><italic>P</italic> &lt; 0.01, <sup>∗∗∗</sup><italic>P</italic> &lt; 0.001.</p>
+          </caption>
+          <graphic xlink:href="fmicb-08-00459-g003"/>
+        </fig>
+        <p>To verify that metabolically derived O<sub>2</sub><sup>•–</sup> is the predominant ROS species reacting with CellROX Green in these actively respiring cells, we quantified dye activation in <italic>E. coli</italic> knockout strains lacking SODs <italic>sodA</italic> and <italic>sodB</italic> and grown in LB to different states of cell density (early log, late log, and stationary phases). Cytosolic O<sub>2</sub><sup>•–</sup> is rapidly converted to H<sub>2</sub>O<sub>2</sub> by the SODs at diffusion-limited rates (k<sub>cat</sub>/K<sub>M</sub> ∼7 × 10<sup>9</sup> M<sup>-1</sup> s<sup>-1</sup>) (<xref rid="B8" ref-type="bibr">Berg et al., 2002</xref>). As shown in <bold>Figure <xref ref-type="fig" rid="F3">3B</xref></bold>, there is a significant increase in CellROX<sup>hi</sup> cells among the strains lacking SOD compared to wild-type <italic>E. coli</italic>. Further, by accounting for differences in cell numbers at early, mid-log and stationary cultures by adjusting for turbidity pre-treatment and events collected post-data acquisition (<bold>Figure <xref ref-type="fig" rid="F3">3B</xref></bold>), we recapitulated previous observations that metabolic O<sub>2</sub><sup>•–</sup> generation correlates with growth stage-dependent cellular metabolic activity rather than overall culture viability (<xref rid="B71" ref-type="bibr">Yamashoji et al., 2001</xref>). These results provide further support for the conclusion that CellROX Green activation in bacteria is predominantly due to reactions with O<sub>2</sub><sup>•–</sup>.</p>
+      </sec>
+      <sec>
+        <title>Antibiotic-Induced Superoxide Production</title>
+        <p>There is emerging and intriguing evidence for multiple roles for ROS in the bacterial response to antibiotic exposure (<xref rid="B51" ref-type="bibr">Nguyen et al., 2011</xref>; <xref rid="B22" ref-type="bibr">Grant et al., 2012</xref>; <xref rid="B17" ref-type="bibr">Dwyer et al., 2015</xref>). However, methods using ROS-reactive dyes to identify and quantify ROS in antibiotic-treated bacteria are prone to artifacts in the absence of rigorous controls. For example, drug-induced changes in cell morphology can increase background fluorescence instead of activating the dye (<xref rid="B38" ref-type="bibr">Kohanski et al., 2007</xref>; <xref rid="B55" ref-type="bibr">Renggli et al., 2013</xref>; <xref rid="B54" ref-type="bibr">Paulander et al., 2014</xref>), the use of ROS-reactive dyes in batch culture methods does not inform about ROS inside cells (<xref rid="B3" ref-type="bibr">Albesa et al., 2004</xref>), and there is disagreement about the ability of ROS-reactive dyes to gain entrance into bacteria such as <italic>Pseudomonas aeruginosa</italic> and <italic>M. smegmatis</italic> (<xref rid="B51" ref-type="bibr">Nguyen et al., 2011</xref>; <xref rid="B22" ref-type="bibr">Grant et al., 2012</xref>). In all of these cases, rigorous flow cytometric gating to control for dye uptake, cell morphology and background fluorescence could minimize these problems. Here, we illustrate this idea using CellROX Green to assess the relationship between ROS production and cytotoxicity in <italic>M. smegmatis</italic> treated with mechanistically distinct antibiotics known to be effective against mycobacteria: ethambutol (cell wall synthesis inhibitor), streptomycin (binds to 30S ribosome subunit), rifampicin (binds to DNA-dependent RNA polymerase), isoniazid (inhibits mycolic acid synthesis), kanamycin (binds to 30S ribosome subunit), and norfloxacin (topoisomerase inhibitor). <italic>M. smegmatis</italic> cytotoxicity dose-response curves for these antibiotics are shown in <bold>Figure <xref ref-type="fig" rid="F4">4A</xref></bold>.</p>
+        <fig id="F4" position="float">
+          <label>FIGURE 4</label>
+          <caption>
+            <p><bold>Changes in the O<sub>2</sub><sup>•–</sup> levels in log-growing <italic>M. smegmatis</italic> when exposed to antibiotics. (A)</bold> Bacterial survival after a 24 h exposure to ethambutol (ETM), isoniazid (INH), rifampicin (RIF), norfloxacin (NOR), kanamycin (KAN). Survival for the lowest dose of streptomycin (STM) was below level of detection (1000 CFU/mL) and so STM data is not shown in the graph. Data represent mean ± SEM for <italic>N</italic> = 3. <bold>(B)</bold> Dose-response curves for the proportion of bacteria producing ROS after a 24 h exposure to the indicated antibiotics. Mean ± SEM for <italic>N</italic> = 3. <bold>(C)</bold> Dose-response curves for bacteria producing ROS after a 3 h exposure to antibiotics. Mean ± SEM for <italic>N</italic> = 3. <bold>(D)</bold> Percentage of DAPI<sup>+</sup> cells with CellROX Green Dye fluorescence above background (Dye<sup>+</sup>). Percentage of bacterial cells <bold>(E)</bold> and CellROX<sup>hi</sup> cells <bold>(F)</bold> stained with propidium iodide (PI<sup>+</sup>; cell membrane integrity index) as a function of antibiotic dose after 24 h of exposure. Mean ± SEM for <italic>N</italic> = 3. One-way ANOVA with Dunn’s multiple comparisons versus untreated, <sup>∗</sup><italic>P</italic> &lt; 0.05. <bold>(G)</bold> Selection of antibiotic-resistant clones of <italic>M. smegmatis</italic> by growth in the presence of isoniazid (INH) and rifampicin (RIF) for 5 days. The sensitivity of the resulting bacteria to INH and RIF was assessed by a CFU assay, with data representing mean ± SEM for <italic>N</italic> = 3. The dashed line shows the CFU for untreated bacteria passaged for 5 days (2 × 10<sup>8</sup> CFU/mL). <bold>(H)</bold> Proportion of <italic>M. smegmatis</italic> producing CellROX Green-detectable ROS after 5 days of exposure to antibiotics at the indicated concentrations; data represent mean ± SEM for <italic>N</italic> = 3. <bold>(I)</bold> Proportion of <italic>M. smegmatis</italic> with PI staining after a 1 or 5 days exposure to antibiotics at indicated concentrations (μg/mL). Mean ± SEM for <italic>N</italic> = 3.</p>
+          </caption>
+          <graphic xlink:href="fmicb-08-00459-g004"/>
+        </fig>
+        <p>We first assessed the effects of antibiotic exposures on FSC, SSC and background fluorescence in <italic>M. smegmatis</italic>. As shown in Supplementary Figure <xref ref-type="supplementary-material" rid="SM1">S3</xref>, while there were no consistent changes in SSC or increased background fluorescence (in absence of dye), there were time-, dose- and antibiotic-dependent shifts to lower SSC in treated bacteria. Given the recognized link between SSC shift and bacterial cell cycle progression (<xref rid="B66" ref-type="bibr">Walberg et al., 1997a</xref>,<xref rid="B67" ref-type="bibr">b</xref>), elongation (<xref rid="B55" ref-type="bibr">Renggli et al., 2013</xref>), and the uniquely asymmetric cell division of rod-shaped mycobacteria (<xref rid="B36" ref-type="bibr">Kieser and Rubin, 2014</xref>), these results are consistent with a delayed cell elongation in <italic>M. smegmatis</italic> populations hours after the initial drug exposure.</p>
+        <p>After accounting for morphological changes in and background fluorescence, we next assessed antibiotic-induced O<sub>2</sub><sup>•–</sup> generation in <italic>M. smegmatis</italic> using CellROX Green. As shown in <bold>Figures <xref ref-type="fig" rid="F4">4B,C</xref></bold>, antibiotics did not consistently cause O<sub>2</sub><sup>•–</sup> generation in <italic>M. smegmatis</italic>. While ethambutol, rifampicin, and isoniazid increased CellROX<sup>hi</sup> levels after 24 h of treatment (<bold>Figure <xref ref-type="fig" rid="F4">4B</xref></bold>) and as early as 3 h after treatment (<bold>Figure <xref ref-type="fig" rid="F4">4C</xref></bold>), norfloxacin and kanamycin treatments produced minimal or no dye-detectable ROS in response to 24 h treatment (<bold>Figure <xref ref-type="fig" rid="F4">4B</xref></bold>). For streptomycin, no dye-detectable ROS was observed after 3 h of exposure (<bold>Figure <xref ref-type="fig" rid="F4">4C</xref></bold>), while too many cells were killed at 24 h for accurate measurements.</p>
+        <p>Quantitative relationships between CellROX activation and cytotoxicity caused by the antibiotics were observed to be inconsistent in three studies. First, treatment with ethambutol produced dose-dependent killing while &gt;95% of the cells produced dye-detectable ROS across all tested doses (<bold>Figures <xref ref-type="fig" rid="F4">4A,B</xref></bold>). We then assessed antibiotic-induced toxicity by co-staining with propidium iodide (PI), a dye that is excluded from viable cells but enters cells with damaged membranes, and by survival as colony-forming units (CFUs). Based on flow cytometry contour plots, such as those in Supplementary Figures <xref ref-type="supplementary-material" rid="SM1">S4A–C</xref>, uptake of PI and CellROX varied among antibiotic exposures. However, similar proportions of cells were stained with PI in both the total population (<bold>Figure <xref ref-type="fig" rid="F4">4E</xref></bold>) and the CellROX<sup>hi</sup> population (<bold>Figure <xref ref-type="fig" rid="F4">4F</xref></bold>) at 24 h post-exposure. In a third set of studies, the inconsistency of ROS formation and cell toxicity was more pronounced in CFU cell death assays for both <italic>E. coli</italic> and <italic>M. smegmatis</italic> (Supplementary Figure <xref ref-type="supplementary-material" rid="SM1">S4D</xref>). Together, these data suggest that the mechanisms by which antibiotics cause increased O<sub>2</sub><sup>•–</sup> production are unique to each antibiotic, and elevated steady-state O<sub>2</sub><sup>•–</sup> levels alone are not causative or predictive of cell death.</p>
+        <p>Finally, we assessed the formation of O<sub>2</sub><sup>•–</sup> in <italic>M. smegmatis</italic> clones induced to be resistant to isoniazid and rifampicin, two antibiotics that caused significant O<sub>2</sub><sup>•–</sup> production (<bold>Figures <xref ref-type="fig" rid="F4">4B,C</xref></bold>). Antibiotic-tolerant bacteria were generated by culturing <italic>M. smegmatis</italic> in varying concentrations of antibiotics for 5 days. Despite several logs of killing by 20–30 μg/mL isoniazid and rifampicin at 24 h (<bold>Figure <xref ref-type="fig" rid="F4">4A</xref></bold>), 5 days of growth in the presence of the antibiotics led to a drug-resistant population (<bold>Figure <xref ref-type="fig" rid="F4">4E</xref></bold>). Compared to <italic>M. smegmatis</italic> treated for 24 h, the antibiotic-tolerant bacteria displayed greatly reduced O<sub>2</sub><sup>•–</sup> production following antibiotic exposures (<bold>Figure <xref ref-type="fig" rid="F4">4F</xref></bold>). Furthermore, there were fewer PI<sup>+</sup> bacteria (i.e., bacteria with damaged membranes) and no positive correlation between PI staining and antibiotic concentration at 5 days was observed, in contrast with the same treatment after 24 h (<bold>Figures <xref ref-type="fig" rid="F4">4E,G</xref></bold>). The mechanisms by which bacteria became resistant to the antibiotics was not established.</p>
+      </sec>
+      <sec>
+        <title>Nutrient Deprivation Induces Superoxide Production and Antibiotic Tolerance in Mycobacteria</title>
+        <p>We next assessed O<sub>2</sub><sup>•–</sup> generation in mycobacteria in the well-established non-replicating and antibiotic-tolerant (i.e., persistent) physiological state caused by nutrient deprivation (<xref rid="B70" ref-type="bibr">Xie et al., 2005</xref>; <xref rid="B19" ref-type="bibr">Gengenbacher et al., 2010</xref>). Interestingly, starved bacteria consistently produced significantly higher levels of endogenous O<sub>2</sub><sup>•–</sup> than log-growing, nutrient-replete cells (<bold>Figures <xref ref-type="fig" rid="F5">5A–C</xref></bold>). This was not a quirk of <italic>M. smegmatis</italic> as we observed the same phenomenon in slow-growing <italic>M. bovis</italic> BCG when starved up to 22 days (<bold>Figures <xref ref-type="fig" rid="F5">5A–C</xref></bold>). Given this starvation-induced increase in basal O<sub>2</sub><sup>•–</sup> production and the observation that increased ROS levels render some bacteria susceptible to killing by specific antibiotics (<xref rid="B10" ref-type="bibr">Brynildsen et al., 2013</xref>; <xref rid="B15" ref-type="bibr">Dwyer et al., 2014</xref>; <xref rid="B2" ref-type="bibr">Adolfsen and Brynildsen, 2015</xref>; <xref rid="B6" ref-type="bibr">Belenky et al., 2015</xref>), we quantified antibiotic sensitivity of log-growing or starved (4, 10, 20 days) BCG with the front-line TB antibiotics isoniazid, rifampicin, ethambutol, or streptomycin. As shown in <bold>Figures <xref ref-type="fig" rid="F5">5D–G</xref></bold>, starved mycobacteria were tolerant to all four antibiotics compared to log-growing bacilli in spite of elevated basal O<sub>2</sub><sup>•–</sup> production. This idiosyncratic behavior of starvation-induced persisters led us to investigate the effect of antibiotic exposure on O<sub>2</sub><sup>•–</sup> levels in these cells. After accounting for elevated basal O<sub>2</sub><sup>•–</sup> caused by starvation, we found that generation of O<sub>2</sub><sup>•–</sup> in antibiotic-stressed, starved BCG was idiosyncratic to the antibiotic. While higher than basal levels of O<sub>2</sub><sup>•–</sup> were observed in log-growing BCG for isoniazid and ethambutol (<bold>Figures <xref ref-type="fig" rid="F5">5J,K</xref></bold>), as observed for <italic>M. smegmatis</italic> (<bold>Figures <xref ref-type="fig" rid="F4">4B,C</xref></bold>), elevated O<sub>2</sub><sup>•–</sup> generation above the basal level was not observed in starved BCG treated with streptomycin, isoniazid, or ethambutol (<bold>Figures <xref ref-type="fig" rid="F5">5I–K</xref></bold>), which agrees with other studies on antibiotic-related ROS in persisters (<xref rid="B51" ref-type="bibr">Nguyen et al., 2011</xref>; <xref rid="B22" ref-type="bibr">Grant et al., 2012</xref>).</p>
+        <fig id="F5" position="float">
+          <label>FIGURE 5</label>
+          <caption>
+            <p><bold>Endogenous and antibiotic-induced O<sub>2</sub><sup>•–</sup> in starved, non-replicating <italic>M. bovis</italic> BCG and <italic>M. smegmatis</italic>.</bold> Representative contour plots of log-growing (black) and starved (gray) DNA<sup>+</sup> bacteria in cultures of <italic>M. smegmatis</italic> (<bold>A</bold>, 24 h starvation) and <italic>M. bovis</italic> BCG (<bold>B</bold>, 20 days starvation). <bold>(C)</bold> The starvation-induced O<sub>2</sub><sup>•–</sup> production in <italic>M. smegmatis</italic> (SMG) and <italic>M. bovis</italic> BCG populations were quantified and presented. Data represent mean ± SEM for <italic>N</italic> = 3, with one-way ANOVA with Dunn’s multiple comparisons versus untreated, <sup>∗∗∗</sup><italic>P</italic> &lt; 0.001. <italic>M. bovis</italic> BCG survival after 48 h of treatment with rifampicin <bold>(D)</bold>, ethambutol <bold>(E)</bold>, streptomycin <bold>(F)</bold> and isoniazid <bold>(G)</bold> during log growth (♦) and nutrient deprivation for 4 days (○), 10 days (□), or 20 days (Δ); data represent mean ± SEM for <italic>N</italic> ≥ 3. (<bold>H–K</bold>) O<sub>2</sub><sup>•–</sup> production above basal levels in log (♦) and starved (4 days, ○; 10 days, □; 20 days, Δ) <italic>M. bovis</italic> BCG exposed to antibiotics for 48 h; data represent mean ± SEM for <italic>N</italic> ≥ 3. Respiratory (<bold>L</bold>, CTC dye) and esterase (<bold>M</bold>, CFDA dye) activities in non-replicating (starved for 4 and 20 days in PBS + 0.05% Tyloxapol) and replicating (10 days in nutrient-replete 7H9 media) <italic>M. bovis</italic> BCG. Data represent mean ± SEM for <italic>N</italic> ≥ 3. <sup>∗</sup><italic>P</italic> &lt; 0.05, <sup>∗∗</sup><italic>P</italic> &lt; 0.01, <sup>∗∗∗</sup><italic>P</italic> &lt; 0.001 by unpaired, two-tailed, <italic>t</italic>-test as indicated.</p>
+          </caption>
+          <graphic xlink:href="fmicb-08-00459-g005"/>
+        </fig>
+        <p>A possible explanation for the lack of antibiotic-related endogenous O<sub>2</sub><sup>•–</sup> induction in starvation-induced persisters is metabolic quiescence. To test for metabolic activity in starved cells, we performed staining of starved BCG with CTC, CFDA, and DAPI. Enhanced respiratory activity was observed in a sub-population of cells, as evident in the increase of the CTC<sup>hi</sup> sub-population during starvation and the reversal of CTC activation by incubation in nutrient-replete medium (<bold>Figure <xref ref-type="fig" rid="F5">5L</xref></bold> and Supplementary Figure <xref ref-type="supplementary-material" rid="SM1">S5A</xref>). Starvation also increased cellular esterase activity as shown by a CFDA<sup>hi</sup> sub-population (<bold>Figure <xref ref-type="fig" rid="F5">5M</xref></bold> and Supplementary Figure <xref ref-type="supplementary-material" rid="SM1">S4A</xref>), which again is reversed by transfer to nutrient-replete medium. Together, these observations eliminate metabolic stasis as the cause of the muted ROS production in the response of starved BCG antibiotic exposure.</p>
+        <p>Another possible explanation for reduced O<sub>2</sub><sup>•–</sup> generation in antibiotic-exposed non-replicating mycobacteria is the active exclusion of drugs through efflux pumps. Indeed, drug efflux pumps are often up-regulated in drug-tolerant cells (<xref rid="B60" ref-type="bibr">Sarathy et al., 2013</xref>; <xref rid="B43" ref-type="bibr">Maisonneuve and Gerdes, 2014</xref>). However, we observed that rifampicin treatment induced O<sub>2</sub><sup>•–</sup> generation in a dose-dependent manner in both log and starved BCG (<bold>Figure <xref ref-type="fig" rid="F5">5H</xref></bold>), in spite of starvation-induced up-regulation of transcription of a known rifampicin efflux pump, BCG_1316c (<italic>M. tuberculosis</italic> Rv1258c homolog) (<xref rid="B1" ref-type="bibr">Adams et al., 2011</xref>) (Supplementary Figure <xref ref-type="supplementary-material" rid="SM1">S5B</xref>). Even with enhanced O<sub>2</sub><sup>•–</sup> production above an already high basal level, rifampicin treatment did not result in cell death (<bold>Figure <xref ref-type="fig" rid="F5">5D</xref></bold>), indicating that starved BCG is refractory to O<sub>2</sub><sup>•–</sup>-mediated killing, unlike log-growing <italic>E. coli</italic> (<xref rid="B10" ref-type="bibr">Brynildsen et al., 2013</xref>; <xref rid="B15" ref-type="bibr">Dwyer et al., 2014</xref>; <xref rid="B2" ref-type="bibr">Adolfsen and Brynildsen, 2015</xref>; <xref rid="B6" ref-type="bibr">Belenky et al., 2015</xref>). These findings demonstrate that antibiotic-induced O<sub>2</sub><sup>•–</sup> production and associated killing is both antibiotic- and cell state-dependent.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Discussion</title>
+      <p>The use of fluorescent probes combined with flow cytometry is a powerful approach to investigate biological processes within single cells as well as in cell populations. We developed a four-step gating strategy to minimize false positive signals and artifacts by accounting for DNA content, changes in cell morphology, dye uptake and retention, and target specific dye activation in bacterial cells. This approach is generally applicable to intracellular metabolic probes, as illustrated here with CellROX Green, CTC and CFDA-AM. With specific application to CellROX Green, the flow cytometry method provides high-dimensional quantitative measurement of light scatter and fluorescence emission by this O<sub>2</sub><sup>•–</sup>-activated fluorescent probe, thus allowing measurement of O<sub>2</sub><sup>•–</sup> in 1000s of individual cells within a sample in addition to the population abundance.</p>
+      <p>The four-step gating scheme presented here makes use of several well-accepted gating strategies for mammalian cells and systematically applies them to bacteria at each of the four steps. The basis for <italic>Step 1</italic> is the selection of the cell population of interest based on scatter properties, such as when selecting for lymphocytes versus monocytes or granulocytes. Although commonly used in environmental microbiology, scatter properties of bacteria have not been considered in ROS probe-based studies. DNA content staining, as in <italic>Step 2</italic>, although not absolutely necessary, strengthens the precision and accuracy of the data by distinguishing bacteria from particles of similar sizes. It also provides an additional parameter for analysis along with FSC and SSC, which together can distinguish different bacteria or bacteria in different cell states (<xref rid="B48" ref-type="bibr">Muller and Nebe-von-Caron, 2010</xref>). Finally, DNA content gives information about life cycle stages within the population that may provide insight into stress response mechanisms.</p>
+      <p>While large aggregates and dramatic filamentation would be excluded in our plots due to the flow cytometer settings for FSC (only particles &lt;10 um are collected during analysis), the gating scheme does not necessarily ignore elongated cells and instead accounts for their elongation. By taking into account increases in fluorescence observed in cells with higher SSC or FSC (done by two-dimensional gating such as SSC versus fluorescence), cells with increased SSC or FSC can be selected for analysis if they pass the subsequent gates for increases in green fluorescence to be considered Dye<sup>+</sup> and then CellROX<sup>hi</sup>. This gating procedure normalizes for changes in SSC by not using flat cutoffs as in histograms (e.g., cut-off at fluorescence of 2 × 10<sup>3</sup>). If one does see two distinct populations of cells, separate size gates (FSC, SSC) or DNA content gates can be made for each population followed by consistent gating for green fluorescence. The changes in background green fluorescence are not the same magnitude as activated CellROX Green dye, so generation of ROS in cells with high background staining should be distinguishable using unstained and stained treated cells.</p>
+      <p>Together, <italic>Steps 3</italic> and <italic>4</italic> of the gating scheme select for probe fluorescence inside cells, which validates the location of the probe reaction with ROS. <italic>Step 3</italic> selects all cells with fluorescence above no-dye controls. This basal fluorescence must be considered a conservative, baseline signal that accounts for detection of unreacted, reacted, or degraded dye in the cell or, less likely, adhering to the cell surface, as well as fluorescence from intracellular components. Considering that culture conditions, bacterial species, and stress can affect dye permeability in some bacteria (<xref rid="B68" ref-type="bibr">Walberg et al., 1999</xref>), an assessment of dye content in each cell becomes important, whenever possible. The point of gating <italic>Step 3</italic> is a conservative one: to minimize noise and artifacts by including in the analysis only cells that appear to have taken up a dye molecule. By setting the selection threshold for <italic>Step 4</italic> above these basal levels, <italic>Step 4</italic> selects cells with a high probability of containing an ROS-activated dye molecule. It is important to use the Dye<sup>+</sup> gate as the denominator for determining positive ROS signals as different stress treatments change the basal fluorescence.</p>
+      <p>There are several advantages to this a four-step gating flow cytometry method. ROS in bacterial populations have been evaluated with fluorescent dyes using plate readers or by measuring mean fluorescence intensity (MFI) in total cell populations collected using a flow cytometer (<xref rid="B38" ref-type="bibr">Kohanski et al., 2007</xref>; <xref rid="B51" ref-type="bibr">Nguyen et al., 2011</xref>; <xref rid="B16" ref-type="bibr">Dwyer et al., 2012</xref>, <xref rid="B15" ref-type="bibr">2014</xref>). However, the problem with these approaches is that, depending upon the gating of the flow cytometer data, the use of controls, and rigorous characterization of the dye sensitivity and specificity, these fluorescence methods can yield false positives due to background fluorescence from the dye or the treatment, as reported previously and observed in the present studies (<xref rid="B55" ref-type="bibr">Renggli et al., 2013</xref>; <xref rid="B54" ref-type="bibr">Paulander et al., 2014</xref>). Plate reader data also suffers from artifacts of extracellular fluorescence. Moreover, mean or median changes in fluorescence in total populations may reflect a small proportion of cells producing high levels of ROS or a large proportion generating low to moderate amounts of ROS. Given evidence for the intracellular ROS concentration as a determinant of cellular responses to specific antibiotics (<xref rid="B10" ref-type="bibr">Brynildsen et al., 2013</xref>), the ability to both identify ROS and measure ROS abundance at the single cell level is vital to understanding mechanisms of cellular responses. The strategy presented here for detection of ROS with a flow cytometer combined with rigorous gating of populations allows for determination of relative abundance of ROS generation within single cells. One of the advantages of using CellROX Green activation as a O<sub>2</sub><sup>•–</sup> index in bacteria involves retention of activated dye in cells by binding to DNA, which prevents loss of activated probe through efflux pumps or leakage through damaged cell membranes.</p>
+      <p>In terms of the chemical identify of the ROS species detected by CellROX Green, we conclude that this dye selectively detects O<sub>2</sub><sup>•–</sup> in bacterial populations under a variety of environmental conditions and exposures. Our results with menadione exposure and SOD mutant strains are consistent with published studies pointing to CellROX Green specificity for O<sub>2</sub><sup>•–</sup> in bacterial cells (<xref rid="B12" ref-type="bibr">Choi et al., 2015</xref>). We cannot rule out dye activation by RNS such as peroxynitrite (ONOO<sup>-</sup>), the reaction product of NO and O<sub>2</sub><sup>•–</sup>, which decays to generate nitrogen dioxide radical (<sup>∙</sup>NO<sub>2</sub>) and hydroxyl radical (<xref rid="B13" ref-type="bibr">Dedon and Tannenbaum, 2004</xref>). However, it is unlikely that, even with high O<sub>2</sub><sup>•–</sup> levels, there would be significant ONOO<sup>-</sup> formation in bacteria under the exposure conditions used here. The relative insignificance of hydroxyl radicals generated from ONOO<sup>-</sup> is further emphasized by the fact that even high, supra-lethal concentrations of H<sub>2</sub>O<sub>2</sub>, which is well-established to react with reducing metals to generate cytotoxic hydroxyl radicals or equivalently reactive ferryl radicals (<xref rid="B29" ref-type="bibr">Imlay et al., 1988</xref>; <xref rid="B28" ref-type="bibr">Imlay, 2015</xref>), did not produce detectable activation of CellROX Green. This points to either a relative insensitivity of the dye to hydroxyl radicals <italic>in vivo</italic> or to production of significantly lower levels of hydroxyl radicals relative to O<sub>2</sub><sup>•–</sup> in the cells. H<sub>2</sub>O<sub>2</sub> can also lead to indirect ROS and RNS production in cells by activating redox-sensitive transcription factors, such as OxyR and PerR in bacteria, to remodel cell metabolism and energetics, with resulting increases in O<sub>2</sub><sup>•–</sup> and other dye-reactive radical species (<xref rid="B44" ref-type="bibr">Marinho et al., 2014</xref>). Again, the lack of H<sub>2</sub>O<sub>2</sub>-induced CellROX Green activation rules out such a mechanism. H<sub>2</sub>O<sub>2</sub>-induced metabolic remodeling may explain the activation of CellROX Green in H<sub>2</sub>O<sub>2</sub>-exposed human cells (<xref rid="B62" ref-type="bibr">Segard et al., 2013</xref>). However, our studies reveal a lack of dye-detectable ROS species in bacteria exposed to supra-lethal levels of H<sub>2</sub>O<sub>2</sub>. Clearly the interpretation of studies using H<sub>2</sub>O<sub>2</sub> as a calibrant in dye-based studies of ROS generation should be approached with caution.</p>
+      <p>The results of our studies with <italic>E. coli</italic> and <italic>M. smegmatis</italic> reveal several types of heterogeneity and idiosyncrasy in the bacterial ROS responses to chemical stimuli, which warrant customization of the dye-based ROS method and caution in interpreting the results. For example, both types of bacteria showed different responses to menadione as a population (visualized in fluorescence histograms – <bold>Figures <xref ref-type="fig" rid="F2">2B,D</xref></bold>). With increasing menadione exposures, a dose-dependent increase in size of the CellROX<sup>hi</sup>
+<italic>M. smegmatis</italic> sub-population was observed. However, there was no change in the population distribution as demonstrated by the absence of any change in the mean, median or mode fluorescence intensity (<bold>Figure <xref ref-type="fig" rid="F2">2B</xref></bold>). In contrast, two distinct populations emerged during menadione stress for <italic>E. coli</italic>. This change in population distribution was most evident at high menadione concentrations when a significant increase in the mean, median and mode fluorescence intensity between low and high menadione exposures was observed (<bold>Figure <xref ref-type="fig" rid="F2">2D</xref></bold>). While we do not have a mechanistic explanation for this behavior, we note that it is a consistent and reproducible shift in the size of the CellROX<sup>hi</sup> subpopulation in response to menadione indicating O<sub>2</sub><sup>•–</sup> stress. It cannot be ruled out, however, that in longer exposures to menadione, further fluorescence shifts in the population of both <italic>E. coli</italic> and <italic>M. smegmatis</italic> would occur. However, under current conditions, the two bacteria both produce CellROX Green-detected ROS, but with different staining patterns. These differences between <italic>E. coli</italic> and <italic>M. smegmatis</italic> suggest caution in extrapolating ROS results across bacterial species and genera. In some cases, it is not even possible to compare across different types of bacteria to due dye accessibility problems. We shared the same problem experienced by <xref rid="B22" ref-type="bibr">Grant et al. (2012)</xref> that HPF could not be used to detect ROS in <italic>M. smegmatis</italic> even though it works with <italic>E. coli</italic>.</p>
+      <p>This same caution in interpreting the results of ROS dye signals and extrapolating results across species must be applied to studies of antibiotic pharmacodynamics. While fluorescent probes have been used to explore ROS generation caused by antibiotic exposure (<xref rid="B38" ref-type="bibr">Kohanski et al., 2007</xref>; <xref rid="B51" ref-type="bibr">Nguyen et al., 2011</xref>; <xref rid="B16" ref-type="bibr">Dwyer et al., 2012</xref>, <xref rid="B15" ref-type="bibr">2014</xref>; <xref rid="B22" ref-type="bibr">Grant et al., 2012</xref>), there is no unifying mechanistic model to explain why ROS are generated with specific antibiotics in some bacterial species but not others, and, more importantly, which type of ROS is generated. Our findings with CellROX Green in <italic>M. smegmatis</italic> and <italic>E. coli</italic> under the variety of conditions that cause increases in dye-detectable ROS lead us to conclude that O<sub>2</sub><sup>•–</sup> generation (1) is not a universal feature of antibiotic stress, (2) does not distinguish bactericidal from bacteriostatic antibiotics, and (3) is not generally predictive of cell death (<bold>Figure <xref ref-type="fig" rid="F4">4I</xref></bold>). Rather, our data suggest that ROS production is dependent on the physiological state of the cell, specifically on changes in metabolism. Previous studies of ROS metabolism in antibiotic tolerant bacteria revealed clear differences in the drug-host interaction (<xref rid="B51" ref-type="bibr">Nguyen et al., 2011</xref>; <xref rid="B43" ref-type="bibr">Maisonneuve and Gerdes, 2014</xref>). Similarly, our observation of O<sub>2</sub><sup>•–</sup> production during rifampicin treatment may be related to enzyme induction and metabolism, as the antibiotic is a potent inducer of human cytochrome P450 (CYP) enzymes, most notably CYP3A4 and CYP2C subfamily (<xref rid="B42" ref-type="bibr">Madan et al., 2003</xref>). This suggests that rifampicin may also induce CYPs in mycobacteria (<xref rid="B52" ref-type="bibr">Niemi et al., 2003</xref>). Since CYP activity is well-known to generate high levels of O<sub>2</sub><sup>•–</sup> (<xref rid="B14" ref-type="bibr">Denisov et al., 2005</xref>; <xref rid="B49" ref-type="bibr">Munro et al., 2013</xref>), our observation of dose-dependent CellROX Green activation in both log-growing and starved bacilli following rifampicin exposure (<bold>Figures <xref ref-type="fig" rid="F4">4B</xref>, 6B</bold>) is consistent with previous studies showing transcriptional up-regulation of different CYPs in mycobacteria following exposure to a variety of antibiotics (<xref rid="B9" ref-type="bibr">Boshoff et al., 2004</xref>). Indeed, recently released microarray datasets for transcriptional response to antibacterial agents in the closely related human pathogen, <italic>M. tuberculosis</italic>, shows that several CYPs, including <italic>cyp51</italic> (Rv0764c), <italic>cyp124</italic> (Rv2266), <italic>cyp135A1</italic> (Rv0327c) and <italic>cyp139</italic> (Rv1666c), are upregulated in response to rifampicin (NCBI Gene Ontology Omnibus Accession: GSE71200).</p>
+      <p>The presence of elevated basal ROS levels in starved mycobacteria might suggest a vulnerability in light of evidence that antibiotic-induced “ROS” potentiate existing ROS to promote bacterial cell death (<xref rid="B10" ref-type="bibr">Brynildsen et al., 2013</xref>; <xref rid="B15" ref-type="bibr">Dwyer et al., 2014</xref>; <xref rid="B2" ref-type="bibr">Adolfsen and Brynildsen, 2015</xref>; <xref rid="B6" ref-type="bibr">Belenky et al., 2015</xref>). However, our observations in mycobacteria do not support this as a universal model. For instance, the non-replicating, antibiotic-resistant mycobacteria generated through nutrient deprivation have elevated O<sub>2</sub><sup>•–</sup> (<bold>Figure <xref ref-type="fig" rid="F5">5D</xref></bold>), yet are significantly resistant to four front-line tuberculosis antibiotics (<bold>Figures <xref ref-type="fig" rid="F5">5D–G</xref></bold>). While endogenous ROS production has been correlated with antibiotic killing in some cases (<xref rid="B10" ref-type="bibr">Brynildsen et al., 2013</xref>; <xref rid="B17" ref-type="bibr">Dwyer et al., 2015</xref>), increases in intracellular O<sub>2</sub><sup>•–</sup> levels in starved mycobacteria failed to potentiate the activities of several antibiotics. This observation also raises concerns about the conclusion that the O<sub>2</sub><sup>•–</sup>-generating tuberculosis antibiotic clofazimine, which also binds tightly to DNA and RNA, facilitates INH-induced killing of persistent <italic>M. smegmatis</italic> by virtue of O<sub>2</sub><sup>•–</sup> production (<xref rid="B22" ref-type="bibr">Grant et al., 2012</xref>). It is possible that clofazimine’s cytotoxic activity involves tight binding of its reduced, free radical form to DNA and RNA, as demonstrated for the parent compound (<xref rid="B46" ref-type="bibr">Morrison and Marley, 1976</xref>), to create covalent adducts. In any event, our results demonstrate that O<sub>2</sub><sup>•–</sup> is unlikely to be the cause of toxicity in persistent or drug-resistant non-replicating mycobacteria.</p>
+      <p>Finally, we address the impact of potential heterogeneity in what appears to be toxicant-induced changes in uptake of dye molecules into individual cells. This issue becomes apparent, for example, in the increased proportion of cells appearing in the Dye<sup>+</sup> gate following menadione treatment (<bold>Figure <xref ref-type="fig" rid="F2">2E</xref></bold>), which correlates with the proportion of cells with a fluorescence signal greater than untreated cells (CellROX<sup>hi</sup>; <bold>Figures <xref ref-type="fig" rid="F2">2A,C</xref></bold>). What appears to be a toxicant-induced increase in the number of cells taking up dye raises the concerns that an increased CellROX<sup>hi</sup> signal could occur in spite of constant toxicant-independent ROS levels (more dye molecules to activate) or as a result of a large influx of unactivated, weakly fluorescent parent dye molecules. It is important to point out that the flow cytometry method is limited in its ability to precisely quantify the contribution of toxicant-induced increases in dye uptake of individual cells, such as increased permeability to CellROX Green or reduced efflux of the dye. However, the nature of the gating strategy, the cell permeability and spectroscopic properties of the fluorescent dye, and our observations of membrane permeability changes using PI argue that stress-induced increases in CellROX Green fluorescence are truly due to increases in O<sub>2</sub><sup>•–</sup> levels in the cells. First, the Dye<sup>+</sup> gate precedes CellROX<sup>hi</sup> gating, so the latter is a subset of the former and, in a rising tide argument, increases in the Dye<sup>+</sup> population will naturally accompany increases in the CellROX<sup>hi</sup> population. The Dye<sup>+</sup> gate of increased fluorescence above unstained cells is intended to be a conservative barrier to rule out artifacts, so it is possible that untreated cells taking up smaller amounts of the weakly fluorescent dye will be gated out of the analysis for the sake of accuracy at the cost of sensitivity, while increases in ROS levels in treated cells will raise the fluorescence of these previously missed low-dye cells above the threshold for Dye<sup>+</sup>. Second, our analysis of antibiotic exposure and ROS in <bold>Figure <xref ref-type="fig" rid="F4">4</xref></bold> revealed that there is no correlation between antibiotic-induced changes in membrane permeability (PI staining) and the magnitude of the CellROX<sup>hi</sup> signal: ETM caused the highest CellROX Green fluorescence (<bold>Figures <xref ref-type="fig" rid="F4">4B,C</xref></bold>) and the lowest membrane damage (<bold>Figures <xref ref-type="fig" rid="F4">4E,F</xref></bold>). Third, CellROX Green is a cell-permeant dye, so its concentration should equilibrate between bulk solvent and cell interior. The spectroscopic properties of CellROX Green imply that very high levels of unactivated dye must accumulate in a cell to produce a signal that rivals the magnitude of ROS-activated dye. Assuming that CellROX Green has spectral properties roughly similar to HPF, then both molar absorptivity and quantum efficiency are greatly increased by ROS activation: &gt;3-fold and &gt;100-fold, respectively (<xref rid="B63" ref-type="bibr">Setsukinai et al., 2003</xref>). This implies that an approximately &gt;1000-fold increase in intracellular CellROX Green concentration would be needed to produce the equivalent of a 10-fold increase in ROS-activated CellROX Green fluorescence above the mean (or median or mode) fluorescence of the population. The additional requirement for DNA binding to achieve the enhanced fluorescence by ROS-activated CellROX Green (<xref rid="B30" ref-type="bibr">Invitrogen, 2010</xref>, <xref rid="B31" ref-type="bibr">2012</xref>, <xref rid="B32" ref-type="bibr">2016</xref>) further reduces the likelihood that unactivated dye could account for toxicant-induced changes in CellROX<sup>hi</sup>. This is also consistent with the observation by <xref rid="B12" ref-type="bibr">Choi et al. (2015)</xref> that permeabilization of the <italic>E. coli</italic> cell membrane/wall by Triton X-100 did not alter CellROX Green fluorescence. Finally, if the increased fluorescence in cells were simply due to increased dye concentration, then there would not be multiple distinct cell populations observed on the flow cytometer (e.g., <bold>Figure <xref ref-type="fig" rid="F2">2D</xref></bold>). All of this evidence rules out toxicant- and stress-induced changes in dye uptake as the basis for increased CellROX<sup>hi</sup> detection of ROS.</p>
+      <p>Taken together, the results of our studies demonstrate that properly controlled flow cytometry coupled with fluorescent probes provides precise and accurate quantitative analysis of ROS generation and metabolic changes in stressed bacteria. The gating strategy provides for a consistent comparison based on specific parameters across multiple samples in spite of changes in cellular morphology or background fluorescence. Application of this method with CellROX Green and diverse bacteria reveals that superoxide generation arises idiosyncratically due to transient or phenotypic alterations in cell physiology caused by environmental or chemical stresses and is itself not a primary driver of bacterial death.</p>
+    </sec>
+    <sec>
+      <title>Author Contributions</title>
+      <p>MM, YC, MS, and PD designed experiments. MM, YC, MS, PH, and MC performed experiments. MM, YC, MS, PH, and MC analyzed data. MM, YC, MS, PH, and PD wrote the manuscript. MM, YC, and MS made an equal contribution.</p>
+    </sec>
+    <sec>
+      <title>Conflict of Interest Statement</title>
+      <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn fn-type="financial-disclosure">
+        <p><bold>Funding.</bold> This work is supported by the Singapore-MIT Alliance for Research and Technology under the National Research Foundation of Singapore. The views expressed herein are solely the responsibility of the authors and do not necessarily represent the official views of the NRF.</p>
+      </fn>
+    </fn-group>
+    <ack>
+      <p>We thank Tiffany Lee Bao Yi for her technical support.</p>
+    </ack>
+    <sec sec-type="supplementary material">
+      <title>Supplementary Material</title>
+      <p>The Supplementary Material for this article can be found online at: <ext-link ext-link-type="uri" xlink:href="http://journal.frontiersin.org/article/10.3389/fmicb.2017.00459/full#supplementary-material">http://journal.frontiersin.org/article/10.3389/fmicb.2017.00459/full#supplementary-material</ext-link></p>
+      <supplementary-material content-type="local-data" id="SM1">
+        <media xlink:href="Image_1.pdf">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Adams</surname><given-names>K. N.</given-names></name><name><surname>Takaki</surname><given-names>K.</given-names></name><name><surname>Connolly</surname><given-names>L. E.</given-names></name><name><surname>Wiedenhoft</surname><given-names>H.</given-names></name><name><surname>Winglee</surname><given-names>K.</given-names></name><name><surname>Humbert</surname><given-names>O.</given-names></name><etal/></person-group> (<year>2011</year>). <article-title>Drug tolerance in replicating mycobacteria mediated by a macrophage-induced efflux mechanism.</article-title>
+<source><italic>Cell</italic></source>
+<volume>145</volume>
+<fpage>39</fpage>–<lpage>53</lpage>. <pub-id pub-id-type="doi">10.1016/j.cell.2011.02.022</pub-id><pub-id pub-id-type="pmid">21376383</pub-id></mixed-citation>
+      </ref>
+      <ref id="B2">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Adolfsen</surname><given-names>K. J.</given-names></name><name><surname>Brynildsen</surname><given-names>M. P.</given-names></name></person-group> (<year>2015</year>). <article-title>Futile cycling increases sensitivity toward oxidative stress in <italic>Escherichia coli</italic>.</article-title>
+<source><italic>Metab. Eng.</italic></source>
+<volume>29</volume>
+<fpage>26</fpage>–<lpage>35</lpage>. <pub-id pub-id-type="doi">10.1016/j.ymben.2015.02.006</pub-id><pub-id pub-id-type="pmid">25732623</pub-id></mixed-citation>
+      </ref>
+      <ref id="B3">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Albesa</surname><given-names>I.</given-names></name><name><surname>Becerra</surname><given-names>M. C.</given-names></name><name><surname>Battan</surname><given-names>P. C.</given-names></name><name><surname>Paez</surname><given-names>P. L.</given-names></name></person-group> (<year>2004</year>). <article-title>Oxidative stress involved in the antibacterial action of different antibiotics.</article-title>
+<source><italic>Biochem. Biophys. Res. Commun.</italic></source>
+<volume>317</volume>
+<fpage>605</fpage>–<lpage>609</lpage>. <pub-id pub-id-type="doi">10.1016/j.bbrc.2004.03.085</pub-id><pub-id pub-id-type="pmid">15063800</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Aldridge</surname><given-names>B. B.</given-names></name><name><surname>Fernandez-Suarez</surname><given-names>M.</given-names></name><name><surname>Heller</surname><given-names>D.</given-names></name><name><surname>Ambravaneswaran</surname><given-names>V.</given-names></name><name><surname>Irimia</surname><given-names>D.</given-names></name><name><surname>Toner</surname><given-names>M.</given-names></name><etal/></person-group> (<year>2012</year>). <article-title>Asymmetry and aging of mycobacterial cells lead to variable growth and antibiotic susceptibility.</article-title>
+<source><italic>Science</italic></source>
+<volume>335</volume>
+<fpage>100</fpage>–<lpage>104</lpage>. <pub-id pub-id-type="doi">10.1126/science.1216166</pub-id><pub-id pub-id-type="pmid">22174129</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bataineh</surname><given-names>H.</given-names></name><name><surname>Pestovsky</surname><given-names>O.</given-names></name><name><surname>Bakac</surname><given-names>A.</given-names></name></person-group> (<year>2016</year>). <article-title>Electron transfer reactivity of the aqueous iron(IV)-oxo complex. Outer-sphere vs proton-coupled electron transfer.</article-title>
+<source><italic>Inorg. Chem.</italic></source>
+<volume>55</volume>
+<fpage>6719</fpage>–<lpage>6724</lpage>. <pub-id pub-id-type="doi">10.1021/acs.inorgchem.6b00966</pub-id><pub-id pub-id-type="pmid">27320290</pub-id></mixed-citation>
+      </ref>
+      <ref id="B6">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Belenky</surname><given-names>P.</given-names></name><name><surname>Ye</surname><given-names>J. D.</given-names></name><name><surname>Porter</surname><given-names>C. B.</given-names></name><name><surname>Cohen</surname><given-names>N. R.</given-names></name><name><surname>Lobritz</surname><given-names>M. A.</given-names></name><name><surname>Ferrante</surname><given-names>T.</given-names></name><etal/></person-group> (<year>2015</year>). <article-title>Bactericidal antibiotics induce toxic metabolic perturbations that lead to cellular damage.</article-title>
+<source><italic>Cell Rep.</italic></source>
+<volume>13</volume>
+<fpage>968</fpage>–<lpage>980</lpage>. <pub-id pub-id-type="doi">10.1016/j.celrep.2015.09.059</pub-id><pub-id pub-id-type="pmid">26565910</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Benson</surname><given-names>R. C.</given-names></name><name><surname>Meyer</surname><given-names>R. A.</given-names></name><name><surname>Zaruba</surname><given-names>M. E.</given-names></name><name><surname>McKhann</surname><given-names>G. M.</given-names></name></person-group> (<year>1979</year>). <article-title>Cellular autofluorescence–is it due to flavins?</article-title>
+<source><italic>J. Histochem. Cytochem.</italic></source>
+<volume>27</volume>
+<fpage>44</fpage>–<lpage>48</lpage>. <pub-id pub-id-type="doi">10.1177/27.1.438504</pub-id><pub-id pub-id-type="pmid">438504</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Berg</surname><given-names>J. M.</given-names></name><name><surname>Tymoczko</surname><given-names>J. L.</given-names></name><name><surname>Stryer</surname><given-names>L.</given-names></name></person-group>
+<role>(eds)</role> (<year>2002</year>). <article-title>“The Michaelis-Menten model accounts for the kinetic properties of many enzymes,” in</article-title>
+<source><italic>Biochemistry</italic></source>
+<edition>5th Edn</edition> (<publisher-loc>New York, NY</publisher-loc>: <publisher-name>W H Freeman</publisher-name>).</mixed-citation>
+      </ref>
+      <ref id="B9">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Boshoff</surname><given-names>H. I.</given-names></name><name><surname>Myers</surname><given-names>T. G.</given-names></name><name><surname>Copp</surname><given-names>B. R.</given-names></name><name><surname>McNeil</surname><given-names>M. R.</given-names></name><name><surname>Wilson</surname><given-names>M. A.</given-names></name><name><surname>Barry</surname><given-names>C. E.</given-names></name><etal/></person-group> (<year>2004</year>). <article-title>The transcriptional responses of <italic>Mycobacterium tuberculosis</italic> to inhibitors of metabolism: novel insights into drug mechanisms of action.</article-title>
+<source><italic>J. Biol. Chem.</italic></source>
+<volume>279</volume>
+<fpage>40174</fpage>–<lpage>40184</lpage>. <pub-id pub-id-type="doi">10.1074/jbc.M406796200</pub-id><pub-id pub-id-type="pmid">15247240</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brynildsen</surname><given-names>M. P.</given-names></name><name><surname>Winkler</surname><given-names>J. A.</given-names></name><name><surname>Spina</surname><given-names>C. S.</given-names></name><name><surname>MacDonald</surname><given-names>I. C.</given-names></name><name><surname>Collins</surname><given-names>J. J.</given-names></name></person-group> (<year>2013</year>). <article-title>Potentiating antibacterial activity by predictably enhancing endogenous microbial ROS production.</article-title>
+<source><italic>Nat. Biotechnol.</italic></source>
+<volume>31</volume>
+<fpage>160</fpage>–<lpage>165</lpage>. <pub-id pub-id-type="doi">10.1038/nbt.2458</pub-id><pub-id pub-id-type="pmid">23292609</pub-id></mixed-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chionh</surname><given-names>Y. H.</given-names></name><name><surname>McBee</surname><given-names>M.</given-names></name><name><surname>Babu</surname><given-names>I. R.</given-names></name><name><surname>Hia</surname><given-names>F.</given-names></name><name><surname>Lin</surname><given-names>W.</given-names></name><name><surname>Zhao</surname><given-names>W.</given-names></name><etal/></person-group> (<year>2016</year>). <article-title>tRNA-mediated codon-biased translation in mycobacterial hypoxic persistence.</article-title>
+<source><italic>Nat. Commun.</italic></source>
+<volume>7</volume>:<issue>13302</issue>
+<pub-id pub-id-type="doi">10.1038/ncomms13302</pub-id></mixed-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Choi</surname><given-names>H.</given-names></name><name><surname>Yang</surname><given-names>Z.</given-names></name><name><surname>Weisshaar</surname><given-names>J. C.</given-names></name></person-group> (<year>2015</year>). <article-title>Single-cell, real-time detection of oxidative stress induced in <italic>Escherichia coli</italic> by the antimicrobial peptide CM15.</article-title>
+<source><italic>Proc. Natl. Acad. Sci. U.S.A.</italic></source>
+<volume>112</volume>
+<fpage>E303</fpage>–<lpage>E310</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1417703112</pub-id><pub-id pub-id-type="pmid">25561551</pub-id></mixed-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dedon</surname><given-names>P. C.</given-names></name><name><surname>Tannenbaum</surname><given-names>S. R.</given-names></name></person-group> (<year>2004</year>). <article-title>Reactive nitrogen species in the chemical biology of inflammation.</article-title>
+<source><italic>Arch. Biochem. Biophys.</italic></source>
+<volume>423</volume>
+<fpage>12</fpage>–<lpage>22</lpage>. <pub-id pub-id-type="doi">10.1016/j.abb.2003.12.017</pub-id><pub-id pub-id-type="pmid">14989259</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Denisov</surname><given-names>I. G.</given-names></name><name><surname>Makris</surname><given-names>T. M.</given-names></name><name><surname>Sligar</surname><given-names>S. G.</given-names></name><name><surname>Schlichting</surname><given-names>I.</given-names></name></person-group> (<year>2005</year>). <article-title>Structure and chemistry of cytochrome P450.</article-title>
+<source><italic>Chem. Rev.</italic></source>
+<volume>105</volume>
+<fpage>2253</fpage>–<lpage>2277</lpage>. <pub-id pub-id-type="doi">10.1021/cr0307143</pub-id><pub-id pub-id-type="pmid">15941214</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dwyer</surname><given-names>D. J.</given-names></name><name><surname>Belenky</surname><given-names>P. A.</given-names></name><name><surname>Yang</surname><given-names>J. H.</given-names></name><name><surname>MacDonald</surname><given-names>I. C.</given-names></name><name><surname>Martell</surname><given-names>J. D.</given-names></name><name><surname>Takahashi</surname><given-names>N.</given-names></name><etal/></person-group> (<year>2014</year>). <article-title>Antibiotics induce redox-related physiological alterations as part of their lethality.</article-title>
+<source><italic>Proc. Natl. Acad. Sci. U.S.A.</italic></source>
+<volume>111</volume>
+<fpage>E2100</fpage>–<lpage>E2109</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1401876111</pub-id><pub-id pub-id-type="pmid">24803433</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dwyer</surname><given-names>D. J.</given-names></name><name><surname>Camacho</surname><given-names>D. M.</given-names></name><name><surname>Kohanski</surname><given-names>M. A.</given-names></name><name><surname>Callura</surname><given-names>J. M.</given-names></name><name><surname>Collins</surname><given-names>J. J.</given-names></name></person-group> (<year>2012</year>). <article-title>Antibiotic-induced bacterial cell death exhibits physiological and biochemical hallmarks of apoptosis.</article-title>
+<source><italic>Mol. Cell.</italic></source>
+<volume>46</volume>
+<fpage>561</fpage>–<lpage>572</lpage>. <pub-id pub-id-type="doi">10.1016/j.molcel.2012.04.027</pub-id><pub-id pub-id-type="pmid">22633370</pub-id></mixed-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dwyer</surname><given-names>D. J.</given-names></name><name><surname>Collins</surname><given-names>J. J.</given-names></name><name><surname>Walker</surname><given-names>G. C.</given-names></name></person-group> (<year>2015</year>). <article-title>Unraveling the physiological complexities of antibiotic lethality.</article-title>
+<source><italic>Annu. Rev. Pharmacol. Toxicol.</italic></source>
+<volume>55</volume>
+<fpage>313</fpage>–<lpage>332</lpage>. <pub-id pub-id-type="doi">10.1146/annurev-pharmtox-010814-124712</pub-id><pub-id pub-id-type="pmid">25251995</pub-id></mixed-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Frejaville</surname><given-names>C.</given-names></name><name><surname>Karoui</surname><given-names>H.</given-names></name><name><surname>Tuccio</surname><given-names>B.</given-names></name><name><surname>Le Moigne</surname><given-names>F.</given-names></name><name><surname>Culcasi</surname><given-names>M.</given-names></name><name><surname>Pietri</surname><given-names>S.</given-names></name><etal/></person-group> (<year>1995</year>). <article-title>5-(Diethoxyphosphoryl)-5-methyl-1-pyrroline N-oxide: a new efficient phosphorylated nitrone for the in vitro and in vivo spin trapping of oxygen-centered radicals.</article-title>
+<source><italic>J. Med. Chem.</italic></source>
+<volume>38</volume>
+<fpage>258</fpage>–<lpage>265</lpage>. <pub-id pub-id-type="doi">10.1021/jm00002a007</pub-id><pub-id pub-id-type="pmid">7830268</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gengenbacher</surname><given-names>M.</given-names></name><name><surname>Rao</surname><given-names>S. P.</given-names></name><name><surname>Pethe</surname><given-names>K.</given-names></name><name><surname>Dick</surname><given-names>T.</given-names></name></person-group> (<year>2010</year>). <article-title>Nutrient-starved, non-replicating <italic>Mycobacterium tuberculosis</italic> requires respiration, ATP synthase and isocitrate lyase for maintenance of ATP homeostasis and viability.</article-title>
+<source><italic>Microbiology</italic></source>
+<volume>156(Pt 1)</volume>
+<fpage>81</fpage>–<lpage>87</lpage>. <pub-id pub-id-type="doi">10.1099/mic.0.033084-0</pub-id><pub-id pub-id-type="pmid">19797356</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gonzalez-Flecha</surname><given-names>B.</given-names></name><name><surname>Demple</surname><given-names>B.</given-names></name></person-group> (<year>1995</year>). <article-title>Metabolic sources of hydrogen peroxide in aerobically growing <italic>Escherichia coli</italic>.</article-title>
+<source><italic>J. Biol. Chem.</italic></source>
+<volume>270</volume>
+<fpage>13681</fpage>–<lpage>13687</lpage>. <pub-id pub-id-type="doi">10.1074/jbc.270.23.13681</pub-id><pub-id pub-id-type="pmid">7775420</pub-id></mixed-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Goswami</surname><given-names>M.</given-names></name><name><surname>Mangoli</surname><given-names>S. H.</given-names></name><name><surname>Jawali</surname><given-names>N.</given-names></name></person-group> (<year>2006</year>). <article-title>Involvement of reactive oxygen species in the action of ciprofloxacin against <italic>Escherichia coli</italic>.</article-title>
+<source><italic>Antimicrob. Agents Chemother.</italic></source>
+<volume>50</volume>
+<fpage>949</fpage>–<lpage>954</lpage>. <pub-id pub-id-type="doi">10.1128/AAC.50.3.949-954.2006</pub-id><pub-id pub-id-type="pmid">16495256</pub-id></mixed-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Grant</surname><given-names>S. S.</given-names></name><name><surname>Kaufmann</surname><given-names>B. B.</given-names></name><name><surname>Chand</surname><given-names>N. S.</given-names></name><name><surname>Haseley</surname><given-names>N.</given-names></name><name><surname>Hung</surname><given-names>D. T.</given-names></name></person-group> (<year>2012</year>). <article-title>Eradication of bacterial persisters with antibiotic-generated hydroxyl radicals.</article-title>
+<source><italic>Proc. Natl. Acad. Sci. U.S.A.</italic></source>
+<volume>109</volume>
+<fpage>12147</fpage>–<lpage>12152</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1203735109</pub-id><pub-id pub-id-type="pmid">22778419</pub-id></mixed-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hassan</surname><given-names>H. M.</given-names></name><name><surname>Fridovich</surname><given-names>I.</given-names></name></person-group> (<year>1979</year>). <article-title>Intracellular production of superoxide radical and of hydrogen peroxide by redox active compounds.</article-title>
+<source><italic>Arch. Biochem. Biophys.</italic></source>
+<volume>196</volume>
+<fpage>385</fpage>–<lpage>395</lpage>. <pub-id pub-id-type="doi">10.1016/0003-9861(79)90289-3</pub-id><pub-id pub-id-type="pmid">225995</pub-id></mixed-citation>
+      </ref>
+      <ref id="B24">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hayyan</surname><given-names>M.</given-names></name><name><surname>Hashim</surname><given-names>M. A.</given-names></name><name><surname>AlNashef</surname><given-names>I. M.</given-names></name></person-group> (<year>2016</year>). <article-title>Superoxide ion: generation and chemical implications.</article-title>
+<source><italic>Chem. Rev.</italic></source>
+<volume>116</volume>
+<fpage>3029</fpage>–<lpage>3085</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemrev.5b00407</pub-id><pub-id pub-id-type="pmid">26875845</pub-id></mixed-citation>
+      </ref>
+      <ref id="B25">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hu</surname><given-names>J. J.</given-names></name><name><surname>Wong</surname><given-names>N. K.</given-names></name><name><surname>Ye</surname><given-names>S.</given-names></name><name><surname>Chen</surname><given-names>X.</given-names></name><name><surname>Lu</surname><given-names>M. Y.</given-names></name><name><surname>Zhao</surname><given-names>A. Q.</given-names></name><etal/></person-group> (<year>2015</year>). <article-title>Fluorescent probe HKSOX-1 for imaging and detection of endogenous superoxide in live cells and in vivo.</article-title>
+<source><italic>J. Am. Chem. Soc.</italic></source>
+<volume>137</volume>
+<fpage>6837</fpage>–<lpage>6843</lpage>. <pub-id pub-id-type="doi">10.1021/jacs.5b01881</pub-id><pub-id pub-id-type="pmid">25988218</pub-id></mixed-citation>
+      </ref>
+      <ref id="B26">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Huycke</surname><given-names>M. M.</given-names></name><name><surname>Joyce</surname><given-names>W.</given-names></name><name><surname>Wack</surname><given-names>M. F.</given-names></name></person-group> (<year>1996</year>). <article-title>Augmented production of extracellular superoxide by blood isolates of <italic>Enterococcus faecalis</italic>.</article-title>
+<source><italic>J. Infect. Dis.</italic></source>
+<volume>173</volume>
+<fpage>743</fpage>–<lpage>746</lpage>. <pub-id pub-id-type="doi">10.1093/infdis/173.3.743</pub-id><pub-id pub-id-type="pmid">8627044</pub-id></mixed-citation>
+      </ref>
+      <ref id="B27">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Imlay</surname><given-names>J. A.</given-names></name></person-group> (<year>2013</year>). <article-title>The molecular mechanisms and physiological consequences of oxidative stress: lessons from a model bacterium.</article-title>
+<source><italic>Nat. Rev. Microbiol.</italic></source>
+<volume>11</volume>
+<fpage>443</fpage>–<lpage>454</lpage>. <pub-id pub-id-type="doi">10.1038/nrmicro3032</pub-id><pub-id pub-id-type="pmid">23712352</pub-id></mixed-citation>
+      </ref>
+      <ref id="B28">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Imlay</surname><given-names>J. A.</given-names></name></person-group> (<year>2015</year>). <article-title>Diagnosing oxidative stress in bacteria: not as easy as you might think.</article-title>
+<source><italic>Curr. Opin. Microbiol.</italic></source>
+<volume>24</volume>
+<fpage>124</fpage>–<lpage>131</lpage>. <pub-id pub-id-type="doi">10.1016/j.mib.2015.01.004</pub-id><pub-id pub-id-type="pmid">25666086</pub-id></mixed-citation>
+      </ref>
+      <ref id="B29">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Imlay</surname><given-names>J. A.</given-names></name><name><surname>Chin</surname><given-names>S. M.</given-names></name><name><surname>Linn</surname><given-names>S.</given-names></name></person-group> (<year>1988</year>). <article-title>Toxic DNA damage by hydrogen peroxide through the Fenton reaction in vivo and in vitro.</article-title>
+<source><italic>Science</italic></source>
+<volume>240</volume>
+<fpage>640</fpage>–<lpage>642</lpage>. <pub-id pub-id-type="doi">10.1126/science.2834821</pub-id><pub-id pub-id-type="pmid">2834821</pub-id></mixed-citation>
+      </ref>
+      <ref id="B30">
+        <mixed-citation publication-type="book"><collab>Invitrogen</collab> (<year>2010</year>). <source><italic>The Molecular Probes Handbook: A Guide to Fluorescent Probes and Labeling Technologies</italic></source>
+<edition>11th Edn.</edition>
+<publisher-loc>Waltham, MA</publisher-loc>: <publisher-name>Thermo Fisher Scientific</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="B31">
+        <mixed-citation publication-type="journal"><collab>Invitrogen</collab> (<year>2012</year>). <article-title>Streamline your oxidative stress measurements CellROX<sup>®</sup> Green and CellROX<sup>®</sup> orange reagents with simple workflows.</article-title>
+<source><italic>Bioprobes</italic></source>
+<volume>68</volume>
+<fpage>16</fpage>–<lpage>17</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B32">
+        <mixed-citation publication-type="journal"><collab>Invitrogen</collab> (<year>2016</year>). <source><italic>Fluorescence Response of CellROX Reagents to Various Reactive Oxygen Species (ROS) [Online].</italic></source>
+<comment>Available: <ext-link ext-link-type="uri" xlink:href="https://www.researchgate.net/file.PostFileLoader.html?id=528d91e5d11b8b49328b4706&amp;assetKey=AS%3A272177469820935%401441903574158">https://www.researchgate.net/file.PostFileLoader.html?id=528d91e5d11b8b49328b4706&amp;assetKey=AS%3A272177469820935%401441903574158</ext-link> [accessed November 2 2016]</comment>.</mixed-citation>
+      </ref>
+      <ref id="B33">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Iyanagi</surname><given-names>T.</given-names></name></person-group> (<year>1990</year>). <article-title>On the mechanism of one-electron reduction of quinones by microsomal flavin enzymes: the kinetic analysis between cytochrome B5 and menadione.</article-title>
+<source><italic>Free Radic. Res. Commun.</italic></source>
+<volume>8</volume>
+<fpage>259</fpage>–<lpage>268</lpage>. <pub-id pub-id-type="doi">10.3109/10715769009053359</pub-id><pub-id pub-id-type="pmid">2113027</pub-id></mixed-citation>
+      </ref>
+      <ref id="B34">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kalyanaraman</surname><given-names>B.</given-names></name><name><surname>Darley-Usmar</surname><given-names>V.</given-names></name><name><surname>Davies</surname><given-names>K. J.</given-names></name><name><surname>Dennery</surname><given-names>P. A.</given-names></name><name><surname>Forman</surname><given-names>H. J.</given-names></name><name><surname>Grisham</surname><given-names>M. B.</given-names></name><etal/></person-group> (<year>2012</year>). <article-title>Measuring reactive oxygen and nitrogen species with fluorescent probes: challenges and limitations.</article-title>
+<source><italic>Free Radic. Biol. Med.</italic></source>
+<volume>52</volume>
+<fpage>1</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1016/j.freeradbiomed.2011.09.030</pub-id><pub-id pub-id-type="pmid">22027063</pub-id></mixed-citation>
+      </ref>
+      <ref id="B35">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Keren</surname><given-names>I.</given-names></name><name><surname>Wu</surname><given-names>Y.</given-names></name><name><surname>Inocencio</surname><given-names>J.</given-names></name><name><surname>Mulcahy</surname><given-names>L. R.</given-names></name><name><surname>Lewis</surname><given-names>K.</given-names></name></person-group> (<year>2013</year>). <article-title>Killing by bactericidal antibiotics does not depend on reactive oxygen species.</article-title>
+<source><italic>Science</italic></source>
+<volume>339</volume>
+<fpage>1213</fpage>–<lpage>1216</lpage>. <pub-id pub-id-type="doi">10.1126/science.1232688</pub-id><pub-id pub-id-type="pmid">23471410</pub-id></mixed-citation>
+      </ref>
+      <ref id="B36">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kieser</surname><given-names>K. J.</given-names></name><name><surname>Rubin</surname><given-names>E. J.</given-names></name></person-group> (<year>2014</year>). <article-title>How sisters grow apart: mycobacterial growth and division.</article-title>
+<source><italic>Nat. Rev. Microbiol.</italic></source>
+<volume>12</volume>
+<fpage>550</fpage>–<lpage>562</lpage>. <pub-id pub-id-type="doi">10.1038/nrmicro3299</pub-id><pub-id pub-id-type="pmid">24998739</pub-id></mixed-citation>
+      </ref>
+      <ref id="B37">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kim</surname><given-names>J. S.</given-names></name><name><surname>Heo</surname><given-names>P.</given-names></name><name><surname>Yang</surname><given-names>T. J.</given-names></name><name><surname>Lee</surname><given-names>K. S.</given-names></name><name><surname>Jin</surname><given-names>Y. S.</given-names></name><name><surname>Kim</surname><given-names>S. K.</given-names></name><etal/></person-group> (<year>2011</year>). <article-title>Bacterial persisters tolerate antibiotics by not producing hydroxyl radicals.</article-title>
+<source><italic>Biochem. Biophys. Res. Commun.</italic></source>
+<volume>413</volume>
+<fpage>105</fpage>–<lpage>110</lpage>. <pub-id pub-id-type="doi">10.1016/j.bbrc.2011.08.063</pub-id><pub-id pub-id-type="pmid">21872573</pub-id></mixed-citation>
+      </ref>
+      <ref id="B38">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kohanski</surname><given-names>M. A.</given-names></name><name><surname>Dwyer</surname><given-names>D. J.</given-names></name><name><surname>Hayete</surname><given-names>B.</given-names></name><name><surname>Lawrence</surname><given-names>C. A.</given-names></name><name><surname>Collins</surname><given-names>J. J.</given-names></name></person-group> (<year>2007</year>). <article-title>A common mechanism of cellular death induced by bactericidal antibiotics.</article-title>
+<source><italic>Cell</italic></source>
+<volume>130</volume>
+<fpage>797</fpage>–<lpage>810</lpage>. <pub-id pub-id-type="doi">10.1016/j.cell.2007.06.049</pub-id><pub-id pub-id-type="pmid">17803904</pub-id></mixed-citation>
+      </ref>
+      <ref id="B39">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Korshunov</surname><given-names>S.</given-names></name><name><surname>Imlay</surname><given-names>J. A.</given-names></name></person-group> (<year>2006</year>). <article-title>Detection and quantification of superoxide formed within the periplasm of <italic>Escherichia coli</italic>.</article-title>
+<source><italic>J. Bacteriol.</italic></source>
+<volume>188</volume>
+<fpage>6326</fpage>–<lpage>6334</lpage>. <pub-id pub-id-type="doi">10.1128/JB.00554-06</pub-id><pub-id pub-id-type="pmid">16923900</pub-id></mixed-citation>
+      </ref>
+      <ref id="B40">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liu</surname><given-names>Y.</given-names></name><name><surname>Imlay</surname><given-names>J. A.</given-names></name></person-group> (<year>2013</year>). <article-title>Cell death from antibiotics without the involvement of reactive oxygen species.</article-title>
+<source><italic>Science</italic></source>
+<volume>339</volume>
+<fpage>1210</fpage>–<lpage>1213</lpage>. <pub-id pub-id-type="doi">10.1126/science.1232751</pub-id><pub-id pub-id-type="pmid">23471409</pub-id></mixed-citation>
+      </ref>
+      <ref id="B41">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lobritz</surname><given-names>M. A.</given-names></name><name><surname>Belenky</surname><given-names>P.</given-names></name><name><surname>Porter</surname><given-names>C. B.</given-names></name><name><surname>Gutierrez</surname><given-names>A.</given-names></name><name><surname>Yang</surname><given-names>J. H.</given-names></name><name><surname>Schwarz</surname><given-names>E. G.</given-names></name><etal/></person-group> (<year>2015</year>). <article-title>Antibiotic efficacy is linked to bacterial cellular respiration.</article-title>
+<source><italic>Proc. Natl. Acad. Sci. U.S.A.</italic></source>
+<volume>112</volume>
+<fpage>8173</fpage>–<lpage>8180</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1509743112</pub-id><pub-id pub-id-type="pmid">26100898</pub-id></mixed-citation>
+      </ref>
+      <ref id="B42">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Madan</surname><given-names>A.</given-names></name><name><surname>Graham</surname><given-names>R. A.</given-names></name><name><surname>Carroll</surname><given-names>K. M.</given-names></name><name><surname>Mudra</surname><given-names>D. R.</given-names></name><name><surname>Burton</surname><given-names>L. A.</given-names></name><name><surname>Krueger</surname><given-names>L. A.</given-names></name><etal/></person-group> (<year>2003</year>). <article-title>Effects of prototypical microsomal enzyme inducers on cytochrome P450 expression in cultured human hepatocytes.</article-title>
+<source><italic>Drug Metab. Dispos.</italic></source>
+<volume>31</volume>
+<fpage>421</fpage>–<lpage>431</lpage>. <pub-id pub-id-type="doi">10.1124/dmd.31.4.421</pub-id><pub-id pub-id-type="pmid">12642468</pub-id></mixed-citation>
+      </ref>
+      <ref id="B43">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Maisonneuve</surname><given-names>E.</given-names></name><name><surname>Gerdes</surname><given-names>K.</given-names></name></person-group> (<year>2014</year>). <article-title>Molecular mechanisms underlying bacterial persisters.</article-title>
+<source><italic>Cell</italic></source>
+<volume>157</volume>
+<fpage>539</fpage>–<lpage>548</lpage>. <pub-id pub-id-type="doi">10.1016/j.cell.2014.02.050</pub-id><pub-id pub-id-type="pmid">24766804</pub-id></mixed-citation>
+      </ref>
+      <ref id="B44">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Marinho</surname><given-names>H. S.</given-names></name><name><surname>Real</surname><given-names>C.</given-names></name><name><surname>Cyrne</surname><given-names>L.</given-names></name><name><surname>Soares</surname><given-names>H.</given-names></name><name><surname>Antunes</surname><given-names>F.</given-names></name></person-group> (<year>2014</year>). <article-title>Hydrogen peroxide sensing, signaling and regulation of transcription factors.</article-title>
+<source><italic>Redox Biol.</italic></source>
+<volume>2</volume>
+<fpage>535</fpage>–<lpage>562</lpage>. <pub-id pub-id-type="doi">10.1016/j.redox.2014.02.006</pub-id><pub-id pub-id-type="pmid">24634836</pub-id></mixed-citation>
+      </ref>
+      <ref id="B45">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McLean</surname><given-names>K. J.</given-names></name><name><surname>Belcher</surname><given-names>J.</given-names></name><name><surname>Driscoll</surname><given-names>M. D.</given-names></name><name><surname>Fernandez</surname><given-names>C. C.</given-names></name><name><surname>Le Van</surname><given-names>D.</given-names></name><name><surname>Bui</surname><given-names>S.</given-names></name><etal/></person-group> (<year>2010</year>). <article-title>The <italic>Mycobacterium tuberculosis</italic> cytochromes P450: physiology, biochemistry &amp; molecular intervention.</article-title>
+<source><italic>Future Med. Chem.</italic></source>
+<volume>2</volume>
+<fpage>1339</fpage>–<lpage>1353</lpage>. <pub-id pub-id-type="doi">10.4155/fmc.10.216</pub-id><pub-id pub-id-type="pmid">21426022</pub-id></mixed-citation>
+      </ref>
+      <ref id="B46">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Morrison</surname><given-names>N. E.</given-names></name><name><surname>Marley</surname><given-names>G. M.</given-names></name></person-group> (<year>1976</year>). <article-title>Clofazimine binding studies with deoxyribonucleic acid.</article-title>
+<source><italic>Int. J. Lepr. Mycobact. Dis.</italic></source>
+<volume>44</volume>
+<fpage>475</fpage>–<lpage>481</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B47">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mukhopadhyay</surname><given-names>P.</given-names></name><name><surname>Rajesh</surname><given-names>M.</given-names></name><name><surname>Hasko</surname><given-names>G.</given-names></name><name><surname>Hawkins</surname><given-names>B. J.</given-names></name><name><surname>Madesh</surname><given-names>M.</given-names></name><name><surname>Pacher</surname><given-names>P.</given-names></name></person-group> (<year>2007</year>). <article-title>Simultaneous detection of apoptosis and mitochondrial superoxide production in live cells by flow cytometry and confocal microscopy.</article-title>
+<source><italic>Nat. Protoc.</italic></source>
+<volume>2</volume>
+<fpage>2295</fpage>–<lpage>2301</lpage>. <pub-id pub-id-type="doi">10.1038/nprot.2007.327</pub-id><pub-id pub-id-type="pmid">17853886</pub-id></mixed-citation>
+      </ref>
+      <ref id="B48">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Muller</surname><given-names>S.</given-names></name><name><surname>Nebe-von-Caron</surname><given-names>G.</given-names></name></person-group> (<year>2010</year>). <article-title>Functional single-cell analyses: flow cytometry and cell sorting of microbial populations and communities.</article-title>
+<source><italic>FEMS Microbiol. Rev.</italic></source>
+<volume>34</volume>
+<fpage>554</fpage>–<lpage>587</lpage>. <pub-id pub-id-type="doi">10.1111/j.1574-6976.2010.00214.x</pub-id><pub-id pub-id-type="pmid">20337722</pub-id></mixed-citation>
+      </ref>
+      <ref id="B49">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Munro</surname><given-names>A. W.</given-names></name><name><surname>Girvan</surname><given-names>H. M.</given-names></name><name><surname>Mason</surname><given-names>A. E.</given-names></name><name><surname>Dunford</surname><given-names>A. J.</given-names></name><name><surname>McLean</surname><given-names>K. J.</given-names></name></person-group> (<year>2013</year>). <article-title>What makes a P450 tick?</article-title>
+<source><italic>Trends Biochem. Sci.</italic></source>
+<volume>38</volume>
+<fpage>140</fpage>–<lpage>150</lpage>. <pub-id pub-id-type="doi">10.1016/j.tibs.2012.11.006</pub-id><pub-id pub-id-type="pmid">23356956</pub-id></mixed-citation>
+      </ref>
+      <ref id="B50">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nebe-von-Caron</surname><given-names>G.</given-names></name><name><surname>Stephens</surname><given-names>P. J.</given-names></name><name><surname>Hewitt</surname><given-names>C. J.</given-names></name><name><surname>Powell</surname><given-names>J. R.</given-names></name><name><surname>Badley</surname><given-names>R. A.</given-names></name></person-group> (<year>2000</year>). <article-title>Analysis of bacterial function by multi-colour fluorescence flow cytometry and single cell sorting.</article-title>
+<source><italic>J. Microbiol. Methods</italic></source>
+<volume>42</volume>
+<fpage>97</fpage>–<lpage>114</lpage>. <pub-id pub-id-type="doi">10.1016/S0167-7012(00)00181-0</pub-id><pub-id pub-id-type="pmid">11000436</pub-id></mixed-citation>
+      </ref>
+      <ref id="B51">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nguyen</surname><given-names>D.</given-names></name><name><surname>Joshi-Datar</surname><given-names>A.</given-names></name><name><surname>Lepine</surname><given-names>F.</given-names></name><name><surname>Bauerle</surname><given-names>E.</given-names></name><name><surname>Olakanmi</surname><given-names>O.</given-names></name><name><surname>Beer</surname><given-names>K.</given-names></name><etal/></person-group> (<year>2011</year>). <article-title>Active starvation responses mediate antibiotic tolerance in biofilms and nutrient-limited bacteria.</article-title>
+<source><italic>Science</italic></source>
+<volume>334</volume>
+<fpage>982</fpage>–<lpage>986</lpage>. <pub-id pub-id-type="doi">10.1126/science.1211037</pub-id><pub-id pub-id-type="pmid">22096200</pub-id></mixed-citation>
+      </ref>
+      <ref id="B52">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Niemi</surname><given-names>M.</given-names></name><name><surname>Backman</surname><given-names>J. T.</given-names></name><name><surname>Fromm</surname><given-names>M. F.</given-names></name><name><surname>Neuvonen</surname><given-names>P. J.</given-names></name><name><surname>Kivisto</surname><given-names>K. T.</given-names></name></person-group> (<year>2003</year>). <article-title>Pharmacokinetic interactions with rifampicin : clinical relevance.</article-title>
+<source><italic>Clin. Pharmacokinet.</italic></source>
+<volume>42</volume>
+<fpage>819</fpage>–<lpage>850</lpage>. <pub-id pub-id-type="doi">10.2165/00003088-200342090-00003</pub-id><pub-id pub-id-type="pmid">12882588</pub-id></mixed-citation>
+      </ref>
+      <ref id="B53">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ouellet</surname><given-names>H.</given-names></name><name><surname>Johnston</surname><given-names>J. B.</given-names></name><name><surname>Ortiz de Montellano</surname><given-names>P. R.</given-names></name></person-group> (<year>2010</year>). <article-title>The <italic>Mycobacterium tuberculosis</italic> cytochrome P450 system.</article-title>
+<source><italic>Arch. Biochem. Biophys.</italic></source>
+<volume>493</volume>
+<fpage>82</fpage>–<lpage>95</lpage>. <pub-id pub-id-type="doi">10.1016/j.abb.2009.07.011</pub-id><pub-id pub-id-type="pmid">19635450</pub-id></mixed-citation>
+      </ref>
+      <ref id="B54">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Paulander</surname><given-names>W.</given-names></name><name><surname>Wang</surname><given-names>Y.</given-names></name><name><surname>Folkesson</surname><given-names>A.</given-names></name><name><surname>Charbon</surname><given-names>G.</given-names></name><name><surname>Lobner-Olesen</surname><given-names>A.</given-names></name><name><surname>Ingmer</surname><given-names>H.</given-names></name></person-group> (<year>2014</year>). <article-title>Bactericidal antibiotics increase hydroxyphenyl fluorescein signal by altering cell morphology.</article-title>
+<source><italic>PLoS ONE</italic></source>
+<volume>9</volume>:<issue>e92231</issue>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0092231</pub-id></mixed-citation>
+      </ref>
+      <ref id="B55">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Renggli</surname><given-names>S.</given-names></name><name><surname>Keck</surname><given-names>W.</given-names></name><name><surname>Jenal</surname><given-names>U.</given-names></name><name><surname>Ritz</surname><given-names>D.</given-names></name></person-group> (<year>2013</year>). <article-title>Role of autofluorescence in flow cytometric analysis of <italic>Escherichia coli</italic> treated with bactericidal antibiotics.</article-title>
+<source><italic>J. Bacteriol.</italic></source>
+<volume>195</volume>
+<fpage>4067</fpage>–<lpage>4073</lpage>. <pub-id pub-id-type="doi">10.1128/JB.00393-13</pub-id><pub-id pub-id-type="pmid">23836867</pub-id></mixed-citation>
+      </ref>
+      <ref id="B56">
+        <mixed-citation publication-type="journal"><collab>ResearchGate</collab> (<year>2013</year>). <source><italic>How to Improve Oxidative Stress Detection Using CellROX Reagent? [Online].</italic></source>
+<comment>Available: <ext-link ext-link-type="uri" xlink:href="https://www.researchgate.net/post/How_to_improve_oxidative_stress_detection_using_CellROX_reagent">https://www.researchgate.net/post/How_to_improve_oxidative_stress_detection_using_CellROX_reagent</ext-link> [accessed November 2 2016]</comment>.</mixed-citation>
+      </ref>
+      <ref id="B57">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Roca</surname><given-names>F. J.</given-names></name><name><surname>Ramakrishnan</surname><given-names>L.</given-names></name></person-group> (<year>2013</year>). <article-title>TNF dually mediates resistance and susceptibility to mycobacteria via mitochondrial reactive oxygen species.</article-title>
+<source><italic>Cell</italic></source>
+<volume>153</volume>
+<fpage>521</fpage>–<lpage>534</lpage>. <pub-id pub-id-type="doi">10.1016/j.cell.2013.03.022</pub-id><pub-id pub-id-type="pmid">23582643</pub-id></mixed-citation>
+      </ref>
+      <ref id="B58">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rodriguez</surname><given-names>G. G.</given-names></name><name><surname>Phipps</surname><given-names>D.</given-names></name><name><surname>Ishiguro</surname><given-names>K.</given-names></name><name><surname>Ridgway</surname><given-names>H. F.</given-names></name></person-group> (<year>1992</year>). <article-title>Use of a fluorescent redox probe for direct visualization of actively respiring bacteria.</article-title>
+<source><italic>Appl. Environ. Microbiol.</italic></source>
+<volume>58</volume>
+<fpage>1801</fpage>–<lpage>1808</lpage>.<pub-id pub-id-type="pmid">1622256</pub-id></mixed-citation>
+      </ref>
+      <ref id="B59">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Saint-Ruf</surname><given-names>C.</given-names></name><name><surname>Crussard</surname><given-names>S.</given-names></name><name><surname>Franceschi</surname><given-names>C.</given-names></name><name><surname>Orenga</surname><given-names>S.</given-names></name><name><surname>Ouattara</surname><given-names>J.</given-names></name><name><surname>Ramjeet</surname><given-names>M.</given-names></name><etal/></person-group> (<year>2016</year>). <article-title>Antibiotic susceptibility testing of the gram-negative bacteria based on flow cytometry.</article-title>
+<source><italic>Front. Microbiol.</italic></source>
+<volume>7</volume>:<issue>1121</issue>
+<pub-id pub-id-type="doi">10.3389/fmicb.2016.01121</pub-id></mixed-citation>
+      </ref>
+      <ref id="B60">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sarathy</surname><given-names>J.</given-names></name><name><surname>Dartois</surname><given-names>V.</given-names></name><name><surname>Dick</surname><given-names>T.</given-names></name><name><surname>Gengenbacher</surname><given-names>M.</given-names></name></person-group> (<year>2013</year>). <article-title>Reduced drug uptake in phenotypically resistant nutrient-starved nonreplicating <italic>Mycobacterium tuberculosis</italic>.</article-title>
+<source><italic>Antimicrob. Agents Chemother.</italic></source>
+<volume>57</volume>
+<fpage>1648</fpage>–<lpage>1653</lpage>. <pub-id pub-id-type="doi">10.1128/AAC.02202-12</pub-id><pub-id pub-id-type="pmid">23335744</pub-id></mixed-citation>
+      </ref>
+      <ref id="B61">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schreer</surname><given-names>A.</given-names></name><name><surname>Tinson</surname><given-names>C.</given-names></name><name><surname>Sherry</surname><given-names>J. P.</given-names></name><name><surname>Schirmer</surname><given-names>K.</given-names></name></person-group> (<year>2005</year>). <article-title>Application of Alamar blue/5-carboxyfluorescein diacetate acetoxymethyl ester as a noninvasive cell viability assay in primary hepatocytes from rainbow trout.</article-title>
+<source><italic>Anal. Biochem.</italic></source>
+<volume>344</volume>
+<fpage>76</fpage>–<lpage>85</lpage>. <pub-id pub-id-type="doi">10.1016/j.ab.2005.06.009</pub-id><pub-id pub-id-type="pmid">16039980</pub-id></mixed-citation>
+      </ref>
+      <ref id="B62">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Segard</surname><given-names>B. D.</given-names></name><name><surname>Delort</surname><given-names>F.</given-names></name><name><surname>Bailleux</surname><given-names>V.</given-names></name><name><surname>Simon</surname><given-names>S.</given-names></name><name><surname>Leccia</surname><given-names>E.</given-names></name><name><surname>Gausseres</surname><given-names>B.</given-names></name><etal/></person-group> (<year>2013</year>). <article-title>N-acetyl-L-cysteine prevents stress-induced desmin aggregation in cellular models of desminopathy.</article-title>
+<source><italic>PLoS ONE</italic></source>
+<volume>8</volume>:<issue>e76361</issue>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0076361</pub-id></mixed-citation>
+      </ref>
+      <ref id="B63">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Setsukinai</surname><given-names>K.</given-names></name><name><surname>Urano</surname><given-names>Y.</given-names></name><name><surname>Kakinuma</surname><given-names>K.</given-names></name><name><surname>Majima</surname><given-names>H. J.</given-names></name><name><surname>Nagano</surname><given-names>T.</given-names></name></person-group> (<year>2003</year>). <article-title>Development of novel fluorescence probes that can reliably detect reactive oxygen species and distinguish specific species.</article-title>
+<source><italic>J. Biol. Chem.</italic></source>
+<volume>278</volume>
+<fpage>3170</fpage>–<lpage>3175</lpage>. <pub-id pub-id-type="doi">10.1074/jbc.M209264200</pub-id><pub-id pub-id-type="pmid">12419811</pub-id></mixed-citation>
+      </ref>
+      <ref id="B64">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shin</surname><given-names>N.</given-names></name><name><surname>Pyo</surname><given-names>C. W.</given-names></name><name><surname>Jung</surname><given-names>K. I.</given-names></name><name><surname>Choi</surname><given-names>S. Y.</given-names></name></person-group> (<year>2015</year>). <article-title>Influenza A virus PB1-F2 is involved in regulation of cellular redox state in alveolar epithelial cells.</article-title>
+<source><italic>Biochem. Biophys. Res. Commun.</italic></source>
+<volume>459</volume>
+<fpage>699</fpage>–<lpage>705</lpage>. <pub-id pub-id-type="doi">10.1016/j.bbrc.2015.03.010</pub-id><pub-id pub-id-type="pmid">25769947</pub-id></mixed-citation>
+      </ref>
+      <ref id="B65">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Turrens</surname><given-names>J. F.</given-names></name></person-group> (<year>2003</year>). <article-title>Mitochondrial formation of reactive oxygen species.</article-title>
+<source><italic>J. Physiol.</italic></source>
+<volume>552(Pt 2)</volume>
+<fpage>335</fpage>–<lpage>344</lpage>. <pub-id pub-id-type="doi">10.1113/jphysiol.2003.049478</pub-id><pub-id pub-id-type="pmid">14561818</pub-id></mixed-citation>
+      </ref>
+      <ref id="B66">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Walberg</surname><given-names>M.</given-names></name><name><surname>Gaustad</surname><given-names>P.</given-names></name><name><surname>Steen</surname><given-names>H. B.</given-names></name></person-group> (<year>1997a</year>). <article-title>Rapid assessment of ceftazidime, ciprofloxacin, and gentamicin susceptibility in exponentially-growing E. <italic>coli</italic> cells by means of flow cytometry.</article-title>
+<source><italic>Cytometry</italic></source>
+<volume>27</volume>
+<fpage>169</fpage>–<lpage>178</lpage>.<pub-id pub-id-type="pmid">9012384</pub-id></mixed-citation>
+      </ref>
+      <ref id="B67">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Walberg</surname><given-names>M.</given-names></name><name><surname>Gaustad</surname><given-names>P.</given-names></name><name><surname>Steen</surname><given-names>H. B.</given-names></name></person-group> (<year>1997b</year>). <article-title>Rapid discrimination of bacterial species with different ampicillin susceptibility levels by means of flow cytometry.</article-title>
+<source><italic>Cytometry</italic></source>
+<volume>29</volume>
+<fpage>267</fpage>–<lpage>272</lpage>.<pub-id pub-id-type="pmid">9389444</pub-id></mixed-citation>
+      </ref>
+      <ref id="B68">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Walberg</surname><given-names>M.</given-names></name><name><surname>Gaustad</surname><given-names>P.</given-names></name><name><surname>Steen</surname><given-names>H. B.</given-names></name></person-group> (<year>1999</year>). <article-title>Uptake kinetics of nucleic acid targeting dyes in <italic>S. aureus, E. faecalis and B. cereus</italic>: a flow cytometric study.</article-title>
+<source><italic>J. Microbiol. Methods</italic></source>
+<volume>35</volume>
+<fpage>167</fpage>–<lpage>176</lpage>. <pub-id pub-id-type="doi">10.1016/S0167-7012(98)00118-3</pub-id><pub-id pub-id-type="pmid">10192050</pub-id></mixed-citation>
+      </ref>
+      <ref id="B69">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>X.</given-names></name><name><surname>Zhao</surname><given-names>X.</given-names></name><name><surname>Malik</surname><given-names>M.</given-names></name><name><surname>Drlica</surname><given-names>K.</given-names></name></person-group> (<year>2010</year>). <article-title>Contribution of reactive oxygen species to pathways of quinolone-mediated bacterial cell death.</article-title>
+<source><italic>J. Antimicrob. Chemother.</italic></source>
+<volume>65</volume>
+<fpage>520</fpage>–<lpage>524</lpage>. <pub-id pub-id-type="doi">10.1093/jac/dkp486</pub-id><pub-id pub-id-type="pmid">20067982</pub-id></mixed-citation>
+      </ref>
+      <ref id="B70">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Xie</surname><given-names>Z.</given-names></name><name><surname>Siddiqi</surname><given-names>N.</given-names></name><name><surname>Rubin</surname><given-names>E. J.</given-names></name></person-group> (<year>2005</year>). <article-title>Differential antibiotic susceptibilities of starved <italic>Mycobacterium tuberculosis</italic> isolates.</article-title>
+<source><italic>Antimicrob. Agents Chemother.</italic></source>
+<volume>49</volume>
+<fpage>4778</fpage>–<lpage>4780</lpage>. <pub-id pub-id-type="doi">10.1128/AAC.49.11.4778-4780.2005</pub-id><pub-id pub-id-type="pmid">16251329</pub-id></mixed-citation>
+      </ref>
+      <ref id="B71">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yamashoji</surname><given-names>S.</given-names></name><name><surname>Manome</surname><given-names>I.</given-names></name><name><surname>Ikedo</surname><given-names>M.</given-names></name></person-group> (<year>2001</year>). <article-title>Menadione-catalyzed O2- production by <italic>Escherichia coli</italic> cells: application of rapid chemiluminescent assay to antimicrobial susceptibility testing.</article-title>
+<source><italic>Microbiol. Immunol.</italic></source>
+<volume>45</volume>
+<fpage>333</fpage>–<lpage>340</lpage>. <pub-id pub-id-type="doi">10.1111/j.1348-0421.2001.tb02628.x</pub-id><pub-id pub-id-type="pmid">11471820</pub-id></mixed-citation>
+      </ref>
+      <ref id="B72">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhao</surname><given-names>X.</given-names></name><name><surname>Drlica</surname><given-names>K.</given-names></name></person-group> (<year>2014</year>). <article-title>Reactive oxygen species and the bacterial response to lethal stress.</article-title>
+<source><italic>Curr. Opin. Microbiol.</italic></source>
+<volume>21</volume>
+<fpage>1</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1016/j.mib.2014.06.008</pub-id><pub-id pub-id-type="pmid">25078317</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record>

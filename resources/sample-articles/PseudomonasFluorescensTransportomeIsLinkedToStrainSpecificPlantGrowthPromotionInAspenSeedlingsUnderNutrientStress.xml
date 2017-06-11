@@ -1,0 +1,1494 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5359307</identifier><datestamp>2017-04-04</datestamp><setSpec>frontplantsci</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Plant Sci</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Plant Sci</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Plant Sci.</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Plant Science</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1664-462X</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5359307</article-id>
+      <article-id pub-id-type="pmcid">PMC5359307</article-id>
+      <article-id pub-id-type="pmc-uid">5359307</article-id>
+      <article-id pub-id-type="doi">10.3389/fpls.2017.00348</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Plant Science</subject>
+          <subj-group>
+            <subject>Original Research</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title><italic>Pseudomonas fluorescens</italic> Transportome Is Linked to Strain-Specific Plant Growth Promotion in Aspen Seedlings under Nutrient Stress</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shinde</surname>
+            <given-names>Shalaka</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/397280/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cumming</surname>
+            <given-names>Jonathan R.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/83075/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Collart</surname>
+            <given-names>Frank R.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/277375/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Noirot</surname>
+            <given-names>Philippe H.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/159882/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Larsen</surname>
+            <given-names>Peter E.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn001">
+            <sup>*</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/175569/overview"/>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <sup>1</sup>
+        <institution>Biosciences Division, Argonne National Laboratory</institution>
+        <country>Lemont, IL, USA</country>
+      </aff>
+      <aff id="aff2">
+        <sup>2</sup>
+        <institution>Department of Biology, West Virginia University</institution>
+        <country>Morgantown, WV, USA</country>
+      </aff>
+      <aff id="aff3">
+        <sup>3</sup>
+        <institution>Department of Bioengineering, University of Illinois at Chicago</institution>
+        <country>Chicago, IL, USA</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <p>Edited by: Thiago Motta Venancio, Universidade Estadual do Norte Fluminense, Brazil</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Reviewed by: Emanuel Maltempi Souza, Federal University of Paraná, Brazil; Renato Vicentini, UNICAMP, Brazil</p>
+        </fn>
+        <corresp id="fn001">*Correspondence: Peter E. Larsen <email xlink:type="simple">plarsen@anl.gov</email></corresp>
+        <fn fn-type="other" id="fn002">
+          <p>This article was submitted to Bioinformatics and Computational Biology, a section of the journal Frontiers in Plant Science</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>3</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2017</year>
+      </pub-date>
+      <volume>8</volume>
+      <elocation-id>348</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>02</day>
+          <month>12</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>28</day>
+          <month>2</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2017 Shinde, Cumming, Collart, Noirot and Larsen.</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <copyright-holder>Shinde, Cumming, Collart, Noirot and Larsen</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Diverse communities of bacteria colonize plant roots and the rhizosphere. Many of these rhizobacteria are symbionts and provide plant growth promotion (PGP) services, protecting the plant from biotic and abiotic stresses and increasing plant productivity by providing access to nutrients that would otherwise be unavailable to roots. In return, these symbiotic bacteria receive photosynthetically-derived carbon (C), in the form of sugars and organic acids, from plant root exudates. PGP activities have been characterized for a variety of forest tree species and are important in C cycling and sequestration in terrestrial ecosystems. The molecular mechanisms of these PGP activities, however, are less well-known. In a previous analysis of <italic>Pseudomonas</italic> genomes, we found that the bacterial transportome, the aggregate activity of a bacteria's transmembrane transporters, was most predictive for the ecological niche of Pseudomonads in the rhizosphere. Here, we used <italic>Populus tremuloides</italic> Michx. (trembling aspen) seedlings inoculated with one of three <italic>Pseudomonas fluorescens</italic> strains (Pf0-1, SBW25, and WH6) and one <italic>Pseudomonas protegens</italic> (Pf-5) as a laboratory model to further investigate the relationships between the predicted transportomic capacity of a bacterial strain and its observed PGP effects in laboratory cultures. Conditions of low nitrogen (N) or low phosphorus (P) availability and the corresponding replete media conditions were investigated. We measured phenotypic and biochemical parameters of <italic>P. tremuloides</italic> seedlings and correlated <italic>P. fluorescens</italic> strain-specific transportomic capacities with <italic>P. tremuloides</italic> seedling phenotype to predict the strain and nutrient environment-specific transporter functions that lead to experimentally observed, strain, and media-specific PGP activities and the capacity to protect plants against nutrient stress. These predicted transportomic functions fall in three groups: (i) transport of compounds that modulate aspen seedling root architecture, (ii) transport of compounds that help to mobilize nutrients for aspen roots, and (iii) transporters that enable bacterial acquisition of C sources from seedling root exudates. These predictions point to specific molecular mechanisms of PGP activities that can be directly tested through future, hypothesis-driven biological experiments.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>aspen</kwd>
+        <kwd>computational modeling</kwd>
+        <kwd>nitrogen</kwd>
+        <kwd>phosphorus</kwd>
+        <kwd>plant growth promotion</kwd>
+        <kwd>
+          <italic>Pseudomonas</italic>
+        </kwd>
+        <kwd>transportomics</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source id="cn001">U.S. Department of Energy<named-content content-type="fundref-id">10.13039/100000015</named-content></funding-source>
+          <award-id rid="cn001">DE-AC02-06CH11357</award-id>
+        </award-group>
+      </funding-group>
+      <counts>
+        <fig-count count="5"/>
+        <table-count count="2"/>
+        <equation-count count="0"/>
+        <ref-count count="64"/>
+        <page-count count="13"/>
+        <word-count count="9324"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="s1">
+      <title>Introduction</title>
+      <p>Forest ecosystems are major components of the biosphere and contribute extensive ecosystem services. Trees form a significant storage sink in the global carbon (C) cycle, facilitate water fluxes in the hydrologic cycle, and provide wood and fiber for human consumption. The provision of these benefits depends upon the supply and utilization of resources (carbon dioxide, water, nutrients, and light) to and by the tree. However, photosynthesis and primary productivity are often limited by nutrient availability (Houlton et al., <xref rid="B24" ref-type="bibr">2008</xref>; Reich et al., <xref rid="B47" ref-type="bibr">2009</xref>; St. Clair et al., <xref rid="B58" ref-type="bibr">2009</xref>), which, in turn, affects the ecological roles and economic output of forests.</p>
+      <p>The plant rhizosphere hosts a large and diverse community of microbes whose interactions with roots and soils influence ecosystem productivity (Lambers et al., <xref rid="B29" ref-type="bibr">2009</xref>; Morgan et al., <xref rid="B38" ref-type="bibr">2010</xref>; Cumming et al., <xref rid="B12" ref-type="bibr">2015</xref>).</p>
+      <p>Interaction between roots and plant growth promoting (PGP) bacteria specifically play critical roles in enhancing the acquisition of nutrients from soils for the plant host and enhance host niche breath and stress resistance (Rodriguez and Fraga, <xref rid="B50" ref-type="bibr">1999</xref>; Barea et al., <xref rid="B3" ref-type="bibr">2005</xref>; Compant et al., <xref rid="B9" ref-type="bibr">2010</xref>). While some aspects of the resource exchange underlying PGP interactions have been described (Morgan et al., <xref rid="B37" ref-type="bibr">2005</xref>; Lambers et al., <xref rid="B29" ref-type="bibr">2009</xref>; Frey-Klett et al., <xref rid="B16" ref-type="bibr">2011</xref>), an increased understanding of these interactions would enhance potential management applications, such as biofuel feedstock production, soil remediation, and C sequestration activities.</p>
+      <p><italic>Pseudomonas fluorescens</italic> is commonly found soil bacteria and abundant operational taxonomic units (OTUs) in <italic>Populus</italic> rhizosphere samples (Gottel et al., <xref rid="B20" ref-type="bibr">2011</xref>; Brown et al., <xref rid="B6" ref-type="bibr">2012</xref>). Many <italic>P. fluorescens</italic> strains are categorized as plant growth promoting rhizobacteria (PGPR; Cook et al., <xref rid="B10" ref-type="bibr">1995</xref>). These benefits may be accrued from changes in nutrient availability in the rhizosphere, alterations in host hormonal balance increasing stress resistance, and/or changes in the community of microbes interacting with plant roots (Frey-Klett et al., <xref rid="B16" ref-type="bibr">2011</xref>; Cumming et al., <xref rid="B12" ref-type="bibr">2015</xref>). Some proposed molecular mechanisms for PGP activity include the export of organic acids and siderophores that facilitate dissolution of P in soils (Kurek et al., <xref rid="B28" ref-type="bibr">2013</xref>; Giles et al., <xref rid="B19" ref-type="bibr">2014</xref>; Pastor et al., <xref rid="B42" ref-type="bibr">2014</xref>) and the secretion of phosphatases and phytases that mineralize organic P in the plant rhizosphere (Giles et al., <xref rid="B19" ref-type="bibr">2014</xref>; Pastor et al., <xref rid="B42" ref-type="bibr">2014</xref>). <italic>Pseudomonas</italic> strains have nutrient environment-dependent PGP effects on a variety of crop and tree species, including <italic>Solanum lycopersicon</italic> (Pastor et al., <xref rid="B42" ref-type="bibr">2014</xref>), <italic>Nicotiana tabacum</italic> (Giles et al., <xref rid="B19" ref-type="bibr">2014</xref>), <italic>Oryza sativa</italic> (Habibi et al., <xref rid="B21" ref-type="bibr">2014</xref>), and <italic>Malus domestica</italic> (Kurek et al., <xref rid="B28" ref-type="bibr">2013</xref>). These strain-specific effects on plants can be, in significant part, attributable to differences in <italic>Pseudomonas</italic> transportomes (Silby et al., <xref rid="B56" ref-type="bibr">2009</xref>; Larsen et al., <xref rid="B30" ref-type="bibr">2015</xref>). Transportome is defined here as the relative capacity to transport specific substances across the cell membrane as a function of the set of transmembrane transporters in the genome. An investigation of these differential transportomic capacities of PGP strains and of their correlation with measured phenotypic and biochemical parameters of <italic>Populus tremuloides</italic> seedlings would highlight potential molecular mechanisms underlying the rhizosphere community's specific contributions to plants' acclimation to stress, C sequestration capacity, and the maintenance of productivity under suboptimal conditions.</p>
+      <p>We have evaluated the effect of four different strains of <italic>Pseudomonas</italic> on <italic>P. tremuloides</italic> (trembling aspen, “aspen”) seedlings in replete media and under conditions of low nitrogen (N) and low phosphorus (P). The evolutionarily distinct <italic>Pseudomonas</italic> strains we chose for this study were Pf0-1, Pf-5, SBW25, and WH6 (Paulsen et al., <xref rid="B43" ref-type="bibr">2005</xref>; Silby et al., <xref rid="B56" ref-type="bibr">2009</xref>; Kimbrel et al., <xref rid="B26" ref-type="bibr">2010</xref>; Loper et al., <xref rid="B33" ref-type="bibr">2012</xref>). Sixteen phenotypic measures of aspen seedlings were collected and computational models of <italic>Pseudomonas</italic> metabolism related to each strain genome were generated. By identifying significant correlations between seedling phenotype colonized by a <italic>Pseudomonas</italic> strains with strain-specific transportomic capacities under different nutrient stress conditions, we were able to predict molecular mechanisms of strain and nutrient stress-specific PGP.</p>
+    </sec>
+    <sec sec-type="methods" id="s2">
+      <title>Methods</title>
+      <sec>
+        <title>Aspen seedling and <italic>Pseudomonas</italic> resources</title>
+        <p><italic>P. tremuloides</italic> Michx. and strains of <italic>P. fluorescens</italic> were cultured together in a laboratory model system. Aspen seeds were obtained from the National Tree Seed Center, Natural Resources Canada, Fredericton NB, Canada. The four <italic>Pseudomonas</italic> strains used in this study were <italic>P. protegens</italic> Pf-5 [ATCC (American Type Cell Culture) Catalog# BAA-477], <italic>P. fluorescens</italic> Pf0-1 (Garbeva et al., <xref rid="B17" ref-type="bibr">2011</xref>), <italic>P. fluorescens</italic> SBW25 (Preston et al., <xref rid="B45" ref-type="bibr">2001</xref>), and <italic>P. fluorescens</italic> WH6 (Banowetz et al., <xref rid="B2" ref-type="bibr">2008</xref>).</p>
+      </sec>
+      <sec>
+        <title>Aspen seedling-<italic>Pseudomonas</italic> vertical plate cultures</title>
+        <p>Aspen seedling-<italic>Pseudomonas</italic> communities and non-inoculated aspen controls were grown in a vertical plate system under three nutrient regimes: replete, low nitrogen (N), and low phosphorus (P). Experiments were performed using 12 replicate vertical plates per treatment and 8 aspen seedlings per plate for a total of 180 plates and 1,440 aspen seedlings. All data are reported as averages of seedling values from each replicate vertical plate.</p>
+        <p>Aspen seeds were surface sterilized by washing once with 2% Tween and 2.5% sodium hypochlorite followed by several washes of sterile water. Sterilized seeds were soaked in sterile water in the dark overnight and germinated in jars (Sigma product # V8630) containing 1% Phytablend (Caisson Laboratories, Inc.) for 10 day. Jars were maintained in a growth chamber with 14/10 h light/dark cycle with photosynthetically active radiation (PAR) of 200 μmol m<sup>−2</sup> s<sup>−1</sup>, temperature regime of 25/20°C, and constant 75% relative humidity before being transferred to the vertical plates (Petri Dishes 150 × 15 mm).</p>
+        <p>Following the 10 d germination period, seedlings were transferred to a vertical plate system with one of three nutrient treatments. Replete media contained 4 mM NH<sub>4</sub>NO<sub>3</sub>,1 mM CaSO<sub>4</sub>, 1.5 mM K<sub>2</sub>SO<sub>4</sub>, 0.5 mM MgSO<sub>4</sub>, and 1.5 mM KH<sub>2</sub>PO<sub>4</sub>. Low-N media substituted 150 μM NH<sub>4</sub>NO<sub>3</sub> (3.75% of replete media concentration) and low-P media substituted 25 μM KH<sub>2</sub>PO<sub>4</sub> (1.67% of replete media concentration). Solution pH was adjusted to 5.6 with 0.1 N NaOH in each case. Each vertical plate (150 × 15 mm) contained 100 ml of solidified media with half removed to create a headspace for seedling shoots. Washed autoclaved cellophane membrane (Promega, Gel Drying Film, REF V7131) was placed on the half medium. Seedlings were transferred carefully from the germination jars to the cellophane membrane. Each plate contained 8 seedlings, placed at 15 mm intervals. The plates were incubated at a 75° angle in the growth chamber under conditions noted above.</p>
+        <p>After 1-week incubation, seedlings were inoculated with the <italic>Pseudomonas</italic> strains. For inoculation into vertical plates, <italic>Pseudomonas</italic> cultures were grown overnight in LB liquid media at 27°C. Bacterial pellets were collected and washed with sterile 10 mM MgSO<sub>4</sub>. Pellets were re-suspended in 0.25-strength Johnson's nutrient solution (1.2 mM NO3, 100 μM P, 0.4 mM NH4, 0.5 mM K, 0.2 mM Ca, 0.1 mM Mg, 0.1 mM SO4, 50.5 μM Cl, 20 μM Fe, 20 μM B, 2 μM Mn and Zn, and 0.5 μM Cu, Na, Co, and Mo. Solution pH was adjusted to 5.6 with 0.1 N HCl; Desai et al., <xref rid="B13" ref-type="bibr">2014</xref>) at an estimated bacterial cell concentration of ~1.0 × 10<sup>9</sup> (OD 600 nm = 1.0). Each seedling root was inoculated with 10 μl of bacterial suspension (~10<sup>7</sup> cells) or with 10 μl of sterile Johnson's solution. Seedlings were harvested 35 days following bacterial inoculation for phenotype measurements. As in previously published experimental results (Anith et al., <xref rid="B1" ref-type="bibr">2004</xref>; Rojas-Tapias et al., <xref rid="B51" ref-type="bibr">2012</xref>; Majeed et al., <xref rid="B34" ref-type="bibr">2015</xref>), the biomass of bacteria was not collected at the end of incubation and the presence of bacteria was considered only as an experimental treatment in subsequent analyses.</p>
+      </sec>
+      <sec>
+        <title>Aspen seedling phenotype assays</title>
+        <p>A total of 16 phenotypic measurements were collected from aspen seedlings at the end of the experiment. These included shoot dry weight (mg), shoot length (mm), number of leaves, leaf chlorophyll (Chl) concentration (μg mg<sup>−1</sup> FW), chl a/b ratio, shoot anthocyanin concentration (μg mg<sup>−1</sup> FW), shoot <inline-formula><mml:math id="M1"><mml:mrow><mml:msubsup><mml:mrow><mml:mtext>NO</mml:mtext></mml:mrow><mml:mn>3</mml:mn><mml:mo>−</mml:mo></mml:msubsup></mml:mrow></mml:math></inline-formula> concentration (mg g<sup>−1</sup> DW), shoot P concentration (mg g<sup>−1</sup> DW), root dry weight (mg), root branching (integer value), root length (cm), number of rootlets, root anthocyanin concentration (μg mg<sup>−1</sup> FW), root total N (%), root <inline-formula><mml:math id="M2"><mml:mrow><mml:msubsup><mml:mrow><mml:mtext>NO</mml:mtext></mml:mrow><mml:mn>3</mml:mn><mml:mo>−</mml:mo></mml:msubsup></mml:mrow></mml:math></inline-formula> concentration (μg g<sup>−1</sup> DW), and root P concentration (mg g<sup>−1</sup> DW). Experiments were harvested after 35 days of co-culture. All plates were visually inspected for bacterial or fungal colonies and contaminated plates were discarded. Plant phenotypes corresponding to physical parameters such as shoot length, number of leaves, root length, root branching, and number of rootlets were measured on all seedlings in at least 10 replicate plates per treatment.</p>
+        <p>Phenotypes that entailed destruction of the samples, such as dry weight (shoot and root), leaf chl, chl a/b ratio, shoot anthocyanin, shoot <inline-formula><mml:math id="M3"><mml:mrow><mml:msubsup><mml:mrow><mml:mtext>NO</mml:mtext></mml:mrow><mml:mn>3</mml:mn><mml:mo>−</mml:mo></mml:msubsup></mml:mrow></mml:math></inline-formula>, shoot P, root anthocyanin, root total percent N, root <inline-formula><mml:math id="M4"><mml:mrow><mml:msubsup><mml:mrow><mml:mtext>NO</mml:mtext></mml:mrow><mml:mn>3</mml:mn><mml:mo>−</mml:mo></mml:msubsup></mml:mrow></mml:math></inline-formula>, and root P were measured on 3 replicate plates per treatment. For dry weight measurements, 4 seedlings were collected from each replicate plate, dried at 65°C for 72 h, and shoot and root tissues separately weighed. Dry tissue was also used for measuring P, and total N concentrations (below). Other biochemical assays (leaf chl, chl a/b ratio, shoot anthocyanin, shoot <inline-formula><mml:math id="M5"><mml:mrow><mml:msubsup><mml:mrow><mml:mtext>NO</mml:mtext></mml:mrow><mml:mn>3</mml:mn><mml:mo>−</mml:mo></mml:msubsup></mml:mrow></mml:math></inline-formula>, shoot P, root anthocyanin, root total percent N, root <inline-formula><mml:math id="M6"><mml:mrow><mml:msubsup><mml:mrow><mml:mtext>NO</mml:mtext></mml:mrow><mml:mn>3</mml:mn><mml:mo>−</mml:mo></mml:msubsup></mml:mrow></mml:math></inline-formula>) were performed using two seedlings per plate per treatment.</p>
+        <p>Chlorophyll was extracted from whole shoots using cold methanol and quantified according to Porra et al. (<xref rid="B44" ref-type="bibr">1989</xref>). Anthocyanins were extracted from root and shoot tissue separately with acidified methanol (1% HCl) and quantified according to Neff and Chory (<xref rid="B39" ref-type="bibr">1998</xref>). All assays were adjusted relative to the original protocols to reflect lower biomass amounts and analyzed using a microplate spectrophotometer (Molecular Devices, Sunnyvale, CA, USA).</p>
+        <p>For analysis of tissue <inline-formula><mml:math id="M7"><mml:mrow><mml:msubsup><mml:mrow><mml:mtext>NO</mml:mtext></mml:mrow><mml:mn>3</mml:mn><mml:mo>−</mml:mo></mml:msubsup></mml:mrow></mml:math></inline-formula> concentration, dry root or shoot tissue (~10 mg dry weight) was ground and suspended in 300 μl d·H<sub>2</sub>O and kept at 50°C for 1 h. After cooling to room temperature, samples were centrifuged, and 100 μl of supernatant was collected. The nitrate in samples was converted to nitrosalicylic acid by reaction with salicylic acid in concentrated sulfuric acid, and its concentration was then determined spectrophotometrically (Lastra, <xref rid="B31" ref-type="bibr">2003</xref>). Total tissue N was determined on dried root (~5 mg dry weight) by combustion with a Carlo Erba NA 1,500 elemental analyzer (Carlo Erba Strumentazione, Milan, Italy) using acetanilide as a standard. To determine the P concentration of plant root and shoot tissue, dried tissue was ashed at 475°C for 2.5 h, dissolved in 200 μl of 50% concentrated HCl (Sigma ACS reagent), and the crucible rinsed with 800 μl of d·H<sub>2</sub>O and combined with the digest. The resulting 1-ml digests were vortexed until clear, and 100 μl of sample diluted with 100 μl d·H<sub>2</sub>O was used to detect inorganic P using the malachite green method (Martin et al., <xref rid="B35" ref-type="bibr">1999</xref>).</p>
+      </sec>
+      <sec>
+        <title>Analysis of aspen seedling phenotypes</title>
+        <p>Seedling phenotypes were analyzed using two-factor ANOVA, with the factors being “community” (no bacteria, Pf0-1, Pf-5, SBW25, WH6; 4° of freedom) and “media” (replete, low N, and low P media; 2° of freedom) using “MeV” (v4.5.1, <ext-link ext-link-type="uri" xlink:href="http://www.tm4.org/mev.html">http://www.tm4.org/mev.html</ext-link>). Thresholds for significance were <italic>p</italic> &lt; 0.05, based on 10,000 permutations.</p>
+        <p>A matrix of Pearson's correlation coefficient (PCC) scores between all pair-wise aspen phenotype measurements across all experimental conditions was generated to identify strong positive and negative correlations between seedling phenotypic measures (95th and 5th percentile of PCC scores, respectively). Strong correlations were visualized as a network (Cytoscape v2.8.0, <ext-link ext-link-type="uri" xlink:href="http://cytoscape.org">http://cytoscape.org</ext-link>).</p>
+        <p>Principal component analysis (PCA) was also performed on seedling phenotypic data. Seedling phenotype were clustered by hierarchical clustering and grouped by PCA using Euclidian distance in R (R v3.0.3). Important principal components (PCs) were considered to be those whose variance exceeded what would be observed if variance were distributed equally across all PCs. Relevant loading values in important PCs from PCA analysis were considered to be those whose absolute value exceeded (1/number of PCs)<sup>0.5</sup>.</p>
+      </sec>
+      <sec>
+        <title>Transportomic modeling</title>
+        <p>Transportomic capacity of <italic>Pseudomonas</italic> strains was calculated as Predicted Relative Transmembrane Transport (PRTT) scores, as described in Larsen et al. (<xref rid="B30" ref-type="bibr">2015</xref>). Briefly all four <italic>Pseudomonas</italic> strains were re-annotated for transporter and sensor functions to insure uniformity of annotations across strains using a custom database of 164,321 protein sequences, annotated with any of 891 KEGG Orthology (KO) annotations (Table <xref ref-type="supplementary-material" rid="SM2">S1</xref>). Transporter/sensor annotations are associated with one or more of 272 possible ligands. Function was ascribed to a bacterial protein if BLAST-N alignment with &gt;20% sequence similarity and <italic>e</italic> &lt; 1e<sup>−100</sup>. PRTT is a metric that quantifies the relative capacity of a bacterium to transport a ligand across its membrane as a function of the number of genes annotated with transporter functions in its genome. A positive PRTT score indicates an increased relative capacity for transmembrane transport of a specific ligand in the transportome in one bacterium relative to the average transportomic capacity of a set of bacteria. A negative PRTT score indicates a decreased relative capacity for transmembrane transport of a ligand. A PRTT score alone does not necessarily indicate the direction of transport, i.e., import or export, and requires consideration of specific protein annotations. Note that ligand identifications are drawn from the ontology of KEGG compounds and may contain redundant or overlapping terms (e.g., “iron” and “Fe2+”) necessitating additional investigation into the specific transporter proteins or annotations. Table <xref ref-type="supplementary-material" rid="SM3">S2</xref> contains the necessary information for readers to make the required associations between ligand, annotation, and predicted <italic>Pseudomonas</italic> protein.</p>
+      </sec>
+      <sec>
+        <title>Correlations between aspen seedling phenotypes and transportomes</title>
+        <p>Statistically significant correlations between significantly different phenotypes and transportomic models were identified. As the transportomic models are dependent only upon <italic>Pseudomonas</italic> genomic annotation, the matrix of PRTT scores associated with a <italic>Pseudomonas</italic> strain is the same regardless of media condition. Three sets of correlations were considered: Phenotypes significant by community for all media types; phenotypes significant for community-media interaction for only low N stress condition; and phenotypes significant for community-media interaction for only low P stress condition. Statistical significance of the correlations was assigned using a bootstrap approach, randomly re-ordering phenotypes 5,000 times, and determining the frequency at which absolute value of bootstrapped correlations was greater than absolute value of initial correlations. This frequency was expressed as a <italic>p</italic>-value and a significance threshold of <italic>p</italic> ≤ 0.05 was used.</p>
+        <p>As it is expected that this correlation network will contain false positive interactions, the network was reduced by filtering for edges in the network between nodes that are significantly enriched for specific strain, media condition, or direction of correlations (calculated as a cumulative hypergeometric distribution, <italic>p</italic> &lt; 0.05). The filtered network is comprised of 14 aspen seedling phenotypes and 103 <italic>Pseudomonas</italic> transported ligands, connected by 122 statistically significant correlation edges. All subsequent analysis was performed using this filtered network.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="s3">
+      <title>Results</title>
+      <sec>
+        <title>Aspen seedling phenotypic analysis</title>
+        <p>Aspen seedling phenotypes were assessed under five “community” conditions (no bacteria, Pf0-1, Pf-5, SBW25, WH6) and three “media” conditions (replete, low N, and low P). A summary of collected quantitative phenotypes can be found in Table <xref ref-type="table" rid="T1">1</xref> and the complete set of collected data can be found in Table <xref ref-type="supplementary-material" rid="SM4">S3</xref>. Representative seedling vertical plate cultures are pictured in Figure <xref ref-type="fig" rid="F1">1</xref>. By two-way ANOVA, media composition differentiated 14 (88%) phenotypic characters, 12 (75%) separated by <italic>Pseudomonas</italic> community, and 8 (50%) by the interaction of media and community (Table <xref ref-type="table" rid="T1">1</xref>). In aspen seedlings without <italic>Pseudomonas</italic>, N and P limitation led to 52 and 53% reductions in total seedling biomass, respectively (Table <xref ref-type="table" rid="T1">1</xref>). Thus, it is clear that nutrient resources limited aspen growth in the delivered low N and P treatments. In addition, the inoculation with four <italic>P. fluorescens</italic> strains resulted in 42% (shoot) and 33% (root) average biomass increases relative to non-bacterial controls in replete nutrient conditions (Table <xref ref-type="table" rid="T1">1</xref>), indicating that, in aggregate, the <italic>Pseudomonas</italic> strains confer PGP benefits.</p>
+        <table-wrap id="T1" position="float">
+          <label>Table 1</label>
+          <caption>
+            <p><bold>Summary of aspen seedling phenotype measurements</bold>.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Media</bold>
+                </th>
+                <th valign="top" align="center" colspan="5" style="border-bottom: thin solid #000000;" rowspan="1">
+                  <bold>Replete</bold>
+                </th>
+                <th valign="top" align="center" colspan="5" style="border-bottom: thin solid #000000;" rowspan="1">
+                  <bold>Low N</bold>
+                </th>
+                <th valign="top" align="center" colspan="5" style="border-bottom: thin solid #000000;" rowspan="1">
+                  <bold>Low P</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>Media—<italic>p</italic>-value</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>Community—<italic>p</italic>-value</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>Interaction—<italic>p</italic>-value</bold>
+                </th>
+              </tr>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Community</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>None</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>PF-5</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>PF0-1</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>SBW25</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>WH6</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>None</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>PF-5</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>PF0-1</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>SBW25</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>WH6</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>None</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>PF-5</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>PF0-1</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>SBW25</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>WH6</bold>
+                </th>
+                <th rowspan="1" colspan="1"/>
+                <th rowspan="1" colspan="1"/>
+                <th rowspan="1" colspan="1"/>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Number of leaves</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6.37<break/>(0.45)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6.70<break/>(0.62)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6.25<break/>(0.33)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">7.75<break/>(0.43)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6.83<break/>(0.36)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5.00<break/>(0.37)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6.25<break/>(0.00)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6.00<break/>(0.37)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5.58<break/>(0.38)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">7.00<break/>(0.33)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5.62<break/>(0.12)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6.79<break/>(0.26)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6.12<break/>(0.12)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6.83<break/>(0.31)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6.33<break/>(0.19)</td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.000</bold>
+                </td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.000</bold>
+                </td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.000</bold>
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">ChlA/ChlB</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.10<break/>(0.11)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.12<break/>(0.03)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.14<break/>(0.02)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.11<break/>(0.06)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.15<break/>(0.00)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.56<break/>(0.66)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.08<break/>(0.11)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.05<break/>(0.20)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.09<break/>(0.08)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.16<break/>(0.04)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.77<break/>(0.29)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.10<break/>(0.05)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.76<break/>(0.42)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.01<break/>(0.03)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.81<break/>(0.00)</td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.000</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.698</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.112</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Chlorophyll</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.12<break/>(0.06)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.37<break/>(0.91)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.36<break/>(0.25)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.66<break/>(1.20)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.10<break/>(0.01)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.56<break/>(0.05)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.00<break/>(0.49)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.59<break/>(0.31)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.51<break/>(0.21)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.15<break/>(0.66)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.41<break/>(0.22)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.17<break/>(0.67)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.68<break/>(0.35)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.79<break/>(0.34)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.29<break/>(0.00)</td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.010</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.236</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.609</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Shoot NO<sub>3</sub> (μg/g)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">31.17<break/>(7.49)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">42.68<break/>(17.54)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">44.82<break/>(1.65)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">42.01<break/>(5.48)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">56.64<break/>(12.55)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">36.07<break/>(17.21)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">11.90<break/>(3.71)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">13.25<break/>(4.21)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">12.24<break/>(1.70)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">27.19<break/>(24.46)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">45.37<break/>(12.53)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">45.61<break/>(8.50)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">63.26<break/>(8.87)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">24.38<break/>(7.78)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">55.00<break/>(44.40)</td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.000</bold>
+                </td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.049</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.097</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Shoot anthocyanin</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.33<break/>(0.21)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.47<break/>(0.00)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.46<break/>(0.04)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.41<break/>(0.10)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.44<break/>(0.06)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.53<break/>(0.00)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.61<break/>(0.04)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.57<break/>(0.17)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.74<break/>(0.04)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.44<break/>(0.02)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.52<break/>(0.05)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.54<break/>(0.05)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.52<break/>(0.00)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.97<break/>(0.58)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.68<break/>(1.00)</td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.001</bold>
+                </td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.043</bold>
+                </td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.010</bold>
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Shoot P (μg/g)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.46<break/>(0.47)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.67<break/>(0.43)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.59<break/>(0.60)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.09<break/>(0.59)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.94<break/>(0.16)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.99<break/>(0.10)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.96<break/>(0.76)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.61<break/>(1.25)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.77<break/>(0.11)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.80<break/>(0.22)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.68<break/>(0.14)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.30<break/>(0.68)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.08<break/>(1.52)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.53<break/>(0.13)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.92<break/>(0.00)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.366</td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.001</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.592</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Shoot length (cm)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.20<break/>(0.06)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.43<break/>(0.08)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.23<break/>(0.20)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.87<break/>(0.11)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.45<break/>(0.05)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.58<break/>(0.10)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.20<break/>(0.01)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.91<break/>(0.10)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.90<break/>(0.06)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.18<break/>(0.14)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.01<break/>(0.05)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.15<break/>(0.18)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.02<break/>(0.13)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.31<break/>(0.13)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.27<break/>(0.22)</td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.000</bold>
+                </td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.000</bold>
+                </td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.000</bold>
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Shoot dry weight (g)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6.83<break/>(1.20)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">11.13<break/>(0.66)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">10.06<break/>(1.34)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">13.16<break/>(0.70)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">14.26<break/>(4.02)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.63<break/>(0.23)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">9.00<break/>(1.90)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">8.76<break/>(1.33)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6.21<break/>(3.75)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">10.66<break/>(1.13)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.86<break/>(1.49)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">8.90<break/>(1.25)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">10.00<break/>(1.15)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">12.33<break/>(1.55)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">13.06<break/>(0.76)</td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.000</bold>
+                </td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.000</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.118</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Root NO<sub>3</sub> (μg/g)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">36.64<break/>(21.11)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">48.58<break/>(1.18)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">49.70<break/>(14.48)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">33.05<break/>(6.36)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">37.58<break/>(7.02)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">29.78<break/>(19.76)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">16.19<break/>(9.05)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">19.69<break/>(7.18)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">11.29<break/>(1.51)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">22.30<break/>(12.77)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">35.07<break/>(24.77)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">53.84<break/>(31.07)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">45.50<break/>(2.24)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">28.64<break/>(3.68)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">88.42<break/>(NA)</td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.000</bold>
+                </td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.016</bold>
+                </td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.014</bold>
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Root %N</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.54<break/>(1.01)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.06<break/>(0.68)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.76<break/>(0.45)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.86<break/>(0.32)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.62<break/>(0.04)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.50<break/>(0.00)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.97<break/>(0.84)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.14<break/>(0.15)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.92<break/>(0.27)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.40<break/>(0.00)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.00<break/>(0.04)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.71<break/>(0.36)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.48<break/>(0.17)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.96<break/>(0.12)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.78<break/>(0.17)</td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.000</bold>
+                </td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.001</bold>
+                </td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.000</bold>
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Root anthocyanin</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.07<break/>(0.02)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.21<break/>(0.23)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.13<break/>(0.07)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.21<break/>(0.01)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.18<break/>(0.14)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.51<break/>(0.01)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.27<break/>(0.09)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.56<break/>(0.28)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.63<break/>(0.02)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.57<break/>(0.60)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.38<break/>(0.11)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.20<break/>(0.08)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.22<break/>(0.06)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.55<break/>(0.56)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.25<break/>(1.00)</td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.008</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.079</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.192</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Root P(mg/g)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.21<break/>(0.18)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.32<break/>(0.88)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.04<break/>(1.88)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.90<break/>(0.62)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.75<break/>(0.40)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.93<break/>(0.17)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.88<break/>(0.27)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.53<break/>(0.60)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.78<break/>(0.20)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.82<break/>(2.75)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.59<break/>(0.26)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.90<break/>(0.29)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.23<break/>(0.70)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.40<break/>(0.09)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.32<break/>(0.00)</td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.000</bold>
+                </td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.009</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.290</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Root branching</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.65<break/>(0.28)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.95<break/>(1.25)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.65<break/>(0.20)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.83<break/>(0.19)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.83<break/>(0.93)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.13<break/>(0.37)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.75<break/>(1.47)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.83<break/>(0.68)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.95<break/>(2.06)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.41<break/>(0.85)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.30<break/>(0.33)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.29<break/>(1.06)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.12<break/>(0.12)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5.58<break/>(1.60)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.37<break/>(0.25)</td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.023</bold>
+                </td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.000</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.196</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Rootlets</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.45<break/>(0.68)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.87<break/>(0.33)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.45<break/>(0.10)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.50<break/>(0.69)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.75<break/>(0.33)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.18<break/>(0.42)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.08<break/>(0.68)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.45<break/>(0.43)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.83<break/>(0.83)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5.00<break/>(0.76)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.62<break/>(0.45)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.33<break/>(0.14)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.58<break/>(0.14)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.83<break/>(0.38)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.83<break/>(0.31)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.212</td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.000</bold>
+                </td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.025</bold>
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Root length (cm)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.80<break/>(0.86)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.74<break/>(1.07)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.99<break/>(1.31)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.00<break/>(0.23)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.11<break/>(0.00)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6.05<break/>(1.79)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.63<break/>(0.68)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5.48<break/>(0.64)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5.03<break/>(0.52)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.77<break/>(0.59)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.62<break/>(0.30)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.77<break/>(0.35)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.83<break/>(0.63)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.82<break/>(0.43)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.52<break/>(0.42)</td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.000</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.115</td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.026</bold>
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Root dry weight (g)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.10<break/>(0.62)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.33<break/>(0.51)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.70<break/>(0.17)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.60<break/>(0.78)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.36<break/>(0.80)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.63<break/>(0.25)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.60<break/>(1.24)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.86<break/>(0.63)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.56<break/>(0.35)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.96<break/>(0.90)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.80<break/>(0.09)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.66<break/>(0.35)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.06<break/>(0.83)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.73<break/>(0.37)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.90<break/>(0.26)</td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.000</bold>
+                </td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.000</bold>
+                </td>
+                <td valign="top" align="center" style="background-color:#c6c8ca" rowspan="1" colspan="1">
+                  <bold>0.000</bold>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p><italic>All values are presented as an average (standard deviation) of biological replicates. “Replete,” “Low N,” and “Low P” refer to media condition. “None,” “Pf-5,” “Pf0-1,” “SBW25,” and “WH6” refer to community composition. Statistical analysis is reported from two-way ANOVA. P &lt; 0.05 are highlighted (bold)</italic>.</p>
+          </table-wrap-foot>
+        </table-wrap>
+        <fig id="F1" position="float">
+          <label>Figure 1</label>
+          <caption>
+            <p><bold>Impact of PGPB on aspen seedlings under conditions of low nitrogen (N) and phosphorus (P)</bold>. Aspen seedlings inoculated with bacterial strains indicated on the left and grown under replete (4 mM N, 1.5 mM P) or nutrient limiting conditions (low N 150 μM, low P 25 μM) indicated on the top of the image.</p>
+          </caption>
+          <graphic xlink:href="fpls-08-00348-g0001"/>
+        </fig>
+        <sec>
+          <title>Low N and P conditions alter pigments in aspen seedlings</title>
+          <p>Three phenotypic measures were solely influenced by media treatment (total chlorophyll, chlorophyll a/b, root anthocyanin; Table <xref ref-type="table" rid="T1">1</xref>). Considering average values across the 5 community treatments, total chlorophyll in seedlings grown with low N was 57% of that in seedlings grown with replete media but the chlorophyll a/b ratio did not change. In contrast, total chlorophyll in low P derived seedlings was intermediate between replete and low N plants, yet the chlorophyll a/b ratio was ~75% of that in the other media treatments (Table <xref ref-type="table" rid="T1">1</xref>). Root anthocyanin concentration was strongly stimulated by both N limitation (3.1-fold) and P limitation (3.2-fold) across all treatments. This effect was particularly strong in non-bacterial aspen seedlings where anthocyanin concentration increased 7.2-fold in low N and 5.4-fold in low P relative to replete condition (Table <xref ref-type="table" rid="T1">1</xref>). However, in replete media the presence of <italic>Pseudomonas</italic> strains increased 2- to 3-fold root anthocyanin accumulation (Table <xref ref-type="table" rid="T1">1</xref>). These observations suggest that anthocyanin accumulation in aspen seedling roots can be induced by multiple environmental cues including nutrient limitation and the presence of bacteria.</p>
+        </sec>
+        <sec>
+          <title><italic>Pseudomonas</italic> affects P acquisition in aspen</title>
+          <p>Shoot P was the only phenotype solely influenced <italic>Pseudomonas</italic> community (Table <xref ref-type="table" rid="T1">1</xref>). Across media conditions, seedlings co-cultured with Pf-5 and Pf0-1 exhibited 1.6- and 2-fold greater shoot P content relative to seedlings without bacteria, respectively; SBW25 and WH6 did not differ from non-bacterial aspen (Table <xref ref-type="table" rid="T1">1</xref>). Root P accumulation decreased 3.7-fold in non-bacterial seedlings grown with low P relative to replete media. Co-culture of seedlings with all <italic>Pseudomonas</italic> strains elevated root P concentration relative to non-bacterial seedlings, with strongest effect for strains WH6 (2.1-fold) and Pf0-1 (2.2-fold). Taken in aggregate, total P accumulation (μg plant<sup>−1</sup>, calculated as Root DW × Root P + Shoot DW × Shoot P) was significantly greater in all <italic>Pseudomonas</italic>-colonized plants compared to non-bacterial plants and exhibited strain-specific differences in the order Pf0-1 (28.9) = Pf-5 (22.5) = WH6 (18.8) &gt; SBW25 (12.4) &gt; non-bacterial control (7.3).</p>
+        </sec>
+        <sec>
+          <title><italic>Pseudomonas</italic> co-culture and media have a combinatorial effect on aspen seedling phenotypes</title>
+          <p>Most aspen phenotypes responded to combinations of media and <italic>Pseudomonas</italic> community or their interaction (Table <xref ref-type="table" rid="T1">1</xref>), indicating that PGP bacteria mediate aspen response to abiotic resource availability. PCA of seedling phenotypic data identified five PCs that together accounted for 80% of the total variance (Figure <xref ref-type="supplementary-material" rid="SM1">S1</xref>). The first two PCs, which account for 43% of the variance (Table <xref ref-type="supplementary-material" rid="SM5">S4</xref>), can be linked to specific culture conditions. The first PC includes six phenotypic characters (leaf chlorophyll concentration, leaf count, shoot length, shoot dry weight, root %N, and root length; Figure <xref ref-type="fig" rid="F2">2</xref>), highlighting shoot-root tradeoffs as aspen seedlings increased root elongation as a N acquisition strategy. The second PC also includes root growth relationships and seedling N nutrition, specifically feedbacks between tissue <inline-formula><mml:math id="M8"><mml:mrow><mml:msubsup><mml:mrow><mml:mtext>NO</mml:mtext></mml:mrow><mml:mn>3</mml:mn><mml:mo>−</mml:mo></mml:msubsup></mml:mrow></mml:math></inline-formula> accumulation and root architecture (Figure <xref ref-type="fig" rid="F2">2</xref>). PC3 separates anthocyanin responses and root P, suggesting this PC encompasses aspen stress-response to P acquisition. Graphically, PCA clustering of data indicates a distinct grouping of data, with low N, low P, and presence of <italic>Pseudomonas</italic> each having distinctive effects on aspen seedling phenotypes (Figure <xref ref-type="fig" rid="F2">2</xref>).</p>
+          <fig id="F2" position="float">
+            <label>Figure 2</label>
+            <caption>
+              <p><bold>Principal component analysis and hierarchical clustering of aspen seedling phenotypes</bold>. A scatter plot of the first two PC is shown. Each point is a single observation, drawn from average values of individual seedlings on a vertical plate. Shape indicates culture condition: no bacteria are circles, Pf-5 are triangles, Pf0-1 are crosses, SBW25 are × 's, and WH6 are diamonds. Nutrient condition is indicated by color: replete media is black, low N media is blue, and low P media is red. In PCA plot, blue, red, and black labels have been added to highlight the effects of colonization by bacteria and the effects of nutrient stress. Labeled arrows are the eigenvectors associated with seedling phenotype measure.</p>
+            </caption>
+            <graphic xlink:href="fpls-08-00348-g0002"/>
+          </fig>
+        </sec>
+        <sec>
+          <title>Pseudomonads provide strain-specific benefits to aspen seedlings</title>
+          <p>Patterns of aspen seedling shoot and root architecture and biomass (Table <xref ref-type="table" rid="T1">1</xref>) indicate that Pseudomonads generally increase C allocation to roots under both N and P limitation relative to non-bacterial seedlings, and these changes, while variable among strains, may underpin PGP effects. Strain SBW25 promoted an increase in several seedling shoot phenotypes (chlorophyll, number of leaves, shoot length, shoot DW) in replete media condition. However, these positive effects were not observed under nutrient limitation where seedlings co-cultured with SBW25 performed similarly to non-bacterial seedlings. Under N limiting conditions, root length increased markedly (2.1-fold) and root mass decreased slightly (0.76-fold) in non-bacterial seedlings relative to replete conditions. For seedlings grown in low N media and inoculated with Pf0-1, WH6, and Pf-5, and to a lesser extent with SBW25, root mass was increased (up to 3-fold) and root length declined (up to 0.76-fold) relative to non-bacterial seedlings. Low N also reduced shoot length (0.5-fold) and shoot mass (0.38-fold) in non-bacterial seedlings relative to replete conditions. Under N limitation, Pf-5, Pf0-1, and WH6 restored shoot length and shoot mass to levels greater than that of the non-bacterial control in replete media.</p>
+          <p>Under P limitation, root length and root mass of non-bacterial seedlings decreased 0.57- and 0.38-fold, respectively, relative to replete conditions. Strain Pf-5 was the most efficient at increasing root length (2.3-fold) and root mass (4.5-fold) under low P compared to non-bacterial treatments. Strains Pf0-1, SBW25, and WH6 also had positive effects, restoring root length and mass above the non-bacterial control with replete media (Table <xref ref-type="table" rid="T1">1</xref>). Low P also reduced shoot mass (0.57-fold) and shoot length (0.84-fold) in non-bacterial seedlings relative to replete conditions. Strain WH6 maintained shoot mass under low P to levels similar to that observed for <italic>Pseudomonas</italic>-treated seedlings in replete media. Of note, these strains did not affect shoot length under P limitation. Together, these observations suggest that <italic>Pseudomonas</italic> treatments increase resource allocation to root and shoot in a strain-specific manner under N and P limitation. These PGP effects and alleviation of stress likely result from multiple and strain-specific PGP mechanisms functioning under different resource environments.</p>
+        </sec>
+      </sec>
+      <sec>
+        <title><italic>Pseudomonas</italic> strains have unique transportomic capacities</title>
+        <p>While statistically significant differences in aspen phenotypes suggest <italic>Pseudomonas</italic> strain-specific beneficial effects that depend on nutrient availability, the statistical analysis does not provide information on the molecular mechanisms underpinning these beneficial effects. The relative transportomic capacity of <italic>Pseudomonas</italic> strains Pf-5, Pf0-1, SBW25, and WH6 were quantified using PRTT-scores. There are 199 ligands in the calculated <italic>Pseudomonas</italic> transportome, and the complete set of PRTT-scores can be found in Table <xref ref-type="supplementary-material" rid="SM5">S4</xref> and is summarized as a hierarchical cluster and heat map in Figure <xref ref-type="fig" rid="F3">3</xref>.</p>
+        <fig id="F3" position="float">
+          <label>Figure 3</label>
+          <caption>
+            <p><bold>Heat map and hierarchical cluster of <italic><bold>Pseudomonas</bold></italic> strain PRTT-scores</bold>. In this heat map, rows are <italic>Pseudomonas</italic> strains and columns are specific ligands. Values in heat map are PRTT-scores.</p>
+          </caption>
+          <graphic xlink:href="fpls-08-00348-g0003"/>
+        </fig>
+        <p>Different <italic>Pseudomonas</italic> strains can be distinguished by their unique profile of strongest transportomic capacity, defined here as having a PRTT-score for a specific ligand that is at least 2-fold greater than the average PRTT score for the other strains.</p>
+        <list list-type="simple">
+          <list-item>
+            <p>Pf0-1: Mangenese, lipopolysaccharide, putrescine, microcin, iron, Fe<sup>2+</sup>, Fe<sup>3+</sup>, chloramphenicol, hemolysin, mineral and organic ion transporters, and spermidine.</p>
+          </list-item>
+          <list-item>
+            <p>Pf-5: Pores ion channels, L-arginine, L-ornithine, zinc cation, sorbitol, glycine, trimethylamine-n-oxide, n-acetylglucosamine, tungstate, lactose, alpha-glucoside, teichoic acid, sulfate, tetracycline, maltodextrin, l-threonine, and SN-glycerol 3-phosphate.</p>
+          </list-item>
+          <list-item>
+            <p>SBW25: L-glutamine, nickel, nickel<sup>2+</sup>, L-leucine, glucose, L-arabinose, peptide, ribose, sodium cation, cytosine, thymine, electrochemical potential-driven transporters, spermidine, putrescine, uracil, L-isoeucine, L-valine, dimethyl sulfoxide, fructose, multidrug transporters, xylose, l-aspartate, l-glutamate, adenine, nucleoside, formate, ascorbate, and oxalate.</p>
+          </list-item>
+          <list-item>
+            <p>WH6: Cobamide coenzyme, peptide, ABC-2 type and other transporters, fructose, L-aspartate, L-glutamate, nitrate, nickel, nickel<sup>2+</sup>, ribose, mannose, L-proline, unknown transporters, gluconate, lipoprotein, cytosine, and thymine.</p>
+          </list-item>
+        </list>
+        <p>With 29 ligands, WH6 has the most unique transportomic capacities relative to the other strains.</p>
+        <p>From the hierarchical cluster (HCL) figure of PRTT-scores (Figure <xref ref-type="fig" rid="F3">3</xref>), the transportomic capacity of Pf-5 and Pf0-1 are more similar to one another than the other strains and WH6 and SBW25 are more similar to one another than the others. The transportomic capacities that distinguish Pf-5 and Pf0-1 from WH6 and SBW25 (by <italic>t</italic>-test, <italic>p</italic> &lt; 0.05) are for the ligands galactarate, 3-hydroxyphenylpropionic, trehalose, C4-dicarboxylate, lactate, drug transporters, cadaverine, D-allose, L-phenylalanine, L-tyrosine, dehydroshikimate, shikimate, and iron.</p>
+      </sec>
+      <sec>
+        <title>Aspen seedling phenotype and <italic>Pseudomonas</italic> transportome correlation networks</title>
+        <p>In order to identify potential mechanisms by which the observed <italic>Pseudomonas</italic> strain-specific differences in aspen seedling phenotypes might be linked to differential transportomic capacities, we considered the correlation network generated between observed aspen seedling phenotype measurements and predicted <italic>Pseudomonas</italic> transportomes.</p>
+        <sec>
+          <title>Aspen seedling phenotypes are not independent of one another</title>
+          <p>Intuitively, it seems likely that all aspen seedling phenotypes are not independent of one another. For example, root length and root dry weight might reasonably be expected to correlate, as might be number of leaves and above ground shoot dry weight. To better understand how <italic>Pseudomonas</italic> transportomic capacity might be linked to aspen seedling phenotypes, we first considered how those seedling phenotypes might be interdependent on one another by constructing a correlation network between phenotypic measurements (Figure <xref ref-type="fig" rid="F4">4</xref>). This network is comprised of 16 nodes and 11 edges. Chlorophyll a/b, shoot P, root N, and rootlets do not appear in the set of significantly correlated phenotypes. The network is comprised of three connected subnetworks: mostly belowground phenotypes, aboveground phenotypes, and anthocyanins. In the aboveground network, shoot dry weight, leaf count, stem length, and chlorophyll concentrations are positively correlated. Root and shoot anthocyanins are positively correlated. The belowground subnetwork is comprised entirely of negative correlations between root phenotypes and between root architecture (branching, length, and dry weight) and shoot <inline-formula><mml:math id="M9"><mml:mrow><mml:msubsup><mml:mrow><mml:mtext>NO</mml:mtext></mml:mrow><mml:mn>3</mml:mn><mml:mo>−</mml:mo></mml:msubsup></mml:mrow></mml:math></inline-formula> concentration.</p>
+          <fig id="F4" position="float">
+            <label>Figure 4</label>
+            <caption>
+              <p><bold>Network of correlated aspen seedling phenotypes</bold>. In this network, nodes are measured seedling phenotypes, solid edges indicate strong positive correlations, and dashed edges indicate strong negative correlations. The phenotypes for root and shoot P concentration do not correlate strongly with any phenotypes.</p>
+            </caption>
+            <graphic xlink:href="fpls-08-00348-g0004"/>
+          </fig>
+        </sec>
+        <sec>
+          <title>Correlations networks between aspen seedling phenotypes and <italic>Pseudomonas</italic> transportomes predict molecular mechanisms of PGP</title>
+          <p>Possible mechanisms linking changes in seedling phenotype to relative, differential transportomic capacity of co-cultured <italic>Pseudomonas</italic> strains were sought by identifying significant correlations between transportomic capacity (expressed as PRTT-scores, and available in Table <xref ref-type="supplementary-material" rid="SM6">S5</xref>) and phenotypes (Table <xref ref-type="supplementary-material" rid="SM3">S2</xref>). The initial network (Table <xref ref-type="supplementary-material" rid="SM7">S6</xref>) is comprised of a completely connected network with 143 <italic>Pseudomonas</italic>-transported ligands, 15 aspen seedling phenotypes, and 219 statistically significant (<italic>p</italic> &lt; 0.05) correlations between ligands and phenotypes. Edges are categorized as positively or negatively correlated, with the majority (80%) of statistically significant edges being positive correlations. Ligands were categorized by the <italic>Pseudomonas</italic> strain with the highest PRTT-score for that ligand. Highest PRTT-score ligands were fairly evenly distributed between Pf0-1 (21%), Pf-5 (23%), WH6 (26%), and SBW25 (30%).</p>
+          <p>The complete correlation network was refined to include only enriched interaction classes (Table <xref ref-type="table" rid="T2">2</xref>) and the resulting network was comprised of 14 phenotypes and 103 <italic>Pseudomonas</italic> transportomic functions, linked by 131 interactions (Figure <xref ref-type="fig" rid="F5">5</xref>). Predictions of molecular mechanisms of PGP in subsequent Discussion Section utilize this, refined network in analyses.</p>
+          <table-wrap id="T2" position="float">
+            <label>Table 2</label>
+            <caption>
+              <p><bold>Enrichment of interactions in Transportome-Phenotype interaction network</bold>.</p>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <thead>
+                <tr>
+                  <th rowspan="1" colspan="1"/>
+                  <th valign="top" align="center" rowspan="1" colspan="1">
+                    <bold>Root Dry Weight (57)</bold>
+                  </th>
+                  <th valign="top" align="center" rowspan="1" colspan="1">
+                    <bold>Root Branching (4)</bold>
+                  </th>
+                  <th valign="top" align="center" rowspan="1" colspan="1">
+                    <bold>Rootlets (31)</bold>
+                  </th>
+                  <th valign="top" align="center" rowspan="1" colspan="1">
+                    <bold>Root %N (9)</bold>
+                  </th>
+                  <th valign="top" align="center" rowspan="1" colspan="1">
+                    <bold>Root NO3 (6)</bold>
+                  </th>
+                  <th valign="top" align="center" rowspan="1" colspan="1">
+                    <bold>Shoot Dry Weight (56)</bold>
+                  </th>
+                  <th valign="top" align="center" rowspan="1" colspan="1">
+                    <bold>Shoot Length (14)</bold>
+                  </th>
+                  <th valign="top" align="center" rowspan="1" colspan="1">
+                    <bold>Shoot Anthocyanin (17)</bold>
+                  </th>
+                  <th valign="top" align="center" rowspan="1" colspan="1">
+                    <bold>Shoot P (9)</bold>
+                  </th>
+                  <th valign="top" align="center" rowspan="1" colspan="1">
+                    <bold>Number of Leaves (15)</bold>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Pfo-1 (46)</td>
+                  <td valign="top" align="center" style="background-color:#b2b4b6" rowspan="1" colspan="1">
+                    <bold>8.36E-08</bold>
+                  </td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">6.13E-01</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">9.31E-01</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">8.85E-01</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">6.96E-01</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">1.00E+00</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">5.95E-01</td>
+                  <td valign="top" align="center" style="background-color:#b2b4b6" rowspan="1" colspan="1">
+                    <bold>1.13E-02</bold>
+                  </td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">2.87E-01</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">6.78E-02</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Pf-5 (51)</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">2.07E-01</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">2.32E-01</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">9.98E-01</td>
+                  <td valign="top" align="center" style="background-color:#b2b4b6" rowspan="1" colspan="1">
+                    <bold>4.07E-05</bold>
+                  </td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">8.39E-02</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">9.78E-01</td>
+                  <td valign="top" align="center" style="background-color:#b2b4b6" rowspan="1" colspan="1">
+                    <bold>1.02E-04</bold>
+                  </td>
+                  <td valign="top" align="center" style="background-color:#b2b4b6" rowspan="1" colspan="1">
+                    <bold>5.53E-03</bold>
+                  </td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">3.51E-01</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">9.84E-01</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1">WH6 (56)</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">3.68E-01</td>
+                  <td valign="top" align="center" style="background-color:#b2b4b6" rowspan="1" colspan="1">
+                    <bold>3.94E-03</bold>
+                  </td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">9.96E-01</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">4.16E-01</td>
+                  <td valign="top" align="center" style="background-color:#b2b4b6" rowspan="1" colspan="1">
+                    <bold>1.59E-02</bold>
+                  </td>
+                  <td valign="top" align="center" style="background-color:#b2b4b6" rowspan="1" colspan="1">
+                    <bold>2.98E-04</bold>
+                  </td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">9.86E-01</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">8.59E-01</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">4.16E-01</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">3.29E-01</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1">SBW25 (66)</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">1.00E+00</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">7.65E-01</td>
+                  <td valign="top" align="center" style="background-color:#b2b4b6" rowspan="1" colspan="1">
+                    <bold>2.43E-11</bold>
+                  </td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">9.63E-01</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">8.37E-01</td>
+                  <td valign="top" align="center" style="background-color:#b2b4b6" rowspan="1" colspan="1">
+                    <bold>3.13E-03</bold>
+                  </td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">6.56E-01</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">9.98E-01</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">2.70E-01</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">1.26E-01</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Low N (68)</td>
+                  <td valign="top" align="center" style="background-color:#b2b4b6" rowspan="1" colspan="1"><bold>0.00E</bold>+<bold>00</bold></td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">7.77E-01</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">1.00E+00</td>
+                  <td valign="top" align="center" style="background-color:#b2b4b6" rowspan="1" colspan="1">
+                    <bold>2.73E-02</bold>
+                  </td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">8.47E-01</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">1.00E+00</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">4.50E-01</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">9.99E-01</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">9.67E-01</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">5.23E-01</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Low P (56)</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">1.00E+00</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">6.96E-01</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">7.31E-01</td>
+                  <td valign="top" align="center" style="background-color:#b2b4b6" rowspan="1" colspan="1">
+                    <bold>4.98E-02</bold>
+                  </td>
+                  <td valign="top" align="center" style="background-color:#b2b4b6" rowspan="1" colspan="1"><bold>0.00E</bold>+<bold>00</bold></td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">1.00E+00</td>
+                  <td valign="top" align="center" style="background-color:#b2b4b6" rowspan="1" colspan="1">
+                    <bold>2.58E-05</bold>
+                  </td>
+                  <td valign="top" align="center" style="background-color:#b2b4b6" rowspan="1" colspan="1"><bold>0.00E</bold>+<bold>00</bold></td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">9.34E-01</td>
+                  <td valign="top" align="center" style="background-color:#b2b4b6" rowspan="1" colspan="1">
+                    <bold>7.04E-06</bold>
+                  </td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1">All Media (95)</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">1.00E+00</td>
+                  <td valign="top" align="center" style="background-color:#b2b4b6" rowspan="1" colspan="1"><bold>0.00E</bold>+<bold>00</bold></td>
+                  <td valign="top" align="center" style="background-color:#b2b4b6" rowspan="1" colspan="1">
+                    <bold>6.10E-06</bold>
+                  </td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">9.95E-01</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">9.44E-01</td>
+                  <td valign="top" align="center" style="background-color:#b2b4b6" rowspan="1" colspan="1"><bold>0.00E</bold>+<bold>00</bold></td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">1.00E+00</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">1.00E+00</td>
+                  <td valign="top" align="center" style="background-color:#b2b4b6" rowspan="1" colspan="1"><bold>0.00E</bold>+<bold>00</bold></td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">1.00E+00</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Negative (44)</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">1.00E+00</td>
+                  <td valign="top" align="center" style="background-color:#b2b4b6" rowspan="1" colspan="1"><bold>0.00E</bold>+<bold>00</bold></td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">9.12E-01</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">2.62E-01</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">5.65E-02</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">1.00E+00</td>
+                  <td valign="top" align="center" style="background-color:#b2b4b6" rowspan="1" colspan="1">
+                    <bold>1.71E-03</bold>
+                  </td>
+                  <td valign="top" align="center" style="background-color:#b2b4b6" rowspan="1" colspan="1">
+                    <bold>8.08E-12</bold>
+                  </td>
+                  <td valign="top" align="center" style="background-color:#b2b4b6" rowspan="1" colspan="1">
+                    <bold>1.17E-05</bold>
+                  </td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">9.70E-01</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Positive (175)</td>
+                  <td valign="top" align="center" style="background-color:#b2b4b6" rowspan="1" colspan="1">
+                    <bold>6.28E-06</bold>
+                  </td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">9.99E-01</td>
+                  <td valign="top" align="center" style="background-color:#b2b4b6" rowspan="1" colspan="1">
+                    <bold>2.73E-02</bold>
+                  </td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">4.29E-01</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">7.36E-01</td>
+                  <td valign="top" align="center" style="background-color:#b2b4b6" rowspan="1" colspan="1">
+                    <bold>2.59E-06</bold>
+                  </td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">9.91E-01</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">1.00E+00</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">1.00E+00</td>
+                  <td valign="top" align="center" style="background-color:#b2b4b6" rowspan="1" colspan="1"><bold>0.00E</bold>+<bold>00</bold></td>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <p><italic>Enrichment of predicted interactions for specific phenotype-transportome categories are indicated. Transportomic categories are Pseudomonas strain (Pf0-1, Pf-5, WH6, or SBW25) with strongest capacity to transport specific ligand (i.e., highest PRTT-score); media condition (replete, low N, or low P); and direction of correlation (positively or negatively correlated). Numbers in parentheses indicate total number interactions in correlation network that belongs to category. P-values were calculated as Cumulative Hypergeometric Distribution and highlighted (bold) for values &lt; 0.05</italic>.</p>
+            </table-wrap-foot>
+          </table-wrap>
+          <fig id="F5" position="float">
+            <label>Figure 5</label>
+            <caption>
+              <p><bold>Phenotype and <italic><bold>Pseudomonas</bold></italic> transportome correlation network</bold>. This is a graphical representation of the correlation network for aspen phenotypes and <italic>Pseudomonas</italic> transportome. Green rounded rectangles are aspen seedling phenotypes and diamonds are predicted ligands transported by <italic>Pseudomonas</italic> strains. Ligands are colored according to the specific <italic>Pseudomonas</italic> strain with the greatest (by PRTT-score) relative capacity for that ligand's transport: yellow for Pf-5, orange for Pf0-1, red for SBW25, and purple for WH6. Wavy green lines are strong correlations between aspen seedling phenotypic features. Solid straight lines are strong correlations between <italic>Pseudomonas</italic> transportomic capacity and aspen seedling phenotypes colored by culture condition: gray for replete media, blue for low N media, and yellow for low P media.</p>
+            </caption>
+            <graphic xlink:href="fpls-08-00348-g0005"/>
+          </fig>
+        </sec>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="s4">
+      <title>Discussion</title>
+      <p>Interactions between aspen seedlings and <italic>Pseudomonas</italic> strains under varying nutrient environments provide insight into how PGP benefits of this rhizobacteria could be linked to the annotated function of transmembrane transporter proteins. Key observations include: (i) low N and low P induce stress in non-bacterial seedlings under these experimental conditions; (ii) <italic>Pseudomonas</italic> can ameliorate nutrient limitation in strain and media-specific fashions; (iii) <italic>Pseudomonas</italic> strains have unique transportomic capacities; and (iv) there are significant correlations between aspen seedling phenotype and <italic>Pseudomonas</italic> transportomes. From these analyses, it becomes possible to hypothesize the molecular mechanisms underlying strain and media-specific effects of <italic>Pseudomonas</italic>-aspen PGP interactions.</p>
+      <sec>
+        <title>Analysis of phenotype-transportome correlation network identifies potential PGP mechanisms</title>
+        <p>There are two principle mechanisms by which <italic>Pseudomonas</italic> provides PGP effects to aspen seedlings that can be inferred from analysis of the correlations between <italic>Pseudomonas</italic> transportomic capacity and seedling phenotypes. Pseudomonads may: (i) increase the availability of nutrients to the seedlings; and/or (ii) influence root architecture through release of regulatory compounds.</p>
+        <sec>
+          <title><italic>Pseudomonas</italic> increase nutrient acquisition to aspen seedlings</title>
+          <p>Organic acids (e.g., citrate, malate, and oxalate) exuded by roots mobilize mineral nutrients for uptake by plant roots (Jones and Darrah, <xref rid="B25" ref-type="bibr">1994</xref>). These benefits are best expressed when exudates alter mineral solubility equilibria in the rhizosphere. The balance between organic acid transport and utilization by rhizobacteria may similarly contribute to nutrient dissolution and promote both root and shoot growth by increasing nutrient availability. In the current study, the transport systems of the <italic>Pseudomonas</italic> strains exporting organic acids and other siderophores are predicted to contribute PGP benefits. However, Pf0-1, which had the highest PRTT score for organic acid transport, did not confer a growth advantage to aspen seedlings relative to other strains, although tissue P concentrations were high (Table <xref ref-type="table" rid="T1">1</xref>). In our experimental system, bacterial release of nutrients may not drive seedling response because the nutrients are all provided in inorganic soluble forms and are presumably available to the plant. The availability of other ions not measured in aspen, such as Fe<sup>2/3+</sup>, may be altered by siderophores released by <italic>Pseudomonas</italic> and may have benefited aspen growth (Tian et al., <xref rid="B61" ref-type="bibr">2009</xref>; Shen et al., <xref rid="B55" ref-type="bibr">2012</xref>).</p>
+        </sec>
+        <sec>
+          <title><italic>Pseudomonas</italic> influences aspen seedling root architecture</title>
+          <p>Pseudomonads had a significant effect on aspen root architecture (root branching, rootlets) and shoot biomass independent of media condition. The strongest effects on <italic>Pseudomonas</italic> root architecture were by SBW25 for root branching (<italic>p</italic>-value 3.9 × 10<sup>−3</sup>) and WH6 for rootlets (<italic>p</italic>-value 2.4 × 10<sup>−11</sup>), and these effects may have contributed to the shoot biomass gains in both SBW25 (<italic>p</italic>-value 3.0 × 10<sup>−4</sup>) and WH6 (<italic>p</italic>-value 3.1 × 10<sup>−3</sup>; Table <xref ref-type="table" rid="T1">1</xref>). Changes in root architecture may have two consequences to PGP: increasing root branching and rootlets promotes nutrient uptake by increasing the root surface area for absorption and may also provide a more favorable environment for <italic>Pseudomonas</italic> growth.</p>
+          <p>Molecules with potential transporters in the <italic>Pseudomonas</italic> transportomes that have been shown to influence root morphology include several of the sugars (Baskin et al., <xref rid="B5" ref-type="bibr">2001</xref>; Stevenson and Harrington, <xref rid="B59" ref-type="bibr">2009</xref>), polyamines (Couee et al., <xref rid="B11" ref-type="bibr">2004</xref>), and glutamate (Walch-Liu and Forde, <xref rid="B62" ref-type="bibr">2007</xref>). These molecules and related compounds could be produced and released by <italic>Pseudomonas</italic> or alternatively produced by the plant and taken up and utilized by <italic>Pseudomonas</italic>. Both of these processes may take place simultaneously into the rhizosphere of aspen and play roles in increasing root growth and surface area. <italic>Pseudomonas</italic> may take up and utilize a variety of photosynthetically-derived sugars commonly found in the root exudates (e.g., glucose, xylose, galactose, and fructose; Walker et al., <xref rid="B63" ref-type="bibr">2003</xref>; Carvalhais et al., <xref rid="B8" ref-type="bibr">2013</xref>) enhancing its ability to grow and survive in the rhizosphere. <italic>Pseudomonas</italic> may additionally produce auxin (Larsen et al., <xref rid="B30" ref-type="bibr">2015</xref>) or alter auxin levels/signaling pathways in the host root (Walch-Liu and Forde, <xref rid="B62" ref-type="bibr">2007</xref>), which would alter patterns of lateral root development (Salazar-Henao et al., <xref rid="B53" ref-type="bibr">2016</xref>). From analysis of interaction network (Figure <xref ref-type="fig" rid="F5">5</xref>), root biomass is also predicted to be influenced by the transport of the possible regulatory compounds tryptophan, phenylalanine, nicotinamide, and lipopolysaccharides by <italic>Pseudomonas</italic>. Tryptophan is a known plant growth promoter that interacts with root-associated bacteria (Hassan and Bano, <xref rid="B23" ref-type="bibr">2015</xref>). Tryptophan is also a precursor to auxin biosynthesis (Zhao, <xref rid="B64" ref-type="bibr">2012</xref>) and may mediate root architecture change through this pathway. Phenylalanine induces secondary metabolism in plants (Basha et al., <xref rid="B4" ref-type="bibr">2006</xref>; Koca and Karaman, <xref rid="B27" ref-type="bibr">2015</xref>). Nicotinamide is a plant stress-associated compound that can induce and regulate secondary metabolic accumulation and induce plant defense responses (Takeuchi et al., <xref rid="B60" ref-type="bibr">1975</xref>; Mohamed et al., <xref rid="B36" ref-type="bibr">1989</xref>; Hashida et al., <xref rid="B22" ref-type="bibr">2007</xref>). Interestingly, several of the sugars for which there are transporters in <italic>Pseudomonas</italic> have complex effects on anthocyanin accumulation in <italic>Arabidopsis</italic> when supplemented in the media (Stevenson and Harrington, <xref rid="B59" ref-type="bibr">2009</xref>). In our study the observed increase of anthocyanin concentrations in replete media (presumed non-stressed) aspen seedling co-cultured with <italic>Pseudomonas</italic> may reflect the plant response to the differential metabolism of some of these sugars by <italic>Pseudomonas</italic>.</p>
+          <p>In our vertical plate system, increased root growth and surface area should increase aspen seedlings access to nutrients. In the media, both <inline-formula><mml:math id="M10"><mml:mrow><mml:msubsup><mml:mrow><mml:mtext>NO</mml:mtext></mml:mrow><mml:mn>3</mml:mn><mml:mo>−</mml:mo></mml:msubsup></mml:mrow></mml:math></inline-formula> and H<sub>2</sub><inline-formula><mml:math id="M11"><mml:mrow><mml:msubsup><mml:mrow><mml:mtext>PO</mml:mtext></mml:mrow><mml:mn>4</mml:mn><mml:mo>−</mml:mo></mml:msubsup></mml:mrow></mml:math></inline-formula> are soluble and limitations to their diffusion in agar are expected to be small. Nonetheless, while phenotypes such as tissue concentrations of <inline-formula><mml:math id="M12"><mml:mrow><mml:msubsup><mml:mrow><mml:mtext>NO</mml:mtext></mml:mrow><mml:mn>3</mml:mn><mml:mo>−</mml:mo></mml:msubsup></mml:mrow></mml:math></inline-formula> and P did not reflect beneficial effect of <italic>Pseudomonas</italic> (Table <xref ref-type="table" rid="T1">1</xref>), total P accumulation in aspen seedlings co-cultured with <italic>Pseudomonas</italic> increased by 1.7- to 3.9-fold and final seedling biomass was correlated to rootlet formation. It thus appears that one of the PGP effects of <italic>Pseudomonas</italic> is enhanced nutrient acquisition related to altered root architecture, as reported previously (Frey-Klett et al., <xref rid="B16" ref-type="bibr">2011</xref>).</p>
+        </sec>
+        <sec>
+          <title><italic>Pseudomonas</italic> enhances colonization of the rhizosphere</title>
+          <p>Some compounds transported by <italic>Pseudomonas</italic> may directly stimulate or repress the defense response of aspen seedling roots. Markers of pathogenicity (octopone, nopaline, glucosamine, and rhamnose) are all negatively correlated with shoot length in low P conditions (Figure <xref ref-type="fig" rid="F5">5</xref>). Rhamnose (Santhanam et al., <xref rid="B54" ref-type="bibr">2016</xref>) and nopaline and octopine (Lippincott and Lippincott, <xref rid="B32" ref-type="bibr">1970</xref>) are pathogenicity-related markers associated with root crown galls. Glucosamine is a component of chitin that may induce plant defense responses (Nurnberger and Brunner, <xref rid="B41" ref-type="bibr">2002</xref>) and glucosame is also a nitrogenous compound known to be rapidly taken up by plant root (Roberts, <xref rid="B49" ref-type="bibr">1970</xref>). Proline, predicted to influence shoot biomass, has been observed to induce stress tolerance in basil (Rady et al., <xref rid="B46" ref-type="bibr">2016</xref>).</p>
+          <p>Other compounds that may be transported by systems coded in the <italic>Pseudomonas</italic> transportome may mediate positive interactions and/or facilitate colonization between bacteria and roots. Transport of lipoproteins, lipopolysaccharides, and fucose are all correlated with seedling biomass (Figure <xref ref-type="fig" rid="F5">5</xref>). Lipoproteins are essential to forming biofilms and colonizing plant roots (Campisano et al., <xref rid="B7" ref-type="bibr">2006</xref>; Ghafoor et al., <xref rid="B18" ref-type="bibr">2011</xref>) and lipopolysaccharides are known mediators between plant roots and soil bacteria (Duijff et al., <xref rid="B14" ref-type="bibr">1997</xref>; Reitz et al., <xref rid="B48" ref-type="bibr">2000</xref>; Fedonenko et al., <xref rid="B15" ref-type="bibr">2001</xref>). Lipopeptides are regulatory compounds in <italic>Pseudomonas</italic>-root interactions that influence antimicrobial activity, motility, and biofilm formation (Song et al., <xref rid="B57" ref-type="bibr">2014</xref>). Fucose is a component of plant root mucilage (Roy et al., <xref rid="B52" ref-type="bibr">2002</xref>) and is known to promote interactions with rhizosphere community (Northcote and Gould, <xref rid="B40" ref-type="bibr">1989</xref>).</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>Conclusions and future studies</title>
+        <p>We sought to uncover potential molecular mechanisms underlying rhizobacterial plant growth promotion effects under conditions of limited N and P using a laboratory model of aspen seedlings and four strains of <italic>Pseudomonas</italic>, Pf-5, Pf0-1, SBW25, and WH6. We demonstrated that our nutrient limited conditions produced measurable stress responses in aspen seedlings and that those responses were alleviated by <italic>Pseudomonas</italic> in a strain and media-specific fashion. We propose that the alleviation of nutrient stress by <italic>Pseudomonas</italic> is due to three classes of ability functions: to mobilize nutrients, to direct aspen seedling root structure, and to successfully colonize the rhizosphere. These mechanisms are potentially linked to the transport of specific ligands, which can be traced back to specific genes and proteins for transporters and sensors in <italic>Pseudomonas</italic>. These results will lead directly to future specific, hypothesis-driven biological experiments to validate predicted PGP transportomic mechanisms.</p>
+      </sec>
+    </sec>
+    <sec id="s5">
+      <title>Author contributions</title>
+      <p>All authors contributed to experimental design. SS and JC oversaw biological experiments and analysis. PL performed computational analysis and all authors contributed to analysis of results. All authors have read and approved the final manuscript.</p>
+    </sec>
+    <sec id="s6">
+      <title>Funding</title>
+      <p>This contribution originates in part from the “Environment Sensing and Response” Scientific Focus Area (SFA) program at Argonne National Laboratory. The submitted manuscript has been created by UChicago Argonne, LLC, Operator of Argonne National Laboratory (“Argonne”). Argonne, a U.S. Department of Energy Office of Science laboratory, is operated under Contract No. DE-AC02-06CH11357. The U.S. Government retains for itself, and others acting on its behalf, a paid-up non-exclusive, irrevocable worldwide license in said article to reproduce, prepare derivative works, distribute copies to the public, and perform publicly and display publicly, by or on behalf of the Government.</p>
+    </sec>
+    <sec id="s7">
+      <title>Availability of supporting data</title>
+      <p>All experimental and model data are available as Supplemental Data. Perl code for calculation of PRTT-scores is available upon request.</p>
+      <sec>
+        <title>Conflict of interest statement</title>
+        <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <sec sec-type="supplementary-material" id="s8">
+      <title>Supplementary material</title>
+      <p>The Supplementary Material for this article can be found online at: <ext-link ext-link-type="uri" xlink:href="http://journal.frontiersin.org/article/10.3389/fpls.2017.00348/full#supplementary-material">http://journal.frontiersin.org/article/10.3389/fpls.2017.00348/full#supplementary-material</ext-link></p>
+      <supplementary-material content-type="local-data" id="SM1">
+        <label>Figure S1</label>
+        <caption>
+          <p><bold>Bar graphs of amount of variance each PC contributes to PCA</bold>.</p>
+        </caption>
+        <media xlink:href="Image1.TIFF">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM2">
+        <label>Table S1</label>
+        <caption>
+          <p><bold>Transporter function profiles for re-annotated Pseudomonads Pf-5, Pf0-1, SBW25, and WH6</bold>.</p>
+        </caption>
+        <media xlink:href="Table1.CSV">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM3">
+        <label>Table S2</label>
+        <caption>
+          <p><bold>Links between Pseudomonas protein (“NCBI Protein Accession”), best hit to KEGG annotated transporter protein (“Best Hit,” “<italic><bold>e</bold></italic>-Value,” and “% Coverage”), with KEGG Orthology annotation (“KO Transporter”), and transported ligands (columns of ligand ID's with “1” indicating transport)</bold>.</p>
+        </caption>
+        <media xlink:href="Table2.XLSX">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM4">
+        <label>Table S3</label>
+        <caption>
+          <p><bold>Table of aspen seedling phenotypic data</bold>.</p>
+        </caption>
+        <media xlink:href="Table3.CSV">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM5">
+        <label>Table S4</label>
+        <caption>
+          <p><bold>Loading table data for PCA analysis</bold>.</p>
+        </caption>
+        <media xlink:href="Table4.CSV">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM6">
+        <label>Table S5</label>
+        <caption>
+          <p><bold>Table of PRTT scores for Pseudomonads Pf-5, Pf0-1, SBW25, and WH6</bold>.</p>
+        </caption>
+        <media xlink:href="Table5.CSV">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM7">
+        <label>Table S6</label>
+        <caption>
+          <p><bold>Table of complete phenotype-transportome correlation network</bold>.</p>
+        </caption>
+        <media xlink:href="Table6.CSV">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Anith</surname><given-names>K. N.</given-names></name><name><surname>Momol</surname><given-names>M. T.</given-names></name><name><surname>Kloepper</surname><given-names>J. W.</given-names></name><name><surname>Marois</surname><given-names>J. J.</given-names></name><name><surname>Olson</surname><given-names>S. M.</given-names></name><name><surname>Jones</surname><given-names>J. B.</given-names></name></person-group> (<year>2004</year>). <article-title>Efficacy of plant growth-promoting rhizobacteria, acibenzolar-S-methyl, and soil amendment for integrated management of bacterial wilt on tomato</article-title>. <source>Plant Dis.</source>
+<volume>88</volume>, <fpage>669</fpage>–<lpage>673</lpage>. <pub-id pub-id-type="doi">10.1094/PDIS.2004.88.6.669</pub-id></mixed-citation>
+      </ref>
+      <ref id="B2">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Banowetz</surname><given-names>G. M.</given-names></name><name><surname>Azevedo</surname><given-names>M. D.</given-names></name><name><surname>Armstrong</surname><given-names>D. J.</given-names></name><name><surname>Halgren</surname><given-names>A. B.</given-names></name><name><surname>Mills</surname><given-names>D. I.</given-names></name></person-group> (<year>2008</year>). <article-title>Germination-Arrest Factor (GAF): biological properties of a novel, naturally-occurring herbicide produced by selected isolates of rhizosphere bacteria</article-title>. <source>Biol. Control</source>
+<volume>46</volume>, <fpage>380</fpage>–<lpage>390</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocontrol.2008.04.016</pub-id></mixed-citation>
+      </ref>
+      <ref id="B3">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Barea</surname><given-names>J. M.</given-names></name><name><surname>Pozo</surname><given-names>M. J.</given-names></name><name><surname>Azcon</surname><given-names>R.</given-names></name><name><surname>Azcon-Aguilar</surname><given-names>C.</given-names></name></person-group> (<year>2005</year>). <article-title>Microbial co-operation in the rhizosphere</article-title>. <source>J. Exp. Bot.</source>
+<volume>56</volume>, <fpage>1761</fpage>–<lpage>1778</lpage>. <pub-id pub-id-type="doi">10.1093/jxb/eri197</pub-id><?supplied-pmid 15911555?><pub-id pub-id-type="pmid">15911555</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Basha</surname><given-names>S. A.</given-names></name><name><surname>Sarma</surname><given-names>B. K.</given-names></name><name><surname>Singh</surname><given-names>D. P.</given-names></name><name><surname>Annapurna</surname><given-names>K.</given-names></name><name><surname>Singh</surname><given-names>U. P.</given-names></name></person-group> (<year>2006</year>). <article-title>Differential methods of inoculation of plant growth-promoting rhizobacteria induce synthesis of phenylalanine ammonia-lyase and phenolic compounds differentially in chickpea</article-title>. <source>Folia Microbiol. (Praha).</source>
+<volume>51</volume>, <fpage>463</fpage>–<lpage>468</lpage>. <pub-id pub-id-type="doi">10.1007/BF02931592</pub-id><?supplied-pmid 17176768?><pub-id pub-id-type="pmid">17176768</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Baskin</surname><given-names>T. I.</given-names></name><name><surname>Remillong</surname><given-names>E. L.</given-names></name><name><surname>Wilson</surname><given-names>J. E.</given-names></name></person-group> (<year>2001</year>). <article-title>The impact of mannose and other carbon sources on the elongation and diameter of the primary root of <italic>Arabidopsis thaliana</italic></article-title>. <source>Aust. J. Plant Physiol.</source>
+<volume>28</volume>, <fpage>481</fpage>–<lpage>488</lpage>. <pub-id pub-id-type="doi">10.1071/PP01047</pub-id></mixed-citation>
+      </ref>
+      <ref id="B6">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brown</surname><given-names>S. D.</given-names></name><name><surname>Utturkar</surname><given-names>S. M.</given-names></name><name><surname>Klingeman</surname><given-names>D. M.</given-names></name><name><surname>Johnson</surname><given-names>C. M.</given-names></name><name><surname>Martin</surname><given-names>S. L.</given-names></name><name><surname>Land</surname><given-names>M. L.</given-names></name><etal/></person-group>. (<year>2012</year>). <article-title>Twenty-one genome sequences from pseudomonas species and 19 genome sequences from diverse bacteria isolated from the rhizosphere and endosphere of <italic>Populus deltoides</italic></article-title>. <source>J. Bacteriol.</source>
+<volume>194</volume>, <fpage>5991</fpage>–<lpage>5993</lpage>. <pub-id pub-id-type="doi">10.1128/JB.01243-12</pub-id><?supplied-pmid 23045501?><pub-id pub-id-type="pmid">23045501</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Campisano</surname><given-names>A.</given-names></name><name><surname>Schroeder</surname><given-names>C.</given-names></name><name><surname>Schemionek</surname><given-names>M.</given-names></name><name><surname>Overhage</surname><given-names>J.</given-names></name><name><surname>Rehm</surname><given-names>B. H. A.</given-names></name></person-group> (<year>2006</year>). <article-title>PslD is a secreted protein required for biofilm formation by <italic>Pseudomonas</italic> aeruginosa</article-title>. <source>Appl. Environ. Microbiol.</source>
+<volume>72</volume>, <fpage>3066</fpage>–<lpage>3068</lpage>. <pub-id pub-id-type="doi">10.1128/AEM.72.4.3066-3068.2006</pub-id><?supplied-pmid 16598021?><pub-id pub-id-type="pmid">16598021</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Carvalhais</surname><given-names>L. C.</given-names></name><name><surname>Dennis</surname><given-names>P. G.</given-names></name><name><surname>Fedoseyenko</surname><given-names>D.</given-names></name><name><surname>Hajirezaei</surname><given-names>M. R.</given-names></name><name><surname>Borriss</surname><given-names>R.</given-names></name><name><surname>von Wiren</surname><given-names>N.</given-names></name></person-group> (<year>2013</year>). <article-title>Root exudation of sugars, amino acids, and organic acids by maize as affected by nitrogen, phosphorus, potassium, and iron deficiency (vol 174, pg 311, 2011)</article-title>. <source>J. Plant Nutr. Soil Sci.</source>
+<volume>176</volume>, <fpage>641</fpage>–<lpage>641</lpage>. <pub-id pub-id-type="doi">10.1002/jpln.201390025</pub-id></mixed-citation>
+      </ref>
+      <ref id="B9">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Compant</surname><given-names>S.</given-names></name><name><surname>van der Heijden</surname><given-names>M. G. A.</given-names></name><name><surname>Sessitsch</surname><given-names>A.</given-names></name></person-group> (<year>2010</year>). <article-title>Climate change effects on beneficial plant-microorganism interactions</article-title>. <source>FEMS Microbiol. Ecol.</source>
+<volume>73</volume>, <fpage>197</fpage>–<lpage>214</lpage>. <pub-id pub-id-type="doi">10.1111/j.1574-6941.2010.00900.x</pub-id><?supplied-pmid 20528987?><pub-id pub-id-type="pmid">20528987</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cook</surname><given-names>D.</given-names></name><name><surname>Dreyer</surname><given-names>D.</given-names></name><name><surname>Bonnet</surname><given-names>D.</given-names></name><name><surname>Howell</surname><given-names>M.</given-names></name><name><surname>Nony</surname><given-names>E.</given-names></name><name><surname>VandenBosch</surname><given-names>K.</given-names></name></person-group> (<year>1995</year>). <article-title>Transient induction of a peroxidase gene in <italic>Medicago truncatula</italic> precedes infection by <italic>Rhizobium meliloti</italic></article-title>. <source>Plant Cell</source>
+<volume>7</volume>, <fpage>43</fpage>–<lpage>55</lpage>. <pub-id pub-id-type="doi">10.1105/tpc.7.1.43</pub-id><?supplied-pmid 7696879?><pub-id pub-id-type="pmid">7696879</pub-id></mixed-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Couee</surname><given-names>I.</given-names></name><name><surname>Hummel</surname><given-names>I.</given-names></name><name><surname>Sulmon</surname><given-names>C.</given-names></name><name><surname>Gouesbet</surname><given-names>G.</given-names></name><name><surname>El Amrani</surname><given-names>A.</given-names></name></person-group> (<year>2004</year>). <article-title>Involvement of polyamines in root development</article-title>. <source>Plant Cell Tissue Organ Cult.</source>
+<volume>76</volume>, <fpage>1</fpage>–<lpage>10</lpage>. <pub-id pub-id-type="doi">10.1023/A:1025895731017</pub-id></mixed-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cumming</surname><given-names>J. R.</given-names></name><name><surname>Zawaski</surname><given-names>C.</given-names></name><name><surname>Desai</surname><given-names>S.</given-names></name><name><surname>Collart</surname><given-names>F. R.</given-names></name></person-group> (<year>2015</year>). <article-title>Phosphorus disequilibrium in the tripartite plant-ectomycorrhiza-plant growth promoting rhizobacterial association</article-title>. <source>J. Soil Sci. Plant Nutr.</source>
+<volume>15</volume>, <fpage>464</fpage>–<lpage>485</lpage>. <pub-id pub-id-type="doi">10.4067/s0718-95162015005000040</pub-id></mixed-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Desai</surname><given-names>S.</given-names></name><name><surname>Naik</surname><given-names>D.</given-names></name><name><surname>Cumming</surname><given-names>J. R.</given-names></name></person-group> (<year>2014</year>). <article-title>The influence of phosphorus availability and Laccaria bicolor symbiosis on phosphate acquisition, antioxidant enzyme activity, and rhizospheric carbon flux in <italic>Populus tremuloides</italic></article-title>. <source>Mycorrhiza</source>
+<volume>24</volume>, <fpage>369</fpage>–<lpage>382</lpage>. <pub-id pub-id-type="doi">10.1007/s00572-013-0548-1</pub-id><?supplied-pmid 24338046?><pub-id pub-id-type="pmid">24338046</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Duijff</surname><given-names>B. J.</given-names></name><name><surname>GianinazziPearson</surname><given-names>V.</given-names></name><name><surname>Lemanceau</surname><given-names>P.</given-names></name></person-group> (<year>1997</year>). <article-title>Involvement of the outer membrane lipopolysaccharides in the endophytic colonization of tomato roots by biocontrol <italic>Pseudomonas fluorescens</italic> strain WCS417r</article-title>. <source>New Phytol.</source>
+<volume>135</volume>, <fpage>325</fpage>–<lpage>334</lpage>. <pub-id pub-id-type="doi">10.1046/j.1469-8137.1997.00646.x</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fedonenko</surname><given-names>Y. P.</given-names></name><name><surname>Egorenkova</surname><given-names>I. V.</given-names></name><name><surname>Konnova</surname><given-names>S. A.</given-names></name><name><surname>Ignatov</surname><given-names>V. V.</given-names></name></person-group> (<year>2001</year>). <article-title>Involvement of the lipopolysaccharides of azospirilla in the interaction with wheat seedling roots</article-title>. <source>Microbiology</source>
+<volume>70</volume>, <fpage>329</fpage>–<lpage>334</lpage>. <pub-id pub-id-type="doi">10.1023/A:1010411629428</pub-id><?supplied-pmid 11450454?><pub-id pub-id-type="pmid">11450454</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Frey-Klett</surname><given-names>P.</given-names></name><name><surname>Burlinson</surname><given-names>P.</given-names></name><name><surname>Deveau</surname><given-names>A.</given-names></name><name><surname>Barret</surname><given-names>M.</given-names></name><name><surname>Tarkka</surname><given-names>M.</given-names></name><name><surname>Sarniguet</surname><given-names>A.</given-names></name></person-group> (<year>2011</year>). <article-title>Bacterial-fungal interactions: hyphens between agricultural, clinical, environmental, and food microbiologists</article-title>. <source>Microbiol. Mol. Biol. Rev.</source>
+<volume>75</volume>, <fpage>583</fpage>–<lpage>609</lpage>. <pub-id pub-id-type="doi">10.1128/MMBR.00020-11</pub-id><?supplied-pmid 22126995?><pub-id pub-id-type="pmid">22126995</pub-id></mixed-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Garbeva</surname><given-names>P.</given-names></name><name><surname>Silby</surname><given-names>M. W.</given-names></name><name><surname>Raaijmakers</surname><given-names>J. M.</given-names></name><name><surname>Levy</surname><given-names>S. B.</given-names></name><name><surname>Boer</surname><given-names>W.</given-names></name></person-group> (<year>2011</year>). <article-title>Transcriptional and antagonistic responses of <italic>Pseudomonas fluorescens</italic> Pf0-1 to phylogenetically different bacterial competitors</article-title>. <source>ISME J.</source>
+<volume>5</volume>, <fpage>973</fpage>–<lpage>985</lpage>. <pub-id pub-id-type="doi">10.1038/ismej.2010.196</pub-id><?supplied-pmid 21228890?><pub-id pub-id-type="pmid">21228890</pub-id></mixed-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ghafoor</surname><given-names>A.</given-names></name><name><surname>Hay</surname><given-names>I. D.</given-names></name><name><surname>Rehm</surname><given-names>B. H. A.</given-names></name></person-group> (<year>2011</year>). <article-title>Role of exopolysaccharides in <italic>Pseudomonas aeruginosa</italic> biofilm formation and architecture</article-title>. <source>Appl. Environ. Microbiol.</source>
+<volume>77</volume>, <fpage>5238</fpage>–<lpage>5246</lpage>. <pub-id pub-id-type="doi">10.1128/AEM.00637-11</pub-id><?supplied-pmid 21666010?><pub-id pub-id-type="pmid">21666010</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Giles</surname><given-names>C. D.</given-names></name><name><surname>Hsu</surname><given-names>P. C.</given-names></name><name><surname>Richardson</surname><given-names>A. E.</given-names></name><name><surname>Hurst</surname><given-names>M. R. H.</given-names></name><name><surname>Hill</surname><given-names>J. E.</given-names></name></person-group> (<year>2014</year>). <article-title>Plant assimilation of phosphorus from an insoluble organic form is improved by addition of an organic anion producing <italic>Pseudomonas</italic> sp</article-title>. <source>Soil Biol. Biochem.</source>
+<volume>68</volume>, <fpage>263</fpage>–<lpage>269</lpage>. <pub-id pub-id-type="doi">10.1016/j.soilbio.2013.09.026</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gottel</surname><given-names>N. R.</given-names></name><name><surname>Castro</surname><given-names>H. F.</given-names></name><name><surname>Kerley</surname><given-names>M.</given-names></name><name><surname>Yang</surname><given-names>Z. M.</given-names></name><name><surname>Pelletier</surname><given-names>D. A.</given-names></name><name><surname>Podar</surname><given-names>M.</given-names></name><etal/></person-group>. (<year>2011</year>). <article-title>Distinct microbial communities within the endosphere and rhizosphere of <italic>Populus deltoides</italic> roots across contrasting soil types</article-title>. <source>Appl. Environ. Microbiol.</source>
+<volume>77</volume>, <fpage>5934</fpage>–<lpage>5944</lpage>. <pub-id pub-id-type="doi">10.1128/AEM.05255-11</pub-id><?supplied-pmid 21764952?><pub-id pub-id-type="pmid">21764952</pub-id></mixed-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Habibi</surname><given-names>S.</given-names></name><name><surname>Djedidi</surname><given-names>S.</given-names></name><name><surname>Prongjunthuek</surname><given-names>K.</given-names></name><name><surname>Mortuza</surname><given-names>M. F.</given-names></name><name><surname>Ohkama-Ohtsu</surname><given-names>N.</given-names></name><name><surname>Sekimoto</surname><given-names>H.</given-names></name><etal/></person-group> (<year>2014</year>). <article-title>Physiological and genetic characterization of rice nitrogen fixer PGPR isolated from rhizosphere soils of different crops</article-title>. <source>Plant Soil</source>
+<volume>379</volume>, <fpage>51</fpage>–<lpage>66</lpage>. <pub-id pub-id-type="doi">10.1007/s11104-014-2035-7</pub-id></mixed-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hashida</surname><given-names>S. N.</given-names></name><name><surname>Takahashi</surname><given-names>H.</given-names></name><name><surname>Kawai-Yamada</surname><given-names>M.</given-names></name><name><surname>Uchimiya</surname><given-names>H.</given-names></name></person-group> (<year>2007</year>). <article-title><italic>Arabidopsis thaliana</italic> nicotinate/nicotinamide mononucleotide adenyltransferase (AtNMNAT) is required for pollen tube growth</article-title>. <source>Plant J.</source>
+<volume>49</volume>, <fpage>694</fpage>–<lpage>703</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-313X.2006.02989.x</pub-id><?supplied-pmid 17270012?><pub-id pub-id-type="pmid">17270012</pub-id></mixed-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hassan</surname><given-names>T. U.</given-names></name><name><surname>Bano</surname><given-names>A.</given-names></name></person-group> (<year>2015</year>). <article-title>The stimulatory effects of L-tryptophan and plant growth promoting rhizobacteria (PGPR) on soil health and physiology of wheat</article-title>. <source>J. Soil Sci. Plant Nutr.</source>
+<volume>15</volume>, <fpage>190</fpage>–<lpage>201</lpage>. <pub-id pub-id-type="doi">10.4067/s0718-95162015005000016</pub-id></mixed-citation>
+      </ref>
+      <ref id="B24">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Houlton</surname><given-names>B. Z.</given-names></name><name><surname>Wang</surname><given-names>Y. P.</given-names></name><name><surname>Vitousek</surname><given-names>P. M.</given-names></name><name><surname>Field</surname><given-names>C. B.</given-names></name></person-group> (<year>2008</year>). <article-title>A unifying framework for dinitrogen fixation in the terrestrial biosphere</article-title>. <source>Nature</source>
+<volume>454</volume>, <fpage>327</fpage>–<lpage>330</lpage>. <pub-id pub-id-type="doi">10.1038/nature07028</pub-id><?supplied-pmid 18563086?><pub-id pub-id-type="pmid">18563086</pub-id></mixed-citation>
+      </ref>
+      <ref id="B25">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jones</surname><given-names>D. L.</given-names></name><name><surname>Darrah</surname><given-names>P. R.</given-names></name></person-group> (<year>1994</year>). <article-title>Role of root derived organic-acids in the mobilization of nutrients from the rhizosphere</article-title>. <source>Plant Soil</source>
+<volume>166</volume>, <fpage>247</fpage>–<lpage>257</lpage>. <pub-id pub-id-type="doi">10.1007/BF00008338</pub-id></mixed-citation>
+      </ref>
+      <ref id="B26">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kimbrel</surname><given-names>J. A.</given-names></name><name><surname>Givan</surname><given-names>S. A.</given-names></name><name><surname>Halgren</surname><given-names>A. B.</given-names></name><name><surname>Creason</surname><given-names>A. L.</given-names></name><name><surname>Mills</surname><given-names>D. I.</given-names></name><name><surname>Banowetz</surname><given-names>G. M.</given-names></name><etal/></person-group>. (<year>2010</year>). <article-title>An improved, high-quality draft genome sequence of the Germination-Arrest Factor-producing <italic>Pseudomonas fluorescens</italic> WH6</article-title>. <source>BMC Genomics</source>
+<volume>11</volume>:<fpage>522</fpage>. <pub-id pub-id-type="doi">10.1186/1471-2164-11-522</pub-id><?supplied-pmid 20920191?><pub-id pub-id-type="pmid">20920191</pub-id></mixed-citation>
+      </ref>
+      <ref id="B27">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Koca</surname><given-names>N.</given-names></name><name><surname>Karaman</surname><given-names>S.</given-names></name></person-group> (<year>2015</year>). <article-title>The effects of plant growth regulators and L-phenylalanine on phenolic compounds of sweet basil</article-title>. <source>Food Chem.</source>
+<volume>166</volume>, <fpage>515</fpage>–<lpage>521</lpage>. <pub-id pub-id-type="doi">10.1016/j.foodchem.2014.06.065</pub-id><?supplied-pmid 25053088?><pub-id pub-id-type="pmid">25053088</pub-id></mixed-citation>
+      </ref>
+      <ref id="B28">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kurek</surname><given-names>J.</given-names></name><name><surname>Kirk</surname><given-names>J. L.</given-names></name><name><surname>Muir</surname><given-names>D. C.</given-names></name><name><surname>Wang</surname><given-names>X.</given-names></name><name><surname>Evans</surname><given-names>M. S.</given-names></name><name><surname>Smol</surname><given-names>J. P.</given-names></name></person-group> (<year>2013</year>). <article-title>Legacy of a half century of Athabasca oil sands development recorded by lake ecosystems</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume>110</volume>, <fpage>1761</fpage>–<lpage>1766</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1217675110</pub-id><?supplied-pmid 23297215?><pub-id pub-id-type="pmid">23297215</pub-id></mixed-citation>
+      </ref>
+      <ref id="B29">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lambers</surname><given-names>H.</given-names></name><name><surname>Mougel</surname><given-names>C.</given-names></name><name><surname>Jaillard</surname><given-names>B.</given-names></name><name><surname>Hinsinger</surname><given-names>P.</given-names></name></person-group> (<year>2009</year>). <article-title>Plant-microbe-soil interactions in the rhizosphere: an evolutionary perspective</article-title>. <source>Plant Soil</source>
+<volume>321</volume>, <fpage>83</fpage>–<lpage>115</lpage>. <pub-id pub-id-type="doi">10.1007/s11104-009-0042-x</pub-id></mixed-citation>
+      </ref>
+      <ref id="B30">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Larsen</surname><given-names>P. E.</given-names></name><name><surname>Collart</surname><given-names>F. R.</given-names></name><name><surname>Dai</surname><given-names>Y.</given-names></name></person-group> (<year>2015</year>). <article-title>Predicting ecological roles in the rhizosphere using metabolome and transportome modeling</article-title>. <source>PLoS ONE</source>
+<volume>10</volume>:<fpage>e0132837</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pone.0132837</pub-id><?supplied-pmid 26332409?><pub-id pub-id-type="pmid">26332409</pub-id></mixed-citation>
+      </ref>
+      <ref id="B31">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lastra</surname><given-names>O. C.</given-names></name></person-group> (<year>2003</year>). <article-title>Derivative spectrophotometric determination of nitrate in plant tissue</article-title>. <source>J. AOAC Int.</source>
+<volume>86</volume>, <fpage>1101</fpage>–<lpage>1105</lpage>. <?supplied-pmid 14979689?><pub-id pub-id-type="pmid">14979689</pub-id></mixed-citation>
+      </ref>
+      <ref id="B32">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lippincott</surname><given-names>J. A.</given-names></name><name><surname>Lippincott</surname><given-names>B. B.</given-names></name></person-group> (<year>1970</year>). <article-title>Lysopine and octopine promote crown-gall tumor growth <italic>in vivo</italic></article-title>. <source>Science</source>
+<volume>170</volume>, <fpage>176</fpage>–<lpage>177</lpage>. <pub-id pub-id-type="doi">10.1126/science.170.3954.176</pub-id><?supplied-pmid 17833501?><pub-id pub-id-type="pmid">17833501</pub-id></mixed-citation>
+      </ref>
+      <ref id="B33">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Loper</surname><given-names>J. E.</given-names></name><name><surname>Hassan</surname><given-names>K. A.</given-names></name><name><surname>Mavrodi</surname><given-names>D. V.</given-names></name><name><surname>Davis</surname><given-names>E. W.</given-names></name><name><surname>Lim</surname><given-names>C. K.</given-names></name><name><surname>Shaffer</surname><given-names>B. T.</given-names></name><etal/></person-group>. (<year>2012</year>). <article-title>Comparative genomics of plant-associated <italic>Pseudomonas</italic> spp.: insights into diversity and inheritance of traits involved in multitrophic interactions</article-title>. <source>PLoS Genet.</source>
+<volume>8</volume>:<fpage>e1002784</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pgen.1002784</pub-id><?supplied-pmid 22792073?><pub-id pub-id-type="pmid">22792073</pub-id></mixed-citation>
+      </ref>
+      <ref id="B34">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Majeed</surname><given-names>A.</given-names></name><name><surname>Abbasi</surname><given-names>M. K.</given-names></name><name><surname>Hameed</surname><given-names>S.</given-names></name><name><surname>Imran</surname><given-names>A.</given-names></name><name><surname>Rahim</surname><given-names>N.</given-names></name></person-group> (<year>2015</year>). <article-title>Isolation and characterization of plant growth-promoting rhizobacteria from wheat rhizosphere and their effect on plant growth promotion</article-title>. <source>Front. Microbiol.</source>
+<volume>6</volume>:<fpage>198</fpage>. <pub-id pub-id-type="doi">10.3389/fmicb.2015.00198</pub-id><?supplied-pmid 25852661?><pub-id pub-id-type="pmid">25852661</pub-id></mixed-citation>
+      </ref>
+      <ref id="B35">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Martin</surname><given-names>M.</given-names></name><name><surname>Celi</surname><given-names>L.</given-names></name><name><surname>Barberis</surname><given-names>E.</given-names></name></person-group> (<year>1999</year>). <article-title>Determination of low concentrations of organic phosphorus in soil solution</article-title>. <source>Commun. Soil Sci. Plant Anal.</source>
+<volume>30</volume>, <fpage>1909</fpage>–<lpage>1917</lpage>. <pub-id pub-id-type="doi">10.1080/00103629909370341</pub-id></mixed-citation>
+      </ref>
+      <ref id="B36">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mohamed</surname><given-names>Y. A. H.</given-names></name><name><surname>Eldin</surname><given-names>A. S.</given-names></name><name><surname>Foda</surname><given-names>E. S.</given-names></name></person-group> (<year>1989</year>). <article-title>Role of nicotinamide and salicylaldehyde on some growth-parameters in wheat</article-title>. <source>Phyton-Annal. Botan.</source>
+<volume>29</volume>, <fpage>33</fpage>–<lpage>40</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B37">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Morgan</surname><given-names>J. A.</given-names></name><name><surname>Bending</surname><given-names>G. D.</given-names></name><name><surname>White</surname><given-names>P. J.</given-names></name></person-group> (<year>2005</year>). <article-title>Biological costs and benefits to plant-microbe interactions in the rhizosphere</article-title>. <source>J. Exp. Bot.</source>
+<volume>56</volume>, <fpage>1729</fpage>–<lpage>1739</lpage>. <pub-id pub-id-type="doi">10.1093/jxb/eri205</pub-id><?supplied-pmid 15911554?><pub-id pub-id-type="pmid">15911554</pub-id></mixed-citation>
+      </ref>
+      <ref id="B38">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Morgan</surname><given-names>J. L.</given-names></name><name><surname>Darling</surname><given-names>A. E.</given-names></name><name><surname>Eisen</surname><given-names>J. A.</given-names></name></person-group> (<year>2010</year>). <article-title>Metagenomic sequencing of an <italic>in vitro</italic>-simulated microbial community</article-title>. <source>PLoS ONE</source>
+<volume>5</volume>:<fpage>e10209</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pone.0010209</pub-id><?supplied-pmid 20419134?><pub-id pub-id-type="pmid">20419134</pub-id></mixed-citation>
+      </ref>
+      <ref id="B39">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Neff</surname><given-names>M. M.</given-names></name><name><surname>Chory</surname><given-names>J.</given-names></name></person-group> (<year>1998</year>). <article-title>Genetic interactions between phytochrome A, phytochrome B, and cryptochrome 1 during Arabidopsis development</article-title>. <source>Plant Physiol.</source>
+<volume>118</volume>, <fpage>27</fpage>–<lpage>36</lpage>. <pub-id pub-id-type="doi">10.1104/pp.118.1.27</pub-id><?supplied-pmid 9733523?><pub-id pub-id-type="pmid">9733523</pub-id></mixed-citation>
+      </ref>
+      <ref id="B40">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Northcote</surname><given-names>D. H.</given-names></name><name><surname>Gould</surname><given-names>J.</given-names></name></person-group> (<year>1989</year>). <article-title>The mucilage secreted by roots and its possible role in cell-cell recognition for the adhesion of fungal pathogens to root surfaces of <italic>Zea mays</italic> L</article-title>. <source>Symp. Soc. Exp. Biol.</source>
+<volume>43</volume>, <fpage>429</fpage>–<lpage>447</lpage>. <?supplied-pmid 2641413?><pub-id pub-id-type="pmid">2641413</pub-id></mixed-citation>
+      </ref>
+      <ref id="B41">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nurnberger</surname><given-names>T.</given-names></name><name><surname>Brunner</surname><given-names>F.</given-names></name></person-group> (<year>2002</year>). <article-title>Innate immunity in plants and animals: emerging parallels between the recognition of general elicitors and pathogen-associated molecular patterns</article-title>. <source>Curr. Opin. Plant Biol.</source>
+<volume>5</volume>, <fpage>318</fpage>–<lpage>324</lpage>. <pub-id pub-id-type="doi">10.1016/S1369-5266(02)00265-0</pub-id><?supplied-pmid 12179965?><pub-id pub-id-type="pmid">12179965</pub-id></mixed-citation>
+      </ref>
+      <ref id="B42">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pastor</surname><given-names>N.</given-names></name><name><surname>Rosas</surname><given-names>S.</given-names></name><name><surname>Luna</surname><given-names>V.</given-names></name><name><surname>Rovera</surname><given-names>M.</given-names></name></person-group> (<year>2014</year>). <article-title>Inoculation with <italic>Pseudomonas putida</italic> PCI2, a phosphate solubilizing rhizobacterium, stimulates the growth of tomato plants</article-title>. <source>Symbiosis</source>
+<volume>62</volume>, <fpage>157</fpage>–<lpage>167</lpage>. <pub-id pub-id-type="doi">10.1007/s13199-014-0281-3</pub-id></mixed-citation>
+      </ref>
+      <ref id="B43">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Paulsen</surname><given-names>I. T.</given-names></name><name><surname>Press</surname><given-names>C. M.</given-names></name><name><surname>Ravel</surname><given-names>J.</given-names></name><name><surname>Kobayashi</surname><given-names>D. Y.</given-names></name><name><surname>Myers</surname><given-names>G. S.</given-names></name><name><surname>Mavrodi</surname><given-names>D. V.</given-names></name><etal/></person-group>. (<year>2005</year>). <article-title>Complete genome sequence of the plant commensal <italic>Pseudomonas fluorescens</italic> Pf-5</article-title>. <source>Nat. Biotechnol.</source>
+<volume>23</volume>, <fpage>873</fpage>–<lpage>878</lpage>. <pub-id pub-id-type="doi">10.1038/nbt1110</pub-id><?supplied-pmid 15980861?><pub-id pub-id-type="pmid">15980861</pub-id></mixed-citation>
+      </ref>
+      <ref id="B44">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Porra</surname><given-names>R. J.</given-names></name><name><surname>Thompson</surname><given-names>W. A.</given-names></name><name><surname>Kriedemann</surname><given-names>P. E.</given-names></name></person-group> (<year>1989</year>). <article-title>Determination of accurate extinction coefficients and simultaneous equations for assaying chlorophylls a and b extracted with four different solvents: verification of the concentration of chlorophyll standards by atomic absorption spectroscopy</article-title>. <source>Biochim. Biophys. Acta</source>
+<volume>975</volume>, <fpage>384</fpage>–<lpage>394</lpage>. <pub-id pub-id-type="doi">10.1016/S0005-2728(89)80347-0</pub-id></mixed-citation>
+      </ref>
+      <ref id="B45">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Preston</surname><given-names>G. M.</given-names></name><name><surname>Bertrand</surname><given-names>N.</given-names></name><name><surname>Rainey</surname><given-names>P. B.</given-names></name></person-group> (<year>2001</year>). <article-title>Type III secretion in plant growth-promoting <italic>Pseudomonas fluorescens</italic> SBW25</article-title>. <source>Mol. Microbiol.</source>
+<volume>41</volume>, <fpage>999</fpage>–<lpage>1014</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2958.2001.02560.x</pub-id><?supplied-pmid 11555282?><pub-id pub-id-type="pmid">11555282</pub-id></mixed-citation>
+      </ref>
+      <ref id="B46">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rady</surname><given-names>M. M.</given-names></name><name><surname>Taha</surname><given-names>R. S.</given-names></name><name><surname>Mandi</surname><given-names>A. H. A.</given-names></name></person-group> (<year>2016</year>). <article-title>Proline enhances growth, productivity and anatomy of two varieties of <italic>Lupinus termis</italic> L. grown under salt stress</article-title>. <source>South Afr. J. Bot.</source>
+<volume>102</volume>, <fpage>221</fpage>–<lpage>227</lpage>. <pub-id pub-id-type="doi">10.1016/j.sajb.2015.07.007</pub-id></mixed-citation>
+      </ref>
+      <ref id="B47">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Reich</surname><given-names>P. B.</given-names></name><name><surname>Oleksyn</surname><given-names>J.</given-names></name><name><surname>Wright</surname><given-names>I. J.</given-names></name></person-group> (<year>2009</year>). <article-title>Leaf phosphorus influences the photosynthesis-nitrogen relation: a cross-biome analysis of 314 species</article-title>. <source>Oecologia</source>
+<volume>160</volume>, <fpage>207</fpage>–<lpage>212</lpage>. <pub-id pub-id-type="doi">10.1007/s00442-009-1291-3</pub-id><?supplied-pmid 19212782?><pub-id pub-id-type="pmid">19212782</pub-id></mixed-citation>
+      </ref>
+      <ref id="B48">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Reitz</surname><given-names>M.</given-names></name><name><surname>Rudolph</surname><given-names>K.</given-names></name><name><surname>Schroder</surname><given-names>I.</given-names></name><name><surname>Hoffmann-Hergarten</surname><given-names>S.</given-names></name><name><surname>Hallmann</surname><given-names>J.</given-names></name><name><surname>Sikora</surname><given-names>R. A.</given-names></name></person-group> (<year>2000</year>). <article-title>Lipopolysaccharides of Rhizobium etli strain G12 act in potao roots as an inducing agent of systemic resistance to infection by the cyst nematode <italic>Globodera pallida</italic></article-title>. <source>Appl. Environ. Microbiol.</source>
+<volume>66</volume>, <fpage>3515</fpage>–<lpage>3518</lpage>. <pub-id pub-id-type="doi">10.1128/AEM.66.8.3515-3518.2000</pub-id><?supplied-pmid 10919815?><pub-id pub-id-type="pmid">10919815</pub-id></mixed-citation>
+      </ref>
+      <ref id="B49">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Roberts</surname><given-names>R. M.</given-names></name></person-group> (<year>1970</year>). <article-title>The incorporation of D-glucosamine-14C into root tissues of higher plants</article-title>. <source>Plant Physiol.</source>
+<volume>45</volume>, <fpage>263</fpage>–<lpage>267</lpage>. <pub-id pub-id-type="doi">10.1104/pp.45.3.263</pub-id><?supplied-pmid 4246459?><pub-id pub-id-type="pmid">4246459</pub-id></mixed-citation>
+      </ref>
+      <ref id="B50">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rodriguez</surname><given-names>H.</given-names></name><name><surname>Fraga</surname><given-names>R.</given-names></name></person-group> (<year>1999</year>). <article-title>Phosphate solubilizing bacteria and their role in plant growth promotion</article-title>. <source>Biotechnol. Adv.</source>
+<volume>17</volume>, <fpage>319</fpage>–<lpage>339</lpage>. <pub-id pub-id-type="doi">10.1016/S0734-9750(99)00014-2</pub-id><?supplied-pmid 14538133?><pub-id pub-id-type="pmid">14538133</pub-id></mixed-citation>
+      </ref>
+      <ref id="B51">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rojas-Tapias</surname><given-names>D.</given-names></name><name><surname>Moreno-Galvan</surname><given-names>A.</given-names></name><name><surname>Pardo-Diaz</surname><given-names>S.</given-names></name><name><surname>Obando</surname><given-names>M.</given-names></name><name><surname>Rivera</surname><given-names>D.</given-names></name><name><surname>Bonilla</surname><given-names>R.</given-names></name></person-group> (<year>2012</year>). <article-title>Effect of inoculation with plant growth-promoting bacteria (PGPB) on amelioration of saline stress in maize (<italic>Zea mays</italic>)</article-title>. <source>Appl. Soil Ecol.</source>
+<volume>61</volume>, <fpage>264</fpage>–<lpage>272</lpage>. <pub-id pub-id-type="doi">10.1016/j.apsoil.2012.01.006</pub-id></mixed-citation>
+      </ref>
+      <ref id="B52">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Roy</surname><given-names>S. S.</given-names></name><name><surname>Mittra</surname><given-names>B.</given-names></name><name><surname>Sharma</surname><given-names>S.</given-names></name><name><surname>Das</surname><given-names>T. K.</given-names></name><name><surname>Babu</surname><given-names>C. R.</given-names></name></person-group> (<year>2002</year>). <article-title>Detection of root mucilage using an anti-fucose antibody</article-title>. <source>Ann. Bot.</source>
+<volume>89</volume>, <fpage>293</fpage>–<lpage>299</lpage>. <pub-id pub-id-type="doi">10.1093/aob/mcf040</pub-id><?supplied-pmid 12096741?><pub-id pub-id-type="pmid">12096741</pub-id></mixed-citation>
+      </ref>
+      <ref id="B53">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Salazar-Henao</surname><given-names>J. E.</given-names></name><name><surname>Velez-Bermudez</surname><given-names>I. C.</given-names></name><name><surname>Schmidt</surname><given-names>W.</given-names></name></person-group> (<year>2016</year>). <article-title>The regulation and plasticity of root hair patterning and morphogenesis</article-title>. <source>Development</source>
+<volume>143</volume>, <fpage>1848</fpage>–<lpage>1858</lpage>. <pub-id pub-id-type="doi">10.1242/dev.132845</pub-id><?supplied-pmid 27246711?><pub-id pub-id-type="pmid">27246711</pub-id></mixed-citation>
+      </ref>
+      <ref id="B54">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Santhanam</surname><given-names>P.</given-names></name><name><surname>Boshoven</surname><given-names>J. C.</given-names></name><name><surname>Salas</surname><given-names>O.</given-names></name><name><surname>Bowler</surname><given-names>K.</given-names></name><name><surname>Islam</surname><given-names>T.</given-names></name><name><surname>Keykha Saber</surname><given-names>M. G. C.</given-names></name><etal/></person-group>. (<year>2016</year>). <article-title>Rhamnose synthase activity is required for pathogenicity of the vascular wilt fungus <italic>Verticillium dahliae</italic></article-title>. <source>Mol. Plant Pathol.</source>
+<volume>18</volume>, <fpage>347</fpage>–<lpage>362</lpage>. <pub-id pub-id-type="doi">10.1111/mpp.12401</pub-id><?supplied-pmid 26996832?><pub-id pub-id-type="pmid">26996832</pub-id></mixed-citation>
+      </ref>
+      <ref id="B55">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shen</surname><given-names>M.</given-names></name><name><surname>Jun Kang</surname><given-names>Y.</given-names></name><name><surname>Li Wang</surname><given-names>H.</given-names></name><name><surname>Sheng Zhang</surname><given-names>X.</given-names></name><name><surname>Xin Zhao</surname><given-names>Q.</given-names></name></person-group> (<year>2012</year>). <article-title>Effect of plant growth-promoting rhizobacteria (PGPRs) on plant growth, yield, and quality of tomato (Lycopersicon esculentum Mill.) under simulated seawater irrigation</article-title>. <source>J. Gen. Appl. Microbiol.</source>
+<volume>58</volume>, <fpage>253</fpage>–<lpage>262</lpage>. <pub-id pub-id-type="doi">10.2323/jgam.58.253</pub-id><?supplied-pmid 22990485?><pub-id pub-id-type="pmid">22990485</pub-id></mixed-citation>
+      </ref>
+      <ref id="B56">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Silby</surname><given-names>M. W.</given-names></name><name><surname>Cerdeno-Tarraga</surname><given-names>A. M.</given-names></name><name><surname>Vernikos</surname><given-names>G. S.</given-names></name><name><surname>Giddens</surname><given-names>S. R.</given-names></name><name><surname>Jackson</surname><given-names>R. W.</given-names></name><name><surname>Preston</surname><given-names>G. M.</given-names></name><etal/></person-group>. (<year>2009</year>). <article-title>Genomic and genetic analyses of diversity and plant interactions of <italic>Pseudomonas fluorescens</italic></article-title>. <source>Genome Biol.</source>
+<volume>10</volume>:<fpage>R51</fpage>. <pub-id pub-id-type="doi">10.1186/gb-2009-10-5-r51</pub-id><?supplied-pmid 19432983?><pub-id pub-id-type="pmid">19432983</pub-id></mixed-citation>
+      </ref>
+      <ref id="B57">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Song</surname><given-names>C. X.</given-names></name><name><surname>Aundy</surname><given-names>K. J.</given-names></name><name><surname>van de Mortel</surname></name><name><surname>Raaijmakers</surname><given-names>J. M.</given-names></name></person-group> (<year>2014</year>). <article-title>Discovery of new regulatory genes of lipopeptide biosynthesis in <italic>Pseudomonas fluorescens</italic></article-title>. <source>FEMS Microbiol. Lett.</source>
+<volume>356</volume>, <fpage>166</fpage>–<lpage>175</lpage>. <pub-id pub-id-type="doi">10.1111/1574-6968.12404</pub-id><?supplied-pmid 25202778?><pub-id pub-id-type="pmid">25202778</pub-id></mixed-citation>
+      </ref>
+      <ref id="B58">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>St. Clair</surname><given-names>S. B.</given-names></name><name><surname>Sudderth</surname><given-names>E. A.</given-names></name><name><surname>Fischer</surname><given-names>M. L.</given-names></name><name><surname>Torn</surname><given-names>M. S.</given-names></name><name><surname>Stuart</surname><given-names>S. A.</given-names></name><name><surname>Salve</surname><given-names>R.</given-names></name><etal/></person-group> (<year>2009</year>). <article-title>Soil drying and nitrogen availability modulate carbon and water exchange over a range of annual precipitation totals and grassland vegetation types</article-title>. <source>Glob. Chang. Biol.</source>
+<volume>15</volume>, <fpage>3018</fpage>–<lpage>3030</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2486.2009.01862.x</pub-id></mixed-citation>
+      </ref>
+      <ref id="B59">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Stevenson</surname><given-names>C. C.</given-names></name><name><surname>Harrington</surname><given-names>G. N.</given-names></name></person-group> (<year>2009</year>). <article-title>The impact of supplemental carbon sources on <italic>Arabidopsis thaliana</italic> growth, chlorophyll content and anthocyanin accumulation</article-title>. <source>Plant Growth Regul.</source>
+<volume>59</volume>, <fpage>255</fpage>–<lpage>271</lpage>. <pub-id pub-id-type="doi">10.1007/s10725-009-9412-x</pub-id></mixed-citation>
+      </ref>
+      <ref id="B60">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Takeuchi</surname><given-names>S.</given-names></name><name><surname>Kono</surname><given-names>Y.</given-names></name><name><surname>Kawarada</surname><given-names>A.</given-names></name><name><surname>Ota</surname><given-names>Y.</given-names></name><name><surname>Nakayama</surname><given-names>M.</given-names></name></person-group> (<year>1975</year>). <article-title>Nicotinamide as a plant-growth regulator isolated from rice hulls</article-title>. <source>Agric. Biol. Chem.</source>
+<volume>39</volume>, <fpage>859</fpage>–<lpage>861</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B61">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tian</surname><given-names>F.</given-names></name><name><surname>Ding</surname><given-names>Y. Q.</given-names></name><name><surname>Zhu</surname><given-names>H.</given-names></name><name><surname>Yao</surname><given-names>L. T.</given-names></name><name><surname>Du</surname><given-names>B. H.</given-names></name></person-group> (<year>2009</year>). <article-title>Genetic diversity of siderophore-producing bacteria of tobacco rhizosphere</article-title>. <source>Braz. J. Microbiol.</source>
+<volume>40</volume>, <fpage>276</fpage>–<lpage>284</lpage>. <pub-id pub-id-type="doi">10.1590/S1517-83822009000200013</pub-id><?supplied-pmid 24031358?><pub-id pub-id-type="pmid">24031358</pub-id></mixed-citation>
+      </ref>
+      <ref id="B62">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Walch-Liu</surname><given-names>P.</given-names></name><name><surname>Forde</surname><given-names>B. G.</given-names></name></person-group> (<year>2007</year>). <article-title>L-glutamate as a novel modifier of root growth and branching: what's the sensor?</article-title>
+<source>Plant Signal. Behav.</source>
+<volume>2</volume>, <fpage>284</fpage>–<lpage>286</lpage>. <pub-id pub-id-type="doi">10.4161/psb.2.4.4016</pub-id><?supplied-pmid 19704683?><pub-id pub-id-type="pmid">19704683</pub-id></mixed-citation>
+      </ref>
+      <ref id="B63">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Walker</surname><given-names>T. S.</given-names></name><name><surname>Bais</surname><given-names>H. P.</given-names></name><name><surname>Grotewold</surname><given-names>E.</given-names></name><name><surname>Vivanco</surname><given-names>J. M.</given-names></name></person-group> (<year>2003</year>). <article-title>Root exudation and rhizosphere biology</article-title>. <source>Plant Physiol.</source>
+<volume>132</volume>, <fpage>44</fpage>–<lpage>51</lpage>. <pub-id pub-id-type="doi">10.1104/pp.102.019661</pub-id><?supplied-pmid 12746510?><pub-id pub-id-type="pmid">12746510</pub-id></mixed-citation>
+      </ref>
+      <ref id="B64">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhao</surname><given-names>Y. D.</given-names></name></person-group> (<year>2012</year>). <article-title>Auxin biosynthesis: a simple two-step pathway converts tryptophan to indole-3-acetic acid in plants</article-title>. <source>Mol. Plant</source>
+<volume>5</volume>, <fpage>334</fpage>–<lpage>338</lpage>. <pub-id pub-id-type="doi">10.1093/mp/ssr104</pub-id><?supplied-pmid 22155950?><pub-id pub-id-type="pmid">22155950</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+    <glossary>
+      <def-list>
+        <title>Abbreviations</title>
+        <def-item>
+          <term>CBD</term>
+          <def>
+            <p>Cumulative Binomial Distribution</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>Chl</term>
+          <def>
+            <p>Chlorophyll</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>DW</term>
+          <def>
+            <p>Dry Weight</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>EC</term>
+          <def>
+            <p>Enzyme Commission</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>GO</term>
+          <def>
+            <p>Gene Ontology</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>HCL</term>
+          <def>
+            <p>Hierarchical Clustering</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>KEGG</term>
+          <def>
+            <p>Kyoto Encyclopedia of Genes and Genomes</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>KO</term>
+          <def>
+            <p>KEGG Ontology</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>N</term>
+          <def>
+            <p>Nitrogen</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>OUT</term>
+          <def>
+            <p>Operational Taxonomic Unit</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>P</term>
+          <def>
+            <p>Phosphorus</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>PCA</term>
+          <def>
+            <p>Principal Component Analysis</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>PGP</term>
+          <def>
+            <p>Plant Growth Promotion</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>PRTT</term>
+          <def>
+            <p>Predicted Relative Transmembrane Transport.</p>
+          </def>
+        </def-item>
+      </def-list>
+    </glossary>
+  </back>
+</article>
+
+</metadata></record>

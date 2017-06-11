@@ -1,0 +1,1689 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5359367</identifier><datestamp>2017-04-04</datestamp><setSpec>springeropen</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="review-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Neuropsychol Rev</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Neuropsychol Rev</journal-id>
+      <journal-title-group>
+        <journal-title>Neuropsychology Review</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1040-7308</issn>
+      <issn pub-type="epub">1573-6660</issn>
+      <publisher>
+        <publisher-name>Springer US</publisher-name>
+        <publisher-loc>New York</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5359367</article-id>
+      <article-id pub-id-type="pmcid">PMC5359367</article-id>
+      <article-id pub-id-type="pmc-uid">5359367</article-id>
+      <article-id pub-id-type="pmid">28289920</article-id>
+      <article-id pub-id-type="publisher-id">9341</article-id>
+      <article-id pub-id-type="doi">10.1007/s11065-017-9341-9</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Review</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Early Presentation of Dementia in People with Down Syndrome: a Systematic Review of Longitudinal Studies</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" corresp="yes">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-7680-8936</contrib-id>
+          <name>
+            <surname>Lautarescu</surname>
+            <given-names>Bianca Alexandra</given-names>
+          </name>
+          <address>
+            <phone>07557224284</phone>
+            <email>a.lautarescu@cantab.net</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Holland</surname>
+            <given-names>Anthony John</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zaman</surname>
+            <given-names>Shahid H.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1"/>
+        </contrib>
+        <aff id="Aff1"><institution-wrap><institution-id institution-id-type="ISNI">0000000121885934</institution-id><institution-id institution-id-type="GRID">grid.5335.0</institution-id><institution>Cambridge Intellectual and Developmental Disabilities Research Group, Department of Psychiatry, </institution><institution>University of Cambridge, </institution></institution-wrap>Douglas House, Trumpington Road, Cambridge, CB2 8AH UK </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>3</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>13</day>
+        <month>3</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <year>2017</year>
+      </pub-date>
+      <volume>27</volume>
+      <issue>1</issue>
+      <fpage>31</fpage>
+      <lpage>45</lpage>
+      <history>
+        <date date-type="received">
+          <day>8</day>
+          <month>4</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>27</day>
+          <month>1</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© The Author(s) 2017</copyright-statement>
+        <license license-type="OpenAccess">
+          <license-p>
+<bold>Open Access</bold> This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.</license-p>
+        </license>
+      </permissions>
+      <abstract id="Abs1">
+        <p>Adults with Down syndrome (DS) are at a very high risk of developing early onset Alzheimer’s disease (AD) due to trisomy of chromosome 21. AD is preceded by a prolonged prodromal “pre-clinical” phase presenting with clinical features that do not fulfil the diagnostic criteria for AD. It is important to clinically characterise this prodromal stage to help early detection of the disease as neuropathology of AD is almost universal by the fifth decade in DS. There is a lack of knowledge of the trajectory of decline associated with the onset of dementia in this population and early signs may be overlooked or misdiagnosed, negatively affecting the quality of life of those affected and the use of early pharmacological or psychosocial interventions. The objective of this systematic review is to evaluate the published literature on longitudinal data in order to identify the cognitive and behavioural changes occurring during the prodromal and early stages of AD in this population. Fifteen peer-reviewed articles met the inclusion criteria, including a total number of 831 participants, with the duration between baseline and follow up varying from 1 year to 47 years. Results suggest that, compared to the general population for which short-term (episodic) memory loss is the most common indicator associated with the onset of AD, in people with DS, executive dysfunction and Behavioural and Psychological Symptoms of Dementia (BPSD) are commonly observed during pre-clinical and early stages and may precede memory loss. The review highlights the importance of using a broad spectrum of assessments in the context of heterogeneity of symptoms. Theoretical and practical implications are discussed, as well as the need for further research.</p>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <title>Keywords</title>
+        <kwd>Down syndrome</kwd>
+        <kwd>Alzheimer’s disease</kwd>
+        <kwd>Dementia</kwd>
+        <kwd>Ageing</kwd>
+        <kwd>Systematic review</kwd>
+        <kwd>Longitudinal</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution>University of Cambridge</institution>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>issue-copyright-statement</meta-name>
+          <meta-value>© Springer Science+Business Media New York 2017</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="Sec1">
+      <title>Background</title>
+      <p>Alzheimer’s disease (AD) is a neurodegenerative disorder characterized histopathologically by neuronal death, neuritic plaques and neurofibrillary tangles and clinically by a progressive and irreversible deterioration in cognition and behaviour (McKhann et al. <xref ref-type="bibr" rid="CR50">2011</xref>). The greatest prevalence of early onset AD is found in individuals with Down Syndrome (DS), with symptoms appearing before the age of 65 (Hartley et al. <xref ref-type="bibr" rid="CR31">2014</xref>) and approximately three-quarters of people with DS over 60 showing clinical evidence of dementia (Lai and Williams <xref ref-type="bibr" rid="CR43">1989</xref>). As the life expectancy of people with DS has increased from an estimated mean of 12 years in 1940, to over 60 years now (Bittles and Glasson <xref ref-type="bibr" rid="CR11">2004</xref>), the focus of research and of clinical services now includes adulthood and later life.</p>
+      <p>The later stages of AD in people with DS have been documented and are reportedly similar to symptoms exhibited by people with AD in the general population (Strydom et al. <xref ref-type="bibr" rid="CR66">2010</xref>). However, limited information is available with regards to cognitive and behavioural changes prior to diagnosis or during the very early stages (Adams and Oliver <xref ref-type="bibr" rid="CR2">2010</xref>). While in the general population the prodromic stage of AD is characterized by impairments in episodic memory, a number of qualitative studies involving people with DS have suggested that the progression of AD in people with DS (DSAD) might be more similar to dementia of the frontal type in the typically developing population, with Behavioural and Psychological Symptoms of Dementia (BPSD) and impairment of executive functions (i.e. goal directed behaviours such as planning, attention, judgement etc.) preceding memory impairments (Deb et al. <xref ref-type="bibr" rid="CR18">2007</xref>).</p>
+      <p>Previous research has also indicated that carers often lack basic knowledge regarding the risk for dementia in this population and are not aware of the symptoms that they should be vigilant for in ageing individuals (Bittles and Glasson <xref ref-type="bibr" rid="CR11">2004</xref>). The present paper aims to address this gap in the literature and we report findings from a systematic review of the trajectory of changes that accompany the onset of dementia in this population (i.e. before the formal diagnostic criteria of AD are fulfilled). If there is evidence for an atypical presentation of dementia, such as BPSD and executive dysfunction preceding the development of sufficient symptoms to meet the diagnostic criteria of dementia, this might partially account for the discrepancy between the almost universal presence of neuropathology from age 40 years onwards and the lower (than expected) prevalence rates for clinically diagnosed dementia (Ball et al. <xref ref-type="bibr" rid="CR6">2006</xref>) given the prevalence rate of neuropathology. Identifying symptoms that characterize pre-clinical and early AD in people with DS is necessary before further research and clinical interventions, which link findings from neuropathology, putative biomarkers or neuroimaging (Annus et al. <xref ref-type="bibr" rid="CR4">2015</xref>) with cognitive features, can be undertaken. Lastly, as new pharmaceutical therapies are developed it is necessary to have reliable measures of performance in all relevant outcome domains so that effectiveness of treatments can be evaluated.</p>
+    </sec>
+    <sec id="Sec2">
+      <title>Methods</title>
+      <p>A systematic review was undertaken following the guidelines provided by PRISMA (i.e. Preferred Reporting Items for Systematic Reviews and Meta-Analyses: <ext-link ext-link-type="uri" xlink:href="http://www.prisma-statement.org/">http://www.prisma-statement.org/</ext-link>) and the Cochrane Collaboration (<ext-link ext-link-type="uri" xlink:href="http://www.cochrane.org/">http://www.cochrane.org/</ext-link>). Potentially relevant studies were identified through searches in citation indexing databases: PubMed (Medline) and PsycInfo, as it has been suggested that they provide broad coverage of biomedical publications worldwide (Suarez-Almazor et al. <xref ref-type="bibr" rid="CR67">2000</xref>). Within the electronic database, the search was limited to peer-reviewed journals published between 2000 and 21.01.2015 and included the following terms ((“Down syndrome”[Title/Abstract] OR “Down”s syndrome”[Title/Abstract])) AND (“Alzheimer”[Title/Abstract] OR “Alzheimer”s”[Title/Abstract] OR “dementia”[Title/Abstract]). The search delivered 1267 results and reference lists of selected papers were also searched for potentially relevant studies (Fig. <xref rid="Fig1" ref-type="fig">1</xref>).<fig id="Fig1"><label>Fig. 1</label><caption><p>Flow chart showing the process of selecting studies to be included in systematic review</p></caption><graphic xlink:href="11065_2017_9341_Fig1_HTML" id="MO1"/></fig>
+</p>
+      <p>Titles and abstracts, and then full text articles were reviewed to identify and exclude studies that did not satisfy the previously established criteria: (a) empirical papers, (b) <italic>n</italic> &gt; 1 (c) specified diagnosis of DS, and (d) specific reference to the clinical presentation of early stages of DSAD. Longitudinal studies were chosen as this type of study overcomes the issue of cohort effects and allows a better understanding of the dynamic process of cognitive and behavioural change. To minimize bias, the first author discussed the eligibility and validity of included studies with another member of the research team (AJH), solving any disagreement by consensus.</p>
+      <p>Moreover, as authors of the included studies have used a large variety of terms to refer to the same concept (i.e. “personality changes”, “behavioural change”, “behavioural excesses and deficits”, “maladaptive behaviour”), we will be using the umbrella term Behavioural and Psychological Symptoms of Dementia (BPSD) in order to enhance the overall consistency of the paper.</p>
+    </sec>
+    <sec id="Sec3">
+      <title>Results</title>
+      <p>In total, 15 papers reporting on 15 longitudinal studies were selected for data extraction and analysis. Data was collected following guidelines set by the Cochrane Collaboration, with the following variables being extracted: study length, participant number and age at each assessment (mean and standard deviation, if recorded), dementia diagnosis, assessment measures and reported progression of symptoms. In cases where the longitudinal aspect was part of a larger cross-sectional study, data were included only from participants for which at least 2 data points were available. Summary statistics (mean ages and percentages) were calculated where they were not explicitly stated by authors. The duration between baseline and follow up varied from 1 year to 47 years and included a total of 831 participants.</p>
+      <p>A brief analysis of bias was conducted on the included studies by examining the degree to which the sampling frame is representative of the general population and whether the assessment tools have been validated, as well as the response proportion at both baseline and follow up, with minimal risks of bias being identified by the authors. Table <xref rid="Tab1" ref-type="table">1</xref> uses Crombie’s Items (Zeng et al. <xref ref-type="bibr" rid="CR76">2015</xref>) and the reporting format suggested by the Cochrane Collaboration in order to identify possible areas of bias.<table-wrap id="Tab1"><label>Table 1</label><caption><p>Risk of bias</p></caption><table frame="hsides" rules="groups"><thead><tr><th/><th>Appropriateness of design to meet the aims</th><th>Adequate description of the data</th><th>Report the response rates</th><th>Adequate representativeness of the sample to total</th><th>Clearly stated aims and likelihood of reliable and valid measurements</th><th>Assessment of statistical significance</th><th>Adequate description of statistical methods</th><th>Comment</th></tr></thead><tbody><tr><td>Ball et al. <xref ref-type="bibr" rid="CR6">2006</xref>
+</td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td/></tr><tr><td>Adams &amp; Oliver <xref ref-type="bibr" rid="CR2">2010</xref>
+</td><td> + </td><td> ? </td><td> + </td><td> + </td><td> + </td><td> + </td><td> + </td><td>Insufficient information on diagnosis rates at T1</td></tr><tr><td>Kitler et al. <xref ref-type="bibr" rid="CR38">2006</xref>
+</td><td> + </td><td> + </td><td> + </td><td> + </td><td>+</td><td>+</td><td>+</td><td/></tr><tr><td>Temple et al. <xref ref-type="bibr" rid="CR68">2001</xref>
+</td><td>+</td><td>?</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>Insufficient information on diagnostic rates at T1</td></tr><tr><td>Carr and Collins <xref ref-type="bibr" rid="CR16">2014</xref>
+</td><td>?</td><td>+</td><td>+</td><td>−</td><td>+</td><td>+</td><td>+</td><td>Insufficient details on diagnostic procedure. All female sample</td></tr><tr><td>Cosgrave et al. <xref ref-type="bibr" rid="CR17">2000</xref>
+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td/></tr><tr><td>Krinsky-McHale et al. <xref ref-type="bibr" rid="CR41">2002</xref>
+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td/></tr><tr><td>Nelson et al. <xref ref-type="bibr" rid="CR54">2007</xref>
+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td/></tr><tr><td>Margallo-Lana et al. <xref ref-type="bibr" rid="CR48">2007</xref>
+</td><td>−</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>Different screening procedures used based on availability of information &amp; level of ID</td></tr><tr><td>McCarron et al.<xref ref-type="bibr" rid="CR49">2014</xref>
+</td><td>+</td><td>?</td><td>+</td><td>−</td><td>+</td><td>+</td><td/><td>Insufficient information on diagnostic rates at T1. All female sample</td></tr><tr><td>Makary et al. <xref ref-type="bibr" rid="CR47">2014</xref>
+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td/></tr><tr><td>Holland et al. <xref ref-type="bibr" rid="CR33">2000</xref>
+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td/></tr><tr><td>Devenny et al. <xref ref-type="bibr" rid="CR20">2000</xref>
+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td/></tr><tr><td>Urv et al. <xref ref-type="bibr" rid="CR69">2008</xref>
+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td/></tr><tr><td>Määttä et al. <xref ref-type="bibr" rid="CR46">2014</xref>
+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td/></tr></tbody></table></table-wrap>
+</p>
+      <p>It is also worth mentioning that some of the included studies have overlapping authors (e.g. Kitler et al. <xref ref-type="bibr" rid="CR38">2006</xref>; Krinsky-McHale et al. <xref ref-type="bibr" rid="CR41">2002</xref>; Devenny et al. <xref ref-type="bibr" rid="CR20">2000</xref>; Urv et al. <xref ref-type="bibr" rid="CR69">2008</xref>; and Ball et al. <xref ref-type="bibr" rid="CR6">2006</xref>; Holland et al. <xref ref-type="bibr" rid="CR33">2000</xref>) and since these are longitudinal studies conducted during the same time period, it is likely that some participants overlap within each group, which might impact the overall review.</p>
+      <p>For each study the following specific aspects were considered: first, evidence for change between time points in scores on cognitive functioning and, secondly, the reported BPSD identified as part of the diagnostic assessment. Where possible, the relationship between these observed changes over time was evaluated. Considering that the length of follow-up, diagnosis reports and assessment methods varied considerably (8 methods of diagnosing dementia, 10 memory tests, 21 instruments for assessing executive dysfunction and 10 measures of behaviour change (Table <xref rid="Tab2" ref-type="table">2</xref>), the results are described through a qualitative synthesis rather than a meta-analysis.<table-wrap id="Tab2"><label>Table 2</label><caption><p>Variety of assessments included in the systematic review</p></caption><table frame="hsides" rules="groups"><thead><tr><th>Abbreviation</th><th>Assessment</th><th>Developed by/Reported in</th></tr></thead><tbody><tr><td>AADS</td><td>Assessment for adults with developmental disabilities</td><td>Kalsy et al. <xref ref-type="bibr" rid="CR36">2002</xref>
+</td></tr><tr><td>ABD-Q</td><td>Adaptive Behaviour Dementia Questionnaire</td><td>Prasher et al. <xref ref-type="bibr" rid="CR58">2004</xref>
+</td></tr><tr><td>BEERY VMI</td><td>Beery Visual Motor Integration test</td><td>Beery and Buktenica <xref ref-type="bibr" rid="CR9">1997</xref>
+</td></tr><tr><td>BPVS</td><td>British Picture Vocabulary Scale 2nd edition</td><td>Dunn et al. <xref ref-type="bibr" rid="CR22">2009</xref>
+</td></tr><tr><td>CAMCOG</td><td>Cognitive section of CAMDEX-DS</td><td>Ball et al. <xref ref-type="bibr" rid="CR5">2004</xref>
+</td></tr><tr><td>CAMDEX-DS</td><td>The Cambridge Examination for Mental Disorders of Older People with Down’s syndrome and Others with Intellectual Disabilities</td><td>Ball et al. <xref ref-type="bibr" rid="CR5">2004</xref>
+</td></tr><tr><td>CRT</td><td>Cued Recall Test</td><td>Buschke <xref ref-type="bibr" rid="CR15">2008</xref>
+</td></tr><tr><td>DBC-A</td><td>Developmental Behaviour Checklist-Adult</td><td>Mohr <xref ref-type="bibr" rid="CR51">2004</xref>
+</td></tr><tr><td>DMR</td><td>Dementia for Mentally Retarded Individuals</td><td>Evenhuis <xref ref-type="bibr" rid="CR23">1990</xref>
+</td></tr><tr><td>DLSQ</td><td>Daily Living Skills Questionnaire</td><td>National Institute of Ageing <xref ref-type="bibr" rid="CR53">1989</xref>
+</td></tr><tr><td>DSDS</td><td>Dementia Scale for Down Syndrome</td><td>Gedye <xref ref-type="bibr" rid="CR28">1995</xref>
+</td></tr><tr><td>DSMSE</td><td>Down’s syndrome Mental Status Examination</td><td>Haxby <xref ref-type="bibr" rid="CR32">1989</xref>
+</td></tr><tr><td rowspan="4">EF battery</td><td>Tower of London</td><td>Krikorian et al. <xref ref-type="bibr" rid="CR40">1994</xref>
+</td></tr><tr><td>Weigl card sorting</td><td>Goldstein and Scheerer <xref ref-type="bibr" rid="CR30">1941</xref>
+</td></tr><tr><td>Cats and dogs Stroop task</td><td>Gerstadt et al. <xref ref-type="bibr" rid="CR29">1994</xref>
+</td></tr><tr><td>Scrambled boxes</td><td>Strauss and Lewin <xref ref-type="bibr" rid="CR65">1982</xref>
+</td></tr><tr><td>HBS</td><td>Handicaps, behaviour and skills schedule</td><td>Wing <xref ref-type="bibr" rid="CR74">1980</xref>
+</td></tr><tr><td>IBRMSE</td><td>Institute for Basic Research Mental Status Exam</td><td>Wisniewski and Hill <xref ref-type="bibr" rid="CR75">1985</xref>
+</td></tr><tr><td>LIPS</td><td>Leiter International Performance Scale</td><td>Leiter <xref ref-type="bibr" rid="CR45">1940</xref>
+</td></tr><tr><td>VABS</td><td>Vineland Adaptive Behaviour Scale</td><td>Sparrow et al. <xref ref-type="bibr" rid="CR63">1984</xref>
+</td></tr><tr><td>WRL</td><td>Word List Recall</td><td>Kittler et al. <xref ref-type="bibr" rid="CR39">2004</xref>
+</td></tr><tr><td>SRT</td><td>Serial Reaction Time</td><td>Buschke <xref ref-type="bibr" rid="CR14">1973</xref>
+</td></tr><tr><td>WPPSI-voc</td><td>Vocabulary scale of Wechsler Pre-School and Primary Scale of Intelligence</td><td>Wechsler <xref ref-type="bibr" rid="CR71">1967</xref>
+</td></tr><tr><td>NBAP-D</td><td>Neuropsychology Behaviour and Affect Profile</td><td>Nelson et al. <xref ref-type="bibr" rid="CR54">2007</xref>
+</td></tr><tr><td rowspan="9">Neuropsychological battery</td><td>Boston Naming Test</td><td>Kaplan <xref ref-type="bibr" rid="CR37">2001</xref>
+</td></tr><tr><td>Wide Range Achievement Test</td><td>Jastak and Wilkinson <xref ref-type="bibr" rid="CR35">1984</xref>
+</td></tr><tr><td>Verbal fluency</td><td>-</td></tr><tr><td>BPVS</td><td>Dunn et al. <xref ref-type="bibr" rid="CR22">2009</xref>
+</td></tr><tr><td>Fuld Object-Memory test</td><td>Fuld <xref ref-type="bibr" rid="CR26">1981</xref>
+</td></tr><tr><td>Visual Motor Integration Test</td><td>Beery and Buktenica <xref ref-type="bibr" rid="CR9">1997</xref>
+</td></tr><tr><td>WISC-III</td><td>Wechsler <xref ref-type="bibr" rid="CR72">1974</xref>
+</td></tr><tr><td>WPPSI</td><td>Wechsler <xref ref-type="bibr" rid="CR72">1974</xref>
+</td></tr><tr><td>20-hole foam pegboard VABS</td><td>- Sparrow et al. <xref ref-type="bibr" rid="CR63">1984</xref>
+</td></tr><tr><td>PPVT-4</td><td>Peabody Picture Vocabulary Test 4th Edition</td><td>Dunn <xref ref-type="bibr" rid="CR21">2007</xref>
+</td></tr><tr><td>RBMT-C</td><td>Rivermead Behavioural Memory Test for Children</td><td>Wilson and Ivani-Chalian <xref ref-type="bibr" rid="CR73">1995</xref>
+</td></tr><tr><td>RSMB</td><td>Reiss Screen for Maladaptive Behaviour</td><td>Reiss <xref ref-type="bibr" rid="CR59">1994</xref>
+</td></tr><tr><td>S-R paradigm</td><td>Simple visual discrimination, reversal learning, Delayed non-match to sample, landmark</td><td>Nelson et al. <xref ref-type="bibr" rid="CR54">2007</xref>
+</td></tr><tr><td>TSI</td><td>Test for Severe Impairment</td><td>Albert and Cohen <xref ref-type="bibr" rid="CR1">1992</xref>
+</td></tr><tr><td>WISC-R</td><td>Wechsler Intelligence Scale for Children-Revised</td><td>Wechsler <xref ref-type="bibr" rid="CR72">1974</xref>
+</td></tr></tbody></table></table-wrap>
+</p>
+      <sec id="Sec4">
+        <title>Presentation and Progression of Dementia in the People with DS</title>
+        <p>In the general population, mild cognitive impairment (MCI) is regarded as the prodromal stage of dementia, but it has been argued that, in the case of people with DS, the exact hierarchy of loss of function is very difficult to establish (Cosgrave et al. <xref ref-type="bibr" rid="CR17">2000</xref>). Out of the 15 studies identified here, which attempted to address this question, nine suggested that ‘frontal-like symptoms’ were the earliest sign of AD in this population. Only two studies reported memory as the earliest sign of dementia. Out of the remaining four studies, two reported no decline that could not be accounted for by normal ageing and two did not report the order in which domains of cognitive functioning were affected.</p>
+        <p>The studies reporting the progression of clinical signs of DSAD are summarized in Table <xref rid="Tab3" ref-type="table">3</xref> and further discussed in the following sections. It is important to note that the majority of studies included in this review (with the exception of Määttä et al. <xref ref-type="bibr" rid="CR46">2014</xref>) have used various screening tools, rather than a diagnosis made by a clinician. Thus, it is possible that discrepancies between results are due to inadequate classification of participants with or without dementia, as well as due to the use of different diagnostic methods in each individual study (Ballard et al. <xref ref-type="bibr" rid="CR8">2016</xref>).<table-wrap id="Tab3"><label>Table 3</label><caption><p>Studies included in the systematic review</p></caption><table frame="hsides" rules="groups"><thead><tr><th>Study and sample characteristics<sup>a</sup>
+</th><th>Diagnosis/Screening tool</th><th colspan="2">Diagnosis T1% changes and mean age (SD)<sup>b</sup>
+</th><th colspan="2">Diagnosis T2% changes and mean age (SD)</th><th>Assessments<sup>c</sup>
+</th><th>Progression</th></tr></thead><tbody><tr><td>Ball et al. <xref ref-type="bibr" rid="CR6">2006</xref>
+<break/>
+<italic>n</italic> = 52<break/>T1 to T2 = 5 years<break/>Mean age = 48.3 (range 36–72)</td><td>CAMDEX-DS</td><td>Healthy (38.1%)<break/>BPSD (34.5%)<break/>DFT<sup>d</sup> (20%)<break/>AD (7.2%)</td><td>43.0 (9.0)<break/>41.3 (7.2)<break/>44.9 (8.6)<break/>49.5 (2.5)</td><td>Healthy (23%)<break/>BPSD (34.6%)<break/>DFT (23%)<break/>AD (19.2%)</td><td>49.8<break/>-<break/>46.0 (6.8)<break/>44.8 (5.8)<break/>55.8 (5.5)</td><td>Memory (CAMCOG)<break/>
+<italic>EF and L</italic>
+<break/>(CAMCOG)<break/>
+<italic>BPSD and ADL</italic>
+<break/>(CAMDEX-DS)</td><td>Progression from early BPSD to characteristics associated with frontal lobe dysfunction, prior to the development of AD. 44% of those with BPSD progressed to DFT and AD (compared to 5.6% without). 36% of those with DFT progressed to AD (compared to 5.4% without).</td></tr><tr><td>Adams and Oliver <xref ref-type="bibr" rid="CR2">2010</xref>
+<break/>
+<italic>n</italic> = 30<break/>T1 to T2 = 1.3 years<break/>Mean age = 44.5<break/>(range 34–64)</td><td>-</td><td>-<break/>-<break/>-<break/>-</td><td>-<break/>-<break/>-<break/>-</td><td>No decline (66%)<break/>Deterioration (33%)</td><td>42.3 (6.8) 48.9 (7.2)</td><td>Memory<break/>-<break/>
+<italic>EF and L</italic>
+<break/>(NAID, EF battery, BPVS)<break/>
+<italic>BPSD and ADL</italic>
+<break/>(AADS, VABS)</td><td>Participants whose cognitive functions deteriorated between T1 and T2 showed behavioural excesses and impaired EF. There was no formal diagnosis procedure.</td></tr><tr><td>Kitler et al. <xref ref-type="bibr" rid="CR38">2006</xref>
+<italic>n</italic> = 42<break/>T1 to T2 = 3 years<break/>Mean age = 44.3<break/>-</td><td>Caregiver reports</td><td>0%</td><td>-</td><td>0%</td><td>-</td><td>Memory<break/>(WLR,CRT, SRT)<break/>
+<italic>EF and L</italic>
+<break/>(WLR)<break/>BPSD and ADL<break/>-</td><td>Verbal intrusions at T1 predicted memory changes at T2. None of the participants met criteria for AD.</td></tr><tr><td>Temple et al. <xref ref-type="bibr" rid="CR68">2001</xref>
+<break/>
+<italic>n</italic> = 35<break/>T1 to T2 = 3 years<break/>Mean age = 46<break/>(range 29–67)</td><td>DSDS</td><td>-<break/>-<break/>-<break/>-<break/>-<break/>-<break/>-<break/>-</td><td>-<break/>-<break/>-<break/>-<break/>-<break/>-<break/>-<break/>-</td><td>Healthy (51.4%)<break/>Possible AD (22.8%)<break/>Early AD (20%)<break/>AD (5%)</td><td>42<break/>-<break/>48.8<break/>-<break/>53.1<break/>-<break/>55<break/>-</td><td>Memory<break/>(BNT, FOME, VMI)<break/>EF and L<break/>(Battery)<break/>BPSD and ADL<break/>(VABS, Caregiver reports)</td><td>A higher level of cognitive functioning predicted less decline on measures of EF.</td></tr><tr><td>Carr and Collins<break/>
+<xref ref-type="bibr" rid="CR16">2014</xref>
+<break/>
+<italic>n</italic> = 29<break/>T1 to T2 = 47 years<break/>Mean age = 47<break/>-</td><td>-</td><td>Healthy (100%)<break/>Dementing (0%)</td><td>-<break/>-<break/>-<break/>-</td><td>Healthy (75%)<break/>Dementing (24%)</td><td>47<break/>-<break/>47<break/>-</td><td>Memory (RBMT-C)<break/>EF and L (NAID,HBS, BPVS, WPPSI-voc)<break/>BPSD and ADL<break/>-</td><td>All scores showed marginal decline, possibly reflecting normal ageing. There was no formal diagnosis procedure. Only 2/7 dementing participants had diagnosis confirmed by clinician.</td></tr><tr><td>Cosgrave et al. <xref ref-type="bibr" rid="CR17">2000</xref>
+<break/>n = 71<sup>e</sup>
+<break/>T1 to T2 = 5 years<break/>Mean age = 51.8 (range 40–76)</td><td>Checklist of symptoms</td><td>Healthy (91.3%)<break/>AD (8.7%)</td><td>-<break/>-<break/>-<break/>-</td><td>Healthy (56.3%)<break/>AD (43.7%)</td><td>-<break/>-<break/>-<break/>-</td><td>
+<italic>Memory</italic> (TSI)<break/>EF and L (TSI)<break/>
+<italic>BPSD</italic>
+<break/>
+<italic>-</italic>
+<break/>
+<italic>and ADL</italic> (TSI, DLSQ)</td><td>Memory problems were the earliest sign of AD regardless of ID level</td></tr><tr><td>Krinsky-McHale et al. <xref ref-type="bibr" rid="CR41">2002</xref>
+<break/>
+<italic>n</italic> = 85<break/>T1 to T2 = 3 years<break/>Mean age = 48.5<break/>-</td><td>DSDS</td><td>No AD (100%)<break/>AD (0%)</td><td>44.27<break/>(6.8)<break/>-<break/>-</td><td>No AD (83%)<break/>AD (16.4%)</td><td>47.4<break/>(6.6)<break/>54.48<break/>(6.3)</td><td>
+<italic>Memory</italic> (SRT)<break/>EF and L<break/>-<break/>BPSD and ADL<break/>-</td><td>Memory (long term storage and retrieval) was affected in early-stages of dementia, preceding reported behavioural symptoms by more than a year.</td></tr><tr><td>Nelson et al. <xref ref-type="bibr" rid="CR54">2007</xref>
+<break/>
+<italic>n</italic> = 19<break/>T1 to T2 = 1 year<break/>Mean age = 40<break/>(range 24–55)</td><td>DMR</td><td>Healthy (61%)<break/>AD (39%)</td><td>-<break/>-<break/>-<break/>-</td><td>Healthy (48%)<break/>AD (52%)</td><td>39.33 (8.6)<break/>41.58 (8.7)</td><td>Memory<break/>(DNMTS)<break/>
+<italic>EF and L</italic>
+<break/>(WAIS-III, S-R Paradigm)<break/>
+<italic>BPSD and ADL</italic>
+<break/>(NBAP-D)</td><td>Fronto-temporal measures predicted dementia status. These results suggest decline in functions other than memory early on in the course of AD. Scores did not decrease significantly over the course of 1 year.</td></tr><tr><td>Margallo-Lana et al. <xref ref-type="bibr" rid="CR48">2007</xref>
+<break/>
+<italic>n</italic> = 64<break/>T1 to T2 = 15 years<break/>Mean age = 39.1<break/>-</td><td>Various procedures <sup>f</sup>
+</td><td>Healthy (94%)<break/>AD (5.4%)</td><td>-<break/>-<break/>58.4 (1.5)</td><td>-<break/>-<break/>AD (21%)</td><td>-<break/>-<break/>59.<sup>g</sup> (9.6)</td><td>Memory<break/>-<break/>EF and L (PCFT)<break/>BPSD and ADL (VABS)</td><td>Deterioration in cognitive function was observed only for participants with mild ID. No changes in personality or behaviour reported.</td></tr><tr><td>McCarron et al. <xref ref-type="bibr" rid="CR49">2014</xref>
+<break/>
+<italic>n</italic> = 77<break/>T1 to T2 = 14 years<break/>-<break/>&gt;35</td><td>ICD-10, DMR</td><td>-<break/>-<break/>-<break/>-</td><td>-<break/>-<break/>-<break/>-</td><td>Healthy (10.4%)<break/>AD (89.6%)</td><td>-<break/>-<break/>55.4<sup>h</sup> (7.1)</td><td>Memory<break/>-<break/>
+<italic>EF and L</italic> (TSI, DSMSE)<break/>BPSD and ADL (DLSQ)</td><td>Decline on TSI and DSME occurred 1 year prior to diagnosis. Decline on DLSQ occurred over 3–4 years prior to diagnosis and on DMR over 5 years</td></tr><tr><td>Makary et al. <xref ref-type="bibr" rid="CR47">2014</xref>
+<break/>
+<italic>n</italic> = 28<break/>T1 to T2 = 4 years<break/>Mean age = 37.7<break/>(range 28–56)</td><td>-</td><td>0%</td><td>-</td><td>0%</td><td>-</td><td>Memory<break/>-<break/>EF and L (PPTV-4)<break/>BPSD and ADL (ABD-Q, DBC-A)</td><td>No decline was reported on measures of personality and behaviour</td></tr><tr><td>Holland et al. <xref ref-type="bibr" rid="CR33">2000</xref>
+<break/>
+<italic>n</italic> = 68<break/>T1 to T2 = 1.5 years<break/>Mean age = 42.3<break/>-</td><td>CAMDEX-DS</td><td>Healthy<break/>(75.7%)<break/>AD<break/>(24.3%)</td><td>-<break/>-<break/>-<break/>-</td><td>Healthy<break/>(61.8%)<break/>AD<break/>(38.2%)</td><td>48.6<break/>(6.0)<break/>52.9<break/>(7.5)<break/>56.7<break/>(6.7)<break/>53.1<break/>(5.7)</td><td>Memory<break/>(CAMDEX-DS)<break/>EF and L<break/>(CAMDEX-DS)<break/>
+<italic>BPSD and ADL</italic>
+<break/>(CAMDEX-DS)</td><td>Initial changes reported in BPSD and reflected subsequent diagnosis. BPSD were reported more (46.67%) than memory issues (9.33%). BPSD without memory issues were more commonly reported in younger participants.</td></tr><tr><td>Devenny et al. <xref ref-type="bibr" rid="CR20">2000</xref>
+<break/>
+<italic>n</italic> = 68<break/>T1 to T2 = 10 years<break/>-<break/>-</td><td>DSDS</td><td>Healthy (100%)<break/>AD (0%)</td><td>-<break/>-<break/>-<break/>-</td><td>Healthy (64%)<break/>Questionable (14.7%)<break/>Early (7.3%)<break/>AD (10.2%)</td><td>48.6 (6.0)<break/>52.9 (7.5)<break/>56.7 (6.7)<break/>53.1 (5.7)</td><td>Memory (CRT,SRT)<break/>
+<italic>EF and L</italic> (WISC-R)<break/>BPSD and ADL<break/>-</td><td>Sequence of cognitive decline involved in progressively more areas of EF and the number of areas affected was associated with the severity of dementia.</td></tr><tr><td>Urv et al. <xref ref-type="bibr" rid="CR69">2008</xref>
+<break/>
+<italic>n</italic> = 138<break/>T1 to T2 = 1.5 years<break/>Mean age = 53.4 -</td><td>DMR</td><td>Healthy<break/>(64%)<break/>Questionable<break/>(20.7%)<break/>Possible<break/>(5%)<break/>AD<break/>(9.5%)</td><td>51.6<break/>(5.7)<break/>57.7<break/>(7.8)<break/>61.1<break/>(7.3)<break/>59.1<break/>(8.1)</td><td>Non-converters<break/>(73%)<sup>i</sup>
+<break/>Converters<break/>(27%)</td><td>48.6<break/>(6.0)<break/>52.9<break/>(7.5)<break/>56.7<break/>(6.7)<break/>53.1<break/>(5.7)</td><td>Memory<break/>(SRT)<break/>EF and L<break/>(DMSE, IBRMSE, Vb fluency, BEERY VMI, WISC-R, TSI)<break/>
+<italic>BPSD and ADL</italic>
+<break/>(VABS, RSMB)</td><td>Individuals transitioning into the early stages of dementia displayed increased maladaptive behaviours.</td></tr><tr><td>Määttä et al. <xref ref-type="bibr" rid="CR46">2014</xref>
+<break/>
+<italic>n</italic> = 25<break/>T1 to T2 = 3 years<break/>Mean age = 48.8<break/>(range 25–65)</td><td>Clinical evaluation</td><td>No AD<break/>(40%)<break/>AD<break/>(60%)</td><td>40<break/>-<break/>49.7<break/>-</td><td>No AD<break/>(40%)<break/>AD<break/>(60%)</td><td>43.1<break/>-<break/>52.9<break/>-</td><td>Memory<break/>-<break/>EF and L<break/>-<break/>
+<italic>BPSD and ADL</italic>
+<break/>(VABS)</td><td>Behaviour scores declined significantly during the course of the study and were associated with AD.</td></tr></tbody></table><table-wrap-foot><p>
+<sup>a</sup>n refers to the number of participants as recorded at T2 (years)</p><p>
+<sup>b</sup>All percentages are expressed in terms of number of surviving subjects</p><p>
+<sup>c</sup>Italics are used to emphasize the domain in which changes were reported first</p><p>
+<sup>d</sup>Authors refer to this stage characterized by executive dysfunction as “Dementia of frontal type (DFT)</p><p>
+<sup>e</sup>All-female population</p><p>
+<sup>f</sup>In the study conducted by Margallo-Lana, dementia diagnosis was made in different ways depending on the information available and the level of ID (e.g. caregiver reports, ICD-10, medical records)<sup>g</sup> Age of death is reported. 92 participants (5 AD) are part of the original cohort, 87 enter study (14 pass away with AD, 9 without AD) and 64 survive (4 AD)</p><p>
+<sup>h</sup>Average age of diagnosis is reported, rather than age and percentages at T1 and T2. 58% of the sample had passed away by T2</p><p>
+<sup>i</sup>Participants who progressed or not from no dementia to a “questionable” status</p></table-wrap-foot></table-wrap>
+</p>
+      </sec>
+      <sec id="Sec5">
+        <title>Memory</title>
+        <p>DS is known be associated with impairments in working memory, specifically remembering information for short periods of time (Silverman <xref ref-type="bibr" rid="CR61">2007</xref>). It has been suggested that tasks that rely on the hippocampus (e.g. associations of items in space and time) are commonly impaired in this population, hence making difficult the measurement of decline in these domains as a marker of AD-related change. By taking into account the level of baseline functioning, researchers interested in memory decline in people with DS have mostly focused on verbal list learning and scene learning (Sabbagh and Edgin <xref ref-type="bibr" rid="CR60">2016</xref>).</p>
+        <p>Compared to the general population where episodic memory impairments characterize prodromal stages of AD in the majority of cases, only two of the longitudinal studies included in this review identified impairments in memory as one of the earliest symptoms of DSAD (Krinsky-McHale et al. <xref ref-type="bibr" rid="CR41">2002</xref>; Cosgrave et al. <xref ref-type="bibr" rid="CR17">2000</xref>). Krinsky-McHale et al. (<xref ref-type="bibr" rid="CR41">2002</xref>) found that decline in memory function scores preceded the onset of global changes associated by the authors with the onset of dementia, as reported in informant interviews. Decline in memory function preceded more global changes by more than a full year and in some cases by up to 3 years. More specifically, verbal explicit memory was one of the first domains that were affected, with individuals’ scores on the Selective Reminding Test declining by 20% on two consecutive test sessions, The authors compared the results of participants with dementia to those of age- and IQ-matched non-demented individuals with DS and concluded that the dramatic declines observed in DSAD were distinguishable from normal ageing pattern. Interestingly, even in cases where participants were capable of performing the task, those in the early stages of dementia showed deficits in their capacity to encode and retrieve information from long-term memory.</p>
+        <p>This view was supported by a previous study in which memory loss was one of the first identifiable hallmarks of AD in an all-female sample of older adults with DS (Cosgrave et al. <xref ref-type="bibr" rid="CR17">2000</xref>). In this study, participants had difficulty remembering items that they had seen as part of a previous task (i.e. delayed memory) and difficulty remembering in which hand a paper clip was held by the examiner after both hands were placed behind the examiner’s back (i.e. immediate memory).</p>
+        <p>However, these findings were only applicable in the case of individuals with mild (IQ 55–70) and moderate ID (IQ 40–55), and memory problems were more difficult to identify in participants with more severe intellectual disabilities (severe = IQ 25–40, or profound = IQ &lt; 25) due to floor effects on established tests. More specifically, participants with IQ under 40 had very low scores on memory tests regardless of dementia diagnosis and thus, these measures may not be suitable as an indicator of decline over time in this population. More recently, in the DSM-V, IQ test scores have been removed from the diagnostic criteria of ID (American Psychiatric Association <xref ref-type="bibr" rid="CR3">2013</xref>), emphasizing the need for a more comprehensive assessment in which severity of ID will be based on the level of adaptive functioning, rather than IQ, as the former determines the level of support required (Oakley et al. <xref ref-type="bibr" rid="CR57">2003</xref>).</p>
+        <p>In the study conducted by Devenny et al. (<xref ref-type="bibr" rid="CR20">2000</xref>), authors suggested that decline does not occur globally but rather as a systematic and progressive loss of cognitive functions, with memory loss being a predominant symptom in all participants who also showed decline on the Block Design and Coding subtests of the WISC-R. These participants were classified as having “questionable decline”. However, the authors emphasize the fact that none of these participants had received an official diagnosis from a physician and thus advise caution when interpreting their results, as it is possible that the observed declines were related to some other undetected condition.</p>
+        <p>A different view, however, is that decline in memory scores (even in the presence of developmental memory impairment) are observed in all ageing individuals with DS, regardless of dementia status (Ball et al. <xref ref-type="bibr" rid="CR6">2006</xref>; Devenny et al. <xref ref-type="bibr" rid="CR20">2000</xref>; Carr and Collins <xref ref-type="bibr" rid="CR16">2014</xref>). It is possible that by examining alternative measures of decline in other cognitive domains, the generalized pattern of deterioration that accompanies old age can be distinguished from preclinical AD. In the study conducted by Ball et al. (<xref ref-type="bibr" rid="CR6">2006</xref>), informant reported memory changes were not correlated with subsequent diagnosis of AD and all participants who showed changes in memory also showed BPSD. However, in people with DS, early changes in memory may be more difficult to notice compared to BPSD, the latter having a greater impact on the individual’s daily life (Adams and Oliver <xref ref-type="bibr" rid="CR2">2010</xref>). Certain learning and memory tasks such as cued-learning and recall tasks may prove to be of a greater sensitivity and specificity for distinguishing between AD and non-AD in this population (Benejam et al. <xref ref-type="bibr" rid="CR10">2015</xref>).</p>
+        <p>More recently, a review by Sabbagh and Edgin (<xref ref-type="bibr" rid="CR60">2016</xref>), suggested that the earliest symptoms of dementia in individuals with DS are often subtle but are firstly evident in BPSD rather than episodic memory. They are thus arguing that the late diagnosis of DSAD is often due to the fact that current classification systems have their emphasis on memory impairments, having been modelled after the diagnostic criteria of dementia in the general population and are unfit for use in the DS population (Nieuwenhuis-Mark <xref ref-type="bibr" rid="CR56">2009</xref>).</p>
+      </sec>
+      <sec id="Sec6">
+        <title>Executive Function and Language</title>
+        <p>Functional impairments in executive functioning (executive dysfunction), as referring to informant reported difficulties with various goal-directed behaviours, such as planning and attention, and also performance on specific cognitive tests, have been identified in the majority of selected studies as preceding memory problems in adults with DS. However, in the studies reviewed there was not obvious overlap in terms of specific areas of decline identifed by repective authors. In Ball et al. (<xref ref-type="bibr" rid="CR6">2006</xref>), the most commonly reported changes were impairments in planning, attention and lack of foresight, while in another study (Adams and Oliver <xref ref-type="bibr" rid="CR2">2010</xref>), the most affected areas were working memory, agnosia, aphasia and apraxia, with cognitive deterioration not being solely attributable to memory issues. In the Ball et al. (<xref ref-type="bibr" rid="CR6">2006</xref>) paper, a version of the CAMCOG neuropsychological test battery modified for use with people with DS was completed at baseline and follow up assessments, to provide a measure of decline in global cognitive function. To provide more specific information on the sequence of decline in “frontal lobe associated EF” over the 5 years prior to diagnosis, an additional measure labelled “EF and attention” was designed by combining CAMCOG scores for abstract thinking, attention-calculation, verbal fluency and the clock drawing item. However, impairments in planning and foresight were measured through informant reported changes, rather than a more objective measure. Given the variety of living situations of participants in this study [i.e. residential homes (82%), sheltered accommodation (4%), nursing homes (2%), with a parent orrelative (13%)], we advise caution when interpreting these results. The caution is based on research showing that informant reports differ both qualitatively and quantitatively when recorded from personnel in an institution compared to parents (Nieuwenhuis-Mark <xref ref-type="bibr" rid="CR56">2009</xref>). Moreover, it is possible that “lack of foresight” could be affected by intellectual ability and this should also be taken into consideration, as 41 out of 55 participants in this study had moderate or severe learning disability.</p>
+        <p>In one of the studies, executive dysfunction was investigated by looking at verbal intrusions as an indicator of disruption of inhibition control (Kitler et al. <xref ref-type="bibr" rid="CR38">2006</xref>). Responding with an irrelevant word during a task of verbal memory retrieval was found to be predictive of performance on two out of three memory tasks administered within the next three years. Therefore, the authors argued that verbal intrusions are an early sign of Alzheimer-related neuropathology, preceding declines in memory. Interestingly, middle aged participants with DS made more verbal intrusions at baseline compared to participants with unspecified ID (74% vs 44%), giving further support to the idea that executive functioning is more sensitive to decline in DS than in other populations.</p>
+        <p>Another component of EF was examined by Nelson et al. (<xref ref-type="bibr" rid="CR54">2007</xref>), who identified the NBAP Pragnosia scale as useful in classifying 80% of all dementia cases. The authors argued that impaired pragmatic language function represents an aspect of cognitive decline, as this measure appears to be strongly correlated with the assessment of dementia status (DMR Cognitive Scale). These impairments appeared to be most common in younger subjects, suggesting decline in functions other than memory, early in the course of dementia. More recently however, researchers have argued that verbal scores do not show significant decrease over the course of 47 years (Carr and Collins <xref ref-type="bibr" rid="CR16">2014</xref>), but these results might represent a sample bias, as the stronger representation of verbally able women might have influenced the overall stability of verbal scores in the group.</p>
+        <p>However, the exact sequence in which subdomains of executive functioning are affected has not yet been established. This could be largely due to the heterogeneity of DS phenotypes. Devenny et al. (<xref ref-type="bibr" rid="CR20">2000</xref>) attempted to answer this question by following up participants over a 10 year period and noting that scores which showed decline early in the disease process were those that required perception of abstract stimuli and visuo-motor coordination. As participants progressed from prodromal stages to early dementia, deficits in comprehension, measures of visuospatial organization and the working memory component of language were observed, followed by vocabulary, information and digit span tasks in the middle stages of AD. As decline associated with the development of AD seems to involve progressively more areas of cognition and the number of areas in which decline was observed of was correlated to the severity of dementia, the authors conclude that cognitive decline in AD in people with DS is not global, but follows a predictable sequence. Executive functioning seems, according to the evidence presented above, to be affected in pre-clinical or early stages of AD and thus, detecting these changes could prove to be helpful in predicting a later diagnosis of AD.</p>
+      </sec>
+      <sec id="Sec7">
+        <title>Behavioural and Psychological Symptoms of Dementia (BPSD)</title>
+        <p>Behavioural and Psychological Symptoms of Dementia (BPSD) have been defined as a “heterogeneous range of psychological reactions, psychiatrics symptoms and behaviours resulting from the presence of dementia” (Finkel <xref ref-type="bibr" rid="CR25">2001</xref>). Recent literature has suggested that BPSD are reported in the prodromal and early stages of DSAD and might predict a more severe diagnosis. Often, BPSD are reported in the absence of informant observed functional memory decline (Ball et al. <xref ref-type="bibr" rid="CR6">2006</xref>), in contrast to the presentation of AD in the general population, where impairments in episodic memory are commonly the first reported changes.</p>
+        <p>The hypothesis that BPSD and executive dysfunction precede memory issues in the pre-clinical and early stages of AD in DS is relatively recent (Ball et al. <xref ref-type="bibr" rid="CR6">2006</xref>; Adams and Oliver <xref ref-type="bibr" rid="CR2">2010</xref>; Kitler et al. <xref ref-type="bibr" rid="CR38">2006</xref>; Nelson et al. <xref ref-type="bibr" rid="CR54">2007</xref>; Urv et al. <xref ref-type="bibr" rid="CR69">2008</xref>; Määttä et al. <xref ref-type="bibr" rid="CR46">2014</xref>; Holland et al. <xref ref-type="bibr" rid="CR33">2000</xref>). This systematic review indicates that there is a limited but significant amount of research supporting the hypothesis, indicating that people with DS exhibiting BPSD (i.e. those with a history of the onset of these behaviours as opposed to such behaviours being lifelong) are more likely to decline functionally and on testing have evidence of impaired executive functioning compared to those with no such changes (44% compared to 5.6% of those without BPSD). Later the impaired group are then more likely to exhibit memory problems and meet diagnostic criteria for dementia (Ball et al. <xref ref-type="bibr" rid="CR6">2006</xref>). Similarly, in the study conducted by Holland et al. (<xref ref-type="bibr" rid="CR33">2000</xref>), younger people with DS, who did not yet meet the full criteria for a clinical diagnosis of AD, exhibited more ‘frontal-like symptoms’, while older people had higher rates of clinically diagnosed AD. These results were supported by Nelson et al. (<xref ref-type="bibr" rid="CR54">2007</xref>), whose study, although not identifying any significant decline in function, due to the short duration between baseline and follow up, argued for the high reliability and validity of measures of “frontal-like symptoms” in the detection of AD early in the disease process, suggesting that EF and BPSD may indeed precede or accompany memory changes in this population</p>
+        <p>This view is also supported by the results of Holland et al. (<xref ref-type="bibr" rid="CR33">2000</xref>). At the time of an initial assessment more participants were reportedly exhibiting changes in behaviour (46%) than changes in memory (9%), whereas at follow up. Older participants had the largest proportion of reported deteriorations in memory and personality, whereas younger participants showed high rates of BPSD in absence of any memory issues, suggesting a trend of decline from behaviour and personality to a combination of domains.</p>
+        <p>This sequential progression of BPSD between various stages of dementia was further examined in studies that reported correlations between the severity of BPSD and a dementia diagnosis (Määttä et al. <xref ref-type="bibr" rid="CR46">2014</xref>; Urv et al. <xref ref-type="bibr" rid="CR69">2008</xref>). If indeed BPSD are an indicator of dementia development, the question that arises is whether certain types of behaviours are more likely to develop. In Urv et al. (<xref ref-type="bibr" rid="CR69">2008</xref>), participants who showed cognitive decline insufficient for a diagnosis of AD exhibited more BPSD directed towards others (i.e. destructiveness, aggression) than those with a diagnosis of AD, who exhibited more BPSD directed towards the self (i.e. fearfulness, lack of energy, withdrawal, sadness and self-injury). Interestingly, participants who progressed from no diagnosis to questionable dementia were more likely to experience a worsening of scores on certain measures (sadness, increased dependency, confusion, fearful and regressive behaviour and social inadequacy), while the scores of people who were dementia-free at T2 remained relatively stable on these measures (Urv et al. <xref ref-type="bibr" rid="CR69">2008</xref>). Contrary to these findings, Adams and Oliver (<xref ref-type="bibr" rid="CR2">2010</xref>) and Makary et al. (<xref ref-type="bibr" rid="CR47">2014</xref>) suggested a more positive pattern of ageing than previously reported.</p>
+        <p>Similarly to the situation described in the case of executive functioning, a specific pattern of deterioration in BPSD subdomains is difficult to identify. It was proposed that some of the earliest signs of dementia in people with DS are observed in language and socialization difficulties (Margallo-Lana et al. <xref ref-type="bibr" rid="CR48">2007</xref>).</p>
+        <p>Improving our understanding of BPSD and their relationship to AD is essential, given that there are people with DS with very low levels of cognitive functioning who are unable to be diagnosed by measures of cognition alone due to floor levels. This group could, however, be diagnosed on the basis of BPSD and everyday skills (Margallo-Lana et al. (<xref ref-type="bibr" rid="CR48">2007</xref>). Similar conclusions were reached by Cosgrave et al. (<xref ref-type="bibr" rid="CR17">2000</xref>), who concluded that even though in their study memory seems to be the earliest symptom, severe intellectual disability conceals the symptoms and thus, BPSD might be easier to detect</p>
+        <p>Informant reported BPSD such as social withdrawal, apathy (Ball et al. <xref ref-type="bibr" rid="CR6">2006</xref>; Holland et al. <xref ref-type="bibr" rid="CR33">2000</xref>), inactivity and lack of interest (Adams and Oliver <xref ref-type="bibr" rid="CR2">2010</xref>), have been reported in all stages of DSAD (Urv et al. <xref ref-type="bibr" rid="CR69">2008</xref>) and it is likely that they significantly affect activities of daily living, with declines having been reported in domestic activity, self-direction and responsibility (Määttä et al. <xref ref-type="bibr" rid="CR46">2014</xref>). However, the authors note that depression is one of the factors that correlate most strongly with such changes (Urv et al. <xref ref-type="bibr" rid="CR69">2008</xref>) and may often act as a confound due to diagnostic overshadowing (Määttä et al. <xref ref-type="bibr" rid="CR46">2014</xref>), alongside hypothyroidism. Because of this potential confound, caution is advised when discussing the role of BPSD in the progression of DSAD and these reported changes must always be analyzed as part of a wider context.</p>
+        <p>Changes such as restlessness, aggression, repetitive speech and being uncooperative were most often reported in pre-clinical and early-stages of AD and thus might represent some of the earliest observable signs of dementia (Adams and Oliver <xref ref-type="bibr" rid="CR2">2010</xref>). Observation of these signs seems to be more likely to lead to a referral for dementia assessment and were shown to emerge alongside cognitive decline. In contrast, Carr and Collins (<xref ref-type="bibr" rid="CR16">2014</xref>) in her long-term follow-up of a birth cohort did not find any increase in aggression with the development of dementia.</p>
+        <p>Other BPSD, such as emotional lability, lack of concern for other people, stubbornness, disinhibition and impulsivity, were also reported prior to a diagnosis of dementia (Ball et al. <xref ref-type="bibr" rid="CR6">2006</xref>). Stubbornness was the second most reported BPSD after apathy in a sample of aging people with DS (Holland et al. <xref ref-type="bibr" rid="CR33">2000</xref>), and increases in BPSD were identified as successful predictors of dementia status. When analyzed alongside scores for pragnosia, BPSD successfully predicted over 70% of dementia cases (Nelson et al. <xref ref-type="bibr" rid="CR54">2007</xref>). Urv et al. (<xref ref-type="bibr" rid="CR69">2008</xref>) suggests that these changes are present before a dementia diagnosis and gradually worsen as dementia progresses, until late stages of AD when the number of reported distinct behaviours is reduced.</p>
+        <sec id="Sec8">
+          <title>Activities of Daily Living</title>
+          <p>Activities of daily living (ADLs) represent a number of activities such as continence, eating, walking or grooming (Ward et al. <xref ref-type="bibr" rid="CR70">1998</xref>) and have been shown to be a good predictor of hospital admission and mortality in the elderly population (Ferrucci et al. <xref ref-type="bibr" rid="CR24">1997</xref>). Research has suggested that an indicator of the development of AD in people with DS is the loss of everyday skills and difficulties with activities of daily living (Margallo-Lana et al. <xref ref-type="bibr" rid="CR48">2007</xref>), significantly more affected at age 47, compared to age 30 (Carr and Collins <xref ref-type="bibr" rid="CR16">2014</xref>). This pattern of decline seems to be supported by other research (Cosgrave et al. <xref ref-type="bibr" rid="CR17">2000</xref>) and it has thus been suggested that investigating ADLs could be very valuable in diagnosing DSAD, especially in people with severe ID, for whom other changes might be difficult to notice (Margallo-Lana et al. <xref ref-type="bibr" rid="CR48">2007</xref>). However, caution is advised when interpreting these results, as gender has been suggested to influence rate of decline in ADL in the general population (Ward et al. <xref ref-type="bibr" rid="CR70">1998</xref>) with women maintaining skills for a longer time in areas such as food preparation, housekeeping and laundry (Lawton and Brody <xref ref-type="bibr" rid="CR44">1969</xref>).</p>
+          <p>Regarding the hierarchy of loss of ADLs, Cosgrave et al. (<xref ref-type="bibr" rid="CR17">2000</xref>) noted that loss of independence in personal hygiene was among the first signs of dementia, alongside spatial disorientation. The last skills to be lost were eating and shaking hands, with 86.9% of participants being able to perform this latter task even in later stages of AD. This is not surprising given the high baseline for the performance of this behavior (i.e. at the beginning of the study, 100% of participants with moderate ID were able to shake hands with the examiner). However, at the end of the study, many participants were completely dependent on nursing staff, having many other difficulties such as incontinence and severe motor difficulties. Considering the advanced nature of the disease in these participants, it is difficult to pinpoint whether loss of a certain skill is due to loss of social conventions or impaired motor function. Regardless, more recent studies in the general population do suggest that motor skills should be addressed in interventions designed for people with AD in order to improve their daily living (Oakley et al. <xref ref-type="bibr" rid="CR57">2003</xref>).</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="Sec9">
+      <title>Discussion</title>
+      <sec id="Sec10">
+        <title>Early Signs of Dementia in DS</title>
+        <p>This review highlights the importance of using a broad spectrum of assessments when examining the sequence of decline of dementia in people with DS, particularly in the early stages during which the presentation of dementia may differ between individuals. While there is no overall consensus, there are a majority of research studies identifying clinical characteristics, other than the development of functional memory changes that occur early in the course of AD. However, an evaluation of the papers included in this systematic review indicates that assessing the hierarchy of decline that accompanies the development of dementia in DS is a challenge. First, from a methodological perspective, change has been identified in two separate ways, one being a structured informant-based interview asking specifically about functional changes and the other being the use of established cognitive tests that can be repeated over time to established whether there has been a change in test scores or not. Secondly, as the diagnosis of AD represents a threshold effect, it is difficult to pinpoint in time the exact onset of symptoms. Thirdly, heterogeneity of symptoms seems to be characteristic of the early stages, and inferences regarding which subdomains of functioning are preferentially affected are very difficult to make. Fourthly, in people with DS it is especially difficult to determine whether the observed symptoms are due to age-related changes in this population or to preexisting cognitive impairments (Ball et al. <xref ref-type="bibr" rid="CR6">2006</xref>). In the longest longitudinal study included in this review, scores on the majority of cognitive tests declined by age 47, regardless of dementia status (Carr and Collins <xref ref-type="bibr" rid="CR16">2014</xref>), emphasizing that researchers must be cautious when interpreting results, as for a proportion of participants showing this decline it might suggest pre-clinical symptoms of dementia, it might also reflect normal ageing.</p>
+        <p>The findings from this systematic review would indicate that BPSD and impairments in executive functioning mark the early course of DSAD. Numerous components of executive function and behavior seem to be affected before memory skills begin to decline, suggesting that current diagnosis procedures of AD in DS may not be effective until later stages. This view is supported by a recent review (Ballard et al. <xref ref-type="bibr" rid="CR8">2016</xref>), which suggested that dementia in DS initially manifests as BPSD, only to later be followed by changes in cognition.</p>
+        <p>There are, however, important differences between study findings that may reflect genuine sample differences or may be accounted for by differences in methodology. These differences make an overall picture difficult to ascertain. BPSD and executive dysfunction were often investigated as part of studies primarily concerned with cognition whereas memory changes were reported as part of studies that were carried out with the intention of confirming the presence of memory decline. Moreover, some studies only analyzed a restricted range of abilities and reported on total scores alone, without specifying the exact area of decline. Given the wide variety of screening and diagnosis tools in use, as well as recent research suggesting decline in cognitive function regardless of whether participants have had a formal diagnosis of dementia, we support the recent suggestion made by Ballard et al. (<xref ref-type="bibr" rid="CR8">2016</xref>), that measures of prevalence reported in published papers should be interpreted with a degree of caution.</p>
+        <p>Moreover, as with all neuropsychological testing, there is overlap in measurement. For example, a decline in a test of episodic memory would have to be carefully interpreted if there are poor results on attentional tasks. Due to this confounding factor, we advise caution when discussing the results of these papers, as it often is difficult to establish whether a participant’s decline on one measure is not influenced by decline in another related domain.</p>
+        <p>Lastly, interpreting results was hindered by the fact that the majority of studies did not report on the level of intellectual disability of participants. This issue is essential, considering that the salience, manifestation and degree of impairment determined by the emergence of AD symptoms can vary according to the level of premorbid intellectual capacity and also the person’s ability to compensate for the newly acquired deficits. Margallo-Lana et al. (<xref ref-type="bibr" rid="CR48">2007</xref>) demonstrated that significant cognitive decline at follow - up could only be identified for cases where the baseline score had been at or above the median (mild and moderate ID), with little changes being noticeable for people with severe and profound ID. Moreover, the majority of studies (Adams and Oliver <xref ref-type="bibr" rid="CR2">2010</xref>, Kitler et al. <xref ref-type="bibr" rid="CR38">2006</xref>, Carr and Collins <xref ref-type="bibr" rid="CR16">2014</xref>, Cosgrave et al. <xref ref-type="bibr" rid="CR17">2000</xref>, Krinsky-McHale et al. <xref ref-type="bibr" rid="CR41">2002</xref>, Nelson et al. <xref ref-type="bibr" rid="CR54">2007</xref>, Margallo-Lana et al. <xref ref-type="bibr" rid="CR48">2007</xref>, McCarron et al. <xref ref-type="bibr" rid="CR49">2014</xref>, Makary et al. <xref ref-type="bibr" rid="CR47">2014</xref>, Määttä et al. <xref ref-type="bibr" rid="CR46">2014</xref>) did not document whether dementia was at an early or advanced stage. As changes in function seem to vary both quantitatively and qualitatively over the course of AD, future research should report the stage of decline, as well as age and IQ.</p>
+      </sec>
+      <sec id="Sec11">
+        <title>Recommendations</title>
+        <p>Given the findings of this review, we believe that establishing a baseline level of cognitive functioning and behaviour in people with DS would be extremely useful in following up on changes in domains known to be affected by AD. We therefore advocate the development of a set of common measures appropriate for individuals with DS that would include in depth evaluation of memory, executive function, language and behaviour and that can be used both in clinical settings as well as research. This would allow the implementation of Burt and Aylward’s model of best practice (Burt and Aylward <xref ref-type="bibr" rid="CR12">2000</xref>) which suggests establishing a baseline of premorbid functioning before the age of 35, having annual reassessments and conducting a detailed diagnosis in cases where decline is evident. More research needs to be conducted in order to decide on the exact measures to be included in this tool set, given the intra-individual variability in task performance in people with DS (Krinsky-McHale et al. <xref ref-type="bibr" rid="CR42">2008</xref>). At present, standard tools developed for the assessment of cognition in the general population often show floor effects when administered to individuals with DS (Stanton and Coetzee <xref ref-type="bibr" rid="CR64">2004</xref>) and the majority of the assessment tools are based on the premise that respondents have an IQ in or close to the normative range and require other skills such as good verbal skills, adequate attention or dexterity (Prasher et al. <xref ref-type="bibr" rid="CR58">2004</xref>). Burt et al. (<xref ref-type="bibr" rid="CR13">2005</xref>) have emphasised the need for an appropriate scoring method for diagnosing dementia in this population and suggested that slope scores are more useful than difference scores. For example, institutionalised individuals with DS are known to score lower on neuropsychological tests than people living in the community (Nieuwenhuis-Mark <xref ref-type="bibr" rid="CR56">2009</xref>) and thus having an established baseline and measuring change over time in a longitudinal follow up design would be a better approach than cross-sectional studies.</p>
+        <p>Given that the majority of the studies included in this review point towards BPDS as an early sign of dementia in DS, we believe that there is an urgent need for the development of an acceptable, validated and standardised evaluation scale for BPSD in DS (Sinai et al. <xref ref-type="bibr" rid="CR62">2016</xref>), similar to BEHAVE-AD in the general population (Dekker et al. <xref ref-type="bibr" rid="CR19">2015</xref>).</p>
+        <p>Furthermore, diagnostic and assessment measures developed for use in the general population are often used in studies investigating AD in DS, which often introduces confounding factors (Ballard et al. <xref ref-type="bibr" rid="CR8">2016</xref>). This issue was pointed out by Dekker et al. (<xref ref-type="bibr" rid="CR19">2015</xref>) who stated that although more than 20 scales have been developed to assess BPSD in AD in the general population (Finkel <xref ref-type="bibr" rid="CR25">2001</xref>), none of these have been validated in people with DS and therefore are not equally valuable for use in this population as they do not take into consideration factors such as pre-existing behavioural issues associated with ID. In line with the findings of Dekker et al. (<xref ref-type="bibr" rid="CR19">2015</xref>), such a scale could be implemented in routine practice alongside existing assessment procedures which monitor change over time, as well as being used in longitudinal research and clinical trials.</p>
+        <p>Having comprehensive assessment tools for outcomes in clinical trials would enable a targeted approach to drug development, which would be essential given recent findings suggesting that people with DS respond differently to treatment when compared to late-onset AD typically developing controls (Ballard et al. <xref ref-type="bibr" rid="CR8">2016</xref>). Moreover, a better understanding of BPSD in DS would increase acceptance from the perspective of a carer who would understand that behaviour they perceive as “challenging” is not deliberate but may be a symptom of dementia (Dekker et al. <xref ref-type="bibr" rid="CR19">2015</xref>). Imporved recognition of symptoms would facilitate access to non-pharmacological treatments such as behavioural and music therapy and psychosocial interventions (Gauthier et al. <xref ref-type="bibr" rid="CR27">2010</xref>).</p>
+        <p>To account for the fact that BPSD and executive dysfunction seem to be affected earlier than episodic memory in the course of dementia, we suggest Mortimer’s reserve capacity hypothesis (<xref ref-type="bibr" rid="CR52">1981</xref>) as a viable theoretical explanation. According to this model, the frontal lobes of people with DS are underdeveloped and thus a smaller buden of neuropathology in the brain may be required to reach the threshold at which functioning is impaired. Volume reduction of frontal lobes has been observed during childhood, while hippocampal volume reduction has only been reported later in life (Jacola <xref ref-type="bibr" rid="CR34">2012</xref>). These observations would account for the preferential decline in areas of cognition sub-served by these areas. Indirect support for Mortimer’s reserve capacity hypothesis comes from the longitudinal study conducted by Temple et al. (<xref ref-type="bibr" rid="CR68">2001</xref>), in which progression of dementia appears to be slowed by having high levels of pre-morbid cognitive functioning. The authors suggest that environmental interventions such as improving the level of education and number of years in employment might represent successful strategies to reduce cognitive decline. The suggestion that early clinical presentation of AD in DS matches that of frontal-based symptoms can serve as a theoretical foundation for the findings of neuroimaging studies such as the recent amyloid PET imaging with 18F–FDDNP study that showed increased frontal predominance of amyloid pathology in people with DS who had a diagnosis of AD, compared to typically developing patients with late-onset AD (Nelson et al. <xref ref-type="bibr" rid="CR55">2011</xref>).</p>
+        <p>To conclude, even though there is no overall consensus on what represents the earliest observable sign of dementia in DS, this review highlights the heterogeneity of affected domains. BPSD, developing for the first time in later adult life, predicts the subsequent development of dementia in the majority of the included studies. There is also evidence that emergence of BPSD is underpinned by impairments in executive functioning that may implicate impairments in frontal lobe integrity and in related brain networks (Ball et al. <xref ref-type="bibr" rid="CR7">2008</xref>). We recommend that future research should investigate a wider variety of processes, to reflect the heterogeneity of domains that seem to be affected in the prodromal and early stages of dementia in this population. Moreover, considering that in the general population amnestic MCI is widely accepted as the prodromal stage of AD, an alternative should be proposed for people with DS, to reflect this difference in progression. The key to early diagnosis is knowing what observed changes should raise the index of suspicion sufficiently to indicate the need for a full diagnostic assessment and cognitive evaluation. The findings of this review are especially relevant given that current diagnosis procedures (ICD-10 and DSM-V criteria) emphasize declines in memory functions and therefore in this population may fail to facilitate the early detection and diagnosis of dementia when it does occur.</p>
+        <p>Acknowledgments</p>
+        <p>This systematic review is part of a larger research study funded by the Baily Thomas Charitable Fund, Addenbrookes Charitable Trust and the Health Foundation. Queens’ College Cambridge contributed via a grant which enabled the dissemination of these findings at BNA 2015 Festival of Neuroscience in Edinburgh.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list id="Bib1">
+      <title>References</title>
+      <ref id="CR1">
+        <mixed-citation publication-type="other">Albert, M., &amp; Cohen, C. (1992). The Test for Severe Impairment: an instrument for the assessment of patients with severe cognitive dysfunction. <italic>Journal of the American geriatrics society, 40</italic>(5), 449–453.</mixed-citation>
+      </ref>
+      <ref id="CR2">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Adams</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Oliver</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>The relationship between acquired impairments of executive function and behaviour change in adults with down syndrome</article-title>
+          <source>Journal of Intellectual Disability Research</source>
+          <year>2010</year>
+          <volume>54</volume>
+          <fpage>393</fpage>
+          <lpage>405</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-2788.2010.01271.x</pub-id>
+          <?supplied-pmid 20367747?>
+          <pub-id pub-id-type="pmid">20367747</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR3">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>American Psychiatric Association</collab>
+          </person-group>
+          <source>Diagnostic and statistical manual of mental disorders</source>
+          <year>2013</year>
+          <edition>5</edition>
+          <publisher-loc>DC</publisher-loc>
+          <publisher-name>Washington</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR4">
+        <mixed-citation publication-type="other">Annus, T., Wilson, L. R., Hong, Y. T., Acosta–Cabronero, J., Fryer, T. D., Cardenas–Blanco, A., ... &amp; Menon, D. K. (2015). The pattern of amyloid accumulation in the brains of adults with down syndrome. <italic>Alzheimer's &amp; Dementia.</italic></mixed-citation>
+      </ref>
+      <ref id="CR5">
+        <mixed-citation publication-type="other">Ball, S. L., Holland, A. J., Huppert, F. A., Treppner, P., Watson, P., &amp; Hon, J. (2004). The modified CAMDEX informant interview is a valid and reliable tool for use in the diagnosis of dementia in adults with Down’s syndrome. <italic>Journal of Intellectual Disability Research, 48</italic>(6), 611–620.</mixed-citation>
+      </ref>
+      <ref id="CR6">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ball</surname>
+              <given-names>SL</given-names>
+            </name>
+            <name>
+              <surname>Holland</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Hon</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Huppert</surname>
+              <given-names>FA</given-names>
+            </name>
+            <name>
+              <surname>Treppner</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Watson</surname>
+              <given-names>PC</given-names>
+            </name>
+          </person-group>
+          <article-title>Personality and behaviour changes mark the early stages of Alzheimer's disease in adults with down syndrome: findings from a prospective population-based study</article-title>
+          <source>Int. J. Geriat. Psychiatry</source>
+          <year>2006</year>
+          <volume>21</volume>
+          <fpage>661</fpage>
+          <lpage>673</lpage>
+          <pub-id pub-id-type="doi">10.1002/gps.1545</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR7">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ball</surname>
+              <given-names>SL</given-names>
+            </name>
+            <name>
+              <surname>Holland</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Treppner</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Watson</surname>
+              <given-names>PC</given-names>
+            </name>
+            <name>
+              <surname>Huppert</surname>
+              <given-names>FA</given-names>
+            </name>
+          </person-group>
+          <article-title>Executive dysfunction and its association with personality and behaviour changes in the development of Alzheimer's disease in adults with down syndrome and mild to moderate learning disabilities</article-title>
+          <source>British Journal of Clinical Psychology</source>
+          <year>2008</year>
+          <volume>47</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>29</lpage>
+          <pub-id pub-id-type="doi">10.1348/014466507X230967</pub-id>
+          <?supplied-pmid 17681112?>
+          <pub-id pub-id-type="pmid">17681112</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR8">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ballard</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Mobley</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Hardy</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Corbett</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Dementia in Down's syndrome</article-title>
+          <source>The Lancet Neurology</source>
+          <year>2016</year>
+          <volume>15</volume>
+          <issue>6</issue>
+          <fpage>622</fpage>
+          <lpage>636</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1474-4422(16)00063-6</pub-id>
+          <?supplied-pmid 27302127?>
+          <pub-id pub-id-type="pmid">27302127</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR9">
+        <mixed-citation publication-type="other">Beery, K. E., Buktenica, N. A., &amp; Beery, N. A. (1997). <italic>The Beery-Buktenica developmental test of visual-motor integration: VMI, with supplemental developmental tests of visual perception and motor coordination: administration, scoring and teaching manual</italic>. Parsippany, NJ: Modern Curriculum Press.</mixed-citation>
+      </ref>
+      <ref id="CR10">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Benejam</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Fortea</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Molina-López</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Videla</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Patterns of performance on the modified cued recall test in Spanish adults with down syndrome with and without dementia</article-title>
+          <source>American Journal of Intellectual and Developmental Disabilities</source>
+          <year>2015</year>
+          <volume>120</volume>
+          <issue>6</issue>
+          <fpage>481</fpage>
+          <lpage>489</lpage>
+          <pub-id pub-id-type="doi">10.1352/1944-7558-120.6.481</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR11">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bittles</surname>
+              <given-names>AH</given-names>
+            </name>
+            <name>
+              <surname>Glasson</surname>
+              <given-names>EJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Clinical, social, and ethical implications of changing life expectancy in down syndrome</article-title>
+          <source>Developmental Medicine &amp; Child Neurology</source>
+          <year>2004</year>
+          <volume>46</volume>
+          <issue>4</issue>
+          <fpage>282</fpage>
+          <lpage>286</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1469-8749.2004.tb00483.x</pub-id>
+          <pub-id pub-id-type="pmid">15077706</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR12">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Burt</surname>
+              <given-names>DB</given-names>
+            </name>
+            <name>
+              <surname>Aylward</surname>
+              <given-names>EH</given-names>
+            </name>
+          </person-group>
+          <article-title>Test battery for the diagnosis of demntia in individuals with intellectual disability</article-title>
+          <source>Journal of Intellectual Disability Research</source>
+          <year>2000</year>
+          <volume>44</volume>
+          <issue>2</issue>
+          <fpage>175</fpage>
+          <lpage>180</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1365-2788.2000.00264.x</pub-id>
+          <?supplied-pmid 10898382?>
+          <pub-id pub-id-type="pmid">10898382</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR13">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Burt</surname>
+              <given-names>DB</given-names>
+            </name>
+            <name>
+              <surname>Primeaux-Hart</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Loveland</surname>
+              <given-names>KA</given-names>
+            </name>
+            <name>
+              <surname>Cleveland</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Lewis</surname>
+              <given-names>KR</given-names>
+            </name>
+            <name>
+              <surname>Lesser</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Pearson</surname>
+              <given-names>PL</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparing dementia diagnostic methods used with people with intellectual disabilities</article-title>
+          <source>Journal of Policy and Practice in Intellectual Disabilities</source>
+          <year>2005</year>
+          <volume>2</volume>
+          <issue>2</issue>
+          <fpage>94</fpage>
+          <lpage>115</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1741-1130.2005.00022.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR14">
+        <mixed-citation publication-type="other">Buschke, H. (1973). Selective reminding for analysis of memory and learning. <italic>Journal of Verbal Learning and Verbal Behavior, 12</italic>(5), 543–550.</mixed-citation>
+      </ref>
+      <ref id="CR15">
+        <mixed-citation publication-type="other">Buschke, H. (2008). Cued recall in amnesia. <italic>Journal of Clinical Neuropsychology, 6</italic>(4), 433–440.</mixed-citation>
+      </ref>
+      <ref id="CR16">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carr</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Collins</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Ageing and dementia in a longitudinal study of a cohort with down syndrome</article-title>
+          <source>Journal of Applied Research in Intellectual Disabilities</source>
+          <year>2014</year>
+          <volume>27</volume>
+          <fpage>555</fpage>
+          <lpage>563</lpage>
+          <pub-id pub-id-type="doi">10.1111/jar.12093</pub-id>
+          <?supplied-pmid 24687962?>
+          <pub-id pub-id-type="pmid">24687962</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR17">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cosgrave</surname>
+              <given-names>MP</given-names>
+            </name>
+            <name>
+              <surname>Tyrrell</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>McCarron</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Gill</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Lawlor</surname>
+              <given-names>BA</given-names>
+            </name>
+          </person-group>
+          <article-title>A five year follow-up study of dementia in persons with down syndrome: early symptoms and patterns of deterioration</article-title>
+          <source>Irish Journal of Psychological Medicine</source>
+          <year>2000</year>
+          <volume>17</volume>
+          <issue>01</issue>
+          <fpage>5</fpage>
+          <lpage>11</lpage>
+          <pub-id pub-id-type="doi">10.1017/S0790966700003943</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR18">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Deb</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Hare</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Prior</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Symptoms of dementia among adults with down syndrome: a qualitative study</article-title>
+          <source>Journal of Intellectual Disability Research</source>
+          <year>2007</year>
+          <volume>51</volume>
+          <fpage>726</fpage>
+          <lpage>739</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-2788.2007.00956.x</pub-id>
+          <?supplied-pmid 17845241?>
+          <pub-id pub-id-type="pmid">17845241</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR19">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dekker</surname>
+              <given-names>AD</given-names>
+            </name>
+            <name>
+              <surname>Strydom</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Coppus</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Nizetic</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Vermeiren</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Naudé</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Behavioural and psychological symptoms of dementia in down syndrome: early indicators of clinical Alzheimer's disease?</article-title>
+          <source>Cortex</source>
+          <year>2015</year>
+          <volume>73</volume>
+          <fpage>36</fpage>
+          <lpage>61</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cortex.2015.07.032</pub-id>
+          <?supplied-pmid 26343344?>
+          <pub-id pub-id-type="pmid">26343344</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR20">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Devenny</surname>
+              <given-names>DA</given-names>
+            </name>
+            <name>
+              <surname>Krinsky-McHale</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Sersen</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Silverman</surname>
+              <given-names>WP</given-names>
+            </name>
+          </person-group>
+          <article-title>Sequence of cognitive decline in dementia in adults with down syndrome</article-title>
+          <source>Journal of Intellectual Disability Research</source>
+          <year>2000</year>
+          <volume>44</volume>
+          <issue>6</issue>
+          <fpage>654</fpage>
+          <lpage>665</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1365-2788.2000.00305.x</pub-id>
+          <?supplied-pmid 11115020?>
+          <pub-id pub-id-type="pmid">11115020</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR21">
+        <mixed-citation publication-type="other">Dunn, D. M., &amp; Dunn, L. M. (2007). <italic>Peabody picture vocabulary test: Manual</italic>. Minneapolis, MN: Pearson.</mixed-citation>
+      </ref>
+      <ref id="CR22">
+        <mixed-citation publication-type="other">Dunn, L. M., &amp; Dunn, D. M. (2009). <italic>The British picture vocabulary scale</italic>. London: GL Assessment Limited.</mixed-citation>
+      </ref>
+      <ref id="CR23">
+        <mixed-citation publication-type="other">Evenhuis, H. M., Eurlings, H. A. L., &amp; Kengen, M. M. F. (1990). <italic>Dementia Questionnaire for Mentally Retarded Persons (DMR): For Diagnosis of Dementia in Mentally Retarded People-1990</italic>. The Netherlands: Hooge Burch Institute for Mentally Retarded People.</mixed-citation>
+      </ref>
+      <ref id="CR24">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferrucci</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Guralnik</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Pahor</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Corti</surname>
+              <given-names>MC</given-names>
+            </name>
+            <name>
+              <surname>Havlik</surname>
+              <given-names>RJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Hospital diagnoses, Medicare charges, and nursing home admissions in the year when older persons become severely disabled</article-title>
+          <source>JAMA</source>
+          <year>1997</year>
+          <volume>277</volume>
+          <issue>9</issue>
+          <fpage>728</fpage>
+          <lpage>734</lpage>
+          <pub-id pub-id-type="doi">10.1001/jama.1997.03540330050034</pub-id>
+          <?supplied-pmid 9042845?>
+          <pub-id pub-id-type="pmid">9042845</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR25">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Finkel</surname>
+              <given-names>SI</given-names>
+            </name>
+          </person-group>
+          <article-title>Behavioral and psychological symptoms of dementia: a current focus for clinicians, researchers, and caregivers</article-title>
+          <source>The Journal of Clinical Psychiatry</source>
+          <year>2001</year>
+          <volume>62</volume>
+          <issue>Suppl. 2</issue>
+          <fpage>3</fpage>
+          <lpage>6</lpage>
+          <?supplied-pmid 11584987?>
+          <pub-id pub-id-type="pmid">11584987</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR26">
+        <mixed-citation publication-type="other">Fuld, P. A. (1981). <italic>The Fuld object memory test</italic>. Chicago: The Stoelting Instrument Company.</mixed-citation>
+      </ref>
+      <ref id="CR27">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gauthier</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Cummings</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Ballard</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Brodaty</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Grossberg</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Robert</surname>
+              <given-names>P</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Management of behavioral problems in Alzheimer's disease</article-title>
+          <source>International Psychogeriatrics/IPA</source>
+          <year>2010</year>
+          <volume>22</volume>
+          <issue>3</issue>
+          <fpage>346e372</fpage>
+          <pub-id pub-id-type="doi">10.1017/S1041610209991505</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR28">
+        <mixed-citation publication-type="other">Gedye, A. (1995). <italic>Dementia scale for Down syndrome manual</italic>. Vancouver: Gedye Research and Consulting.</mixed-citation>
+      </ref>
+      <ref id="CR29">
+        <mixed-citation publication-type="other">Gerstadt, C. L., Hong, Y. J., &amp; Diamond, A. (1994). The relationship between cognition and action: performance of children 312–7 years old on a stroop-like day-night test. <italic>Cognition, 53</italic>(2), 129–153.</mixed-citation>
+      </ref>
+      <ref id="CR30">
+        <mixed-citation publication-type="other">Goldstein, K., &amp; Scheerer, M. (1941). <italic>Abstract Psychological Monographs, 53</italic>(2), i.</mixed-citation>
+      </ref>
+      <ref id="CR31">
+        <mixed-citation publication-type="other">Hartley, D., Blumenthal, T., Carrillo, M., DiPaolo, G., Esralew, L., Gardiner, K., et al. (2014). Down syndrome and Alzheimer's disease: common pathways, common goals. <italic>Alzheimer's &amp; Dementia</italic>, 1–10.</mixed-citation>
+      </ref>
+      <ref id="CR32">
+        <mixed-citation publication-type="other">Haxby, J. V. (1989). Neuropsychological evaluation of adults with Down’s syndrome: patterns of selective impairment in non-demented old adults. <italic>Journal of Intellectual Disability Research, 33</italic>(3), 193–210.</mixed-citation>
+      </ref>
+      <ref id="CR33">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Holland</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Hon</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Huppert</surname>
+              <given-names>FA</given-names>
+            </name>
+            <name>
+              <surname>Stevens</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>Incidence and course of dementia in people with down syndrome: findings from a population-based study</article-title>
+          <source>Journal of Intellectual Disability Research</source>
+          <year>2000</year>
+          <volume>44</volume>
+          <fpage>138</fpage>
+          <lpage>146</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1365-2788.2000.00263.x</pub-id>
+          <?supplied-pmid 10898377?>
+          <pub-id pub-id-type="pmid">10898377</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR34">
+        <mixed-citation publication-type="other">Jacola, L. M. (2012). The relationship between executive function and maladaptive behavior in adolescents with down syndrome. Unpublished doctoral dissertation. University of Cincinnati, Ohio.</mixed-citation>
+      </ref>
+      <ref id="CR35">
+        <mixed-citation publication-type="other">Jastak, S., &amp; Wilkinson, G. S. (1984). The wide range achievement test-revised. Jastak Associates.</mixed-citation>
+      </ref>
+      <ref id="CR36">
+        <mixed-citation publication-type="other">Kalsy, S., McQuillan, S., Oliver, C., Hall, S., &amp; Oyebode, J. (2002). <italic>The adults with Down’s Syndrome Project: The Assessment of Adults with Developmental Disabilities (AADS) Questionnaire</italic>. Birmingham: University of Birmingham &amp; South Birmingham Primary Care NHS Trust.</mixed-citation>
+      </ref>
+      <ref id="CR37">
+        <mixed-citation publication-type="other">Kaplan, E., Goodglass, H., &amp; Weintraub, S. (2001). <italic>Boston naming test</italic>. Austin: Pro-ed.</mixed-citation>
+      </ref>
+      <ref id="CR38">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kitler</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Krinsky-McHale</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Devenny</surname>
+              <given-names>DA</given-names>
+            </name>
+          </person-group>
+          <article-title>Verbal intrusions precede memory decline in adults with down syndrome</article-title>
+          <source>Journal of Intellectual Disability Research</source>
+          <year>2006</year>
+          <volume>50</volume>
+          <fpage>1</fpage>
+          <lpage>10</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-2788.2005.00715.x</pub-id>
+          <pub-id pub-id-type="pmid">16316425</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR39">
+        <mixed-citation publication-type="other">Kittler, P., Krinsky-McHale, S. J., &amp; Devenny, D. A. (2004). Semantic and phonological loop effects on verbal working memory in middle-age adults with mental retardation. <italic>American Journal on Mental Retardation, 109</italic>(6), 467–480.</mixed-citation>
+      </ref>
+      <ref id="CR40">
+        <mixed-citation publication-type="other">Krikorian, R., Bartok, J., &amp; Gay, N. (1994). Tower of London procedure: a standard method and developmental data. <italic>Journal of clinical and Experimental Neuropsychology, 16</italic>(6), 840–850.</mixed-citation>
+      </ref>
+      <ref id="CR41">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Krinsky-McHale</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Devenny</surname>
+              <given-names>DA</given-names>
+            </name>
+            <name>
+              <surname>Silverman</surname>
+              <given-names>WP</given-names>
+            </name>
+          </person-group>
+          <article-title>Changes in explicit memory associated with early dementia in adults with down syndrome</article-title>
+          <source>Journal of Intellectual Disability Research</source>
+          <year>2002</year>
+          <volume>46</volume>
+          <issue>3</issue>
+          <fpage>198</fpage>
+          <lpage>208</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1365-2788.2002.00365.x</pub-id>
+          <?supplied-pmid 11896805?>
+          <pub-id pub-id-type="pmid">11896805</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR42">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Krinsky-McHale</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Devenny</surname>
+              <given-names>DA</given-names>
+            </name>
+            <name>
+              <surname>Kittler</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Silverman</surname>
+              <given-names>W</given-names>
+            </name>
+          </person-group>
+          <article-title>Selective attention deficits associated with mild cognitive impairment and early stage Alzheimer's disease in adults with down syndrome</article-title>
+          <source>American Journal on Mental Retardation</source>
+          <year>2008</year>
+          <volume>113</volume>
+          <issue>5</issue>
+          <fpage>369</fpage>
+          <lpage>386</lpage>
+          <pub-id pub-id-type="doi">10.1352/2008.113:369-386</pub-id>
+          <?supplied-pmid 18702557?>
+          <pub-id pub-id-type="pmid">18702557</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR43">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lai</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>RS</given-names>
+            </name>
+          </person-group>
+          <article-title>A prospective study of Alzheimer’s disease in down syndrome</article-title>
+          <source>Archives of Neurology</source>
+          <year>1989</year>
+          <volume>46</volume>
+          <fpage>849</fpage>
+          <lpage>853</lpage>
+          <pub-id pub-id-type="doi">10.1001/archneur.1989.00520440031017</pub-id>
+          <?supplied-pmid 2527024?>
+          <pub-id pub-id-type="pmid">2527024</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR44">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lawton</surname>
+              <given-names>MP</given-names>
+            </name>
+            <name>
+              <surname>Brody</surname>
+              <given-names>EM</given-names>
+            </name>
+          </person-group>
+          <article-title>Assessment of older people: self-maintaining and instrumental activities of daily living</article-title>
+          <source>Gerontologist</source>
+          <year>1969</year>
+          <volume>9</volume>
+          <fpage>179</fpage>
+          <lpage>186</lpage>
+          <pub-id pub-id-type="doi">10.1093/geront/9.3_Part_1.179</pub-id>
+          <?supplied-pmid 5349366?>
+          <pub-id pub-id-type="pmid">5349366</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR45">
+        <mixed-citation publication-type="other">Leiter, R. G. (1940). <italic>The Leiter international performance scale</italic> (Vol. 1). Barbara: Santa Barbara State College Press.</mixed-citation>
+      </ref>
+      <ref id="CR46">
+        <mixed-citation publication-type="other">Määttä, T., Tervo-Määttä, T., Taanila, A., Kaski, M., &amp; Iivanainen, M. (2014). Adaptive Behaviour Change and Health in Adults with Down Syndrome<italic>:</italic> A prospective clinical follow-up study, Pharmacology and Nutritional Intervention in the Treatment of Disease, Dr. Faik Atroshi (Ed.), Finland.</mixed-citation>
+      </ref>
+      <ref id="CR47">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Makary</surname>
+              <given-names>AT</given-names>
+            </name>
+            <name>
+              <surname>Testa</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Einfeld</surname>
+              <given-names>SL</given-names>
+            </name>
+            <name>
+              <surname>Tonge</surname>
+              <given-names>BJ</given-names>
+            </name>
+            <name>
+              <surname>Mohr</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Gray</surname>
+              <given-names>KM</given-names>
+            </name>
+          </person-group>
+          <article-title>The association between behavioural and emotional problems and age in adults with DS without dementia: examining a wide spectrum of behavioural and emotional problems</article-title>
+          <source>Research in Developmental Disabilities</source>
+          <year>2014</year>
+          <volume>35</volume>
+          <issue>8</issue>
+          <fpage>1868</fpage>
+          <lpage>1877</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ridd.2014.04.010</pub-id>
+          <?supplied-pmid 24794290?>
+          <pub-id pub-id-type="pmid">24794290</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR48">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Margallo-Lana</surname>
+              <given-names>ML</given-names>
+            </name>
+            <name>
+              <surname>Moore</surname>
+              <given-names>PB</given-names>
+            </name>
+            <name>
+              <surname>Kay</surname>
+              <given-names>DWK</given-names>
+            </name>
+            <name>
+              <surname>Perry</surname>
+              <given-names>RH</given-names>
+            </name>
+            <name>
+              <surname>Reid</surname>
+              <given-names>BE</given-names>
+            </name>
+            <name>
+              <surname>Berney</surname>
+              <given-names>TP</given-names>
+            </name>
+            <name>
+              <surname>Tyrer</surname>
+              <given-names>SP</given-names>
+            </name>
+          </person-group>
+          <article-title>Fifteen-year follow-up of 92 hospitalized adults with down syndrome: incidence of cognitive decline, its relationship to age and neuropathology</article-title>
+          <source>Journal of Intellectual Disability Research</source>
+          <year>2007</year>
+          <volume>51</volume>
+          <fpage>463</fpage>
+          <lpage>477</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-2788.2006.00902.x</pub-id>
+          <?supplied-pmid 17493029?>
+          <pub-id pub-id-type="pmid">17493029</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR49">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McCarron</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>McCallion</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Reilly</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Mulryan</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>A prospective 14-year longitudinal follow-up of dementia in persons with down syndrome</article-title>
+          <source>Journal of Intellectual Disability Research</source>
+          <year>2014</year>
+          <volume>58</volume>
+          <issue>1</issue>
+          <fpage>61</fpage>
+          <lpage>70</lpage>
+          <pub-id pub-id-type="doi">10.1111/jir.12074</pub-id>
+          <?supplied-pmid 23902161?>
+          <pub-id pub-id-type="pmid">23902161</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR50">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McKhann</surname>
+              <given-names>GM</given-names>
+            </name>
+            <name>
+              <surname>Knopman</surname>
+              <given-names>DS</given-names>
+            </name>
+            <name>
+              <surname>Chertkow</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Hyman</surname>
+              <given-names>BT</given-names>
+            </name>
+            <name>
+              <surname>Jack</surname>
+              <given-names>CR</given-names>
+            </name>
+            <name>
+              <surname>Kawas</surname>
+              <given-names>CH</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The diagnosis of dementia due to Alzheimer’s disease: recommendations from the National Institute on Aging-Alzheimer’s association workgroups on diagnostic guidelines for Alzheimer's disease</article-title>
+          <source>Alzheimer's &amp; Dementia</source>
+          <year>2011</year>
+          <volume>7</volume>
+          <issue>3</issue>
+          <fpage>263</fpage>
+          <lpage>269</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jalz.2011.03.005</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR51">
+        <mixed-citation publication-type="other">Mohr, C., Tonge, B. J. &amp; Einfeld, S. L. (2004). <italic>Manual for the Developmental Behaviour Checklist-Adult Version</italic>, Melbourne and Sydney, Australia: Monash University Centre for Developmental Psychiatry and Psychology and School of Psychiatry, University of New South Wales.</mixed-citation>
+      </ref>
+      <ref id="CR52">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mortimer</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Schuman</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>French</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Mortimer</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Schuman</surname>
+              <given-names>LM</given-names>
+            </name>
+          </person-group>
+          <article-title>Epidemiology of dementing illness</article-title>
+          <source>The epidemiology of dementia: Monographs in epidemiology and biostatistics</source>
+          <year>1981</year>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>Oxford University Press</publisher-name>
+          <fpage>323</fpage>
+          <lpage>333</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR53">
+        <mixed-citation publication-type="other">National Institute of Aging. National Institute of Aging, Laboratory of Neurosciences; 1989. <italic>The daily living skills questionnaire</italic>.</mixed-citation>
+      </ref>
+      <ref id="CR54">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nelson</surname>
+              <given-names>LD</given-names>
+            </name>
+            <name>
+              <surname>Scheibel</surname>
+              <given-names>KE</given-names>
+            </name>
+            <name>
+              <surname>Ringman</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Sayre</surname>
+              <given-names>JM</given-names>
+            </name>
+          </person-group>
+          <article-title>An experimental approach to detecting dementia in down syndrome: a paradigm for Alzheimer’s disease</article-title>
+          <source>Brain and Cognition</source>
+          <year>2007</year>
+          <volume>64</volume>
+          <fpage>92</fpage>
+          <lpage>103</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bandc.2007.01.003</pub-id>
+          <?supplied-pmid 17383786?>
+          <pub-id pub-id-type="pmid">17383786</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR55">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nelson</surname>
+              <given-names>LD</given-names>
+            </name>
+            <name>
+              <surname>Siddarth</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Kepe</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Scheibel</surname>
+              <given-names>KE</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>SC</given-names>
+            </name>
+            <name>
+              <surname>Barrio</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Small</surname>
+              <given-names>GW</given-names>
+            </name>
+          </person-group>
+          <article-title>Positron emission tomography of brain β-amyloid and tau levels in adults with down syndrome</article-title>
+          <source>Archives of Neurology</source>
+          <year>2011</year>
+          <volume>68</volume>
+          <issue>6</issue>
+          <fpage>768</fpage>
+          <lpage>774</lpage>
+          <pub-id pub-id-type="doi">10.1001/archneurol.2011.104</pub-id>
+          <?supplied-pmid 21670401?>
+          <pub-id pub-id-type="pmid">21670401</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR56">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nieuwenhuis-Mark</surname>
+              <given-names>RE</given-names>
+            </name>
+          </person-group>
+          <article-title>Diagnosing Alzheimer's dementia in down syndrome: problems and possible solutions</article-title>
+          <source>Research in Developmental Disabilities</source>
+          <year>2009</year>
+          <volume>30</volume>
+          <issue>5</issue>
+          <fpage>827</fpage>
+          <lpage>838</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ridd.2009.01.010</pub-id>
+          <?supplied-pmid 19269132?>
+          <pub-id pub-id-type="pmid">19269132</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR57">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Oakley</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Duran</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Fisher</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Merritt</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Differences in activities of daily living motor skills of persons with and without Alzheimer's disease</article-title>
+          <source>Australian Occupational Therapy Journal</source>
+          <year>2003</year>
+          <volume>50</volume>
+          <issue>2</issue>
+          <fpage>72</fpage>
+          <lpage>78</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1440-1630.2003.00330.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR58">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Prasher</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Farooq</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Holder</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>The adaptive behaviour dementia questionnaire (ABDQ): screening questionnaire for dementia in Alzheimer’s disease in adults with down syndrome</article-title>
+          <source>Research in Developmental Disabilities</source>
+          <year>2004</year>
+          <volume>25</volume>
+          <fpage>385</fpage>
+          <lpage>397</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ridd.2003.12.002</pub-id>
+          <?supplied-pmid 15193672?>
+          <pub-id pub-id-type="pmid">15193672</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR59">
+        <mixed-citation publication-type="other">Reiss, S. (1994). <italic>Reiss screen for maladaptive behavior: test manual</italic>. Worthington: IDS Publishing.</mixed-citation>
+      </ref>
+      <ref id="CR60">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sabbagh</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Edgin</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Clinical assessment of cognitive decline in adults with down syndrome</article-title>
+          <source>Current Alzheimer Research</source>
+          <year>2016</year>
+          <volume>13</volume>
+          <issue>1</issue>
+          <fpage>30</fpage>
+          <lpage>34</lpage>
+          <pub-id pub-id-type="doi">10.2174/1567205012666150921095724</pub-id>
+          <?supplied-pmid 26391049?>
+          <pub-id pub-id-type="pmid">26391049</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR61">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Silverman</surname>
+              <given-names>W</given-names>
+            </name>
+          </person-group>
+          <article-title>Down syndrome: cognitive phenotype</article-title>
+          <source>Mental Retardation and Developmental Disabilities Research Reviews</source>
+          <year>2007</year>
+          <volume>13</volume>
+          <issue>3</issue>
+          <fpage>228</fpage>
+          <lpage>236</lpage>
+          <pub-id pub-id-type="doi">10.1002/mrdd.20156</pub-id>
+          <?supplied-pmid 17910084?>
+          <pub-id pub-id-type="pmid">17910084</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR62">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sinai</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Hassiotis</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Rantell</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Strydom</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Assessing specific cognitive deficits associated with dementia in older adults with down syndrome: use and validity of the Arizona cognitive test battery (ACTB)</article-title>
+          <source>PloS One</source>
+          <year>2016</year>
+          <volume>11</volume>
+          <issue>5</issue>
+          <fpage>e0153917</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0153917</pub-id>
+          <?supplied-pmid 27171413?>
+          <pub-id pub-id-type="pmid">27171413</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR63">
+        <mixed-citation publication-type="other">Sparrow, S. S., Balla, D. A., Cicchetti, D. V., Harrison, P. L., &amp; Doll, E. A. (1984). <italic>Vineland adaptive behavior scales</italic>. Circle Pines: American Guidance Service.</mixed-citation>
+      </ref>
+      <ref id="CR64">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stanton</surname>
+              <given-names>LR</given-names>
+            </name>
+            <name>
+              <surname>Coetzee</surname>
+              <given-names>RH</given-names>
+            </name>
+          </person-group>
+          <article-title>Down’s syndrome and dementia</article-title>
+          <source>Advances in Psychiatric Treatment</source>
+          <year>2004</year>
+          <volume>10</volume>
+          <fpage>50</fpage>
+          <lpage>58</lpage>
+          <pub-id pub-id-type="doi">10.1192/apt.10.1.50</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR65">
+        <mixed-citation publication-type="other">Strauss, H., &amp; Lewin, I. (1982). An empirical study of the weigl-goldstein-scheerer color-form test according to a developmental frame of reference. <italic>Journal of clinical Psychology, 38</italic>(2), 367–375.</mixed-citation>
+      </ref>
+      <ref id="CR66">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Strydom</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Shooshtari</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Raykar</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Torr</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Tsiouris</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Dementia in older adults with intellectual disabilities—epidemiology, presentation, and diagnosis</article-title>
+          <source>Journal of Policy and Practice in Intellectual Disabilities</source>
+          <year>2010</year>
+          <volume>7</volume>
+          <issue>2</issue>
+          <fpage>96</fpage>
+          <lpage>110</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1741-1130.2010.00253.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR67">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Suarez-Almazor</surname>
+              <given-names>ME</given-names>
+            </name>
+            <name>
+              <surname>Belseck</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Homik</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Dorgan</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Ramos-Remus</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Identifying clinical trials in the medical literature with electronic databases: MEDLINE alone is not enough</article-title>
+          <source>Controlled Clinical Trials</source>
+          <year>2000</year>
+          <volume>21</volume>
+          <issue>5</issue>
+          <fpage>476</fpage>
+          <lpage>487</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0197-2456(00)00067-2</pub-id>
+          <?supplied-pmid 11018564?>
+          <pub-id pub-id-type="pmid">11018564</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR68">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Temple</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Jozsvai</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Konstantareas</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Hewitt</surname>
+              <given-names>TA</given-names>
+            </name>
+          </person-group>
+          <article-title>Alzheimer dementia in down syndrome: the relevance of cognitive ability</article-title>
+          <source>Journal of Intellectual Disability Research</source>
+          <year>2001</year>
+          <volume>45</volume>
+          <fpage>47</fpage>
+          <lpage>55</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1365-2788.2001.00299.x</pub-id>
+          <?supplied-pmid 11168776?>
+          <pub-id pub-id-type="pmid">11168776</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR69">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Urv</surname>
+              <given-names>TK</given-names>
+            </name>
+            <name>
+              <surname>Zigman</surname>
+              <given-names>WB</given-names>
+            </name>
+            <name>
+              <surname>Silverman</surname>
+              <given-names>W</given-names>
+            </name>
+          </person-group>
+          <article-title>Maladaptive behaviours related to dementia status in adults with down syndrome</article-title>
+          <source>Americal Journal on Mental Retardation</source>
+          <year>2008</year>
+          <volume>2</volume>
+          <fpage>73</fpage>
+          <lpage>86</lpage>
+          <pub-id pub-id-type="doi">10.1352/0895-8017(2008)113[73:MBRTDS]2.0.CO;2</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR70">
+        <mixed-citation publication-type="other">Ward, G., Jagger, C., &amp; Harper, W. (1998). A review of instrumental ADL assessments for use with elderly people. <italic>Reviews in Clinical Gerontology, 8</italic>(01), 65–71.Zeng, X., Zhang, Y., Kwong, J. S. W.</mixed-citation>
+      </ref>
+      <ref id="CR71">
+        <mixed-citation publication-type="other">Wechsler, D. (1967). <italic>Manual for the Wechsler preschool and primary scale of intelligence</italic>. San Antonio: Psychological Corporation.</mixed-citation>
+      </ref>
+      <ref id="CR72">
+        <mixed-citation publication-type="other">Wechsler, D. (1974). <italic>Manual for the Wechsler intelligence scale for children, revised</italic>. San Antonio, TX: Psychological Corporation.</mixed-citation>
+      </ref>
+      <ref id="CR73">
+        <mixed-citation publication-type="other">Wilson, B. A., &amp; Ivani-Chalian, R. (1995). Performance of adults with Down’s syndrome on the children’s version of the Rivermead behavioural memory test: a brief report. <italic>British journal of clinical psychology, 34</italic>(1), 85–88.</mixed-citation>
+      </ref>
+      <ref id="CR74">
+        <mixed-citation publication-type="other">Wing, L. (1980). The MRC handicaps, behaviour &amp; skills (HBS) schedule. <italic>Acta Psychiatrica Scandinavica, 62</italic>(S285), 241–248.</mixed-citation>
+      </ref>
+      <ref id="CR75">
+        <mixed-citation publication-type="other">Wisniewski, H. M., &amp; Hill, A. L. (1985). Clinical aspects of dementia in mental retardation and developmental disabilities. In M. P. Janicki &amp; H. M. Wisniewski (Eds.), <italic>Aging and developmental disabilities</italic> (pp. 195–207). Baltimore: Brookes.</mixed-citation>
+      </ref>
+      <ref id="CR76">
+        <mixed-citation publication-type="other">Zeng, C., Zhang, C., Li., S., et al. (2015). The methodological quality assessment tools for preclinical and clinical studies, systematic review and meta-analysis, and clinical practice guideline: a systematic review. Journal of Evidence Based. Medicine<italic>,</italic> 8, 2–1</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record>

@@ -1,0 +1,681 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5359303</identifier><datestamp>2017-04-04</datestamp><setSpec>frontgene</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="review-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Genet</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Genet</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Genet.</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Genetics</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1664-8021</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5359303</article-id>
+      <article-id pub-id-type="pmcid">PMC5359303</article-id>
+      <article-id pub-id-type="pmc-uid">5359303</article-id>
+      <article-id pub-id-type="doi">10.3389/fgene.2017.00034</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Genetics</subject>
+          <subj-group>
+            <subject>Mini Review</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Unveiling the Impact of the Genomic Architecture on the Evolution of Vertebrate microRNAs</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>França</surname>
+            <given-names>Gustavo S.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn001">
+            <sup>*</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn002">
+            <sup>†</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/400688/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hinske</surname>
+            <given-names>Ludwig C.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/422948/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Galante</surname>
+            <given-names>Pedro A. F.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/138681/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Vibranovski</surname>
+            <given-names>Maria D.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn001">
+            <sup>*</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/43383/overview"/>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <sup>1</sup>
+        <institution>Departamento de Genética e Biologia Evolutiva, Universidade de São Paulo</institution>
+        <country>São Paulo, Brazil</country>
+      </aff>
+      <aff id="aff2">
+        <sup>2</sup>
+        <institution>Department of Anesthesiology, Clinic of the University of Munich, Ludwig Maximilian University of Munich</institution>
+        <country>Munich, Germany</country>
+      </aff>
+      <aff id="aff3">
+        <sup>3</sup>
+        <institution>Centro de Oncologia Molecular, Hospital Sírio-Libanês</institution>
+        <country>São Paulo, Brazil</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <p>Edited by: <italic>Scott V. Edwards, Harvard University, USA</italic></p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Reviewed by: <italic>Antonio Marco, University of Essex, UK; Bastian Fromm, Oslo University Hospital, Norway; Danillo Pinhal, São Paulo State University (UNESP), Brazil</italic></p>
+        </fn>
+        <corresp id="fn001">*Correspondence: <italic>Gustavo S. França, <email xlink:type="simple">gustavo.starvaggifranca@nyumc.org</email> Maria D. Vibranovski, <email xlink:type="simple">mdv@ib.usp.br</email></italic></corresp>
+        <fn fn-type="other" id="fn002">
+          <p><sup>†</sup>Present address: <italic>Gustavo S. França, Institute for Computational Medicine, NYU School of Medicine,430 East 29th Street, New York, NY, USA</italic></p>
+        </fn>
+        <fn fn-type="other" id="fn003">
+          <p>This article was submitted to Evolutionary and Population Genetics, a section of the journal Frontiers in Genetics</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>3</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2017</year>
+      </pub-date>
+      <volume>8</volume>
+      <elocation-id>34</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>09</day>
+          <month>12</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>09</day>
+          <month>3</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2017 França, Hinske, Galante and Vibranovski.</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <copyright-holder>França, Hinske, Galante and Vibranovski</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Eukaryotic genomes frequently exhibit interdependency between transcriptional units, as evidenced by regions of high gene density. It is well recognized that vertebrate microRNAs (miRNAs) are usually embedded in those regions. Recent work has shown that the genomic context is of utmost importance to determine miRNA expression in time and space, thus affecting their evolutionary fates over long and short terms. Consequently, understanding the inter- and intraspecific changes on miRNA genomic architecture may bring novel insights on the basic cellular processes regulated by miRNAs, as well as phenotypic evolution and disease-related mechanisms.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>intragenic</kwd>
+        <kwd>intergenic region</kwd>
+        <kwd>new and old miRNAs</kwd>
+        <kwd>host gene</kwd>
+        <kwd>target interactions</kwd>
+        <kwd>expression breadth</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source id="cn001">Conselho Nacional de Desenvolvimento CientÃ-fico e TecnolÃ³gico<named-content content-type="fundref-id">10.13039/501100003593</named-content></funding-source>
+          <award-id rid="cn001">381128/2016-4</award-id>
+        </award-group>
+        <award-group>
+          <funding-source id="cn002">FundaÃ𝕊Ã£o de Amparo Ã Pesquisa do Estado de SÃ£o Paulo<named-content content-type="fundref-id">10.13039/501100001807</named-content></funding-source>
+          <award-id rid="cn002">2015/20844-4</award-id>
+        </award-group>
+      </funding-group>
+      <counts>
+        <fig-count count="2"/>
+        <table-count count="0"/>
+        <equation-count count="0"/>
+        <ref-count count="73"/>
+        <page-count count="8"/>
+        <word-count count="0"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Introduction</title>
+      <p>Recent genome-wide projects have revealed an outstanding transcriptome diversity, especially of non-coding RNAs (ncRNAs), as well as a wealth of regulatory mechanisms and gene product interactions that compound the molecular basis of phenotypes (<xref rid="B10" ref-type="bibr">Carninci et al., 2005</xref>; <xref rid="B39" ref-type="bibr">Mele et al., 2015</xref>). A notable feature that soon became clear is the interleaved nature of eukaryotic genomes, despite their typical large sizes. This means that a particular genomic region can be suited for different purposes, with an extensive overlap of transcriptional units either in sense or antisense DNA strands (<xref rid="B32" ref-type="bibr">Kapranov et al., 2007</xref>).</p>
+      <p>The interleaved model opens up numerous possibilities for regulatory mechanisms. For instance, products of antisense transcription, which is believed to occur in more than 30% of gene loci in humans (<xref rid="B19" ref-type="bibr">Galante et al., 2007</xref>), can regulate gene activity through many different ways (reviewed in <xref rid="B51" ref-type="bibr">Pelechano and Steinmetz, 2013</xref>). In the interleaved genome, transcription units may show high interdependency, whereby neighboring or overlapping genes can be co-regulated by shared regulatory elements; yet, structural changes in the chromatin environment can also influence their expression coordinately (<xref rid="B40" ref-type="bibr">Mellor et al., 2016</xref>). Complex transcriptional networks thus emerge from a modular architecture that can either be shaped by evolutionary advantages and constraints (<xref rid="B42" ref-type="bibr">Mercer and Mattick, 2013</xref>), but also as a result of neutral processes (<xref rid="B22" ref-type="bibr">Graur et al., 2015</xref>). Such interleaved architecture is particularly striking in regard to microRNAs (miRNAs). Ever since the first large-scale studies on their genomic organization (<xref rid="B55" ref-type="bibr">Rodriguez et al., 2004</xref>), it is commonly observed that these small non-coding RNAs overlap to protein-coding genes, with vertebrate miRNAs mapping to intronic regions more than expected by chance (<xref rid="B4" ref-type="bibr">Baskerville and Bartel, 2005</xref>; <xref rid="B27" ref-type="bibr">Hinske et al., 2010</xref>, <xref rid="B26" ref-type="bibr">2014</xref>; <xref rid="B9" ref-type="bibr">Campo-Paysaa et al., 2011</xref>; <xref rid="B43" ref-type="bibr">Meunier et al., 2013</xref>). As they comprise an essential class of gene expression regulators in basic biological processes and diseases, genomic context analyses are pivotal to uncover unique aspects of miRNA biology. Here, we discuss recent advances in this topic focusing on the importance of the genomic context to miRNA expression and their target interactions. In this framework, we highlight the evolutionary consequences for the fixation of newly emerged miRNAs and functional properties arising from miRNA–genomic context relationships over long-and short-evolutionary terms.</p>
+    </sec>
+    <sec>
+      <title>The Impact of the Genomic Context on miRNA Expression and Function</title>
+      <p>As any other gene, the evolutionary processes that gives rise to new miRNAs – mainly by duplication or <italic>de novo</italic> origin (<xref rid="B5" ref-type="bibr">Berezikov, 2011</xref>; <xref rid="B43" ref-type="bibr">Meunier et al., 2013</xref>) – takes place on certain regions of the genome that may overlap or not to preexisting gene loci. In a recent study, <xref rid="B43" ref-type="bibr">Meunier et al. (2013)</xref> showed that all vertebrate species analyzed (Chicken, Platypus, Opossum, Mouse, Macaque, and Human) have a significant excess of intragenic miRNAs, with on average 54% of them overlapping to introns. Curiously, the proportions of intronic miRNAs are even higher for those of recent origin, suggesting that introns are hotspots for new miRNA origination. Moreover, the transcriptional orientation of intragenic miRNAs is highly biased (∼80%) toward the same strand orientation of their host genes (<xref rid="B55" ref-type="bibr">Rodriguez et al., 2004</xref>; <xref rid="B9" ref-type="bibr">Campo-Paysaa et al., 2011</xref>; <xref rid="B43" ref-type="bibr">Meunier et al., 2013</xref>; <xref rid="B26" ref-type="bibr">Hinske et al., 2014</xref>).</p>
+      <p>Given the large size of vertebrate genomes, why do miRNAs apparently have such preference to emerge in intragenic regions? Which evidences support the role of natural selection shaping this pattern, and what advantages miRNAs might take from such genomic organization? To address these questions, <xref rid="B16" ref-type="bibr">França et al. (2016)</xref> investigated the patterns of emergence and expression of human miRNAs along the vertebrate evolution considering the evolutionary origin of their host genes, i.e., whether miRNAs are intergenic, mapped to old protein-coding genes (originated before fish and tetrapods divergence), or to young protein-coding genes (originated after the divergence). Similar to previous studies (<xref rid="B30" ref-type="bibr">Iwama et al., 2013</xref>), it was shown that most human miRNAs (∼70%) have a relatively recent origin, emerging in the primate order. Though an interesting pattern was revealed, the majority of those young miRNAs are intragenic and preferentially embedded within old host genes, even when controlled by host gene length (including intronic region) and expression level. Expression breadth analyses showed that young miRNAs hosted by old genes were more broadly expressed (expression in more tissues) than their intergenic counterparts. On the other hand, miRNAs hosted by young genes showed a bias to tissue-specific expression when compared to the intergenic ones or those within old genes. The same conclusions held when a very stringent miRNA annotation provided by <xref rid="B18" ref-type="bibr">Fromm et al. (2015)</xref> was considered, since several miRBase entries do not represent bonafide miRNAs (<xref rid="B13" ref-type="bibr">Chiang et al., 2010</xref>; <xref rid="B64" ref-type="bibr">Taylor et al., 2014</xref>; <xref rid="B18" ref-type="bibr">Fromm et al., 2015</xref>). It is well established that expression breadth is negatively correlated with evolutionary rates (<xref rid="B69" ref-type="bibr">Wolf et al., 2009</xref>; <xref rid="B50" ref-type="bibr">Park and Choi, 2010</xref>), meaning that overall conserved genes are highly and broadly expressed, whereas less conserved genes tend to have low and narrow expression. What turns out is that the expression of intragenic miRNAs is tightly coupled to their genomic environment, especially in regard to the evolutionary ages of their host genes. In a mechanistic way, this is clearly connected with the co-expression of miRNA–host gene pairs by shared regulatory elements, a very well-documented event (<xref rid="B4" ref-type="bibr">Baskerville and Bartel, 2005</xref>; <xref rid="B49" ref-type="bibr">Ozsolak et al., 2008</xref>; <xref rid="B37" ref-type="bibr">Marsico et al., 2013</xref>). Hence, the maintenance of miRNAs embedded in genic regions may be indicative of some evolutionary constraint, since young and older intragenic miRNAs are biased toward host gene sense orientation, as well as preferential emergence within old host genes. In addition, same age miRNAs show differential expression breadth depending on their genomic context, a pattern that is maintained not only during recent (e.g., primates) but also over longer periods. Such pattern is observed for miRNAs originated in amniotes (e.g., chicken) or in placental mammals (e.g., mouse) presenting higher or lower expression breadth depending on the age of their host genes (<xref rid="B16" ref-type="bibr">França et al., 2016</xref>).</p>
+      <p>In particular for young intragenic miRNAs, being hosted by old genes could be beneficial at least during an initial adaptive phase, because of the expression broadness achieved through a presumably favorable transcriptional environment. Instead of readily relying on the settlement of their own regulatory apparatus, young miRNAs would initially been benefited by their hosts’ regulatory elements, albeit they may acquire independent regulation afterward (<xref rid="B16" ref-type="bibr">França et al., 2016</xref>). Supporting this notion, it has been suggested that young and middle-aged intragenic miRNAs are more likely to be regulated by shared promoters, whereas old miRNAs are frequently regulated by their independent intronic promoters (<xref rid="B37" ref-type="bibr">Marsico et al., 2013</xref>). In addition, as old host genes provide higher expression breadth for those young miRNAs, it would, in principle, increase the opportunities for new target interactions in different tissues. From such perspective, the host transcriptional environment could facilitate the initial expression of young miRNAs and thereafter contribute to the process of miRNA functionalization.</p>
+      <p>The location of a gene in the genome is clearly related to its expression, as revealed by transgene insertion experiments (<xref rid="B45" ref-type="bibr">Mlynárová et al., 2002</xref>) and global expression analyses of gene neighborhoods (<xref rid="B11" ref-type="bibr">Caron et al., 2001</xref>; <xref rid="B52" ref-type="bibr">Purmann et al., 2007</xref>; <xref rid="B44" ref-type="bibr">Michalak, 2008</xref>). Nevertheless, some of the observed expression changes in gene vicinity may not be subjected to selection, but rather it would be a consequence of expression changes in a close gene under strong selection. Recently, <xref rid="B21" ref-type="bibr">Ghanbarian and Hurst (2015)</xref> demonstrated that expression changes in humans, relative to the human–chimp common ancestor, coordinately drive changes in expression of the neighbors of a focal gene, and that this effect is stronger as the distance between genes are shorter (&lt;100kbp). Therefore, the genomic context still may yield important effects on the expression, and perhaps the fixation of novel miRNAs that are not under direct selection.</p>
+    </sec>
+    <sec>
+      <title>Evolutionary Conservation and Novelties From miRNAs’ Genomic Context</title>
+      <p>The phylogenetic distribution of miRNAs in vertebrates is distinguished by the presence of deeply conserved and abundant clade or species-specific repertoires (<xref rid="B6" ref-type="bibr">Berezikov et al., 2006</xref>; <xref rid="B68" ref-type="bibr">Wheeler et al., 2009</xref>; <xref rid="B43" ref-type="bibr">Meunier et al., 2013</xref>; <xref rid="B18" ref-type="bibr">Fromm et al., 2015</xref>). Although the evolution of miRNA sequences have been investigated (<xref rid="B36" ref-type="bibr">Lyu et al., 2014</xref>; <xref rid="B47" ref-type="bibr">Ninova et al., 2014</xref>), the conserved patterns and evolutionary innovations that arose due to interspecific differences in the genomic context are largely underexplored. One of the few studies to address this issue compared the genomic location and expression of ∼100 miRNAs during developmental stages of medaka fish, zebrafish, chicken, and mouse (<xref rid="B1" ref-type="bibr">Ason et al., 2006</xref>). It was demonstrated that spatial expression differences can be related to changes either in the miRNA location and copy number variation rather than to sequence divergence (<xref rid="B1" ref-type="bibr">Ason et al., 2006</xref>). Actually, the miRNA genomic location is thought to influence their expression divergence, as old- and middle-aged intragenic miRNAs tend to be more similarly expressed among species than intergenic ones (<xref rid="B16" ref-type="bibr">França et al., 2016</xref>).</p>
+      <p>Such kind of expression constraint linked to a conserved genomic context is clearly observed for <italic>miR-490</italic> and its host gene <italic>CHRM2</italic> (<xref rid="B16" ref-type="bibr">França et al., 2016</xref>). Homologous sequences of <italic>miR-490</italic> are found across amniotes, with identical mature sequences from human to chicken. Gene order and location of <italic>miR-490</italic> in the second intron of <italic>CHRM2</italic> are also preserved (<bold>Figure <xref ref-type="fig" rid="F1">1A</xref></bold>). Although <italic>miR-490</italic> is annotated as intergenic in chicken, predicted transcripts with an intron overlapping <italic>miR-490</italic> are annotated. Expression analyses reveal a strongly conserved pattern among human, rhesus macaque, mouse, and chicken; indicating concomitant expression of <italic>miR-490</italic> and <italic>CHRM2</italic> (<xref rid="B60" ref-type="bibr">Shen et al., 2015</xref>) with highest abundance in heart (<bold>Figure <xref ref-type="fig" rid="F1">1A</xref></bold>). The host gene is a muscarinic cholinergic receptor involved in acetylcholine-mediated cardiac chronotropic (heart rate) and inotropic (strength of muscle contraction) effects (<xref rid="B8" ref-type="bibr">Brodde and Michel, 1999</xref>), and it has been associated with cardiomyopathy (<xref rid="B71" ref-type="bibr">Zhang et al., 2008</xref>). Notably, dysregulation of <italic>miR-490</italic> is also reported in cardiac disease (<xref rid="B14" ref-type="bibr">Cooley et al., 2012</xref>) and is involved with proliferation of human coronary artery smooth cells (<xref rid="B62" ref-type="bibr">Sun et al., 2013</xref>), suggesting an important functional connection between <italic>miR-490</italic> and <italic>CHRM2</italic>.</p>
+      <fig id="F1" position="float">
+        <label>FIGURE 1</label>
+        <caption>
+          <p><bold>Genomic context conservation of intragenic miRNAs. (A)</bold> The human <italic>miR-490</italic> embedded within <italic>CHRM2</italic> reveals a highly conserved pattern in terms of sequence (left panel) and expression (right panel). Alignments from the UCSC genome browser indicate the preservation of <italic>miR-490</italic> throughout amniotes (green bars) with few differing bases (light blue squares) and identical mature sequences (orange lines). High-phyloP base scores indicate strong purifying selection on this region. <italic>MiR-490</italic> and <italic>CHRM2</italic> are co-expressed with highest levels in heart, a pattern conserved in other species. <bold>(B)</bold> The human <italic>miR-625</italic>, encoded within <italic>FUT8</italic>, has homologous sequences only in primates. The expression of <italic>miR-625</italic> follows its host pattern, with higher levels in brain and cerebellum, possibly reflecting rapid evolution. Expression of <italic>miR-625</italic> in rhesus was not detected. Expression data were obtained from <xref rid="B7" ref-type="bibr">Brawand et al. (2011)</xref> and <xref rid="B43" ref-type="bibr">Meunier et al. (2013)</xref> and processed in <xref rid="B16" ref-type="bibr">França et al. (2016)</xref>. Tissues are: heart (H), brain (B), cerebellum (C), kidney (K), and testis (T).</p>
+        </caption>
+        <graphic xlink:href="fgene-08-00034-g001"/>
+      </fig>
+      <p>As mentioned earlier, the transcriptional environment of host genes may act as a key factor to promote the expression of newly emerged miRNAs. This phenomenon is well illustrated by the primate-specific <italic>miR-625</italic> encoded within <italic>FUT8</italic> (<bold>Figure <xref ref-type="fig" rid="F1">1B</xref></bold>). This host gene is a fucosyltransferase well-conserved throughout animals (<xref rid="B15" ref-type="bibr">Costache et al., 1997</xref>; <xref rid="B31" ref-type="bibr">Juliant et al., 2014</xref>) that catalyzes fucosylation of glycoproteins, which is essential for activating growth factor receptors (<xref rid="B33" ref-type="bibr">Liu et al., 2011</xref>), while its deletion has lethal effects in mice (<xref rid="B66" ref-type="bibr">Wang et al., 2005</xref>). <italic>FUT8</italic> is ubiquitously expressed in human tissues (<xref rid="B39" ref-type="bibr">Mele et al., 2015</xref>) and <italic>miR-625</italic> seems to follow its host expression pattern (<bold>Figure <xref ref-type="fig" rid="F1">1B</xref></bold>). Considering the young evolutionary age of <italic>miR-625</italic>, its expression levels and breadth are unusually high, thus being frequently altered in different types of cancer (<xref rid="B73" ref-type="bibr">Zhou et al., 2014</xref>; <xref rid="B72" ref-type="bibr">Zheng et al., 2015</xref>). It is interesting that <italic>miR-625</italic> has emerged as a promising predictive biomarker in colorectal cancer (<xref rid="B65" ref-type="bibr">Verma et al., 2015</xref>; <xref rid="B53" ref-type="bibr">Rasmussen et al., 2016</xref>), exhibiting strong association with oxaliplatin (a chemotherapeutic agent used in the treatment of metastatic colorectal cancer) resistance (<xref rid="B53" ref-type="bibr">Rasmussen et al., 2016</xref>).</p>
+      <p>Another singular feature of miRNAs is their frequent occurrence in clusters, originated through tandem or non-local duplications or by <italic>de novo</italic> mutations either in introns or intergenic regions (<xref rid="B5" ref-type="bibr">Berezikov, 2011</xref>). Such genomic organization is prone to greatly affect the evolution of newly emerged miRNAs. According to <xref rid="B67" ref-type="bibr">Wang et al. (2016)</xref>, members of the same cluster tend to exhibit coordinated expression and to target overlapping sets of genes. The authors proposed that clustering arrangement and by developing functions related to the pre-existing miRNAs in the same cluster would help the initial survival of these young miRNAs, until the cluster is settled up by purifying selection. Otherwise, the most usual fate of <italic>de novo</italic> newly emerged miRNAs would to undergo rapid degeneration. In further support of this “functional co-adaptation” model, clustered young miRNAs indeed present significant signs of adaptive changes that probably drive them to functional constraints associated with the older members of the cluster (<xref rid="B67" ref-type="bibr">Wang et al., 2016</xref>).</p>
+    </sec>
+    <sec>
+      <title>miRNA–Target Interactions: Functional and Evolutionary Implications</title>
+      <p>If a recently emerged miRNA is expressed and integrated into regulatory networks through consistent and biologically relevant target interactions, it will have more chances to become functional and be retained afterward over long periods (<xref rid="B12" ref-type="bibr">Chen and Rajewsky, 2007</xref>; <xref rid="B36" ref-type="bibr">Lyu et al., 2014</xref>). Therefore, young miRNAs originated in a genomic context able to boost their expression in multiple tissues would favor target recognition. This idea is consistent with the previous observation that young miRNAs emerged within old host genes are expressed in more tissues and tend to have more predicted targets compared to young intergenic ones (<xref rid="B16" ref-type="bibr">França et al., 2016</xref>). We, therefore, suggested a miRNA evolution model that takes into account not only the miRNAs themselves, but also their genomic context (<xref rid="B16" ref-type="bibr">França et al., 2016</xref>) (<bold>Figure <xref ref-type="fig" rid="F2">2</xref></bold>). Hence, young miRNAs (or “proto” miRNAs) hosted by old genes would gain higher expression breadth benefited by their host’s transcriptional activity, thus enabling many target interactions that, at first glance, are mostly neutral (<xref rid="B12" ref-type="bibr">Chen and Rajewsky, 2007</xref>; <xref rid="B48" ref-type="bibr">Nozawa et al., 2016</xref>), but could be stabilized by natural selection over time. On the other hand, as young intergenic miRNAs tend to have narrower expression, and apparently less targets to interact with, they could undergo faster degeneration (<bold>Figure <xref ref-type="fig" rid="F2">2</xref></bold>). This degeneration scenario is also most likely to happen with miRNAs emerged within young hosts, because of their general tissue-specific expression signature (<xref rid="B16" ref-type="bibr">França et al., 2016</xref>).</p>
+      <fig id="F2" position="float">
+        <label>FIGURE 2</label>
+        <caption>
+          <p><bold>Model of miRNA evolution.</bold> Young miRNAs emerged within old genes are expressed in more tissues and, therefore, could interact with diverse set of targets, possibly enhancing the chances of functionalization and fixation through time. In contrast, as young intergenic miRNAs tend to be tissue-specific (likely expressed in testis), very limited target interactions could contribute to their faster degeneration.</p>
+        </caption>
+        <graphic xlink:href="fgene-08-00034-g002"/>
+      </fig>
+      <p>Evolutionary sequence conservation has been successfully introduced to reduce the number of false-positive and to increase the signal-to-noise ratio in target predictions. Instead of helping identifying conserved pathways and relationships among miRNAs and their targets (<xref rid="B24" ref-type="bibr">Hausser and Zavolan, 2014</xref>), this requirement comes with a drawback, since it can only be applied to miRNAs and target genes that have conservation data available and which are not species-specific. Indeed, a recent study demonstrated that target sites identified by cross-linking immunoprecipitation data are rarely conserved between distantly related species, but extensive conservation is observed between closely related ones (<xref rid="B70" ref-type="bibr">Xu et al., 2013</xref>). Even when considering species-specific sites, there is evidence of selective constraints compared to non-target sites across the 3′UTR region, suggesting that most of non-conserved targets might be functional at least for a short evolutionary period. A striking example of this condition is the human-specific target site for <italic>miR-183</italic> in the 3vUTR of the transcription factor <italic>FOXO1</italic>, whose regulation altered FOXO1-dependent phenotypes, such as proliferation and migration, in a species-specific manner (<xref rid="B38" ref-type="bibr">McLoughlin et al., 2014</xref>). Despite of the recent advances on the characterization of operating mechanisms that guide miRNA–target interactions, we are only on the verge of understanding how newly emerged miRNAs in different genomic contexts are integrated into regulatory networks, as well as how their novel target interactions contribute to phenotypic plasticity.</p>
+    </sec>
+    <sec>
+      <title>Population Biology Perspective for the Genome Architecture of miRNAs</title>
+      <p>Population biology studies at the genome level have been proved to be promising tools, enhancing our understanding on how genetic elements are interconnected spatially and temporally (<xref rid="B3" ref-type="bibr">Barrón et al., 2014</xref>; <xref rid="B61" ref-type="bibr">Sudmant et al., 2015</xref>). Most of miRNA population studies have focused on the impact of single nucleotide variants localized inside the seed and the mature regions to analyze conservation patterns, target diversification, and differential disease susceptibility (e.g., <xref rid="B2" ref-type="bibr">Barbash et al., 2014</xref>; <xref rid="B54" ref-type="bibr">Rawlings-Goss et al., 2014</xref>; <xref rid="B20" ref-type="bibr">Gallego et al., 2016</xref>). Except for few studies of miRNA expression quantitative trait loci (e.g., <xref rid="B28" ref-type="bibr">Huan et al., 2015</xref>), the evolution of miRNA genomic architecture has not been deeply investigated using a population biology framework.</p>
+      <p>It is still unknown if variation in miRNAs sequence, expression, and target sites across populations are more relevant for uncovering the mechanisms of phenotypic evolution and disease than other genetic variation. On one hand, due to its folded structure and small size, miRNAs are more likely to emerge <italic>de novo</italic> than novel protein coding genes (<xref rid="B5" ref-type="bibr">Berezikov, 2011</xref>). Diversification of miRNA target repertoire may be more prone to appear as result of simple sequence modifications such as direct mutation, seed or hairpin shifting, and arm switching (<xref rid="B5" ref-type="bibr">Berezikov, 2011</xref>). Therefore, variation on miRNA-binding sites indeed can lead to phenotypic innovation, as exemplified by the lineage diversification of cichlid fishes (<xref rid="B34" ref-type="bibr">Loh et al., 2011</xref>; <xref rid="B17" ref-type="bibr">Franchini et al., 2016</xref>). On the other hand, as target mRNAs can be regulated subtly by several miRNAs, detecting phenotypical effects by population variation seems to be harder than for genetic variation in regulatory or coding regions. Indeed, most of single nucleotide polymorphisms (SNPs) involved in the creation of novel miRNA target sites does not correlate with phenotypic differences among humans (<xref rid="B56" ref-type="bibr">Saunders et al., 2007</xref>).</p>
+      <p>Nonetheless, it is possible that genomic comparisons of different individuals can give insights on the origination process of miRNAs, as previously done for other genetic elements (<xref rid="B23" ref-type="bibr">Hatcher, 2000</xref>; <xref rid="B57" ref-type="bibr">Schlötterer, 2015</xref>). For instance, the basis of retrogene origination in metazoans has been recently deciphered through <italic>Drosophila</italic> population data. Flanking regions signatures of polymorphic retrocopies revealed that long terminal repeat (LTR) retrotransposons have mediate their formation (<xref rid="B63" ref-type="bibr">Tan et al., 2016</xref>). miRNAs are mostly originated <italic>de novo</italic> or by duplication (<xref rid="B43" ref-type="bibr">Meunier et al., 2013</xref>), but mechanistic details on how those processes occur are still unknown. Population genomics might help uncover those components through the identification of mutational signatures attached to polymorphic miRNAs that are usually erased by time and throughout their fixation.</p>
+      <p>In addition, comparing fixed patterns present in different species to polymorphic states observed in a group of individuals are useful tools for contrasting genomic features driven by natural selection to patterns produced by mutation bias (<xref rid="B35" ref-type="bibr">Long et al., 2013</xref>). Notable, this type of comparison helped to support the hypothesis in which natural selection drives retrogene duplication from the X chromosome to the autosomes in <italic>Drosophila</italic> and humans (<xref rid="B59" ref-type="bibr">Schrider et al., 2011</xref>, <xref rid="B58" ref-type="bibr">2013</xref>; <xref rid="B46" ref-type="bibr">Navarro and Galante, 2015</xref>). Therefore, the analyses of different human populations can give further support to the adapted pattern of miRNAs organized inside old protein coding host genes.</p>
+      <p>Furthermore, as miRNAs expression and targeting has been shown to be implicated in a wide of human diseases (<xref rid="B41" ref-type="bibr">Mendell and Olson, 2012</xref>), seed, and mature region variants found among ethnic populations become clinically important (<xref rid="B54" ref-type="bibr">Rawlings-Goss et al., 2014</xref>). More specifically, there are distinct miRNA profiles in diseases between African and European descendants (e.g., <xref rid="B29" ref-type="bibr">Huang et al., 2011</xref>; <xref rid="B25" ref-type="bibr">Heegaard et al., 2012</xref>) which could be responsible for differences among those populations in susceptibility to diseases, drug sensitiveness, and biomarker diagnostics (<xref rid="B54" ref-type="bibr">Rawlings-Goss et al., 2014</xref>). Therefore, should worth investigating if ethnic group variation on miRNA genomic context have also significant role in human health.</p>
+      <p>From the discussion above, it turns out that the genomic context, as an outcome of natural selection, imposes evolutionary constraints to maintain the structural and functional integrity of its genetic elements. Moreover, it can also propel the evolutionary fate of new elements that arise in a suitable environment, eventually accelerating the process of functionalization. Therefore, evolutionary models tackling the 3D chromatin organization will be of extreme value to pursue the general principles that afford those processes take place throughout genomes.</p>
+    </sec>
+    <sec>
+      <title>Author Contributions</title>
+      <p>GSF and MDV conceived the study. GSF, LCH, PAFG, and MDV wrote the manuscript. All authors revised and approved it for publication.</p>
+    </sec>
+    <sec>
+      <title>Conflict of Interest Statement</title>
+      <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>This work was supported by CNPq (Conselho Nacional de Desenvolvimento Científico e Tecnológico) (381128/2016-4, to G.S.F) and FAPESP (Fundação de Amparo à Pesquisa do Estado de São Paulo) (15/20844-4, to M.D.V).</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ason</surname><given-names>B.</given-names></name><name><surname>Darnell</surname><given-names>D. K.</given-names></name><name><surname>Wittbrodt</surname><given-names>B.</given-names></name><name><surname>Berezikov</surname><given-names>E.</given-names></name><name><surname>Kloosterman</surname><given-names>W. P.</given-names></name><name><surname>Wittbrodt</surname><given-names>J.</given-names></name><etal/></person-group> (<year>2006</year>). <article-title>Differences in vertebrate microRNA expression.</article-title>
+<source><italic>Proc. Natl. Acad. Sci. U.S.A.</italic></source>
+<volume>103</volume>
+<fpage>14385</fpage>–<lpage>14389</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0603529103</pub-id><pub-id pub-id-type="pmid">16983084</pub-id></mixed-citation>
+      </ref>
+      <ref id="B2">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Barbash</surname><given-names>S.</given-names></name><name><surname>Shifman</surname><given-names>S.</given-names></name><name><surname>Soreq</surname><given-names>H.</given-names></name></person-group> (<year>2014</year>). <article-title>Global coevolution of human micrornas and their target genes.</article-title>
+<source><italic>Mol. Biol. Evol.</italic></source>
+<volume>31</volume>
+<fpage>1237</fpage>–<lpage>1247</lpage>. <pub-id pub-id-type="doi">10.1093/molbev/msu090</pub-id><pub-id pub-id-type="pmid">24600049</pub-id></mixed-citation>
+      </ref>
+      <ref id="B3">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Barrón</surname><given-names>M. G.</given-names></name><name><surname>Fiston-Lavier</surname><given-names>A.-S.</given-names></name><name><surname>Petrov</surname><given-names>D. A.</given-names></name><name><surname>González</surname><given-names>J.</given-names></name></person-group> (<year>2014</year>). <article-title>Population genomics of transposable elements in <italic>Drosophila</italic>.</article-title>
+<source><italic>Annu. Rev. Genet.</italic></source>
+<volume>48</volume>
+<fpage>561</fpage>–<lpage>581</lpage>. <pub-id pub-id-type="doi">10.1146/annurev-genet-120213-092359</pub-id><pub-id pub-id-type="pmid">25292358</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Baskerville</surname><given-names>S.</given-names></name><name><surname>Bartel</surname><given-names>D. P.</given-names></name></person-group> (<year>2005</year>). <article-title>Microarray profiling of microRNAs reveals frequent coexpression with neighboring miRNAs and host genes.</article-title>
+<source><italic>RNA</italic></source>
+<volume>11</volume>
+<fpage>241</fpage>–<lpage>247</lpage>. <pub-id pub-id-type="doi">10.1261/rna.7240905</pub-id><pub-id pub-id-type="pmid">15701730</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Berezikov</surname><given-names>E.</given-names></name></person-group> (<year>2011</year>). <article-title>Evolution of microRNA diversity and regulation in animals.</article-title>
+<source><italic>Nat. Rev. Genet.</italic></source>
+<volume>12</volume>
+<fpage>846</fpage>–<lpage>860</lpage>. <pub-id pub-id-type="doi">10.1038/nrg3079</pub-id><pub-id pub-id-type="pmid">22094948</pub-id></mixed-citation>
+      </ref>
+      <ref id="B6">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Berezikov</surname><given-names>E.</given-names></name><name><surname>Thuemmler</surname><given-names>F.</given-names></name><name><surname>van Laake</surname><given-names>L. W.</given-names></name><name><surname>Kondova</surname><given-names>I.</given-names></name><name><surname>Bontrop</surname><given-names>R.</given-names></name><name><surname>Cuppen</surname><given-names>E.</given-names></name><etal/></person-group> (<year>2006</year>). <article-title>Diversity of microRNAs in human and chimpanzee brain.</article-title>
+<source><italic>Nat. Genet.</italic></source>
+<volume>38</volume>
+<fpage>1375</fpage>–<lpage>1377</lpage>. <pub-id pub-id-type="doi">10.1038/ng1914</pub-id><pub-id pub-id-type="pmid">17072315</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brawand</surname><given-names>D.</given-names></name><name><surname>Soumillon</surname><given-names>M.</given-names></name><name><surname>Necsulea</surname><given-names>A.</given-names></name><name><surname>Julien</surname><given-names>P.</given-names></name><name><surname>Csárdi</surname><given-names>G.</given-names></name><name><surname>Harrigan</surname><given-names>P.</given-names></name><etal/></person-group> (<year>2011</year>). <article-title>The evolution of gene expression levels in mammalian organs.</article-title>
+<source><italic>Nature</italic></source>
+<volume>478</volume>
+<fpage>343</fpage>–<lpage>348</lpage>. <pub-id pub-id-type="doi">10.1038/nature10532</pub-id><pub-id pub-id-type="pmid">22012392</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brodde</surname><given-names>O.-E.</given-names></name><name><surname>Michel</surname><given-names>M. C.</given-names></name></person-group> (<year>1999</year>). <article-title>Adrenergic and muscarinic receptors in the human heart.</article-title>
+<source><italic>Pharmacol. Rev.</italic></source>
+<volume>51</volume>
+<fpage>651</fpage>–<lpage>690</lpage>.<pub-id pub-id-type="pmid">10581327</pub-id></mixed-citation>
+      </ref>
+      <ref id="B9">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Campo-Paysaa</surname><given-names>F.</given-names></name><name><surname>Sémon</surname><given-names>M.</given-names></name><name><surname>Cameron</surname><given-names>R. A.</given-names></name><name><surname>Peterson</surname><given-names>K. J.</given-names></name><name><surname>Schubert</surname><given-names>M.</given-names></name></person-group> (<year>2011</year>). <article-title>microRNA complements in deuterostomes: origin and evolution of microRNAs.</article-title>
+<source><italic>Evol. Dev.</italic></source>
+<volume>13</volume>
+<fpage>15</fpage>–<lpage>27</lpage>. <pub-id pub-id-type="doi">10.1111/j.1525-142X.2010.00452.x</pub-id><pub-id pub-id-type="pmid">21210939</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Carninci</surname><given-names>P.</given-names></name><name><surname>Kasukawa</surname><given-names>T.</given-names></name><name><surname>Katayama</surname><given-names>S.</given-names></name><name><surname>Gough</surname><given-names>J.</given-names></name><name><surname>Frith</surname><given-names>M. C.</given-names></name><name><surname>Maeda</surname><given-names>N.</given-names></name><etal/></person-group> (<year>2005</year>). <article-title>The transcriptional landscape of the mammalian genome.</article-title>
+<source><italic>Science</italic></source>
+<volume>309</volume>
+<fpage>1559</fpage>–<lpage>1563</lpage>. <pub-id pub-id-type="doi">10.1126/science.1112014</pub-id><pub-id pub-id-type="pmid">16141072</pub-id></mixed-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Caron</surname><given-names>H.</given-names></name><name><surname>van Schaik</surname><given-names>B.</given-names></name><name><surname>van der Mee</surname><given-names>M.</given-names></name><name><surname>Baas</surname><given-names>F.</given-names></name><name><surname>Riggins</surname><given-names>G.</given-names></name><name><surname>van Sluis</surname><given-names>P.</given-names></name><etal/></person-group> (<year>2001</year>). <article-title>The human transcriptome map: clustering of highly expressed genes in chromosomal domains.</article-title>
+<source><italic>Science</italic></source>
+<volume>291</volume>
+<fpage>1289</fpage>–<lpage>1292</lpage>. <pub-id pub-id-type="doi">10.1126/science.1056794</pub-id><pub-id pub-id-type="pmid">11181992</pub-id></mixed-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chen</surname><given-names>K.</given-names></name><name><surname>Rajewsky</surname><given-names>N.</given-names></name></person-group> (<year>2007</year>). <article-title>The evolution of gene regulation by transcription factors and microRNAs.</article-title>
+<source><italic>Nat. Rev. Genet.</italic></source>
+<volume>8</volume>
+<fpage>93</fpage>–<lpage>103</lpage>. <pub-id pub-id-type="doi">10.1038/nrg1990</pub-id><pub-id pub-id-type="pmid">17230196</pub-id></mixed-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chiang</surname><given-names>H. R.</given-names></name><name><surname>Schoenfeld</surname><given-names>L. W.</given-names></name><name><surname>Ruby</surname><given-names>J. G.</given-names></name><name><surname>Auyeng</surname><given-names>V. C.</given-names></name><name><surname>Spies</surname><given-names>N.</given-names></name><name><surname>Baek</surname><given-names>D.</given-names></name><etal/></person-group> (<year>2010</year>). <article-title>Mammalian microRNAs: experimental evaluation of novel and previously annotated genes.</article-title>
+<source><italic>Genes Dev.</italic></source>
+<volume>24</volume>
+<fpage>992</fpage>–<lpage>1009</lpage>. <pub-id pub-id-type="doi">10.1101/gad.1884710</pub-id><pub-id pub-id-type="pmid">20413612</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cooley</surname><given-names>N.</given-names></name><name><surname>Cowley</surname><given-names>M. J.</given-names></name><name><surname>Lin</surname><given-names>R. C. Y.</given-names></name><name><surname>Marasco</surname><given-names>S.</given-names></name><name><surname>Wong</surname><given-names>C.</given-names></name><name><surname>Kaye</surname><given-names>D. M.</given-names></name><etal/></person-group> (<year>2012</year>). <article-title>Influence of atrial fibrillation on microRNA expression profiles in left and right atria from patients with valvular heart disease.</article-title>
+<source><italic>Physiol. Genomics</italic></source>
+<volume>44</volume>
+<fpage>211</fpage>–<lpage>219</lpage>. <pub-id pub-id-type="doi">10.1152/physiolgenomics.00111.2011</pub-id><pub-id pub-id-type="pmid">22147268</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Costache</surname><given-names>M.</given-names></name><name><surname>Apoil</surname><given-names>P. A.</given-names></name><name><surname>Cailleau</surname><given-names>A.</given-names></name><name><surname>Elmgren</surname><given-names>A.</given-names></name><name><surname>Larson</surname><given-names>G.</given-names></name><name><surname>Henry</surname><given-names>S.</given-names></name><etal/></person-group> (<year>1997</year>). <article-title>Evolution of fucosyltransferase genes in vertebrates.</article-title>
+<source><italic>J. Biol. Chem.</italic></source>
+<volume>272</volume>
+<fpage>29721</fpage>–<lpage>29728</lpage>. <pub-id pub-id-type="doi">10.1074/jbc.272.47.29721</pub-id><pub-id pub-id-type="pmid">9368041</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>França</surname><given-names>G. S.</given-names></name><name><surname>Vibranovski</surname><given-names>M. D.</given-names></name><name><surname>Galante</surname><given-names>P. A. F.</given-names></name></person-group> (<year>2016</year>). <article-title>Host gene constraints and genomic context impact the expression and evolution of human microRNAs.</article-title>
+<source><italic>Nat. Commun.</italic></source>
+<volume>7</volume>:<issue>11438</issue>
+<pub-id pub-id-type="doi">10.1038/ncomms11438</pub-id></mixed-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Franchini</surname><given-names>P.</given-names></name><name><surname>Xiong</surname><given-names>P.</given-names></name><name><surname>Fruciano</surname><given-names>C.</given-names></name><name><surname>Meyer</surname><given-names>A.</given-names></name></person-group> (<year>2016</year>). <article-title>The role of microRNAs in the repeated parallel diversification of lineages of midas cichlid fish from nicaragua.</article-title>
+<source><italic>Genome Biol. Evol.</italic></source>
+<volume>8</volume>
+<fpage>1543</fpage>–<lpage>1555</lpage>. <pub-id pub-id-type="doi">10.1093/gbe/evw097</pub-id><pub-id pub-id-type="pmid">27189980</pub-id></mixed-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fromm</surname><given-names>B.</given-names></name><name><surname>Billipp</surname><given-names>T.</given-names></name><name><surname>Peck</surname><given-names>L. E.</given-names></name><name><surname>Johansen</surname><given-names>M.</given-names></name><name><surname>Tarver</surname><given-names>J. E.</given-names></name><name><surname>King</surname><given-names>B. L.</given-names></name><etal/></person-group> (<year>2015</year>). <article-title>A Uniform system for the annotation of vertebrate microRNA genes and the evolution of the human microRNAome.</article-title>
+<source><italic>Annu. Rev. Genet.</italic></source>
+<volume>49</volume>
+<issue>213-242</issue>
+<pub-id pub-id-type="doi">10.1146/annurev-genet-120213-092023</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Galante</surname><given-names>P. A. F.</given-names></name><name><surname>Vidal</surname><given-names>D. O.</given-names></name><name><surname>de Souza</surname><given-names>J. E.</given-names></name><name><surname>Camargo</surname><given-names>A. A.</given-names></name><name><surname>de Souza</surname><given-names>S. J.</given-names></name></person-group> (<year>2007</year>). <article-title>Sense-antisense pairs in mammals: functional and evolutionary considerantions.</article-title>
+<source><italic>Genome Biol.</italic></source>
+<volume>8</volume>:<issue>R40</issue>
+<pub-id pub-id-type="doi">10.1186/gb-2007-8-3-r40</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gallego</surname><given-names>A.</given-names></name><name><surname>Melé</surname><given-names>M.</given-names></name><name><surname>Balcells</surname><given-names>I.</given-names></name><name><surname>García-Ramallo</surname><given-names>E.</given-names></name><name><surname>Torruella-Loran</surname><given-names>I.</given-names></name><name><surname>Fernández-Bellon</surname><given-names>H.</given-names></name><etal/></person-group> (<year>2016</year>). <article-title>Functional implications of human-specific changes in great ape microRNAs.</article-title>
+<source><italic>PLoS ONE</italic></source>
+<volume>11</volume>:<issue>e0154194</issue>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0154194</pub-id></mixed-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ghanbarian</surname><given-names>A. T.</given-names></name><name><surname>Hurst</surname><given-names>L. D.</given-names></name></person-group> (<year>2015</year>). <article-title>Neighboring genes show correlated evolution in gene expression.</article-title>
+<source><italic>Mol. Biol. Evol.</italic></source>
+<volume>32</volume>
+<fpage>1748</fpage>–<lpage>1766</lpage>. <pub-id pub-id-type="doi">10.1093/molbev/msv053</pub-id><pub-id pub-id-type="pmid">25743543</pub-id></mixed-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Graur</surname><given-names>D.</given-names></name><name><surname>Zheng</surname><given-names>Y.</given-names></name><name><surname>Azevedo</surname><given-names>R. B.</given-names></name></person-group> (<year>2015</year>). <article-title>An evolutionary classification of genomic function.</article-title>
+<source><italic>Genome Biol. Evol.</italic></source>
+<volume>7</volume>
+<fpage>642</fpage>–<lpage>645</lpage>. <pub-id pub-id-type="doi">10.1093/gbe/evv021</pub-id><pub-id pub-id-type="pmid">25635041</pub-id></mixed-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hatcher</surname><given-names>M. J.</given-names></name></person-group> (<year>2000</year>). <article-title>Persistence of selfish genetic elements: population structure and conflict.</article-title>
+<source><italic>Trends Ecol. Evol.</italic></source>
+<volume>15</volume>
+<fpage>271</fpage>–<lpage>277</lpage>. <pub-id pub-id-type="doi">10.1016/S0169-5347(00)01875-9</pub-id><pub-id pub-id-type="pmid">10856947</pub-id></mixed-citation>
+      </ref>
+      <ref id="B24">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hausser</surname><given-names>J.</given-names></name><name><surname>Zavolan</surname><given-names>M.</given-names></name></person-group> (<year>2014</year>). <article-title>Identification and consequences of miRNA-target interactions–beyond repression of gene expression.</article-title>
+<source><italic>Nat. Rev. Genet.</italic></source>
+<volume>15</volume>
+<issue>599-612</issue>
+<pub-id pub-id-type="doi">10.1038/nrg3765</pub-id></mixed-citation>
+      </ref>
+      <ref id="B25">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Heegaard</surname><given-names>N. H.</given-names></name><name><surname>Schetter</surname><given-names>A. J.</given-names></name><name><surname>Welsh</surname><given-names>J. A.</given-names></name><name><surname>Yoneda</surname><given-names>M.</given-names></name><name><surname>Bowman</surname><given-names>E. D.</given-names></name><name><surname>Harris</surname><given-names>C. C.</given-names></name></person-group> (<year>2012</year>). <article-title>Circulating micro-RNA expression profiles in early stage nonsmall cell lung cancer.</article-title>
+<source><italic>Int. J. Cancer</italic></source>
+<volume>130</volume>
+<fpage>1378</fpage>–<lpage>1386</lpage>. <pub-id pub-id-type="doi">10.1002/ijc.26153</pub-id><pub-id pub-id-type="pmid">21544802</pub-id></mixed-citation>
+      </ref>
+      <ref id="B26">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hinske</surname><given-names>L. C.</given-names></name><name><surname>França</surname><given-names>G. S.</given-names></name><name><surname>Torres</surname><given-names>H. A. M.</given-names></name><name><surname>Ohara</surname><given-names>D. T.</given-names></name><name><surname>Lopes-Ramos</surname><given-names>C. M.</given-names></name><name><surname>Heyn</surname><given-names>J.</given-names></name><etal/></person-group> (<year>2014</year>). <article-title>miRIAD-integrating microRNA inter- and intragenic data.</article-title>
+<source><italic>Database (Oxford).</italic></source>
+<volume>2014</volume>
+<fpage>1</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1093/database/bau099</pub-id></mixed-citation>
+      </ref>
+      <ref id="B27">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hinske</surname><given-names>L. C. G.</given-names></name><name><surname>Galante</surname><given-names>P. A. F.</given-names></name><name><surname>Kuo</surname><given-names>W. P.</given-names></name><name><surname>Ohno-Machado</surname><given-names>L.</given-names></name></person-group> (<year>2010</year>). <article-title>A potential role for intragenic miRNAs on their hosts’ interactome.</article-title>
+<source><italic>BMC Genomics</italic></source>
+<volume>11</volume>:<issue>533</issue>
+<pub-id pub-id-type="doi">10.1186/1471-2164-11-533</pub-id></mixed-citation>
+      </ref>
+      <ref id="B28">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Huan</surname><given-names>T.</given-names></name><name><surname>Rong</surname><given-names>J.</given-names></name><name><surname>Liu</surname><given-names>C.</given-names></name><name><surname>Zhang</surname><given-names>X.</given-names></name><name><surname>Tanriverdi</surname><given-names>K.</given-names></name><name><surname>Joehanes</surname><given-names>R.</given-names></name><etal/></person-group> (<year>2015</year>). <article-title>Genome-wide identification of microRNA expression quantitative trait loci.</article-title>
+<source><italic>Nat. Commun.</italic></source>
+<volume>6</volume>
+<issue>6601</issue>
+<pub-id pub-id-type="doi">10.1038/ncomms7601</pub-id></mixed-citation>
+      </ref>
+      <ref id="B29">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Huang</surname><given-names>R. S.</given-names></name><name><surname>Gamazon</surname><given-names>E. R.</given-names></name><name><surname>Wen</surname><given-names>Y.</given-names></name><name><surname>Im</surname><given-names>H. K.</given-names></name><name><surname>Zhang</surname><given-names>W.</given-names></name><name><surname>Wing</surname><given-names>C.</given-names></name><etal/></person-group> (<year>2011</year>). <article-title>Population differences in microRNA expression and biological implications.</article-title>
+<source><italic>RNA Biol.</italic></source>
+<volume>8</volume>
+<fpage>692</fpage>–<lpage>701</lpage>. <pub-id pub-id-type="doi">10.4161/rna.8.4.16029</pub-id><pub-id pub-id-type="pmid">21691150</pub-id></mixed-citation>
+      </ref>
+      <ref id="B30">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Iwama</surname><given-names>H.</given-names></name><name><surname>Kato</surname><given-names>K.</given-names></name><name><surname>Imachi</surname><given-names>H.</given-names></name><name><surname>Murao</surname><given-names>K.</given-names></name><name><surname>Masaki</surname><given-names>T.</given-names></name></person-group> (<year>2013</year>). <article-title>Human microRNAs originated from two periods at accelerated rates in mammalian evolution.</article-title>
+<source><italic>Mol. Biol. Evol.</italic></source>
+<volume>30</volume>
+<fpage>613</fpage>–<lpage>626</lpage>. <pub-id pub-id-type="doi">10.1093/molbev/mss262</pub-id><pub-id pub-id-type="pmid">23171859</pub-id></mixed-citation>
+      </ref>
+      <ref id="B31">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Juliant</surname><given-names>S.</given-names></name><name><surname>Harduin-Lepers</surname><given-names>A.</given-names></name><name><surname>Monjaret</surname><given-names>F.</given-names></name><name><surname>Catieau</surname><given-names>B.</given-names></name><name><surname>Violet</surname><given-names>M. L.</given-names></name><name><surname>Cérutti</surname><given-names>P.</given-names></name><etal/></person-group> (<year>2014</year>). <article-title>The α1 6-fucosyltransferase gene (FUT8) from the Sf9 lepidopteran insect cell line: insights into FUT8 evolution.</article-title>
+<source><italic>PLoS ONE</italic></source>
+<volume>9</volume>:<issue>e110422</issue>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0110422</pub-id></mixed-citation>
+      </ref>
+      <ref id="B32">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kapranov</surname><given-names>P.</given-names></name><name><surname>Willingham</surname><given-names>A. T.</given-names></name><name><surname>Gingeras</surname><given-names>T. R.</given-names></name></person-group> (<year>2007</year>). <article-title>Genome-wide transcription and the implications for genomic organization.</article-title>
+<source><italic>Nat. Rev. Genet.</italic></source>
+<volume>8</volume>
+<fpage>413</fpage>–<lpage>423</lpage>. <pub-id pub-id-type="doi">10.1038/nrg2083</pub-id><pub-id pub-id-type="pmid">17486121</pub-id></mixed-citation>
+      </ref>
+      <ref id="B33">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liu</surname><given-names>Y.-C.</given-names></name><name><surname>Yen</surname><given-names>H.-Y.</given-names></name><name><surname>Chen</surname><given-names>C.-Y.</given-names></name><name><surname>Chen</surname><given-names>C.-H.</given-names></name><name><surname>Cheng</surname><given-names>P.-F.</given-names></name><name><surname>Juan</surname><given-names>Y.-H.</given-names></name><etal/></person-group> (<year>2011</year>). <article-title>Sialylation and fucosylation of epidermal growth factor receptor suppress its dimerization and activation in lung cancer cells.</article-title>
+<source><italic>Proc. Natl. Acad. Sci. U.S.A.</italic></source>
+<volume>108</volume>
+<fpage>11332</fpage>–<lpage>11337</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1107385108</pub-id><pub-id pub-id-type="pmid">21709263</pub-id></mixed-citation>
+      </ref>
+      <ref id="B34">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Loh</surname><given-names>Y. E.</given-names></name><name><surname>Yi</surname><given-names>S. V.</given-names></name><name><surname>Streelman</surname><given-names>J. T.</given-names></name></person-group> (<year>2011</year>). <article-title>Evolution of microRNAs and the diversification of species.</article-title>
+<source><italic>Genome Biol. Evol.</italic></source>
+<volume>3</volume>
+<fpage>55</fpage>–<lpage>65</lpage>. <pub-id pub-id-type="doi">10.1093/gbe/evq085</pub-id><pub-id pub-id-type="pmid">21169229</pub-id></mixed-citation>
+      </ref>
+      <ref id="B35">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Long</surname><given-names>M.</given-names></name><name><surname>VanKuren</surname><given-names>N. W.</given-names></name><name><surname>Chen</surname><given-names>S.</given-names></name><name><surname>Vibranovski</surname><given-names>M. D.</given-names></name></person-group> (<year>2013</year>). <article-title>New gene evolution: little did we know.</article-title>
+<source><italic>Annu. Rev. Genet.</italic></source>
+<volume>47</volume>
+<fpage>307</fpage>–<lpage>333</lpage>. <pub-id pub-id-type="doi">10.1146/annurev-genet-111212-133301</pub-id><pub-id pub-id-type="pmid">24050177</pub-id></mixed-citation>
+      </ref>
+      <ref id="B36">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lyu</surname><given-names>Y.</given-names></name><name><surname>Shen</surname><given-names>Y.</given-names></name><name><surname>Li</surname><given-names>H.</given-names></name><name><surname>Chen</surname><given-names>Y.</given-names></name><name><surname>Guo</surname><given-names>L.</given-names></name><name><surname>Zhao</surname><given-names>Y.</given-names></name><etal/></person-group> (<year>2014</year>). <article-title>New microRNAs in <italic>Drosophila</italic>–birth, death and cycles of adaptive evolution.</article-title>
+<source><italic>PLoS Genet.</italic></source>
+<volume>10</volume>:<issue>e1004096</issue>
+<pub-id pub-id-type="doi">10.1371/journal.pgen.1004096</pub-id></mixed-citation>
+      </ref>
+      <ref id="B37">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Marsico</surname><given-names>A.</given-names></name><name><surname>Huska</surname><given-names>M. R.</given-names></name><name><surname>Lasserre</surname><given-names>J.</given-names></name><name><surname>Hu</surname><given-names>H.</given-names></name><name><surname>Vucicevic</surname><given-names>D.</given-names></name><name><surname>Musahl</surname><given-names>A.</given-names></name><etal/></person-group> (<year>2013</year>). <article-title>PROmiRNA: a new miRNA promoter recognition method uncovers the complex regulation of intronic miRNAs.</article-title>
+<source><italic>Genome Biol.</italic></source>
+<volume>14</volume>:<issue>R84</issue>
+<pub-id pub-id-type="doi">10.1186/gb-2013-14-8-r84</pub-id></mixed-citation>
+      </ref>
+      <ref id="B38">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McLoughlin</surname><given-names>H. S.</given-names></name><name><surname>Wan</surname><given-names>J.</given-names></name><name><surname>Spengler</surname><given-names>R. M.</given-names></name><name><surname>Xing</surname><given-names>Y.</given-names></name><name><surname>Davidson</surname><given-names>B. L.</given-names></name></person-group> (<year>2014</year>). <article-title>Human-specific microRNA regulation of FOXO1: implications for microRNA recognition element evolution.</article-title>
+<source><italic>Hum. Mol. Genet.</italic></source>
+<volume>23</volume>
+<fpage>2593</fpage>–<lpage>2603</lpage>. <pub-id pub-id-type="doi">10.1093/hmg/ddt655</pub-id><pub-id pub-id-type="pmid">24368418</pub-id></mixed-citation>
+      </ref>
+      <ref id="B39">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mele</surname><given-names>M.</given-names></name><name><surname>Ferreira</surname><given-names>P. G.</given-names></name><name><surname>Reverter</surname><given-names>F.</given-names></name><name><surname>DeLuca</surname><given-names>D. S.</given-names></name><name><surname>Monlong</surname><given-names>J.</given-names></name><name><surname>Sammeth</surname><given-names>M.</given-names></name><etal/></person-group> (<year>2015</year>). <article-title>The human transcriptome across tissues and individuals.</article-title>
+<source><italic>Science</italic></source>
+<volume>348</volume>
+<fpage>660</fpage>–<lpage>665</lpage>. <pub-id pub-id-type="doi">10.1126/science.aaa0355</pub-id><pub-id pub-id-type="pmid">25954002</pub-id></mixed-citation>
+      </ref>
+      <ref id="B40">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mellor</surname><given-names>J.</given-names></name><name><surname>Woloszczuk</surname><given-names>R.</given-names></name><name><surname>Howe</surname><given-names>F. S.</given-names></name></person-group> (<year>2016</year>). <article-title>The interleaved genome.</article-title>
+<source><italic>Trends Genet.</italic></source>
+<volume>32</volume>
+<fpage>57</fpage>–<lpage>71</lpage>. <pub-id pub-id-type="doi">10.1016/j.tig.2015.10.006</pub-id><pub-id pub-id-type="pmid">26613890</pub-id></mixed-citation>
+      </ref>
+      <ref id="B41">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mendell</surname><given-names>J. T.</given-names></name><name><surname>Olson</surname><given-names>E. N.</given-names></name></person-group> (<year>2012</year>). <article-title>MicroRNAs in stress signaling and human disease.</article-title>
+<source><italic>Cell</italic></source>
+<volume>148</volume>
+<fpage>1172</fpage>–<lpage>1187</lpage>. <pub-id pub-id-type="doi">10.1016/j.cell.2012.02.005</pub-id><pub-id pub-id-type="pmid">22424228</pub-id></mixed-citation>
+      </ref>
+      <ref id="B42">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mercer</surname><given-names>T. R.</given-names></name><name><surname>Mattick</surname><given-names>J. S.</given-names></name></person-group> (<year>2013</year>). <article-title>Understanding the regulatory and transcriptional complexity of the genome through structure.</article-title>
+<source><italic>Genome Res.</italic></source>
+<volume>23</volume>
+<fpage>1081</fpage>–<lpage>1088</lpage>. <pub-id pub-id-type="doi">10.1101/gr.156612.113</pub-id><pub-id pub-id-type="pmid">23817049</pub-id></mixed-citation>
+      </ref>
+      <ref id="B43">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Meunier</surname><given-names>J.</given-names></name><name><surname>Lemoine</surname><given-names>F.</given-names></name><name><surname>Soumillon</surname><given-names>M.</given-names></name><name><surname>Liechti</surname><given-names>A.</given-names></name><name><surname>Weier</surname><given-names>M.</given-names></name><name><surname>Guschanski</surname><given-names>K.</given-names></name><etal/></person-group> (<year>2013</year>). <article-title>Birth and expression evolution of mammalian microRNA genes.</article-title>
+<source><italic>Genome Res.</italic></source>
+<volume>23</volume>
+<fpage>34</fpage>–<lpage>45</lpage>. <pub-id pub-id-type="doi">10.1101/gr.140269.112</pub-id><pub-id pub-id-type="pmid">23034410</pub-id></mixed-citation>
+      </ref>
+      <ref id="B44">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Michalak</surname><given-names>P.</given-names></name></person-group> (<year>2008</year>). <article-title>Coexpression, coregulation, and cofunctionality of neighboring genes in eukaryotic genomes.</article-title>
+<source><italic>Genomics</italic></source>
+<volume>91</volume>
+<fpage>243</fpage>–<lpage>248</lpage>. <pub-id pub-id-type="doi">10.1016/j.ygeno.2007.11.002</pub-id><pub-id pub-id-type="pmid">18082363</pub-id></mixed-citation>
+      </ref>
+      <ref id="B45">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mlynárová</surname><given-names>L.</given-names></name><name><surname>Loonen</surname><given-names>A.</given-names></name><name><surname>Mietkiewska</surname><given-names>E.</given-names></name><name><surname>Jansen</surname><given-names>R. C.</given-names></name><name><surname>Nap</surname><given-names>J. P.</given-names></name></person-group> (<year>2002</year>). <article-title>Assembly of two transgenes in an artificial chromatin domain gives highly coordinated expression in tobacco.</article-title>
+<source><italic>Genetics</italic></source>
+<volume>160</volume>
+<fpage>727</fpage>–<lpage>740</lpage>.<pub-id pub-id-type="pmid">11861574</pub-id></mixed-citation>
+      </ref>
+      <ref id="B46">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Navarro</surname><given-names>F. C. P.</given-names></name><name><surname>Galante</surname><given-names>P. A. F.</given-names></name></person-group> (<year>2015</year>). <article-title>A genome-wide landscape of retrocopies in primate genomes.</article-title>
+<source><italic>Genome Biol. Evol.</italic></source>
+<volume>7</volume>
+<fpage>2265</fpage>–<lpage>2275</lpage>. <pub-id pub-id-type="doi">10.1093/gbe/evv142</pub-id><pub-id pub-id-type="pmid">26224704</pub-id></mixed-citation>
+      </ref>
+      <ref id="B47">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ninova</surname><given-names>M.</given-names></name><name><surname>Ronshaugen</surname><given-names>M.</given-names></name><name><surname>Griffiths-Jones</surname><given-names>S.</given-names></name></person-group> (<year>2014</year>). <article-title>Fast-evolving microRNAs are highly expressed in the early embryo of <italic>Drosophila virilis</italic>.</article-title>
+<source><italic>RNA</italic></source>
+<volume>20</volume>
+<issue>360-372</issue>
+<pub-id pub-id-type="doi">10.1261/rna.041657.113</pub-id></mixed-citation>
+      </ref>
+      <ref id="B48">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nozawa</surname><given-names>M.</given-names></name><name><surname>Fujimi</surname><given-names>M.</given-names></name><name><surname>Iwamoto</surname><given-names>C.</given-names></name><name><surname>Onizuka</surname><given-names>K.</given-names></name><name><surname>Fukuda</surname><given-names>N.</given-names></name><name><surname>Ikeo</surname><given-names>K.</given-names></name><etal/></person-group> (<year>2016</year>). <article-title>Evolutionary transitions of MicroRNA-target pairs.</article-title>
+<source><italic>Genome Biol. Evol.</italic></source>
+<volume>8</volume>
+<fpage>1621</fpage>–<lpage>1633</lpage>. <pub-id pub-id-type="doi">10.1093/gbe/evw092</pub-id><pub-id pub-id-type="pmid">27189995</pub-id></mixed-citation>
+      </ref>
+      <ref id="B49">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ozsolak</surname><given-names>F.</given-names></name><name><surname>Poling</surname><given-names>L. L.</given-names></name><name><surname>Wang</surname><given-names>Z.</given-names></name><name><surname>Liu</surname><given-names>H.</given-names></name><name><surname>Liu</surname><given-names>X. S.</given-names></name><name><surname>Roeder</surname><given-names>R. G.</given-names></name><etal/></person-group> (<year>2008</year>). <article-title>Chromatin structure analyses identify miRNA promoters Chromatin structure analyses identify miRNA promoters.</article-title>
+<source><italic>Genes Dev.</italic></source>
+<volume>22</volume>
+<fpage>3172</fpage>–<lpage>3183</lpage>. <pub-id pub-id-type="doi">10.1101/gad.1706508</pub-id><pub-id pub-id-type="pmid">19056895</pub-id></mixed-citation>
+      </ref>
+      <ref id="B50">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Park</surname><given-names>S. G.</given-names></name><name><surname>Choi</surname><given-names>S. S.</given-names></name></person-group> (<year>2010</year>). <article-title>Expression breadth and expression abundance behave differently in correlations with evolutionary rates.</article-title>
+<source><italic>BMC Evol. Biol.</italic></source>
+<volume>10</volume>:<issue>241</issue>
+<pub-id pub-id-type="doi">10.1186/1471-2148-10-241</pub-id></mixed-citation>
+      </ref>
+      <ref id="B51">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pelechano</surname><given-names>V.</given-names></name><name><surname>Steinmetz</surname><given-names>L. M.</given-names></name></person-group> (<year>2013</year>). <article-title>Gene regulation by antisense transcription.</article-title>
+<source><italic>Nat. Rev. Genet.</italic></source>
+<volume>14</volume>
+<fpage>880</fpage>–<lpage>893</lpage>. <pub-id pub-id-type="doi">10.1038/nrg3594</pub-id><pub-id pub-id-type="pmid">24217315</pub-id></mixed-citation>
+      </ref>
+      <ref id="B52">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Purmann</surname><given-names>A.</given-names></name><name><surname>Toedling</surname><given-names>J.</given-names></name><name><surname>Schueler</surname><given-names>M.</given-names></name><name><surname>Carninci</surname><given-names>P.</given-names></name><name><surname>Lehrach</surname><given-names>H.</given-names></name><name><surname>Hayashizaki</surname><given-names>Y.</given-names></name><etal/></person-group> (<year>2007</year>). <article-title>Genomic organization of transcriptomes in mammals: coregulation and cofunctionality.</article-title>
+<source><italic>Genomics</italic></source>
+<volume>89</volume>
+<fpage>580</fpage>–<lpage>587</lpage>. <pub-id pub-id-type="doi">10.1016/j.ygeno.2007.01.010</pub-id><pub-id pub-id-type="pmid">17369017</pub-id></mixed-citation>
+      </ref>
+      <ref id="B53">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rasmussen</surname><given-names>M. H.</given-names></name><name><surname>Lyskjær</surname><given-names>I.</given-names></name><name><surname>Jersie-Christensen</surname><given-names>R. R.</given-names></name><name><surname>Tarpgaard</surname><given-names>L. S.</given-names></name><name><surname>Primdal-Bengtson</surname><given-names>B.</given-names></name><name><surname>Nielsen</surname><given-names>M. M.</given-names></name><etal/></person-group> (<year>2016</year>). <article-title>miR-625-3p regulates oxaliplatin resistance by targeting MAP2K6-p38 signalling in human colorectal adenocarcinoma cells.</article-title>
+<source><italic>Nat. Commun.</italic></source>
+<volume>7</volume>:<issue>12436</issue>
+<pub-id pub-id-type="doi">10.1038/ncomms12436</pub-id></mixed-citation>
+      </ref>
+      <ref id="B54">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rawlings-Goss</surname><given-names>R. A.</given-names></name><name><surname>Campbell</surname><given-names>M. C.</given-names></name><name><surname>Tishkoff</surname><given-names>S. A.</given-names></name></person-group> (<year>2014</year>). <article-title>Global population-specific variation in miRNA associated with cancer risk and clinical biomarkers.</article-title>
+<source><italic>BMC Med. Genomics</italic></source>
+<volume>7</volume>:<issue>53</issue>
+<pub-id pub-id-type="doi">10.1186/1755-8794-7-53</pub-id></mixed-citation>
+      </ref>
+      <ref id="B55">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rodriguez</surname><given-names>A.</given-names></name><name><surname>Griffiths-Jones</surname><given-names>S.</given-names></name><name><surname>Ashurst</surname><given-names>J. L.</given-names></name><name><surname>Bradley</surname><given-names>A.</given-names></name></person-group> (<year>2004</year>). <article-title>Identification of mammalian microRNA host genes and transcription units.</article-title>
+<source><italic>Genome Res.</italic></source>
+<volume>14</volume>
+<fpage>1902</fpage>–<lpage>1910</lpage>. <pub-id pub-id-type="doi">10.1101/gr.2722704</pub-id><pub-id pub-id-type="pmid">15364901</pub-id></mixed-citation>
+      </ref>
+      <ref id="B56">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Saunders</surname><given-names>M. A.</given-names></name><name><surname>Liang</surname><given-names>H.</given-names></name><name><surname>Li</surname><given-names>W. H.</given-names></name></person-group> (<year>2007</year>). <article-title>Human polymorphism at microRNAs and microRNA target sites.</article-title>
+<source><italic>Proc. Natl. Acad. Sci. U.S.A.</italic></source>
+<volume>104</volume>
+<fpage>3300</fpage>–<lpage>3305</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0611347104</pub-id><pub-id pub-id-type="pmid">17360642</pub-id></mixed-citation>
+      </ref>
+      <ref id="B57">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schlötterer</surname><given-names>C.</given-names></name></person-group> (<year>2015</year>). <article-title>Genes from scratch–the evolutionary fate of de novo genes.</article-title>
+<source><italic>Trends Genet.</italic></source>
+<volume>31</volume>
+<fpage>215</fpage>–<lpage>219</lpage>. <pub-id pub-id-type="doi">10.1016/j.tig.2015.02.007</pub-id><pub-id pub-id-type="pmid">25773713</pub-id></mixed-citation>
+      </ref>
+      <ref id="B58">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schrider</surname><given-names>D. R.</given-names></name><name><surname>Navarro</surname><given-names>F. C. P.</given-names></name><name><surname>Galante</surname><given-names>P. A. F.</given-names></name><name><surname>Parmigiani</surname><given-names>R. B.</given-names></name><name><surname>Camargo</surname><given-names>A. A.</given-names></name><name><surname>Hahn</surname><given-names>M. W.</given-names></name><etal/></person-group> (<year>2013</year>). <article-title>Gene copy-number polymorphism caused by retrotransposition in humans.</article-title>
+<source><italic>PLoS Genet.</italic></source>
+<volume>9</volume>:<issue>e1003242</issue>
+<pub-id pub-id-type="doi">10.1371/journal.pgen.1003242</pub-id></mixed-citation>
+      </ref>
+      <ref id="B59">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schrider</surname><given-names>D. R.</given-names></name><name><surname>Stevens</surname><given-names>K.</given-names></name><name><surname>Cardeño</surname><given-names>C. M.</given-names></name><name><surname>Langley</surname><given-names>C. H.</given-names></name><name><surname>Hahn</surname><given-names>M. W.</given-names></name></person-group> (<year>2011</year>). <article-title>Genome-wide analysis of retrogene polymorphisms in <italic>Drosophila melanogaster</italic>.</article-title>
+<source><italic>Genome Res.</italic></source>
+<volume>21</volume>
+<fpage>2087</fpage>–<lpage>2095</lpage>. <pub-id pub-id-type="doi">10.1101/gr.116434.110</pub-id><pub-id pub-id-type="pmid">22135405</pub-id></mixed-citation>
+      </ref>
+      <ref id="B60">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shen</surname><given-names>J.</given-names></name><name><surname>Xiao</surname><given-names>Z.</given-names></name><name><surname>Wu</surname><given-names>W. K. K.</given-names></name><name><surname>Wang</surname><given-names>M. H.</given-names></name><name><surname>To</surname><given-names>K. F.</given-names></name><name><surname>Chen</surname><given-names>Y.</given-names></name><etal/></person-group> (<year>2015</year>). <article-title>Epigenetic silencing of miR-490-3p reactivates the chromatin remodeler SMARCD1 to promote <italic>Helicobacter pylori</italic>-induced gastric carcinogenesis.</article-title>
+<source><italic>Cancer Res.</italic></source>
+<volume>75</volume>
+<fpage>754</fpage>–<lpage>765</lpage>. <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-14-1301</pub-id><pub-id pub-id-type="pmid">25503559</pub-id></mixed-citation>
+      </ref>
+      <ref id="B61">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sudmant</surname><given-names>P. H.</given-names></name><name><surname>Rausch</surname><given-names>T.</given-names></name><name><surname>Gardner</surname><given-names>E. J.</given-names></name><name><surname>Handsaker</surname><given-names>R. E.</given-names></name><name><surname>Abyzov</surname><given-names>A.</given-names></name><name><surname>Huddleston</surname><given-names>J.</given-names></name><etal/></person-group> (<year>2015</year>). <article-title>An integrated map of structural variation in 2504 human genomes.</article-title>
+<source><italic>Nature</italic></source>
+<volume>526</volume>
+<fpage>75</fpage>–<lpage>81</lpage>. <pub-id pub-id-type="doi">10.1038/nature15394</pub-id><pub-id pub-id-type="pmid">26432246</pub-id></mixed-citation>
+      </ref>
+      <ref id="B62">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sun</surname><given-names>Y.</given-names></name><name><surname>Chen</surname><given-names>D.</given-names></name><name><surname>Cao</surname><given-names>L.</given-names></name><name><surname>Zhang</surname><given-names>R.</given-names></name><name><surname>Zhou</surname><given-names>J.</given-names></name><name><surname>Chen</surname><given-names>H.</given-names></name><etal/></person-group> (<year>2013</year>). <article-title>MiR-490-3p modulates the proliferation of vascular smooth muscle cells induced by ox-LDL through targeting PAPP-A.</article-title>
+<source><italic>Cardiovasc. Res.</italic></source>
+<volume>100</volume>
+<fpage>272</fpage>–<lpage>279</lpage>. <pub-id pub-id-type="doi">10.1093/cvr/cvt172</pub-id><pub-id pub-id-type="pmid">23821525</pub-id></mixed-citation>
+      </ref>
+      <ref id="B63">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tan</surname><given-names>S.</given-names></name><name><surname>Cardoso-Moreira</surname><given-names>M.</given-names></name><name><surname>Shi</surname><given-names>W.</given-names></name><name><surname>Zhang</surname><given-names>D.</given-names></name><name><surname>Huang</surname><given-names>J.</given-names></name><name><surname>Mao</surname><given-names>Y.</given-names></name><etal/></person-group> (<year>2016</year>). <article-title>LTR-mediated retroposition as a mechanism of RNA-based duplication in metazoans.</article-title>
+<source><italic>Genome Res.</italic></source>
+<volume>26</volume>
+<fpage>1</fpage>–<lpage>13</lpage>. <pub-id pub-id-type="doi">10.1101/gr.204925.116</pub-id></mixed-citation>
+      </ref>
+      <ref id="B64">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Taylor</surname><given-names>R. S.</given-names></name><name><surname>Tarver</surname><given-names>J. E.</given-names></name><name><surname>Hiscock</surname><given-names>S. J.</given-names></name><name><surname>Donoghue</surname><given-names>P. C. J.</given-names></name></person-group> (<year>2014</year>). <article-title>Evolutionary history of plant microRNAs.</article-title>
+<source><italic>Trends Plant Sci.</italic></source>
+<volume>19</volume>
+<fpage>175</fpage>–<lpage>182</lpage>. <pub-id pub-id-type="doi">10.1016/j.tplants.2013.11.008</pub-id><pub-id pub-id-type="pmid">24405820</pub-id></mixed-citation>
+      </ref>
+      <ref id="B65">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Verma</surname><given-names>A. M.</given-names></name><name><surname>Patel</surname><given-names>M.</given-names></name><name><surname>Aslam</surname><given-names>M. I.</given-names></name><name><surname>Jameson</surname><given-names>J.</given-names></name><name><surname>Pringle</surname><given-names>J. H.</given-names></name><name><surname>Wurm</surname><given-names>P.</given-names></name><etal/></person-group> (<year>2015</year>). <article-title>Circulating plasma microRNAs as a screening method for detection of colorectal adenomas.</article-title>
+<source><italic>Lancet</italic></source>
+<volume>385</volume> S100. <pub-id pub-id-type="doi">10.1016/S0140-6736(15)60415-9</pub-id></mixed-citation>
+      </ref>
+      <ref id="B66">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>X.</given-names></name><name><surname>Inoue</surname><given-names>S.</given-names></name><name><surname>Gu</surname><given-names>J.</given-names></name><name><surname>Miyoshi</surname><given-names>E.</given-names></name><name><surname>Noda</surname><given-names>K.</given-names></name><name><surname>Li</surname><given-names>W.</given-names></name><etal/></person-group> (<year>2005</year>). <article-title>Dysregulation of TGF-beta1 receptor activation leads to abnormal lung development and emphysema-like phenotype in core fucose-deficient mice.</article-title>
+<source><italic>Proc. Natl. Acad. Sci. U.S.A.</italic></source>
+<volume>102</volume>
+<fpage>15791</fpage>–<lpage>15796</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0507375102</pub-id><pub-id pub-id-type="pmid">16236725</pub-id></mixed-citation>
+      </ref>
+      <ref id="B67">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>Y.</given-names></name><name><surname>Luo</surname><given-names>J.</given-names></name><name><surname>Zhang</surname><given-names>H.</given-names></name><name><surname>Lu</surname><given-names>J.</given-names></name></person-group> (<year>2016</year>). <article-title>microRNAs in the same clusters evolve to coordinately regulate functionally related genes.</article-title>
+<source><italic>Mol. Biol. Evol.</italic></source>
+<volume>33</volume>
+<fpage>2232</fpage>–<lpage>2247</lpage>. <pub-id pub-id-type="doi">10.1093/molbev/msw089</pub-id><pub-id pub-id-type="pmid">27189568</pub-id></mixed-citation>
+      </ref>
+      <ref id="B68">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wheeler</surname><given-names>B. M.</given-names></name><name><surname>Heimberg</surname><given-names>A. M.</given-names></name><name><surname>Moy</surname><given-names>V. N.</given-names></name><name><surname>Sperling</surname><given-names>E. A.</given-names></name><name><surname>Holstein</surname><given-names>T. W.</given-names></name><name><surname>Heber</surname><given-names>S.</given-names></name><etal/></person-group> (<year>2009</year>). <article-title>The deep evolution of metazoan microRNAs.</article-title>
+<source><italic>Evol. Dev.</italic></source>
+<volume>11</volume>
+<fpage>50</fpage>–<lpage>68</lpage>. <pub-id pub-id-type="doi">10.1111/j.1525-142X.2008.00302.x</pub-id><pub-id pub-id-type="pmid">19196333</pub-id></mixed-citation>
+      </ref>
+      <ref id="B69">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wolf</surname><given-names>Y. I.</given-names></name><name><surname>Novichkov</surname><given-names>P. S.</given-names></name><name><surname>Karev</surname><given-names>G. P.</given-names></name><name><surname>Koonin</surname><given-names>E. V.</given-names></name><name><surname>Lipman</surname><given-names>D. J.</given-names></name></person-group> (<year>2009</year>). <article-title>The universal distribution of evolutionary rates of genes and distinct characteristics of eukaryotic genes of different apparent ages.</article-title>
+<source><italic>Proc. Natl. Acad. Sci. U.S.A.</italic></source>
+<volume>106</volume>
+<fpage>7273</fpage>–<lpage>7280</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0901808106</pub-id><pub-id pub-id-type="pmid">19351897</pub-id></mixed-citation>
+      </ref>
+      <ref id="B70">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Xu</surname><given-names>J.</given-names></name><name><surname>Zhang</surname><given-names>R.</given-names></name><name><surname>Shen</surname><given-names>Y.</given-names></name><name><surname>Liu</surname><given-names>G.</given-names></name><name><surname>Lu</surname><given-names>X.</given-names></name><name><surname>Wu</surname><given-names>C. -I.</given-names></name></person-group> (<year>2013</year>). <article-title>The evolution of evolvability in microRNA target sites in vertebrates.</article-title>
+<source><italic>Genome Res.</italic></source>
+<volume>23</volume>
+<fpage>1810</fpage>–<lpage>1816</lpage>. <pub-id pub-id-type="doi">10.1101/gr.148916.112</pub-id><pub-id pub-id-type="pmid">24077390</pub-id></mixed-citation>
+      </ref>
+      <ref id="B71">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhang</surname><given-names>L.</given-names></name><name><surname>Hu</surname><given-names>A.</given-names></name><name><surname>Yuan</surname><given-names>H.</given-names></name><name><surname>Cui</surname><given-names>L.</given-names></name><name><surname>Miao</surname><given-names>G.</given-names></name><name><surname>Yang</surname><given-names>X.</given-names></name><etal/></person-group> (<year>2008</year>). <article-title>A missense mutation in the CHRM2 gene is associated with familial dilated cardiomyopathy.</article-title>
+<source><italic>Circ. Res.</italic></source>
+<volume>102</volume>
+<fpage>1426</fpage>–<lpage>1432</lpage>. <pub-id pub-id-type="doi">10.1161/CIRCRESAHA.107.167783</pub-id><pub-id pub-id-type="pmid">18451336</pub-id></mixed-citation>
+      </ref>
+      <ref id="B72">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zheng</surname><given-names>H.</given-names></name><name><surname>Ma</surname><given-names>R.</given-names></name><name><surname>Wang</surname><given-names>Q.</given-names></name><name><surname>Zhang</surname><given-names>P.</given-names></name><name><surname>Li</surname><given-names>D.</given-names></name><name><surname>Wang</surname><given-names>Q.</given-names></name><etal/></person-group> (<year>2015</year>). <article-title>MiR-625-3p promotes cell migration and invasion via inhibition of SCAI in colorectal carcinoma cells.</article-title>
+<source><italic>Oncotarget</italic></source>
+<volume>6</volume>
+<fpage>27805</fpage>–<lpage>27815</lpage>. <pub-id pub-id-type="doi">10.18632/oncotarget.4738</pub-id><pub-id pub-id-type="pmid">26314959</pub-id></mixed-citation>
+      </ref>
+      <ref id="B73">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhou</surname><given-names>X.</given-names></name><name><surname>Zhang</surname><given-names>C. Z.</given-names></name><name><surname>Lu</surname><given-names>S. -X.</given-names></name><name><surname>Chen</surname><given-names>G. G.</given-names></name><name><surname>Li</surname><given-names>L. -Z.</given-names></name><name><surname>Liu</surname><given-names>L. -L.</given-names></name><etal/></person-group> (<year>2014</year>). <article-title>miR-625 suppresses tumour migration and invasion by targeting IGF2BP1 in hepatocellular carcinoma.</article-title>
+<source><italic>Oncogene</italic></source>
+<volume>34</volume>
+<fpage>965</fpage>–<lpage>977</lpage>. <pub-id pub-id-type="doi">10.1038/onc.2014.35</pub-id><pub-id pub-id-type="pmid">24632613</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record>

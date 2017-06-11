@@ -1,0 +1,899 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5359316</identifier><datestamp>2017-04-04</datestamp><setSpec>frontphysiol</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Physiol</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Physiol</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Physiol.</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Physiology</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1664-042X</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5359316</article-id>
+      <article-id pub-id-type="pmcid">PMC5359316</article-id>
+      <article-id pub-id-type="pmc-uid">5359316</article-id>
+      <article-id pub-id-type="doi">10.3389/fphys.2017.00156</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Physiology</subject>
+          <subj-group>
+            <subject>Original Research</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Transcriptomic Analysis of the Claudin Interactome in Malignant Pleural Mesothelioma: Evaluation of the Effect of Disease Phenotype, Asbestos Exposure, and CDKN2A Deletion Status</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rouka</surname>
+            <given-names>Erasmia</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/390486/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Vavougios</surname>
+            <given-names>Georgios D.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Solenov</surname>
+            <given-names>Evgeniy I.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff4">
+            <sup>4</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/209289/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gourgoulianis</surname>
+            <given-names>Konstantinos I.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hatzoglou</surname>
+            <given-names>Chrissi</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff5">
+            <sup>5</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zarogiannis</surname>
+            <given-names>Sotirios G.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff5">
+            <sup>5</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn001">
+            <sup>*</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/81859/overview"/>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <sup>1</sup>
+        <institution>Gradute Program in Primary Health Care, Faculty of Medicine, University of Thessaly</institution>
+        <country>Larissa, Greece</country>
+      </aff>
+      <aff id="aff2">
+        <sup>2</sup>
+        <institution>Department of Respiratory Medicine, University of Thessaly Medical School</institution>
+        <country>Larissa, Greece</country>
+      </aff>
+      <aff id="aff3">
+        <sup>3</sup>
+        <institution>Institute of Cytology and Genetics of the Siberian Branch of the Russian Academy of Sciences</institution>
+        <country>Novosibirsk, Russia</country>
+      </aff>
+      <aff id="aff4">
+        <sup>4</sup>
+        <institution>Department of Physiology, Novosibirsk State University</institution>
+        <country>Novosibirsk, Russia</country>
+      </aff>
+      <aff id="aff5">
+        <sup>5</sup>
+        <institution>Department of Physiology, Faculty of Medicine, University of Thessaly</institution>
+        <country>Larissa, Greece</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <p>Edited by: Ali Mobasheri, University of Surrey, UK</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Reviewed by: Salah Amasheh, Free University of Berlin, Germany; Warren Thomas, Royal College of Surgeons in Ireland, Ireland</p>
+        </fn>
+        <corresp id="fn001">*Correspondence: Sotirios G. Zarogiannis <email xlink:type="simple">szarog@med.uth.gr</email></corresp>
+        <fn fn-type="other" id="fn002">
+          <p>This article was submitted to Membrane Physiology and Membrane Biophysics, a section of the journal Frontiers in Physiology</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>3</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2017</year>
+      </pub-date>
+      <volume>8</volume>
+      <elocation-id>156</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>09</day>
+          <month>12</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>28</day>
+          <month>2</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2017 Rouka, Vavougios, Solenov, Gourgoulianis, Hatzoglou and Zarogiannis.</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <copyright-holder>Rouka, Vavougios, Solenov, Gourgoulianis, Hatzoglou and Zarogiannis</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Malignant pleural mesothelioma (MPM) is a highly aggressive tumor primarily associated with asbestos exposure. Early detection of MPM is restricted by the long latency period until clinical presentation, the ineffectiveness of imaging techniques in early stage detection and the lack of non-invasive biomarkers with high sensitivity and specificity. In this study we used transcriptome data mining in order to determine which <italic>CLAUDIN</italic> (CLDN) genes are differentially expressed in MPM as compared to controls. Using the same approach we identified the interactome of the differentially expressed <italic>CLDN</italic> genes and assessed their expression profile. Subsequently, we evaluated the effect of tumor histology, asbestos exposure, <italic>CDKN2A</italic> deletion status, and gender on the gene expression level of the claudin interactome. We found that 5 out of 15 studied <italic>CLDNs</italic> (<italic>4, 5, 8, 10, 15</italic>) and 4 out of 27 available interactors (<italic>S100B, SHBG, CDH5, CXCL8</italic>) were differentially expressed in MPM specimens vs. healthy tissues. The genes encoding the CLDN-15 and S100B proteins present differences in their expression profile between the three histological subtypes of MPM. Moreover, <italic>CLDN-15</italic> is significantly under-expressed in the cohort of patients with previous history of asbestos exposure. <italic>CLDN-15</italic> was also found significantly underexpressed in patients lacking the <italic>CDKN2A</italic> gene. These results warrant the detailed <italic>in vitro</italic> investigation of the role of CDLN-15 in the pathobiology of MPM.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>asbestos</kwd>
+        <kwd>CDKN2A</kwd>
+        <kwd>claudins</kwd>
+        <kwd>interactome</kwd>
+        <kwd>malignant mesothelioma</kwd>
+        <kwd>pleura</kwd>
+        <kwd>tight junctions</kwd>
+        <kwd>transcriptome</kwd>
+      </kwd-group>
+      <counts>
+        <fig-count count="4"/>
+        <table-count count="3"/>
+        <equation-count count="0"/>
+        <ref-count count="72"/>
+        <page-count count="9"/>
+        <word-count count="7378"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="s1">
+      <title>Introduction</title>
+      <p>Malignant Pleural Mesothelioma (MPM) is a highly aggressive tumor primarily associated with exposure to asbestos. Due to the prolonged latent period between asbestos exposure and clinical presentation of the disease, the incidence of MPM has continued to rise across Europe even after the imposed restrictions on asbestos use (Jennings et al., <xref rid="B28" ref-type="bibr">2014</xref>). Worldwide the incidence of MPM is increasing and it is expected to peak in the years 2015–2025 (Robinson and Lake, <xref rid="B60" ref-type="bibr">2005</xref>). MPM diagnosis and treatment is challenging, therefore current research efforts are focused in biomarker discovery that would aid its early diagnosis, prognosis and therapeutic outcome prediction (Brims et al., <xref rid="B6" ref-type="bibr">2013</xref>). Transcriptome studies combined with data mining techniques have provided new insights into the pathogenesis of the disease and have led to the identification of new candidate biomarkers with potential clinical value (Melaiu et al., <xref rid="B41" ref-type="bibr">2012</xref>).</p>
+      <p>Claudins represent a 24-member family of tetraspan transmembrane proteins that contribute to the formation and the proper function of tight junctions (TJs) (Valle and Morin, <xref rid="B69" ref-type="bibr">2010</xref>). They regulate the paracellular transport of ions and molecules in a size and charge sensitive manner (Gonzalez-Mariscal et al., <xref rid="B24" ref-type="bibr">2010</xref>). A notable feature of claudins is that some members increase the paracellular permeability while others decrease it. More specifically, claudin-2, -7, -10, -15, and -16 increase the paracellular cation permeability in the Tight Junctions (TJ) whereas claudin-3-, -4, -5, -8, -11, -14, and -18 have a sealing function (Amasheh et al., <xref rid="B1" ref-type="bibr">2002</xref>, <xref rid="B2" ref-type="bibr">2005</xref>; Milatz et al., <xref rid="B42" ref-type="bibr">2010</xref>; Soini, <xref rid="B63" ref-type="bibr">2011</xref>). In addition to their contribution to the establishment of cellular polarity, the TJ proteins also participate in the regulation of cell differentiation and proliferation (Facchetti et al., <xref rid="B18" ref-type="bibr">2007b</xref>; Lal-Nag and Morin, <xref rid="B34" ref-type="bibr">2009</xref>; Soini, <xref rid="B63" ref-type="bibr">2011</xref>).</p>
+      <p>The pleural mesothelial cells (PMCs) form a monolayer that expresses claudins in their TJs, although their exact role in the pleural physiology and pathophysiology is scarcely investigated (Apostolidou et al., <xref rid="B3" ref-type="bibr">2012</xref>). Currently it is known that mesothelial TJ claudins contribute to the pleural membrane permeability, while during inflammation the expression levels of claudins change leading to increased pleural permeability (Markov et al., <xref rid="B40" ref-type="bibr">2011</xref>; Markov and Amasheh, <xref rid="B38" ref-type="bibr">2014</xref>). These data highlight the role of claudins and TJ related proteins in the context of pleural physiology and pathophysiology.</p>
+      <p>Several studies have highlighted the role of claudins in cancer since in several malignancies (lung, kidney, breast, stomach, instestine, pancreas, and others) their expression is deregulated (Osanai et al., <xref rid="B50" ref-type="bibr">2017</xref>). Furthermore, accumulating data suggest roles for claudins in tumor development and progression as well as in signal transduction while in several cancers expression of claudins is associated with prognosis (Osanai et al., <xref rid="B50" ref-type="bibr">2017</xref>). Claudins have also been studied in the context of MPM by means of immunohistochemistry (Kleinberg et al., <xref rid="B32" ref-type="bibr">2007</xref>; Chaouche-Mazouni et al., <xref rid="B9" ref-type="bibr">2015</xref>). In this aspect several changes in the expression of claudins have been documented (Ouban and Ahmed, <xref rid="B52" ref-type="bibr">2010</xref>; Soini, <xref rid="B63" ref-type="bibr">2011</xref>). Most studies so far have focused on the diagnostic value of claudins, notably claudins 1–7, in distinguishing MPM from other carcinomas. Claudin-4 has been shown to be highly effective in the differential diagnosis between MPM and metastatic carcinomas (Facchetti et al., <xref rid="B17" ref-type="bibr">2007a</xref>,<xref rid="B18" ref-type="bibr">b</xref>; Ohta et al., <xref rid="B48" ref-type="bibr">2013</xref>; Ordóñez, <xref rid="B49" ref-type="bibr">2013</xref>; Jo et al., <xref rid="B29" ref-type="bibr">2014</xref>). However, at the transcriptional level there is scarcity of information regarding the differential gene expression of claudins between healthy and MPM samples.</p>
+      <p>In this study we applied data mining and transcriptomic analysis in order to determine the CLAUDIN (<italic>CLDN</italic>) genes that are differentially expressed in MPM specimens as compared to healthy controls. Using the same approach we also probed for CLDN interactors and assessed their expression patterns so as to identify novel genes interacting with <italic>CLDNs</italic> that may contribute to the pathophysiology of MPM. Finally, we evaluated the effect of MPM histology, asbestos exposure, <italic>CDKN2A</italic> deletion status, and gender on the gene expression level of the claudin interactome.</p>
+    </sec>
+    <sec sec-type="materials and methods" id="s2">
+      <title>Materials and methods</title>
+      <sec>
+        <title>Identification of the differential gene expression profile of CLDNs in microarray data from MPM and control counterparts</title>
+        <p>We used gene expression data from an MPM study included in the Oncomine Research Premium Edition Cancer Microarray database (<ext-link ext-link-type="uri" xlink:href="http://www.oncomine.org">http://www.oncomine.org</ext-link>) in order to investigate the gene expression profile of <italic>CLDNs</italic> (Gordon et al., <xref rid="B25" ref-type="bibr">2005</xref>; GEO Profiles: GDS 1220). We analyzed data for the 15 <italic>CLDN</italic> genes that were assessed in this study (<italic>CLDN-1, -3, -4, -5, -6, -7, -8, -9, -10, -11, -14, -15, -16, -17, -18</italic>) in order to detect their potential differential expression in MPM specimens as compared to healthy ones. The genes that were not assessed in GDS 1220, were <italic>CLDNs</italic> -2, -12, -19, -20, -22, -23, -24,-25. In order to ensure that the data were generated with the same methodology, we selected gene expression data from a single study (a study that from this point on will be referred as Gordon Mesothelioma study throughout the text). In this study the Affymetrix Human Genome U133A array was used assessing 12.624 genes. The raw data were downloaded from Oncomine in Excel format, and were scrutinized selecting only the ones referring to surgically excised samples excluding the ones referring to mesothelial (1 sample) and MPM cell lines (4 samples). Finally, in this study there were <italic>n</italic> = 40 MPM cases and <italic>n</italic> = 9 controls (<italic>n</italic> = 5 pleura and <italic>n</italic> = 4 lung samples). The gene expression data were log transformed, median centered per array, and the standard deviation was normalized to one per array as described previously (Rhodes et al., <xref rid="B59" ref-type="bibr">2004</xref>). All values from the transformed data were downloaded from Oncomine during March 2013.</p>
+      </sec>
+      <sec>
+        <title>Identification of the interactome of the differentially expressed claudins</title>
+        <p>The gene interaction network of the significantly differentially expressed <italic>CLDNs</italic> in MPM patients was constructed using Bio-grid (<ext-link ext-link-type="uri" xlink:href="http://thebiogrid.org">http://thebiogrid.org</ext-link>), ConsensusPathDB (<ext-link ext-link-type="uri" xlink:href="http://cpdb.molgen.mpg.de/">http://cpdb.molgen.mpg.de/</ext-link>) and String 9.05 (<ext-link ext-link-type="uri" xlink:href="http://string-db.org/">http://string-db.org/</ext-link>) databases. The Bio-grid database is a repository of genetic and protein-protein interactions that are curated from the primary biomedical literature for all major model organism species (Chatr-Aryamontri et al., <xref rid="B10" ref-type="bibr">2013</xref>). The ConsensusPathDB database integrates interaction networks including binary and complex protein-protein, genetic, metabolic, signaling, gene regulatory, and drug-target interactions as well as biochemical pathways (Kamburov et al., <xref rid="B31" ref-type="bibr">2009</xref>, <xref rid="B30" ref-type="bibr">2013</xref>). String 9.05 is a database of known and predicted protein interactions including both direct (physical), and indirect (functional) associations (Szklarczyk et al., <xref rid="B65" ref-type="bibr">2011</xref>).</p>
+        <p>After querying for each differentially expressed <italic>CLDN</italic> in the above databases, we superimposed the results in order to remove duplicate or triplicate genes and created a list of unique genes (<italic>List 1</italic>) that comprised the interactome of the significantly over- and under- expressed <italic>CLDNs</italic> in MPM patients from the Gordon Mesothelioma study. The members of <italic>List 1</italic> are shown in Table <xref ref-type="table" rid="T1">1</xref>, where their name along with their description is provided based on GeneCards query that was performed. GeneCards (<ext-link ext-link-type="uri" xlink:href="http://www.genecards.org">http://www.genecards.org</ext-link>) is an integrated database of human genes that provides concise genomic related information, on all known and predicted human genes (Safran et al., <xref rid="B61" ref-type="bibr">2003</xref>). The members of <italic>List 1</italic> were subject to the differential gene expression analysis in the microarray data of the Gordon Mesothelioma study so as to identify their profile.</p>
+        <table-wrap id="T1" position="float">
+          <label>Table 1</label>
+          <caption>
+            <p><bold>Interactome of the gene networks of claudin 4, 5, 8, 10, and 15</bold>.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Gene symbol</bold>
+                </th>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Gene description</bold>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">VKORC1</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Vitamin K epoxide reductase complex, subunit 1</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">S100B</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">S100 calcium binding protein B</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">EPHA2</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">EPH receptor A2</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">GEM</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">GTP binding protein overexpressed in skeletal muscle</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">SHBG</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Sex hormone-binding globulin</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">UBC</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ubiquitin C</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">OCLN</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Occludin</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">TJP1</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Tight junction protein 1</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">TJP2</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Tight junction protein 2</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">TJP3</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Tight junction protein 3</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">INADL</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">InaD-like (Drosophila)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CDH5</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cadherin 5, type 2 (vascular endothelium)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">MPDZ</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Multiple PDZ domain protein</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">WNK4</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">WNK lysine deficient protein kinase 4</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CLDN1</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Claudin 1</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CLDN2</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Claudin 2</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CLDN3</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Claudin 3</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CLDN6</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Claudin 6</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CLDN9</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Claudin 9</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CLDN11</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Claudin 11</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CLDN12</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Claudin 12</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CLDN14</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Claudin 14</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CLDN16</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Claudin 16</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CLDN17</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Claudin 17</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CLDN18</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Claudin 18</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CLDN19</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Claudin 19</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CLDN20</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Claudin 20</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CLDN22</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Claudin 22</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CLDN23</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Claudin 23</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CLDN24</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Claudin 24</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CLDN25</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Claudin25</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">ESAM</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Endothelial cell adhesion molecule</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">TACSTD2</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Tumor-associated calcium signal transducer 2</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CCDC155</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Coiled-coil domain containing 155</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">SYNE4</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Spectrin repeat containing, nuclear envelope family member 4</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">ATE1</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Arginyltransferase 1</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">MARVELD3</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Marvel domain containing 3</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CXCL8</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Chemokine (C-X-C Motif) ligand 8</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">ETV5</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ets variant 5</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">GRM5</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Glutamate receptor, metabotropic 5</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">FGF1</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Fibroplast growth factor 1</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Identification of the differential gene expression profile of CLDNs interactome in microarray data from MPM with respect to tumor histology, asbestos exposure, CDKN2A deletion status, and gender</title>
+        <p>We used gene expression data from the only MPM study included in the Oncomine Research Premium Edition Cancer Microarray database (<ext-link ext-link-type="uri" xlink:href="http://www.oncomine.org">http://www.oncomine.org</ext-link>) that compared gene expression levels in the three main phenotypes of MPM (epithelioid, biphasic, and sarcomatoid) in order to investigate the gene expression profile of the claudin interactome in relation to disease phenotype (Lopez-Rios et al., <xref rid="B37" ref-type="bibr">2006</xref>; a study that from this point on will be referred as Lopez-Rios Mesothelioma study throughout the text). Furthermore, the same genes were analyzed based asbestos exposure (exposed/unexposed), <italic>CDKN2A</italic> deletion status (deletion/no deletion), and gender (male/female). Reported asbestos exposure history was extracted by the sample annotation information file provided in the supplementary materials of the Lopez-Rios Mesothelioma study provided in <ext-link ext-link-type="uri" xlink:href="http://cbio.mskcc.org/public/Ladanyi_lab_mesothelioma_datasets/">http://cbio.mskcc.org/public/Ladanyi_lab_mesothelioma_datasets/</ext-link>. This study included adequate microarray data from each histological subtype of MPM (<italic>n</italic> = 69 epithelioid, <italic>n</italic> = 10 sarcomatoid, <italic>n</italic> = 20 biphasic). We analyzed data only for those genes that were found to be over- or under-expressed in the samples of MPM patients in the Gordon Mesothelioma study. All values from the transformed data were downloaded from Oncomine during March 2013 following the same procedures as in the case of the Gordon Mesothelioma study. The levels of gene expression were subsequently arranged into strata with respect to asbestos exposure history (exposed/unexposed), <italic>CDKN2A</italic> deletion status (deletion/no deletion) and gender (male/female). Regarding asbestos exposure history, 58 patients reported asbestos exposure history, 29 patients reported non-exposure to asbestos, while for 12 patients this information was unknown and they were excluded from the sub-analysis concerning the effects of asbestos exposure. Regarding <italic>CDKN2A</italic> deletion status, homozygous deletion was present in 59 patients, in 29 patients it was not present while in 19 patients the information was not available thus they were excluded from the subanalysis.</p>
+      </sec>
+      <sec>
+        <title>Statistical analysis</title>
+        <p>GraphPad Prism 5.0 was used for statistical analysis. The Kolmogorov–Smirnov normality test was used to assess the data distribution. Comparisons of gene expression between MPM and healthy specimens were performed with the un-paired <italic>t</italic>-test for parametric data and the Mann–Whitney <italic>U</italic>-test for non-parametric data. The Benjamini–Hochberg False Discovery Rate (FDR) was employed for multiple correction testing, which reports FDR (or <italic>q</italic>-value), in order to corroborate the validity of the results. The calculation of the <italic>q</italic> statistic was based on the formula given by Rhodes et al. (<xref rid="B59" ref-type="bibr">2004</xref>). The mean values of gene expression in the three histological subtypes of MPM were compared with the One-Way ANOVA with Tukey's multiple comparison test for parametric data and the Kruskal–Wallis test with Dunn's multiple comparison test for non-parametric data. Analysis with respect to asbestos exposure history (exposed/unexposed), <italic>CDKN2A</italic> deletion status (deletion/no deletion) and gender (male/female) was performed with the un-paired <italic>t</italic>-test and the Mann–Whitney <italic>U-</italic>test for parametric and non-parametric data respectively. Statistical significance was set at the <italic>p</italic> &lt; 0.05 and <italic>q</italic> &lt; 0.05 level.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="s3">
+      <title>Results</title>
+      <sec>
+        <title>Identification of the differential gene expression profile of CLDNs in microarray data from MPM and control counterparts</title>
+        <p>The gene expression of <italic>CLDN-15</italic> was found to be significantly over-expressed in MPM specimens (<italic>q</italic> &lt; 0.002) as compared to healthy tissues. On the other hand, <italic>CLDNs -4, -5, -8</italic>, and <italic>-10</italic> were significantly under-expressed compared to controls (<italic>q</italic> = 0.036, <italic>q</italic> = 0.001, <italic>q</italic> = 0.003, and <italic>q</italic> = 0.001, respectively). There was no significant difference in the gene expression of <italic>CLDN -1, -3, -6, -7, -11, -14, -16</italic>, and <italic>-17</italic>. The results are summarized in Table <xref ref-type="table" rid="T2">2</xref>.</p>
+        <table-wrap id="T2" position="float">
+          <label>Table 2</label>
+          <caption>
+            <p><bold>Claudins differentially expressed in MPM patients</bold>.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Gene ID</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <italic>
+                    <bold>q</bold>
+                  </italic>
+                  <bold>-value</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>FC</bold>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" colspan="3" style="background-color:#bbbdc0" rowspan="1">
+                  <bold>UP-REGULATED</bold>
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CLDN15</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.002</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6.351</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" colspan="3" style="background-color:#bbbdc0" rowspan="1">
+                  <bold>DOWN-REGULATED</bold>
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CLDN4</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.036</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">−2.291</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CLDN5</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">−4.055</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CLDN8</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.003</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">−3.090</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CLDN10</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">−1.484</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Identification of the interactome of the differentially expressed CLDNs</title>
+        <p>In the analysis performed in the 3 databases as explained in the Section Materials and Methods, 41 genes were found to constitute the interaction network of the significantly differentially expressed <italic>CLDNs</italic>. The symbols and descriptions of those genes, as reported in the GeneCards database are presented in Table <xref ref-type="table" rid="T1">1</xref>. Gene expression data for further analysis in the Gordon Mesothelioma study were available for 27 interactors (gene symbols: <italic>VKORC1, S100B, EPHA2, GEM, SHBG, UBC, OCLN, TJP1-3, INADL, CDH5, MPDZ, CLDN-1, -3, -6, -9, -11, -14, -16, -17, -18, TACSTD2, CXCL8, ETV5, GRM5, FGF1</italic>) while no gene expression data were available for 14 interactors (gene symbols: <italic>WNK4, CLDN -2, -12, -19, -20, -22, -23, -24, -25, ESAM, CCDC155, SYNE4, ATE1, MARVELD3</italic><bold>)</bold>.</p>
+      </sec>
+      <sec>
+        <title>Identification of the differential gene expression profile of the interactome members of the significantly differentially expressed CLDNs</title>
+        <p>The gene expression of <italic>S100B, SHBG, CDH5</italic>, and <italic>CXCL8</italic> were significantly under-expressed compared to controls (<italic>q</italic> = 0.001, <italic>q</italic> = 0.004, <italic>q</italic> = 0.015, and <italic>q</italic> = 0.007, respectively). The results are summarized in Table <xref ref-type="table" rid="T3">3</xref>.</p>
+        <table-wrap id="T3" position="float">
+          <label>Table 3</label>
+          <caption>
+            <p><bold>Claudin interactome genes differentially expressed in MPM patients</bold>.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Gene ID</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <italic>
+                    <bold>q</bold>
+                  </italic>
+                  <bold>-value</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>FC</bold>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">S100B</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">−4.675</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">SHBG</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.004</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">−1.848</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CDH5</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.015</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">−2.926</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">CXCL8</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.007</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">−3.605</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Evaluation of the effect of disease phenotype, CDKN2A deletion status, asbestos exposure, and gender</title>
+        <p>The gene expression of <italic>CLDN-15</italic> was found to be significantly increased in the epithelioid histological subtype of MPM as compared to both the biphasic and sarcomatoid phenotypes (<italic>p</italic> &lt; 0.01 and <italic>p</italic> &lt; 0.001, respectively; Figure <xref ref-type="fig" rid="F1">1</xref>). The <italic>S100B</italic> gene was found significantly over-expressed in the sarcomatoid type of MPM compared to the epithelioid one (<italic>p</italic> &lt; 0.05; Figure <xref ref-type="fig" rid="F2">2</xref>). There was no significant difference in the gene expression of <italic>CLDN-4, -5, -8, -10, SHBG, CDH5</italic>, and <italic>CXCL8</italic> among the three histological subtypes of MPM. Subsequent analysis with respect to history of asbestos exposure showed that the <italic>CLDN-15</italic> gene was significantly under-expressed in the cohort of patients that were previously exposed to asbestos as compared to the unexposed ones (<italic>p</italic> = 0.004; Figure <xref ref-type="fig" rid="F3">3</xref>). In addition, <italic>CLDN-15</italic> was found significantly under-expressed in the subgroup of patients with homozygous deletion of the <italic>CDKN2A</italic> gene as opposed to the patients with no deletion (<italic>p</italic> = 0.035; Figure <xref ref-type="fig" rid="F4">4</xref>). Gene expression of <italic>CLDN-4, -5, -8, -10, S100B, SHBG, CDH5</italic>, and <italic>CXCL8</italic> was not influenced by asbestos exposure and CDKN2A deletion status. Finally, the gene expression of <italic>CLDN-4, -5, -8, -10, -15, S100B, SHBG, CDH5</italic>, and <italic>CXCL8</italic> was not influenced by gender.</p>
+        <fig id="F1" position="float">
+          <label>Figure 1</label>
+          <caption>
+            <p><bold>CLDN-15 is over-expressed in epithelioid MPM as compared to biphasic and sarcomatoid MPM</bold>. The number of patients per group is demonstrated in the figure. Gene expression of CLDN15 gene data was log transformed and normalized as described previously (Rhodes et al., <xref rid="B59" ref-type="bibr">2004</xref>). <sup>**</sup><italic>p</italic> &lt; 0.01; <sup>***</sup><italic>p</italic> &lt; 0.001.</p>
+          </caption>
+          <graphic xlink:href="fphys-08-00156-g0001"/>
+        </fig>
+        <fig id="F2" position="float">
+          <label>Figure 2</label>
+          <caption>
+            <p><bold>S100B is over-expressed in sarcomatoid MPM as compared to epithelioid MPM while it does not differ from biphasic MPM</bold>. The number of patients per group is demonstrated in the figure. Gene expression of S100B gene data was log transformed and normalized as described previously (Rhodes et al., <xref rid="B59" ref-type="bibr">2004</xref>). <sup>*</sup><italic>p</italic> &lt; 0.05.</p>
+          </caption>
+          <graphic xlink:href="fphys-08-00156-g0002"/>
+        </fig>
+        <fig id="F3" position="float">
+          <label>Figure 3</label>
+          <caption>
+            <p><bold>CLDN-15 is under-expressed in MPM patients with history of asbestos exposure</bold>. The number of patients per group is demonstrated in the figure. Gene expression of CLDN-15 gene data were log transformed and normalized as described previously (Rhodes et al., <xref rid="B59" ref-type="bibr">2004</xref>). <sup>**</sup><italic>p</italic> &lt; 0.01.</p>
+          </caption>
+          <graphic xlink:href="fphys-08-00156-g0003"/>
+        </fig>
+        <fig id="F4" position="float">
+          <label>Figure 4</label>
+          <caption>
+            <p><bold>CLDN-15 is under-expressed in MPM patients with deletion of the CDKN2A gene</bold>. The number of patients per group is demonstrated in the figure. Gene expression of CLDN-15 gene data were log transformed and normalized as described previously (Rhodes et al., <xref rid="B59" ref-type="bibr">2004</xref>). <sup>*</sup><italic>p</italic> &lt; 0.05.</p>
+          </caption>
+          <graphic xlink:href="fphys-08-00156-g0004"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="s4">
+      <title>Discussion</title>
+      <p>MPM is a highly aggressive tumor arising from the mesothelial cells that line the pleural cavity (Rascoe et al., <xref rid="B57" ref-type="bibr">2012</xref>). Due to the established cause and effect relationship between asbestos exposure and MPM development, researchers seek to identify suitable biomarkers for screening asbestos exposed populations and for early diagnosis while avoiding false positive results and unnecessary invasive procedures (Ostroff et al., <xref rid="B51" ref-type="bibr">2012</xref>). Although, several studies have pointed to the effectiveness of soluble mesothelin as a biomarker with high specificity, its limited sensitivity confines its use as a screening tool for the asymptomatic, asbestos-exposed cohorts (Creaney et al., <xref rid="B12" ref-type="bibr">2015</xref>). Thus, at the present time, there are no biomarkers in widespread clinical use for MPM (Creaney et al., <xref rid="B12" ref-type="bibr">2015</xref>).</p>
+      <p>Transcript profiling along with new omics-technologies and bioinformatics, have been extensively used in the field of personalized medicine enabling researchers to identify biomarkers for cancer screening, diagnosis, and prognosis (Diamantis et al., <xref rid="B15" ref-type="bibr">2010</xref>). In this study we used established data mining techniques through which we have already reported <italic>AQP1, CLIC3, CLIC4</italic>, and <italic>BBS1</italic> to be ideal candidates for further study in MPM pathophysiology (Jagirdar et al., <xref rid="B27" ref-type="bibr">2013</xref>; Tasiopoulou et al., <xref rid="B68" ref-type="bibr">2015</xref>; Vavougios et al., <xref rid="B70" ref-type="bibr">2015</xref>).</p>
+      <p>Claudins are structural molecules of TJs present in epithelial, endothelial, and mesothelial cells (Soini et al., <xref rid="B64" ref-type="bibr">2006</xref>; Soini, <xref rid="B63" ref-type="bibr">2011</xref>). The patterns of claudin expression within TJs are distinctly diverse among different tissues accounting for the observed differences in permeability and electrical resistance of various epithelia (Chao et al., <xref rid="B7" ref-type="bibr">2009</xref>; Markov et al., <xref rid="B40" ref-type="bibr">2011</xref>). It should be noted that not only the expression of claudin family members but also their localization within cells may vary (Amasheh et al., <xref rid="B1" ref-type="bibr">2002</xref>; Dittmann et al., <xref rid="B16" ref-type="bibr">2014</xref>). The latter might be affected by several exogenous factors such as food components, plant compounds and microbial toxins (Dittmann et al., <xref rid="B16" ref-type="bibr">2014</xref>; Markov et al., <xref rid="B39" ref-type="bibr">2014</xref>).</p>
+      <p>Differential gene expression of claudins has been reported in several tumors depending on the exact claudin and cancer studied (Facchetti et al., <xref rid="B18" ref-type="bibr">2007b</xref>; Chao et al., <xref rid="B7" ref-type="bibr">2009</xref>; Lal-Nag and Morin, <xref rid="B34" ref-type="bibr">2009</xref>; Gonzalez-Mariscal et al., <xref rid="B24" ref-type="bibr">2010</xref>; Valle and Morin, <xref rid="B69" ref-type="bibr">2010</xref>; Davidson, <xref rid="B13" ref-type="bibr">2011</xref>; Soini, <xref rid="B63" ref-type="bibr">2011</xref>). Here we report that <italic>-15</italic> is significantly over-expressed in MPM patients as compared to controls, while <italic>CLDNs -4, -5</italic>, and <italic>-8</italic> are significantly under-expressed. An <italic>in vitro</italic> study using M14K (epithelioid MPM) and M38K (biphasic MPM) cell lines (Chaouche-Mazouni et al., <xref rid="B8" ref-type="bibr">2013</xref>) has shown by means of immunohistochemistry and immunoblotting a high level of claudin 15 in both cell lines as opposed to claudins 3 and 4. An earlier study demonstrated by means of immunohistochemistry that in MPM there was a lower expression of claudin-1, -3, -4, -5, and -7 than in metastatic adenocarcinomas of the pleura, suggesting that they could serve as differential diagnostic markers (Soini et al., <xref rid="B64" ref-type="bibr">2006</xref>). In the same report, non-neoplastic PMCs showed expression of claudin 2 but no expression was found for claudin-3, -4, -5, and -7. Two more studies assessing the expression of claudin-4 in a large series of normal and MPM tissues by immunohistochemistry, reported that claudin-4 is a definitive negative marker for MPM which is in agreement with our data showing the significant under-expression of <italic>CLDN-4</italic> in MPM as opposed to controls (Facchetti et al., <xref rid="B17" ref-type="bibr">2007a</xref>,<xref rid="B18" ref-type="bibr">b</xref>). This finding has been consistently shown in other studies as well (Ohta et al., <xref rid="B48" ref-type="bibr">2013</xref>; Ordóñez, <xref rid="B49" ref-type="bibr">2013</xref>; Jo et al., <xref rid="B29" ref-type="bibr">2014</xref>). Finally one more study has demonstrated that the gene expression of <italic>CLDN-3, -4</italic>, and <italic>-6</italic> was significantly lower in malignant peritoneal mesothelioma as compared to ovarian carcinomas (Davidson et al., <xref rid="B14" ref-type="bibr">2006</xref>).</p>
+      <p>In our study we also demonstrate that the <italic>CLDN-15</italic> gene is significantly over-expressed in the epithelioid histological subtype of MPM as compared to the sarcomatoid and biphasic phenotypes. Similar results were shown in diffuse malignant peritoneal mesothelioma at the protein level (Davidson et al., <xref rid="B14" ref-type="bibr">2006</xref>).</p>
+      <p>On the contrary, we observed that the gene expression of <italic>S100B</italic> is significantly increased in sarcomatoid MPM as compared to epithelioid MPM. S100B has been reported as a useful biomarker in assessing tumor load, stage, and prognosis for patients with malignant melanoma (Zarogoulidis et al., <xref rid="B72" ref-type="bibr">2015</xref>).</p>
+      <p>It has been suggested that the differences in the molecular biology of epithelioid and non-epithelioid MPM may contribute to differences in their clinical behavior (Balduyck et al., <xref rid="B4" ref-type="bibr">2010</xref>). The epithelioid cell type is among the factors that favor the overall survival of MPM patients (Balduyck et al., <xref rid="B4" ref-type="bibr">2010</xref>; Musk et al., <xref rid="B44" ref-type="bibr">2011</xref>; Linton et al., <xref rid="B36" ref-type="bibr">2014</xref>). As a consequence it has been proposed that the diagnosis of the sarcomatoid variant on a biopsy should preclude radical surgery, and therapy should aim at symptoms management and preservation of quality of life (Balduyck et al., <xref rid="B4" ref-type="bibr">2010</xref>). Therefore, the clear distinction of histological subtypes could direct clinicians to the appropriate treatment options. In the literature it is supported that the current golden standard for MPM diagnosis is a combination of two positive and two negative immunohistochemical markers in the epithelioid and biphasic type, but sarcomatous type do not have specific markers, making diagnosis more difficult (Panou et al., <xref rid="B55" ref-type="bibr">2015</xref>). Here we propose that <italic>CLDN-15</italic> and <italic>S100B</italic> could serve as complementary diagnostic tools and should be further investigated.</p>
+      <p>Next we observed that <italic>CLDN-15</italic> was under-expressed in patients lacking the <italic>CDKN2A</italic> gene. Moreover, the <italic>CLDN-15</italic> gene was significantly under-expressed in MPM patients with previous history of asbestos exposure compared to the unexposed ones. <italic>CDKN2A</italic> is the most frequently inactivated tumor suppressor gene in human MPM. The inactivation of both p16<sup>INK4a</sup> and Arf products of the <italic>CDKN2A</italic> gene has been suggested to act synergistically in accelerating asbestos-induced tumorigenesis <italic>in vivo</italic> (Sekido, <xref rid="B62" ref-type="bibr">2013</xref>). Development of MPM is strongly associated with asbestos exposure, with 80% of the patients having previous exposure to asbestos fibers (Robinson and Lake, <xref rid="B60" ref-type="bibr">2005</xref>; Nakano, <xref rid="B46" ref-type="bibr">2008</xref>; Sekido, <xref rid="B62" ref-type="bibr">2013</xref>). A significant association has been described between increasing number of methylated cell cycle control genes and asbestos burden. This finding was followed by the observation that quantitative measure of asbestos exposure was associated with over 100 discrete CpG loci and that in 94% of cases there was increased methylation associated with increased exposure (Christensen and Marsit, <xref rid="B11" ref-type="bibr">2011</xref>). The correlation between methylation status and extended exposure to asbestos was also confirmed by Fujii et al. (<xref rid="B19" ref-type="bibr">2012</xref>). Likewise, the results of this study are indicative of the epigenetic effect of asbestos in the transcriptional level of the <italic>CLDN-15</italic> gene suggesting its potential utility as a screening biomarker for populations at risk.</p>
+      <p>Although, in our analysis with respect to gender the gene expression of <italic>CLDN-4, -5, -8, -15, S100B, SHBG, CDH5</italic>, and <italic>CXCL8</italic> was not different between sexes, we observed that the <italic>SHBG</italic> gene which encodes the Sex Hormone-Binding Globulin was under-expressed in MPM patients as compared to healthy controls. <italic>SHBG</italic> is a major regulator of free plasma androgens and also mediates androgen and estrogen signaling at the cell membrane via cyclic adenosine monophosphate (Mononen and Schleutker, <xref rid="B43" ref-type="bibr">2009</xref>).</p>
+      <p>It is generally accepted that although MPM is less common in women compared to men, female MPM patients survive longer (Balduyck et al., <xref rid="B4" ref-type="bibr">2010</xref>; Musk et al., <xref rid="B44" ref-type="bibr">2011</xref>; Linton et al., <xref rid="B36" ref-type="bibr">2014</xref>; Taioli et al., <xref rid="B67" ref-type="bibr">2014</xref>). It has been proposed that differences in asbestos exposure, tumor biology, and the impact of circulating hormones on host response must be investigated to understand this survival advantage and improve prognosis for patients of both genders (Taioli et al., <xref rid="B67" ref-type="bibr">2014</xref>). The observed down-regulation of the <italic>SHBG</italic> gene in the group of MPM patients relative to the control group advocates the role of sex hormones in the pathogenesis and prognosis of the disease. This is stressed out by a study showing that estrogen receptor beta (ERβ) acts as a tumor suppressor of high potential relevance to prediction of disease progression and to therapeutic response in MPM patients (Pinton et al., <xref rid="B56" ref-type="bibr">2009</xref>).</p>
+      <p>As in the case of <italic>SHBG</italic>, the genes encoding S100B, CDH5 and CXCL8 were found significantly under-expressed in MPM specimens as compared to their healthy counterparts. The protein product of <italic>S100B</italic> interacts with its target proteins within cells to regulate enzyme activities, cell growth, differentiation and Ca<sup>2+</sup> homeostasis (Pang et al., <xref rid="B54" ref-type="bibr">2012</xref>). It is thought that expression levels of individual S100 family proteins vary considerably in different tumors and with respect to cancer progression (Harpio and Einarsson, <xref rid="B26" ref-type="bibr">2004</xref>).</p>
+      <p>CXCL8 or interleukin-8 (IL-8) is a proinflammatory CXC-type chemokine involved in the promotion of neutrophil chemotaxis and degranulation (Waugh and Wilson, <xref rid="B71" ref-type="bibr">2008</xref>). It has been demonstrated that many types of human carcinomas express high levels of IL-8 relative to normal tissues (Palena et al., <xref rid="B53" ref-type="bibr">2012</xref>). In addition, high serum levels of this chemokine correlate with disease progression and poor prognosis while a link exists between IL-8, tumor epithelial-mesenchymal transition (EMT) and tumor stemness (Palena et al., <xref rid="B53" ref-type="bibr">2012</xref>; Gales et al., <xref rid="B20" ref-type="bibr">2013</xref>). In this study, <italic>IL-8</italic> gene was found down-regulated in the group of MPM patients compared to the control group. It has been demonstrated that neutrophil infiltration into the pleural space is a characteristic feature of an early and acute inflammatory response in several pleural diseases and that activated PMCs secrete IL-8 in a polarized fashion (Nasreen et al., <xref rid="B47" ref-type="bibr">2001</xref>). Inhibition of IL-8 has been shown to reduce human MPM propagation in a nude mouse model (Galffy et al., <xref rid="B21" ref-type="bibr">1999</xref>). Asbestos directly stimulate PMCs to synthesize IL-8, possibly playing an important role in mediating asbestos induced pleural inflammation (Batra and Antony, <xref rid="B5" ref-type="bibr">2015</xref>; Mutsaers et al., <xref rid="B45" ref-type="bibr">2015</xref>). Further studies are warranted to compare IL-8 expression and features of EMT at various stages of tumor development (Palena et al., <xref rid="B53" ref-type="bibr">2012</xref>).</p>
+      <p>Vascular endothelial cadherin (VE-cadherin; CDH5), an endothelial specific cell-cell adhesion molecule, plays a pivotal role in the formation, maturation, and remodeling of the vascular wall (Gavard, <xref rid="B22" ref-type="bibr">2009</xref>). It has been shown that CDH5 directly enhances the expression level of CLDN-5 by tethering repressive transcription factors away from the CLDN<italic>-5</italic> promoter. Conversely, the absence of functional CDH5 is associated with loss of CLDN-5 expression (Taddei et al., <xref rid="B66" ref-type="bibr">2008</xref>; Gavard, <xref rid="B22" ref-type="bibr">2009</xref>). These results suggest that any changes in CDH5 will impact the endothelial barrier function at multiple levels and also explain why CDH5 inhibition may cause a marked increase in permeability (Gavard and Gutkind, <xref rid="B23" ref-type="bibr">2008</xref>; Taddei et al., <xref rid="B66" ref-type="bibr">2008</xref>). Increased permeability is an early step in the angiogenic process enabling endothelial migration out of the primary vessel in order to begin formation of the tumor neovasculature (Le Guelte et al., <xref rid="B35" ref-type="bibr">2011</xref>). On the other hand, it has been demonstrated that induction of CDH5 during EMT promotes breast cancer progression via TGFβ signaling indicating that in certain tumor cells, CDH5 can induce cellular responses that are in contrast to its role in cell-cell contact growth inhibition in endothelial cells (Labelle et al., <xref rid="B33" ref-type="bibr">2008</xref>). Thus, there are two distinct functions of CDH5 both in angiogenesis and progression of cancer (Labelle et al., <xref rid="B33" ref-type="bibr">2008</xref>).</p>
+      <p>Regarding thoracic tumors in particular, it has been reported that VE-cadherin may be an interesting marker for analysis in anti-angiogenic therapeutic trials although results from clinical studies are pending (Reinmuth et al., <xref rid="B58" ref-type="bibr">2010</xref>).</p>
+      <p>An important limitation of our findings is the lack of information regarding the asbestos exposure history of the MPM patients of the Gordon Mesothelioma study. If these data were available we could assess asbestos induced gene expression changes between MPM patients and controls. Our results require further investigation in the clinical setting with the inclusion of a large series of MPM patients vs. healthy asbestos exposed individuals serving as controls. Moreover, detailed information regarding the duration of asbestos exposure and the type of exposure (environmental/occupational) should also be incorporated in future research.</p>
+    </sec>
+    <sec sec-type="conclusions" id="s5">
+      <title>Conclusions</title>
+      <p>The results of this study are suggestive of a distinct gene expression profile of the claudin interactome in MPM and underline the epigenetic effect of asbestos on the transcriptional level of the <italic>CLDN-15</italic> gene. The role of claudin-15 and S100B in pleural physiology and pathophysiology is unknown and requires in depth investigation at the functional level. Additionally, both <italic>CLDN-15</italic> and <italic>S100B</italic> should be further investigated as gene biomarkers in MPM with respect to their potential to discriminate the histological MPM subgroups at the molecular level and thus provide tools for personalized therapy.</p>
+    </sec>
+    <sec id="s6">
+      <title>Author contributions</title>
+      <p>ER contributed in the study design; acquired, analyzed, and interpreted data; drafted the manuscript; gave final approval of the submitted version; agreed to be accountable for all aspects of the work. GV contributed in data analysis and interpretation; revised the draft critically; gave final approval of the submitted version; agreeded to be accountable for all aspects of the work. ES contributed in data interpretation; revised the draft critically; gave final approval of the submitted version; agreeded to be accountable for all aspects of the work. KG contributed in data interpretation; revised the draft critically; gave final approval of the submitted version; agreeded to be accountable for all aspects of the work. CH contributed in data interpretation; revised the draft critically; gave final approval of the submitted version; agreeded to be accountable for all aspects of the work. SZ conceived and designed the study; acquired, analyzed, and interpreted data; revised the draft critically; gave final approval of the submitted version; agreed to be accountable for all aspects of the work.</p>
+    </sec>
+    <sec id="s7">
+      <title>Funding</title>
+      <p>This work was funded by the Postgraduate Program in Primary Health Care by the Faculty of Medicine of the University of Thessaly, BIOPOLIS, Larissa, Greece.</p>
+      <sec>
+        <title>Conflict of interest statement</title>
+        <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Amasheh</surname><given-names>S.</given-names></name><name><surname>Meiri</surname><given-names>N.</given-names></name><name><surname>Gitter</surname><given-names>A. H.</given-names></name><name><surname>Schöneberg</surname><given-names>T.</given-names></name><name><surname>Mankertz</surname><given-names>J.</given-names></name><name><surname>Schulzke</surname><given-names>J. D.</given-names></name><etal/></person-group>. (<year>2002</year>). <article-title>Claudin-2 expression induces cation-selective channels in tight junctions of epithelial cells</article-title>. <source>J. Cell Sci.</source>
+<volume>115</volume>, <fpage>4969</fpage>–<lpage>4976</lpage>. <pub-id pub-id-type="doi">10.1242/jcs.00165</pub-id><?supplied-pmid 12432083?><pub-id pub-id-type="pmid">12432083</pub-id></mixed-citation>
+      </ref>
+      <ref id="B2">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Amasheh</surname><given-names>S.</given-names></name><name><surname>Schmidt</surname><given-names>T.</given-names></name><name><surname>Mahn</surname><given-names>M.</given-names></name><name><surname>Florian</surname><given-names>P.</given-names></name><name><surname>Mankertz</surname><given-names>J.</given-names></name><name><surname>Tavalali</surname><given-names>S.</given-names></name><etal/></person-group>. (<year>2005</year>). <article-title>Contribution of claudin 5 to barrier properties in tight junctions of epithelial cells</article-title>. <source>Cell Tissue Res.</source>
+<volume>321</volume>, <fpage>89</fpage>–<lpage>96</lpage>. <pub-id pub-id-type="doi">10.1007/s00441-005-1101-0</pub-id><?supplied-pmid 16158492?><pub-id pub-id-type="pmid">16158492</pub-id></mixed-citation>
+      </ref>
+      <ref id="B3">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Apostolidou</surname><given-names>E.</given-names></name><name><surname>Paraskeva</surname><given-names>E.</given-names></name><name><surname>Gourgoulianis</surname><given-names>K.</given-names></name><name><surname>Molyvdas</surname><given-names>P. A.</given-names></name><name><surname>Hatzoglou</surname><given-names>C.</given-names></name></person-group> (<year>2012</year>). <article-title>Matrix metalloproteinases 2 and 9 increase permeability of sheep pleura <italic>in vivo</italic></article-title>. <source>BMC Physiol.</source>
+<volume>12</volume>:<fpage>2</fpage>. <pub-id pub-id-type="doi">10.1186/1472-6793-12-2</pub-id><?supplied-pmid 22424238?><pub-id pub-id-type="pmid">22424238</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Balduyck</surname><given-names>B.</given-names></name><name><surname>Trousse</surname><given-names>D.</given-names></name><name><surname>Nakas</surname><given-names>A.</given-names></name><name><surname>Martin-Ucar</surname><given-names>A. E.</given-names></name><name><surname>Edwards</surname><given-names>J.</given-names></name><name><surname>Waller</surname><given-names>D. A.</given-names></name></person-group> (<year>2010</year>). <article-title>Therapeutic surgery for nonepithelioid malignant pleural mesothelioma: is it really worthwhile?</article-title>
+<source>Ann. Thorac. Surg.</source>
+<volume>89</volume>, <fpage>907</fpage>–<lpage>911</lpage>. <pub-id pub-id-type="doi">10.1016/j.athoracsur.2009.12.041</pub-id><?supplied-pmid 20172152?><pub-id pub-id-type="pmid">20172152</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Batra</surname><given-names>H.</given-names></name><name><surname>Antony</surname><given-names>V. B.</given-names></name></person-group> (<year>2015</year>). <article-title>Pleural mesothelial cells in pleural and lung diseases</article-title>. <source>J. Thorac. Dis.</source>
+<volume>7</volume>, <fpage>964</fpage>–<lpage>980</lpage>. <pub-id pub-id-type="doi">10.3978/j.issn.2072-1439.2015.02.19</pub-id><?supplied-pmid 26150910?><pub-id pub-id-type="pmid">26150910</pub-id></mixed-citation>
+      </ref>
+      <ref id="B6">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brims</surname><given-names>F. J.</given-names></name><name><surname>Lee</surname><given-names>Y. C.</given-names></name><name><surname>Creaney</surname><given-names>J.</given-names></name></person-group> (<year>2013</year>). <article-title>The continual search for ideal biomarkers for mesothelioma: the hurdles</article-title>. <source>J. Thorac. Dis.</source>
+<volume>5</volume>, <fpage>364</fpage>–<lpage>366</lpage>. <pub-id pub-id-type="doi">10.3978/j.issn.2072-1439.2013.04.19</pub-id><?supplied-pmid 23825777?><pub-id pub-id-type="pmid">23825777</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chao</surname><given-names>Y. C.</given-names></name><name><surname>Pan</surname><given-names>S. H.</given-names></name><name><surname>Yang</surname><given-names>S. C.</given-names></name><name><surname>Yu</surname><given-names>S. L.</given-names></name><name><surname>Che</surname><given-names>T. F.</given-names></name><name><surname>Lin</surname><given-names>C. W.</given-names></name><etal/></person-group>. (<year>2009</year>). <article-title>Claudin-1 is a metastasis suppressor and correlates with clinical outcome in lung adenocarcinoma</article-title>. <source>Am. J. Respir. Crit. Care Med.</source>
+<volume>179</volume>, <fpage>123</fpage>–<lpage>133</lpage>. <pub-id pub-id-type="doi">10.1164/rccm.200803-456OC</pub-id><?supplied-pmid 18787218?><pub-id pub-id-type="pmid">18787218</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chaouche-Mazouni</surname><given-names>S.</given-names></name><name><surname>Copin</surname><given-names>M. C.</given-names></name><name><surname>Lassalle</surname><given-names>P.</given-names></name><name><surname>Lebaili</surname><given-names>N.</given-names></name><name><surname>Cortot</surname><given-names>A.</given-names></name><name><surname>Scherpereel</surname><given-names>A.</given-names></name></person-group> (<year>2013</year>). <article-title>M14K and M38K malignant pleural mesothelioma cell lines preserve the same claudin-based phenotype <italic>in vivo</italic></article-title>. <source>In Vivo</source>
+<volume>27</volume>, <fpage>227</fpage>–<lpage>232</lpage>. <?supplied-pmid 23422483?><pub-id pub-id-type="pmid">23422483</pub-id></mixed-citation>
+      </ref>
+      <ref id="B9">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chaouche-Mazouni</surname><given-names>S.</given-names></name><name><surname>Scherpereel</surname><given-names>A.</given-names></name><name><surname>Zaamoum</surname><given-names>R.</given-names></name><name><surname>Mihalache</surname><given-names>A.</given-names></name><name><surname>Amir</surname><given-names>Z. C.</given-names></name><name><surname>Lebaili</surname><given-names>N.</given-names></name><etal/></person-group>. (<year>2015</year>). <article-title>Claudin 3, 4, and 15 expression in solid tumors of lung adenocarcinoma versus malignant pleural mesothelioma</article-title>. <source>Ann. Diagn. Pathol.</source>
+<volume>19</volume>, <fpage>193</fpage>–<lpage>197</lpage>. <pub-id pub-id-type="doi">10.1016/j.anndiagpath.2015.03.007</pub-id><?supplied-pmid 25935651?><pub-id pub-id-type="pmid">25935651</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chatr-Aryamontri</surname><given-names>A.</given-names></name><name><surname>Breitkreutz</surname><given-names>B. J.</given-names></name><name><surname>Heinicke</surname><given-names>S.</given-names></name><name><surname>Boucher</surname><given-names>L.</given-names></name><name><surname>Winter</surname><given-names>A.</given-names></name><name><surname>Stark</surname><given-names>C.</given-names></name><etal/></person-group> (<year>2013</year>). <article-title>The Biogrid interaction database: 2013 update</article-title>. <source>Nucleic Acids Res.</source>
+<volume>41</volume>, <fpage>816</fpage>–<lpage>823</lpage>. <pub-id pub-id-type="doi">10.1093/nar/gks1158</pub-id><?supplied-pmid 23203989?><pub-id pub-id-type="pmid">23203989</pub-id></mixed-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Christensen</surname><given-names>B. C.</given-names></name><name><surname>Marsit</surname><given-names>C. J.</given-names></name></person-group> (<year>2011</year>). <article-title>Epigenomics in environmental health</article-title>. <source>Front Genet.</source>
+<volume>2</volume>:<fpage>84</fpage>. <pub-id pub-id-type="doi">10.3389/fgene.2011.00084</pub-id><?supplied-pmid 22303378?><pub-id pub-id-type="pmid">22303378</pub-id></mixed-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Creaney</surname><given-names>J.</given-names></name><name><surname>Dick</surname><given-names>I. M.</given-names></name><name><surname>Robinson</surname><given-names>B. W. S.</given-names></name></person-group> (<year>2015</year>). <article-title>Discovery of new biomarkers for malignant mesothelioma</article-title>. <source>Curr. Pulmonol. Rep.</source>
+<volume>4</volume>, <fpage>15</fpage>–<lpage>21</lpage>. <pub-id pub-id-type="doi">10.1007/s13665-015-0106-8</pub-id><?supplied-pmid 25927434?><pub-id pub-id-type="pmid">25927434</pub-id></mixed-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Davidson</surname><given-names>B.</given-names></name></person-group> (<year>2011</year>). <article-title>The diagnostic and molecular characteristics of malignant mesothelioma and ovarian/peritoneal serous carcinoma</article-title>. <source>Cytopathology</source>
+<volume>22</volume>, <fpage>5</fpage>–<lpage>21</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2303.2010.00829.x</pub-id><?supplied-pmid 21114695?><pub-id pub-id-type="pmid">21114695</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Davidson</surname><given-names>B.</given-names></name><name><surname>Zhang</surname><given-names>Z.</given-names></name><name><surname>Kleinberg</surname><given-names>L.</given-names></name><name><surname>Li</surname><given-names>M.</given-names></name><name><surname>Flørenes</surname><given-names>V. A.</given-names></name><name><surname>Wang</surname><given-names>T. L.</given-names></name><etal/></person-group>. (<year>2006</year>). <article-title>Gene expression signatures differentiate ovarian/peritoneal serous carcinoma from diffuse malignant peritoneal mesothelioma</article-title>. <source>Clin. Cancer Res.</source>
+<volume>12</volume>, <fpage>5944</fpage>–<lpage>5950</lpage>. <pub-id pub-id-type="doi">10.1158/1078-0432.CCR-06-1059</pub-id><?supplied-pmid 17062665?><pub-id pub-id-type="pmid">17062665</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Diamantis</surname><given-names>M.</given-names></name><name><surname>White</surname><given-names>N. M. A.</given-names></name><name><surname>Yousef</surname><given-names>G. M.</given-names></name></person-group> (<year>2010</year>). <article-title>Personalized medicine: marking a new epoch in cancer patient management</article-title>. <source>Mol. Cancer Res.</source>
+<volume>8</volume>, <fpage>1175</fpage>–<lpage>1187</lpage>. <pub-id pub-id-type="doi">10.1158/1541-7786.MCR-10-0264</pub-id><?supplied-pmid 20693306?><pub-id pub-id-type="pmid">20693306</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dittmann</surname><given-names>I.</given-names></name><name><surname>Amasheh</surname><given-names>M.</given-names></name><name><surname>Krug</surname><given-names>S. M.</given-names></name><name><surname>Markov</surname><given-names>A. G.</given-names></name><name><surname>Fromm</surname><given-names>M.</given-names></name><name><surname>Amasheh</surname><given-names>S.</given-names></name></person-group> (<year>2014</year>). <article-title>Laurate permeabilizes the paracellular pathway for small molecules in the intestinal epithelial cell model HT-29/B6 via opening the tight junctions by reversible relocation of claudin-5 [corrected]</article-title>. <source>Pharm. Res.</source>
+<volume>31</volume>, <fpage>2539</fpage>–<lpage>2548</lpage>. <pub-id pub-id-type="doi">10.1007/s11095-014-1350-2</pub-id><?supplied-pmid 24633418?><pub-id pub-id-type="pmid">24633418</pub-id></mixed-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Facchetti</surname><given-names>F.</given-names></name><name><surname>Gentili</surname><given-names>F.</given-names></name><name><surname>Lonardi</surname><given-names>S.</given-names></name><name><surname>Bercich</surname><given-names>L.</given-names></name><name><surname>Santin</surname><given-names>A.</given-names></name></person-group> (<year>2007a</year>). <article-title>Claudin-4 in mesothelioma diagnosis</article-title>. <source>Histopathology</source>
+<volume>51</volume>, <fpage>261</fpage>–<lpage>263</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2559.2007.02743.x</pub-id><?supplied-pmid 17573941?><pub-id pub-id-type="pmid">17573941</pub-id></mixed-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Facchetti</surname><given-names>F.</given-names></name><name><surname>Lonardi</surname><given-names>S.</given-names></name><name><surname>Gentili</surname><given-names>F.</given-names></name><name><surname>Bercich</surname><given-names>L.</given-names></name><name><surname>Falchetti</surname><given-names>M.</given-names></name><name><surname>Tardanico</surname><given-names>R.</given-names></name><etal/></person-group>. (<year>2007b</year>). <article-title>Claudin 4 identifies a wide spectrum of epithelial neoplasms and represents a very useful marker for carcinoma versus mesothelioma diagnosis in pleural and peritoneal biopsies and effusions</article-title>. <source>Virchows Arch.</source>
+<volume>451</volume>, <fpage>669</fpage>–<lpage>680</lpage>. <pub-id pub-id-type="doi">10.1007/s00428-007-0448-x</pub-id><?supplied-pmid 17609977?><pub-id pub-id-type="pmid">17609977</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fujii</surname><given-names>M.</given-names></name><name><surname>Fujimoto</surname><given-names>N.</given-names></name><name><surname>Hiraki</surname><given-names>A.</given-names></name><name><surname>Gemba</surname><given-names>K.</given-names></name><name><surname>Aoe</surname><given-names>K.</given-names></name><name><surname>Umemura</surname><given-names>S.</given-names></name><etal/></person-group>. (<year>2012</year>). <article-title>Aberrant DNA methylation profile in pleural fluid for differential diagnosis of malignant pleural mesothelioma</article-title>. <source>Cancer Sci.</source>
+<volume>103</volume>, <fpage>510</fpage>–<lpage>514</lpage>. <pub-id pub-id-type="doi">10.1111/j.1349-7006.2011.02180.x</pub-id><?supplied-pmid 22146010?><pub-id pub-id-type="pmid">22146010</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gales</surname><given-names>D.</given-names></name><name><surname>Clark</surname><given-names>C.</given-names></name><name><surname>Manne</surname><given-names>U.</given-names></name><name><surname>Samuel</surname><given-names>T.</given-names></name></person-group> (<year>2013</year>). <article-title>The chemokine CXCL8 in carcinogenesis and drug response</article-title>. <source>ISRN Oncol.</source>
+<volume>2013</volume>:<fpage>859154</fpage>. <pub-id pub-id-type="doi">10.1155/2013/859154</pub-id><?supplied-pmid 24224100?><pub-id pub-id-type="pmid">24224100</pub-id></mixed-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Galffy</surname><given-names>G.</given-names></name><name><surname>Mohammed</surname><given-names>K. A.</given-names></name><name><surname>Nasreen</surname><given-names>N.</given-names></name><name><surname>Ward</surname><given-names>M. J.</given-names></name><name><surname>Antony</surname><given-names>V. B.</given-names></name></person-group> (<year>1999</year>). <article-title>Inhibition of Inteleukin-8 reduces human malignant pleural mesothelioma propagation in nude mouse model</article-title>. <source>Oncol. Res.</source>
+<volume>11</volume>, <fpage>187</fpage>–<lpage>194</lpage>. <?supplied-pmid 10566617?><pub-id pub-id-type="pmid">10566617</pub-id></mixed-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gavard</surname><given-names>J.</given-names></name></person-group> (<year>2009</year>). <article-title>Breaking the VE-cadherin bonds</article-title>. <source>FEBS Lett.</source>
+<volume>538</volume>, <fpage>1</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1016/j.febslet.2008.11.032</pub-id></mixed-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gavard</surname><given-names>J.</given-names></name><name><surname>Gutkind</surname><given-names>J. S.</given-names></name></person-group> (<year>2008</year>). <article-title>VE-cadherin and claudin-5: it takes two to tango</article-title>. <source>Nat. Cell Biol.</source>
+<volume>10</volume>, <fpage>883</fpage>–<lpage>885</lpage>. <pub-id pub-id-type="doi">10.1038/ncb0808-883</pub-id><?supplied-pmid 18670447?><pub-id pub-id-type="pmid">18670447</pub-id></mixed-citation>
+      </ref>
+      <ref id="B24">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gonzalez-Mariscal</surname><given-names>L.</given-names></name><name><surname>Garay</surname><given-names>E.</given-names></name><name><surname>Quirós</surname><given-names>M.</given-names></name></person-group> (<year>2010</year>). <article-title>Regulation of claudins by posttranslational modifications and cell-signaling cascades</article-title>. <source>Curr. Top. Membr.</source>
+<volume>65</volume>, <fpage>113</fpage>–<lpage>150</lpage>. <pub-id pub-id-type="doi">10.1016/S1063-5823(10)65006-5</pub-id></mixed-citation>
+      </ref>
+      <ref id="B25">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gordon</surname><given-names>G. J.</given-names></name><name><surname>Rockwell</surname><given-names>G. N.</given-names></name><name><surname>Jensen</surname><given-names>R. V.</given-names></name><name><surname>Rheinwald</surname><given-names>J. G.</given-names></name><name><surname>Glickman</surname><given-names>J. N.</given-names></name><name><surname>Aronson</surname><given-names>J. P.</given-names></name><etal/></person-group>. (<year>2005</year>). <article-title>Identification of novel candidate oncogenes and tumor suppressors in malignant pleural mesothelioma using large scale transcriptional profiling</article-title>. <source>Am. J. Pathol.</source>
+<volume>166</volume>, <fpage>1827</fpage>–<lpage>1840</lpage>. <pub-id pub-id-type="doi">10.1016/S0002-9440(10)62492-3</pub-id><?supplied-pmid 15920167?><pub-id pub-id-type="pmid">15920167</pub-id></mixed-citation>
+      </ref>
+      <ref id="B26">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Harpio</surname><given-names>R.</given-names></name><name><surname>Einarsson</surname><given-names>R.</given-names></name></person-group> (<year>2004</year>). <article-title>S100 proteins as cancer biomarkers with focus on S100B in malignant melanoma</article-title>. <source>Clin. Biochem.</source>
+<volume>37</volume>, <fpage>512</fpage>–<lpage>518</lpage>. <pub-id pub-id-type="doi">10.1016/j.clinbiochem.2004.05.012</pub-id><?supplied-pmid 15234232?><pub-id pub-id-type="pmid">15234232</pub-id></mixed-citation>
+      </ref>
+      <ref id="B27">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jagirdar</surname><given-names>R.</given-names></name><name><surname>Solenov</surname><given-names>E. I.</given-names></name><name><surname>Hatzoglou</surname><given-names>C.</given-names></name><name><surname>Molyvdas</surname><given-names>P. A.</given-names></name><name><surname>Gourgoulianis</surname><given-names>K. I.</given-names></name><name><surname>Zarogiannis</surname><given-names>S. G.</given-names></name></person-group> (<year>2013</year>). <article-title>Gene expression profile of aquaporin 1 and associated interactors in malignant pleural mesothelioma</article-title>. <source>Gene</source>
+<volume>517</volume>, <fpage>99</fpage>–<lpage>105</lpage>. <pub-id pub-id-type="doi">10.1016/j.gene.2012.12.075</pub-id><?supplied-pmid 23313295?><pub-id pub-id-type="pmid">23313295</pub-id></mixed-citation>
+      </ref>
+      <ref id="B28">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jennings</surname><given-names>C. J.</given-names></name><name><surname>Walsh</surname><given-names>P. M.</given-names></name><name><surname>Deady</surname><given-names>S.</given-names></name><name><surname>Harvey</surname><given-names>B. J.</given-names></name><name><surname>Thomas</surname><given-names>W.</given-names></name></person-group> (<year>2014</year>). <article-title>Malignant pleural mesothelioma incidence and survival in the Republic of Ireland 1994-2009</article-title>. <source>Cancer Epidemiol.</source>
+<volume>38</volume>, <fpage>35</fpage>–<lpage>41</lpage>. <pub-id pub-id-type="doi">10.1016/j.canep.2013.12.002</pub-id><?supplied-pmid 24394956?><pub-id pub-id-type="pmid">24394956</pub-id></mixed-citation>
+      </ref>
+      <ref id="B29">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jo</surname><given-names>V. Y.</given-names></name><name><surname>Cibas</surname><given-names>E. S.</given-names></name><name><surname>Pinkus</surname><given-names>G. S.</given-names></name></person-group> (<year>2014</year>). <article-title>Claudin-4 immunochemistry is highly effective in distinguishing adenocarcinoma from malignant mesothelioma in effusion cytology</article-title>. <source>Cancer Cytopathol.</source>
+<volume>122</volume>, <fpage>299</fpage>–<lpage>306</lpage>. <pub-id pub-id-type="doi">10.1002/cncy.21392</pub-id><?supplied-pmid 24421209?><pub-id pub-id-type="pmid">24421209</pub-id></mixed-citation>
+      </ref>
+      <ref id="B30">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kamburov</surname><given-names>A.</given-names></name><name><surname>Stelzl</surname><given-names>U.</given-names></name><name><surname>Lehrach</surname><given-names>H.</given-names></name><name><surname>Herwig</surname><given-names>R.</given-names></name></person-group> (<year>2013</year>). <article-title>The ConsensusPathDB interaction database: 2013 update</article-title>. <source>Nucleic Acids Res.</source>
+<volume>41</volume>, <fpage>793</fpage>–<lpage>800</lpage>. <pub-id pub-id-type="doi">10.1093/nar/gks1055</pub-id><?supplied-pmid 23143270?><pub-id pub-id-type="pmid">23143270</pub-id></mixed-citation>
+      </ref>
+      <ref id="B31">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kamburov</surname><given-names>A.</given-names></name><name><surname>Wierling</surname><given-names>C.</given-names></name><name><surname>Lehrach</surname><given-names>H.</given-names></name><name><surname>Herwig</surname><given-names>R.</given-names></name></person-group> (<year>2009</year>). <article-title>ConsensusPathDB-a database for integrating human functional interaction networks</article-title>. <source>Nucleic Acids Res.</source>
+<volume>37</volume>, <fpage>623</fpage>–<lpage>628</lpage>. <pub-id pub-id-type="doi">10.1093/nar/gkn698</pub-id><?supplied-pmid 18940869?><pub-id pub-id-type="pmid">18940869</pub-id></mixed-citation>
+      </ref>
+      <ref id="B32">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kleinberg</surname><given-names>L.</given-names></name><name><surname>Holth</surname><given-names>A.</given-names></name><name><surname>Fridman</surname><given-names>E.</given-names></name><name><surname>Schwartz</surname><given-names>I.</given-names></name><name><surname>Le Shih</surname><given-names>M.</given-names></name><name><surname>Davidson</surname><given-names>B.</given-names></name></person-group> (<year>2007</year>). <article-title>The diagnostic role of claudins in serous effusions</article-title>. <source>Am. J. Clin. Pathol.</source>
+<volume>127</volume>, <fpage>928</fpage>–<lpage>937</lpage>. <pub-id pub-id-type="doi">10.1309/V025QRN3R9CJGNPX</pub-id><?supplied-pmid 17509990?><pub-id pub-id-type="pmid">17509990</pub-id></mixed-citation>
+      </ref>
+      <ref id="B33">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Labelle</surname><given-names>M.</given-names></name><name><surname>Schnittler</surname><given-names>H. J.</given-names></name><name><surname>Aust</surname><given-names>D. E.</given-names></name><name><surname>Friedrich</surname><given-names>K.</given-names></name><name><surname>Baretton</surname><given-names>G.</given-names></name><name><surname>Vestweber</surname><given-names>D.</given-names></name><etal/></person-group>. (<year>2008</year>). <article-title>Vascular endothelial cadherin promotes breast cancer progression via transforming growth factor β signaling</article-title>. <source>Cancer Res.</source>
+<volume>68</volume>, <fpage>1388</fpage>–<lpage>1397</lpage>. <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-07-2706</pub-id><?supplied-pmid 18316602?><pub-id pub-id-type="pmid">18316602</pub-id></mixed-citation>
+      </ref>
+      <ref id="B34">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lal-Nag</surname><given-names>M.</given-names></name><name><surname>Morin</surname><given-names>P. J.</given-names></name></person-group> (<year>2009</year>). <article-title>The Claudins</article-title>. <source>Genome Biol.</source>
+<volume>10</volume>:<fpage>235</fpage>. <pub-id pub-id-type="doi">10.1186/gb-2009-10-8-235</pub-id><?supplied-pmid 19706201?><pub-id pub-id-type="pmid">19706201</pub-id></mixed-citation>
+      </ref>
+      <ref id="B35">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Le Guelte</surname><given-names>A.</given-names></name><name><surname>Dwyer</surname><given-names>J.</given-names></name><name><surname>Gavard</surname><given-names>J.</given-names></name></person-group> (<year>2011</year>). <article-title>Jumping the barrier: VE-cadherin, VGFA and other angiogenic modifiers in cancer</article-title>. <source>Biol. Cell</source>
+<volume>103</volume>, <fpage>593</fpage>–<lpage>605</lpage>. <pub-id pub-id-type="doi">10.1042/BC20110069</pub-id><?supplied-pmid 22054419?><pub-id pub-id-type="pmid">22054419</pub-id></mixed-citation>
+      </ref>
+      <ref id="B36">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Linton</surname><given-names>A.</given-names></name><name><surname>Pavlakis</surname><given-names>N.</given-names></name><name><surname>O'Connell</surname><given-names>R.</given-names></name><name><surname>Soeberg</surname><given-names>M.</given-names></name><name><surname>Kao</surname><given-names>S.</given-names></name><name><surname>Clarke</surname><given-names>S.</given-names></name><etal/></person-group>. (<year>2014</year>). <article-title>Factors associated with survival in a large series of patients with malignant pleural mesothelioma in New South Wales</article-title>. <source>Br. J. Cancer</source>
+<volume>111</volume>, <fpage>1860</fpage>–<lpage>1869</lpage>. <pub-id pub-id-type="doi">10.1038/bjc.2014.478</pub-id><?supplied-pmid 25188323?><pub-id pub-id-type="pmid">25188323</pub-id></mixed-citation>
+      </ref>
+      <ref id="B37">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lopez-Rios</surname><given-names>F.</given-names></name><name><surname>Chuai</surname><given-names>S.</given-names></name><name><surname>Flores</surname><given-names>R.</given-names></name><name><surname>Shimizu</surname><given-names>S.</given-names></name><name><surname>Ohno</surname><given-names>T.</given-names></name><name><surname>Wakahara</surname><given-names>K.</given-names></name><etal/></person-group>. (<year>2006</year>). <article-title>Global gene expression profiling of pleural mesotheliomas: overexpression of aurora kinases and P16/CDKN2A deletion as prognostic factors and critical evaluation of microarray-based prognostic prediction</article-title>. <source>Cancer Res.</source>
+<volume>66</volume>, <fpage>2970</fpage>–<lpage>2979</lpage>. <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-05-3907</pub-id><?supplied-pmid 16540645?><pub-id pub-id-type="pmid">16540645</pub-id></mixed-citation>
+      </ref>
+      <ref id="B38">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Markov</surname><given-names>A. G.</given-names></name><name><surname>Amasheh</surname><given-names>S.</given-names></name></person-group> (<year>2014</year>). <article-title>Tight junction physiology of pleural mesothelium</article-title>. <source>Front. Physiol.</source>
+<volume>5</volume>:<fpage>221</fpage>. <pub-id pub-id-type="doi">10.3389/fphys.2014.00221</pub-id><?supplied-pmid 25009499?><pub-id pub-id-type="pmid">25009499</pub-id></mixed-citation>
+      </ref>
+      <ref id="B39">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Markov</surname><given-names>A. G.</given-names></name><name><surname>Falchuk</surname><given-names>E. L.</given-names></name><name><surname>Kruglova</surname><given-names>N. M.</given-names></name><name><surname>Rybalchenko</surname><given-names>O. V.</given-names></name><name><surname>Fromm</surname><given-names>M.</given-names></name><name><surname>Amasheh</surname><given-names>S.</given-names></name></person-group> (<year>2014</year>). <article-title>Comparative analysis of theophylline and cholera toxin in rat colon reveals an induction of sealing tight junction proteins</article-title>. <source>Pflugers Arch.</source>
+<volume>466</volume>, <fpage>2059</fpage>–<lpage>2065</lpage>. <pub-id pub-id-type="doi">10.1007/s00424-014-1460-z</pub-id><?supplied-pmid 24515293?><pub-id pub-id-type="pmid">24515293</pub-id></mixed-citation>
+      </ref>
+      <ref id="B40">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Markov</surname><given-names>A. G.</given-names></name><name><surname>Voronkova</surname><given-names>M. A.</given-names></name><name><surname>Volgin</surname><given-names>G. N.</given-names></name><name><surname>Yablonsky</surname><given-names>P. K.</given-names></name><name><surname>Fromm</surname><given-names>M.</given-names></name><name><surname>Amanesh</surname><given-names>S.</given-names></name></person-group> (<year>2011</year>). <article-title>Tight junction proteins contribute to barrier properties in human pleura</article-title>. <source>Respir. Physiol. Neurobiol.</source>
+<volume>175</volume>, <fpage>331</fpage>–<lpage>335</lpage>. <pub-id pub-id-type="doi">10.1016/j.resp.2010.12.012</pub-id><?supplied-pmid 21187167?><pub-id pub-id-type="pmid">21187167</pub-id></mixed-citation>
+      </ref>
+      <ref id="B41">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Melaiu</surname><given-names>O.</given-names></name><name><surname>Cristaudo</surname><given-names>A.</given-names></name><name><surname>Melissari</surname><given-names>E.</given-names></name><name><surname>Di Russo</surname><given-names>M.</given-names></name><name><surname>Bonotti</surname><given-names>A.</given-names></name><name><surname>Bruno</surname><given-names>R.</given-names></name><etal/></person-group>. (<year>2012</year>). <article-title>A review of transcriptome studies combined with data mining reveals novel potential markers of malignant pleural mesothelioma</article-title>. <source>Mutat. Res.</source>
+<volume>750</volume>, <fpage>132</fpage>–<lpage>140</lpage>. <pub-id pub-id-type="doi">10.1016/j.mrrev.2011.12.003</pub-id><?supplied-pmid 22198210?><pub-id pub-id-type="pmid">22198210</pub-id></mixed-citation>
+      </ref>
+      <ref id="B42">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Milatz</surname><given-names>S.</given-names></name><name><surname>Krug</surname><given-names>S. M.</given-names></name><name><surname>Rosenthal</surname><given-names>R.</given-names></name><name><surname>Günzel</surname><given-names>D.</given-names></name><name><surname>Müller</surname><given-names>D.</given-names></name><name><surname>Schulzke</surname><given-names>J. D.</given-names></name><etal/></person-group>. (<year>2010</year>). <article-title>Claudin-3 acts as a sealing component of the tight junction for ions of either charge and uncharged solutes</article-title>. <source>Biochim. Biophys. Acta</source>
+<volume>1798</volume>, <fpage>2048</fpage>–<lpage>2057</lpage>. <pub-id pub-id-type="doi">10.1016/j.bbamem.2010.07.014</pub-id><?supplied-pmid 20655293?><pub-id pub-id-type="pmid">20655293</pub-id></mixed-citation>
+      </ref>
+      <ref id="B43">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mononen</surname><given-names>N.</given-names></name><name><surname>Schleutker</surname><given-names>J.</given-names></name></person-group> (<year>2009</year>). <article-title>Polymorphisms in genes involved in androgen pathways as risk factors for prostate cancer</article-title>. <source>J. Urol.</source>
+<volume>181</volume>, <fpage>1541</fpage>–<lpage>1549</lpage>. <pub-id pub-id-type="doi">10.1016/j.juro.2008.11.076</pub-id><?supplied-pmid 19230916?><pub-id pub-id-type="pmid">19230916</pub-id></mixed-citation>
+      </ref>
+      <ref id="B44">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Musk</surname><given-names>A. W.</given-names></name><name><surname>Olsen</surname><given-names>N.</given-names></name><name><surname>Alfonso</surname><given-names>H.</given-names></name><name><surname>Reid</surname><given-names>A.</given-names></name><name><surname>Mina</surname><given-names>R.</given-names></name><name><surname>Franklin</surname><given-names>P.</given-names></name><etal/></person-group>. (<year>2011</year>). <article-title>Predicting survival in malignant mesothelioma</article-title>. <source>Eur. Respir. J.</source>
+<volume>38</volume>, <fpage>1420</fpage>–<lpage>1424</lpage>. <pub-id pub-id-type="doi">10.1183/09031936.00000811</pub-id><?supplied-pmid 21737558?><pub-id pub-id-type="pmid">21737558</pub-id></mixed-citation>
+      </ref>
+      <ref id="B45">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mutsaers</surname><given-names>S. E.</given-names></name><name><surname>Birnie</surname><given-names>K.</given-names></name><name><surname>Lansley</surname><given-names>S.</given-names></name><name><surname>Herrick</surname><given-names>S. E.</given-names></name><name><surname>Lim</surname><given-names>C. B.</given-names></name><name><surname>Prele</surname><given-names>C. M.</given-names></name></person-group> (<year>2015</year>). <article-title>Mesothelial cells in tissue repair and fibrosis</article-title>. <source>Front. Pharmacol.</source>
+<volume>6</volume>:<fpage>113</fpage>. <pub-id pub-id-type="doi">10.3389/fphar.2015.00113</pub-id><?supplied-pmid 26106328?><pub-id pub-id-type="pmid">26106328</pub-id></mixed-citation>
+      </ref>
+      <ref id="B46">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nakano</surname><given-names>T.</given-names></name></person-group> (<year>2008</year>). <article-title>Current therapies for malignant pleural mesothelioma</article-title>. <source>Environ. Health Prev. Med.</source>
+<volume>13</volume>, <fpage>75</fpage>–<lpage>83</lpage>. <pub-id pub-id-type="doi">10.1007/s12199-007-0016-7</pub-id><?supplied-pmid 19568885?><pub-id pub-id-type="pmid">19568885</pub-id></mixed-citation>
+      </ref>
+      <ref id="B47">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nasreen</surname><given-names>N.</given-names></name><name><surname>Mohammed</surname><given-names>K. A.</given-names></name><name><surname>Hardwick</surname><given-names>J.</given-names></name><name><surname>Van Horn</surname><given-names>R. D.</given-names></name><name><surname>Sanders</surname><given-names>K. L.</given-names></name><name><surname>Doerschuk</surname><given-names>C. M.</given-names></name><etal/></person-group>. (<year>2001</year>). <article-title>Polar production of interleukin-8 by mesothelial cells promotes the transmesothelial migration of neutrophils: role of intercellular adhesion molecule-1</article-title>. <source>J. Infect. Dis.</source>
+<volume>183</volume>, <fpage>1638</fpage>–<lpage>1645</lpage>. <pub-id pub-id-type="doi">10.1086/320700</pub-id><?supplied-pmid 11343213?><pub-id pub-id-type="pmid">11343213</pub-id></mixed-citation>
+      </ref>
+      <ref id="B48">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ohta</surname><given-names>Y.</given-names></name><name><surname>Sasaki</surname><given-names>Y.</given-names></name><name><surname>Saito</surname><given-names>M.</given-names></name><name><surname>Kushima</surname><given-names>M.</given-names></name><name><surname>Takimoto</surname><given-names>M.</given-names></name><name><surname>Shiokawa</surname><given-names>A.</given-names></name><etal/></person-group>. (<year>2013</year>). <article-title>Claudin-4 as a marker for distinguishing malignant mesothelioma from lung carcinoma and serous adenocarcinoma</article-title>. <source>Int. J. Surg. Pathol.</source>
+<volume>21</volume>, <fpage>493</fpage>–<lpage>501</lpage>. <pub-id pub-id-type="doi">10.1177/1066896913491320</pub-id><?supplied-pmid 23775021?><pub-id pub-id-type="pmid">23775021</pub-id></mixed-citation>
+      </ref>
+      <ref id="B49">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ordóñez</surname><given-names>N. G.</given-names></name></person-group> (<year>2013</year>). <article-title>Value of claudin-4 immunostaining in the diagnosis of mesothelioma</article-title>. <source>Am. J. Clin. Pathol.</source>
+<volume>139</volume>, <fpage>611</fpage>–<lpage>619</lpage>. <pub-id pub-id-type="doi">10.1309/AJCP0B3YJBXWXJII</pub-id><?supplied-pmid 23596113?><pub-id pub-id-type="pmid">23596113</pub-id></mixed-citation>
+      </ref>
+      <ref id="B50">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Osanai</surname><given-names>M.</given-names></name><name><surname>Takasawa</surname><given-names>A.</given-names></name><name><surname>Murata</surname><given-names>M.</given-names></name><name><surname>Sawada</surname><given-names>N.</given-names></name></person-group> (<year>2017</year>). <article-title>Claudins in cancer: bench to bedside</article-title>. <source>Pflugers Arch.</source>
+<volume>469</volume>, <fpage>55</fpage>–<lpage>67</lpage>. <pub-id pub-id-type="doi">10.1007/s00424-016-1877-7</pub-id><?supplied-pmid 27624415?><pub-id pub-id-type="pmid">27624415</pub-id></mixed-citation>
+      </ref>
+      <ref id="B51">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ostroff</surname><given-names>R. M.</given-names></name><name><surname>Mehan</surname><given-names>M. R.</given-names></name><name><surname>Stewart</surname><given-names>A.</given-names></name><name><surname>Ayers</surname><given-names>D.</given-names></name><name><surname>Brody</surname><given-names>E. N.</given-names></name><name><surname>Williams</surname><given-names>S. A.</given-names></name><etal/></person-group>. (<year>2012</year>). <article-title>Early detection of malignant pleural mesothelioma in asbestos-exposed individuals with a noninvasive proteomics-based surveillance tool</article-title>. <source>PLoS ONE</source>
+<volume>7</volume>:<fpage>e46091</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pone.0046091</pub-id><?supplied-pmid 23056237?><pub-id pub-id-type="pmid">23056237</pub-id></mixed-citation>
+      </ref>
+      <ref id="B52">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ouban</surname><given-names>A.</given-names></name><name><surname>Ahmed</surname><given-names>A. A.</given-names></name></person-group> (<year>2010</year>). <article-title>Claudins in human cancer: a review</article-title>. <source>Histol. Histopathol.</source>
+<volume>25</volume>, <fpage>83</fpage>–<lpage>90</lpage>. <pub-id pub-id-type="doi">10.14670/HH-25.83</pub-id><?supplied-pmid 19924644?><pub-id pub-id-type="pmid">19924644</pub-id></mixed-citation>
+      </ref>
+      <ref id="B53">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Palena</surname><given-names>C.</given-names></name><name><surname>Hamilton</surname><given-names>D. H.</given-names></name><name><surname>Fernando</surname><given-names>R. I.</given-names></name></person-group> (<year>2012</year>). <article-title>Influence of IL-8 on the epithelial-mesenchymal transition and the tumor microenvironment</article-title>. <source>Future Oncol.</source>
+<volume>8</volume>, <fpage>713</fpage>–<lpage>722</lpage>. <pub-id pub-id-type="doi">10.2217/fon.12.59</pub-id><?supplied-pmid 22764769?><pub-id pub-id-type="pmid">22764769</pub-id></mixed-citation>
+      </ref>
+      <ref id="B54">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pang</surname><given-names>X.</given-names></name><name><surname>Min</surname><given-names>J.</given-names></name><name><surname>Liu</surname><given-names>L.</given-names></name><name><surname>Liu</surname><given-names>Y.</given-names></name><name><surname>Ma</surname><given-names>N.</given-names></name><name><surname>Zhang</surname><given-names>H.</given-names></name></person-group> (<year>2012</year>). <article-title>S100B protein as a possible participant in the brain metastasis of NSCLC</article-title>. <source>Med. Oncol.</source>
+<volume>29</volume>, <fpage>2626</fpage>–<lpage>2632</lpage>. <pub-id pub-id-type="doi">10.1007/s12032-012-0169-0</pub-id><?supplied-pmid 22286962?><pub-id pub-id-type="pmid">22286962</pub-id></mixed-citation>
+      </ref>
+      <ref id="B55">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Panou</surname><given-names>V.</given-names></name><name><surname>Vyberg</surname><given-names>M.</given-names></name><name><surname>Weinreich</surname><given-names>U. M.</given-names></name><name><surname>Meristoudis</surname><given-names>C.</given-names></name><name><surname>Falkmer</surname><given-names>U. G.</given-names></name><name><surname>Røe</surname><given-names>O. D.</given-names></name></person-group> (<year>2015</year>). <article-title>The established and future biomarkers of malignant pleural mesothelioma</article-title>. <source>Cancer Treat. Rev.</source>
+<volume>41</volume>, <fpage>486</fpage>–<lpage>495</lpage>. <pub-id pub-id-type="doi">10.1016/j.ctrv.2015.05.001</pub-id><?supplied-pmid 25979846?><pub-id pub-id-type="pmid">25979846</pub-id></mixed-citation>
+      </ref>
+      <ref id="B56">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pinton</surname><given-names>G.</given-names></name><name><surname>Brunelli</surname><given-names>E.</given-names></name><name><surname>Murer</surname><given-names>B.</given-names></name><name><surname>Puntoni</surname><given-names>R.</given-names></name><name><surname>Puntoni</surname><given-names>M.</given-names></name><name><surname>Fennel</surname><given-names>D. A.</given-names></name><etal/></person-group>. (<year>2009</year>). <article-title>Estrogen receptor-b affects the prognosis of human malignant mesothelioma</article-title>. <source>Cancer Res.</source>
+<volume>69</volume>, <fpage>4598</fpage>–<lpage>4604</lpage>. <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-08-4523</pub-id><?supplied-pmid 19487281?><pub-id pub-id-type="pmid">19487281</pub-id></mixed-citation>
+      </ref>
+      <ref id="B57">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rascoe</surname><given-names>P. A.</given-names></name><name><surname>Jupiter</surname><given-names>D.</given-names></name><name><surname>Cao</surname><given-names>X.</given-names></name><name><surname>Littlejohn</surname><given-names>J. E.</given-names></name><name><surname>Smythe</surname><given-names>W. R.</given-names></name></person-group> (<year>2012</year>). <article-title>Molecular pathogenesis of malignant mesothelioma</article-title>. <source>Expert Rev. Mol. Med.</source>
+<volume>14</volume>:<fpage>e12</fpage>. <pub-id pub-id-type="doi">10.1017/erm.2012.6</pub-id><?supplied-pmid 22622048?><pub-id pub-id-type="pmid">22622048</pub-id></mixed-citation>
+      </ref>
+      <ref id="B58">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Reinmuth</surname><given-names>N.</given-names></name><name><surname>Thomas</surname><given-names>M.</given-names></name><name><surname>Meister</surname><given-names>M.</given-names></name><name><surname>Schnabel</surname><given-names>P. A.</given-names></name><name><surname>Kreuter</surname><given-names>M.</given-names></name></person-group> (<year>2010</year>). <article-title>Current data on predictive markers for anti-angiogenic therapy in thoracic tumors</article-title>. <source>Eur. Respir. J.</source>
+<volume>36</volume>, <fpage>915</fpage>–<lpage>924</lpage>. <pub-id pub-id-type="doi">10.1183/09031936.00074009</pub-id><?supplied-pmid 20889462?><pub-id pub-id-type="pmid">20889462</pub-id></mixed-citation>
+      </ref>
+      <ref id="B59">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rhodes</surname><given-names>D. R.</given-names></name><name><surname>Yu</surname><given-names>J.</given-names></name><name><surname>Shanker</surname><given-names>K.</given-names></name><name><surname>Deshpande</surname><given-names>N.</given-names></name><name><surname>Varambally</surname><given-names>R.</given-names></name><name><surname>Ghosh</surname><given-names>D.</given-names></name><etal/></person-group>. (<year>2004</year>). <article-title>ONCOMINE: a cancer microarray database and integrated data-mining platform</article-title>. <source>Neoplasia</source>
+<volume>6</volume>, <fpage>1</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1016/S1476-5586(04)80047-2</pub-id><?supplied-pmid 15068665?><pub-id pub-id-type="pmid">15068665</pub-id></mixed-citation>
+      </ref>
+      <ref id="B60">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Robinson</surname><given-names>B. W.</given-names></name><name><surname>Lake</surname><given-names>R. A.</given-names></name></person-group> (<year>2005</year>). <article-title>Advances in malignant mesothelioma</article-title>. <source>N. Engl. J. Med.</source>
+<volume>353</volume>, <fpage>1591</fpage>–<lpage>1603</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMra050152</pub-id><?supplied-pmid 16221782?><pub-id pub-id-type="pmid">16221782</pub-id></mixed-citation>
+      </ref>
+      <ref id="B61">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Safran</surname><given-names>M.</given-names></name><name><surname>Chalifa-Caspi</surname><given-names>V.</given-names></name><name><surname>Shmueli</surname><given-names>O.</given-names></name><name><surname>Olender</surname><given-names>T.</given-names></name><name><surname>Lapidot</surname><given-names>M.</given-names></name><name><surname>Rosen</surname><given-names>N.</given-names></name><etal/></person-group>. (<year>2003</year>). <article-title>Human gene-centric databases at the weizmann institute of science: genecards, UDB, CroW 21 and HORDE</article-title>. <source>Nucleic Acids Res.</source>
+<volume>31</volume>, <fpage>142</fpage>–<lpage>146</lpage>. <pub-id pub-id-type="doi">10.1093/nar/gkg050</pub-id><?supplied-pmid 12519968?><pub-id pub-id-type="pmid">12519968</pub-id></mixed-citation>
+      </ref>
+      <ref id="B62">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sekido</surname><given-names>Y.</given-names></name></person-group> (<year>2013</year>). <article-title>Molecular pathogenesis of malignant mesothelioma</article-title>. <source>Carcinogenesis</source>
+<volume>34</volume>, <fpage>1413</fpage>–<lpage>1419</lpage>. <pub-id pub-id-type="doi">10.1093/carcin/bgt166</pub-id><?supplied-pmid 23677068?><pub-id pub-id-type="pmid">23677068</pub-id></mixed-citation>
+      </ref>
+      <ref id="B63">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Soini</surname><given-names>Y.</given-names></name></person-group> (<year>2011</year>). <article-title>Claudins in lung diseases</article-title>. <source>Respir. Res.</source>
+<volume>12</volume>:<fpage>70</fpage>. <pub-id pub-id-type="doi">10.1186/1465-9921-12-70</pub-id><?supplied-pmid 21619599?><pub-id pub-id-type="pmid">21619599</pub-id></mixed-citation>
+      </ref>
+      <ref id="B64">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Soini</surname><given-names>Y.</given-names></name><name><surname>Kinnula</surname><given-names>V.</given-names></name><name><surname>Kahlos</surname><given-names>K.</given-names></name><name><surname>Pääkkö</surname><given-names>P.</given-names></name></person-group> (<year>2006</year>). <article-title>Claudins in differential diagnosis between mesothelioma and metastatic adenocarcinoma of the pleura</article-title>. <source>J. Clin. Pathol.</source>
+<volume>59</volume>, <fpage>250</fpage>–<lpage>254</lpage>. <pub-id pub-id-type="doi">10.1136/jcp.2005.028589</pub-id><?supplied-pmid 16505274?><pub-id pub-id-type="pmid">16505274</pub-id></mixed-citation>
+      </ref>
+      <ref id="B65">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Szklarczyk</surname><given-names>D.</given-names></name><name><surname>Franceschini</surname><given-names>A.</given-names></name><name><surname>Kuhn</surname><given-names>M.</given-names></name><name><surname>Simonovic</surname><given-names>M.</given-names></name><name><surname>Roth</surname><given-names>A.</given-names></name><name><surname>Minguez</surname><given-names>P.</given-names></name><etal/></person-group>. (<year>2011</year>). <article-title>The STRING database in 2011: functional interaction networks of proteins, globally integrated and scored</article-title>. <source>Nucleic Acids Res.</source>
+<volume>39</volume>, <fpage>561</fpage>–<lpage>568</lpage>. <pub-id pub-id-type="doi">10.1093/nar/gkq973</pub-id><?supplied-pmid 21045058?><pub-id pub-id-type="pmid">21045058</pub-id></mixed-citation>
+      </ref>
+      <ref id="B66">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Taddei</surname><given-names>A.</given-names></name><name><surname>Giampietro</surname><given-names>C.</given-names></name><name><surname>Conti</surname><given-names>A.</given-names></name><name><surname>Orsenigo</surname><given-names>F.</given-names></name><name><surname>Breviario</surname><given-names>F.</given-names></name><name><surname>Pirazzoli</surname><given-names>V.</given-names></name><etal/></person-group>. (<year>2008</year>). <article-title>Endothelial adherens junctions control tight junctions by VE-cadherin mediated upregulation of claudin-5</article-title>. <source>Nat. Cell Biol.</source>
+<volume>10</volume>, <fpage>923</fpage>–<lpage>934</lpage>. <pub-id pub-id-type="doi">10.1038/ncb1752</pub-id><?supplied-pmid 18604199?><pub-id pub-id-type="pmid">18604199</pub-id></mixed-citation>
+      </ref>
+      <ref id="B67">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Taioli</surname><given-names>E.</given-names></name><name><surname>Wolf</surname><given-names>A. S.</given-names></name><name><surname>Camacho-Rivera</surname><given-names>M.</given-names></name><name><surname>Flores</surname><given-names>R. M.</given-names></name></person-group> (<year>2014</year>). <article-title>Women with malignant mesothelioma have a three-fold better survival rate than men</article-title>. <source>Ann. Thorac. Surg.</source>
+<volume>98</volume>, <fpage>1020</fpage>–<lpage>1024</lpage>. <pub-id pub-id-type="doi">10.1016/j.athoracsur.2014.04.040</pub-id><?supplied-pmid 24928677?><pub-id pub-id-type="pmid">24928677</pub-id></mixed-citation>
+      </ref>
+      <ref id="B68">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tasiopoulou</surname><given-names>V.</given-names></name><name><surname>Magouliotis</surname><given-names>D.</given-names></name><name><surname>Solenov</surname><given-names>E. I.</given-names></name><name><surname>Vavougios</surname><given-names>G.</given-names></name><name><surname>Molyvdas</surname><given-names>P. A.</given-names></name><name><surname>Gourgoulianis</surname><given-names>K. I.</given-names></name><etal/></person-group>. (<year>2015</year>). <article-title>Transcriptional over-expression of chloride intracellular channels 3 and 4 in malignant pleural mesothelioma</article-title>. <source>Comput. Biol. Chem.</source>
+<volume>59</volume>, <fpage>111</fpage>–<lpage>116</lpage>. <pub-id pub-id-type="doi">10.1016/j.compbiolchem.2015.09.012</pub-id><?supplied-pmid 26445368?><pub-id pub-id-type="pmid">26445368</pub-id></mixed-citation>
+      </ref>
+      <ref id="B69">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Valle</surname><given-names>B. L.</given-names></name><name><surname>Morin</surname><given-names>P. J.</given-names></name></person-group> (<year>2010</year>). <article-title>Claudins in cancer biology</article-title>. <source>Curr. Top. Membr.</source>
+<volume>65</volume>, <fpage>293</fpage>–<lpage>333</lpage>. <pub-id pub-id-type="doi">10.1016/S1063-5823(10)65013-2</pub-id></mixed-citation>
+      </ref>
+      <ref id="B70">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vavougios</surname><given-names>G. D.</given-names></name><name><surname>Solenov</surname><given-names>E. I.</given-names></name><name><surname>Hatzoglou</surname><given-names>C.</given-names></name><name><surname>Baturina</surname><given-names>G. S.</given-names></name><name><surname>Katkova</surname><given-names>L. E.</given-names></name><name><surname>Molyvdas</surname><given-names>P. A.</given-names></name><etal/></person-group>. (<year>2015</year>). <article-title>Computational genomic analysis of PARK7 interactome reveals high BBS1 gene expression as a prognostic factor favoring survival in malignant pleural mesothelioma</article-title>. <source>Am. J. Physiol. Lung Cell. Mol. Physiol.</source>
+<volume>309</volume>, <fpage>677</fpage>–<lpage>686</lpage>. <pub-id pub-id-type="doi">10.1152/ajplung.00051.2015</pub-id><?supplied-pmid 26254420?><pub-id pub-id-type="pmid">26254420</pub-id></mixed-citation>
+      </ref>
+      <ref id="B71">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Waugh</surname><given-names>D. J.</given-names></name><name><surname>Wilson</surname><given-names>C.</given-names></name></person-group> (<year>2008</year>). <article-title>The interleukin-8 pathway in cancer</article-title>. <source>Clin. Cancer Res.</source>
+<volume>14</volume>, <fpage>6735</fpage>–<lpage>6741</lpage>. <pub-id pub-id-type="doi">10.1158/1078-0432.CCR-07-4843</pub-id><?supplied-pmid 18980965?><pub-id pub-id-type="pmid">18980965</pub-id></mixed-citation>
+      </ref>
+      <ref id="B72">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zarogoulidis</surname><given-names>P.</given-names></name><name><surname>Tsakiridis</surname><given-names>K.</given-names></name><name><surname>Karapantzou</surname><given-names>C.</given-names></name><name><surname>Lampaki</surname><given-names>S.</given-names></name><name><surname>Kioumis</surname><given-names>I.</given-names></name><name><surname>Pitsiou</surname><given-names>G.</given-names></name><etal/></person-group>. (<year>2015</year>). <article-title>Use of proteins as biomarkers and their role in carcinogenesis</article-title>. <source>J. Cancer</source>
+<volume>6</volume>, <fpage>9</fpage>–<lpage>18</lpage>. <pub-id pub-id-type="doi">10.7150/jca.10560</pub-id><?supplied-pmid 25553084?><pub-id pub-id-type="pmid">25553084</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record>

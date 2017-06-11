@@ -1,0 +1,853 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5359313</identifier><datestamp>2017-04-04</datestamp><setSpec>frontpsychol</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Psychol</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Psychol</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Psychol.</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Psychology</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1664-1078</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5359313</article-id>
+      <article-id pub-id-type="pmcid">PMC5359313</article-id>
+      <article-id pub-id-type="pmc-uid">5359313</article-id>
+      <article-id pub-id-type="doi">10.3389/fpsyg.2017.00407</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Psychology</subject>
+          <subj-group>
+            <subject>Original Research</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Differences in Perceived Mental Effort Required and Discomfort during a Working Memory Task between Individuals At-risk And Not At-risk for ADHD</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hsu</surname>
+            <given-names>Chia-Fen</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn001">
+            <sup>*</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/394970/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Eastwood</surname>
+            <given-names>John D.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/51443/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Toplak</surname>
+            <given-names>Maggie E.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn001">
+            <sup>*</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/103589/overview"/>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <sup>1</sup>
+        <institution>Department of Psychology, Faculty of Health, York University, Toronto</institution>
+        <country>ON, Canada</country>
+      </aff>
+      <aff id="aff2">
+        <sup>2</sup>
+        <institution>Department of Psychology, Chung Shan Medical University</institution>
+        <country>Taichung, Taiwan</country>
+      </aff>
+      <aff id="aff3">
+        <sup>3</sup>
+        <institution>Clinical Psychological Room, Chung Shan Medical University Hospital</institution>
+        <country>Taichung, Taiwan</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <p>Edited by: <italic>Michael Noll-Hussong, University of Ulm, Germany</italic></p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Reviewed by: <italic>Jessica A. Church-Lang, University of Texas at Austin, USA; Francisco Xavier Castellanos, New York University, USA; Franz Moggi, University of Bern, Switzerland</italic></p>
+        </fn>
+        <corresp id="fn001">*Correspondence: <italic>Maggie E. Toplak, <email xlink:type="simple">mtoplak@yorku.ca</email> Chia-Fen Hsu, <email xlink:type="simple">cfhsu@csmu.edu.tw</email></italic></corresp>
+        <fn fn-type="other" id="fn002">
+          <p>This article was submitted to Emotion Science, a section of the journal Frontiers in Psychology</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>3</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2017</year>
+      </pub-date>
+      <volume>8</volume>
+      <elocation-id>407</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>26</day>
+          <month>11</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>06</day>
+          <month>3</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2017 Hsu, Eastwood and Toplak.</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <copyright-holder>Hsu, Eastwood and Toplak</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p><bold>Objective:</bold> The avoidance of mental effort is a symptom criterion for Attention-Deficit/Hyperactivity Disorder (ADHD), but the experience of mental effort has received relatively little attention in the empirical study of individuals at-risk for ADHD. We explored a novel method to assess the experience of effort and discomfort during a working memory task in a sample of young adults at-risk and not at-risk for ADHD.</p>
+        <p><bold>Method:</bold> A sample of 235 undergraduate students (Mean age = 21.02, 86 males) were included in this study. Based on an ADHD-screener (ASRS), 136 participants met criteria for the ADHD-risk group and 99 were in the non-ADHD risk group.</p>
+        <p><bold>Results:</bold> Individuals at-risk for ADHD reported higher mental effort and discomfort than individuals not at-risk for ADHD, even when performance on the working memory task was comparable or statistically controlled. Mental effort required and discomfort were more strongly correlated for at-risk compared to not at-risk participants. Individuals at-risk for ADHD displayed a stronger correlation between mental effort required and actual accuracy, but individuals not at-risk for ADHD displayed a stronger association between perceived accuracy and actual accuracy for the hardest experimental conditions. The most intense moment of effort required predicted retrospective discomfort ratings of the task in the ADHD-risk group, but not in the non-risk group.</p>
+        <p><bold>Conclusion:</bold> The subjective experience of <italic>in the moment</italic> mental effort is an important and viable construct that should be more carefully defined and measured. In particular, the experience of effort required (or how taxing a task is) differentiated between individuals at-risk and individuals not at-risk for ADHD in the present study. Whereas previous ADHD research has explored effort exerted, the present work demonstrated that investigating the experience of being mentally taxed might provide a productive line of investigation that could be used to advance our understanding of the cognitive and affective mechanisms underlying the regulation of effort in individuals at-risk of ADHD.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>experience of effort</kwd>
+        <kwd>mental effort</kwd>
+        <kwd>subjective ratings</kwd>
+        <kwd>ADHD-risk</kwd>
+        <kwd>cognitive abilities</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source id="cn001">Natural Sciences and Engineering Research Council of Canada<named-content content-type="fundref-id">10.13039/501100000038</named-content></funding-source>
+        </award-group>
+        <award-group>
+          <funding-source id="cn002">Social Sciences and Humanities Research Council of Canada<named-content content-type="fundref-id">10.13039/501100000155</named-content></funding-source>
+        </award-group>
+      </funding-group>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="4"/>
+        <equation-count count="0"/>
+        <ref-count count="29"/>
+        <page-count count="9"/>
+        <word-count count="0"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Introduction</title>
+      <p>The point of departure for the present work is the observation that there are individual differences in how mentally effortful tasks are experienced. For some, a cognitively demanding task is a welcomed opportunity, for others such a task can’t end soon enough. Individual differences are evident in both what it feels like <italic>‘in the moment’</italic> to complete a mentally effortful task (e.g., <italic>this</italic> task is requiring a lot of effort; see for example, <xref rid="B15" ref-type="bibr">Paas, 1992</xref>; <xref rid="B29" ref-type="bibr">von Helversen et al., 2008</xref>; <xref rid="B19" ref-type="bibr">Robinson and Morsella, 2014</xref>) and <italic>‘generalized thoughts and feelings’</italic> about mental effort (e.g., I often find math questions require a lot of effort; see for example, <xref rid="B5" ref-type="bibr">Dornic et al., 1991</xref>; <xref rid="B4" ref-type="bibr">Cacioppo et al., 1996</xref>). This difference between effort in the moment and generalized thoughts and feelings largely maps onto the classic distinction between states and traits. In this study, we focused on measuring the “<italic>in the moment</italic>” experience of effort during a cognitively demanding task. In addition, we identified individuals at-risk for Attention-Deficit/Hyperactivity Disorder (ADHD), as avoidance of effortful tasks is diagnostic of these individuals (DSM-5, <xref rid="B1" ref-type="bibr">American Psychiatric Association [APA], 2013</xref>). We examined differences between those at-risk for ADHD and those not at-risk in terms of their experience of mental effort during a cognitive demanding task, and whether these differences were separable from task performance.</p>
+      <p>The <italic>‘in the moment’</italic> versus <italic>‘generalized thoughts and feelings’</italic> about mental effort distinction provides some conceptual clarity for understanding the experience of mental effort, but there is still a long way to go in defining this construct in a more precise manner for proper empirical investigation. In part, this is because the experience of mental effort is a broad and often ill-defined concept with a variety of different aspects. Like the proverbial blind men, researchers have grasped different aspects of the elephant and come to different understandings. There are at least three distinct aspects of mental effort that need to be distinguished in participants’ subjective self-reports. Participants can report <italic>‘how hard I tried’</italic> (i.e., effort volitionally exerted); <italic>‘how taxed I felt’</italic> (i.e., effort extracted for level of achievement) and <italic>‘how difficult the task is’</italic> (i.e., effort potentially demanded). The key difference between <italic>‘how hard I tried’</italic> and <italic>‘how taxed I felt’</italic> relates to agency. The first puts the emphasis on what one brings to the task; that is, one’s level of motivation and energy to do one’s best, or not. Whereas the second puts the emphasis on what the task does to the individual; that is, how much the task burdened or required of the individual. It is possible to imagine situations where a person might report trying hard to do their best but also report finding that the task did not require a lot of them. This conceptual distinction has borne out empirically. For example, <xref rid="B13" ref-type="bibr">Mulert et al. (2007)</xref> found that amount of “effort required” (i.e., how taxed I felt) varied in direct proportion to objective task difficulty, whereas amount of “volitional effort” (i.e., how hard I tried) was more constant across variations in task difficulty. The key difference between <italic>‘how taxed I felt’</italic> and <italic>‘how difficult the task is’</italic> is whether the focus is on the burden experienced by the individual or on the external task and its characteristics. The first puts the emphasis on what the task does to the individual (<italic>how much the task burdened or required of me</italic>), whereas the second puts the emphasis on characteristics of the task (<italic>whether it is difficult relative to other possible tasks</italic>). It is possible to imagine situations where a person might report feeling very taxed and report that the task was not very difficult; perhaps they did not get a good night of sleep and are thus very inattentive, but recognize that relative to other tasks this one is actually not that difficult. This conceptual distinction has also been borne out empirically. For example, <xref rid="B14" ref-type="bibr">Otto et al. (2014)</xref> found that the ratings of mental effort (i.e., <italic>how taxed I felt</italic>) were associated with increased activation in the left anterior insular cortex (aIC) compared to ratings of task difficulty (i.e., <italic>how difficult the task is</italic>) during a working memory task. Taken as a whole, there are conceptual and empirical reasons to believe that investigators studying mental effort must take care to distinguish between these different aspects of the experience of mental effort.</p>
+      <p>Mental effort is central to the definition of ADHD, surprisingly, however, this topic has garnered relatively little systematic research. One of the ADHD criterion stipulates that an individual with ADHD: “often avoids, dislikes, or is reluctant to engage in tasks that require sustained mental effort (e.g., schoolwork or homework; for older adolescents and adults, preparing reports, completing forms, reviewing lengthy papers).” (p. 59, <xref rid="B1" ref-type="bibr">American Psychiatric Association [APA], 2013</xref>). Given the requirement for pervasiveness of signs and symptoms in order to obtain a diagnosis of ADHD, this diagnostic criterion suggests a dispositional quality related to avoidance of effort in individuals with ADHD. The Brown Scale is a standardized tool that was developed to provide a broader clinical characterization of the inattentive symptoms and executive problems associated with ADHD (<xref rid="B3" ref-type="bibr">Brown, 1996</xref>). This measure includes an Effort Scale, defined by inconsistent energy and inconsistent sustained effort. It appears that the Effort Scale is assessing something akin to the ‘<italic>how hard I (typically) try</italic>’ aspect of mental effort given that items suggest a lack of energy and a failure to work to potential. Adolescents with ADHD have reported more difficulty sustaining effort as indicated by significant differences on the Effort Scale compared to an adolescent control group (<xref rid="B20" ref-type="bibr">Rucklidge and Tannock, 2002</xref>). Similarly, the Cognitive and Motivation in Everyday Life (CAMEL) Scale (<xref rid="B28" ref-type="bibr">Van Liefferinge et al., 2016</xref>), which assesses neuropsychological impairments in children and youth with ADHD, appears to tap into the <italic>‘how hard I (typically) try’</italic> aspect of mental effort. Sample items from the Effort Allocation Scale of the CAMEL are: “Takes time to warm-up – to get going on a task”; “Puts things off until the last minute,” and “Chooses the way with least effort.” Parents were asked to rate their children and youth based on the extent to which the items described their children’s behavior using a five-point Likert scale. Children with ADHD scored significantly lower on this scale compared to children in the community sample, demonstrating a medium effect size, indicating difficulties with effort allocation in the clinical group.</p>
+      <p><xref rid="B21" ref-type="bibr">Sergeant’s (2000</xref>, <xref rid="B22" ref-type="bibr">2005</xref>) cognitive-energetic model has proposed a role for state effort in explaining ADHD deficits. In this model, effort is conceptualized as a state factor (including arousal and activation), which is separable from computational mechanisms (such as encoding, search, decision, and motor organization) and management or evaluation mechanisms (related to executive functions). Specifically, effort is defined as “the necessary energy to meet the demands of a task” (<xref rid="B21" ref-type="bibr">Sergeant, 2000</xref>, p. 8). In this model, task demands are thought to impact effort, whereby greater cognitive load elicits greater mobilization of energy (or effort). Relatively little research has examined the energetic state component of Sergeant’s model. However, children with ADHD have been shown to perform more poorly in tasks with slow compared to fast event rates (<xref rid="B23" ref-type="bibr">Sergeant et al., 1999</xref>). Unlike previous research on ADHD and mental effort, Sergeant’s model focuses on state <italic>‘in the moment’</italic> effort. But like previous ADHD research, this model appears to be focusing on the <italic>‘how hard I tried’</italic> aspect of mental effort. That is, suggesting that individuals with ADHD struggle to mobilize and volitionally exert the effort needed, especially on tasks that are de-energizing.</p>
+      <p>Given that avoidance of mentally effortful tasks is a diagnostic criterion of ADHD, it is somewhat surprising that relatively little systematic research has been done on the topic. Most of the research has focused on ratings of general thoughts, feelings and dispositions and even more specifically trait dispositions regarding how hard individuals try to complete mentally effortful tasks. A smaller amount of work, largely centered around Sergeant’s theory, has modeled a key role for <italic>in the moment</italic> considerations focusing on how much effort is exerted. To our knowledge, no research has examined whether individuals with ADHD or related difficulties systematically differ in their experience of ‘how taxed’ they are by cognitive tasks compared to non-ADHD individuals. Given that many theories of mental effort postulate that the experience of being mentally taxed may serve as a regulatory signal to disengage from effortful tasks (e.g., <xref rid="B11" ref-type="bibr">Kurzban, 2016</xref>), investigating the experience of being mentally taxed in individuals with ADHD-related difficulties may prove to be a productive focus of investigation that could be used to advance our understanding of the regulation of effort in at-risk samples. Thus, the overarching goal of the present work was to systematically describe how the subjective experience of mental effort required (i.e., experience of being burdened or taxed) is different for individuals at-risk for ADHD compared to those not at-risk for ADHD.</p>
+      <p>In the current study, we modeled our experimental design and data analytic approach on a pain study completed by <xref rid="B18" ref-type="bibr">Redelmeier and Kahneman (1996)</xref>. During colonoscopy and lithotripsy medical procedures (which were painful procedures at the time their study was conducted), <xref rid="B18" ref-type="bibr">Redelmeier and Kahneman (1996)</xref> asked participants to report their level of pain every 60 s. Then, within 1 h of completing the medical procedure, participants were asked to recall the total amount of pain they experienced. These authors found that the most intense ratings of pain during the procedure and the final ratings of pain at the end of the procedure were the most robust predictors of retrospective ratings – this phenomenon has come to be called the ‘peak-end effect.’ In a review of research on the ‘peak-end’ effect, <xref rid="B6" ref-type="bibr">Fredrickson (2000)</xref> argued that the broader principle is that moments of personal significance or salience are the best predictors of recall, and that peak and final moments are typically salient for most people. Applying this methodology from the pain literature, we assessed how taxed and uncomfortable participants felt during the completion of a cognitively demanding task and how uncomfortable participants recall the task to be after it was completed. We also measured their actual performance and their perceived performance.</p>
+      <p>We examined whether individuals at-risk for ADHD would find a cognitively demanding task more taxing (i.e., effort required) and uncomfortable than individuals not at-risk for ADHD. Specifically, we used an <italic>in the moment</italic> methodology that provides a specific reference point to a cognitively demanding task for these ratings. We asked participants to rate the effort required and discomfort at regular intervals during this task. We predicted that the at-risk group would rate the task as requiring more effort and as more uncomfortable than the non-risk group, even when performance accuracy was comparable in both groups. Further, if effort required and discomfort is more salient in the at-risk group these ratings should be more strongly associated with performance accuracy among the at-risk group than in the non-risk group. Finally, given our predictions regarding the salience of effort required and discomfort in the at-risk group, we predicted that the most intense (or peak ratings) of effort required would be particularly strong predictors of the at-risk group’s retrospective memories of discomfort associated with the working memory task. Given the novelty of the methodology used in this study, we examined our hypotheses in extreme groups that were identified using cut-offs on an ADHD symptom screening measure (at-risk ADHD and non-risk ADHD groups).</p>
+    </sec>
+    <sec sec-type="materials|methods" id="s1">
+      <title>Materials and Methods</title>
+      <sec>
+        <title>Ethics Statement</title>
+        <p>The experimental protocol was approved by the Human Participants Review Committee of York University’s Office of Research Ethics. Written, informed consent was obtained from all participants at the very beginning of the research protocol before any data was collected. Participants were free to withdraw consent at any time and still receive course credit.</p>
+      </sec>
+      <sec>
+        <title>Participants</title>
+        <p>A sample of 235 participants (Mean age = 21.02, <italic>SD</italic> = 5.69, 86 males) was selected for inclusion in this study from a larger sample of 431 university undergraduate students (mean age: 20.59, <italic>SD</italic>: 4.97, age range: 17–55, female: 68%) who participated in a larger study for course credit. Data from 30 participants were excluded from the analyses for the following reasons: participants failed the practice trials on the working memory task, participants were deemed to be outliers due to excessively poor performance on the working memory task (i.e., accuracy at any block was more than three standard deviations away from the mean of the blocks with the same difficulty) or participants had incomplete or missing data. Some data from these participants are reported in another study addressing different questions (Hsu et al., unpublished).</p>
+        <p>In the present study, we used the adult ADHD Self-Report Symptom Checklist screener (ASRS, <xref rid="B9" ref-type="bibr">Kessler et al., 2005</xref>) to identify extreme groups, so that we could compare participants with ADHD-related difficulties to participants who are not at-risk. Namely, participants who scored above the threshold on four or more items were identified as at-risk of ADHD, and participants who score above the threshold on one or zero items were classified as not at-risk. Based on this ASRS screening criterion, we selected 136 at-risk participants (mean age: 20.49, <italic>SD</italic> = 5.20, 49 males) and 99 not at-risk participants (mean age: 21.77, <italic>SD</italic> = 6.26, 37 males) for the ADHD non-risk group resulting in a total of 235 participants for final analysis. The two groups did not differ in age and gender (all <italic>p</italic> &gt; 0.05).</p>
+      </sec>
+      <sec>
+        <title>Measures</title>
+        <sec>
+          <title>Working Memory Task</title>
+          <p>We used an adapted version of the Paced Auditory Serial Addition Test (PASAT, <xref rid="B7" ref-type="bibr">Gronwall, 1977</xref>) to elicit mental effort. In this task digits were visually presented on a computer screen, one at a time, in a continuous stream. Participants were asked to continuously add the numerical digits. Each digit was presented on the screen for 1 s. An orienting auditory beep was simultaneously presented with each digit. The delay between the offset of one digit and the onset of the next digit was 4 s. Participants were instructed to sum the last two digits they had seen and to enter their response using a keyboard. Participants were able to respond as soon as the latest digit appeared and during the 4 s delay; thus, within a response window of 5 s. Each ‘block’ required participants to provide a total of 15 sums (i.e., 15 trials with a total of 16 digits presented). The task had five conditions differing in duration, i.e., the number of blocks ranging from five to nine blocks. Participants were randomly assigned to one of five conditions. Each block was one of three levels of difficulty – easy, medium or hard. Task difficulty was randomly varied within participants such that each participant received one easy block, one hard block, and three to seven medium difficulty blocks depending on the duration condition completed. The blocks were presented in a pseudo-randomized sequence, such that the first and last blocks were always medium difficulty. The intervening blocks were composed of one easy, one hard, and one to five medium blocks. The hard trials involved adding one single and one double digit. The medium trials involved adding two single digits that summed to more than nine. The easy trials involved adding two single digits that summed to nine or less.</p>
+          <p>At the start of the PASAT participants completed two practice blocks of medium difficulty to ensure they fully comprehended the task and to familiarize them with the task demands. Following the practice blocks, participants were asked some questions regarding their anticipated experience of the task (including how much mental effort they expected would be required to complete the task and how much discomfort they expected during the task; the data on these questions were not examined in this study). After each block of trials, participants were required to rate their experience of effort and discomfort. Specifically, the questions were (1) “Rate your current level of mental effort” (1 = None; 7 = A lot) and (2) “Rate your current level of discomfort or distress” (1 = None; 7 = A lot). These scores are referred to as ‘real-time’ mental effort and discomfort ratings as they were obtained during the PASAT. After completing the PASAT task, participants completed a demographic and self-report questionnaire that was approximately 6 min in duration. After completing the demographic questionnaire, participants were required to retrospectively evaluate their experience with the PASAT task. Specifically, the questions included (1) “How much mental effort, in total, was required to complete this working memory task?” (1 = None; 7 = A lot); (2) “On this working memory task, what was your total amount of discomfort or distress?” (1 = None; 7 = A lot); (3) “How well did you perform on the working memory task” (1 = Significantly below average; 7 = Significantly above average); and (4) “How willing would you be to do another working memory task right now?”(1 = Not at all willing; 7 = Definitely willing).</p>
+        </sec>
+        <sec>
+          <title>Raven’s Progressive Matrices</title>
+          <p>Advanced items from the Raven’s Progressive Matrices (RPM) were used to assess participants’ non-verbal intelligence (<xref rid="B17" ref-type="bibr">Raven et al., 1998</xref>). This task contains a series of designs with a missing part. Participants were instructed to complete the design by selecting the missing part from eight options. This task had 18 trials in total and a time limit of 15 min. The number of correct responses was summed such that a higher score indicated higher non-verbal ability.</p>
+        </sec>
+        <sec>
+          <title>ADHD Self-Report Scale</title>
+          <p>The ADHD self-report scale (ASRS) screener was developed by <xref rid="B9" ref-type="bibr">Kessler et al. (2005)</xref> and is based on symptoms of ADHD described in the Diagnostic and Statistical Manual of Mental Disorders (fourth edition). Participants are asked to rate their level of each symptom based on the last 6 months. Of the 18 symptoms, <xref rid="B9" ref-type="bibr">Kessler et al. (2005)</xref> found six items to be highly predictive of ADHD, and these six items comprise the screener. Within the six items of the screener, four are based on symptoms of inattention with the other two based on hyperactivity. Sample question includes: “<italic>How often do you have problems remembering appointments or obligations?.</italic>” It is scored using a five-point Likert scale (never, rarely, sometimes, often, and very often). Cronbach’s alpha for this scale was 0.73. Each item has a frequency threshold, and participants who scored above the threshold on four or more items were identified as the ADHD-risk group and participants who scored above the threshold on one or zero items were identified as the ADHD non-risk group.</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>Statistical Analyses</title>
+        <p>In order to examine differences between the ADHD-risk and non-risk groups, we used independent <italic>t</italic>-tests to examine differences in: real-time ratings of mental effort and discomfort, task performance, slopes of real-time mental effort and discomfort and non-verbal ability. Pearson’s correlation analyses were used to examine the relationship between real-time effort and discomfort and between the average of real-time mental effort, discomfort, perceived performance and actual performance on the PASAT separately in the ADHD-risk and non-risk groups. The group differences in correlations were examined using Fisher’s <italic>r</italic>-to-<italic>z</italic> transformation. Finally, the association between effort (peak and end) and retrospective discomfort were examined separately in the ADHD-risk and non-risk groups, including regression analyses to examine whether the most intense ratings of effort interacted with ADHD status in predicting retrospective ratings of discomfort.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Results</title>
+      <sec>
+        <title>Did the ADHD-Risk and ADHD Non-risk Group Differ in Their Experience of Mental Effort?</title>
+        <p>As evident in <bold>Table <xref ref-type="table" rid="T1">1</xref></bold>, the ADHD-risk group experienced a higher level of mental effort and discomfort during the PASAT. As for the retrospective evaluation, the ADHD-risk group recalled experiencing a higher level of mental effort and discomfort compared to the non-risk group. The ADHD-risk group also reported a significantly lower level of perceived performance on the PASAT, and was more reluctant to repeat the task compared to the non-risk group. The ADHD-risk group performed significantly worse than the non-risk group on the PASAT, especially on the hard and medium blocks of PASAT. There was no group difference in accuracy on the easy block. Effect sizes for each of the comparisons are presented in the final column, indicating medium to large effect sizes on several of the group differences related to mental effort and discomfort.</p>
+        <table-wrap id="T1" position="float">
+          <label>Table 1</label>
+          <caption>
+            <p>Differences between the Attention-Deficit/Hyperactivity Disorder (ADHD) non-risk and ADHD-risk groups.</p>
+          </caption>
+          <table frame="hsides" rules="groups" cellspacing="5" cellpadding="5">
+            <thead>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"/>
+                <th valign="top" align="center" rowspan="1" colspan="1">Control <italic>n</italic> = 99 Mean (<italic>SD</italic>)</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">ADHD-risk <italic>n</italic> = 136 Mean (<italic>SD</italic>)</th>
+                <th valign="top" align="center" rowspan="1" colspan="1"><italic>t</italic> (233)</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">Cohen’s <italic>d</italic></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Real-time effort</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Average</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.23 (1.18)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.88 (1.26)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-4.00<sup>∗∗∗</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.53</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Hard block</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5.02 (1.48)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5.64 (1.39)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-3.29<sup>∗∗∗</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.43</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Medium block</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.15 (1.23)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.80 (1.30)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-3.86<sup>∗∗∗</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.51</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Easy block</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.83 (1.50)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.46 (1.75)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-2.99<sup>∗∗</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.39</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Peak</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5.44 (1.20)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6.00 (1.15)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-3.60<sup>∗∗∗</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.48</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">End</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.05 (1.54)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.74 (1.73)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-3.22<sup>∗∗</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.42</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Real-time discomfort</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Average</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.11 (1.45)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.15 (1.58)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-5.15<sup>∗∗∗</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.69</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Hard block</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.72 (1.84)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.89 (1.88)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-4.77<sup>∗∗∗</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.63</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Medium block</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.04 (1.47)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.06 (1.59)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-5.02<sup>∗∗∗</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.67</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Easy block</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.79 (1.54)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.76 (1.95)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-4.26<sup>∗∗∗</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.55</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Peak</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.19 (1.89)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5.33 (1.74)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-4.78<sup>∗∗∗</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.63</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">End</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.07 (1.58)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.12 (1.99)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-4.33<sup>∗∗∗</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.58</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>PASAT accuracy</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Average</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.79 (0.16)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.74 (0.15)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.38<sup>∗</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.32</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Hard block</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.66 (0.25)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.58 (0.23)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.43<sup>∗</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.33</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Medium block</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.80 (0.17)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.75 (0.16)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.12<sup>∗</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.30</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Easy block</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.85 (0.17)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.81 (0.20)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.27</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.22</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Slope</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Real-time effort (Z)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-0.03 (0.23)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-0.04 (0.30)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.37</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.04</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Real-time discomfort (Z)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.03 (0.26)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.02 (0.32)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.23</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.03</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Retrospective ratings</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Remembered effort</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.53 (1.42)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5.35 (1.28)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-4.67<sup>∗∗∗</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.61</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Remembered discomfort</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.38 (1.54)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.60 (1.74)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-5.54<sup>∗∗∗</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.74</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Perceived performance</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.47 (1.20)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.79 (1.35)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-4.04<sup>∗∗∗</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.53</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Willing to repeat task</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.86 (1.92)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.17 (2.02)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.64<sup>∗∗</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.35</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Non-verbal ability</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Non-verbal ability</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5.88 (2.80)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5.88 (3.40)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-0.01</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <attrib>
+              <italic><sup>∗</sup><italic>p</italic> &lt; 0.05; <sup>∗∗</sup><italic>p</italic> &lt; 0.01; <sup>∗∗∗</sup><italic>p</italic> &lt; 0.001.</italic>
+            </attrib>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>We conducted a univariate ANOVA to examine whether group differences on both effort required and discomfort ratings (and separately for real-time and retrospectively) would remain significant after statistically controlling for mean performance. Group differences remained significant for both real-time effort required, <italic>F</italic>(1,232) = 12.99, <italic>p</italic> &lt; 0.001, and retrospective effort required, <italic>F</italic>(1,232) = 18.89, <italic>p</italic> &lt; 0.001. Group differences also remained significant for both real-time discomfort, <italic>F</italic>(1,232) = 21.99, <italic>p</italic> &lt; 0.001, and retrospective discomfort, <italic>F</italic>(1, 232) = 26.46, <italic>p</italic> &lt; 0.001.</p>
+        <p>The difference in the slopes of real-time mental effort and discomfort between groups was non-significant, suggesting that the change of effort and discomfort over time were comparable between the two groups. There was also no significant difference in non-verbal ability for the ADHD-risk group and the non-ADHD risk group.</p>
+        <p>In addition, we examined group differences in the magnitude of the correlations between real-time effort and real-time discomfort ratings. The size of this correlation was <italic>r</italic> = 0.43, <italic>p</italic> &lt; 0.001 in the non-risk group and the size of this correlation was <italic>r</italic> = 0.62, <italic>p</italic> &lt; 0.001 in the ADHD-risk group. The correlation between real-time mental effort and discomfort was significantly higher within the ADHD-risk group as compared to the non-risk group (Fisher’s <italic>Z</italic> = 1.98, <italic>p</italic> &lt; 0.05).</p>
+      </sec>
+      <sec>
+        <title>Does the Relation between Subjective Experience and Task Performance Differ between ADHD Non-risk and ADHD-risk Groups?</title>
+        <p><bold>Table <xref ref-type="table" rid="T2">2</xref></bold> compares correlations between average real-time mental effort required and task performance for the ADHD-risk and non-risk groups. The ADHD-risk group showed significant correlations between average real-time ratings of mental effort required and performance accuracy on the PASAT, indicating that more effort required was associated with lower accuracy. Alternatively, the non-risk group did not show significant correlations between average real-time mental effort required and performance accuracy. The magnitude of the correlation between average real-time mental effort and PASAT accuracy in the hard condition was significantly larger in the ADHD-risk group compared to the non-risk group based on a one-tailed <italic>Z</italic> test, Fisher’s <italic>Z</italic> (1, <italic>N</italic> = 235) = 1.78, <italic>p</italic> &lt; 0.05. Thus, taken together, the relation between real-time mental effort required and task performance appears to be more robust for the ADHD-risk group than in the non-risk group, especially in the most difficult condition. We obtained parallel findings when we examined associations between ratings of discomfort and performance accuracy, and this difference between groups was also statistically significant in the most difficult condition, Fisher’s <italic>Z</italic> (1, <italic>N</italic> = 235) = 1.79, <italic>p</italic> &lt; 0.05. We also examined the association between perceived performance and actual performance in each group. Both groups displayed significant positive correlations, but the correlation for the non-risk group was significantly larger than for the ADHD-risk group in the difficult condition, Fisher’s <italic>Z</italic> (1, <italic>N</italic> = 235) = 1.69, <italic>p</italic> &lt; 0.05.</p>
+        <table-wrap id="T2" position="float">
+          <label>Table 2</label>
+          <caption>
+            <p>Correlations between average real-time mental effort and cognitive performance for the ADHD-risk and ADHD non-risk groups.</p>
+          </caption>
+          <table frame="hsides" rules="groups" cellspacing="5" cellpadding="5">
+            <thead>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"/>
+                <th valign="top" align="center" rowspan="1" colspan="1">ADHD non-risk <italic>n</italic> = 99 Mean <italic>(SD)</italic></th>
+                <th valign="top" align="center" rowspan="1" colspan="1">ADHD-risk <italic>n</italic> = 136 Mean <italic>(SD)</italic></th>
+                <th valign="top" align="center" rowspan="1" colspan="1"><italic>Fisher’s</italic> Z</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Real-time average effort and actual accuracy</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Effort (<inline-graphic xlink:href="fpsyg-08-00407-i001.jpg"/>) and actual accuracy (<inline-graphic xlink:href="fpsyg-08-00407-i001.jpg"/>)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-0.12</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-0.20*</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.61</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Effort (<inline-graphic xlink:href="fpsyg-08-00407-i001.jpg"/>) and actual accuracy (hard)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-0.06</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-0.29***</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.78<sup>∗</sup></td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Effort (<inline-graphic xlink:href="fpsyg-08-00407-i001.jpg"/>) and actual accuracy (medium)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-0.15</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-0.17</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.15</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Effort (<inline-graphic xlink:href="fpsyg-08-00407-i001.jpg"/>) and actual accuracy (easy)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-0.01</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-0.05</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.30</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Real-time average discomfort and actual accuracy</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="left" colspan="2" rowspan="1"/>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Discomfort (<inline-graphic xlink:href="fpsyg-08-00407-i001.jpg"/>) and actual accuracy (<inline-graphic xlink:href="fpsyg-08-00407-i001.jpg"/>)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-0.14</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-0.25*</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.85</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Discomfort (<inline-graphic xlink:href="fpsyg-08-00407-i001.jpg"/>) and actual accuracy (hard)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-0.08</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-0.31***</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.79<sup>∗</sup></td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Discomfort (<inline-graphic xlink:href="fpsyg-08-00407-i001.jpg"/>) and actual accuracy (medium)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-0.17</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-0.19*</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.15</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Discomfort (<inline-graphic xlink:href="fpsyg-08-00407-i001.jpg"/>) and actual accuracy (easy)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-0.03</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-0.21*</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.37</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Perceived accuracy and actual accuracy</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Perceived accuracy and actual accuracy (<inline-graphic xlink:href="fpsyg-08-00407-i001.jpg"/>)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.39<sup>∗∗∗</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.24**</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.25</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Perceived accuracy and actual accuracy (hard)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.49<sup>∗∗∗</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.30***</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.69<sup>∗</sup></td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Perceived accuracy and actual accuracy (medium)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.36<sup>∗∗∗</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.22*</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.14</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Perceived accuracy and actual accuracy (easy)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.13</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.07</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.45</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <attrib>
+              <italic>Asterisk indicated the significance of correlation coefficients within each group, where <sup>∗</sup><italic>p</italic> &lt; 0.05; <sup>∗∗</sup><italic>p</italic> &lt; 0.01; <sup>∗∗∗</sup><italic>p</italic> &lt; 0.001. Two-tailed Z-critical is 1.96 for <italic>p</italic> &lt; 0.05; One-tailed Z-critical is 1.65 for <italic>p</italic> &lt; 0.05.</italic>
+            </attrib>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Do Peak and End Real-time Mental Effort Differentially Predict Retrospective Discomfort in the ADHD-risk and Non-risk Groups?</title>
+        <p><bold>Table <xref ref-type="table" rid="T3">3</xref></bold> presents the results of two simultaneous multiple regression analyses using peak and end real-time effort required predicting retrospective discomfort, one conducted in the ADHD non-risk sample and the other conducted in the ADHD risk sample. While the overall models were significant for both groups, the peak real-time effort required was a significant predictor in the ADHD-risk group but not in the non-risk group.</p>
+        <table-wrap id="T3" position="float">
+          <label>Table 3</label>
+          <caption>
+            <p>Simultaneous multiple regression analyses predicting the retrospective discomfort with real-time measures of effort in ADHD non-risk and ADHD-risk samples.</p>
+          </caption>
+          <table frame="hsides" rules="groups" cellspacing="5" cellpadding="5">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">DV: Retrospective discomfort</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">Regression #1 ADHD non-risk (<italic>n</italic> = 99) β′</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">Regression #2 ADHD-risk (<italic>n = 136</italic>) β′</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Peak real-time effort</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.22</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.45<sup>∗∗∗</sup></td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">End real-time effort</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.25<sup>∗</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.21<sup>∗</sup></td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">Adjusted <italic>r</italic><sup>2</sup> = 0.16<sup>∗∗∗</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">Adjusted <italic>r</italic><sup>2</sup> = 0.35<sup>∗∗∗</sup></td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <attrib>
+              <italic><sup>∗</sup><italic>p</italic> &lt; 0.05; <sup>∗∗∗</sup><italic>p</italic> &lt; 0.001.</italic>
+            </attrib>
+          </table-wrap-foot>
+        </table-wrap>
+        <p><bold>Table <xref ref-type="table" rid="T4">4</xref></bold> presents the result of a simultaneous multiple regression analysis using ADHD group status, peak effort required and the interaction between ADHD group status and peak effort required predicting retrospective discomfort. The result showed that ADHD group status (β = 0.24, <italic>p</italic> &lt; 0.001), peak effort required (β = .33, <italic>p</italic> &lt; 0.001), and the interaction (β = .20, <italic>p</italic> &lt; 0.05) were significant predictors. The interaction between group status and peak effort required indicates that the most intense moment of effort required was particularly salient in defining retrospective discomfort for those at-risk for ADHD.</p>
+        <table-wrap id="T4" position="float">
+          <label>Table 4</label>
+          <caption>
+            <p>Simultaneous multiple regression analysis predicting the retrospective discomfort with real-time effort, ADHD group status and peak effort by ADHD group status.</p>
+          </caption>
+          <table frame="hsides" rules="groups" cellspacing="5" cellpadding="5">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">DV: Retrospective discomfort</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">Whole sample (<italic>n</italic> = 235) β′</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">ADHD group status</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.24<sup>∗∗∗</sup></td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Peak real-time effort</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.33<sup>∗∗∗</sup></td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Peak real-time effort by ADHD group status</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.20<sup>∗</sup></td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">Adjusted <italic>r</italic><sup>2</sup> = 0.34<sup>∗∗∗</sup></td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <attrib>
+              <italic><sup>∗</sup><italic>p</italic> &lt; 0.05; <sup>∗∗∗</sup><italic>p</italic> &lt; 0.001.</italic>
+            </attrib>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Length of Task</title>
+        <p>We examined the correlation between length of the task (number of blocks) with each of our variables, including accuracy and ratings of effort and discomfort, both in the full sample and within each group. We found that length of task did not systematically vary with any of these variables in the full sample, in the control group or in the ADHD-risk group.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Discussion</title>
+      <p>In the current study, we examined individual differences in the experience of mental effort. Specifically, we asked participants at-risk for ADHD and participants not at-risk for ADHD to rate effort required and discomfort during a cognitively demanding task. We found that the ADHD-risk group reported higher levels of mental effort required (i.e., how taxed they felt) and discomfort during the PASAT working memory task, and these differences remained significant even after controlling for task performance. Individuals at-risk for ADHD were also less willing to do the working memory task again compared to the non-ADHD risk group.</p>
+      <p>The positive correlations observed between real-time ratings of effort and discomfort in both the ADHD-risk and control non-risk groups are consistent with the idea that the experience of effort is unpleasant and aversive (<xref rid="B25" ref-type="bibr">Stanovich, 2009</xref>, <xref rid="B26" ref-type="bibr">2011</xref>; <xref rid="B8" ref-type="bibr">Kahneman, 2011</xref>; <xref rid="B12" ref-type="bibr">Kurzban et al., 2013</xref>). Researchers have suggested that effortful tasks tend to trigger an unpleasant, aversive state because human cognitive system naturally seeks to minimize the expenditure of effort (<xref rid="B12" ref-type="bibr">Kurzban et al., 2013</xref>). In this sense cognitive demands are evaluated as being costly and typically trigger avoidance coping behaviors (<xref rid="B2" ref-type="bibr">Botvinick, 2007</xref>). Importantly, however, the experience of effort required was more strongly associated with discomfort for individuals at-risk for ADHD than for the non-risk group, as indicated by the significant difference in the size of the correlations between effort and discomfort ratings. Moreover, we found that average real-time effort and retrospective effort differed significantly in the at-risk and non-risk groups even after controlling for task performance. These findings are consistent with the theoretical literature in suggesting that the experience of a cognitively demanding task may be especially uncomfortable and effortful for individuals who struggle with ADHD-related difficulties (<xref rid="B3" ref-type="bibr">Brown, 1996</xref>; <xref rid="B21" ref-type="bibr">Sergeant, 2000</xref>; <xref rid="B20" ref-type="bibr">Rucklidge and Tannock, 2002</xref>; <xref rid="B28" ref-type="bibr">Van Liefferinge et al., 2016</xref>). In summary, individuals at-risk for ADHD experienced the working memory task to require more effort and to be more uncomfortable, even after controlling for task performance; and they also found the experience of effort and discomfort to be more strongly correlated.</p>
+      <p>The ADHD-risk group showed significant correlations between average real-time ratings of mental effort required and accuracy, but the non-risk group did not display significant correlations between average real-time effort required and performance accuracy. Similarly the ADHD risk group showed significant correlations between average real-time ratings of discomfort and accuracy, but the non-risk group did not display significant correlations between discomfort and accuracy. These differences between the at-risk and not at-risk groups were most pronounced for the hardest experimental conditions. Namely, in the hardest experimental conditions, the experience of effort required and discomfort were more tightly associated with actual performance accuracy for the at-risk group compared to the non-risk group. In contrast, in the hardest experimental conditions the perception of performance and actual accuracy were more tightly associated for the non-risk group compared to the at-risk group. Taken together, these results suggest the best subjective report for predicting actual performance on particularly challenging working memory tasks is perceived performance for the non-risk participants; whereas the at-risk participants are less accurate in their perception of how well they are doing. For the at-risk group, perceptions of performance and the experience of effort and discomfort were similarly related to actual accuracy. These sets of associations suggest that some type of moment-to-moment tracking of actual performance is happening during the task, but that what is being tracked may differ across groups. These intercorrelations among the effort, discomfort, perceived performance, and actual accuracy in each group may provide some further insights into understanding the differences between each group.</p>
+      <p>Peak real-time effort required was a significant predictor of retrospective discomfort in the ADHD-risk group but not in the non-risk group. Moreover, the interaction between ADHD group status and peak effort predicted retrospective discomfort, suggesting that the ADHD-risk group’s most intense experience of effort required was highly related to their memory of discomfort. That peak effort required interacted with ADHD-risk group status suggests that moments of peak effort are particularly significant and salient for individuals at-risk for ADHD and thus may be particularly defining for these individuals when they recall tasks (see review by <xref rid="B6" ref-type="bibr">Fredrickson, 2000</xref>). We, however, did not find evidence to suggest that the final moments of a cognitively demanding task are differentially salient in determining task recollection for individuals at-risk of ADHD compared to those not at-risk. It may be that endings are equally salient for those at-risk for ADHD compared to those that are not at-risk.</p>
+      <p>In our view it will be fruitful to explore the <italic>in the moment</italic> experience of mental effort in a more nuanced manner, which disentangles subjective judgments of effort demanded (<italic>how taxed I felt)</italic>, effort exerted (<italic>how hard I tried)</italic>, and task difficulty (<italic>how difficult the task is)</italic>. In particular, these distinctions will be useful to extend the ADHD literature, which has so far focused more on trait measures (<xref rid="B3" ref-type="bibr">Brown, 1996</xref>; <xref rid="B28" ref-type="bibr">Van Liefferinge et al., 2016</xref>) and on effort exerted in the moment (<xref rid="B21" ref-type="bibr">Sergeant, 2000</xref>, <xref rid="B22" ref-type="bibr">2005</xref>). We hope that our study provides a reference point for the utility of these distinctions in the experience of effort. In particular, the current findings suggest that individuals at-risk for ADHD may be characterized by differences in how taxed they feel during the completion of a cognitively demanding task, which is meaningfully separate from ratings of task difficulty and how hard one tries on a given task. Our research contributes to shifting emphasis from biomedical models that focus on the pathophysiology of disorders such as ADHD and to models that focus on the subjective experience and personal agency of the individual (e.g., <xref rid="B24" ref-type="bibr">Sonuga-Barke and Fairchild, 2012</xref>). Similarly, acknowledging the value and diagnosticity of an individual’s report of how demanding the task was is consistent with such a direction.</p>
+      <p>It is important to acknowledge that our study was based on a sample of university students, identifying at-risk and non-risk for ADHD groups. The proportion of at-risk individuals in our current study was quite high (31.6%) and considerably higher than prevalence rates of ADHD, which is closer to rates of 11% (DSM-5, <xref rid="B1" ref-type="bibr">American Psychiatric Association [APA], 2013</xref>) or 12% (<xref rid="B10" ref-type="bibr">Kessler et al., 2007</xref>). However, our proportion of at-risk participants is in line with other studies that have used the ASRS as a screening tool in undergraduate samples for ADHD symptoms (24% such as <xref rid="B27" ref-type="bibr">Turel and Bechara, 2016</xref>). We acknowledge that this is a limitation of our study and that future studies will be needed in order to bridge our current findings with the ADHD literature. A critical step will be to examine these measures in a clinically referred sample of children, adolescents and adults with diagnosed ADHD. Studying the experience of mental effort will provide novel ways to assess the challenges of these individuals, and to develop new directions to assess and intervene for these individuals. The more precise language for describing the ways that tasks impact the individual, which we are advocating here has the promise to help develop better strategies for the individual to master tasks that they may find tedious and uninteresting. For example, thinking of effort as a fluid quality that is malleable and under the control of the individual, rather than fixed and defined by the parameters of the task, may offer promising directions to support students with ADHD who struggle academically. Such an approach is very much in line with current mindset interventions for targeting academic underachievement, such as growth mindset programs (<xref rid="B16" ref-type="bibr">Paunesku et al., 2015</xref>).</p>
+      <p>In this study, individuals at-risk for ADHD rated the task as requiring more effort than the ADHD non-risk group. The group differences in ratings of effort required and discomfort remained significant after controlling for accuracy. For individuals who avoid effortful tasks, there may be a unique affective association that negatively tags their experience of effort, possibly impacting their motivation for future tasks. Given that many theories of mental effort postulate that the experience of being mentally taxed may serve as a regulatory signal to disengage from effortful tasks (e.g., <xref rid="B11" ref-type="bibr">Kurzban, 2016</xref>), investigating the experience of mental effort demanded during the completion of a cognitively demanding task in individuals with ADHD-related difficulties would provide a productive line of investigation that could be used to advance our understanding of the regulation of effort exerted in at-risk samples.</p>
+    </sec>
+    <sec>
+      <title>Author Contributions</title>
+      <p>C-FH contributed to the literature review, summarizing findings and writing up the manuscript. JDE and MT contributed to the development of this article and critical revision of the manuscript for intellectual content. MT and JDE made equal contributions to this paper.</p>
+    </sec>
+    <sec>
+      <title>Conflict of Interest Statement</title>
+      <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>This research was supported by the grants to MT and JDE from Natural Sciences and Engineering Research Council of Canada (JDE) and Social Sciences and Humanities Research Council (MT).</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <mixed-citation publication-type="book"><collab>American Psychiatric Association [APA]</collab> (<year>2013</year>). <source><italic>Diagnostic and Statistical Manual of Mental Disorders</italic></source>
+<edition>5th Edn.</edition>
+<publisher-loc>Washington, DC</publisher-loc>: <publisher-name>American Psychiatric Association</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="B2">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Botvinick</surname><given-names>M. M.</given-names></name></person-group> (<year>2007</year>). <article-title>Conflict monitoring and decision making: reconciling two perspectives on anterior cingulate function.</article-title>
+<source><italic>Cogn. Affect. Behav. Neurosci.</italic></source>
+<volume>7</volume>
+<fpage>356</fpage>–<lpage>366</lpage>.<pub-id pub-id-type="pmid">18189009</pub-id></mixed-citation>
+      </ref>
+      <ref id="B3">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Brown</surname><given-names>T. E.</given-names></name></person-group> (<year>1996</year>). <source><italic>Brown Attention-Deficit Disorder Scales: Adolescents and Adults.</italic></source>
+<publisher-loc>San Antonio, TX</publisher-loc>: <publisher-name>Psychological Corporation</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="B4">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cacioppo</surname><given-names>J. T.</given-names></name><name><surname>Petty</surname><given-names>R. E.</given-names></name><name><surname>Feinstein</surname><given-names>J. A.</given-names></name><name><surname>Blair</surname><given-names>W.</given-names></name><name><surname>Jarvis</surname><given-names>G.</given-names></name></person-group> (<year>1996</year>). <article-title>Dispositional differences in cognitive motivation: the life and times of individuals varying in need for cognition.</article-title>
+<source><italic>Psychol. Bull.</italic></source>
+<volume>119</volume>
+<fpage>197</fpage>–<lpage>253</lpage>. <pub-id pub-id-type="doi">10.1037/0033-2909.119.2.197</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dornic</surname><given-names>S.</given-names></name><name><surname>Ekehammar</surname><given-names>B.</given-names></name><name><surname>Laaksonen</surname><given-names>T.</given-names></name></person-group> (<year>1991</year>). <article-title>Tolerance for mental effort: self-ratings related to perception, performance and personality.</article-title>
+<source><italic>Pers. Individ. Dif.</italic></source>
+<volume>12</volume>
+<fpage>313</fpage>–<lpage>319</lpage>. <pub-id pub-id-type="doi">10.1016/0191-8869(91)90118-U</pub-id></mixed-citation>
+      </ref>
+      <ref id="B6">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fredrickson</surname><given-names>B. L.</given-names></name></person-group> (<year>2000</year>). <article-title>Extracting meaning from past affective experiences: the importance of peaks, ends, and specific emotions.</article-title>
+<source><italic>Cogn. Emot.</italic></source>
+<volume>14</volume>
+<fpage>577</fpage>–<lpage>606</lpage>. <pub-id pub-id-type="doi">10.1080/026999300402808</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gronwall</surname><given-names>D. M.</given-names></name></person-group> (<year>1977</year>). <article-title>Paced auditory serial-addition task: a measure of recovery from concussion.</article-title>
+<source><italic>Percept. Mot. Skills</italic></source>
+<volume>44</volume>
+<fpage>367</fpage>–<lpage>373</lpage>. <pub-id pub-id-type="doi">10.2466/pms.1977.44.2.367</pub-id><pub-id pub-id-type="pmid">866038</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Kahneman</surname><given-names>D.</given-names></name></person-group> (<year>2011</year>). <source><italic>Thinking, Fast and Slow.</italic></source>
+<publisher-loc>New York, NY</publisher-loc>: <publisher-name>Farrar, Straus &amp; Giroux</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="B9">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kessler</surname><given-names>R. C.</given-names></name><name><surname>Adler</surname><given-names>L.</given-names></name><name><surname>Ames</surname><given-names>M.</given-names></name><name><surname>Demler</surname><given-names>O.</given-names></name><name><surname>Faraone</surname><given-names>S.</given-names></name><name><surname>Hiripi</surname><given-names>E.</given-names></name><etal/></person-group> (<year>2005</year>). <article-title>The World Health Organization Adult ADHD Self-Report Scale (ASRS): a short screening scale for use in the general population.</article-title>
+<source><italic>Psychol. Med.</italic></source>
+<volume>35</volume>
+<fpage>245</fpage>–<lpage>256</lpage>.<pub-id pub-id-type="pmid">15841682</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kessler</surname><given-names>R. C.</given-names></name><name><surname>Adler</surname><given-names>L. A.</given-names></name><name><surname>Gruber</surname><given-names>M. J.</given-names></name><name><surname>Sarawate</surname><given-names>C. A.</given-names></name><name><surname>Spencer</surname><given-names>T.</given-names></name><name><surname>Van Brunt</surname><given-names>D. L.</given-names></name></person-group> (<year>2007</year>). <article-title>Validity of the World Health Organization Adult ADHD Self-Report Scale (ASRS) Screener in a representative sample of health plan members.</article-title>
+<source><italic>Int. J. Methods Psychiatr. Res.</italic></source>
+<volume>16</volume>
+<fpage>52</fpage>–<lpage>65</lpage>. <pub-id pub-id-type="doi">10.1002/mpr.208</pub-id><pub-id pub-id-type="pmid">17623385</pub-id></mixed-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kurzban</surname><given-names>R.</given-names></name></person-group> (<year>2016</year>). <article-title>The sense of effort.</article-title>
+<source><italic>Curr. Opin. Psychol.</italic></source>
+<volume>7</volume>
+<fpage>67</fpage>–<lpage>70</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kurzban</surname><given-names>R.</given-names></name><name><surname>Duckworth</surname><given-names>A.</given-names></name><name><surname>Kable</surname><given-names>J. W.</given-names></name><name><surname>Myers</surname><given-names>J.</given-names></name></person-group> (<year>2013</year>). <article-title>An opportunity cost model of subjective effort and task performance.</article-title>
+<source><italic>Behav. Brain Sci.</italic></source>
+<volume>36</volume>
+<fpage>661</fpage>–<lpage>679</lpage>. <pub-id pub-id-type="doi">10.1017/s0140525x12003196</pub-id><pub-id pub-id-type="pmid">24304775</pub-id></mixed-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mulert</surname><given-names>C.</given-names></name><name><surname>Leicht</surname><given-names>G.</given-names></name><name><surname>Pogarell</surname><given-names>O.</given-names></name><name><surname>Mergl</surname><given-names>R.</given-names></name><name><surname>Karch</surname><given-names>S.</given-names></name><name><surname>Juckel</surname><given-names>G.</given-names></name><etal/></person-group> (<year>2007</year>). <article-title>Auditory cortex and anterior cingulate cortex sources of the early evoked gamma-band response: relationship to task difficulty and mental effort.</article-title>
+<source><italic>Neuropsychologia</italic></source>
+<volume>45</volume>
+<fpage>2294</fpage>–<lpage>2306</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuropsychologia.2007.02.020</pub-id><pub-id pub-id-type="pmid">17403530</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Otto</surname><given-names>T.</given-names></name><name><surname>Zijlstra</surname><given-names>F. R. H.</given-names></name><name><surname>Goebel</surname><given-names>R.</given-names></name></person-group> (<year>2014</year>). <article-title>Neural correlates of mental effort evaluation— involvement of structures related to self-awareness.</article-title>
+<source><italic>Soc. Cogn. Affect. Neurosci.</italic></source>
+<volume>9</volume>
+<fpage>307</fpage>–<lpage>315</lpage>. <pub-id pub-id-type="doi">10.1093/scan/nss136</pub-id><pub-id pub-id-type="pmid">23202660</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Paas</surname><given-names>F. G.</given-names></name></person-group> (<year>1992</year>). <article-title>Training strategies for attaining transfer of problem-solving skill in statistics: a cognitive-load approach.</article-title>
+<source><italic>J. Educ. Psychol.</italic></source>
+<volume>84</volume>
+<fpage>429</fpage>–<lpage>434</lpage>. <pub-id pub-id-type="doi">10.1037/0022-0663.84.4.429</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Paunesku</surname><given-names>D.</given-names></name><name><surname>Walton</surname><given-names>G. M.</given-names></name><name><surname>Romero</surname><given-names>C.</given-names></name><name><surname>Smith</surname><given-names>E. N.</given-names></name><name><surname>Yeager</surname><given-names>D. S.</given-names></name><name><surname>Dweck</surname><given-names>C. S.</given-names></name></person-group> (<year>2015</year>). <article-title>Mind-set interventions are a scalable treatment for academic underachievement.</article-title>
+<source><italic>Psychol. Sci.</italic></source>
+<volume>26</volume>
+<fpage>784</fpage>–<lpage>793</lpage>. <pub-id pub-id-type="doi">10.1177/0956797615571017</pub-id><pub-id pub-id-type="pmid">25862544</pub-id></mixed-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Raven</surname><given-names>J.</given-names></name><name><surname>Raven</surname><given-names>J. C.</given-names></name><name><surname>Court</surname><given-names>J. H.</given-names></name></person-group> (<year>1998</year>). <source><italic>Manual for Raven’s Progressive Matrices and Vocabulary Scales.</italic></source>
+<publisher-loc>San Antonio, TX</publisher-loc>: <publisher-name>Harcourt Assessment</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Redelmeier</surname><given-names>D. A.</given-names></name><name><surname>Kahneman</surname><given-names>D.</given-names></name></person-group> (<year>1996</year>). <article-title>Patients’ memories of painful medical treatments: real-time and retrospective evaluations of two minimally invasive procedures.</article-title>
+<source><italic>Pain</italic></source>
+<volume>66</volume>
+<fpage>3</fpage>–<lpage>8</lpage>.<pub-id pub-id-type="pmid">8857625</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Robinson</surname><given-names>M.</given-names></name><name><surname>Morsella</surname><given-names>E.</given-names></name></person-group> (<year>2014</year>). <article-title>The subjective effort of everyday mental tasks: attending, assessing, and choosing.</article-title>
+<source><italic>Motiv. Emot.</italic></source>
+<volume>38</volume>
+<fpage>832</fpage>–<lpage>843</lpage>. <pub-id pub-id-type="doi">10.1007/s11031-014-9441-2</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rucklidge</surname><given-names>J. J.</given-names></name><name><surname>Tannock</surname><given-names>R.</given-names></name></person-group> (<year>2002</year>). <article-title>Validity of the Brown ADD scales: an investigation in a predominantly inattentive ADHD adolescent sample with and without reading disabilities.</article-title>
+<source><italic>J. Atten. Disord.</italic></source>
+<volume>5</volume>
+<fpage>155</fpage>–<lpage>164</lpage>. <pub-id pub-id-type="doi">10.1177/108705470200500303</pub-id><pub-id pub-id-type="pmid">11911008</pub-id></mixed-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sergeant</surname><given-names>J. A.</given-names></name></person-group> (<year>2000</year>). <article-title>The cognitive-energetic model: an empirical approach to attention-deficit hyperactivity disorder.</article-title>
+<source><italic>Neurosci. Biobehav. Rev.</italic></source>
+<volume>24</volume>
+<fpage>7</fpage>–<lpage>12</lpage>.<pub-id pub-id-type="pmid">10654654</pub-id></mixed-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sergeant</surname><given-names>J. A.</given-names></name></person-group> (<year>2005</year>). <article-title>Modeling attention-deficit/hyperactivity disorder: a critical appraisal of the cognitive-energetic model.</article-title>
+<source><italic>Biol. Psychiatry</italic></source>
+<volume>57</volume>
+<fpage>1248</fpage>–<lpage>1255</lpage>. <pub-id pub-id-type="doi">10.1016/j.biopsych.2004.09.010</pub-id><pub-id pub-id-type="pmid">15949995</pub-id></mixed-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Sergeant</surname><given-names>J. A.</given-names></name><name><surname>Oosterlaan</surname><given-names>J.</given-names></name><name><surname>van der Meere</surname><given-names>J.</given-names></name></person-group> (<year>1999</year>). <source><italic>Information Processing and Energetic Factors in Attention-Deficit/Hyperactivity Disorder Handbook of Disruptive Behavior Disorders.</italic></source>
+<publisher-loc>Berlin</publisher-loc>: <publisher-name>Springer</publisher-name>
+<fpage>75</fpage>–<lpage>104</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B24">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sonuga-Barke</surname><given-names>E. J.</given-names></name><name><surname>Fairchild</surname><given-names>G.</given-names></name></person-group> (<year>2012</year>). <article-title>Neuroeconomics of attention-deficit/hyperactivity disorder: differential influences of medial, dorsal, and ventral prefrontal brain networks on suboptimal decision making?</article-title>
+<source><italic>Biol. Psychiatry</italic></source>
+<volume>72</volume>
+<fpage>126</fpage>–<lpage>133</lpage>. <pub-id pub-id-type="doi">10.1016/j.biopsych.2012.04.004</pub-id><pub-id pub-id-type="pmid">22560046</pub-id></mixed-citation>
+      </ref>
+      <ref id="B25">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Stanovich</surname><given-names>K. E.</given-names></name></person-group> (<year>2009</year>). <article-title>“Distinguishing the reflective, algorithmic, and autonomous minds: is it time for a tri-process theory?,” in</article-title>
+<source><italic>In Two Minds: Dual Process and Beyond</italic></source>
+<role>eds</role>
+<person-group person-group-type="editor"><name><surname>Evans</surname><given-names>J.</given-names></name><name><surname>Frankish</surname><given-names>K.</given-names></name></person-group> (<publisher-loc>Oxford</publisher-loc>: <publisher-name>Oxford University Press</publisher-name>) <fpage>55</fpage>–<lpage>88</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B26">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Stanovich</surname><given-names>K. E.</given-names></name></person-group> (<year>2011</year>). <source><italic>Rationality and the Reflective Mind.</italic></source>
+<publisher-loc>New York, NY</publisher-loc>: <publisher-name>Oxford University Press</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="B27">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Turel</surname><given-names>O.</given-names></name><name><surname>Bechara</surname><given-names>A.</given-names></name></person-group> (<year>2016</year>). <article-title>Social Networking Site use while driving: ADHD and the mediating roles of stress, self-esteem and craving.</article-title>
+<source><italic>Front. Psychol.</italic></source>
+<volume>7</volume>:<issue>455</issue>
+<pub-id pub-id-type="doi">10.3389/fpsyg.2016.00455</pub-id></mixed-citation>
+      </ref>
+      <ref id="B28">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Van Liefferinge</surname><given-names>D.</given-names></name><name><surname>Sonuga-Barke</surname><given-names>E.</given-names></name><name><surname>Van Broeck</surname><given-names>N.</given-names></name><name><surname>Van Der Oord</surname><given-names>S.</given-names></name><name><surname>Lemiere</surname><given-names>J.</given-names></name><name><surname>Danckaerts</surname><given-names>M.</given-names></name></person-group> (<year>2016</year>). <article-title>A rating measure of ADHD-related neuropsychological impairment in children and adolescents: data from the cognition and motivation in everyday life (CAMEL) scale from population and clinical samples.</article-title>
+<source><italic>Child Neuropsychol.</italic></source>
+<pub-id pub-id-type="doi">10.1080/09297049.2016.1170798</pub-id>
+<comment>[Epub ahead of print]</comment>.</mixed-citation>
+      </ref>
+      <ref id="B29">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>von Helversen</surname><given-names>B.</given-names></name><name><surname>Gendolla</surname><given-names>G. E.</given-names></name><name><surname>Winkielman</surname><given-names>P.</given-names></name><name><surname>Schmidt</surname><given-names>R.</given-names></name></person-group> (<year>2008</year>). <article-title>Exploring the hardship of ease: subjective and objective effort in the ease-of-processing paradigm.</article-title>
+<source><italic>Motiv. Emot.</italic></source>
+<volume>32</volume>
+<fpage>1</fpage>–<lpage>10</lpage>. <pub-id pub-id-type="doi">10.1007/s11031-008-9080-6</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record>

@@ -1,0 +1,951 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5359309</identifier><datestamp>2017-04-04</datestamp><setSpec>frontplantsci</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Plant Sci</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Plant Sci</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Plant Sci.</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Plant Science</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1664-462X</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5359309</article-id>
+      <article-id pub-id-type="pmcid">PMC5359309</article-id>
+      <article-id pub-id-type="pmc-uid">5359309</article-id>
+      <article-id pub-id-type="doi">10.3389/fpls.2017.00335</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Plant Science</subject>
+          <subj-group>
+            <subject>Original Research</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Bioenergy Sorghum Crop Model Predicts VPD-Limited Transpiration Traits Enhance Biomass Yield in Water-Limited Environments</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Truong</surname>
+            <given-names>Sandra K.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/370227/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>McCormick</surname>
+            <given-names>Ryan F.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/370969/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mullet</surname>
+            <given-names>John E.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn001">
+            <sup>*</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/398051/overview"/>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <sup>1</sup>
+        <institution>Interdisciplinary Program in Genetics, Texas A&amp;M University</institution>
+        <country>College Station, TX, USA</country>
+      </aff>
+      <aff id="aff2">
+        <sup>2</sup>
+        <institution>Department of Biochemistry and Biophysics, Texas A&amp;M University</institution>
+        <country>College Station, TX, USA</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <p>Edited by: Katrin Kahlen, Hochschule Geisenheim University, Germany</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Reviewed by: Theo Elzenga, University of Groningen, Netherlands; Ralf Uptmoor, University of Rostock, Germany</p>
+        </fn>
+        <corresp id="fn001">*Correspondence: John E. Mullet <email xlink:type="simple">jmullet@tamu.edu</email></corresp>
+        <fn fn-type="other" id="fn002">
+          <p>This article was submitted to Plant Biophysics and Modeling, a section of the journal Frontiers in Plant Science</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>3</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2017</year>
+      </pub-date>
+      <volume>8</volume>
+      <elocation-id>335</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>22</day>
+          <month>8</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>27</day>
+          <month>2</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2017 Truong, McCormick and Mullet.</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <copyright-holder>Truong, McCormick and Mullet</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Bioenergy sorghum is targeted for production in water-limited annual cropland therefore traits that improve plant water capture, water use efficiency, and resilience to water deficit are necessary to maximize productivity. A crop modeling framework, APSIM, was adapted to predict the growth and biomass yield of energy sorghum and to identify potentially useful traits for crop improvement. APSIM simulations of energy sorghum development and biomass accumulation replicated results from field experiments across multiple years, patterns of rainfall, and irrigation schemes. Modeling showed that energy sorghum's long duration of vegetative growth increased water capture and biomass yield by ~30% compared to short season crops in a water-limited production region. Additionally, APSIM was extended to enable modeling of VPD-limited transpiration traits that reduce crop water use under high vapor pressure deficits (VPDs). The response of transpiration rate to increasing VPD was modeled as a linear response until a VPD threshold was reached, at which the slope of the response decreases, representing a range of responses to VPD observed in sorghum germplasm. Simulation results indicated that the VPD-limited transpiration trait is most beneficial in hot and dry regions of production where crops are exposed to extended periods without rainfall during the season or to a terminal drought. In these environments, slower but more efficient transpiration increases biomass yield and prevents or delays the exhaustion of soil water and onset of leaf senescence. The VPD-limited transpiration responses observed in sorghum germplasm increased biomass accumulation by 20% in years with lower summer rainfall, and the ability to drastically reduce transpiration under high VPD conditions could increase biomass by 6% on average across all years. This work indicates that the productivity and resilience of bioenergy sorghum grown in water-limited environments could be further enhanced by development of genotypes with optimized VPD-limited transpiration traits and deployment of these crops in water limited growing environments. The energy sorghum model and VPD-limited transpiration trait implementation are made available to simulate performance in other target environments.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>energy sorghum</kwd>
+        <kwd>vapor pressure deficit</kwd>
+        <kwd>limited transpiration</kwd>
+        <kwd>crop model</kwd>
+        <kwd>water-limited environments</kwd>
+        <kwd>biomass</kwd>
+        <kwd>APSIM</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source id="cn001">U.S. Department of Energy<named-content content-type="fundref-id">10.13039/100000015</named-content></funding-source>
+        </award-group>
+      </funding-group>
+      <counts>
+        <fig-count count="6"/>
+        <table-count count="3"/>
+        <equation-count count="5"/>
+        <ref-count count="62"/>
+        <page-count count="17"/>
+        <word-count count="11827"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="s1">
+      <title>Introduction</title>
+      <p>Predicted increases in world population and development by 2050 are projected to increase the demand for food, forage, biofuels, and bio-products from agriculture by ~50% (Fedoroff and Cohen, <xref rid="B19" ref-type="bibr">1999</xref>; Bruinsma, <xref rid="B9" ref-type="bibr">2009</xref>; Hall and Richards, <xref rid="B22" ref-type="bibr">2013</xref>). Crop production requires substantial water resources due to the linkage between photosynthetic CO<sub>2</sub> uptake/assimilation and transpirational water loss through stomata (Vadez et al., <xref rid="B59" ref-type="bibr">2014</xref>). Insufficient water supply is a major cause of low crop productivity annually and periodic drought can cause large disruptions in agricultural output (Boyer, <xref rid="B6" ref-type="bibr">1982</xref>; Boyer et al., <xref rid="B8" ref-type="bibr">2013</xref>). Therefore, to meet future demand for agricultural products, crops with improved water capture, water use efficiency, and drought resilience are needed to enhance sustainable production (Boyer et al., <xref rid="B8" ref-type="bibr">2013</xref>; Vadez et al., <xref rid="B60" ref-type="bibr">2013</xref>).</p>
+      <p><italic>Sorghum bicolor</italic> is a versatile drought resilient C4 grass crop that currently is used to produce grain and forage on more than ~65M ha world-wide. Sorghum crops are particularly important for subsistence farming in the semi-arid tropics (Doggett, <xref rid="B16" ref-type="bibr">1988</xref>). Bioenergy sorghum is a relatively new type of sorghum hybrid crop designed for long growing seasons to enhance biomass yield (Rooney et al., <xref rid="B51" ref-type="bibr">2007</xref>; Olson et al., <xref rid="B46" ref-type="bibr">2012</xref>; Gill et al., <xref rid="B21" ref-type="bibr">2014</xref>). The development of high biomass sorghum hybrids was initiated following discovery of a breeding system that allows production of late flowering hybrids from early flowering inbreds (Rooney and Aydin, <xref rid="B50" ref-type="bibr">1999</xref>; Rooney et al., <xref rid="B51" ref-type="bibr">2007</xref>). Bioenergy sorghum hybrids have high photoperiod sensitivity due to the combined action of <italic>Ma1, Ma5</italic>, and <italic>Ma6</italic> that inhibit flowering in day lengths greater than 12.4 h (Rooney and Aydin, <xref rid="B50" ref-type="bibr">1999</xref>; Murphy et al., <xref rid="B42" ref-type="bibr">2011</xref>, <xref rid="B43" ref-type="bibr">2014</xref>; Mullet et al., <xref rid="B41" ref-type="bibr">2014</xref>; Yang et al., <xref rid="B61" ref-type="bibr">2014</xref>). As a consequence, energy sorghum hybrids that develop past the juvenile phase in the spring when day length are &gt;12.4 h do not undergo floral initiation until day lengths decrease below 12.4 h in the fall. The resulting long vegetative growth duration of energy sorghum hybrids, combined with C4 photosynthesis, high radiation interception and use efficiency, and annual cropping seasons that permit rotations and adjustments for economic conditions, make energy sorghum hybrids a productive high biomass crop especially useful for water-limited growing regions (Rooney et al., <xref rid="B51" ref-type="bibr">2007</xref>; Gill et al., <xref rid="B21" ref-type="bibr">2014</xref>; Mullet et al., <xref rid="B41" ref-type="bibr">2014</xref>).</p>
+      <p>Sorghum is amenable to genetic improvement of hybrids, due to a diverse germplasm, good genomics platform, and tractable genetics (Rooney and Aydin, <xref rid="B50" ref-type="bibr">1999</xref>; Rooney et al., <xref rid="B51" ref-type="bibr">2007</xref>; Mullet et al., <xref rid="B41" ref-type="bibr">2014</xref>). Breeding and genetic improvement of bioenergy sorghum hybrids has been underway on a small scale for only ~15 years and as a consequence, there are many unexploited opportunities for improving the crop's productivity and resilience. One way to increase the rate of crop improvement is to use models to help identify physiological traits that have significant predicted yield benefits for optimization through genetic selection (Zhu et al., <xref rid="B62" ref-type="bibr">2010</xref>; Hammer et al., <xref rid="B25" ref-type="bibr">2016</xref>). This approach was used in a prior study to examine the utility of increased leaf angle in bioenergy sorghum using structure-function modeling (Truong et al., <xref rid="B58" ref-type="bibr">2015</xref>). The predicted beneficial impact on biomass yield was confirmed by identifying leaf angle QTL and field-testing genotypes with varying leaf angle (Truong et al., <xref rid="B58" ref-type="bibr">2015</xref>). The integration of structure-function modeling, crop-scale modeling, automated phenotyping, and quantitative genetics is expected to further accelerate crop genetic improvement.</p>
+      <p>The Agricultural Production System SIMulator (APSIM) is a crop modeling framework that enables predictions of the growth and productivity of crop species under varying environmental conditions and management practices (McCown et al., <xref rid="B37" ref-type="bibr">1996</xref>; Keating et al., <xref rid="B28" ref-type="bibr">2003</xref>; Holzworth et al., <xref rid="B27" ref-type="bibr">2014</xref>). The sorghum module in APSIM has benefitted from continuous development and improvement since 1994 (Hammer and Muchow, <xref rid="B26" ref-type="bibr">1994</xref>), incorporating established models of sorghum phenology, canopy development, growth, and nitrogen use (Sinclair et al., <xref rid="B54" ref-type="bibr">1984</xref>; Rosenthal et al., <xref rid="B52" ref-type="bibr">1989</xref>; Birch et al., <xref rid="B3" ref-type="bibr">1990</xref>; Hammer and Muchow, <xref rid="B26" ref-type="bibr">1994</xref>; Chapman et al., <xref rid="B10" ref-type="bibr">2000a</xref>,<xref rid="B11" ref-type="bibr">b</xref>). APSIM has also been enhanced to model complex adaptive traits and genotype to phenotype predictions (Hammer et al., <xref rid="B24" ref-type="bibr">2010</xref>). In addition to its record of providing accurate predictions of sorghum development (Hammer and Muchow, <xref rid="B26" ref-type="bibr">1994</xref>; Kumar et al., <xref rid="B30" ref-type="bibr">2009</xref>; Hammer et al., <xref rid="B24" ref-type="bibr">2010</xref>; Kholová et al., <xref rid="B29" ref-type="bibr">2014</xref>; Lobell et al., <xref rid="B31" ref-type="bibr">2015</xref>), APSIM's modular design provides a flexible platform for examining the impact of variation in traits and physiological processes on plant development. To date, APSIM has been used predominately for modeling grain crops and additional work has demonstrated its efficacy in sugarcane (Nair et al., <xref rid="B44" ref-type="bibr">2012</xref>). APSIM should be similarly effective for examining biomass accumulation in bioenergy sorghum hybrids with long vegetative growth duration. Therefore, we extended the APSIM grain sorghum model to bioenergy sorghum and examined its performance relative to experimental data from field experiments across multiple years and patterns of rainfall and water availability. Additionally, APSIM was used to investigate the potential impact of traits that limit transpiration under high vapor pressure deficit (VPD) in bioenergy sorghum.</p>
+      <p>VPD describes the difference in water vapor pressure within the leaf and the surrounding air. Since transpiration rate increases with increasing VPD, limiting transpiration under conditions of high VPD has been predicted to contribute to the water use efficiency of grain sorghum and corn (Sinclair et al., <xref rid="B53" ref-type="bibr">2005</xref>; Kholová et al., <xref rid="B29" ref-type="bibr">2014</xref>; Messina et al., <xref rid="B40" ref-type="bibr">2015</xref>). VPD-limited transpiration traits enable water conservation and improve water use efficiency by imposing a restriction on transpiration rate when VPD becomes sufficiently large (Parent et al., <xref rid="B47" ref-type="bibr">2009</xref>; Tardieu et al., <xref rid="B57" ref-type="bibr">2009</xref>; McAdam and Brodribb, <xref rid="B35" ref-type="bibr">2015</xref>). Previous experiments have demonstrated that VPD-limited transpiration is a genetically regulated trait in sorghum. Some genotypes display differences in the linear increase in transpiration rate with increasing VPD, whereas other genotypes display a VPD breakpoint, defined as the VPD at which the slope of the linear response between VPD and transpiration rate decreases (Gholipoor et al., <xref rid="B20" ref-type="bibr">2010</xref>; Choudhary et al., <xref rid="B12" ref-type="bibr">2013</xref>; Choudhary and Sinclair, <xref rid="B14" ref-type="bibr">2014b</xref>; Riar et al., <xref rid="B49" ref-type="bibr">2015</xref>). These sorghum genotypes respond to high VPDs by reducing their transpiration rates, effectively limiting water loss under environmental conditions that result in low transpiration efficiencies, thereby increasing overall crop water use efficiency.</p>
+      <p>The VPD-limited transpiration trait may be especially beneficial for bioenergy sorghum hybrids that are grown in regions subject to high VPD and water limitation. Any daily advantage that the trait confers would potentially be compounded over extended periods of high VPD and water deficit that occur during the crop's long growing season. Moreover, enhancing the resilience of energy sorghum by increasing the crop's tolerance of long periods of water limitation will enable the crop to utilize intermittent rainfall for growth and biomass accumulation. Furthermore, future climate change modeling predicts increases in VPD that will be detrimental to vegetation (Lobell et al., <xref rid="B32" ref-type="bibr">2014</xref>; McDowell et al., <xref rid="B38" ref-type="bibr">2016</xref>), therefore determining the potential beneficial impact of VPD-limited transpiration traits and potential trade-offs on energy sorghum biomass yield and resilience is of great interest.</p>
+      <p>Previous methods for incorporating a limited transpiration trait into crop models imposed a VPD-independent and a VPD-dependent maximum transpiration rate. In grain sorghum, VPD-limited transpiration was modeled as a maximum transpiration rate per unit leaf area, such that the transpiration rate would plateau at the designated maximum regardless of further increases in VPD (Sinclair et al., <xref rid="B53" ref-type="bibr">2005</xref>; Kholová et al., <xref rid="B29" ref-type="bibr">2014</xref>). In maize, limited transpiration was modeled as a piecewise function whereby, at or above a designated VPD (the VPD breakpoint), transpiration rate would plateau and not increase further (Messina et al., <xref rid="B40" ref-type="bibr">2015</xref>). These models are characteristic of some sorghum genotypes but do not capture the full range of VPD modulated transpiration responses reported for sorghum (Gholipoor et al., <xref rid="B20" ref-type="bibr">2010</xref>; Choudhary et al., <xref rid="B12" ref-type="bibr">2013</xref>; Choudhary and Sinclair, <xref rid="B14" ref-type="bibr">2014b</xref>; Riar et al., <xref rid="B49" ref-type="bibr">2015</xref>). To capture this additional complexity, we implemented a dynamic VPD-limited transpiration modification as part of an energy sorghum model in APSIM and used this modification to examine the effects of a range of VPD-limited transpiration traits on biomass accumulation. Adapting APSIM for bioenergy sorghum and VPD-limited transpiration enables predictions of energy sorghum phenology, biomass accumulation in a range of environments and agronomic practices, and analyses of the impact of the VPD-limited transpiration on biomass accumulation.</p>
+    </sec>
+    <sec sec-type="methods" id="s2">
+      <title>Methods</title>
+      <sec>
+        <title>Crop model simulations for energy sorghum in APSIM</title>
+        <p>The daily progression of sorghum biomass accumulation given environmental data and management practices was simulated using Agricultural Production Systems Simulator (APSIM 7.7, <ext-link ext-link-type="uri" xlink:href="http://www.apsim.info">www.apsim.info</ext-link>) (McCown et al., <xref rid="B37" ref-type="bibr">1996</xref>; Keating et al., <xref rid="B28" ref-type="bibr">2003</xref>; Holzworth et al., <xref rid="B27" ref-type="bibr">2014</xref>). Daily maximum temperature, minimum temperature, and precipitation data for College Station, TX (Latitude 30.58917, Longitude −97.36472) from the beginning of year 2000 to the end of year 2014 were obtained from the Daily Global Historical Climatology Network, GHCN-DAILY (Menne et al., <xref rid="B39" ref-type="bibr">2012</xref> access date: January 2016). The values of maximum and minimum radiation per day were obtained from “Maximum and Minimum Radiation Incident On An Equator-pointed Tilted Surface (kWh/m2/day)” from NASA Surface meteorology and Solar Energy (SSE) data set for Latitude 30.601, Longitude 96.314 (<ext-link ext-link-type="uri" xlink:href="https://eosweb.larc.nasa.gov/">https://eosweb.larc.nasa.gov/</ext-link>). The tav_amp APSIM function was used to calculate annual average ambient temperature (TAV) and annual amplitude in mean monthly temperature (AMP). The soil depth parameters were adjusted to be reflective of College Station, TX, where energy sorghum root systems rarely extend beyond 1,000 mm below the soil surface. This constraint was implemented by making the 6th soil layer (1200–1500 mm depth) a water table that restricted root growth and water uptake past the 6th soil layer.</p>
+        <p>Crop management practices used for modeling were based on standard methods for growing energy sorghum (Rooney et al., <xref rid="B51" ref-type="bibr">2007</xref>; Olson et al., <xref rid="B46" ref-type="bibr">2012</xref>). Sowing each year was modeled to occur between April 14th and May 1st. The sowing density and plant spacing in rows reflect practices applied in College Station, TX, in 2008 and 2009 with 13.2 plants m<sup>−2</sup> and 76 cm row spacing. Fertilization was simulated to apply 100 kg of nitrogen (N) per hectare based on production practices described previously (Olson et al., <xref rid="B46" ref-type="bibr">2012</xref>). The unlimited irrigation regime was implemented using furrow irrigation between rows approximately every 2 weeks if no rainfall occurred and less often when rainfall provided water for plant growth (Olson et al., <xref rid="B46" ref-type="bibr">2012</xref>). For simulations without VPD-limited transpiration, irrigation of 150 mm of water was applied on soil water deficit demand of 50 mm as part of three irrigation scenarios: no irrigation (other than starting with a fully saturated soil profile prior to sowing, rainfall was the only water source), limited irrigation (irrigation stops on July 7th), and unlimited irrigation (irrigation on demand during the growing season).</p>
+      </sec>
+      <sec>
+        <title>Adapting APSIM to model delayed flowering due to high photoperiod sensitivity</title>
+        <p>Delayed flowering caused by very high photoperiod sensitivity is a trait that differentiates energy sorghum from most other sorghum crops. As a consequence of this trait, energy sorghum hybrids planted in central Texas in mid-April grow in the vegetative phase for ~150 days and initiate flowering in mid-September when day lengths decrease below 12.4 h (Rooney and Aydin, <xref rid="B50" ref-type="bibr">1999</xref>). The implementation of photoperiod sensitivity in the APSIM sorghum module is based on extension of thermal time in the vegetative phase (Hammer et al., <xref rid="B24" ref-type="bibr">2010</xref>; Holzworth et al., <xref rid="B27" ref-type="bibr">2014</xref>). Therefore, thermal time (e.g., photoperiod slope) parameters were set to be consistent with observed time to floral initiation for energy sorghum hybrids such as TX08001 grown in College Station, Texas (Table <xref ref-type="table" rid="T1">1</xref>). Modeling of energy sorghum hybrid performance other locations and latitudes could be implemented in a similar way by determining thermal time from planting until day lengths are &lt;12.4 h.</p>
+        <table-wrap id="T1" position="float">
+          <label>Table 1</label>
+          <caption>
+            <p><bold>Parameter values for modeling canopy development and growth in the energy sorghum crop model used in this study</bold>.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Parameter description</bold>
+                </th>
+                <th valign="top" align="center" colspan="3" style="border-bottom: thin solid #000000;" rowspan="1">
+                  <bold>Constants-species-specific</bold>
+                </th>
+              </tr>
+              <tr>
+                <th rowspan="1" colspan="1"/>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>Default</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>Adjusted</bold>
+                </th>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>XML variable name</bold>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" colspan="4" style="background-color:#bbbdc0" rowspan="1">
+                  <bold>SECTION 1—CROP PHENOLOGY: DEVELOPMENT PARAMETERS</bold>
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Maximum leaf number</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">40</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">50</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">leaf_no_max</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Leaf appearance rate 1 (°Cd)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">41</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">50</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">leaf_app_rate1</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" colspan="4" style="background-color:#bbbdc0" rowspan="1">
+                  <bold>SECTION 2—PHOTOSYNTHESIS BIOMASS GROWTH AND PARTITION</bold>
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Radiation use efficiency, RUE (g MJ-1) from juvenile to floral initiation</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.25</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.3</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Rue</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Extinction coefficient for green leaf from row spacing 0.5 m and 1.0 m</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.40</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.70</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">y_extinct_coef</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" colspan="4" style="background-color:#bbbdc0" rowspan="1">
+                  <bold>SECTION 7—SENESCENCE AND DETACHMENT</bold>
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Light delay factor for leaf senescence (days)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">10.0</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">25.0</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">sen_light_time_const</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Radiation level for onset of leaf senescence (MJ m-2)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.0</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.5</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">sen_radn_crit</td>
+              </tr>
+              <tr style="border-bottom: thin solid #000000;">
+                <td valign="top" align="left" rowspan="1" colspan="1">Water supply:demand ratio for onset of leaf senescence (MJ m-2)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.25</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.03</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">sen_threshold</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1"/>
+                <td valign="top" align="center" colspan="3" style="border-bottom: thin solid #000000;" rowspan="1">
+                  <bold>GENOTYPE</bold>
+                </td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>late maturity</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>texas_energy</bold>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>XML variable name</bold>
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" colspan="4" style="background-color:#bbbdc0" rowspan="1">
+                  <bold>PHENOLOGY</bold>
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Photoperiod criteria 1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">12.3</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">12.4</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">photoperiod_crit1</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Photoperiod criteria 2</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">14.6</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">13.4</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">photoperiod_crit2</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Photoperiod slope</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">38.6</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1545</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">photoperiod_slope</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" colspan="4" style="background-color:#bbbdc0" rowspan="1">
+                  <bold>LEAF AREA—TPLA APPROACH</bold>
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Curvature coefficient, α, for leaf area (1/°Cd)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.018</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.003</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">tpla_prod_coef</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Power coefficient, γ, for number of leaves to total plant leaf area</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.95</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.68</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">main_stem_coef</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Inflection coefficient, β, of total plant leaf area curve</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.66</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.725</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">tpla_inflection_ratio</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" colspan="4" style="background-color:#bbbdc0" rowspan="1">
+                  <bold>CANOPY HEIGHT</bold>
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Minimum weight at maximum height to calculate density of stem accumulation (g/stem)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">80</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">230</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">x_stem_wt</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Maximum height (m)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.0</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.0</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">y_height</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p><italic>The grain sorghum crop model parameters for a late maturity cultivar described in APSIM sorghum module (apsim.info) were modified to model energy sorghum. Energy sorghum phenology is approximated such that energy sorghum will initiate floral induction in mid-September given College Station, TX, environments as observed (Rooney and Aydin, <xref rid="B50" ref-type="bibr">1999</xref>; Olson et al., <xref rid="B46" ref-type="bibr">2012</xref>). Other parameters were modified such that the model output generally resembled measurements of TX08001 in 2008 (Olson et al., <xref rid="B46" ref-type="bibr">2012</xref>)</italic>.</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Adapting APSIM sorghum module for VPD-limited transpiration traits</title>
+        <p>In APSIM's sorghum model, daily biomass accumulation is determined primarily from two inputs: radiation energy intercepted by the plant canopy (radiation energy supply) and soil water supply. For a given day, if water supply is not limiting, the amount of radiation intercepted determines biomass accumulation. Daily plant water demand is calculated from radiation energy supply. The required amount of water for transpiration (water demand) needs to be extracted by roots from the soil profile to maximize biomass accumulation. If water available from the soil profile is less than the water required by the plant during canopy gas exchange for maximal biomass accumulation, then water supply reduces daily biomass accumulation. The amount of water utilized by the plant during gas exchange required for biomass accumulation is calculated from plant water demand when soil water supply was sufficient to meet demand, or from available water supply when supply was less than plant water demand.</p>
+        <p>To extend this model, VPD-limited transpiration was introduced into the calculation of potential change in biomass per day by impacting plant water demand as a function of VPD. Daily weather input and biomass accumulation potential were interpolated at hourly timesteps, and for each daytime hour, the daily potential for biomass accumulation restricted by water was calculated as a function of hourly VPD. This effectively introduced the ability for a plant to slow its transpiration rate under conditions of high VPD (e.g., mid-afternoon), in which case the plant would demand less water under conditions of high VPD. Consequently, this slowed the rate of biomass accumulation under conditions of high VPD and reduced the amount of water used in high VPD conditions when transpiration efficiency is low. The calculations are described below, and their implementation in the APSIM sorghum C++ module is made available (see Code Availability).</p>
+        <p>VPD-limited transpiration was modeled using the parameters {<italic>vpd</italic><sub><italic>BP</italic></sub>, <italic>m</italic><sub>1</sub>, <italic>m</italic><sub>2</sub>} which are typically obtained from experiments quantifying VPD-limited transpiration (<bold>Figure 2</bold>, Table <xref ref-type="table" rid="T2">2</xref>). A VPD-limited transpiration trait can be characterized by a VPD breakpoint (<italic>vpd</italic><sub><italic>BP</italic></sub>), the slope of the linear relationship between transpiration rate and VPD for VPDs that are less than the VPD breakpoint (<italic>m</italic><sub>1</sub>), and the slope of the linear relationship between transpiration rate and VPD for VPDs that are greater than the VPD breakpoint (<italic>m</italic><sub>2</sub>); these three parameters can be defined in the .xml sorghum file provided by the user. Given these parameters, a daily biomass accumulation <inline-formula><mml:math id="M1"><mml:msubsup><mml:mrow><mml:mo>∑</mml:mo></mml:mrow><mml:mrow><mml:mi>t</mml:mi><mml:mo>=</mml:mo><mml:mi>s</mml:mi><mml:mi>u</mml:mi><mml:mi>n</mml:mi><mml:mi>r</mml:mi><mml:mi>i</mml:mi><mml:mi>s</mml:mi><mml:mi>e</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi><mml:mi>u</mml:mi><mml:mi>n</mml:mi><mml:mi>s</mml:mi><mml:mi>e</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:msubsup><mml:mi>B</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math></inline-formula> is calculated on an hourly (<italic>t</italic>) basis over the course of a day (sunrise to sunset). In order to evaluate VPD-limited transpiration on an hourly basis, VPD and biomass data calculated from radiation energy supply was interpolated hourly with respect to climate data by implementing the piecewise function described by Eccel (<xref rid="B17" ref-type="bibr">2010</xref>) from sunrise to sunset of sinusoid I and II equations. With this calculation, for each hour, <italic>t</italic>, there is an hourly transpiration rate, <italic>T</italic><sub><italic>r</italic></sub>(<italic>t</italic>), based on potential biomass accumulation from radiation energy, <italic>B</italic><sub><italic>r</italic></sub>(<italic>t</italic>), leaf area index, <italic>lai</italic>, and an hourly vapor pressure deficit, <italic>vpd</italic>(<italic>t</italic>), such that the following can be evaluated (Table <xref ref-type="table" rid="T2">2</xref> describes variables):</p>
+        <table-wrap id="T2" position="float">
+          <label>Table 2</label>
+          <caption>
+            <p><bold>Descriptions of variables in the VPD-limited transpiration model modified within the APSIM sorghum module</bold>.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Variable</bold>
+                </th>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Description</bold>
+                </th>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Time-scale</bold>
+                </th>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Origin</bold>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"><italic>B</italic><sub><italic>r</italic></sub>(<italic>t</italic>)</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Potential biomass from radiation energy interpolated from daily potential biomass calculation from radiation energy</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Hour</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Biomass class (APSIM)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <italic>lai</italic>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Leaf area index</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Day</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Leaf class (APSIM)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <italic>W</italic>
+                  <sub>
+                    <italic>soil</italic>
+                  </sub>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Soil water available from water and root class</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Day</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Water class (APSIM)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <italic>TE</italic>
+                  <sub>
+                    <italic>c</italic>
+                  </sub>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Genotype-specific, stage-dependent transpiration efficiency coefficient</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Developmental stage</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Parameterized (Hammer et al., <xref rid="B23" ref-type="bibr">1997</xref>)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <italic>m</italic>
+                  <sub>1</sub>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1">The slope of transpiration rate when <italic>vpd</italic>(<italic>t</italic>) is less than <italic>vpd</italic><sub><italic>BP</italic></sub>.</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Fixed</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Parameterized</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <italic>m</italic>
+                  <sub>2</sub>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1">The slope of transpiration rate when <italic>vpd</italic>(<italic>t</italic>) is greater than or equal to <italic>vpd</italic><sub><italic>BP</italic></sub>.</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Fixed</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Parameterized</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <italic>vpd</italic>
+                  <sub>
+                    <italic>BP</italic>
+                  </sub>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Vapor pressure deficit (VPD) at which transpiration rate transitions into another linear function.</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Fixed</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Parameterized</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"><italic>vpd</italic>(<italic>t</italic>)</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Vapor pressure deficit (VPD) at hour <italic>t</italic> is interpolated from minimum and maximum daily temperature.</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Hour</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">VPD-limited transpiration model</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"><italic>T</italic><sub><italic>r</italic></sub>(<italic>t</italic>)</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Transpiration rate dependent of radiation energy available</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Hour</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">VPD-limited transpiration model</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"><italic>T</italic><sub><italic>v</italic></sub>(<italic>t</italic>)</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Transpiration rate dependent on vapor pressure deficit (VPD)</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Hour</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">VPD-limited transpiration model</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"><italic>T</italic>(<italic>t</italic>)</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Transpiration rate dependent on radiation energy available, VPD, and soil water available.</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Hour</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">VPD-limited transpiration model</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"><italic>W</italic><sub><italic>demand</italic></sub>(<italic>t</italic>)</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cumulative soil water demand from plant from sunrise, <italic>t</italic><sub><italic>sunrise</italic></sub>, to evaluated <italic>t</italic>. <italic>W</italic>(<italic>t</italic><sub><italic>sunset</italic></sub>) is the daily soil water demand that is passed back to the water class in APSIM's daily process.</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Hour</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">VPD-limited transpiration model</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"><italic>B</italic>(<italic>t</italic>)</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cumulative biomass accumulated by plant from sunrise, <italic>t</italic><sub><italic>sunrise</italic></sub>, to evaluated <italic>t</italic>. <italic>B</italic>(<italic>t</italic><sub><italic>sunset</italic></sub>) is the daily biomass that is passed back to the biomass class in APSIM's daily process.</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Hour</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">VPD-limited transpiration model</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p><italic>The time-scale column describes the time-scale (e.g., development stage, day, or hour) on which the variable changes or is evaluated. The origin column describes from where the variable is initialized or calculated (e.g., from a sub-class of the APSIM sorghum module, from the implementation of the VPD-limited transpiration model, or parameterized from experimental data)</italic>.</p>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>Transpiration rate dependent on radiation energy available,
+<disp-formula id="E1"><mml:math id="M2"><mml:mtable columnalign="left"><mml:mtr><mml:mtd><mml:msub><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>r</mml:mi></mml:mrow></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:msub><mml:mrow><mml:mi>B</mml:mi></mml:mrow><mml:mrow><mml:mi>r</mml:mi></mml:mrow></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>÷</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>T</mml:mi><mml:mi>E</mml:mi></mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mi>v</mml:mi><mml:mi>p</mml:mi><mml:mi>d</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow></mml:mfrac><mml:mo>÷</mml:mo><mml:mi>l</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mo>.</mml:mo></mml:mtd></mml:mtr></mml:mtable></mml:math></disp-formula>
+Transpiration rate dependent on VPD,
+<disp-formula id="E2"><mml:math id="M3"><mml:mtable columnalign="left"><mml:mtr><mml:mtd><mml:msub><mml:mi>T</mml:mi><mml:mi>v</mml:mi></mml:msub><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo>=</mml:mo><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>m</mml:mi><mml:mi>T</mml:mi></mml:msub><mml:mo stretchy="false">(</mml:mo><mml:mi>v</mml:mi><mml:mi>p</mml:mi><mml:mi>d</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo stretchy="false">)</mml:mo><mml:mo>×</mml:mo><mml:mi>v</mml:mi><mml:mi>p</mml:mi><mml:mi>d</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mi>t</mml:mi><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mtext>          </mml:mtext><mml:mo>+</mml:mo><mml:mrow><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>T</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>v</mml:mi><mml:mi>p</mml:mi><mml:msub><mml:mi>d</mml:mi><mml:mrow><mml:mi>B</mml:mi><mml:mi>P</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>−</mml:mo><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>m</mml:mi><mml:mi>T</mml:mi></mml:msub><mml:mo stretchy="false">(</mml:mo><mml:mi>v</mml:mi><mml:mi>p</mml:mi><mml:mi>d</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo stretchy="false">)</mml:mo><mml:mo>×</mml:mo><mml:mi>v</mml:mi><mml:mi>p</mml:mi><mml:msub><mml:mi>d</mml:mi><mml:mrow><mml:mi>B</mml:mi><mml:mi>P</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>,</mml:mo></mml:mtd></mml:mtr></mml:mtable></mml:math></disp-formula>
+where <inline-formula><mml:math id="M4"><mml:mrow><mml:msub><mml:mi>m</mml:mi><mml:mi>T</mml:mi></mml:msub><mml:mo stretchy="false">(</mml:mo><mml:mi>v</mml:mi><mml:mi>p</mml:mi><mml:mi>d</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo stretchy="false">)</mml:mo><mml:mtext>=</mml:mtext><mml:mrow><mml:mo>{</mml:mo><mml:mrow><mml:mtable><mml:mtr><mml:mtd><mml:mrow><mml:mtext>​​</mml:mtext><mml:msub><mml:mi>m</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mtext>  </mml:mtext><mml:mi>v</mml:mi><mml:mi>p</mml:mi><mml:mi>d</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo>&lt;</mml:mo><mml:mi>v</mml:mi><mml:mi>p</mml:mi><mml:msub><mml:mi>d</mml:mi><mml:mrow><mml:mi>B</mml:mi><mml:mi>P</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mrow><mml:msub><mml:mi>m</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mtext>  </mml:mtext><mml:mi>v</mml:mi><mml:mi>p</mml:mi><mml:mi>d</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo>≥</mml:mo><mml:mi>v</mml:mi><mml:mi>p</mml:mi><mml:msub><mml:mi>d</mml:mi><mml:mrow><mml:mi>B</mml:mi><mml:mi>P</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:mrow></mml:mrow></mml:math></inline-formula>, and <italic>T</italic><sub><italic>v</italic></sub>(<italic>t</italic>) ≥ 0∀<italic>t</italic>, and <italic>T</italic>(<italic>vpd</italic><sub><italic>BP</italic></sub>) = <italic>m</italic><sub>1</sub> × <italic>vpd</italic><sub><italic>BP</italic></sub> − (−(1/4) × <italic>m</italic><sub>1</sub>) so that at VPD less than or equal to (1/4) there is no transpiration (Gholipoor et al., <xref rid="B20" ref-type="bibr">2010</xref>).</p>
+        <p>Transpiration rate dependent on VPD, radiation energy available, and extractable soil water,
+<disp-formula id="E3"><mml:math id="M5"><mml:mtable columnalign="left"><mml:mtr><mml:mtd><mml:mi>T</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mo class="qopname">min</mml:mo><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:msub><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>v</mml:mi></mml:mrow></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>,</mml:mo><mml:mtext> </mml:mtext><mml:msub><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>r</mml:mi></mml:mrow></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>,</mml:mo><mml:msub><mml:mrow><mml:mi>W</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi><mml:mi>o</mml:mi><mml:mi>i</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>.</mml:mo></mml:mtd></mml:mtr></mml:mtable></mml:math></disp-formula>
+Then, for every day time hour, daily soil water used is calculated as the sum of the hourly products of transpiration rate by leaf area, <italic>T</italic>(<italic>t</italic>) × <italic>lai</italic>,
+<disp-formula id="E4"><label>(1)</label><mml:math id="M6"><mml:mtable class="eqnarray" columnalign="right center left"><mml:mtr><mml:mtd><mml:msub><mml:mrow><mml:mi>W</mml:mi></mml:mrow><mml:mrow><mml:mi>d</mml:mi><mml:mi>e</mml:mi><mml:mi>m</mml:mi><mml:mi>a</mml:mi><mml:mi>n</mml:mi><mml:mi>d</mml:mi></mml:mrow></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mi>l</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mtext> </mml:mtext><mml:mo>×</mml:mo><mml:msubsup><mml:mrow><mml:mo>∑</mml:mo></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:msub><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi><mml:mi>u</mml:mi><mml:mi>n</mml:mi><mml:mi>r</mml:mi><mml:mi>i</mml:mi><mml:mi>s</mml:mi><mml:mi>e</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mi>t</mml:mi></mml:mrow></mml:msubsup><mml:mi>T</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:mi>i</mml:mi></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:math></disp-formula>
+And, daily biomass is calculated as the sum of the hourly product of transpiration rate, <italic>T</italic>(<italic>t</italic>), leaf area, <italic>lai</italic>, and transpiration efficiency, <inline-formula><mml:math id="M7"><mml:mfrac><mml:mrow><mml:mi>T</mml:mi><mml:msub><mml:mrow><mml:mi>E</mml:mi></mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mi>v</mml:mi><mml:mi>p</mml:mi><mml:mi>d</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow></mml:mfrac></mml:math></inline-formula>.
+<disp-formula id="E5"><label>(2)</label><mml:math id="M8"><mml:mtable class="eqnarray" columnalign="right center left"><mml:mtr><mml:mtd><mml:mi>B</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mtext> </mml:mtext><mml:mo>=</mml:mo><mml:mtext> </mml:mtext><mml:mi>l</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mtext> </mml:mtext><mml:mo>×</mml:mo><mml:mi>T</mml:mi><mml:msub><mml:mrow><mml:mi>E</mml:mi></mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow></mml:msub><mml:mo>×</mml:mo><mml:msubsup><mml:mrow><mml:mo>∑</mml:mo></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:msub><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi><mml:mi>u</mml:mi><mml:mi>n</mml:mi><mml:mi>r</mml:mi><mml:mi>i</mml:mi><mml:mi>s</mml:mi><mml:mi>e</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mi>t</mml:mi></mml:mrow></mml:msubsup><mml:mfrac><mml:mrow><mml:mi>T</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:mi>i</mml:mi></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mi>v</mml:mi><mml:mi>p</mml:mi><mml:mi>d</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:mi>i</mml:mi></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow></mml:mfrac></mml:mtd></mml:mtr></mml:mtable></mml:math></disp-formula>
+</p>
+      </sec>
+      <sec>
+        <title>Data and code accessibility</title>
+        <p>The files used to simulate energy sorghum crop growth and the code to modify growth based on VPD-limited transpiration can be found on GitHub (<ext-link ext-link-type="uri" xlink:href="http://www.github.com/MulletLab/sorghum-energy-crop-model/">www.github.com/MulletLab/sorghum-energy-crop-model/</ext-link>).</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="s3">
+      <title>Results</title>
+      <sec>
+        <title>Modeling bioenergy sorghum in APSIM</title>
+        <p>To extend the applicability of APSIM to bioenergy sorghum, parameters of a sorghum genotype distributed with APSIM were modified to simulate bioenergy sorghum characteristics, namely an extended period of vegetative growth, high leaf area index (LAI), leaf number, radiation use efficiency, height, and stem density (Table <xref ref-type="table" rid="T1">1</xref>). The sorghum model parameters in APSIM were adjusted based on traits measured as part of previous field studies conducted in 2008 and 2009 that characterized the growth and development of the energy sorghum hybrid, TX08001 near College Station, TX (Olson et al., <xref rid="B46" ref-type="bibr">2012</xref>). In the prior field studies, data was collected on the energy sorghum hybrid TX08001 grown using three irrigation regimes: a rainfed environment with no irrigation, a limited irrigation scheme where plants were watered as needed until July 7th (applied in 2008 and 2009) and an unlimited irrigation scheme where plants were watered throughout the season (applied in 2009). Above ground biomass was measured in both years, and in 2008, data on stem height, leaf number, and leaf area index were collected. After parameterization based on 2008 trait data, APSIM simulations were compared to other years and irrigation schemes.</p>
+        <p>Growth simulations of energy sorghum for the unlimited, limited, and no irrigation conditions were qualitatively consistent with field data (Figure <xref ref-type="fig" rid="F1">1</xref>). A photograph of typical field plot of TX08001 at 108 DAS grown with limited irrigation is shown in Figure <xref ref-type="fig" rid="F1">1M</xref>. The front of the plot has been removed revealing the onset of leaf senescence at lower levels of the canopy that is associated with nitrogen recycling to support production of new leaves at the top of the canopy (Olson et al., <xref rid="B46" ref-type="bibr">2012</xref>, <xref rid="B45" ref-type="bibr">2013</xref>). The model largely tracked LAI, height, and number of leaves produced during the 2008 limited irrigation season (Figures <xref ref-type="fig" rid="F1">1C–E</xref>). The energy sorghum model also qualitatively reproduced the biomass accumulation trajectories observed in the limited and rainfed plots of 2008 and 2009. In 2008 and 2009, limited irrigation plots produced approximately 4 kg m<sup>−2</sup> (~40 Mg hectare<sup>−1</sup>) of dry shoot biomass and unlimited irrigation plots in 2009 produced ~5 kg m<sup>−2</sup> (~50 Mg hectare<sup>−1</sup>) of dry shoot biomass. Model predictions of biomass accumulation in 2009 with unlimited irrigation tracked field data for most of the season but predicted somewhat lower biomass accumulation late in the growing season, a trend also observed when modeling biomass accumulation in 2008 under limited irrigation. In the targeted management regimes of energy sorghum, under strictly rainfed conditions, the bioenergy sorghum crop model predicted biomass accumulation that was within the range observed in 2008 mechanical harvests of larger plots (Olson et al., <xref rid="B46" ref-type="bibr">2012</xref>). These results indicate that APSIM is capable of predicting growth and biomass accumulation trajectories observed in field experiments within the margin of uncertainty of available data on field grown bioenergy sorghum across multiple years and water supply conditions.</p>
+        <fig id="F1" position="float">
+          <label>Figure 1</label>
+          <caption>
+            <p><bold>Growth simulations and field data of energy sorghum in unlimited, limited, and no irrigation regimes</bold>. Predicted biomass accumulation given 2009 and 2008 environmental conditions under unlimited <bold>(H)</bold>, limited <bold>(A, J)</bold>, and no <bold>(F)</bold> irrigation regimes fall within the margin of measurement error. Predicted leaf number <bold>(C)</bold>, plant height <bold>(D)</bold>, and leaf area index (LAI) <bold>(E)</bold> agree with experimental observations. Simulated water profiles from the three irrigation conditions are illustrated <bold>(B,G,I,K)</bold>. The respective soil water layers 1–6 are illustrated where the layers are 0–150, 150–300, 300–600, 600–900, 900–1200, and 1200–1500 mm depth, respectively. Plotting descriptors are provided in panel (<bold>L</bold>), and experimental data are plotted showing means and error bars representing one standard deviation where available, and the minimum and maximum range of observations in <bold>F</bold> (Olson et al., <xref rid="B46" ref-type="bibr">2012</xref>). <bold>(N)</bold> Average simulated biomass accumulation for the 2000–2014 cropping seasons for different irrigation regimes. The means of unlimited, limited, and no irrigation are plotted with continuous, dashed, and dotted lines, respectively. Each irrigation regime has 68, 98, and 100 percent confidence intervals depicted with decreasing shades of gray. The mean and confidence intervals were estimated with 50,000 bootstraps. <bold>(M)</bold> An image of energy sorghum hybrid, TX08001, in 2016 College Station, TX, cropping season 108 days after sowing.</p>
+          </caption>
+          <graphic xlink:href="fpls-08-00335-g0001"/>
+        </fig>
+        <p>The parameterized APSIM energy sorghum model was used to simulate how an energy sorghum crop would perform in the College Station, Texas, environment under different irrigation regimes and rainfall patterns over the annual growing seasons from 2000 to 2014 (Figure <xref ref-type="fig" rid="F1">1N</xref>). Using rainfall data from 2000 to 2014 in College Station, three water input regimes were imposed: unlimited, limited, and no irrigation (rainfed). As expected, the crop's ability to accumulate biomass in the three treatments diverges between 60 and 100 DAS when water becomes limiting, that is, when water in the initially saturated soil profile is depleted (Figures <xref ref-type="fig" rid="F1">1 B,G,I,K</xref>). Modeling showed that energy sorghum's long duration of vegetative growth allowed water capture from 100 DAS to 200 DAS and improved shoot biomass yield by ~30% in the water-limited production region relative to a crop harvested at 100 DAS.</p>
+        <p>Fluctuations in rainfall and VPD during the 2000–2014 growing seasons in College Station, Texas are shown in Figure <xref ref-type="fig" rid="F2">2</xref>. The amount and timing of rainfall was highly variable but generally decreased from planting to ~120 DAS (mid-summer) and then increased again during the latter portion of the growing season (Figure <xref ref-type="fig" rid="F2">2A</xref>). Profiles of rainfall patterns in 2008, 2009, and 2010 show that rainfall between 75 and 150 DAS is intermittent and insufficient to recharge the soil profile (Figures <xref ref-type="fig" rid="F2">2E–G</xref>). In the location modeled, average daily VPD increased from planting until ~120 DAS then declined until harvest at ~200 DAS (Figure <xref ref-type="fig" rid="F2">2B</xref>). VPD also fluctuates significantly on a daily basis (Supplemental Figure <xref ref-type="supplementary-material" rid="SM1">1</xref>). Increases in VPD generally result in higher rates of transpiration and water uptake from the soil profile by the root system, and lower efficiency of conversion of atmospheric carbon to plant biomass per unit of water transpired (TE) (Figures <xref ref-type="fig" rid="F2">2C,D</xref>). In simulations where water is not a limiting factor (unlimited irrigation) and transpiration efficiency is not influencing biomass yield, energy sorghum is predicted to yield 5.4 ± 0.3 (mean ± SD) kg m<sup>−2</sup> of biomass while using 1132 ± 82 (mean ± SD) mm m<sup>−2</sup> of water during a 200 day growing season in College Station cropping environments. In contrast, in the absence of irrigation, energy sorghum was predicted to produce on average 2.7 ± 0.8 (mean ± SD) kg m<sup>−2</sup> of biomass and used 485 ± 120 (mean ± SD) mm m<sup>−2</sup> of water (Figure <xref ref-type="fig" rid="F1">1N</xref>). The results of modeling indicate that water supply significantly limits sorghum biomass accumulation, especially after 60–75 DAS, in this location consistent with field observations (Olson et al., <xref rid="B46" ref-type="bibr">2012</xref>; Gill et al., <xref rid="B21" ref-type="bibr">2014</xref>; Mullet et al., <xref rid="B41" ref-type="bibr">2014</xref>).</p>
+        <fig id="F2" position="float">
+          <label>Figure 2</label>
+          <caption>
+            <p><bold>Seasonal fluctuations of rainfall and VPD and their relationship to sorghum transpiration rate and efficiency. (A,B)</bold> Distribution of daily rainfall (mm) and daily vapor pressure deficit, VPD, (kPa) over the 2000–2014 cropping seasons in College Station, TX, calculated as a mean of a 30-day sliding window. The mean is plotted as a solid line, the lighter transparent fill is the entire data range (minimums and maximums) and the darker transparent fill is one standard deviation from the mean. <bold>(E–G)</bold> Distribution of daily rainfall (mm) for the 2008 <bold>(E)</bold>, 2009 <bold>(F)</bold>, and 2010 <bold>(G)</bold> cropping seasons in College Station, TX, calculated as a mean of a 14-day sliding window. <bold>(C)</bold> Transpiration efficiency, biomass produced per unit of water transpired (g m<sup>−2</sup> mm<sup>−2</sup>), and <bold>(D)</bold> a hypothetical transpiration rate (solid black line), the amount of water uptake per unit time (mm m<sup>−2</sup> s<sup>−2</sup>), and their responses to VPD (kPa) are plotted along the x-axes sharing the y-axis of panel (<bold>B</bold>). VPD-limited transpiration trait parameters {<italic>vpd</italic><sub><italic>BP</italic></sub>, <italic>m</italic><sub>1</sub>, <italic>m</italic><sub>2</sub>} is denoted in blue.</p>
+          </caption>
+          <graphic xlink:href="fpls-08-00335-g0002"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Modeling VPD-limited transpiration traits</title>
+        <p>Transpiration efficiency (TE) decreases with increasing VPD (Hammer et al., <xref rid="B23" ref-type="bibr">1997</xref>). Therefore, the APSIM sorghum model was used to examine the potential utility of traits that limit transpiration at higher VPD for improving the biomass yield, water use efficiency, and resilience of bioenergy sorghum. Previous experimental work demonstrated that VPD-limited transpiration traits are dependent on VPD and sensitive to 1 kPA changes in VPD (Gholipoor et al., <xref rid="B20" ref-type="bibr">2010</xref>; Choudhary et al., <xref rid="B12" ref-type="bibr">2013</xref>; Choudhary and Sinclair, <xref rid="B14" ref-type="bibr">2014b</xref>; Riar et al., <xref rid="B49" ref-type="bibr">2015</xref>). Energy sorghum crops are exposed to a range of VPDs greater than 1 kPA over the course of a day due to daily variation in temperature (Supplemental Figure <xref ref-type="supplementary-material" rid="SM1">1</xref>). Therefore, the APSIM model was modified so that the calculated daily water uptake could be altered by a VPD-limited transpiration trait calculated in hourly timesteps, an approach similar to that implemented by Sinclair et al. (<xref rid="B53" ref-type="bibr">2005</xref>), Kholová et al. (<xref rid="B29" ref-type="bibr">2014</xref>), and Messina et al. (<xref rid="B40" ref-type="bibr">2015</xref>). VPD-limited transpiration traits were modeled using two different linear response slopes, <italic>m</italic><sub>1</sub> and <italic>m</italic><sub>2</sub> where the transition between <italic>m</italic><sub>1</sub> and <italic>m</italic><sub>2</sub> is determined by a VPD threshold, <italic>vpd</italic><sub><italic>BP</italic></sub> (Figure <xref ref-type="fig" rid="F2">2D</xref>, denoted in blue). The potential utility of genotypes with variation in <italic>m</italic><sub>1</sub> or <italic>m</italic><sub>2</sub>, or combinations of VPD-breakpoints and values of <italic>m</italic><sub>2</sub> was examined. Modeling enabled the impact of various combinations of VPD-traits on the time course of biomass accumulation, LAI development and soil water extraction dynamics to be investigated.</p>
+      </sec>
+      <sec>
+        <title>Modeling genotypes that vary in <italic>m</italic><sub>1</sub> that lack VPD-breakpoints</title>
+        <p>Modeling was used initially to investigate genotypes that vary in <italic>m</italic><sub>1</sub> slopes that lack a <italic>vpd</italic><sub><italic>BP</italic></sub> (Figure <xref ref-type="fig" rid="F3">3</xref>). Specifically, Tx436 (<italic>m</italic><sub>1</sub> = 6.62; Choudhary et al., <xref rid="B12" ref-type="bibr">2013</xref>), BQL41 (<italic>m</italic><sub>1</sub> = 20.26; Choudhary et al., <xref rid="B12" ref-type="bibr">2013</xref>), BTx623 (<italic>m</italic><sub>1</sub> = 56.3; Gholipoor et al., <xref rid="B20" ref-type="bibr">2010</xref>) and a hypothetical extreme (<italic>m</italic><sub>1</sub> = 200.0) were simulated using the VPD-limited transpiration modification with no <italic>vpd</italic><sub><italic>BP</italic></sub> (<italic>m</italic><sub>1</sub> = <italic>m</italic><sub>2</sub>) (Figure <xref ref-type="fig" rid="F3">3A</xref>). In fully irrigated conditions, genotypes with higher values of <italic>m</italic><sub>1</sub> accumulated more biomass (Figure <xref ref-type="fig" rid="F3">3F</xref>). A modeled genotype similar to BTx623 (<italic>m</italic><sub>1</sub> = 56.3) accumulated almost twice as much biomass (an additional ~26 Mg/ha) compared to Tx436 (<italic>m</italic><sub>1</sub> = 6.62) under these conditions (Figure <xref ref-type="fig" rid="F3">3F</xref>). Values of <italic>m</italic><sub>1</sub> &gt; 56.3 did not increase end-point biomass accumulation. Interestingly, the genotype with an <italic>m</italic><sub>1</sub> = 20.26 (BQL41) accumulated less biomass during the first 75 days of development in fully irrigated conditions compared to BTx623 (<italic>m</italic><sub>1</sub> = 56.3), however biomass accumulation by the two genotypes was similar between 75 and 200 DAS. This occurred because later in the season when the genotypes reached canopy closure and VPD was higher, both genotypes extracted the maximum available soil water each day.</p>
+        <fig id="F3" position="float">
+          <label>Figure 3</label>
+          <caption>
+            <p><bold>Energy sorghum biomass accumulation from 2000 to 2014 cropping seasons simulated in College Station, TX, with water supply regimes of unlimited irrigation and only rainfed. (A–H)</bold> Growth simulation of plants with no <italic>vpd</italic><sub><italic>BP</italic></sub> (<italic>m</italic><sub>1</sub> = <italic>m</italic><sub>2</sub>) are plotted with continuous colored lines that correspond to their <italic>m</italic><sub>1</sub> ∈ {6.62, 20.26, 56.3, 200}. <bold>(C,F)</bold> Cumulative biomass, <bold>(D,G)</bold> leaf area index (LAI), and <bold>(E,H)</bold> extractable soil water are plotted as the means and 98% confidence intervals estimated with 50,000 bootstraps for the respective rainfed and unlimited irrigation conditions.</p>
+          </caption>
+          <graphic xlink:href="fpls-08-00335-g0003"/>
+        </fig>
+        <p>In rainfed cropping conditions a genotype with an <italic>m</italic><sub>1</sub> of 56.3 was predicted to yield approximately 2.5 kg m<sup>−2</sup> approximately 50% less biomass than in non-water limiting conditions (Figure <xref ref-type="fig" rid="F3">3C</xref>). In rainfed environments, increased values of <italic>m</italic><sub>1</sub> on average also resulted in higher biomass accumulation, however, the benefit of a higher <italic>m</italic><sub>1</sub> in water limited environments was much smaller than in fully irrigated conditions (~1–3 Mg/ha) (Figure <xref ref-type="fig" rid="F3">3C</xref>). While biomass accumulation was positively related to larger <italic>m</italic><sub>1</sub> values, it came at the expense of leaf area development and maintenance under water limiting conditions (Figure <xref ref-type="fig" rid="F3">3D</xref>). During the first 60–75 days of crop development, genotypes with larger <italic>m</italic><sub>1</sub> (BTx623) accumulated biomass more rapidly in rainfed and fully irrigated environments compared to genotypes with lower <italic>m</italic><sub>1</sub> values. The rate of LAI increase was similar in all genotypes until ~60 DAS because leaf area development in all genotypes was limited by thermal time in the model. Genotypes with larger <italic>m</italic><sub>1</sub> values use water more rapidly therefore by 60 DAS the genotype with an <italic>m</italic><sub>1</sub> = 56.3 (BTx623) had depleted ~50% of available soil water in rainfed environments, more than the other genotypes (Figure <xref ref-type="fig" rid="F3">3E</xref>). For a genotype similar to BTx623, lack of sufficient water supply in rainfed environments constrained biomass accumulation and leaf area development for the remainder of the season (Figures <xref ref-type="fig" rid="F3">3C, D</xref>). Compared to a genotype with a genotype with an <italic>m</italic><sub>1</sub> = 56.3, genotypes with lower <italic>m</italic><sub>1</sub> values used water more slowly and accumulated less biomass in rainfed and fully irrigated conditions (Figures <xref ref-type="fig" rid="F3">3C,F</xref>). In rainfed conditions, slower use of water provided additional thermal time for canopy development before soil water was depleted resulting in higher LAI (Figure <xref ref-type="fig" rid="F3">3D</xref>). In rainfed environments, modeling predicted that LAI would decrease once soil water resources were expended beginning about 100 DAS (Figures <xref ref-type="fig" rid="F3">3D,E</xref>). LAI declined sooner in genotypes with higher <italic>m</italic><sub>1</sub> because they used up water resources more rapidly. Despite lower leaf area after 150 days in rainfed environments, genotypes with higher <italic>m</italic><sub>1</sub> (56.3, 20.26) accumulated similar amounts of biomass between 150 and 200 DAS on average over the 14 years analyzed as the genotype with a lower <italic>m</italic><sub>1</sub> (Tx436, <italic>m</italic><sub>1</sub> = 6.62)</p>
+      </sec>
+      <sec>
+        <title>Modeling energy sorghum genotypes with VPD-breakpoints and variation in <italic>m</italic><sub>2</sub></title>
+        <p>The VPD-limited transpiration trait model was next used to model energy sorghum genotypes that regulate transpiration using a <italic>vpd</italic><sub><italic>BP</italic></sub> where the slope of the transpiration rate response to VPD changes from <italic>m</italic><sub>1</sub> to <italic>m</italic><sub>2</sub>. BQL41 is characterized by a low <italic>vpd</italic><sub><italic>BP</italic></sub> of 1.17 kPA and the genotype's transpiration response to VPD is postulated to improve performance of grain sorghum in water limited environments (Choudhary et al., <xref rid="B12" ref-type="bibr">2013</xref>). To examine the physiological effect of BQL41's low <italic>vpd</italic><sub><italic>BP</italic></sub> on biomass yield and water use efficiency of bioenergy sorghum in water-limited environments, biomass accumulation of a VPD-limited transpiration trait that reflects the <italic>m</italic><sub>1</sub> and <italic>vpd</italic><sub><italic>BP</italic></sub> of BQL41 was combined with variation in <italic>m</italic><sub>2</sub> values. Five <italic>m</italic><sub>2</sub> values were evaluated: (a) <italic>m</italic><sub>2</sub> = 7.27, the transpiration rate that was experimentally obtained from the BQL41 genotype, (b) <italic>m</italic><sub>2</sub> = 0.0, a maximum transpiration rate which reflects how VPD-limited transpiration was modeled previously (Sinclair et al., <xref rid="B53" ref-type="bibr">2005</xref>; Kholová et al., <xref rid="B29" ref-type="bibr">2014</xref>; Messina et al., <xref rid="B40" ref-type="bibr">2015</xref>), (c) <italic>m</italic><sub>2</sub> = 20.26, a response that reflects a lack of a <italic>vpd</italic><sub><italic>BP</italic></sub> (i.e., <italic>m</italic><sub>1</sub> = <italic>m</italic><sub>2</sub> = 20.26), (d) <italic>m</italic><sub>2</sub> = −6.1, and (e) <italic>m</italic><sub>2</sub> = −12.49 transpiration responses to VPD that were experimentally obtained from SC803 and SC35 genotypes by Gholipoor et al. (<xref rid="B20" ref-type="bibr">2010</xref>) and Choudhary et al. (<xref rid="B12" ref-type="bibr">2013</xref>), respectively (Table <xref ref-type="table" rid="T3">3</xref>). In rainfed College Station environments the total biomass accumulated by each of the genotypes with VPD-breakpoints investigated ranked from largest to smallest was: 2.35 kg m<sup>−2</sup> (SC803; <italic>m</italic><sub>2</sub> = −6.1), 2.31 kg m<sup>−2</sup> (no <italic>vpd</italic><sub><italic>BP</italic></sub>; <italic>m</italic><sub>2</sub> = 20.26), 2.29 kg m<sup>−2</sup> (maximum limited transpiration; <italic>m</italic><sub>2</sub> = 0), 2.28 kg m<sup>−2</sup> (BQL41; <italic>m</italic><sub>2</sub> = 7.27), and 2.25 kg m<sup>−2</sup> (SC35; <italic>m</italic><sub>2</sub> = −12.49) (Supplemental Table <xref ref-type="supplementary-material" rid="SM1">1</xref>). In these simulations, SC803 (<italic>m</italic><sub>2</sub> = −6.1) marginally outperformed the genotype lacking a <italic>vpd</italic><sub><italic>BP</italic></sub> over a 14 year average by 1.6 % (Supplemental Table <xref ref-type="supplementary-material" rid="SM1">1</xref>).</p>
+        <table-wrap id="T3" position="float">
+          <label>Table 3</label>
+          <caption>
+            <p><bold>VPD-limited transpiration parameters { <italic>m</italic><sub>1</sub>, <italic>m</italic><sub>2</sub>, <italic>vpd</italic><sub><italic>BP</italic></sub> } of genotypes used in this study</bold>.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Genotype</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <italic>
+                    <bold>m</bold>
+                  </italic>
+                  <bold>
+                    <sub>1</sub>
+                  </bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <italic>
+                    <bold>m</bold>
+                  </italic>
+                  <bold>
+                    <sub>2</sub>
+                  </bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <italic>
+                    <bold>vpd</bold>
+                  </italic>
+                  <bold>
+                    <sub>
+                      <italic>BP</italic>
+                    </sub>
+                  </bold>
+                </th>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Literature</bold>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">BQL41</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">20.26</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">7.27</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.17</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Choudhary et al., <xref rid="B12" ref-type="bibr">2013</xref></td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">BTx623</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">56.3</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">10.4</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.05</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Gholipoor et al., <xref rid="B20" ref-type="bibr">2010</xref></td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">SC803</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">39.8</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">−6.1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.29</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Gholipoor et al., <xref rid="B20" ref-type="bibr">2010</xref></td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">SC35</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">8.96</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">−12.49</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.91</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Choudhary et al., <xref rid="B12" ref-type="bibr">2013</xref></td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Tx436</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6.62</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">−</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">−</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Choudhary et al., <xref rid="B12" ref-type="bibr">2013</xref></td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p><italic>These values were experimentally obtained from their respective citations</italic>.</p>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>The relatively small improvement in biomass yield in genotypes with VPD-breakpoints was further analyzed to identify trade-offs that occur over the course of the growing season in the rainfed environments of College Station, TX (Supplemental Figure <xref ref-type="supplementary-material" rid="SM1">2</xref>). The genotypes with a <italic>vpd</italic><sub><italic>BP</italic></sub> have slower growth and biomass accumulation at the beginning of the season (through 100 DAS) and accumulate more biomass during the latter part of the season (Supplemental Figure <xref ref-type="supplementary-material" rid="SM1">3D</xref>). This shift in the timing of water use from early in the season to the summer months when VPD is higher may contribute to lower biomass yield even though the trait partially mitigates the influence of higher VPD. Genotypes with the lower <italic>m</italic><sub>2</sub> reach a higher LAI between 100 and 150 DAS than the genotypes with the higher <italic>m</italic><sub>2</sub> (Supplemental Figure <xref ref-type="supplementary-material" rid="SM1">2</xref>). This trend in genotypes with higher <italic>m</italic><sub>2</sub> is correlated with a reduced rate of depletion of extractable soil water that allows for a longer period of canopy production (Supplemental Figure <xref ref-type="supplementary-material" rid="SM1">2F</xref>). Most genotypes show a significant loss of LAI once soil water supply is depleted beginning between 100 and 150 DAS depending on genotype (Supplemental Figures <xref ref-type="supplementary-material" rid="SM1">2E,F</xref>). Genotypes with a low <italic>m</italic><sub>2</sub> such as SC35 maintain higher LAI for the remainder of the growing season (Supplemental Figure <xref ref-type="supplementary-material" rid="SM1">2E</xref>).</p>
+        <p>Since the VPD-limited transpiration trait has a negative impact on biomass accumulation during the early portion of the season, but a potentially beneficial impact during the summer months, a simulation was run where the trait was induced after 75 DAS in a terminal drought environment to better understand the dynamics involved (Supplemental Figure <xref ref-type="supplementary-material" rid="SM1">3</xref>). In this simulation, the VPD-limited transpiration trait reduced the rate of water utilization, delayed the onset of leaf senescence, and increased water use efficiency and biomass accumulation. A genotype with no breakpoint accumulated 0.85 kg m<sup>−2</sup>, whereas genotypes with VPD-limited transpiration accumulated 1.2 kg m<sup>−2</sup> between 75 DAS until all soil water was extracted. Simulations showed that induction of the VPD-limited transpiration trait under well watered conditions reduced biomass yield (Supplemental Figure <xref ref-type="supplementary-material" rid="SM1">3F</xref>).</p>
+      </sec>
+      <sec>
+        <title>Integrated modeling of VPD-traits</title>
+        <p>The differences in biomass accumulation relative to timing of water limitation indicates that the benefits of the VPD-limited transpiration trait are greater when VPD is high and water supply is limiting during the cropping season. To examine this dynamic further, years in the College Station cropping environment were identified where the average rainfall per day fell below 1.2 mm between DAS 107–139 given a 75-day sliding window average (Figures <xref ref-type="fig" rid="F4">4A,B</xref>). On average, years with lower rainfall from 107 to 139 DAS also had lower total rainfall and higher average VPD (Supplemental Table <xref ref-type="supplementary-material" rid="SM1">1</xref>). Applying this criterion to rainfed cropping environments of College Station, TX, for 2000—2014, and then evaluating the previous combination of <italic>m</italic><sub>1</sub>, <italic>m</italic><sub>2</sub>, and <italic>vpd</italic><sub><italic>BP</italic></sub> indicated that the VPD-limited transpiration trait is beneficial in the more water-limited environments, since VPD-limited transpiration plants with negative <italic>m</italic><sub>2</sub> parameters always yielded greater biomass (Figures <xref ref-type="fig" rid="F4">4A–C</xref>, Supplemental Table <xref ref-type="supplementary-material" rid="SM1">1</xref>). For example, the sorghum genotype with maximum limited-transpiration (<italic>m</italic><sub>2</sub> = 0) on average yielded more biomass than a sorghum genotype lacking a <italic>vpd</italic><sub><italic>BP</italic></sub> (<italic>m</italic><sub>2</sub> = <italic>m</italic><sub>1</sub> = 20.26) in the water-limited low yield environments (Supplemental Figure <xref ref-type="supplementary-material" rid="SM1">4</xref>). Moreover, differences in predicted canopy maintenance was correlated with, and may help explain why VPD-limited transpiration plants outperform their non-limited transpiration counterparts (Figures <xref ref-type="fig" rid="F4">4D,E</xref>). In summary, more restrictive transpiration responses associated with more negative <italic>m</italic><sub>2</sub> values perform progressively better in water-limited, low-yielding environments that lead to loss of canopy, but progressively worse in higher rainfall conditions (Figures <xref ref-type="fig" rid="F4">4A,B</xref>).</p>
+        <fig id="F4" position="float">
+          <label>Figure 4</label>
+          <caption>
+            <p><bold>Performance of genotypes with VPD-limited transpiration traits determined in years with low and higher rainfall from 107 to 139 DAS and determined by canopy maintenance. (C)</bold> Boxplots show the biomass difference across 14 years between genotypes with a VPD-limited transpiration trait and the genotype that lacks a <italic>vpd</italic><sub><italic>BP</italic></sub> (<italic>m</italic><sub>2</sub> = 20.26). The notches represent the 95% confidence interval of the median. The red square represents the means. These statistics are plotted against end biomass accumulated (DAS 200) by the genotype that lacks a <italic>vpd</italic><sub><italic>BP</italic></sub>, where the vertical sets of plots are separated by years categorized on the <bold>(A,B)</bold> water supply condition and <bold>(D,E)</bold> canopy divergence condition. <bold>(A,B)</bold> For the drought condition, rainfall per day is calculated from sliding windows of 75 days. For sliding windows that center from DAS 107 to 139, if the average rainfall per day ever falls below 1.2 mm, then the year is considered a drought year. The mean, standard deviation, and entire range of rainfall in sliding windows for the years considered low and high are plotted, respectively. The center of sliding windows evaluated for the water supply condition is highlighted orange. <bold>(D,E)</bold> For the canopy divergence condition, where the vertical sets of plots are separated by the condition that occurs in the latter half of the cropping season. For each year, for each pairwise comparison between a genotype with and without a <italic>vpd</italic><sub><italic>BP</italic></sub>, and for each day in the latter half of the cropping season (≥ 100 DAS), if the canopy of genotype lacking a <italic>vpd</italic><sub><italic>BP</italic></sub> senesced (&lt; 0.5 LAI) and the genotype with a <italic>vpd</italic><sub><italic>BP</italic></sub> maintained a larger canopy, then VPD-limited transpiration genotype (with a <italic>vpd</italic><sub><italic>BP</italic></sub>) was predicted to out perform the genotype lacking a <italic>vpd</italic><sub><italic>BP</italic></sub>. LAI is plotted as averages of the conditions met and the 12.5–87.5 inter-percentile range.</p>
+          </caption>
+          <graphic xlink:href="fpls-08-00335-g0004"/>
+        </fig>
+        <p>To examine the influence of all three parameters describing VPD-limited transpiration, <italic>vpd</italic><sub><italic>BP</italic></sub> and <italic>m</italic><sub>2</sub> were varied within the genetic range observed to date for sorghum, and their impact on biomass yields given different <italic>m</italic><sub>1</sub> parameters were evaluated (<italic>m</italic><sub>1</sub> ∈ {6.62, 20.26, 56.3}). A range of <italic>vpd</italic><sub><italic>BP</italic></sub> values (<italic>vpd</italic><sub><italic>BP</italic></sub> ∈ [1.17, 2.91]) representing the range bounded by BQL41 and SC35, respectively, and <italic>m</italic><sub>2</sub> values (<italic>m</italic><sub>2</sub> ∈ [−12.49, 56.3]), the range bounded by SC35 and BTX623, respectively, were explored (Gholipoor et al., <xref rid="B20" ref-type="bibr">2010</xref>; Choudhary et al., <xref rid="B12" ref-type="bibr">2013</xref>). Combinations of these parameters were simulated in rainfed College Station, TX, environments of 2000—2014 cropping seasons (Figure <xref ref-type="fig" rid="F5">5</xref>). The total biomass accumulated at 200 DAS was used as a measurement of seasonal crop productivity. These productivity landscapes illustrate the influence of VPD-limited transpiration traits, and indicate that, on average, in the target environment of College Station, TX, <italic>m</italic><sub>1</sub> is the greatest driver of average productivity of the sorghum crop. All simulated genotypes with an <italic>m</italic><sub>1</sub> = 56.3 produced more biomass than those with an <italic>m</italic><sub>1</sub> = 20.26 or 6.62, regardless of <italic>m</italic><sub>2</sub> and <italic>vpd</italic><sub><italic>BP</italic></sub>. Contour plots of the three <italic>m</italic><sub>1</sub> values show that the extent of phenotypic variation introduced by the other two parameters <italic>m</italic><sub>2</sub> and <italic>vpd</italic><sub><italic>BP</italic></sub> is influenced by the magnitude of <italic>m</italic><sub>1</sub>, where the variation in cumulative biomass increases as <italic>m</italic><sub>1</sub> decreases.</p>
+        <fig id="F5" position="float">
+          <label>Figure 5</label>
+          <caption>
+            <p><bold>Landscapes of energy sorghum productivity for varying <italic>m</italic><sub>1</sub>, <italic>m</italic><sub>2</sub> and <italic>vpd</italic><sub><italic>BP</italic></sub> within the observed phenotypic parameters. End biomass at 200 DAS predicted from rainfed College Station, TX (2000 – 2014) was used as a measure of productivity. (A)</bold>
+<italic>m</italic><sub>1</sub> was varied to reflect the extremes (6.62, Tx426, and 56.3, BTx623) and a moderate transpiration rate (20.26, BQL41). <bold>(B)</bold>
+<italic>m</italic><sub>2</sub> ∈ [−12.49, 56.3] and <italic>vpd</italic><sub><italic>BP</italic></sub> ∈ [1.17, 2.91] are evaluated for each <italic>m</italic><sub>1</sub> and the predicted average end biomass was interpolated to construct the topological surfaces. <bold>(D–E)</bold> The topology of each <italic>m</italic><sub>1</sub> surface is also plotted two-dimensionally, with contour lines to depict variation of end biomass at 200 DAS. The red star in panel (<bold>D</bold>) represents the VPD-limited transpiration parameters of BQL41.</p>
+          </caption>
+          <graphic xlink:href="fpls-08-00335-g0005"/>
+        </fig>
+        <p>The results of modeling show that genotypes with a high <italic>m</italic><sub>1</sub> (~56) accumulate more biomass when soil water resources are not limiting during the early portion of the season, and that the VPD-breakpoint trait is beneficial when water is limiting during the middle of the growing season when VPD is higher. There may exist a theoretical <italic>m</italic><sub>2</sub> for <italic>m</italic><sub>1</sub> = 56.3 that would be predicted to increase productivity beyond the 0.2% in the observed parameter space. For an <italic>m</italic><sub>1</sub> = 56.3, the exploration of a theoretical <italic>m</italic><sub>2</sub> outside what has been previously observed for VPD-limited-transpiration predicted that an <italic>m</italic><sub>2</sub> = −290 with a <italic>vpd</italic><sub><italic>BP</italic></sub> = 2.05 would increase biomass by 6.5%, yielding an average of 2.73 kg m<sup>−2</sup> in rainfed College Station, TX (2000-2014) (Figure <xref ref-type="fig" rid="F6">6</xref>). This extreme <italic>m</italic><sub>2</sub> = −290 would be reflective of a genotype that essentially stops transpiration at VPDs higher than its <italic>vpd</italic><sub><italic>BP</italic></sub>. Furthermore, observation of the fitness landscape suggests that it is not essential to find the exact combination of <italic>vpd</italic><sub><italic>BP</italic></sub> and <italic>m</italic><sub>2</sub>, but that there is a gradual ridge constructed by combinations of the two VPD-limited transpiration parameters that would improve biomass accumulation by ≥5% (Figure <xref ref-type="fig" rid="F6">6</xref>). This ridge shows the relationship between the <italic>vpd</italic><sub><italic>BP</italic></sub> and <italic>m</italic><sub>2</sub> for increasing biomass by ≥5% in rainfed College Station, TX (2000–2014) in the VPD-limited transpiration diagram, where as <italic>vpd</italic><sub><italic>BP</italic></sub> increased, the range of <italic>m</italic><sub>2</sub> parameters that could be combined for beneficial productivity increases. This relationship with <italic>vpd</italic><sub><italic>BP</italic></sub> is likely related to the effect of VPD on transpiration efficiency, <italic>TE</italic>, which is inversely proportional to VPD through the <italic>TE</italic><sub><italic>c</italic></sub> coefficient: <inline-formula><mml:math id="M9"><mml:mi>T</mml:mi><mml:mi>E</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mi>T</mml:mi><mml:msub><mml:mrow><mml:mi>E</mml:mi></mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mi>v</mml:mi><mml:mi>p</mml:mi><mml:mi>d</mml:mi></mml:mrow></mml:mfrac></mml:math></inline-formula>.</p>
+        <fig id="F6" position="float">
+          <label>Figure 6</label>
+          <caption>
+            <p><bold>Theoretical energy sorghum productivity landscape</bold>. A combination of <italic>m</italic><sub>1</sub> = 56.3 representing BTx623, a range of <italic>vpd</italic><sub><italic>BP</italic></sub> values (<italic>vpd</italic><sub><italic>BP</italic></sub> ∈ [1.17, 2.91]) representing BQL41 and SC35, and a range of <italic>m</italic><sub>2</sub> values (<italic>m</italic><sub>2</sub> ∈ [−1000, −10]) beyond the observed genotypic parameters were evaluated for end biomass in rainfed College Station, TX, cropping environments 2000 – 2014, and their averages are interpolated to create the topology of end productivity.</p>
+          </caption>
+          <graphic xlink:href="fpls-08-00335-g0006"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="s4">
+      <title>Discussion</title>
+      <p>Crop modeling and structure-function trait analyses can be used to help identify constraints that limit plant productivity, assess the benefits of traits, and to increase productivity by optimizing crop deployment across variable environments. Since energy sorghum is a relatively new C4 grass biomass crop with an unusually long vegetative growth phase, crop modeling could help identify traits useful to select in breeding programs. The APSIM bioenergy sorghum model developed in this study was able to replicate the developmental time course of leaf area development, leaf number, plant height and biomass accumulation observed in field trials in College Station, Texas. Field data from other locations/years and from newer energy sorghum hybrids would be useful to further validate and enhance the accuracy of modeling predictions. In addition, collection of detailed information on soil profiles, root system development, architecture, rates of soil water extraction and information on water deficit induced changes in ABA levels would further improve the energy sorghum model and to enable modeling of root traits in conjunction with canopy architecture and VPD-transpiration traits.</p>
+      <p>Model evaluation was done using the College Station, TX, cropping environment, a location with a long growing season (~200 days) and hot and dry summers where bioenergy sorghum hybrids are currently under selection in a breeding program. In fully irrigated conditions, modeling and field data show that energy sorghum has the genetic potential to accumulate ~50 Mg/hectare per year (Olson et al., <xref rid="B46" ref-type="bibr">2012</xref>). However, due to sorghum's water use efficiency and drought resilience during the vegetative phase, it is likely that energy sorghum will often be grown in water limited environments less suitable for other crops. Under rainfed conditions where the median rainfall over the growing season used for the simulations was 52.3 cm, bioenergy sorghum is projected to yield approximately 25 Mg hectare<sup>−1</sup> per year. This model prediction is consistent with the biomass yield of TX08001 (~15–26 Mg hectare<sup>−1</sup>) grown without irrigation in large plots that were machine harvested in 2008 and 2009 (Olson et al., <xref rid="B46" ref-type="bibr">2012</xref>). Modeling of energy sorghum production in this location based on 2000–2014 environments indicated that energy sorghum would capture additional water resources and increase biomass yield by ~30% by extending the growing season from ~100–120 days typical of grain crops to 200 days. A crop designed to capture the additional water resources during a long growing season in this environment would benefit from high water use efficiency and resilience to water deficit. Sorghum exhibits many useful traits for water limited environments including high cuticular wax, deep rooting capacity, induction of leaf rolling and osmotic adjustment in response to water deficit, stay-green, and VPD-limited transpiration traits (Borrell et al., <xref rid="B5" ref-type="bibr">2006</xref>). In this study the APSIM bioenergy sorghum model was used to examine the utility of VPD-limited transpiration traits by evaluating the impact of VPD modulated transpiration in hourly intervals during the day. The model extension was used to identify the benefits and trade-offs associated VPD-limited transpiration traits during growing seasons using College Station, TX environments as the context for this case study (mean ± SD: 56 ± 18 cm of rainfall per cropping season for 2000–2014).</p>
+      <p>Prior studies demonstrated that limited transpiration can result in improved grain yield in drought and heat stressed environments by shifting water utilization from the vegetative and booting phases to the anthesis and post anthesis phases where grain yield is more sensitive to water deficit (Sinclair et al., <xref rid="B53" ref-type="bibr">2005</xref>; Kholová et al., <xref rid="B29" ref-type="bibr">2014</xref>; Messina et al., <xref rid="B40" ref-type="bibr">2015</xref>). This change in the timing of water use improves harvest index and reduces the risk of large reductions in grain associated with water limitation during the reproductive phase (Messina et al., <xref rid="B40" ref-type="bibr">2015</xref>). The improvement is not attained if water is not sufficiently limited, an emergent property associated with limited transpiration traits in grain sorghum (Kholová et al., <xref rid="B29" ref-type="bibr">2014</xref>; Hammer et al., <xref rid="B25" ref-type="bibr">2016</xref>). We hypothesized that VPD-limited transpiration traits could also be beneficial for energy sorghum but for different reasons since the crop is harvested for biomass and grows most of the season in the vegetative phase. The analysis showed that restriction of transpiration by reducing <italic>m</italic><sub>1</sub> or by VPD-limited transpiration involving low VPD-breakpoints, reduced biomass accumulation early in the season and that this had a negative impact on overall biomass yield. There are several factors that could explain this prediction. First, at the start of the growing season the soil profile is saturated and excess rainfall is not captured due to run off until a portion of the soil water has been used for biomass production or is lost through evaporation. In this part of the season, modeling showed that genotypes with high <italic>m</italic><sub>1</sub> values like BTx623 that accumulate biomass and use water at a high rate outperform genotypes with lower <italic>m</italic><sub>1</sub> values. If a higher rate of biomass accumulation also results in more rapid leaf area development, then this would increase the efficiency of radiation interception during the phase of canopy development (0–60 DAS). However, the results showed that a higher biomass accumulation rate did not influence LAI development, a topic worth further investigation. Second, shifting water use for biomass accumulation from the early portion of the season (0–75 DAS) when average VPD is lower to later in the season (75–150 DAS) when VPD is higher and TE is lower reduces water use efficiency. The negative impact of this shift in the timing of water use can be mitigated in part by VPD-breakpoint limited transpiration traits. However, genotypes with current <italic>vpd</italic><sub><italic>BP</italic></sub> and <italic>m</italic><sub>2</sub> values still use water at higher VPD in the summer, although at lower rates, compared to water used at lower VPD during the first portion of the planting season. This interpretation is consistent with the predicted benefits of a theoretical <italic>m</italic><sub>2</sub> that completely shuts off transpiration above the <italic>vpd</italic><sub><italic>BP</italic></sub>. In that hypothetical genotype, transpiration would be restricted to VPD below the breakpoint during the entire growing season mitigating the impact of shifting the seasonal timing of water use. Third, in high rainfall years, VPD-limited transpiration could reduce the use of all available water resources for biomass production, especially when significant rainfall occurs in the last 60 days of the growing season. These trade-offs may help explain why in optimization simulations (Figure <xref ref-type="fig" rid="F5">5</xref>), genotypes with higher <italic>m</italic><sub>1</sub> values and higher VPD-breakpoints (i.e., <italic>m</italic><sub>1</sub> = 56.3, <italic>vpd</italic><sub><italic>BP</italic></sub> = 2.05) were found to accumulate more biomass in the environments analyzed because these parameters allowed maximal biomass accumulation early in the growing season.</p>
+      <p>The value of <italic>vpd</italic><sub><italic>BP</italic></sub> and <italic>m</italic><sub>2</sub> traits that restrict use of water during portions of the day with high VPD and low TE for energy sorghum was evident during the summer months when VPD is high and water supply is limited. In a simulated summer terminal drought environment, genotypes with this type of VPD-limited transpiration trait accumulated more biomass compared to genotypes lacking the trait consistent with higher TE (Supplemental Figure <xref ref-type="supplementary-material" rid="SM1">3</xref>). The trait also slowed the use of water and delayed the onset of leaf senescence that begins when most of the soil water supply has been depleted. The delay or reduction in the extent of leaf senescence during summers with low rainfall would improve the crop's ability to use rainfall that occurs in the fall for biomass accumulation without the added cost and delay involved in rebuilding the canopy. The value of the VPD-limited transpiration trait was also found to be higher in environments with more elevated VPD and lower rainfall. Examining the rainfall distribution and its effect on VPD-limited transpiration trait impacts showed that in years when water supply was low during the summer months, genotypes with <italic>m</italic><sub>2</sub> = −12.49 gained 20% more biomass than genotypes lacking a <italic>vpd</italic><sub><italic>BP</italic></sub>. However, in years with higher summer rainfall these genotypes generate 10% less biomass, illustrating the trade-off associated with this trait (Supplemental Table <xref ref-type="supplementary-material" rid="SM1">1</xref>).</p>
+      <p>Efforts to identify optimal trait ideotypes for specific crops and environments has been promoted as a way to speed up the rate of crop genetic improvement. For example, a maize root ideotype that is steep, deep and cheap has been identified and used to guide genotype selection and testing (Lynch, <xref rid="B34" ref-type="bibr">2013</xref>). Consideration of the benefits and trade-offs of VPD-limited transpiration in energy sorghum in this study suggest that a beneficial ideotype would combine; (i) a high <italic>m</italic><sub>1</sub> and rapid leaf area development during the early portion of the season to maximize biomass accumulation under conditions of low VPD and high water supply and, (ii) induction of a VPD-limited transpiration trait (<italic>m</italic><sub>2</sub> &lt; −200) later in the season when VPD is higher, possibly in response to water deficit. Prior research showed that traits that limit transpiration can be environmentally triggered by changes in VPD (Lobet et al., <xref rid="B33" ref-type="bibr">2014</xref>; Vadez et al., <xref rid="B59" ref-type="bibr">2014</xref>; McAdam and Brodribb, <xref rid="B35" ref-type="bibr">2015</xref>), by altering the level/activity of root aquaporins (Choudhary and Sinclair, <xref rid="B13" ref-type="bibr">2014a</xref>), and by foliar accumulation of the phytohormone abscisic acid (ABA) (Assmann et al., <xref rid="B1" ref-type="bibr">2000</xref>; Bauer et al., <xref rid="B2" ref-type="bibr">2013</xref>; McAdam and Brodribb, <xref rid="B35" ref-type="bibr">2015</xref>; McAdam et al., <xref rid="B36" ref-type="bibr">2015</xref>) that reduces stomatal aperture and plant transpiration (Tardieu and Davies, <xref rid="B56" ref-type="bibr">1992</xref>; Parent et al., <xref rid="B47" ref-type="bibr">2009</xref>; Boyer, <xref rid="B7" ref-type="bibr">2010</xref>; Cutler et al., <xref rid="B15" ref-type="bibr">2010</xref>). Stomatal closure can be further engineered via the ABA pathway, whereby application of agrochemicals on plants expressing genetically engineered ABA receptors drastically reduces transpiration on demand (Park et al., <xref rid="B48" ref-type="bibr">2015</xref>). Genetic engineering approaches like these may provide a means to design plants with inducible and more negative <italic>m</italic><sub>2</sub> that enhance biomass yield in water limited environments. This type of genotype would be useful for environments that experience summer water deficit or terminal drought.</p>
+      <p>Determining target production environments for energy sorghum with VPD-limited transpiration will be critical for capturing the utility of the trait as well as in screening for energy sorghum hybrids that exhibit VPD-limited transpiration (Tardieu, <xref rid="B55" ref-type="bibr">2012</xref>). Given the ideotype described above, selection for genotypes with high rates of LAI development and biomass accumulation during the first 75 DAS, combined with selection for genotypes that show delayed leaf senescence under water limiting conditions could be employed. Numerous QTL for stay-green have been identified in sorghum, and a subset of these loci may modulate VPD-traits that restrict transpiration at high VPD. High resolution yield mapping, and landscape models are being used to optimize crop productivity, yield stability, and return on investment by considering alternative distributions of available crops on perennial and annual cropland. For example, analysis of production regions in the US mid-west identified the potential utility of <italic>Miscanthus</italic>, a high biomass perennial C4 grass, for perennial cropland (Eranki et al., <xref rid="B18" ref-type="bibr">2013</xref>). In a similar way, energy sorghum, with its high biomass yield, water use efficiency and resilience to water deficit could be usefully deployed in annual cropland landscapes, including sub-portions of fields that have shallow soils that are more often subject to water deficit. The APSIM energy sorghum crop model could be used in conjunction with landscape design modeling to optimize utilization of this new high biomass crop.</p>
+      <p>In conclusion, this study (i) demonstrated that modeling of energy sorghum in the APSIM framework is able to track field growth and biomass accumulation in different environments, (ii) extended the daily APSIM-sorghum model to incorporate hourly VPD-limited transpiration, (iii) found that VPD-limited transpiration can improve crop productivity in water-limiting environments by increasing TE and by maintenance of crop canopies to enable utilization of sporadic rainfall, and (iv) this model is made available for further evaluation of bioenergy sorghum production in other targeted environments and for other traits such as facultative CAM (Borland et al., <xref rid="B4" ref-type="bibr">2009</xref>) that could further enhance water use efficiency and drought resilience.</p>
+    </sec>
+    <sec id="s5">
+      <title>Author contributions</title>
+      <p>ST developed and integrated the VPD-limited transpiration model. ST and RM parameterized the sorghum bioenergy crop model. ST, RM, and JM designed the experiments, analyzed the data, and wrote the manuscript.</p>
+    </sec>
+    <sec id="s6">
+      <title>Funding</title>
+      <p>This research was supported by the U.S. Department of Energy (DOE), Office of Science, Biological and Environmental Research (BER), award numbers DE-SC0012629 and DE-FC02-07ER64494 (Great Lakes Bioenergy Research Center), and by the U.S. DOE, Advanced Research Projects Agency-Energy (ARPA-E), award number DE-AR0000596. The views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof.</p>
+      <sec>
+        <title>Conflict of interest statement</title>
+        <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>The authors thank the developers and contributors of the APSIM framework, the APSIM-sorghum module, and the Python libraries matplotlib, pandas, and Seaborn for providing the open source software used for analyses and visualization. The authors also thank the reviewers for their feedback and suggestions on the manuscript.</p>
+    </ack>
+    <sec sec-type="supplementary-material" id="s7">
+      <title>Supplementary material</title>
+      <p>The Supplementary Material for this article can be found online at: <ext-link ext-link-type="uri" xlink:href="http://journal.frontiersin.org/article/10.3389/fpls.2017.00335/full#supplementary-material">http://journal.frontiersin.org/article/10.3389/fpls.2017.00335/full#supplementary-material</ext-link></p>
+      <supplementary-material content-type="local-data" id="SM1">
+        <media xlink:href="DataSheet1.PDF">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Assmann</surname><given-names>S. M.</given-names></name><name><surname>Snyder</surname><given-names>J. A.</given-names></name><name><surname>Lee</surname><given-names>Y. R. J.</given-names></name></person-group> (<year>2000</year>). <article-title>ABA-deficient (aba1) and ABA-insensitive (abi1-1, abi2-1) mutants of Arabidopsis have a wild-type stomatal response to humidity</article-title>. <source>Plant Cell Environ.</source>
+<volume>23</volume>, <fpage>387</fpage>–<lpage>395</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-3040.2000.00551.x</pub-id></mixed-citation>
+      </ref>
+      <ref id="B2">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bauer</surname><given-names>H.</given-names></name><name><surname>Ache</surname><given-names>P.</given-names></name><name><surname>Lautner</surname><given-names>S.</given-names></name><name><surname>Fromm</surname><given-names>J.</given-names></name><name><surname>Hartung</surname><given-names>W.</given-names></name><name><surname>Al-Rasheid</surname><given-names>K. A. S.</given-names></name><etal/></person-group>. (<year>2013</year>). <article-title>The stomatal response to reduced relative humidity requires guard cell-autonomous ABA synthesis</article-title>. <source>Curr. Biol.</source>
+<volume>23</volume>, <fpage>53</fpage>–<lpage>57</lpage>. <pub-id pub-id-type="doi">10.1016/j.cub.2012.11.022</pub-id><?supplied-pmid 23219726?><pub-id pub-id-type="pmid">23219726</pub-id></mixed-citation>
+      </ref>
+      <ref id="B3">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Birch</surname><given-names>C.</given-names></name><name><surname>Carberry</surname><given-names>P.</given-names></name><name><surname>Muchow</surname><given-names>R.</given-names></name><name><surname>McCown</surname><given-names>R.</given-names></name><name><surname>Hargreaves</surname><given-names>J.</given-names></name></person-group> (<year>1990</year>). <article-title>Development and evaluation of a sorghum model based on CERES-Maize in a semi-arid tropical environment</article-title>. <source>Field Crops Res.</source>
+<volume>24</volume>, <fpage>87</fpage>–<lpage>104</lpage>. <pub-id pub-id-type="doi">10.1016/0378-4290(90)90023-5</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Borland</surname><given-names>A. M.</given-names></name><name><surname>Griffiths</surname><given-names>H.</given-names></name><name><surname>Hartwell</surname><given-names>J.</given-names></name><name><surname>Smith</surname><given-names>J. A.</given-names></name></person-group> (<year>2009</year>). <article-title>Exploiting the potential of plants with crassulacean acid metabolism for bioenergy production on marginal lands</article-title>. <source>J. Exp. Bot.</source>
+<volume>60</volume>, <fpage>2879</fpage>–<lpage>2896</lpage>. <pub-id pub-id-type="doi">10.1093/jxb/erp118</pub-id><?supplied-pmid 19395392?><pub-id pub-id-type="pmid">19395392</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Borrell</surname><given-names>A.</given-names></name><name><surname>Jordan</surname><given-names>D.</given-names></name><name><surname>Mullet</surname><given-names>J.</given-names></name><name><surname>Henzell</surname><given-names>B.</given-names></name><name><surname>Hammer</surname><given-names>G.</given-names></name></person-group> (<year>2006</year>). <article-title>Drought Adaptation in Sorghum</article-title>, in <source>Drought Adaptation in Cereals</source>, ed <person-group person-group-type="editor"><name><surname>Ribaut Food</surname><given-names>J.-M.</given-names></name></person-group>(<publisher-loc>Binghamton, NY</publisher-loc>: <publisher-name>Products Press</publisher-name>), <fpage>335</fpage>–<lpage>399</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B6">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Boyer</surname><given-names>J. S.</given-names></name></person-group> (<year>1982</year>). <article-title>Plant productivity and environment</article-title>. <source>Science</source>
+<volume>218</volume>, <fpage>443</fpage>–<lpage>448</lpage>. <pub-id pub-id-type="doi">10.1126/science.218.4571.443</pub-id><?supplied-pmid 17808529?><pub-id pub-id-type="pmid">17808529</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Boyer</surname><given-names>J. S.</given-names></name></person-group> (<year>2010</year>). <article-title>Drought decision-making</article-title>. <source>J. Exp. Bot.</source>
+<volume>61</volume>, <fpage>3493</fpage>–<lpage>3497</lpage>. <pub-id pub-id-type="doi">10.1093/jxb/erq231</pub-id><?supplied-pmid 20667963?><pub-id pub-id-type="pmid">20667963</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Boyer</surname><given-names>J. S.</given-names></name><name><surname>Byrne</surname><given-names>P.</given-names></name><name><surname>Cassman</surname><given-names>K. G.</given-names></name><name><surname>Cooper</surname><given-names>M.</given-names></name><name><surname>Delmer</surname><given-names>D.</given-names></name><name><surname>Greene</surname><given-names>T.</given-names></name><etal/></person-group> (<year>2013</year>). <article-title>The U.S. drought of 2012 in perspective: A call to action</article-title>. <source>Glob. Food Secur.</source>
+<volume>2</volume>, <fpage>139</fpage>–<lpage>143</lpage>. <pub-id pub-id-type="doi">10.1016/j.gfs.2013.08.002</pub-id></mixed-citation>
+      </ref>
+      <ref id="B9">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Bruinsma</surname><given-names>J.</given-names></name></person-group> (<year>2009</year>). <source>The Resource Outlook to 2050. By How Much do Land, Water Use and Crop Yields Need to Increase by 2050?</source>
+<publisher-loc>Rome</publisher-loc>: <publisher-name>World Summit on Food Security</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chapman</surname><given-names>S.</given-names></name><name><surname>Cooper</surname><given-names>M.</given-names></name><name><surname>Hammer</surname><given-names>G.</given-names></name><name><surname>Butler</surname><given-names>D.</given-names></name></person-group> (<year>2000a</year>). <article-title>Genotype by environment interactions affecting grain sorghum. II. Frequencies of different seasonal patterns of drought stress are related to location effects on hybrid yields</article-title>. <source>Crop Pasture Sci.</source>
+<volume>51</volume>, <fpage>209</fpage>–<lpage>222</lpage>. <pub-id pub-id-type="doi">10.1071/AR99021</pub-id></mixed-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chapman</surname><given-names>S.</given-names></name><name><surname>Hammer</surname><given-names>G.</given-names></name><name><surname>Butler</surname><given-names>D.</given-names></name><name><surname>Cooper</surname><given-names>M.</given-names></name></person-group> (<year>2000b</year>). <article-title>Genotype by environment interactions affecting grain sorghum. III. Temporal sequences and spatial patterns in the target population of environments</article-title>. <source>Crop Pasture Sci.</source>
+<volume>51</volume>, <fpage>223</fpage>–<lpage>234</lpage>. <pub-id pub-id-type="doi">10.1071/AR99022</pub-id></mixed-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Choudhary</surname><given-names>S.</given-names></name><name><surname>Mutava</surname><given-names>R. N.</given-names></name><name><surname>Shekoofa</surname><given-names>A.</given-names></name><name><surname>Sinclair</surname><given-names>T. R.</given-names></name><name><surname>Prasad</surname><given-names>P.</given-names></name></person-group> (<year>2013</year>). <article-title>Is the stay-green trait in sorghum a result of transpiration sensitivity to either soil drying or vapor pressure deficit?</article-title>
+<source>Crop Sci.</source>
+<volume>53</volume>, <fpage>2129</fpage>–<lpage>2134</lpage>. <pub-id pub-id-type="doi">10.2135/cropsci2013.01.0043</pub-id></mixed-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Choudhary</surname><given-names>S.</given-names></name><name><surname>Sinclair</surname><given-names>T. R.</given-names></name></person-group> (<year>2014a</year>). <article-title>Chemical screen for limited-transpiration-rate trait among sorghum genotypes</article-title>. <source>J. Crop Imporvement</source>
+<volume>28</volume>, <fpage>377</fpage>–<lpage>389</lpage>. <pub-id pub-id-type="doi">10.1080/15427528.2014.893942</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Choudhary</surname><given-names>S.</given-names></name><name><surname>Sinclair</surname><given-names>T. R.</given-names></name></person-group> (<year>2014b</year>). <article-title>Hydraulic conductance differences among sorghum genotypes to explain variation in restricted transpiration rates</article-title>. <source>Funct. Plant Biol.</source>
+<volume>41</volume>, <fpage>270</fpage>–<lpage>275</lpage>. <pub-id pub-id-type="doi">10.1071/FP13246</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cutler</surname><given-names>S. R.</given-names></name><name><surname>Rodriguez</surname><given-names>P. L.</given-names></name><name><surname>Finkelstein</surname><given-names>R. R.</given-names></name><name><surname>Abrams</surname><given-names>S. R.</given-names></name></person-group> (<year>2010</year>). <article-title>Abscisic acid: emergence of a core signaling network</article-title>. <source>Annu. Rev. Plant Biol.</source>
+<volume>61</volume>, <fpage>651</fpage>–<lpage>679</lpage>. <pub-id pub-id-type="doi">10.1146/annurev-arplant-042809-112122</pub-id><?supplied-pmid 20192755?><pub-id pub-id-type="pmid">20192755</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Doggett</surname><given-names>H.</given-names></name></person-group> (<year>1988</year>). <source>Sorghum, 2nd Edn</source>. <publisher-loc>Harlow; Essex, New York, NY</publisher-loc>: <publisher-name>Longman Scientific &amp; Technical; Wiley</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Eccel</surname><given-names>E.</given-names></name></person-group> (<year>2010</year>). <article-title>What we can ask to hourly temperature recording. Part II: hourly interpolation of temperatures for climatology and modelling</article-title>. <source>Ital. J. Agrometerol. Riv. Ital. Agormeteorol.</source>
+<volume>15</volume>, <fpage>45</fpage>–<lpage>50</lpage>. Available online at: <ext-link ext-link-type="uri" xlink:href="https://www.cabdirect.org/cabdirect/abstract/20113018632">https://www.cabdirect.org/cabdirect/abstract/20113018632</ext-link></mixed-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Eranki</surname><given-names>P. L.</given-names></name><name><surname>Manowitz</surname><given-names>D. H.</given-names></name><name><surname>Bais</surname><given-names>B. D.</given-names></name><name><surname>Cesar Izaurralde</surname><given-names>R.</given-names></name><name><surname>KIm</surname><given-names>S.</given-names></name><name><surname>Dale</surname><given-names>B. E.</given-names></name></person-group> (<year>2013</year>). <article-title>The watershed-scale optimized and rearranged landscape design (WORLD) model and local biomass processing depots for sustainable biofuel production: Integrated life cycle assessments</article-title>. <source>Biofuels. Bioprod. Bioref.</source>
+<volume>7</volume>, <fpage>537</fpage>–<lpage>550</lpage>. <pub-id pub-id-type="doi">10.1002/bbb.1426</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fedoroff</surname><given-names>N. V.</given-names></name><name><surname>Cohen</surname><given-names>J. E.</given-names></name></person-group> (<year>1999</year>). <article-title>Plants and population: is there time?</article-title>
+<source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume>96</volume>, <fpage>5903</fpage>–<lpage>5907</lpage>. <?supplied-pmid 10339516?><pub-id pub-id-type="pmid">10339516</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gholipoor</surname><given-names>M.</given-names></name><name><surname>Prasad</surname><given-names>P. V.</given-names></name><name><surname>Mutava</surname><given-names>R. N.</given-names></name><name><surname>Sinclair</surname><given-names>T. R.</given-names></name></person-group> (<year>2010</year>). <article-title>Genetic variability of transpiration response to vapor pressure deficit among sorghum genotypes</article-title>. <source>Field Crops Res.</source>
+<volume>119</volume>, <fpage>85</fpage>–<lpage>90</lpage>. <pub-id pub-id-type="doi">10.1016/j.fcr.2010.06.018</pub-id></mixed-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gill</surname><given-names>J. R.</given-names></name><name><surname>Burks</surname><given-names>P. S.</given-names></name><name><surname>Staggenborg</surname><given-names>S. A.</given-names></name><name><surname>Odvody</surname><given-names>G. N.</given-names></name><name><surname>Heiniger</surname><given-names>R. W.</given-names></name><name><surname>Macoon</surname><given-names>B.</given-names></name><etal/></person-group> (<year>2014</year>). <article-title>Yield results and stability analysis from the sorghum regional biomass feedstock trial</article-title>. <source>Bioenergy Res.</source>
+<volume>7</volume>, <fpage>1026</fpage>–<lpage>1034</lpage>. <pub-id pub-id-type="doi">10.1007/s12155-014-9445-5</pub-id></mixed-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hall</surname><given-names>A. J.</given-names></name><name><surname>Richards</surname><given-names>R. A.</given-names></name></person-group> (<year>2013</year>). <article-title>Prognosis for genetic improvement of yield potential and water-limited yield of major grain crops</article-title>. <source>Field Crops Res.</source>
+<volume>143</volume>, <fpage>18</fpage>–<lpage>33</lpage>. <pub-id pub-id-type="doi">10.1016/j.fcr.2012.05.014</pub-id></mixed-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hammer</surname><given-names>G. L.</given-names></name><name><surname>Farquhar</surname><given-names>G. D.</given-names></name><name><surname>Broad</surname><given-names>I. J.</given-names></name></person-group> (<year>1997</year>). <article-title>On the extent of genetic variation for transpiration efficiency in sorghum</article-title>. <source>Aust. J. Agric. Res.</source>
+<volume>48</volume>, <fpage>649</fpage>–<lpage>655</lpage>. <pub-id pub-id-type="doi">10.1071/A96111</pub-id></mixed-citation>
+      </ref>
+      <ref id="B24">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hammer</surname><given-names>G. L.</given-names></name><name><surname>van Oosterom</surname><given-names>E.</given-names></name><name><surname>McLean</surname><given-names>G.</given-names></name><name><surname>Chapman</surname><given-names>S. C.</given-names></name><name><surname>Broad</surname><given-names>I.</given-names></name><name><surname>Harland</surname><given-names>P.</given-names></name><etal/></person-group>. (<year>2010</year>). <article-title>Adapting APSIM to model the physiology and genetics of complex adaptive traits in field crops</article-title>. <source>J. Exp. Bot.</source>
+<volume>61</volume>, <fpage>2185</fpage>–<lpage>2202</lpage>. <pub-id pub-id-type="doi">10.1093/jxb/erq095</pub-id><?supplied-pmid 20400531?><pub-id pub-id-type="pmid">20400531</pub-id></mixed-citation>
+      </ref>
+      <ref id="B25">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Hammer</surname><given-names>G.</given-names></name><name><surname>McLean</surname><given-names>G.</given-names></name><name><surname>Doherty</surname><given-names>A.</given-names></name><name><surname>van Oosterom</surname><given-names>E.</given-names></name><name><surname>Chapman</surname><given-names>S.</given-names></name></person-group> (<year>2016</year>). <article-title>Sorghum crop modeling and its utility in agronomy and breeding</article-title>, in <source>Sorghum: State of the Art and Future Perspectives</source>, eds <person-group person-group-type="editor"><name><surname>Ciampitti</surname><given-names>I.</given-names></name><name><surname>Prasad</surname><given-names>V.</given-names></name></person-group>(<publisher-loc>Madison, WI</publisher-loc>: <publisher-name>ASA and CSSA</publisher-name>), <fpage>58</fpage>
+<pub-id pub-id-type="doi">10.2134/agronmonogr58.2014.0064</pub-id></mixed-citation>
+      </ref>
+      <ref id="B26">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hammer</surname><given-names>G.</given-names></name><name><surname>Muchow</surname><given-names>R. C.</given-names></name></person-group> (<year>1994</year>). <article-title>Assessing climatic risk to sorghum production in water-limited subtropical environments I. Development and testing of a simulation model</article-title>. <source>Field Crops Res.</source>
+<volume>36</volume>, <fpage>221</fpage>–<lpage>234</lpage>. <pub-id pub-id-type="doi">10.1016/0378-4290(94)90114-7</pub-id></mixed-citation>
+      </ref>
+      <ref id="B27">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Holzworth</surname><given-names>D. P.</given-names></name><name><surname>Huth</surname><given-names>N. I.</given-names></name><name><surname>Zurcher</surname><given-names>E. J.</given-names></name><name><surname>Herrmann</surname><given-names>N. I.</given-names></name><name><surname>McLean</surname><given-names>G.</given-names></name><name><surname>Chenu</surname><given-names>K.</given-names></name><etal/></person-group> (<year>2014</year>). <article-title>APSIM–evolution towards a new generation of agricultural systems simulation</article-title>. <source>Environ. Model. Softw.</source>
+<volume>62</volume>, <fpage>327</fpage>–<lpage>350</lpage>. <pub-id pub-id-type="doi">10.1016/j.envsoft.2014.07.009</pub-id></mixed-citation>
+      </ref>
+      <ref id="B28">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Keating</surname><given-names>B. A.</given-names></name><name><surname>Carberry</surname><given-names>P. S.</given-names></name><name><surname>Hammer</surname><given-names>G. L.</given-names></name><name><surname>Probert</surname><given-names>M. E.</given-names></name><name><surname>Robertson</surname><given-names>M. J.</given-names></name><name><surname>Holzworth</surname><given-names>D.</given-names></name><etal/></person-group> (<year>2003</year>). <article-title>An overview of APSIM, a model designed for farming systems simulation</article-title>. <source>Eur. J. Agron.</source>
+<volume>18</volume>, <fpage>267</fpage>–<lpage>288</lpage>. <pub-id pub-id-type="doi">10.1016/S1161-0301(02)00108-9</pub-id></mixed-citation>
+      </ref>
+      <ref id="B29">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kholová</surname><given-names>J.</given-names></name><name><surname>Murugesan</surname><given-names>T.</given-names></name><name><surname>Kaliamoorthy</surname><given-names>S.</given-names></name><name><surname>Malayee</surname><given-names>S.</given-names></name><name><surname>Baddam</surname><given-names>R.</given-names></name><name><surname>Hammer</surname><given-names>G. L.</given-names></name><etal/></person-group> (<year>2014</year>). <article-title>Modelling the effect of plant water use traits on yield and stay-green expression in sorghum</article-title>. <source>Funct. Plant Biol.</source>
+<volume>41</volume>, <fpage>1019</fpage>–<lpage>1034</lpage>. <pub-id pub-id-type="doi">10.1071/FP13355</pub-id></mixed-citation>
+      </ref>
+      <ref id="B30">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kumar</surname><given-names>S. R.</given-names></name><name><surname>Hammer</surname><given-names>G. L.</given-names></name><name><surname>Broad</surname><given-names>I.</given-names></name><name><surname>Harland</surname><given-names>P.</given-names></name><name><surname>McLean</surname><given-names>G.</given-names></name></person-group> (<year>2009</year>). <article-title>Modelling environmental effects on phenology and canopy development of diverse sorghum genotypes</article-title>. <source>Field Crops Res.</source>
+<volume>111</volume>, <fpage>157</fpage>–<lpage>165</lpage>. <pub-id pub-id-type="doi">10.1016/j.fcr.2008.11.010</pub-id></mixed-citation>
+      </ref>
+      <ref id="B31">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lobell</surname><given-names>D. B.</given-names></name><name><surname>Hammer</surname><given-names>G. L.</given-names></name><name><surname>Chenu</surname><given-names>K.</given-names></name><name><surname>Zheng</surname><given-names>B.</given-names></name><name><surname>McLean</surname><given-names>G.</given-names></name><name><surname>Chapman</surname><given-names>S. C.</given-names></name></person-group> (<year>2015</year>). <article-title>The shifting influence of drought and heat stress for crops in northeast Australia</article-title>. <source>Glob. Change Biol.</source>
+<volume>21</volume>, <fpage>4115</fpage>–<lpage>4127</lpage>. <pub-id pub-id-type="doi">10.1111/gcb.13022</pub-id><?supplied-pmid 26152643?><pub-id pub-id-type="pmid">26152643</pub-id></mixed-citation>
+      </ref>
+      <ref id="B32">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lobell</surname><given-names>D. B.</given-names></name><name><surname>Roberts</surname><given-names>M. J.</given-names></name><name><surname>Schlenker</surname><given-names>W.</given-names></name><name><surname>Braun</surname><given-names>N.</given-names></name><name><surname>Little</surname><given-names>B. B.</given-names></name><name><surname>Rejesus</surname><given-names>R. M.</given-names></name><etal/></person-group>. (<year>2014</year>). <article-title>Greater sensitivity to drought accompanies maize yield increase in the US midwest</article-title>. <source>Science</source>
+<volume>344</volume>, <fpage>516</fpage>–<lpage>519</lpage>. <pub-id pub-id-type="doi">10.1126/science.1251423</pub-id><?supplied-pmid 24786079?><pub-id pub-id-type="pmid">24786079</pub-id></mixed-citation>
+      </ref>
+      <ref id="B33">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lobet</surname><given-names>G.</given-names></name><name><surname>Couvreur</surname><given-names>V.</given-names></name><name><surname>Meunier</surname><given-names>F.</given-names></name><name><surname>Javaux</surname><given-names>M.</given-names></name><name><surname>Draye</surname><given-names>X.</given-names></name></person-group> (<year>2014</year>). <article-title>Plant water uptake in drying soils</article-title>. <source>Plant Physiol.</source>
+<volume>164</volume>, <fpage>1619</fpage>–<lpage>1627</lpage>. <pub-id pub-id-type="doi">10.1104/pp.113.233486</pub-id><?supplied-pmid 24515834?><pub-id pub-id-type="pmid">24515834</pub-id></mixed-citation>
+      </ref>
+      <ref id="B34">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lynch</surname><given-names>J. P.</given-names></name></person-group> (<year>2013</year>). <article-title>Steep, cheap and deep: an ideotype to optimize water and N acquisition by maize root systems</article-title>. <source>Ann. Bot.</source>
+<volume>112</volume>, <fpage>347</fpage>–<lpage>357</lpage>. <pub-id pub-id-type="doi">10.1093/aob/mcs293</pub-id><?supplied-pmid 23328767?><pub-id pub-id-type="pmid">23328767</pub-id></mixed-citation>
+      </ref>
+      <ref id="B35">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McAdam</surname><given-names>S. A. M.</given-names></name><name><surname>Brodribb</surname><given-names>T. J.</given-names></name></person-group> (<year>2015</year>). <article-title>The evolution of mechanisms driving the stomatal response to vapor pressure deficit</article-title>. <source>Plant Physiol.</source>
+<volume>167</volume>, <fpage>833</fpage>–<lpage>843</lpage>. <pub-id pub-id-type="doi">10.1104/pp.114.252940</pub-id><?supplied-pmid 25637454?><pub-id pub-id-type="pmid">25637454</pub-id></mixed-citation>
+      </ref>
+      <ref id="B36">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McAdam</surname><given-names>S. A. M.</given-names></name><name><surname>Sussmilch</surname><given-names>F. C.</given-names></name><name><surname>Brodribb</surname><given-names>T. J.</given-names></name><name><surname>Ross</surname><given-names>J. J.</given-names></name></person-group> (<year>2015</year>). <article-title>Molecular characterization of a mutation affecting abscisic acid biosynthesis and consequently stomatal responses to humidity in an agriculturally important species</article-title>. <source>Aob Plants</source>
+<volume>7</volume>:<fpage>plv091</fpage>. <pub-id pub-id-type="doi">10.1093/aobpla/plv091</pub-id><?supplied-pmid 26216469?><pub-id pub-id-type="pmid">26216469</pub-id></mixed-citation>
+      </ref>
+      <ref id="B37">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McCown</surname><given-names>R.</given-names></name><name><surname>Hammer</surname><given-names>G.</given-names></name><name><surname>Hargreaves</surname><given-names>J.</given-names></name><name><surname>Holzworth</surname><given-names>D.</given-names></name><name><surname>Freebairn</surname><given-names>D.</given-names></name></person-group> (<year>1996</year>). <article-title>APSIM: a novel software system for model development, model testing and simulation in agricultural systems research</article-title>. <source>Agric. Syst.</source>
+<volume>50</volume>, <fpage>255</fpage>–<lpage>271</lpage>. <pub-id pub-id-type="doi">10.1016/0308-521X(94)00055-V</pub-id></mixed-citation>
+      </ref>
+      <ref id="B38">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McDowell</surname><given-names>N. G.</given-names></name><name><surname>Williams</surname><given-names>A. P.</given-names></name><name><surname>Xu</surname><given-names>C.</given-names></name><name><surname>Pockman</surname><given-names>W. T.</given-names></name><name><surname>Dickman</surname><given-names>L. T.</given-names></name><name><surname>Sevanto</surname><given-names>S.</given-names></name><etal/></person-group> (<year>2016</year>). <article-title>Multi-scale predictions of massive conifer mortality due to chronic temperature rise</article-title>. <source>Nat. Clim. Change</source>
+<volume>6</volume>, <fpage>295</fpage>–<lpage>300</lpage>. <pub-id pub-id-type="doi">10.1038/nclimate2873</pub-id></mixed-citation>
+      </ref>
+      <ref id="B39">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Menne</surname><given-names>M. J.</given-names></name><name><surname>Durre</surname><given-names>I.</given-names></name><name><surname>Vose</surname><given-names>R. S.</given-names></name><name><surname>Gleason</surname><given-names>B. E.</given-names></name><name><surname>Houston</surname><given-names>T. G.</given-names></name></person-group> (<year>2012</year>). <article-title>An overview of the global historical climatology network-daily database</article-title>. <source>J. Atmos. Oceanic Technol.</source>
+<volume>29</volume>, <fpage>897</fpage>–<lpage>910</lpage>. <pub-id pub-id-type="doi">10.1175/JTECH-D-11-00103.1</pub-id></mixed-citation>
+      </ref>
+      <ref id="B40">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Messina</surname><given-names>C. D.</given-names></name><name><surname>Sinclair</surname><given-names>T. R.</given-names></name><name><surname>Hammer</surname><given-names>G. L.</given-names></name><name><surname>Curan</surname><given-names>D.</given-names></name><name><surname>Thompson</surname><given-names>J.</given-names></name><name><surname>Oler</surname><given-names>Z.</given-names></name><etal/></person-group> (<year>2015</year>). <article-title>Limited-transpiration trait may increase maize drought tolerance in the US corn belt</article-title>. <source>Agron. J.</source>
+<volume>107</volume>, <fpage>1978</fpage>–<lpage>1986</lpage>. <pub-id pub-id-type="doi">10.2134/agronj15.0016</pub-id></mixed-citation>
+      </ref>
+      <ref id="B41">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mullet</surname><given-names>J.</given-names></name><name><surname>Morishige</surname><given-names>D.</given-names></name><name><surname>McCormick</surname><given-names>R.</given-names></name><name><surname>Truong</surname><given-names>S.</given-names></name><name><surname>Hilley</surname><given-names>J.</given-names></name><name><surname>McKinley</surname><given-names>B.</given-names></name><etal/></person-group>. (<year>2014</year>). <article-title>Energy sorghum—a genetic model for the design of C4 grass bioenergy crops</article-title>. <source>J. Exp. Bot.</source>
+<volume>65</volume>, <fpage>3479</fpage>–<lpage>3489</lpage>. <pub-id pub-id-type="doi">10.1093/jxb/eru229</pub-id><?supplied-pmid 24958898?><pub-id pub-id-type="pmid">24958898</pub-id></mixed-citation>
+      </ref>
+      <ref id="B42">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Murphy</surname><given-names>R. L.</given-names></name><name><surname>Klein</surname><given-names>R. R.</given-names></name><name><surname>Morishige</surname><given-names>D. T.</given-names></name><name><surname>Brady</surname><given-names>J. A.</given-names></name><name><surname>Rooney</surname><given-names>W. L.</given-names></name><name><surname>Miller</surname><given-names>F. R.</given-names></name><etal/></person-group>. (<year>2011</year>). <article-title>Coincident light and clock regulation of pseudoresponse regulator protein 37 (PRR37) controls photoperiodic flowering in sorghum</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume>108</volume>, <fpage>16469</fpage>–<lpage>16474</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1106212108</pub-id><?supplied-pmid 21930910?><pub-id pub-id-type="pmid">21930910</pub-id></mixed-citation>
+      </ref>
+      <ref id="B43">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Murphy</surname><given-names>R. L.</given-names></name><name><surname>Morishige</surname><given-names>D. T.</given-names></name><name><surname>Brady</surname><given-names>J. A.</given-names></name><name><surname>Rooney</surname><given-names>W. L.</given-names></name><name><surname>Yang</surname><given-names>S. S.</given-names></name><name><surname>Klein</surname><given-names>P. E.</given-names></name><etal/></person-group> (<year>2014</year>). <article-title>Ghd7 (Ma(6)) represses sorghum flowering in long days: Ghd7 alleles enhance biomass accumulation and grain production</article-title>. <source>Plant Genome</source> 7. <pub-id pub-id-type="doi">10.3835/plantgenome2013.11.0040</pub-id></mixed-citation>
+      </ref>
+      <ref id="B44">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nair</surname><given-names>S. S.</given-names></name><name><surname>Kang</surname><given-names>S. J.</given-names></name><name><surname>Zhang</surname><given-names>X. S.</given-names></name><name><surname>Miguez</surname><given-names>F. E.</given-names></name><name><surname>Izaurralde</surname><given-names>R. C.</given-names></name><name><surname>Post</surname><given-names>W. M.</given-names></name><etal/></person-group> (<year>2012</year>). <article-title>Bioenergy crop models: descriptions, data requirements, and future challenges</article-title>. <source>Glob. Change Biol. Bioenergy</source>
+<volume>4</volume>, <fpage>620</fpage>–<lpage>633</lpage>. <pub-id pub-id-type="doi">10.1111/j.1757-1707.2012.01166.x</pub-id></mixed-citation>
+      </ref>
+      <ref id="B45">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Olson</surname><given-names>S. N.</given-names></name><name><surname>Ritter</surname><given-names>K.</given-names></name><name><surname>Medley</surname><given-names>J.</given-names></name><name><surname>Wilson</surname><given-names>T.</given-names></name><name><surname>Rooney</surname><given-names>W. L.</given-names></name><name><surname>Mullet</surname><given-names>J. E.</given-names></name></person-group> (<year>2013</year>). <article-title>Energy sorghum hybrids: functional dynamics of high nitrogen use efficiency</article-title>. <source>Biomass Bioenergy</source>
+<volume>56</volume>, <fpage>307</fpage>–<lpage>316</lpage>. <pub-id pub-id-type="doi">10.1016/j.biombioe.2013.04.028</pub-id></mixed-citation>
+      </ref>
+      <ref id="B46">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Olson</surname><given-names>S. N.</given-names></name><name><surname>Ritter</surname><given-names>K.</given-names></name><name><surname>Rooney</surname><given-names>W.</given-names></name><name><surname>Kemanian</surname><given-names>A.</given-names></name><name><surname>McCarl</surname><given-names>B. A.</given-names></name><name><surname>Zhang</surname><given-names>Y.</given-names></name><etal/></person-group> (<year>2012</year>). <article-title>High biomass yield energy sorghum: developing a genetic model for C4 grass bioenergy crops</article-title>. <source>Biofuels Bioproducts Biorefining</source>
+<volume>6</volume>, <fpage>640</fpage>–<lpage>655</lpage>. <pub-id pub-id-type="doi">10.1002/bbb.1357</pub-id></mixed-citation>
+      </ref>
+      <ref id="B47">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Parent</surname><given-names>B.</given-names></name><name><surname>Hachez</surname><given-names>C.</given-names></name><name><surname>Redondo</surname><given-names>E.</given-names></name><name><surname>Simonneau</surname><given-names>T.</given-names></name><name><surname>Chaumont</surname><given-names>F.</given-names></name><name><surname>Tardieu</surname><given-names>F.</given-names></name></person-group> (<year>2009</year>). <article-title>Drought and abscisic acid effects on aquaporin content translate into changes in hydraulic conductivity and leaf growth rate: a trans-scale approach</article-title>. <source>Plant Physiol.</source>
+<volume>149</volume>, <fpage>2000</fpage>–<lpage>2012</lpage>. <pub-id pub-id-type="doi">10.1104/pp.108.130682</pub-id><?supplied-pmid 19211703?><pub-id pub-id-type="pmid">19211703</pub-id></mixed-citation>
+      </ref>
+      <ref id="B48">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Park</surname><given-names>S. Y.</given-names></name><name><surname>Peterson</surname><given-names>F. C.</given-names></name><name><surname>Mosquna</surname><given-names>A.</given-names></name><name><surname>Yao</surname><given-names>J.</given-names></name><name><surname>Volkman</surname><given-names>B. F.</given-names></name><name><surname>Cutler</surname><given-names>S. R.</given-names></name></person-group> (<year>2015</year>). <article-title>Agrochemical control of plant water use using engineered abscisic acid receptors</article-title>. <source>Nature</source>
+<volume>520</volume>, <fpage>545</fpage>–<lpage>548</lpage>. <pub-id pub-id-type="doi">10.1038/nature14123</pub-id><?supplied-pmid 25652827?><pub-id pub-id-type="pmid">25652827</pub-id></mixed-citation>
+      </ref>
+      <ref id="B49">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Riar</surname><given-names>M. K.</given-names></name><name><surname>Sinclair</surname><given-names>T. R.</given-names></name><name><surname>Prasad</surname><given-names>P. V. V.</given-names></name></person-group> (<year>2015</year>). <article-title>Persistence of limited-transpiration-rate trait in sorghum at high temperature</article-title>. <source>Environ. Exp. Bot.</source>
+<volume>115</volume>, <fpage>58</fpage>–<lpage>62</lpage>. <pub-id pub-id-type="doi">10.1016/j.envexpbot.2015.02.007</pub-id></mixed-citation>
+      </ref>
+      <ref id="B50">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rooney</surname><given-names>W. L.</given-names></name><name><surname>Aydin</surname><given-names>S.</given-names></name></person-group> (<year>1999</year>). <article-title>Genetic control of a photoperiod-sensitive response in <italic>Sorghum bicolor</italic> (L.) Moench</article-title>. <source>Crop Sci.</source>
+<volume>39</volume>, <fpage>397</fpage>–<lpage>400</lpage>. <pub-id pub-id-type="doi">10.2135/cropsci1999.0011183X0039000200016x</pub-id></mixed-citation>
+      </ref>
+      <ref id="B51">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rooney</surname><given-names>W. L.</given-names></name><name><surname>Blumenthal</surname><given-names>J.</given-names></name><name><surname>Bean</surname><given-names>B.</given-names></name><name><surname>Mullet</surname><given-names>J. E.</given-names></name></person-group> (<year>2007</year>). <article-title>Designing sorghum as a dedicated bioenergy feedstock</article-title>. <source>Biofuels Bioproducts Biorefining</source>
+<volume>1</volume>, <fpage>147</fpage>–<lpage>157</lpage>. <pub-id pub-id-type="doi">10.1002/bbb.15</pub-id></mixed-citation>
+      </ref>
+      <ref id="B52">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Rosenthal</surname><given-names>W.</given-names></name><name><surname>Vanderlip</surname><given-names>R.</given-names></name><name><surname>Jackson</surname><given-names>B.</given-names></name><name><surname>Arkin</surname><given-names>G.</given-names></name></person-group> (<year>1989</year>). <source>SORKAM: A Grain Sorghum Crop Growth Model</source>. <publisher-loc>College Station, TX</publisher-loc>: <publisher-name>Miscellaneous Publication</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="B53">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sinclair</surname><given-names>T. R.</given-names></name><name><surname>Hammer</surname><given-names>G. L.</given-names></name><name><surname>van Oosterom</surname><given-names>E. J.</given-names></name></person-group> (<year>2005</year>). <article-title>Potential yield and water-use effficiency benefits in sorghum from limited maximum transpiration rate</article-title>. <source>Funct. Plant Biol.</source>
+<volume>32</volume>, <fpage>945</fpage>–<lpage>952</lpage>. <pub-id pub-id-type="doi">10.1071/FP05047</pub-id></mixed-citation>
+      </ref>
+      <ref id="B54">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sinclair</surname><given-names>T. R.</given-names></name><name><surname>Tanner</surname><given-names>C.</given-names></name><name><surname>Bennett</surname><given-names>J.</given-names></name></person-group> (<year>1984</year>). <article-title>Water-use efficiency in crop production</article-title>. <source>BioScience</source>
+<volume>34</volume>, <fpage>36</fpage>–<lpage>40</lpage>. <pub-id pub-id-type="doi">10.2307/1309424</pub-id></mixed-citation>
+      </ref>
+      <ref id="B55">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tardieu</surname><given-names>F.</given-names></name></person-group> (<year>2012</year>). <article-title>Any trait or trait-related allele can confer drought tolerance: just design the right drought scenario</article-title>. <source>J. Exp. Bot.</source>
+<volume>63</volume>, <fpage>25</fpage>–<lpage>31</lpage>. <pub-id pub-id-type="doi">10.1093/jxb/err269</pub-id><?supplied-pmid 21963615?><pub-id pub-id-type="pmid">21963615</pub-id></mixed-citation>
+      </ref>
+      <ref id="B56">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tardieu</surname><given-names>F.</given-names></name><name><surname>Davies</surname><given-names>W. J.</given-names></name></person-group> (<year>1992</year>). <article-title>Stomatal response to abscisic-acid is a function of current plant water status</article-title>. <source>Plant Physiol.</source>
+<volume>98</volume>, <fpage>540</fpage>–<lpage>545</lpage>. <pub-id pub-id-type="doi">10.1104/pp.98.2.540</pub-id><?supplied-pmid 16668674?><pub-id pub-id-type="pmid">16668674</pub-id></mixed-citation>
+      </ref>
+      <ref id="B57">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tardieu</surname><given-names>F.</given-names></name><name><surname>Parent</surname><given-names>B.</given-names></name><name><surname>Hachez</surname><given-names>C.</given-names></name><name><surname>Simonneau</surname><given-names>T.</given-names></name><name><surname>Chaumont</surname><given-names>F.</given-names></name></person-group> (<year>2009</year>). <article-title>Drought and ABA effects on aquaporin content translate into changes in hydraulic conductivity and leaf growth rate: a trans-scale approach</article-title>. <source>Comp. Biochem. Physiol. Mol. Integr. Physiol.</source>
+<volume>153a</volume>, <fpage>S225</fpage>–<lpage>S225</lpage>. <pub-id pub-id-type="doi">10.1016/j.cbpa.2009.04.561</pub-id></mixed-citation>
+      </ref>
+      <ref id="B58">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Truong</surname><given-names>S. K.</given-names></name><name><surname>McCormick</surname><given-names>R. F.</given-names></name><name><surname>Rooney</surname><given-names>W. L.</given-names></name><name><surname>Mullet</surname><given-names>J. E.</given-names></name></person-group> (<year>2015</year>). <article-title>Harnessing genetic variation in leaf angle to increase productivity of <italic>Sorghum bicolor</italic></article-title>. <source>Genetics</source>
+<volume>201</volume>, <fpage>1229</fpage>–<lpage>1238</lpage>. <pub-id pub-id-type="doi">10.1534/genetics.115.178608</pub-id><?supplied-pmid 26323882?><pub-id pub-id-type="pmid">26323882</pub-id></mixed-citation>
+      </ref>
+      <ref id="B59">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vadez</surname><given-names>V.</given-names></name><name><surname>Kholova</surname><given-names>J.</given-names></name><name><surname>Medina</surname><given-names>S.</given-names></name><name><surname>Kakkera</surname><given-names>A.</given-names></name><name><surname>Anderberg</surname><given-names>H.</given-names></name></person-group> (<year>2014</year>). <article-title>Transpiration efficiency: new insights into an old story</article-title>. <source>J. Exp. Bot.</source>
+<volume>65</volume>, <fpage>6141</fpage>–<lpage>6153</lpage>. <pub-id pub-id-type="doi">10.1093/jxb/eru040</pub-id><?supplied-pmid 24600020?><pub-id pub-id-type="pmid">24600020</pub-id></mixed-citation>
+      </ref>
+      <ref id="B60">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vadez</surname><given-names>V.</given-names></name><name><surname>Kholova</surname><given-names>J.</given-names></name><name><surname>Zaman-Allah</surname><given-names>M.</given-names></name><name><surname>Belko</surname><given-names>N.</given-names></name></person-group> (<year>2013</year>). <article-title>Water: the most important “molecular” component of water stress tolerance research</article-title>. <source>Funct. Plant Biol.</source>
+<volume>40</volume>, <fpage>1310</fpage>–<lpage>1322</lpage>. <pub-id pub-id-type="doi">10.1071/FP13149</pub-id></mixed-citation>
+      </ref>
+      <ref id="B61">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yang</surname><given-names>S. S.</given-names></name><name><surname>Murphy</surname><given-names>R. L.</given-names></name><name><surname>Morishige</surname><given-names>D. T.</given-names></name><name><surname>Klein</surname><given-names>P. E.</given-names></name><name><surname>Rooney</surname><given-names>W. L.</given-names></name><name><surname>Mullet</surname><given-names>J. E.</given-names></name></person-group> (<year>2014</year>). <article-title>Sorghum phytochrome B inhibits flowering in long days by activating expression of SbPRR37 and SbGHD7, repressors of SbEHD1, SbCN8 and SbCN12</article-title>. <source>PLoS ONE</source>
+<volume>9</volume>:<fpage>e105352</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pone.0105352</pub-id><?supplied-pmid 25122453?><pub-id pub-id-type="pmid">25122453</pub-id></mixed-citation>
+      </ref>
+      <ref id="B62">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhu</surname><given-names>X.-G.</given-names></name><name><surname>Long</surname><given-names>S. P.</given-names></name><name><surname>Ort</surname><given-names>D. R.</given-names></name></person-group> (<year>2010</year>). <article-title>Improving photosynthetic efficiency for greater yield</article-title>. <source>Annu. Rev. Plant Biol.</source>
+<volume>61</volume>, <fpage>235</fpage>–<lpage>261</lpage>. <pub-id pub-id-type="doi">10.1146/annurev-arplant-042809-112206</pub-id><?supplied-pmid 20192734?><pub-id pub-id-type="pmid">20192734</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record>

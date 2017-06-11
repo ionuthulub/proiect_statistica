@@ -1,0 +1,943 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5359364</identifier><datestamp>2017-04-04</datestamp><setSpec>springeropen</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Gastrointest Surg</journal-id>
+      <journal-id journal-id-type="iso-abbrev">J. Gastrointest. Surg</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Gastrointestinal Surgery</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1091-255X</issn>
+      <issn pub-type="epub">1873-4626</issn>
+      <publisher>
+        <publisher-name>Springer US</publisher-name>
+        <publisher-loc>New York</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5359364</article-id>
+      <article-id pub-id-type="pmcid">PMC5359364</article-id>
+      <article-id pub-id-type="pmc-uid">5359364</article-id>
+      <article-id pub-id-type="pmid">28120276</article-id>
+      <article-id pub-id-type="publisher-id">3363</article-id>
+      <article-id pub-id-type="doi">10.1007/s11605-017-3363-8</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Original Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Development, Application and Analysis of an Enhanced Recovery Programme for Major Oesophagogastric Resection</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" corresp="yes" equal-contrib="yes">
+          <name>
+            <surname>Underwood</surname>
+            <given-names>Timothy J.</given-names>
+          </name>
+          <address>
+            <email>tju@soton.ac.uk</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" equal-contrib="yes">
+          <name>
+            <surname>Noble</surname>
+            <given-names>F.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Madhusudan</surname>
+            <given-names>N.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sharland</surname>
+            <given-names>D.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fraser</surname>
+            <given-names>R.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Owsley</surname>
+            <given-names>J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Grant</surname>
+            <given-names>M.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kelly</surname>
+            <given-names>J. J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Byrne</surname>
+            <given-names>James P.</given-names>
+          </name>
+          <address>
+            <email>james.byrne@uhs.nhs.uk</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <collab>on behalf of the South Coast Cancer Collaboration-Oesophago-Gastric (SC -OG)<contrib-group><contrib contrib-type="author"><name><surname>Sansome</surname><given-names>A.</given-names></name></contrib><contrib contrib-type="author"><name><surname>McGill</surname><given-names>N.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Cowan</surname><given-names>A.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Allan</surname><given-names>C.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Sparkes</surname><given-names>D.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Krivskiy</surname><given-names>L.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Chapman</surname><given-names>R.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Pointer</surname><given-names>J.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Perera</surname><given-names>N.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Devlin</surname><given-names>R.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Davies</surname><given-names>S.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Simpson</surname><given-names>R</given-names></name></contrib><contrib contrib-type="author"><name><surname>Saunders</surname><given-names>M.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Sheikh</surname><given-names>C.</given-names></name></contrib></contrib-group></collab>
+        </contrib>
+        <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ISNI">0000000103590315</institution-id><institution-id institution-id-type="GRID">grid.123047.3</institution-id><institution>Department of Surgery, </institution><institution>University Hospital Southampton, </institution></institution-wrap>Tremona Road, Southampton, Hampshire SO16 6YD UK </aff>
+        <aff id="Aff2"><label>2</label>Cancer Sciences Unit, Faculty of Medicine, University of Southampton, Somers Cancer Research Building, MP824, Southampton General Hospital, Southampton, Hampshire SO16 6YD UK </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <day>24</day>
+        <month>1</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>24</day>
+        <month>1</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <year>2017</year>
+      </pub-date>
+      <volume>21</volume>
+      <issue>4</issue>
+      <fpage>614</fpage>
+      <lpage>621</lpage>
+      <history>
+        <date date-type="received">
+          <day>29</day>
+          <month>9</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>4</day>
+          <month>1</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© The Author(s) 2017</copyright-statement>
+        <license license-type="OpenAccess">
+          <license-p>
+<bold>Open Access</bold> This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.</license-p>
+        </license>
+      </permissions>
+      <abstract id="Abs1">
+        <sec>
+          <title>Background</title>
+          <p>Enhanced recovery programmes improve outcomes in surgery, but their implementation after upper gastrointestinal resection has been limited. The aim of this study was to compare short-term outcomes for patients undergoing oesophagogastric surgery in an enhanced recovery programme (EROS).</p>
+        </sec>
+        <sec>
+          <title>Methods</title>
+          <p>EROS was developed after a multidisciplinary meeting by multiple rounds of revision. EROS was applied to all patients undergoing major upper GI resection at a university teaching hospital in the UK from 20/9/13, with data reviewed at 18/09/15. EROS was assessed to identify predictors for compliance.</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p>One hundred six patients underwent major upper GI resection including 81 oesophagectomies, 24 gastrectomies and 1 colonic interposition graft. Major complications (Clavien Dindo ≥3) occurred in 12 patients with 1 in-hospital death. Thirty-five patients (44%) were discharged on target day 8 of the EROS programme. Age and complications were independently associated with missing this discharge target.</p>
+        </sec>
+        <sec>
+          <title>Conclusion</title>
+          <p>Enhanced recovery is feasible and safe after major upper gastrointestinal surgery.</p>
+        </sec>
+        <sec>
+          <title>Electronic supplementary material</title>
+          <p>The online version of this article (doi:10.1007/s11605-017-3363-8) contains supplementary material, which is available to authorized users.</p>
+        </sec>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <title>Keywords</title>
+        <kwd>Enhanced recovery</kwd>
+        <kwd>Oesophageal surgery</kwd>
+        <kwd>Surgery</kwd>
+        <kwd>Oesophagectomy</kwd>
+        <kwd>Gastrectomy</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution-wrap>
+              <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/501100000265</institution-id>
+              <institution>Medical Research Council</institution>
+            </institution-wrap>
+          </funding-source>
+          <award-id>G1002565</award-id>
+          <principal-award-recipient>
+            <name>
+              <surname>Underwood</surname>
+              <given-names>Timothy J.</given-names>
+            </name>
+          </principal-award-recipient>
+        </award-group>
+      </funding-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>issue-copyright-statement</meta-name>
+          <meta-value>© The Society for Surgery of the Alimentary Tract 2017</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="Sec1" sec-type="introduction">
+      <title>Introduction</title>
+      <p>Enhanced recovery after surgery (ERAS) programmes have proven benefits in mortality and morbidity in a range of settings. ERAS programmes reduce patient length of stay (LOS) and reduce costs.<xref ref-type="bibr" rid="CR1">1</xref>–<xref ref-type="bibr" rid="CR3">3</xref> The implementation of ERAS after upper gastrointestinal surgery has been limited by a number of factors. These include the historically high levels of mortality and morbidity after these types of operations and traditional surgical concerns regarding early feeding and anastomotic leak. The evidence for ERAS in oesophageal surgery is poor; in a recent systematic review, Findlay et al. identified only eight retrospective series with a total of 1127 patients. These were predominantly reports of single surgeon series and open resections.<xref ref-type="bibr" rid="CR4">4</xref> In some units, one surgeon but not others have embraced ERAS for oesophageal surgery<xref ref-type="bibr" rid="CR5">5</xref>, and in other units, only the fittest patients have been included, making the overall benefits hard to establish.<xref ref-type="bibr" rid="CR6">6</xref>
+</p>
+      <p>The use of minimally invasive oesophagectomy (MIO) is gaining momentum in the UK with 43.2% of resections being either totally minimally invasive or hybrid operations (laparoscopic abdomen and open chest) in the latest national audit.<xref ref-type="bibr" rid="CR7">7</xref> To date, very few reports have included patients treated with MIO within an enhanced recovery programme (ERP). The most recent systematic review and pooled analysis of enhanced recovery after oesophagectomy identified 27 cases of MIO in ERPs and 7 for MIO on conventional pathways.<xref ref-type="bibr" rid="CR8">8</xref>
+</p>
+      <p>Therefore, the aims of this study were to develop, introduce and analyse an enhanced recovery pathway for all patients undergoing upper GI resection, including open, hybrid and totally minimally invasive oesophagectomy.</p>
+    </sec>
+    <sec id="Sec2" sec-type="materials|methods">
+      <title>Materials and Methods</title>
+      <sec id="Sec3">
+        <title>Enhanced Recovery After Oesophagogastric Surgery (EROS) Programme Development</title>
+        <p>The EROS programme was developed and implemented at University Hospital Southampton (UHS) NHS Foundation Trust, a single centre teaching hospital in the UK and a designated centre for oesophageal and gastric cancer surgery. A draft EROS programme was proposed by the surgical team and subjected to multidisciplinary professional review at a dedicated EROS development day (25/01/2012). This event was attended by Dr Donald Low (Virginia Mason Medical Centre, Seattle), who provided detail of the well-established programme at his centre, on which the UHS EROS programme was based.<xref ref-type="bibr" rid="CR9">9</xref> Multiple rounds of protocol revision were utilised to establish a programme that was considered as best practice and applicable to patients being treated in our centre by all key stakeholders (including surgeons, anaesthetists, specialist nurses, ward nurses, physiotherapists, occupational therapists, dieticians and patients (Supplemental document <xref rid="MOESM3" ref-type="media">1</xref>)). The fundamental components of the pathway involved pre, peri and post-operative elements including patient, carer and team expectation and education, preoperative carbohydrate loading, optimised anaesthesia, fluid and pain management, early and consistent mobilisation, timely removal of tubes and drains, early oral intake without the routine use of upper GI swallow studies and aggressive goal setting. Full details of the programme, including daily goals can be found in Supplemental document <xref rid="MOESM4" ref-type="media">2</xref>. The programme was initially designed for all patients who underwent a primary operation including oesophageal anastomosis (oesophagectomy or total gastrectomy), but in practice was used for all patients who underwent major surgery (including sub-total gastrectomy). The programme also included a previously published risk prediction tool for anastomotic leak and major complications after oesophageal surgery.<xref ref-type="bibr" rid="CR10">10</xref> The target time for discharge was set at post-operative day 8, with the goal of discharge to the patient’s home or usual place of residence without any increase in support. The EROS pathway was applied to all patients undergoing major oesophageal and gastric resections from 20/09/2013, with data presented up to 18/09/2015. There were no a priori exclusion criteria. Patients with carcinoma of the oesophagus or stomach were staged and considered for neoadjuvant therapy based on established protocols and underwent surgery as previously described.<xref ref-type="bibr" rid="CR11">11</xref>
+</p>
+      </sec>
+      <sec id="Sec4">
+        <title>Outcome Measures</title>
+        <p>Data recorded included demographics, tumour characteristics, type of resection, operative times (defined as knife-to-skin to wound closure), estimated blood loss (calculated from suction bottles and weighed swabs), critical care unit stay, overall hospital stay (defined as day of surgery until day of discharge), histopathologic analysis of the surgical specimen, morbidity and mortality. TNM-7 was used to report tumour stage. Pathologic tumour clearance (‘R’ status) was determined according the Royal College of Pathologists system (&gt;1 mm clearance). Postoperative complications were graded according to the Clavien–Dindo classification<xref ref-type="bibr" rid="CR12">12</xref> and were recorded for the entire inpatient stay. Clavien–Dindo grades I and II represent minor complications, whereas grades III and IV represent major complications (grade III requires radiologic endoscopic or surgical intervention; grade IV indicates life-threatening complication requiring intensive care management). An anastomotic leak (AL) was confirmed by radiology (contrast-enhanced multi-detector CT scan or water-soluble contrast studies), endoscopy or during surgical exploration. Elements of EROS were recorded to provide a comprehensive assessment of compliance covering all aspects of the enhanced recovery programme.</p>
+      </sec>
+      <sec id="Sec5">
+        <title>Statistics</title>
+        <p>Statistical analysis was performed with SPSS® version 21 (SPSS, Chicago, Illinois, USA). A <italic>p</italic> value &lt;0.05 was considered statistically significant.</p>
+      </sec>
+    </sec>
+    <sec id="Sec6" sec-type="results">
+      <title>Results</title>
+      <p>One hundred six consecutive patients underwent major upper GI surgery and a detailed analysis of this cohort is presented in Table <xref rid="Tab1" ref-type="table">1</xref>, including oesophagectomies and gastrectomies shown separately.<table-wrap id="Tab1"><label>Table 1</label><caption><p>Patient, treatment and tumour demographics</p></caption><table frame="hsides" rules="groups"><thead><tr><th>Variable</th><th>Whole cohort</th><th>Oesophagectomy</th><th>Gastrectomy</th></tr></thead><tbody><tr><td>Number of patients<sup>b</sup>
+</td><td>106</td><td>81</td><td>24</td></tr><tr><td>Median age (years)<sup>a</sup>
+</td><td>67 (26–87)</td><td>66 (40–82)</td><td>71 (26–81)</td></tr><tr><td>Sex ratio (M:F)</td><td>78:28</td><td>75:25</td><td>70:30</td></tr><tr><td>Pre-op median BMI<sup>a</sup>
+</td><td>27 (20–39)</td><td>27 (20–35)</td><td>26 (21–39)</td></tr><tr><td colspan="4">ASA grade</td></tr><tr><td> I</td><td>10 (9)</td><td>8 (10)</td><td>2 (8)</td></tr><tr><td> II</td><td>70 (66)</td><td>55 (68)</td><td>15 (63)</td></tr><tr><td> III</td><td>25 (24)</td><td>17 (21)</td><td>7 (29)</td></tr><tr><td> IV</td><td>1 (1)</td><td>1 (1)</td><td/></tr><tr><td>Neoadjuvant chemotherapy</td><td>49 (47)</td><td>35 (44)</td><td>14 (58)</td></tr><tr><td>Neoadjuvant chemoradiotherapy</td><td>25 (24)</td><td>25 (31)</td><td/></tr><tr><td>Surgery only</td><td>31 (30)</td><td>20 (25)</td><td>10 (42)</td></tr><tr><td colspan="4">ypT or pT</td></tr><tr><td> 0</td><td>19 (18)</td><td>19 (24)</td><td/></tr><tr><td> IS/HGD</td><td>4 (4)</td><td>4 (5)</td><td/></tr><tr><td> 1</td><td>12 (12)</td><td>9 (11)</td><td>3 (13)</td></tr><tr><td> 2</td><td>9 (9)</td><td>8 (10)</td><td>1 (4)</td></tr><tr><td> 3</td><td>47 (46)</td><td>38 (48)</td><td>9 (38)</td></tr><tr><td> 4</td><td>12 (12)</td><td>2 (3)</td><td>10 (42)</td></tr><tr><td colspan="4">ypN or pN</td></tr><tr><td> 0</td><td>58 (56)</td><td>53 (66)</td><td>5 (21)</td></tr><tr><td> 1</td><td>14 (14)</td><td>11 (14)</td><td>3 (13)</td></tr><tr><td> 2</td><td>19 (18)</td><td>11 (14)</td><td>8 (33)</td></tr><tr><td> 3</td><td>12 (12)</td><td>5 (6)</td><td>7 (29)</td></tr><tr><td colspan="4">ypM or pM</td></tr><tr><td> 0</td><td>96 (93)</td><td>76 (95)</td><td>20 (83)</td></tr><tr><td> 1</td><td>7 (7)</td><td>4 (5)</td><td>3 (13)</td></tr><tr><td colspan="4">Tumour type</td></tr><tr><td> Adenocarcinoma</td><td>80 (76)</td><td>58 (72)</td><td>22 (92)</td></tr><tr><td> Squamous cell carcinoma</td><td>18 (17)</td><td>18 (22)</td><td/></tr><tr><td> Adenosquamous cell carcinoma</td><td>1 (1)</td><td>1 (1)</td><td/></tr><tr><td> Dysplasia</td><td>2 (2)</td><td>2 (2)</td><td/></tr><tr><td> Basaloid</td><td>1 (1)</td><td>1 (1)</td><td/></tr><tr><td> Leiomyoma/GIST</td><td>1 (1)</td><td/><td>1 (4)</td></tr><tr><td> Neuroendocrine</td><td>1 (1)</td><td>1 (1)</td><td/></tr><tr><td> Benign ulcer</td><td>1 (1)</td><td/><td>1 (4)</td></tr></tbody></table><table-wrap-foot><p>Values in parentheses are percentages unless indicated</p><p>
+<sup>a</sup>Values in parentheses are range</p><p>
+<sup>b</sup>Total cohort includes 1 colonic interposition</p></table-wrap-foot></table-wrap>
+</p>
+      <sec id="Sec7">
+        <title>Demographics</title>
+        <p>The median age was 67 years with a male predominance (74% male versus 26% female). Patients who underwent gastrectomy were older (median age 71 versus 66 years for oesophagectomy). The majority of patients had adenocarcinoma of the oesophagus or gastro-oesophageal junction and locally advanced disease (T3 in 56%) with lymph node metastasis (N1+ in 65%) on preoperative staging. Neoadjuvant therapy was used in 71% (chemotherapy in 49% and chemoradiotherapy in 24%).</p>
+      </sec>
+      <sec id="Sec8">
+        <title>Operative Outcomes</title>
+        <p>Operative outcomes for the whole cohort and specifically for oesophagectomy and gastrectomy are presented in Table <xref rid="Tab2" ref-type="table">2</xref>. There were 3 conversions to open procedures, all in the MIO group (<italic>n</italic> = 3/29 10%). The reasons for conversion were abdominal adhesions in 1 patient and in 2 patients the anaesthetist was unable to isolate the right lung at the beginning of the thoracic stage. Five operations required additional procedures, 2 lung resections (1 concurrent lung lesion of unknown aetiology and 1 concurrent primary lung cancer) and 3 splenectomy. Forty-eight patients (45%) had a feeding jejunostomy placed.<table-wrap id="Tab2"><label>Table 2</label><caption><p>Operative and surgical outcome data</p></caption><table frame="hsides" rules="groups"><thead><tr><th>Variable</th><th>Whole cohort</th><th>Oesophagectomy</th><th>Gastrectomy</th></tr></thead><tbody><tr><td>Number of patients</td><td>106</td><td>81</td><td>24</td></tr><tr><td>Extra procedures</td><td>5 (5)</td><td>4 (6)</td><td>1 (4)</td></tr><tr><td>Feeding jejunostomy</td><td>48 (45)</td><td>46 (57)</td><td>1 (4)</td></tr><tr><td>Median duration of operation (min)<sup>a</sup>
+</td><td>329 (120–530)</td><td>340 (240–530)</td><td>210 (139–390)</td></tr><tr><td>Median blood loss (ml)<sup>a</sup>
+</td><td>250 (0–1892)</td><td>250 (0–1892)</td><td>150 (50–1400)</td></tr><tr><td>Median total length of stay (days)<sup>a</sup>
+</td><td>9 (4–90)</td><td>9 (6–90)</td><td>7 (4–31)</td></tr><tr><td>Median ITU stay<sup>a</sup>
+</td><td>0 (0–31)</td><td>0 (0–31)</td><td>0 (0–24)</td></tr><tr><td>Median HDU stay<sup>a</sup>
+</td><td>4 (0–13)</td><td>4 (0–13)</td><td>2 (0–4)</td></tr><tr><td>Conversions</td><td>3 (3)</td><td>3 (4)</td><td>0 (0)</td></tr><tr><td>Anastomotic leak</td><td>5 (5)</td><td>4 (5)</td><td>1 (4)</td></tr><tr><td>Chyle leak</td><td>8 (8)</td><td>7 (9)</td><td>1 (4)</td></tr><tr><td colspan="4">Inpatient Clavien Dindo max grade</td></tr><tr><td> 0</td><td>42 (40)</td><td>27 (34)</td><td>15 (63)</td></tr><tr><td> 1</td><td>7 (7)</td><td>5 (6)</td><td>2 (9)</td></tr><tr><td> 2</td><td>45 (43)</td><td>39 (48)</td><td>5 (21)</td></tr><tr><td> 3</td><td>3 (3)</td><td>3 (4)</td><td>0 (0)</td></tr><tr><td> 4</td><td>8 (8)</td><td>6 (7)</td><td>2 (9)</td></tr><tr><td> 5</td><td>1 (1)</td><td>1 (1)</td><td>0 (0)</td></tr><tr><td>Return to theatre</td><td>5 (5)</td><td>4 (5)</td><td>1 (4)</td></tr><tr><td>Cardiac complication</td><td>18 (17)</td><td>16 (20)</td><td>1 (4)</td></tr><tr><td>Respiratory complication</td><td>29 (27)</td><td>26 (32)</td><td>3 (13)</td></tr><tr><td>30 day mortality</td><td>0 (0)</td><td>0 (0)</td><td>0 (0)</td></tr><tr><td>90 day mortality</td><td>4 (4)</td><td>2 (3)</td><td>2 (9)</td></tr><tr><td>Readmission within 30 days of discharge</td><td>15 (14)</td><td>14 (17)</td><td>1 (4)</td></tr><tr><td>Median nodal yield<sup>a</sup>
+</td><td>24 (8–64)</td><td>26 (8–65)</td><td>30 (13–57)</td></tr><tr><td colspan="4">Resection clearance</td></tr><tr><td> R0</td><td>94 (89)</td><td>69 (85)</td><td>24 (100)</td></tr><tr><td> R1 (CRM)</td><td>12 (11)</td><td>12 (15)</td><td>0 (0)</td></tr><tr><td> R1 (Long)</td><td>0 (0)</td><td>0 (0)</td><td>0 (0)</td></tr></tbody></table><table-wrap-foot><p>Values in parentheses are percentages unless indicated</p><p>
+<sup>a</sup>Values in parentheses are range</p></table-wrap-foot></table-wrap>
+</p>
+        <p>A complete microscopic resection (R0) was achieved in 94 patients (89%), with a median lymph node yield of 24 (range 8–64).</p>
+        <p>Overall median length of stay was 9 days for all patients (range 4–90 days) and was 9 days for patients following oesophagectomy (range 6–90). All patients were discharged home (or to their usual place of residence) with no increase in the level of care provided except in 6 cases (5.6%) where increased support was required. Of these 6 patients, 4 experienced major complications and required readmission to intensive care (Clavien–Dindo grade 4). These patients had some of the longest lengths of stay. Of the other 2 patients, 1 had a pre-existing below-knee amputation and required a short-term increase in care and the other was an elderly man with no family support who suffered a post-operative chest infection. There was 1 in-hospital death (1%) at 59 days after a hybrid oesophagectomy. The patient died from multi-organ failure, after an anastomotic leak, having been treated preoperatively with high-dose steroids for concurrent lymphoma. There were three additional outpatient deaths: at 74 days after a hybrid oesophagectomy from rapidly progressive recurrent disease and at 88 and 89 days after palliative gastrectomy from disease progression; (90-day mortality: 4%).</p>
+        <p>Major complications (Clavien–Dindo; CD 3–4) occurred in 11 patients (11%). Anastomotic leak occurred in 5 patients (5%) and chyle leak in 8 patients (8%). Five patients (5%) required a return to theatre and 29 patients (27%) suffered respiratory complications, which were minor (CD &lt;3) in the majority (20 patients). Fifteen patients (14%) were readmitted within 30 days of discharge.</p>
+        <p>A detailed analysis for oesophagectomies only is presented in Supplementary Tables <xref rid="MOESM1" ref-type="media">5</xref> and <xref rid="MOESM2" ref-type="media">6</xref>.</p>
+      </sec>
+      <sec id="Sec9">
+        <title>EROS Pathway Compliance</title>
+        <p>Table <xref rid="Tab3" ref-type="table">3</xref> shows all major elements of the Southampton EROS pathway assessed for compliance. The EROS pathway documentation was missing for 16 patients and 10 patients were taken off the pathway due to major complications. The target discharge date of 8 days after surgery was achieved in 44% of patients. In total 61% of patients achieved mobilisation of at least 25 m on post-operative day (POD) 1, including 30% of patients who achieved compliance with the POD 1 target mobilisation of 2 × 25 m walks. Similar compliance rates were observed for POD 2–5. Oral intake of fluids was established on POD 4 in 60% of patients and pureed diet was established by POD 6 in 59%. Nasogastric tubes were removed in the majority on POD 2 (54%) and in no patients was reinsertion required.<table-wrap id="Tab3"><label>Table 3</label><caption><p>Enhanced recovery after oesophagogastric surgery milestone compliance data</p></caption><table frame="hsides" rules="groups"><thead><tr><th colspan="2">Variable</th></tr></thead><tbody><tr><td>Number of patients</td><td>106</td></tr><tr><td>Data analysed</td><td>80 (76)</td></tr><tr><td>Missing data</td><td>16 (15)</td></tr><tr><td>EROS discontinued</td><td>10 (9)</td></tr><tr><td colspan="2">Patient and team expectations</td></tr><tr><td> Preoperative patient information</td><td>68 (85)</td></tr><tr><td> Predicted discharge date recorded</td><td>3 (4)</td></tr><tr><td> Admission day of surgery</td><td>60 (75)</td></tr><tr><td> Post-operative destination Ward:HDU:ITU</td><td>1:70:9</td></tr><tr><td> Discharged home by POD 8</td><td>35 (44)</td></tr><tr><td colspan="2">Analgesia</td></tr><tr><td> PCA</td><td>79 (99)</td></tr><tr><td> Epidural</td><td>60 (75)</td></tr><tr><td colspan="2">Mobilisation</td></tr><tr><td> Hill-Rom bed utilised</td><td>53 (71)</td></tr><tr><td colspan="2"> POD 1</td></tr><tr><td>  2 walks</td><td>24 (30)</td></tr><tr><td>  1 walk</td><td>25 (31)</td></tr><tr><td>  4 h sat out</td><td>44 (56)</td></tr><tr><td>  2 h sat out</td><td>14 (18)</td></tr><tr><td colspan="2"> POD 2</td></tr><tr><td>  3 walks</td><td>11 (14)</td></tr><tr><td>  2 walks</td><td>29 (36)</td></tr><tr><td>  1 walk</td><td>17 (21)</td></tr><tr><td>  6 h sat out</td><td>49 (62)</td></tr><tr><td>  3 h sat out</td><td>4 (5)</td></tr><tr><td colspan="2"> POD 3</td></tr><tr><td>  4 walks</td><td>13 (16)</td></tr><tr><td>  3 walks</td><td>8 (10)</td></tr><tr><td>  2 walks</td><td>29 (36)</td></tr><tr><td>  1 walks</td><td>16 (20)</td></tr><tr><td>  6 h sat out</td><td>49 (63)</td></tr><tr><td>  3 h sat out</td><td>17 (22)</td></tr><tr><td colspan="2"> POD 4</td></tr><tr><td>  5 walks</td><td>5 (6)</td></tr><tr><td>  4 walks</td><td>6 (8)</td></tr><tr><td>  3 walks</td><td>11 (14)</td></tr><tr><td>  2 walks</td><td>26 (32)</td></tr><tr><td>  1 walk</td><td>19 (24)</td></tr><tr><td>  6 h sat out</td><td>50 (64)</td></tr><tr><td>  3 h sat out</td><td>15 (19)</td></tr><tr><td colspan="2"> POD 5</td></tr><tr><td>  6 walks</td><td>6 (8)</td></tr><tr><td>  5 walks</td><td>1 (1)</td></tr><tr><td>  4 walks</td><td>13 (16)</td></tr><tr><td>  3 walks</td><td>12 (15)</td></tr><tr><td>  2 walks</td><td>15 (19)</td></tr><tr><td>  1 walk</td><td>8 (10)</td></tr><tr><td>  6 h sat out</td><td>50 (68)</td></tr><tr><td>  2 h sat out</td><td>8 (11)</td></tr><tr><td colspan="2">Nutrition</td></tr><tr><td> Preoperative carbohydrate loading</td><td>65 (81)</td></tr><tr><td> Day 1 step 1</td><td>80 (100)</td></tr><tr><td> Day 2 step 2</td><td>43 (54)</td></tr><tr><td> Day 4 step 3</td><td>48 (60)</td></tr><tr><td> Day 6 step 4</td><td>47 (59)</td></tr><tr><td colspan="2">Tubes and drains</td></tr><tr><td> TWOC day 4</td><td>53 (66)</td></tr><tr><td colspan="2">NG out</td></tr><tr><td> Day 2</td><td>43 (54)</td></tr><tr><td> Day 3</td><td>24 (30)</td></tr><tr><td> Day 4</td><td>10 (13)</td></tr><tr><td> Day 5+</td><td>3 (4)</td></tr><tr><td>Chest drains left removed by POD 4</td><td>54 (78)</td></tr><tr><td>Chest drains right removed by POD 4</td><td>39 (57)</td></tr><tr><td>Chest drains right removed by POD 5</td><td>45 (68)</td></tr></tbody></table><table-wrap-foot><p>Values in parentheses are percentages unless indicated</p><p>
+<italic>POD</italic> postoperative day</p></table-wrap-foot></table-wrap>
+</p>
+      </sec>
+      <sec id="Sec10">
+        <title>Predictors of Discharge by Postoperative Day 8</title>
+        <p>A binary logistic regression analysis identified increasing age and post-operative complications as factors independently associated with missing the predefined target of discharge on POD8 (Table <xref rid="Tab4" ref-type="table">4</xref>). Other factors including operative approach, perioperative outcomes, tumour stage, ASA grade and EROS targets were not associated with this discharge target.<table-wrap id="Tab4"><label>Table 4</label><caption><p>Binary logistic regression analyses of factors affecting discharge by POD 8</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="2">Variables</th><th rowspan="2"/><th colspan="3">Univariate</th><th colspan="3">Multivariate</th></tr><tr><th>HR</th><th>95% CI</th><th>
+<italic>p</italic> value</th><th>HR</th><th>95% CI</th><th>
+<italic>p</italic> value</th></tr></thead><tbody><tr><td colspan="8">Patient</td></tr><tr><td rowspan="4">Age</td><td>Quartile 1 (25.5–59 years)</td><td>1</td><td>Ref</td><td/><td>1</td><td>Ref</td><td/></tr><tr><td>Quartile 2 (59–66.5 years)</td><td>1.589</td><td>0.475–5.310</td><td>0.452</td><td>1.648</td><td>0.428–6.354</td><td>0.468</td></tr><tr><td>Quartile 3 (66.5–73 years)</td><td>1.901</td><td>0.564–6.410</td><td>0.300</td><td>2.007</td><td>0.507–7.942</td><td>0.321</td></tr><tr><td>Quartile 4 (73–87 years)</td><td>3.870</td><td>1.085–13.812</td><td>
+<italic>0.037</italic>
+</td><td>7.190</td><td>1.616–31.995</td><td>0.010</td></tr><tr><td colspan="8">Post-operative</td></tr><tr><td rowspan="3">Maximum Clavien–Dindo inpatient complication</td><td>No (0)</td><td>1</td><td>Ref</td><td/><td/><td/><td/></tr><tr><td>Minor (1–2)</td><td>4.050</td><td>1.708–9.602</td><td>
+<italic>0.001</italic>
+</td><td>5.257</td><td>1.774–15.575</td><td>0.003</td></tr><tr><td>Major (3–5)</td><td>19.800</td><td>2.324–168.661</td><td>
+<italic>0.006</italic>
+</td><td>28.381</td><td>2.946–273.370</td><td>0.004</td></tr></tbody></table></table-wrap>
+</p>
+      </sec>
+      <sec id="Sec11">
+        <title>Pre-EROS Experience</title>
+        <p>In the calendar year preceding the start of EROS, 72 consecutive patients underwent major upper GI resections (51 oesophagectomies). The overall median length of stay was 11 days (range 4 to 55 days) and 10 days for oesophagectomies (range 6 to 43 days). Major complications occurred in 18% and there were 3 deaths.</p>
+      </sec>
+    </sec>
+    <sec id="Sec12" sec-type="discussion">
+      <title>Discussion</title>
+      <p>This study demonstrated that EROS could be applied to all patients who underwent major upper GI surgery with good outcomes. Enhanced recovery was safe and effective after oesophageal surgery and delivered low levels of morbidity and short lengths of stay.</p>
+      <p>These findings are in line with results from other surgical disciplines. For instance, in colorectal surgery ERAS halves morbidity and significantly reduces length of stay.<xref ref-type="bibr" rid="CR13">13</xref> Published results for enhanced recovery after oesophageal surgery have shown more modest improvements, possibly due to reluctance by the clinical teams to progress patients quickly for fear of significant, life-threatening complications. The findings of this study support the application of enhanced recovery for all upper GI patients undergoing major resection, with relatively aggressive targets. No major differences in outcome between different surgical approaches were observed, but the study was not designed to explicitly address this question.</p>
+      <p>The development of the EROS programme took into account the infrastructure and resources of the institute where it was introduced, meaning that it may not be applicable to different hospitals and healthcare systems.<xref ref-type="bibr" rid="CR14">14</xref> This could also be considered as a benefit of the programme, as EROS contains the fundamental elements of enhanced recovery tailored to the local environment. Other centres wishing to introduce enhanced recovery can be reassured that adapting existing programmes for use in their own hospitals is possible and leads to good outcomes. Our experience with EROS suggests that the multidisciplinary team begin to see the programme as the default pathway for all patients undergoing major surgery. Anecdotally, mobilisation of all patients has improved and the “STEP” system (supplementary document <xref rid="MOESM3" ref-type="media">1</xref>) introduced for oral intake is now applied to all upper GI patients. This has the advantage of removing variation for the junior medical and nursing staff whose shift patterns change regularly.</p>
+      <p>The study had a number of strengths. The cohort was consistent with contemporary clinical practice; the majority of patients had locally invasive, node positive oesophageal adenocarcinoma treated with neoadjuvant therapy. The surgeons involved had significant experience with minimally invasive oesophagectomy<xref ref-type="bibr" rid="CR11">11</xref> meaning that the applicability of the results for MIO have not been biased by a “learning-curve” effect. Morbidity data was comprehensively collected by a dedicated data manager and is reported using a validated system.</p>
+      <p>Overall outcomes are satisfactory and comparable with data from the UK National Oesophagogastric Cancer Audit (NOGCA)<xref ref-type="bibr" rid="CR7">7</xref> and previously published series.<xref ref-type="bibr" rid="CR9">9</xref> An improvement in overall length of stay was observed when compared to the year preceding the introduction of the programme (9 versus 11 days) and our previously published comparison of open and minimally invasive oesophagectomy (9 versus 12 days).<xref ref-type="bibr" rid="CR11">11</xref> However, it is important to note that the benefit for oesophagectomies alone when comparing the EROS time period with the preceding year was only 1 day (9 versus 10 days). A potentially more clinically relevant improvement was observed for gastrectomies (7 versus 11 days), but the number of gastrectomies in the EROS cohort was modest (<italic>n</italic> = 24).</p>
+      <p>Whilst in this study, we have made no attempt to provide a detailed “before and after” analysis of EROS, major morbidity of 10% compares favourably with our experience (18%) in the year preceding the introduction of the programme and with other published series of oesophagectomies performed both on conventional care pathways and within ERPs.<xref ref-type="bibr" rid="CR5">5</xref>, <xref ref-type="bibr" rid="CR9">9</xref>, <xref ref-type="bibr" rid="CR11">11</xref> Reduced morbidity for patients in EROS confirms previous reports from all branches of surgery and may represent the major benefit of enhanced recovery. This is particularly important for oesophageal surgery that has witnessed a dramatic reduction in mortality in recent years, but has struggled to make in-roads into relatively high complications rates.<xref ref-type="bibr" rid="CR7">7</xref>
+</p>
+      <p>A reduction in pulmonary complications has been reported as a significant benefit of both enhanced recovery and MIO.<xref ref-type="bibr" rid="CR15">15</xref>, <xref ref-type="bibr" rid="CR16">16</xref> In this series, respiratory complications were observed in 27% of patients. This apparently high level of respiratory complications is in keeping with patients treated on a conventional pathway (29.1%)<xref ref-type="bibr" rid="CR8">8</xref> but includes patients with relatively minor deviations to the clinical course (Clavien–Dindo 1 and 2) in the vast majority. When only major respiratory complications are considered, the incidence falls to 6.6%.</p>
+      <p>Considerable concern exists within the surgical community regarding gastric conduit decompression and the relevance of drainage procedures. No pyloroplasties or other drainage procedures were performed in this series and there were no instances of acute conduit distension. It appears feasible and safe to remove nasogastric tubes and recommence oral intake early in the post-operative course (POD 2) without the routine use of upper GI swallow studies.</p>
+      <p>We observed a significant number of readmissions within 30 days of discharge (14%). This may reflect an overly ambitious policy of discharge, but is also related to an “open-door” attitude towards discharged patients and the local geography (the catchment area includes the Isle of Wight and the Channel Islands). Our experience suggests that rather than being viewed as a negative outcome, readmission should be expected in a relatively small proportion of patients as part of the enhanced recovery programme. Further community support for patients and their carers will be required to reduce readmissions and will be a focus for pathway development.</p>
+      <p>Reporting of compliance data in ERPs is poor<xref ref-type="bibr" rid="CR17">17</xref> and patients with complications are often removed from ERPs. This makes it impossible to determine the efficacy of different aspects of the ERP and their relative effects on outcome.<xref ref-type="bibr" rid="CR14">14</xref> In an attempt to address this, compliance with the major agreed components of EROS was documented and analysed. Age and complications defined by the Clavien–Dindo classification were independently associated with missing the predefined discharge target of 8 days. These factors may not be surprising but offer potential ways to improve the pathway. For example, patients of advanced age should be highlighted in the neoadjuvant or preoperative setting as potentially requiring prehabilitation interventions or increased packages of care to enable them to continue their rehabilitation, in the community. In addition, the focus should shift to preventing minor as well as major complications and this will require a whole multidisciplinary team approach.</p>
+      <p>In this study, compliance with target mobilisation was poor. However, this probably reflects overambitious target setting. The advantage of such target setting is that &gt;60% of patients walked &gt;25 m on POD 1 and an improvement in mobilisation quantity and distance was observed for each post-operative day. Consistent mobilisations early in the post-operative course proved labour intensive and difficult to achieve and we may have overestimated the availability of local resources to deliver this. Future efforts will be focussed on improving compliance in this area and will depend upon the continued development of the multidisciplinary team.</p>
+    </sec>
+    <sec id="Sec13" sec-type="conclusion">
+      <title>Conclusion</title>
+      <p>The experience described in this study with the introduction of EROS demonstrates that enhanced recovery is feasible and safe after major upper gastrointestinal surgery.</p>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Electronic Supplementary Material</title>
+      <sec id="Sec14">
+        <p>Below is the link to the electronic supplementary material.<supplementary-material content-type="local-data" id="MOESM1"><media xlink:href="11605_2017_3363_MOESM1_ESM.doc"><label>ESM 1</label><caption><p>(DOC 95 kb)</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM2"><media xlink:href="11605_2017_3363_MOESM2_ESM.doc"><label>ESM 2</label><caption><p>(DOC 70 kb)</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM3"><media xlink:href="11605_2017_3363_MOESM3_ESM.doc"><label>ESM 3</label><caption><p>(DOC 722 kb)</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM4"><media xlink:href="11605_2017_3363_MOESM4_ESM.doc"><label>ESM 4</label><caption><p>(DOC 174 kb)</p></caption></media></supplementary-material>
+</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn>
+        <p>Presented in part to the Digestive Disorders Federation Scientific Meeting 2015, London, UK</p>
+      </fn>
+      <fn>
+        <p>Timothy J. Underwood and F. Noble contributed equally to this work.</p>
+      </fn>
+    </fn-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We thank Dr Don Low for his advice in protocol development and attendance at the EROS development day.</p>
+    </ack>
+    <notes notes-type="COI-statement">
+      <title>Compliance with Ethical Standards</title>
+      <p>The authors declare that they have no conflict of interest.</p>
+      <sec id="FPar1">
+        <title>Author Contributions</title>
+        <p>The idea for the manuscript was conceived jointly by all authors. Data was collected by a dedicated UGI data manager JO, EROS nurse specialist RH, FN and NM. FN analysed the data. FN and TJU wrote the manuscript. TJU/JPB had overall responsibility for the scientific content of the manuscript. All authors reviewed and edited the text.</p>
+      </sec>
+      <sec id="FPar2">
+        <title>Sources of Support</title>
+        <p>F Noble is supported by a Clinical Research Training Lectureship from Cancer Research UK. T Underwood is supported by an MRC Clinician Scientist Fellowship.</p>
+      </sec>
+    </notes>
+    <ref-list id="Bib1">
+      <title>References</title>
+      <ref id="CR1">
+        <label>1.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lemanu</surname>
+              <given-names>DP</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>PP</given-names>
+            </name>
+            <name>
+              <surname>Stowers</surname>
+              <given-names>MD</given-names>
+            </name>
+            <name>
+              <surname>Hill</surname>
+              <given-names>AG</given-names>
+            </name>
+          </person-group>
+          <article-title>A systematic review to assess cost effectiveness of enhanced recovery after surgery programmes in colorectal surgery</article-title>
+          <source>Colorectal Dis</source>
+          <year>2014</year>
+          <volume>16</volume>
+          <issue>5</issue>
+          <fpage>338</fpage>
+          <lpage>46</lpage>
+          <pub-id pub-id-type="doi">10.1111/codi.12505</pub-id>
+          <?supplied-pmid 24283942?>
+          <pub-id pub-id-type="pmid">24283942</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR2">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Joliat</surname>
+              <given-names>GR</given-names>
+            </name>
+            <name>
+              <surname>Labgaa</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Petermann</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Hubner</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Griesser</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Demartines</surname>
+              <given-names>N</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Cost-benefit analysis of an enhanced recovery protocol for pancreaticoduodenectomy</article-title>
+          <source>Br J Surg</source>
+          <year>2015</year>
+          <?supplied-pmid 26492489?>
+          <pub-id pub-id-type="pmid">26492489</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR3">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shewale</surname>
+              <given-names>JB</given-names>
+            </name>
+            <name>
+              <surname>Correa</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Baker</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Villafane-Ferriol</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Hofstetter</surname>
+              <given-names>WL</given-names>
+            </name>
+            <name>
+              <surname>Jordan</surname>
+              <given-names>VS</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Impact of a Fast-track Esophagectomy Protocol on Esophageal Cancer Patient Outcomes and Hospital Charges</article-title>
+          <source>Ann Surg</source>
+          <year>2015</year>
+          <volume>261</volume>
+          <issue>6</issue>
+          <fpage>1114</fpage>
+          <lpage>23</lpage>
+          <pub-id pub-id-type="doi">10.1097/SLA.0000000000000971</pub-id>
+          <?supplied-pmid 25243545?>
+          <pub-id pub-id-type="pmid">25243545</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR4">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Findlay</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Gillies</surname>
+              <given-names>RS</given-names>
+            </name>
+            <name>
+              <surname>Millo</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Sgromo</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Marshall</surname>
+              <given-names>RE</given-names>
+            </name>
+            <name>
+              <surname>Maynard</surname>
+              <given-names>ND</given-names>
+            </name>
+          </person-group>
+          <article-title>Enhanced recovery for esophagectomy: a systematic review and evidence-based guidelines</article-title>
+          <source>Ann Surg</source>
+          <year>2014</year>
+          <volume>259</volume>
+          <issue>3</issue>
+          <fpage>413</fpage>
+          <lpage>31</lpage>
+          <pub-id pub-id-type="doi">10.1097/SLA.0000000000000349</pub-id>
+          <?supplied-pmid 24253135?>
+          <pub-id pub-id-type="pmid">24253135</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR5">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Preston</surname>
+              <given-names>SR</given-names>
+            </name>
+            <name>
+              <surname>Markar</surname>
+              <given-names>SR</given-names>
+            </name>
+            <name>
+              <surname>Baker</surname>
+              <given-names>CR</given-names>
+            </name>
+            <name>
+              <surname>Soon</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Low</surname>
+              <given-names>DE</given-names>
+            </name>
+          </person-group>
+          <article-title>Impact of a multidisciplinary standardized clinical pathway on perioperative outcomes in patients with oesophageal cancer</article-title>
+          <source>Br J Surg</source>
+          <year>2013</year>
+          <volume>100</volume>
+          <issue>1</issue>
+          <fpage>105</fpage>
+          <lpage>12</lpage>
+          <pub-id pub-id-type="doi">10.1002/bjs.8974</pub-id>
+          <?supplied-pmid 23161343?>
+          <pub-id pub-id-type="pmid">23161343</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR6">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gatenby</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Shaw</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Hine</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Scholtes</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Koutra</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Andrew</surname>
+              <given-names>H</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Retrospective cohort study of an enhanced recovery programme in oesophageal and gastric cancer surgery</article-title>
+          <source>Ann R Coll Surg Engl</source>
+          <year>2015</year>
+          <volume>97</volume>
+          <issue>7</issue>
+          <fpage>502</fpage>
+          <lpage>7</lpage>
+          <pub-id pub-id-type="doi">10.1308/003588415X14181254789880</pub-id>
+          <?supplied-pmid 26414360?>
+          <pub-id pub-id-type="pmid">26414360</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR7">
+        <label>7.</label>
+        <mixed-citation publication-type="other">National Oesophago-Gastric Cancer Audit. NHS Information Centre. 2013.</mixed-citation>
+      </ref>
+      <ref id="CR8">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Markar</surname>
+              <given-names>SR</given-names>
+            </name>
+            <name>
+              <surname>Karthikesalingam</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Low</surname>
+              <given-names>DE</given-names>
+            </name>
+          </person-group>
+          <article-title>Enhanced recovery pathways lead to an improvement in postoperative outcomes following esophagectomy: systematic review and pooled analysis</article-title>
+          <source>Dis Esophagus</source>
+          <year>2015</year>
+          <volume>28</volume>
+          <issue>5</issue>
+          <fpage>468</fpage>
+          <lpage>75</lpage>
+          <pub-id pub-id-type="doi">10.1111/dote.12214</pub-id>
+          <?supplied-pmid 24697876?>
+          <pub-id pub-id-type="pmid">24697876</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR9">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Low</surname>
+              <given-names>DE</given-names>
+            </name>
+            <name>
+              <surname>Kunz</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Schembre</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Otero</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Malpass</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Hsi</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Esophagectomy--it’s not just about mortality anymore: standardized perioperative clinical pathways improve outcomes in patients with esophageal cancer</article-title>
+          <source>J Gastrointest Surg</source>
+          <year>2007</year>
+          <volume>11</volume>
+          <issue>11</issue>
+          <fpage>1395</fpage>
+          <lpage>402</lpage>
+          <pub-id pub-id-type="doi">10.1007/s11605-007-0265-1</pub-id>
+          <?supplied-pmid 17763917?>
+          <pub-id pub-id-type="pmid">17763917</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR10">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Noble</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Curtis</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Harris</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Kelly</surname>
+              <given-names>JJ</given-names>
+            </name>
+            <name>
+              <surname>Bailey</surname>
+              <given-names>IS</given-names>
+            </name>
+            <name>
+              <surname>Byrne</surname>
+              <given-names>JP</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Risk assessment using a novel score to predict anastomotic leak and major complications after oesophageal resection</article-title>
+          <source>J Gastrointest Surg</source>
+          <year>2012</year>
+          <volume>16</volume>
+          <issue>6</issue>
+          <fpage>1083</fpage>
+          <lpage>95</lpage>
+          <pub-id pub-id-type="doi">10.1007/s11605-012-1867-9</pub-id>
+          <?supplied-pmid 22419007?>
+          <pub-id pub-id-type="pmid">22419007</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR11">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Noble</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Kelly</surname>
+              <given-names>JJ</given-names>
+            </name>
+            <name>
+              <surname>Bailey</surname>
+              <given-names>IS</given-names>
+            </name>
+            <name>
+              <surname>Byrne</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Underwood</surname>
+              <given-names>TJ</given-names>
+            </name>
+            <collab>South Coast Cancer Collaboration O-G</collab>
+          </person-group>
+          <article-title>A prospective comparison of totally minimally invasive versus open Ivor Lewis esophagectomy</article-title>
+          <source>Dis Esophagus</source>
+          <year>2013</year>
+          <volume>26</volume>
+          <issue>3</issue>
+          <fpage>263</fpage>
+          <lpage>71</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1442-2050.2012.01356.x</pub-id>
+          <?supplied-pmid 23551569?>
+          <pub-id pub-id-type="pmid">23551569</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR12">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dindo</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Demartines</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Clavien</surname>
+              <given-names>PA</given-names>
+            </name>
+          </person-group>
+          <article-title>Classification of surgical complications: a new proposal with evaluation in a cohort of 6336 patients and results of a survey</article-title>
+          <source>Ann Surg</source>
+          <year>2004</year>
+          <volume>240</volume>
+          <issue>2</issue>
+          <fpage>205</fpage>
+          <lpage>13</lpage>
+          <pub-id pub-id-type="doi">10.1097/01.sla.0000133083.54934.ae</pub-id>
+          <?supplied-pmid 15273542?>
+          <pub-id pub-id-type="pmid">15273542</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR13">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Spanjersberg</surname>
+              <given-names>WR</given-names>
+            </name>
+            <name>
+              <surname>Reurings</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Keus</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>van Laarhoven</surname>
+              <given-names>CJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Fast track surgery versus conventional recovery strategies for colorectal surgery</article-title>
+          <source>Cochrane Database Syst Rev.</source>
+          <year>2011</year>
+          <volume>2</volume>
+        </element-citation>
+      </ref>
+      <ref id="CR14">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maessen</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Dejong</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>Hausel</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Nygren</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Lassen</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Andersen</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A protocol is not enough to implement an enhanced recovery programme for colorectal resection</article-title>
+          <source>Br J Surg</source>
+          <year>2007</year>
+          <volume>94</volume>
+          <issue>2</issue>
+          <fpage>224</fpage>
+          <lpage>31</lpage>
+          <pub-id pub-id-type="doi">10.1002/bjs.5468</pub-id>
+          <?supplied-pmid 17205493?>
+          <pub-id pub-id-type="pmid">17205493</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR15">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Biere</surname>
+              <given-names>SS</given-names>
+            </name>
+            <name>
+              <surname>Maas</surname>
+              <given-names>KW</given-names>
+            </name>
+            <name>
+              <surname>Bonavina</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Garcia</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>van Berge Henegouwen</surname>
+              <given-names>MI</given-names>
+            </name>
+            <name>
+              <surname>Rosman</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Traditional invasive vs. minimally invasive esophagectomy: a multi-center, randomized trial (TIME-trial)</article-title>
+          <source>BMC Surg</source>
+          <year>2011</year>
+          <volume>11</volume>
+          <fpage>2</fpage>
+          <pub-id pub-id-type="doi">10.1186/1471-2482-11-2</pub-id>
+          <?supplied-pmid 21226918?>
+          <pub-id pub-id-type="pmid">21226918</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR16">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Munitiz</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Martinez-de-Haro</surname>
+              <given-names>LF</given-names>
+            </name>
+            <name>
+              <surname>Ortiz</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Ruiz-de-Angulo</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Pastor</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Parrilla</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Effectiveness of a written clinical pathway for enhanced recovery after transthoracic (Ivor Lewis) oesophagectomy</article-title>
+          <source>Br J Surg</source>
+          <year>2010</year>
+          <volume>97</volume>
+          <issue>5</issue>
+          <fpage>714</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="doi">10.1002/bjs.6942</pub-id>
+          <?supplied-pmid 20187171?>
+          <pub-id pub-id-type="pmid">20187171</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR17">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Day</surname>
+              <given-names>RW</given-names>
+            </name>
+            <name>
+              <surname>Fielder</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Calhoun</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Kehlet</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Gottumukkala</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Aloia</surname>
+              <given-names>TA</given-names>
+            </name>
+          </person-group>
+          <article-title>Incomplete reporting of enhanced recovery elements and its impact on achieving quality improvement</article-title>
+          <source>Br J Surg</source>
+          <year>2015</year>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record>

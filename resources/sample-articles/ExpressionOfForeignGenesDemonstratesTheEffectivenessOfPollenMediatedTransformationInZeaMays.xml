@@ -1,0 +1,945 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5359326</identifier><datestamp>2017-04-04</datestamp><setSpec>frontplantsci</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Plant Sci</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Plant Sci</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Plant Sci.</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Plant Science</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1664-462X</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5359326</article-id>
+      <article-id pub-id-type="pmcid">PMC5359326</article-id>
+      <article-id pub-id-type="pmc-uid">5359326</article-id>
+      <article-id pub-id-type="doi">10.3389/fpls.2017.00383</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Plant Science</subject>
+          <subj-group>
+            <subject>Original Research</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Expression of Foreign Genes Demonstrates the Effectiveness of Pollen-Mediated Transformation in <italic>Zea mays</italic></article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yang</surname>
+            <given-names>Liyan</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn002">
+            <sup>†</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/393535/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cui</surname>
+            <given-names>Guimei</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn002">
+            <sup>†</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Yixue</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn002">
+            <sup>†</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hao</surname>
+            <given-names>Yaoshan</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Du</surname>
+            <given-names>Jianzhong</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhang</surname>
+            <given-names>Hongmei</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Changbiao</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhang</surname>
+            <given-names>Huanhuan</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/402098/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wu</surname>
+            <given-names>Shu-Biao</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff4">
+            <sup>4</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn001">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sun</surname>
+            <given-names>Yi</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff5">
+            <sup>5</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn001">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <sup>1</sup>
+        <institution>Biotechnology Research Center, Shanxi Academy of Agricultural Sciences</institution>
+        <country>Taiyuan, China</country>
+      </aff>
+      <aff id="aff2">
+        <sup>2</sup>
+        <institution>College of Life Science, Shanxi Normal University</institution>
+        <country>Linfen, China</country>
+      </aff>
+      <aff id="aff3">
+        <sup>3</sup>
+        <institution>Maize Research Institute, Shanxi Academy of Agricultural Sciences</institution>
+        <country>Taiyuan, China</country>
+      </aff>
+      <aff id="aff4">
+        <sup>4</sup>
+        <institution>School of Environmental and Rural Science, University of New England, Armidale</institution>
+        <country>NSW, Australia</country>
+      </aff>
+      <aff id="aff5">
+        <sup>5</sup>
+        <institution>Key Laboratory of Crop Gene Resources and Germplasm Enhancement on Loess Plateau, Ministry of Agriculture</institution>
+        <country>Taiyuan, China</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <p>Edited by: <italic>Joachim Hermann Schiemann, Julius Kühn-Institut, Germany</italic></p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Reviewed by: <italic>Jochen Kumlehn, Institute of Plant Genetics and Crop Plant Research, Germany; Paulo Arruda, University of Campinas, Brazil</italic></p>
+        </fn>
+        <corresp id="fn001">*Correspondence: <italic>Yi Sun, <email xlink:type="simple">sunyi692003@163.com</email> Shu-Biao Wu, <email xlink:type="simple">swu3@une.edu.au</email></italic></corresp>
+        <fn fn-type="other" id="fn002">
+          <p><sup>†</sup>These authors have contributed equally to this work.</p>
+        </fn>
+        <fn fn-type="other" id="fn003">
+          <p>This article was submitted to Plant Biotechnology, a section of the journal Frontiers in Plant Science</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>3</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2017</year>
+      </pub-date>
+      <volume>8</volume>
+      <elocation-id>383</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>22</day>
+          <month>11</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>06</day>
+          <month>3</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2017 Yang, Cui, Wang, Hao, Du, Zhang, Wang, Zhang, Wu and Sun.</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <copyright-holder>Yang, Cui, Wang, Hao, Du, Zhang, Wang, Zhang, Wu and Sun</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Plant genetic transformation has arguably been the core of plant improvement in recent decades. Efforts have been made to develop in planta transformation systems due to the limitations present in the tissue-culture-based methods. Herein, we report an improved in planta transformation system, and provide the evidence of reporter gene expression in pollen tube, embryos and stable transgenicity of the plants following pollen-mediated plant transformation with optimized sonication treatment of pollen. The results showed that the aeration at 4°C treatment of pollen grains in sucrose prior to sonication significantly improved the pollen viability leading to improved kernel set and transformation efficiency. Scanning electron microscopy observation revealed that the removal of operculum covering pollen pore by ultrasonication might be one of the reasons for the pollen grains to become competent for transformation. Evidences have shown that the <italic>eGfp</italic> gene was expressed in the pollen tube and embryos, and the <italic>Cry1Ac</italic> gene was detected in the subsequent T<sub>1</sub> and T<sub>2</sub> progenies, suggesting the successful transfer of the foreign genes to the recipient plants. The Southern blot analysis of <italic>Cry1Ac</italic> gene in T<sub>2</sub> progenies and PCR-identified <italic>Apr</italic> gene segregation in T<sub>2</sub> seedlings confirmed the stable inheritance of the transgene. The outcome illustrated that the pollen-mediated genetic transformation system can be widely applied in the plant improvement programs with apparent advantages over tissue-culture-based transformation methods.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>pollen-mediated transformation</kwd>
+        <kwd>sonication</kwd>
+        <kwd>eGfp</kwd>
+        <kwd>Cry1Ac</kwd>
+        <kwd>
+          <italic>Zea mays</italic>
+        </kwd>
+      </kwd-group>
+      <counts>
+        <fig-count count="7"/>
+        <table-count count="4"/>
+        <equation-count count="0"/>
+        <ref-count count="34"/>
+        <page-count count="10"/>
+        <word-count count="0"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Introduction</title>
+      <p>Genetic transformation has become an important tool in the improvement of plants. Numerous genetic transformation methods have been developed in the past three decades for a wide range of plant species. Generally, they have been classified into indirect or direct transformation (<xref rid="B21" ref-type="bibr">Rao et al., 2009</xref>). Biological methods using bacteria or viruses are referred to as indirect, while direct methods are basically in physical ways, that is, by the penetration of the cell wall (<xref rid="B26" ref-type="bibr">Torney et al., 2007</xref>; <xref rid="B22" ref-type="bibr">Rivera et al., 2012</xref>; <xref rid="B34" ref-type="bibr">Ziemienowicz et al., 2012</xref>). At present, two transformation methods are most commonly used in plants, i.e., <italic>Agrobacterium</italic>-mediated transformation and particle bombardment. Although widely used in the research community, these methods have a common disadvantage, i.e., the requirement of a long and laborious plant tissue culture process, which is highly genotype-dependent and costly (<xref rid="B2" ref-type="bibr">Birch, 1997</xref>; <xref rid="B8" ref-type="bibr">Ioannidis et al., 2016</xref>). As some plant species or varieties are difficult to regenerate through tissue culture, the applications of these methods have been restricted to some extent. Furthermore, the occurrence of somatic variation and low survival rate of some regenerated plantlets during transplanting process make the already low transformation efficiency further compromised. Despite of some reports on transformation approaches independent of tissue culture, these methods have not been applied efficiently in practice due to the complexity to operate and low efficiency. Therefore, transformation methods without tissue culture procedure and simple to operate are needed.</p>
+      <p>The interest in developing non-tissue culture based or <italic>in planta</italic> transformation methods has been growing (<xref rid="B25" ref-type="bibr">Shou et al., 2002</xref>). The production of transgenic plants in such way could in general be relatively simple, inexpensive and efficient. Although being independent of tissue culture and having been used for many years, floral dipping method is confined to only a few species that also restricted its wider application in many other plant species (<xref rid="B4" ref-type="bibr">Clough and Bent, 1998</xref>). It has been considered, therefore, that the reproductive system of plants is a potential pathway for the introduction of foreign genes (<xref rid="B14" ref-type="bibr">Luo and Wu, 1989</xref>).</p>
+      <p>Attempts have been made to develop non-tissue culture based transformation in plants in the last three decades (<xref rid="B20" ref-type="bibr">Ohta, 1986</xref>; <xref rid="B3" ref-type="bibr">Booy et al., 1989</xref>; <xref rid="B11" ref-type="bibr">Li et al., 2004</xref>). Pollen tube pathway-mediated genetic transfer was reported in genetic transformation in cotton (<xref rid="B33" ref-type="bibr">Zhou et al., 1983</xref>) and rice (<xref rid="B14" ref-type="bibr">Luo and Wu, 1989</xref>). This method was once regarded advantageous due to its independency of tissue culture and plant regeneration, no requirement on well-equipped labs, and its simplicity to operate. However, the transformation efficiency of this method has been proven low and thus requires massive transformant selection efforts among a large number of progenies, and the method was not reproducible at least in some cases (<xref rid="B25" ref-type="bibr">Shou et al., 2002</xref>). Furthermore, <xref rid="B3" ref-type="bibr">Booy et al. (1989)</xref> demonstrated that the digestion of plasmid DNA by nuclease was a major obstacle for using pollen grains as vector for genetic transformation.</p>
+      <p>It has been suggested that the ultrasonication treatment of pollen grains denatures the nuclease while not completely inhibiting their viability and germination, and a genetic transformation approach using plant pollen as a vector was reported (<xref rid="B29" ref-type="bibr">Wang et al., 2001</xref>). In the method, pollen grains are targeted as a vector to carry foreign genes with the assistance of sonication treatments in a sucrose solution. Genes of interest were then incorporated to the progenies by pollination process with the treated pollen and subsequent selection of genetically transformed seedlings. Pollen-mediated transformation is a quick and easy alternative method to generate transgenic plants, bypassing the requisite for tissue culture. It has a potential to produce genetically modified plants within a short period, leading to inclusion of the method in conventional crop breeding programs. The method has also been proven applicable in sorghum (<xref rid="B30" ref-type="bibr">Wang et al., 2007</xref>) and <italic>Brassica</italic> (<xref rid="B28" ref-type="bibr">Wang et al., 2008</xref>). Nevertheless, a major shortcoming of the then reported method showed low kernel setting rate after pollination, because most pollen grains lose their viability after ultrasonication and fail to complete the fertilization process. Further, evidences of transformation in the following procedures, for example, during pollen germination, and embryo development were lacking to support the success of transformation was due to the transformation of pollen grains. Therefore, improved kernel setting rate and further evidences to demonstrate the transformation of pollen grains as vectors have become desirable for wider application of such method. We hypothesize that low temperature and aeration may be beneficial for maintaining pollen viability during sonication process as pollen is active in metabolisms which requires large amount of oxygen and temperature may rise. Therefore, we tested the effects of aeration and low temperature treatment to the sucrose solution prior to transformation of pollen grains. Further, we also hypothesize that foreign gene (s) transformed to generative cell/sperms will be incorporated to zygote through fertilization of egg by the sperm with transgene and then passed on to the progeny. Herein, we report an optimized pollen-mediated plant transformation method that demonstrated effectiveness of the transformation of foreign genes by their expression at various stages.</p>
+    </sec>
+    <sec sec-type="materials|methods" id="s1">
+      <title>Materials and Methods</title>
+      <sec>
+        <title>Plant Materials</title>
+        <p>Maize inbred Zheng58 and Dika527 obtained from Qiangsheng Seed Ltd. Shanxi, China, were used throughout the study. The plants were grown at an isolated experimental plot in the Experimental Research Station of Shanxi Academy of Agricultural Sciences, Taiyuan, China (N37°46′, E112°34′), and tassels of recipient maize plants were removed before anthesis to keep a pollen-free condition. Pollen donor maize plants were grown in another experimental plot which was more than 500 m apart from the recipient. The seeds were sown in early May and corn ears were harvested in early October each year with sufficient irrigation when needed. The field management was carried out according to the guideline provided for the breed.</p>
+      </sec>
+      <sec>
+        <title>Transformation Vectors</title>
+        <p>Two constructs, plasmid p3301UbiAc harboring a bar gene as a selector and a gene <italic>Cry1Ac</italic> kindly provided by <xref rid="B12" ref-type="bibr">Lian et al. (2008)</xref>, and plasmid pLM01 harboring an ampicillin resistant gene (<italic>Apr</italic>) as a selector and an <italic>eGfp</italic> gene gifted by <xref rid="B17" ref-type="bibr">Moeller et al. (2009)</xref> (<bold>Figure <xref ref-type="fig" rid="F1">1</xref></bold>), were used in the present study. Plasmid DNA was extracted with alkaline lysis according to <xref rid="B23" ref-type="bibr">Sambrook et al. (1989)</xref>.</p>
+        <fig id="F1" position="float">
+          <label>FIGURE 1</label>
+          <caption>
+            <p><bold>Maps of plasmids employed in the transformation. (A)</bold> p3301UbiAc: the <italic>bar</italic> gene is controlled by a cauliflower mosaic virus (CaMV) 35S promoter (35S) and a nos terminator; the <italic>Cry1Ac</italic> gene is controlled by a ubiquitin promoter (Ubi, Z<italic>ea mays</italic>, Accession No. S94466) and a nos terminator; <bold>(B)</bold> pLM01: the <italic>eGfp</italic> gene is controlled by two CaMV 35S promoters (P35S), a tobacco etch virus 5′- untranslated region (TEV) enhancer, and a soybean vegetative storage protein terminator (Tvsp) followed by an ampicillin (<italic>Apr</italic>) resistant marker gene for the selection in <italic>Escherichia coli</italic> culture.</p>
+          </caption>
+          <graphic xlink:href="fpls-08-00383-g001"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Pollen Grain Treatment</title>
+        <sec>
+          <title>The Pollen Collection</title>
+          <p>In order to be able to harvest desirable quality of fresh pollen, old anthers were removed and the tassels were bagged in the afternoon the day prior to the collection. On the collection day, fresh pollen grains were collected into a paper bag between 10:00–13:00 by shaking the tassels. The collection was sieved to remove anthers, and the pollen grains were used immediately for the downstream treatments or preserved in Petri dishes placed in a hydro-prevent chamber at 4°C until required.</p>
+        </sec>
+        <sec>
+          <title>Aeration and Temperature Treatment Optimize for Pollen Grains</title>
+          <p>A 2 × 2 factorial design was performed to test the effect of aeration and temperature treatments on pollen viability and germination capability. The factors were: aeration treatment, 0 min or 20 min and temperature, 4°C or 25°C. Here, the group with 0 min aeration and temperature at 25°C was regarded as an experimental control. A total of 0.3 g sieved pollen was suspended in 20 ml of 15% sterilized sucrose solution in a beaker. The suspension was aerated by an air pump (<bold>Figure <xref ref-type="fig" rid="F2">2</xref></bold>) for desired time at desired temperature as indicated previously as the treatments. Approximately 500 μl of the pollen suspension or equivalent to 3.0 × 10<sup>4</sup> pollen grains (247 × 10<sup>-9</sup> g / maize pollen grain; <xref rid="B16" ref-type="bibr">Miller, 1982</xref>) was allocated to a small Petri dish (3 cm in diameter) to examine the germination rates by incubation for 2 h at 25°C. Pollen intactness and pollen tube growth were observed with an optical microscope (IX51, Olympus, Osaka, Japan). Eight replications were taken with 60 pollen grains for each image.</p>
+          <fig id="F2" position="float">
+            <label>FIGURE 2</label>
+            <caption>
+              <p><bold>Aeration treatment of sucrose solution for suspending maize pollen.</bold> Sieved pollen was suspended in 15% sterilized sucrose solution in a beaker and the suspension was aerated by an air pump for 20 min prior to ultrasonication treatment.</p>
+            </caption>
+            <graphic xlink:href="fpls-08-00383-g002"/>
+          </fig>
+        </sec>
+        <sec>
+          <title>Sonication Treatment</title>
+          <p>The best combination of aeration time and temperature showing optimal pollen intactness, germination rate, and pollen tube growth was applied to pollen suspension before a sonication pre-treatment, then the pollen grains were treated with an ultrasonic homogenizer (Ningbo Scientz Biotechnology Co. Ltd., China, JY92-llN; Frequency: 20–25 Hz) by submerging the probe of the homogenizer into the pollen suspension. The power of the ultrasonic homogenizer was set to 150 W and the sonication lasted for 10 s each time with an interval of 10 s for a total of six times.</p>
+          <p>Ten microgram of plasmid DNA (approximately 1: 30,000 W/W of DNA: pollen) was added to the treated pollen suspension and then sonicated again as described above. All the sonication procedures were performed on ice to protect DNA and pollen contents from being degraded or damaged. Untreated pollen mixed with plasmid DNA was used as control.</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>Pollination</title>
+        <p>The treated pollen suspension was incubated at room temperature for 10 min following the ultrasonication to let the pollen grains to sediment and the supernatant was then carefully discarded. The pollen mass obtained was gently brushed onto the silks of recipients. The pollinated ears were then bagged to protect stray pollen contamination. The mature ears were harvested and the seeds were collected and stored at room temperature until they were sown in the following year. Approximately one thousand maize ears were pollinated and harvested for each treatment, and seed setting were recorded for each ear.</p>
+      </sec>
+      <sec>
+        <title>Transformant Screening</title>
+        <p>In contrast to the transformation of somatic cells, we define the primary transgenic kernels as T<sub>1</sub> kernels and the seedlings from the kernels are T<sub>1</sub> plants. Harvested T<sub>1</sub> kernels were sown in the field as described. At 5–6 leaf stage, fresh leaves from T<sub>1</sub> seedlings were collected (for plants pollinated with pLM01 DNA) or sprayed with herbicide Basta (50 μl L<sup>-1</sup>) to select survived plants (for plants pollinated with plasmid p3301UbiAc DNA ), and total DNA was extracted with CTAB method for subsequent molecular analysis (<xref rid="B5" ref-type="bibr">Doyle, 1991</xref>).</p>
+      </sec>
+      <sec>
+        <title>Scanning Electron Microscopy (SEM)</title>
+        <p>Pollen grains from sonication and control groups were fixed in 2% glutaraldehyde solution (0.2M, pH7.1 phosphate buffer) and kept at 4°C until further processing. Pollen grains were dehydrated in gradient alcohol solutions at the concentrations of 30, 50, 70, 90, and 100%, each for 10 min successively. The dehydrated samples were then dried at the ambient temperature overnight, and coated with gold using a JEOL JFC-1600 AUTO COATER. The morphology of the pollen grains was viewed and images taken under a scanning electron microscope (JEOL JSM-7500, Field Emission Scanning Electron Microscope, JEOL, Ltd Tokyo Japan).</p>
+      </sec>
+      <sec>
+        <title>Fluorescence Microscopy and Imaging</title>
+        <p>Pollen, pollen tube, and embryo were observed and photographed under bright field with white light illumination using an Olympus Microscope (U-LH100HG, Olympus, Osaka, Japan). <italic>EGfp</italic> expression was observed under fluorescence microscope at 0.5 h interval with blue light (495 nm) as the exciting light. A drop of pollen suspension from various treatment groups was incubated at 25°C on the glass slide kept in a covered Petri dish containing wet filter paper. Pollen tubes were observed 2.5–3 h after sonication treatment. Embryos were excised with a scalpel harvested at 15 days after pollination and then observed and photographed under bright field and fluorescence microscope as described above.</p>
+      </sec>
+      <sec>
+        <title>Polymerase Chain Reaction</title>
+        <p>Polymerase chain reaction (PCR) was performed to detect the presence of <italic>Cry1Ac</italic> or <italic>Apr</italic> gene fragment with primer pairs (Forward: 5′- CTG ACC GTG ACC GTG CTG -3′ Reverse 5′- TGG the TGC CGT AGG CGA ACT -3′, which was ∼500bp, or Forward: 5′- ATGAGTATTCAACATTTCCG -3′ Reverse 5′-TTTGGTATGGCTTCATTCAG -3′, which was ∼500 bp. The primers were synthesized by Sangon Biotechnology Company, Shanghai, China. PCR was performed in a volume of 25 μl consisting of 2.5 μl 10× reaction buffer, 200 mM dNTPs, 15 mM MgCl2, 100 ng of DNA, 0.5 μM of each primer, and 0.5 U of Taq DNA polymerase (TaKaRa), using a PTC-200 Thermal Cycler (MJ Research, Watertown, MA, USA). The PCR cycles were: initial denaturation at 94°C for 5 min, then 30 cycles of 94°C for 30 s, 56°C for 45 s, 72°C for 30 s, and a final extension at 72°C for 10 min. The amplified products were electrophoresed on 1% agarose gel, visualized and photographed under ultraviolet light following ethidium bromide staining.</p>
+      </sec>
+      <sec>
+        <title>Southern Blot</title>
+        <p>Southern hybridization was performed with a <italic>Cry1Ac</italic> specific probe. Plasmid P3301UbiAc DNA was used as PCR template with the primers 5′- CTG ACC GTG ACC GTG CTG -3′(Forward) and 5′-TGG TGC CGT AGG CGA ACT -3′(Reverse), and the probe was labeled with digoxigenin which was ∼500 bp. Approximately 15 μg genomic DNA of the PCR-positive T<sub>2</sub> and control plants were purified as described and digested overnight, with <italic>Hind</italic> III endonucleases (<italic>Hind</italic> III cuts once in the plasmid). And the digested DNA was then separated on a 1% agarose gel followed by transferring the fragments to a nylon membrane. The membrane was subjected to hybridization over night with digoxigenin labeled probe that was then detected by the digoxigenin luminescence detection procedure according to the instruction of Roche DIG High Prime DNA Labeling and Detection Starter Kit II (Roche Applied Science, Penzberg, Upper Bavaria, Germany).</p>
+      </sec>
+      <sec>
+        <title>Statistical Analysis</title>
+        <p>Pollen viability and kernel set data were analyzed using the statistical package IBM<sup>®</sup> SPSS<sup>®</sup> Statistics package, version 19 (IBM Corporation). The main effects of aeration and temperature, and their interactions were examined by analysis of variance using the general linear model. The data of individual treatments were subjected to one-way ANOVA analysis to determine the optimal treatment conditions.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Results</title>
+      <sec>
+        <title>Effects of Aeration and Temperature on Pollen Viability and Kernel Set</title>
+        <p>Aeration of the sucrose solution significantly reduced the broken rate of pollen grains (<italic>P</italic> &lt; 0.001), improved pollen germination rate (<italic>P</italic> &lt; 0.01) and increased the pollen tube length (<italic>P</italic> &lt; 0.05) (<bold>Table <xref ref-type="table" rid="T1">1</xref></bold>). Similar effects were also observed following lower temperature (4°C) treatment with significantly reduced pollen broken rate (<italic>P</italic> &lt; 0.05), improved germination rate (<italic>P</italic> &lt; 0.001), and longer pollen tube (<italic>P</italic> &lt; 0.01). Overall, the combination of aeration for 20 min at 4°C produced best pollen performance following sonication treatment, i.e., lowest broken rate (24.5%), highest germination rate (11.91%), and longest pollen tube (1528 μm). Furthermore, aeration treatment of pollen prior to sonication for 20 min at 4°C significantly increased kernel set of the recipient ears pollinated with the treated pollen (<bold>Figure <xref ref-type="fig" rid="F3">3</xref></bold>). Therefore, this optimal condition was used for the subsequent transformation procedure.</p>
+        <table-wrap id="T1" position="float">
+          <label>Table 1</label>
+          <caption>
+            <p>Effects of aeration and temperature prior to sonication on pollen germination and pollen tube growth of maize.</p>
+          </caption>
+          <table frame="hsides" rules="groups" cellspacing="5" cellpadding="5">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">Treatment</th>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">Aeration</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">Temperature</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">Broken rate (%)<sup>∗</sup></th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <italic>SE</italic>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">Germination rate (%)<sup>∗</sup></th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <italic>SE</italic>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">Length of pollen tube (μm)<sup>∗</sup></th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <italic>SE</italic>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="center" rowspan="1" colspan="1">No</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">25°C</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">80.1<sup>a</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">8.2</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.74 <sup>c</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.22</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">822<sup>c</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">100</td>
+              </tr>
+              <tr>
+                <td valign="top" align="center" rowspan="1" colspan="1">No</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4°C</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">61.0<sup>b</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6.8</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">8.19 <sup>b</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.36</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1378<sup>ab</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">137</td>
+              </tr>
+              <tr>
+                <td valign="top" align="center" rowspan="1" colspan="1">Yes</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">25°C</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">32.5<sup>c</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.2</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6.03 <sup>b</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.23</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1222<sup>b</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">113</td>
+              </tr>
+              <tr>
+                <td valign="top" align="center" rowspan="1" colspan="1">Yes</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4°C</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">24.5 <sup>c</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.4</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">11.9 <sup>a</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.39</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1528<sup>a</sup></td>
+                <td valign="top" align="center" rowspan="1" colspan="1">150</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>One-way ANOVA (P)</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"><italic>P</italic> &lt; 0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"><italic>P</italic> &lt; 0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"><italic>P</italic> &lt; 0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Main effect</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td valign="top" align="center" rowspan="1" colspan="1">Aeration</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">No</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">70.6</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">7.5</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5.96</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.29</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1100</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">118</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">Yes</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">28.5</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.8</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">8.97</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.81</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1375</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">131</td>
+              </tr>
+              <tr>
+                <td valign="top" align="center" rowspan="1" colspan="1">Temperature</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">RT</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">56.3</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6.2</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.88</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.73</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1022</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">106</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">4°C</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">42.8</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5.2</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">10.05</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.87</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1453</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">143</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Two-way ANOVA (P)</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">Aeration</td>
+                <td valign="top" align="center" rowspan="1" colspan="1"><italic>P</italic> &lt; 0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"><italic>P</italic> &lt; 0.01</td>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"><italic>P</italic> &lt; 0.05</td>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">Temperature</td>
+                <td valign="top" align="center" rowspan="1" colspan="1"><italic>P</italic> &lt; 0.05</td>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"><italic>P</italic> &lt; 0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"><italic>P</italic> &lt; 0.01</td>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">Aeration x Temperature</td>
+                <td valign="top" align="center" rowspan="1" colspan="1"><italic>P</italic> &gt; 0.05</td>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"><italic>P</italic> &gt; 0.05</td>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"><italic>P</italic> &gt; 0.05</td>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"/>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <attrib><italic>Means in the same column not sharing same letters are significantly different at the level of P &lt; 0.05</italic>.</attrib>
+          </table-wrap-foot>
+        </table-wrap>
+        <fig id="F3" position="float">
+          <label>FIGURE 3</label>
+          <caption>
+            <p><bold>Kernel set per ear on recipient plants following pollination of the sonication treated pollen with or without aeration at 4°C or 25°C prior to transformation of the foreign genes</bold>.</p>
+          </caption>
+          <graphic xlink:href="fpls-08-00383-g003"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Pollen Grain Morphology Following Ultrasonication Treatment</title>
+        <p>Under normal conditions as shown in the control group that was not treated with ultrasonication in the current study, the germination pore of maize pollen grains was covered by an operculum as shown by scanning electrical microscopic image in <bold>Figure <xref ref-type="fig" rid="F4">4a</xref></bold>. However, operculums of some pollen grains were removed following ultrasonication treatments. (<bold>Figure <xref ref-type="fig" rid="F4">4b</xref></bold>). In the present study, of 225 pollen grains observed, 3 were found with removed operculums which accounted for 1.33%.</p>
+        <fig id="F4" position="float">
+          <label>FIGURE 4</label>
+          <caption>
+            <p><bold>Scanning electrical microscopic (SEM) micrographs of maize pollen grains. (a)</bold> a pollen grain suspended in a 15% sucrose solution in the control group without ultrasonication, showing the presence of an operculum covering the pore; <bold>(b)</bold> a pollen grain suspended in a 15% sucrose solution at 4°C and treated with ultrasonication at the power of 150 W for 10 s with an interval of 10 s for six times, showing the absence of the operculum leading the wide opening of the pore.</p>
+          </caption>
+          <graphic xlink:href="fpls-08-00383-g004"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Expression of <italic>eGfp</italic> in the Reproductive System</title>
+        <p>The enhanced <italic>Gfp</italic> gene (<italic>eGfp</italic>) cloned in the plasmid construct pLM01 and driven by the double CaMV 35S promoter (P35S promoter) was transformed to pollen grains following the ultrasonication treatments. The expression of <italic>eGfp</italic> was observed in a pollen tube germinated from the transformed pollen grain. No <italic>eGfp</italic> expression, however, was detected in the pollen tubes germinated from the pollen grains in the untransformed pollen, although pollen tubes were clearly visible (<bold>Figure <xref ref-type="fig" rid="F5">5</xref></bold>). Following controlled pollination of the <italic>eGfp</italic> transformed pollen treated by ultrasonication, the expression of <italic>eGfp</italic> in the embryos of 15 days post pollination was observed, and the average transformed embryos accounted for 33.3% (<bold>Table <xref ref-type="table" rid="T2">2</xref></bold>) whereas the embryos from untransformed pollen did not show <italic>eGfp</italic> expression from all the plants (<bold>Figure <xref ref-type="fig" rid="F6">6</xref></bold>).</p>
+        <fig id="F5" position="float">
+          <label>FIGURE 5</label>
+          <caption>
+            <p><bold>Expression of <italic>eGfp</italic> in pollen tubes germinated from transformed pollen grains. (a,d)</bold> Fresh pollen grains suspended in 15% sterilized sucrose solution; <bold>(b,e)</bold> germinated pollen grains incubated with recombinant plasmid containing <italic>eGfp</italic> gene without ultrasonication treatment applied; <bold>(c,f)</bold> germinated pollen grains incubated with recombinant plasmid containing <italic>eGfp</italic> with ultrasonication treatment applied. <bold>(a</bold>–<bold>c)</bold> Photographed under bright field with white light illumination; <bold>(d–f)</bold> photographed under blue light illumination. <italic>EGfp</italic> expression is visible in a pollen tube (white arrows shown in <bold>c,f</bold>) of the ultrasonication treated pollen grains, whereas no <italic>eGfp</italic> expression was observed in the pollen tubes of untransformed pollen grains, although pollen tubes are clearly visible under while light illumination. Pollen suspension from all treatment groups were incubated at 25°C.</p>
+          </caption>
+          <graphic xlink:href="fpls-08-00383-g005"/>
+        </fig>
+        <table-wrap id="T2" position="float">
+          <label>Table 2</label>
+          <caption>
+            <p>Summary of eGfp observed in embryos.</p>
+          </caption>
+          <table frame="hsides" rules="groups" cellspacing="5" cellpadding="5">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">Replicate</th>
+                <th valign="top" align="left" rowspan="1" colspan="1">No. of observed embryos</th>
+                <th valign="top" align="left" rowspan="1" colspan="1">No. of transformed embryos</th>
+                <th valign="top" align="left" rowspan="1" colspan="1">Transformation frequency (%)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">15</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">40.0</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">2</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">8</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">25.0</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">3</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">10</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">30.0</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Average transformation frequency (%)</bold>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">33.3</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"/>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <fig id="F6" position="float">
+          <label>FIGURE 6</label>
+          <caption>
+            <p><bold>Expression of <italic>eGfp</italic> in the embryos following the pollination of the plants with <italic>eGfp</italic>-transformed pollen grains. (a)</bold> Embryos photographed under bright field with white light illumination. All three embryos are indistinguishable morphologically under such illumination; <bold>(b)</bold> Embryos photographed under blue light illumination. Two embryos on both sides produced from ears pollinated with pollen transformed with <italic>eGfp</italic> gene show the green fluorescence suggesting the expression of <italic>eGfp</italic>; the embryo in the middle (CT) produced from pollination with untransformed pollen does not show fluorescence indicating the absence of <italic>eGfp</italic> expression.</p>
+          </caption>
+          <graphic xlink:href="fpls-08-00383-g006"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Detection of <italic>Cry1Ac</italic> or <italic>Apr</italic> Gene in the Leaves of T<sub>1</sub> and Its Progeny Plants</title>
+        <p>Presence of <italic>Cry1Ac</italic> or <italic>Apr</italic> gene was analyzed in the leaves of T<sub>1</sub> plants. It was shown that the <italic>Cry1Ac</italic> or <italic>Apr</italic> gene was detected in the leaves of T<sub>1</sub> plants by PCR amplification. However, the primers were not able to amplify the gene in the untransformed maize inbred lines. The frequencies of transformed T<sub>1</sub> plants were summarized in <bold>Table <xref ref-type="table" rid="T3">3</xref></bold>. Insertion of <italic>Cry1Ac</italic> gene in the maize genome was identified by Southern blot analysis of individuals produced from self-pollinated T<sub>1</sub> plants with the probe specific to the gene, but no such hybridization was observed when the untransformed maize inbred line Zheng58 was used in the assay (<bold>Figure <xref ref-type="fig" rid="F7">7</xref></bold>). Segregation in T<sub>2</sub> seedlings analyzed by PCR also confirmed the stable transmission of foreign genes via pollen-mediated genetic transformation (<bold>Table <xref ref-type="table" rid="T4">4</xref></bold>).</p>
+        <table-wrap id="T3" position="float">
+          <label>Table 3</label>
+          <caption>
+            <p>Summary of transformation frequencies of T<sub>1</sub> plants.</p>
+          </caption>
+          <table frame="hsides" rules="groups" cellspacing="5" cellpadding="5">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">Transformed plasmid</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">Receptor</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">Gene detected</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">No. of PCR positive plants / plants analyzed</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">pLM01</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">Zheng58</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <italic>Apr</italic>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4/22</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">pLM01</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">Dika527</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <italic>Apr</italic>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">8/25</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">p3301UbiAc</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">Zheng58</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <italic>Cry1Ac</italic>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">24/74</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Average frequencies of transformed T<sub>1</sub> plants (%)</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">29.8</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"/>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <fig id="F7" position="float">
+          <label>FIGURE 7</label>
+          <caption>
+            <p><bold>Detection of <italic>Cry1Ac</italic> gene was analyzed in the leaves of T<sub>1</sub> and its progeny plants through PCR amplification and Southern blot. (A)</bold> PCR amplicons as part of <italic>Cry1Ac</italic> gene. M, DNA molecular standard with bands labeled in base pairs; +C, positive control with plasmid P3301UbiAc DNA as PCR template; –C, negative control with total genomic DNA of untransformed maize inbred line Zheng58 as PCR template; 1–7, transformed plant individuals. <bold>(B)</bold> Southern blot analysis of T<sub>2</sub> individuals positive to PCR analysis. M, DNA molecular weight standard labeled with DIG; +C, positive control with plasmid P3301UbiAc DNA digested with <italic>Hind</italic> III; –C, negative control with total genomic DNA of untransformed maize inbred line Zheng58 as PCR template; 1–7, individuals (1, 3, and 6), 4, and (2, 5, and 7), respectively, are from three different lines of T<sub>1</sub>. Genomic DNA of the PCR-positive and control plants was digested with <italic>Hind</italic> III <bold>(B)</bold>.</p>
+          </caption>
+          <graphic xlink:href="fpls-08-00383-g007"/>
+        </fig>
+        <table-wrap id="T4" position="float">
+          <label>Table 4</label>
+          <caption>
+            <p>Segregation of the <italic>Apr</italic> gene in T<sub>2</sub> seedlings<sup>a</sup>.</p>
+          </caption>
+          <table frame="hsides" rules="groups" cellspacing="5" cellpadding="5">
+            <thead>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"/>
+                <th valign="top" align="center" colspan="2" rowspan="1">No. of seedlings<hr/></th>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">Line</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">PCR positive</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">PCR negative</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">Ratio (positive/negative)</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">Expected</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">χ<sup>2</sup></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">T2001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">142</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">58</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.45:1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3: 1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.00<sup>b</sup></td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">T2002</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">138</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">108</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.28:1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3: 1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">45.88</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">T2004</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">136</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">56</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.43:1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3: 1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.00<sup>b</sup></td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"/>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <attrib><sup>a</sup><italic>T<sub>2</sub> progeny was from the self-pollination of selected T<sub>1</sub> plants</italic>.</attrib>
+          </table-wrap-foot>
+          <table-wrap-foot>
+            <attrib><sup>b</sup><italic>Indicated significance fit the expected segregation ratio (p &lt; 0.05)</italic>.</attrib>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+    </sec>
+    <sec>
+      <title>Discussion</title>
+      <p>In the current study, we demonstrated that the foreign genes were transformed through pollen-mediated transformation method following ultrasonication treatment and expressed in the pollen tubes, embryos and progenies after transformation with the optimization of the pre-sonication treatment by aeration for 20 min at 4°C.</p>
+      <p>Male sexual reproduction system is an ideal pathway for genetic transformation. In animals, use of reproductive system in transgenic manipulation has been performed more than two decades ago (<xref rid="B27" ref-type="bibr">Wagner and Hoppe, 1989</xref>), and lately such gene transfer technique has been widely used in different animals including livestock (<xref rid="B18" ref-type="bibr">Nagano et al., 2001</xref>; <xref rid="B19" ref-type="bibr">Oatley et al., 2004</xref>). In plants, attempts to use pollen as a pathway for genetic transformation have been reported by <xref rid="B10" ref-type="bibr">Kumlehn et al. (2006)</xref> and <xref rid="B24" ref-type="bibr">Shim et al. (2009)</xref>. However, an efficient way for the production of transgenic plants that can be widely applied in the breeding program is needed. The present study demonstrated the effectiveness of pollen-mediated transformation, elucidated the possible mechanisms underlying the transformation, and presented evidences of such transformation at molecular and histological levels. These suggest that the method has a potential role in plant improvement due to its merits: i.e., bypassing tissue culture procedure, simple to operate and flexible in its applications in different species and varieties.</p>
+      <p>Ultrasonication has been used in a few studies to treat tissues or protoplasts for easy access to the genome of recipients by foreign DNA molecules in plants (<xref rid="B31" ref-type="bibr">Zhang et al., 1991</xref>; <xref rid="B9" ref-type="bibr">Joersbo and Brunstedt, 1992</xref>; <xref rid="B28" ref-type="bibr">Wang et al., 2008</xref>; <xref rid="B32" ref-type="bibr">Zhang et al., 2015</xref>) and animals (<xref rid="B1" ref-type="bibr">Bao et al., 1997</xref>; <xref rid="B15" ref-type="bibr">Miller et al., 1999</xref>; <xref rid="B7" ref-type="bibr">Huber and Pfisterer, 2000</xref>; <xref rid="B6" ref-type="bibr">Hirabayashi et al., 2005</xref>). It has been proposed that ultrasonic waves produce high pressure and high temperature lead to the localized rupture of cell wall and thus enhance permeability of the plasma membrane (<xref rid="B13" ref-type="bibr">Liu et al., 2006</xref>; <xref rid="B28" ref-type="bibr">Wang et al., 2008</xref>). They also suggested transient cavitation produced by sonication may have enhanced the entry of foreign DNA into pollen. Here, we demonstrated with scanning electrical microscopy that the operculum covering the pollen germination pore was removed by ultrasonication and at least in some pollen grains, this made them become more competent to receive foreign DNA. We observed the expression of <italic>eGfp</italic> in the major part of the pollen tube. This at least indicates the transgenicity of the vegetative cell. We also found that the expression of <italic>eGfp</italic> in pollen tube appeared to restrict to the tip of pollen tube where vegetative nucleus resides along with the two sperm cells. We are unable to distinguish whether <italic>eGfp</italic> is expressed in the vegetative cell or the generative/sperm cells or both. Since the vegetative nucleus does not contribute to the zygote formation, we suggest that the transmission of foreign genes such as <italic>eGfp</italic> and <italic>Cry1Ac</italic> to T<sub>1</sub> and T<sub>2</sub> generations is likely through the generative/sperm cells given that these cells directly contribute to the formation of the zygote. Eventually, the transgene is passed onto the progeny by the kernel containing embryo developed from the zygote as evidenced by the <italic>eGfp</italic> expression in T<sub>1</sub> embryos and <italic>Cry1Ac</italic> gene presence in the leaves of T<sub>1</sub> plants.</p>
+      <p>These transformed pollen grains perform as vectors to introduce exotic genetic materials into the genome of recipient plants following pollination and fertilization of theirs eggs. To the best of our knowledge, this is the first direct evidence to show how sonication acts on its biological target to make it permeable to allow the uptake of DNA molecules from the surrounding solution. Furthermore, this also indicates that the presence of pollen pore might be the reason to enable pollen to be used as a vector to mediate genetic transformation despite its presence of protective exine wall.</p>
+      <p>To understand the underlying mechanisms of this transformation system more thoroughly, subsequent studies are warranted to investigate the process how the foreign genes are transferred to generative/sperm cells employing, for instance, immuno-gold labeling at scanning electron microscopy (SEM) or TEM level, what is the frequency of such transformation relative to that to vegetative cell and the possible copy numbers of genes transferred to the generative/sperm cells through immuno-histochemical and genetic approaches.</p>
+      <p>In the present study, optimal pre-treatment of pollen grains by aeration of 20 min at 4°C was applied as the aeration and low temperature led to better pollen viability and kernel set. We also observed that fresh pollen could be better kept with the presence of drierite. Such improved pollen grain viability may have helped to some extent the introduction of foreign genes into the recipients due to higher successful pollination and thus improved kernel set during the experiment. Although we used field grown plants as pollen donors in the study, we observed that pollen viability can largely be maintained as long as pollen is collected in clear days according to our previous experiences over years. Therefore, the method is fairly robust and can be readily used by the breeders who do not have expensive greenhouse facilities. Nevertheless, the efficiency of the method can be improved under controlled conditions.</p>
+      <p>The pollen-mediated transformation system developed by our group has been proved effective in delivering foreign genes to directly generate transgenic kernels without using tissue culture procedures. The optimization of treatment conditions to pollen grains prior to sonication makes it more efficient. This system has many advantages over traditional tissue culture-based transformation system, i.e., its simplicity, fast turnaround, low costs, so that breeders can utilize such transformation system in their breeding program without excessive efforts of training and need of expensive equipment. We believe this pollen-mediated transformation system is a promising tool and will play an important role in plant breeding area.</p>
+    </sec>
+    <sec>
+      <title>Author Contributions</title>
+      <p>LY performed SEM and fluorescence microscopy observations with <italic>eGfp</italic> expression and pollen morphological analysis, and jointly drafted the manuscript; GC optimized sonication treatments of pollen grains; YW performed PCR and Southern analysis; JD, HZ, YH, and HZ participated pollen transformation, pollination and data collection; CW managed field treatment, observation and data collection; S-BW participated experiment design, performed data analysis, and jointly drafted manuscript; YS conceived of, designed and coordinated the study, analyzed the data, and critically revised the manuscript. All authors have read and approved the final manuscript.</p>
+    </sec>
+    <sec>
+      <title>Conflict of Interest Statement</title>
+      <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn fn-type="financial-disclosure">
+        <p><bold>Funding.</bold> The research was supported by the grants of National Science and Technology Major Project for Genetically-Modified Organisms Breeding from Chinese Ministry of Agriculture (2014ZX08003-001) and Fund Program for the Scientific Activities of Selected Returned Overseas Professionals in Shanxi Province (2014-95).</p>
+      </fn>
+    </fn-group>
+    <ack>
+      <p>We are grateful to Prof. Guoying Wang of Chinese Academy of Agricultural Sciences for providing us with plasmid p3301UbiAc, and Prof. Kan Wang of Iowa State University for providing us with plasmid pLM01. Ming Wang, Xiaoqing Wang, Zhe Chen, Jia Zhao, Ynhui Dong, and Xinghua Zhao assisted pollen collection, pollination, and field data recording.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bao</surname><given-names>S.</given-names></name><name><surname>Thrall</surname><given-names>B. D.</given-names></name><name><surname>Miller</surname><given-names>D. L.</given-names></name></person-group> (<year>1997</year>). <article-title>Transfection of a reporter plasmid into cultured cells by sonoporationin vitro.</article-title>
+<source><italic>Ultrasound Med. Biol.</italic></source>
+<volume>23</volume>
+<fpage>953</fpage>–<lpage>959</lpage>. <pub-id pub-id-type="doi">10.1016/S0301-5629(97)00025-2</pub-id><pub-id pub-id-type="pmid">9300999</pub-id></mixed-citation>
+      </ref>
+      <ref id="B2">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Birch</surname><given-names>R. G.</given-names></name></person-group> (<year>1997</year>). <article-title>Plant transformation: problems and strategies for practical application.</article-title>
+<source><italic>Annu. Rev. Plant Biol.</italic></source>
+<volume>48</volume>
+<fpage>297</fpage>–<lpage>326</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.arplant.48.1.297</pub-id></mixed-citation>
+      </ref>
+      <ref id="B3">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Booy</surname><given-names>G.</given-names></name><name><surname>Krens</surname><given-names>F. A.</given-names></name><name><surname>Huizing</surname><given-names>H. J.</given-names></name></person-group> (<year>1989</year>). <article-title>Attempted pollen-mediated transformation of maize.</article-title>
+<source><italic>J. Plant Physiol.</italic></source>
+<volume>135</volume>
+<fpage>319</fpage>–<lpage>324</lpage>. <pub-id pub-id-type="doi">10.1016/S0176-1617(89)80126-9</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Clough</surname><given-names>S. J.</given-names></name><name><surname>Bent</surname><given-names>A. F.</given-names></name></person-group> (<year>1998</year>). <article-title>Floral dip: a simplified method for <italic>Agrobacterium</italic>-mediated transformation of <italic>Arabidopsis thaliana</italic>.</article-title>
+<source><italic>Plant J.</italic></source>
+<volume>16</volume>
+<fpage>735</fpage>–<lpage>743</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-313x.1998.00343.x</pub-id><pub-id pub-id-type="pmid">10069079</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Doyle</surname><given-names>J.</given-names></name></person-group> (<year>1991</year>). <source><italic>DNA Protocols for Plants. Molecular Techniques in Taxonomy.</italic></source>
+<publisher-loc>Berlin</publisher-loc>: <publisher-name>Springer</publisher-name>
+<fpage>283</fpage>–<lpage>293</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B6">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hirabayashi</surname><given-names>M.</given-names></name><name><surname>Kato</surname><given-names>M.</given-names></name><name><surname>Ishikawa</surname><given-names>A.</given-names></name><name><surname>Kaneko</surname><given-names>R.</given-names></name><name><surname>Yagi</surname><given-names>T.</given-names></name><name><surname>Hochi</surname><given-names>S.</given-names></name></person-group> (<year>2005</year>). <article-title>Factors affecting production of transgenic rats by ICSI-mediated DNA transfer: effects of sonication and freeze -thawing of spermatozoa, rat strains for sperm and oocyte donors, and different constructs of exogenous DNA.</article-title>
+<source><italic>Mol. Reprod. Dev.</italic></source>
+<volume>70</volume>
+<fpage>422</fpage>–<lpage>428</lpage>. <pub-id pub-id-type="doi">10.1002/mrd.20223</pub-id><pub-id pub-id-type="pmid">15685640</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Huber</surname><given-names>P. E.</given-names></name><name><surname>Pfisterer</surname><given-names>P.</given-names></name></person-group> (<year>2000</year>). <article-title>In vitro and in vivo transfection of plasmid DNA in the dunning prostate tumor R3327-AT1 is enhanced by focused ultrasound.</article-title>
+<source><italic>Gene Ther.</italic></source>
+<volume>7</volume>
+<fpage>1516</fpage>–<lpage>1525</lpage>. <pub-id pub-id-type="doi">10.1038/sj.gt.3301242</pub-id><pub-id pub-id-type="pmid">11001372</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ioannidis</surname><given-names>N. E.</given-names></name><name><surname>Malliarakis</surname><given-names>D.</given-names></name><name><surname>Torné</surname><given-names>J. M.</given-names></name><name><surname>Santos</surname><given-names>M.</given-names></name><name><surname>Kotzabasis</surname><given-names>K.</given-names></name></person-group> (<year>2016</year>). <article-title>The over-expression of the plastidial transglutaminase from maize in <italic>Arabidopsis</italic> increases the activation threshold of photoprotection.</article-title>
+<source><italic>Front. Plant Sci.</italic></source>
+<volume>7</volume>:<issue>635</issue>
+<pub-id pub-id-type="doi">10.3389/fpls.2016.00635</pub-id></mixed-citation>
+      </ref>
+      <ref id="B9">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Joersbo</surname><given-names>M.</given-names></name><name><surname>Brunstedt</surname><given-names>J.</given-names></name></person-group> (<year>1992</year>). <article-title>Sonication: a new method for gene transfer to plants.</article-title>
+<source><italic>Physiol. Plant</italic></source>
+<volume>85</volume>
+<fpage>230</fpage>–<lpage>234</lpage>. <pub-id pub-id-type="doi">10.1111/j.1399-3054.1992.tb04727.x</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kumlehn</surname><given-names>J.</given-names></name><name><surname>Serazetdinova</surname><given-names>L.</given-names></name><name><surname>Hensel</surname><given-names>G.</given-names></name><name><surname>Becker</surname><given-names>D.</given-names></name><name><surname>Loerz</surname><given-names>H.</given-names></name></person-group> (<year>2006</year>). <article-title>Genetic transformation of barley (<italic>Hordeum vulgare</italic> L.) via infection of androgenetic pollen cultures with <italic>Agrobacterium tumefaciens</italic>.</article-title>
+<source><italic>Plant Biotechnol. J.</italic></source>
+<volume>4</volume>
+<fpage>251</fpage>–<lpage>261</lpage>. <pub-id pub-id-type="doi">10.1111/j.1467-7652.2005.00178.x</pub-id><pub-id pub-id-type="pmid">17177801</pub-id></mixed-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>X.</given-names></name><name><surname>Wang</surname><given-names>X. D.</given-names></name><name><surname>Zhao</surname><given-names>X.</given-names></name><name><surname>Dutt</surname><given-names>Y.</given-names></name></person-group> (<year>2004</year>). <article-title>Improvement of cotton fiber quality by transforming the ascA and acsB genes into <italic>Gossypium hirsutum</italic> L. by means of vacuum infiltration.</article-title>
+<source><italic>Plant Cell Rep.</italic></source>
+<volume>22</volume>
+<fpage>691</fpage>–<lpage>697</lpage>. <pub-id pub-id-type="doi">10.1007/s00299-003-0751-1</pub-id><pub-id pub-id-type="pmid">14740167</pub-id></mixed-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lian</surname><given-names>Y.</given-names></name><name><surname>Jia</surname><given-names>Z.</given-names></name><name><surname>He</surname><given-names>K.</given-names></name><name><surname>Liu</surname><given-names>Y.</given-names></name><name><surname>Song</surname><given-names>F.</given-names></name><name><surname>Wang</surname><given-names>B.</given-names></name><etal/></person-group> (<year>2008</year>). <article-title>Transgenic tobacco plants expressing synthetic Cry1Ac and Cry1Ie genes are more toxic to cotton bollworm than those containing one gene.</article-title>
+<source><italic>Chin. Sci. Bull.</italic></source>
+<volume>53</volume>
+<fpage>1381</fpage>–<lpage>1387</lpage>. <pub-id pub-id-type="doi">10.1007/s11434-008-0182-z</pub-id></mixed-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liu</surname><given-names>Y.</given-names></name><name><surname>Yang</surname><given-names>H.</given-names></name><name><surname>Sakanishi</surname><given-names>A.</given-names></name></person-group> (<year>2006</year>). <article-title>Ultrasound: mechanical gene transfer into plant cells by sonoporation.</article-title>
+<source><italic>Biotechnol. Adv.</italic></source>
+<volume>24</volume>
+<fpage>1</fpage>–<lpage>16</lpage>. <pub-id pub-id-type="doi">10.1016/j.biotechadv.2005.04.002</pub-id><pub-id pub-id-type="pmid">15935607</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Luo</surname><given-names>Z. X.</given-names></name><name><surname>Wu</surname><given-names>R.</given-names></name></person-group> (<year>1989</year>). <article-title>A simple method for the transformation of rice via the pollen-tube pathway.</article-title>
+<source><italic>Plant Mol. Biol. Report.</italic></source>
+<volume>7</volume>
+<fpage>69</fpage>–<lpage>77</lpage>. <pub-id pub-id-type="doi">10.1007/BF00269517</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Miller</surname><given-names>D. L.</given-names></name><name><surname>Bao</surname><given-names>S.</given-names></name><name><surname>Gies</surname><given-names>R. A.</given-names></name><name><surname>Thrall</surname><given-names>B. D.</given-names></name></person-group> (<year>1999</year>). <article-title>Ultrasonic enhancement of gene transfection in murine melanoma tumors.</article-title>
+<source><italic>Ultrasound Med. Biol.</italic></source>
+<volume>25</volume>
+<fpage>1425</fpage>–<lpage>1430</lpage>. <pub-id pub-id-type="doi">10.1016/S0301-5629(99)00105-2</pub-id><pub-id pub-id-type="pmid">10626630</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Miller</surname><given-names>P. D.</given-names></name></person-group> (<year>1982</year>). <article-title>“Maize pollen: collection and enzymology,” in</article-title>
+<source><italic>Maize for Biological Research</italic></source>
+<role>ed.</role>
+<person-group person-group-type="editor"><name><surname>Sheridan</surname><given-names>W. F.</given-names></name></person-group> (<publisher-loc>Charlottesville, VA</publisher-loc>: <publisher-name>Plant Molecular Biology Association</publisher-name>) <fpage>279</fpage>–<lpage>293</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Moeller</surname><given-names>L.</given-names></name><name><surname>Gan</surname><given-names>Q.</given-names></name><name><surname>Wang</surname><given-names>K.</given-names></name></person-group> (<year>2009</year>). <article-title>A bacterial signal peptide is functional in plants and directs proteins to the secretory pathway.</article-title>
+<source><italic>J. Exp. Bot.</italic></source>
+<volume>60</volume>
+<fpage>3337</fpage>–<lpage>3352</lpage>. <pub-id pub-id-type="doi">10.1093/jxb/erp167</pub-id><pub-id pub-id-type="pmid">19491306</pub-id></mixed-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nagano</surname><given-names>M.</given-names></name><name><surname>Brinster</surname><given-names>C. J.</given-names></name><name><surname>Orwig</surname><given-names>K. E.</given-names></name><name><surname>Ryu</surname><given-names>B. Y.</given-names></name><name><surname>Avarbock</surname><given-names>M. R.</given-names></name><name><surname>Brinster</surname><given-names>R. L.</given-names></name></person-group> (<year>2001</year>). <article-title>Transgenic mice produced by retroviral transduction of male germ-line stem cells.</article-title>
+<source><italic>Proc. Natl. Acad. Sci. U.S.A.</italic></source>
+<volume>98</volume>
+<fpage>13090</fpage>–<lpage>13095</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.231473498</pub-id><pub-id pub-id-type="pmid">11606778</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Oatley</surname><given-names>J. M.</given-names></name><name><surname>de Avila</surname><given-names>D. M.</given-names></name><name><surname>Reeves</surname><given-names>J. J.</given-names></name><name><surname>McLean</surname><given-names>D. J.</given-names></name></person-group> (<year>2004</year>). <article-title>Spermatogenesis and germ cell transgene expression in xenografted bovine testicular tissue.</article-title>
+<source><italic>Biol. Reprod.</italic></source>
+<volume>71</volume>
+<fpage>494</fpage>–<lpage>501</lpage>. <pub-id pub-id-type="doi">10.1095/biolreprod.104.027953</pub-id><pub-id pub-id-type="pmid">15070832</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ohta</surname><given-names>Y.</given-names></name></person-group> (<year>1986</year>). <article-title>High-efficiency genetic transformation of maize by a mixture of pollen and exogenous DNA.</article-title>
+<source><italic>Proc. Natl. Acad. Sci. U.S.A.</italic></source>
+<volume>83</volume>
+<fpage>715</fpage>–<lpage>719</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.83.3.715</pub-id><pub-id pub-id-type="pmid">16593654</pub-id></mixed-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rao</surname><given-names>A. Q.</given-names></name><name><surname>Bakhsh</surname><given-names>A.</given-names></name><name><surname>Kiani</surname><given-names>S.</given-names></name><name><surname>Shahzad</surname><given-names>K.</given-names></name><name><surname>Shahid</surname><given-names>A. A.</given-names></name><name><surname>Husnain</surname><given-names>T.</given-names></name><etal/></person-group> (<year>2009</year>). <article-title>The myth of plant transformation.</article-title>
+<source><italic>Biotechnol. Adv.</italic></source>
+<volume>27</volume>
+<fpage>753</fpage>–<lpage>763</lpage>. <pub-id pub-id-type="doi">10.1016/j.biotechadv.2009.04.028</pub-id><pub-id pub-id-type="pmid">19508888</pub-id></mixed-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rivera</surname><given-names>A. L.</given-names></name><name><surname>Gómez-Lim</surname><given-names>M.</given-names></name><name><surname>Fernández</surname><given-names>F.</given-names></name><name><surname>Loske</surname><given-names>A. M.</given-names></name></person-group> (<year>2012</year>). <article-title>Physical methods for genetic plant transformation.</article-title>
+<source><italic>Phys. Life Rev.</italic></source>
+<volume>9</volume>
+<fpage>308</fpage>–<lpage>345</lpage>. <pub-id pub-id-type="doi">10.1016/j.plrev.2012.06.002</pub-id><pub-id pub-id-type="pmid">22704230</pub-id></mixed-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Sambrook</surname><given-names>J. E.</given-names></name><name><surname>Fritsch</surname><given-names>E. F. M.</given-names></name><name><surname>Maniatis</surname><given-names>T. E.</given-names></name></person-group> (<year>1989</year>). <source><italic>Molecular Cloning</italic></source>
+<edition>2th Edn.</edition>
+<publisher-loc>New York, NY</publisher-loc>: <publisher-name>Cold Spring Harbor Laboratory Press.</publisher-name></mixed-citation>
+      </ref>
+      <ref id="B24">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shim</surname><given-names>Y. S.</given-names></name><name><surname>Pauls</surname><given-names>K. P.</given-names></name><name><surname>Kasha</surname><given-names>K. J.</given-names></name></person-group> (<year>2009</year>). <article-title>Transformation of isolated barley (<italic>Hordeum vulgare</italic> L.) microspores: I. the influence of pretreatments and osmotic treatment on the time of DNA synthesis.</article-title>
+<source><italic>Genome</italic></source>
+<volume>52</volume>
+<fpage>166</fpage>–<lpage>174</lpage>. <pub-id pub-id-type="doi">10.1139/g08-112</pub-id><pub-id pub-id-type="pmid">19234565</pub-id></mixed-citation>
+      </ref>
+      <ref id="B25">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shou</surname><given-names>H. X.</given-names></name><name><surname>Palmer</surname><given-names>R. G.</given-names></name><name><surname>Wang</surname><given-names>K.</given-names></name></person-group> (<year>2002</year>). <article-title>Irreproducibility of the soybean pollen-tube pathway transformation procedure.</article-title>
+<source><italic>Plant Mol. Biol. Report.</italic></source>
+<volume>20</volume>
+<fpage>325</fpage>–<lpage>334</lpage>. <pub-id pub-id-type="doi">10.1007/BF02772120</pub-id></mixed-citation>
+      </ref>
+      <ref id="B26">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Torney</surname><given-names>F.</given-names></name><name><surname>Trewyn</surname><given-names>B. G.</given-names></name><name><surname>Lin</surname><given-names>V. S.</given-names></name><name><surname>Wang</surname><given-names>K.</given-names></name></person-group> (<year>2007</year>). <article-title>Mesoporous silica nanoparticles deliver DNA and chemicals into plants.</article-title>
+<source><italic>Nat. Nanotechnol.</italic></source>
+<volume>2</volume>
+<fpage>295</fpage>–<lpage>300</lpage>. <pub-id pub-id-type="doi">10.1038/nnano.2007.108</pub-id><pub-id pub-id-type="pmid">18654287</pub-id></mixed-citation>
+      </ref>
+      <ref id="B27">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Wagner</surname><given-names>T. E.</given-names></name><name><surname>Hoppe</surname><given-names>P. C.</given-names></name></person-group> (<year>1989</year>). <source><italic>Genetic Transformation of Zygotes.</italic></source>
+<publisher-loc>Washington, DC</publisher-loc>: <publisher-name>US Patent and Trademark Office.</publisher-name></mixed-citation>
+      </ref>
+      <ref id="B28">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>J.</given-names></name><name><surname>Li</surname><given-names>Y.</given-names></name><name><surname>Liang</surname><given-names>C.</given-names></name></person-group> (<year>2008</year>). <article-title>Recovery of transgenic plants by pollen-mediated transformation in <italic>Brassica juncea</italic>.</article-title>
+<source><italic>Transgenic Res.</italic></source>
+<volume>17</volume>
+<fpage>417</fpage>–<lpage>424</lpage>. <pub-id pub-id-type="doi">10.1007/s11248-007-9115-x</pub-id><pub-id pub-id-type="pmid">17701081</pub-id></mixed-citation>
+      </ref>
+      <ref id="B29">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>J.</given-names></name><name><surname>Sun</surname><given-names>Y.</given-names></name><name><surname>Cui</surname><given-names>G.</given-names></name><name><surname>Hu</surname><given-names>J.</given-names></name></person-group> (<year>2001</year>). <article-title>Transgenic maize plants obtained by pollen-mediated transformation.</article-title>
+<source><italic>Acta Bot. Sin.</italic></source>
+<volume>43</volume>
+<fpage>275</fpage>–<lpage>279</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B30">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>W.</given-names></name><name><surname>Wang</surname><given-names>J.</given-names></name><name><surname>Yang</surname><given-names>C.</given-names></name><name><surname>Li</surname><given-names>Y.</given-names></name><name><surname>Liu</surname><given-names>L.</given-names></name><name><surname>Xu</surname><given-names>J.</given-names></name></person-group> (<year>2007</year>). <article-title>Pollen mediated transformation of <italic>Sorghum bicolor</italic> plants.</article-title>
+<source><italic>Biotechnol. Appl. Biochem.</italic></source>
+<volume>48</volume>
+<fpage>79</fpage>–<lpage>83</lpage>. <pub-id pub-id-type="doi">10.1042/BA20060231</pub-id><pub-id pub-id-type="pmid">17868021</pub-id></mixed-citation>
+      </ref>
+      <ref id="B31">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhang</surname><given-names>L. J.</given-names></name><name><surname>Cheng</surname><given-names>L. M.</given-names></name><name><surname>Xu</surname><given-names>N.</given-names></name><name><surname>Zhao</surname><given-names>N. M.</given-names></name><name><surname>Li</surname><given-names>C. G.</given-names></name><name><surname>Yuan</surname><given-names>J.</given-names></name><etal/></person-group> (<year>1991</year>). <article-title>Efficient transformation of tobacco by ultrasonication.</article-title>
+<source><italic>Nat. Biotechnol.</italic></source>
+<volume>9</volume>
+<fpage>996</fpage>–<lpage>997</lpage>. <pub-id pub-id-type="doi">10.1038/nbt1091-996</pub-id></mixed-citation>
+      </ref>
+      <ref id="B32">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhang</surname><given-names>Y. M.</given-names></name><name><surname>Zhang</surname><given-names>H. M.</given-names></name><name><surname>Liu</surname><given-names>Z. H.</given-names></name><name><surname>Guo</surname><given-names>X. L.</given-names></name><name><surname>Li</surname><given-names>H. C.</given-names></name><name><surname>Li</surname><given-names>G. L.</given-names></name><etal/></person-group> (<year>2015</year>). <article-title>Inhibition of isoflavone biosynthesis enhanced T-DNA delivery in soybean by improving plant–<italic>Agrobacterium tumefaciens</italic> interaction.</article-title>
+<source><italic>Plant Cell Tissue Organ Cult.</italic></source>
+<volume>121</volume>
+<fpage>183</fpage>–<lpage>193</lpage>. <pub-id pub-id-type="doi">10.1007/s11240-014-0693-z</pub-id></mixed-citation>
+      </ref>
+      <ref id="B33">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhou</surname><given-names>G.</given-names></name><name><surname>Weng</surname><given-names>J.</given-names></name><name><surname>Zeng</surname><given-names>Y.</given-names></name><name><surname>Huang</surname><given-names>J.</given-names></name><name><surname>Qian</surname><given-names>S.</given-names></name><name><surname>Liu</surname><given-names>G.</given-names></name></person-group> (<year>1983</year>). <article-title>Introduction of exogenous DNA into cotton embryos.</article-title>
+<source><italic>Methods Enzymol.</italic></source>
+<volume>101</volume>
+<fpage>433</fpage>–<lpage>481</lpage>.<pub-id pub-id-type="pmid">6577258</pub-id></mixed-citation>
+      </ref>
+      <ref id="B34">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ziemienowicz</surname><given-names>A.</given-names></name><name><surname>Shim</surname><given-names>Y. S.</given-names></name><name><surname>Matsuoka</surname><given-names>A.</given-names></name><name><surname>Eudes</surname><given-names>F.</given-names></name><name><surname>Kovalchuk</surname><given-names>I.</given-names></name></person-group> (<year>2012</year>). <article-title>A novel method of transgene delivery into triticale plants using the <italic>Agrobacterium</italic> transferred DNA-derived nano-complex.</article-title>
+<source><italic>Plant Physiol.</italic></source>
+<volume>158</volume>
+<fpage>1503</fpage>–<lpage>1513</lpage>. <pub-id pub-id-type="doi">10.1104/pp.111.192856</pub-id><pub-id pub-id-type="pmid">22291201</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record>

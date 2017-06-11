@@ -1,0 +1,837 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5359308</identifier><datestamp>2017-04-04</datestamp><setSpec>frontmicrobio</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Microbiol</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Microbiol</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Microbiol.</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Microbiology</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1664-302X</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5359308</article-id>
+      <article-id pub-id-type="pmcid">PMC5359308</article-id>
+      <article-id pub-id-type="pmc-uid">5359308</article-id>
+      <article-id pub-id-type="doi">10.3389/fmicb.2017.00423</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Microbiology</subject>
+          <subj-group>
+            <subject>Original Research</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Dynamics of Sequestered Cryptophyte Nuclei in <italic>Mesodinium rubrum</italic> during Starvation and Refeeding</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kim</surname>
+            <given-names>Miran</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn001">
+            <sup>*</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/389454/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Drumm</surname>
+            <given-names>Kirstine</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/406500/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Daugbjerg</surname>
+            <given-names>Niels</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/392149/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hansen</surname>
+            <given-names>Per J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/312329/overview"/>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <sup>1</sup>
+        <institution>Marine Biological Section, Department of Biology, University of Copenhagen</institution>
+        <country>Helsingør, Denmark</country>
+      </aff>
+      <aff id="aff2">
+        <sup>2</sup>
+        <institution>Marine Biological Section, Department of Biology, University of Copenhagen</institution>
+        <country>Copenhagen, Denmark</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <p>Edited by: <italic>Senjie Lin, University of Connecticut, USA</italic></p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Reviewed by: <italic>Matthew David Johnson, Woods Hole Oceanographic Institution, USA; Dajun Qiu, South China Sea Institute Of Oceanology (CAS), China; Francisco Rodriguez, Instituto Español de Oceanografía, Spain</italic></p>
+        </fn>
+        <corresp id="fn001">*Correspondence: <italic>Miran Kim, <email xlink:type="simple">mirankim1230@gmail.com</email></italic></corresp>
+        <fn fn-type="other" id="fn002">
+          <p>This article was submitted to Aquatic Microbiology, a section of the journal Frontiers in Microbiology</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>3</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2017</year>
+      </pub-date>
+      <volume>8</volume>
+      <elocation-id>423</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>11</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>28</day>
+          <month>2</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2017 Kim, Drumm, Daugbjerg and Hansen.</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <copyright-holder>Kim, Drumm, Daugbjerg and Hansen</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The marine mixotrophic ciliate <italic>Mesodinium rubrum</italic> is known to acquire chloroplasts, mitochondria, nucleomorphs, and nucleus from its cryptophyte prey, particularly from species in the genera, <italic>Geminigera</italic> and <italic>Teleaulax</italic>. The sequestered prey nucleus and chloroplasts are considered to support photosynthesis of <italic>M. rubrum</italic>. In addition, recent studies have shown enlargement of the retained prey nucleus in starved <italic>M. rubrum</italic> and have inferred that enlargement results from the fusion of ingested prey nuclei. Thus far, however, little is known about the mechanism underlying the enlargement of the prey nucleus in <italic>M. rubrum</italic>. Here, we conducted starvation and refeeding studies to monitor the fate of prey nuclei acquired by <italic>M. rubrum</italic> when feeding on <italic>Teleaulax amphioxeia</italic> and to explore the influence of the retained prey nucleus on photosynthesis of <italic>M. rubrum</italic>. Results indicate that enlargement of the prey nucleus does not result from fusion of nuclei. Furthermore, the enlarged prey nucleus does not appear to divide during cell division of <italic>M. rubrum</italic>. The presence of a prey nucleus significantly affected photosynthetic performance of <italic>M. rubrum</italic>, while the number of retained chloroplasts had little influence on rate of carbon fixation. We interpret results within the context of a model that considers the dynamics of ingested prey nuclei during division of <italic>M. rubrum</italic>.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>nucleus enlargement</kwd>
+        <kwd>photosynthesis</kwd>
+        <kwd>sequestered chloroplasts</kwd>
+        <kwd>sequestered nucleus</kwd>
+        <kwd>
+          <italic>Teleaulax amphioxeia</italic>
+        </kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source id="cn001">Det Frie Forskningsråd<named-content content-type="fundref-id">10.13039/501100004836</named-content></funding-source>
+          <award-id rid="cn001">4181-00484</award-id>
+        </award-group>
+      </funding-group>
+      <counts>
+        <fig-count count="9"/>
+        <table-count count="1"/>
+        <equation-count count="2"/>
+        <ref-count count="39"/>
+        <page-count count="14"/>
+        <word-count count="0"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Introduction</title>
+      <p><italic>Mesodinium rubrum</italic> (=<italic>Myrionecta rubra</italic>) is a common ciliate in coastal waters worldwide, where it sometimes causes red tides (<xref rid="B37" ref-type="bibr">Taylor et al., 1971</xref>; <xref rid="B20" ref-type="bibr">Lindholm, 1985</xref>). It is an obligate mixotroph, requiring both light and prey uptake for sustained growth and survival (<xref rid="B5" ref-type="bibr">Gustafson et al., 2000</xref>; <xref rid="B39" ref-type="bibr">Yih et al., 2004</xref>; <xref rid="B15" ref-type="bibr">Johnson and Stoecker, 2005</xref>; <xref rid="B7" ref-type="bibr">Hansen and Fenchel, 2006</xref>). Growth of <italic>M. rubrum</italic> is to a large extent phototrophic and closely linked to irradiance (<xref rid="B15" ref-type="bibr">Johnson and Stoecker, 2005</xref>; <xref rid="B16" ref-type="bibr">Johnson et al., 2006</xref>; <xref rid="B35" ref-type="bibr">Smith and Hansen, 2007</xref>; <xref rid="B23" ref-type="bibr">Moeller et al., 2011</xref>). Under culture conditions, <italic>M. rubrum</italic> feeds specifically on cryptophytes belonging to the genera <italic>Geminigera</italic> and <italic>Teleaulax</italic> (<xref rid="B7" ref-type="bibr">Hansen and Fenchel, 2006</xref>; <xref rid="B31" ref-type="bibr">Park et al., 2007</xref>; <xref rid="B24" ref-type="bibr">Myung et al., 2011</xref>; <xref rid="B8" ref-type="bibr">Hansen et al., 2012</xref>; <xref rid="B33" ref-type="bibr">Raho et al., 2014</xref>).</p>
+      <p>It has long been known that <italic>Mesodinium rubrum</italic> contains chloroplasts of cryptophyte origin (<xref rid="B37" ref-type="bibr">Taylor et al., 1971</xref>; <xref rid="B10" ref-type="bibr">Hibberd, 1977</xref>). Recent studies have shown that these chloroplasts are genetically similar to the prey on which <italic>M. rubrum</italic> is fed, indicating that chloroplasts are sequestered from the prey (<xref rid="B16" ref-type="bibr">Johnson et al., 2006</xref>, <xref rid="B14" ref-type="bibr">2007</xref>; <xref rid="B8" ref-type="bibr">Hansen et al., 2012</xref>; <xref rid="B25" ref-type="bibr">Myung et al., 2013</xref>). Furthermore, cross-feeding experiments in which prey were switched from one species to another led to the replacement of chloroplasts in <italic>M. rubrum</italic>, depending upon the available prey species (<xref rid="B8" ref-type="bibr">Hansen et al., 2012</xref>; <xref rid="B33" ref-type="bibr">Raho et al., 2014</xref>). In starved <italic>M. rubrum</italic>, sequestered prey chloroplasts have been shown to divide along with cell divisions of the ciliate (<xref rid="B16" ref-type="bibr">Johnson et al., 2006</xref>; <xref rid="B7" ref-type="bibr">Hansen and Fenchel, 2006</xref>; <xref rid="B17" ref-type="bibr">Kim et al., 2016</xref>). Nevertheless, <italic>M. rubrum</italic> requires continuous acquisition of new chloroplasts and other cell organelles acquired through feeding for sustained growth.</p>
+      <p>Early works found that <italic>M. rubrum</italic> contains a single enlarged nucleus of cryptophyte origin, along with cryptophyte chloroplasts, other cell organelles, and cytoplasm (<xref rid="B36" ref-type="bibr">Taylor et al., 1969</xref>, <xref rid="B37" ref-type="bibr">1971</xref>; <xref rid="B10" ref-type="bibr">Hibberd, 1977</xref>; <xref rid="B27" ref-type="bibr">Oakley and Taylor, 1978</xref>). This condition was believed to represent an incomplete endosymbiont, and the enlarged cryptophyte nucleus was referred to as a ‘symbiont nucleus’ (<xref rid="B10" ref-type="bibr">Hibberd, 1977</xref>; <xref rid="B27" ref-type="bibr">Oakley and Taylor, 1978</xref>). Later, however, it was verified that the symbiont nucleus, like the cryptophyte chloroplasts, is acquired by <italic>M. rubrum</italic> after feeding on prey (<xref rid="B5" ref-type="bibr">Gustafson et al., 2000</xref>; <xref rid="B14" ref-type="bibr">Johnson et al., 2007</xref>; <xref rid="B12" ref-type="bibr">Johnson, 2011</xref>; <xref rid="B8" ref-type="bibr">Hansen et al., 2012</xref>; <xref rid="B17" ref-type="bibr">Kim et al., 2016</xref>) and was termed ‘kleptokaryon’ by <xref rid="B14" ref-type="bibr">Johnson et al. (2007)</xref>. For simplicity, the ‘enlarged acquired prey nucleus’ will be called the ‘symbiont nucleus’ in the remainder of the introduction.</p>
+      <p>The single symbiont nucleus observed in well-fed <italic>M. rubrum</italic> cultures (<xref rid="B14" ref-type="bibr">Johnson et al., 2007</xref>) is eventually lost following cell divisions of the ciliate subjected to prolonged starvation (<xref rid="B15" ref-type="bibr">Johnson and Stoecker, 2005</xref>; <xref rid="B14" ref-type="bibr">Johnson et al., 2007</xref>; <xref rid="B17" ref-type="bibr">Kim et al., 2016</xref>). However, the symbiont nucleus was still observed in all cells after the first cell division in prey starved experiments, indicating that the acquired prey nucleus divide at least one time inside <italic>M. rubrum</italic> (<xref rid="B7" ref-type="bibr">Hansen and Fenchel, 2006</xref>). <xref rid="B5" ref-type="bibr">Gustafson et al. (2000)</xref>, as well as recent papers by <xref rid="B17" ref-type="bibr">Kim et al. (2016)</xref> and <xref rid="B26" ref-type="bibr">Nam et al. (2016)</xref> showed that well-fed <italic>M. rubrum</italic> retained additional prey nuclei which were smaller than the symbiont nucleus and of size similar to the nucleus of the prey species. Also, it has been observed that smaller prey nuclei become enlarged over time during prey starvation in <italic>M. rubrum</italic> (<xref rid="B14" ref-type="bibr">Johnson et al., 2007</xref>; <xref rid="B17" ref-type="bibr">Kim et al., 2016</xref>; <xref rid="B26" ref-type="bibr">Nam et al., 2016</xref>). The interpretation made by the authors of these recent studies was that acquired prey nuclei fused to make the symbiont nucleus. However, this interpretation was not experimentally tested and the exact mechanism underlying enlargement of the acquired cryptophyte nuclei in <italic>M. rubrum</italic> remains unknown.</p>
+      <p>In the present study, the fate of prey nuclei sequestered by <italic>M. rubrum</italic> was monitored during prey starvation and refeeding experiments using confocal microscopy. Changes in size and position of prey nuclei inside the ciliate were determined, and evidence of nuclear division or fusion was noted. Furthermore, the relationship between the presence of a retained prey nucleus and the photosynthetic efficiency and growth of <italic>M. rubrum</italic> was studied.</p>
+    </sec>
+    <sec sec-type="materials|methods" id="s1">
+      <title>Materials and Methods</title>
+      <sec>
+        <title>Cultures</title>
+        <p>Cultures of <italic>Mesodinium rubrum</italic> (MBL-DK2009) and <italic>Teleaulax amphioxeia</italic> (SCCAP K-0434; SCCAP) were established using single cells isolated from Helsingør harbor, Denmark, in 2009. Both species were grown in f/2 medium based on autoclaved seawater (<xref rid="B4" ref-type="bibr">Guillard, 1975</xref>) with a salinity of 30 and maintained in 24-well tissue culture plates (TPP, Switzerland). Both species were grown at 15°C ± 1.0 in a temperature regulated room, under a photon irradiance of 100 μmol photons m<sup>-2</sup> s<sup>-1</sup> (PAR, 400–700 nm), and on a light:dark cycle of 14:10. Light was provided by cool white fluorescent tubes (OSRAM, 58W, 840). Irradiance was measured (in seawater) at the level of incubation flasks using a light meter equipped with a spherical quantum sensor (ULM and US-SQS/L, Walz GmbH, Germany). <italic>T. amphioxeia</italic> was supplied as prey at a predator:prey ratio of approximately 10:1 when <italic>M. rubrum</italic> was transferred weekly to new medium.</p>
+      </sec>
+      <sec>
+        <title>Experiment 1: Starvation of Well-Fed <italic>Mesodinium rubrum</italic></title>
+        <p>The first experiment was designed to monitor the change in photosynthetic performance and the number, size and position of prey nuclei during starvation of <italic>M. rubrum. M. rubrum</italic> cells were kept well-fed for 2 weeks by adding sufficient prey every 3 days to a culture grown in a 750-ml tissue culture flask (TPP, Switzerland). After 2 weeks of frequent feeding, the <italic>M. rubrum</italic> culture was allowed to deplete the prey, and absence of prey in the culture was confirmed under an inverted microscope at x40 magnification (Olympus CK2, Japan). A portion of the well-fed, but prey-free, <italic>M. rubrum</italic> and stock culture of <italic>T. amphioxeia</italic> were then added to a 750 ml tissue culture flask to achieve an initial predator:prey ratio to 1:5 and a <italic>M. rubrum</italic> cell concentration of ∼200 ml<sup>-1</sup>. From this stock culture, a 150-ml aliquot was transferred to each of three 270-ml tissue culture flasks. The flasks were placed on a shelf with light coming from the side at an irradiance of 60 μmol photons m<sup>-2</sup>s<sup>-1</sup>. Position of the flasks was changed sequentially once a day to minimize difference in light exposure between the flasks. Subsamples for cell enumeration and assessment of photosynthetic performance were withdrawn from each flask on 13 occasions during the experiment: on Day 0, 2, 4, 6, 8, 11, 14, 16, 18, 20, 23, 26, and 29 (<bold>Figure <xref ref-type="fig" rid="F1">1</xref></bold>). For confocal microscopy, a single Day 0 sample was taken prior to distributing stock culture to replicate flasks, with samples taken from replicate flasks on all other days. pH was monitored at each sampling occasion directly in the flasks with a SenTix<sup>®</sup>41 pH electrode (WTW, Germany) connected to a pH meter (WTW, pH 3210, Germany), and calibrated with pH 7 and pH 10 standard buffers (WTW, Technischer, NIST, buffers). To avoid physiological effects of elevated pH in laboratory cultures (<xref rid="B6" ref-type="bibr">Hansen, 2002</xref>), half the volume of each experimental cultures of <italic>M. rubrum</italic> was removed and replaced with fresh f/2 medium on Day 8, 11, 14, and 20, when pH values were approaching to 8.5.</p>
+        <fig id="F1" position="float">
+          <label>FIGURE 1</label>
+          <caption>
+            <p><bold>Schematic illustration of experimental design used for starvation and refeeding experiments, respectively.</bold> The two experiments were conducted over 7 weeks. Experiment 1, starvation of well-fed <italic>Mesodinium rubrum</italic>, was carried out for 4 weeks, with the starved cells at the end of that experiment immediately use in Experiment 2, refeeding of starved <italic>M. rubrum</italic>.</p>
+          </caption>
+          <graphic xlink:href="fmicb-08-00423-g001"/>
+        </fig>
+        <sec>
+          <title>Cell Abundance and Growth Rate</title>
+          <p>Aliquots (2.3 ml) withdrawn from each flask were fixed with acid Lugol’s solution (final concentration 1%). Abundance of <italic>M. rubrum</italic> and <italic>T. amphioxeia</italic> was enumerated using a Sedgewick-Rafter chamber under the inverted microscope (Olympus CK40) at 100X and 200X. At least 400 cells were enumerated. Growth rates were calculated during the exponential portion of the growth phase using the following exponential growth equation:</p>
+          <disp-formula id="E1">
+            <mml:math id="M1">
+              <mml:mrow>
+                <mml:mi mathvariant="normal">μ</mml:mi>
+                <mml:mo mathvariant="normal">=</mml:mo>
+                <mml:mi mathvariant="normal">I</mml:mi>
+                <mml:mi mathvariant="normal">n</mml:mi>
+                <mml:msub>
+                  <mml:mrow>
+                    <mml:mi mathvariant="italic">N</mml:mi>
+                  </mml:mrow>
+                  <mml:mrow>
+                    <mml:mn mathvariant="normal">1</mml:mn>
+                  </mml:mrow>
+                </mml:msub>
+                <mml:mo mathvariant="normal">−</mml:mo>
+                <mml:mi mathvariant="normal">I</mml:mi>
+                <mml:mi mathvariant="normal">n</mml:mi>
+                <mml:msub>
+                  <mml:mrow>
+                    <mml:mi mathvariant="italic">N</mml:mi>
+                  </mml:mrow>
+                  <mml:mrow>
+                    <mml:mn mathvariant="normal">0</mml:mn>
+                  </mml:mrow>
+                </mml:msub>
+                <mml:mo mathvariant="normal">/</mml:mo>
+                <mml:msub>
+                  <mml:mrow>
+                    <mml:mi mathvariant="italic">t</mml:mi>
+                  </mml:mrow>
+                  <mml:mrow>
+                    <mml:mn mathvariant="normal">1</mml:mn>
+                  </mml:mrow>
+                </mml:msub>
+                <mml:mo mathvariant="normal">−</mml:mo>
+                <mml:msub>
+                  <mml:mrow>
+                    <mml:mi mathvariant="italic">t</mml:mi>
+                  </mml:mrow>
+                  <mml:mrow>
+                    <mml:mn mathvariant="normal">0</mml:mn>
+                  </mml:mrow>
+                </mml:msub>
+              </mml:mrow>
+            </mml:math>
+          </disp-formula>
+          <p>where <italic>N</italic><sub>1</sub> and <italic>N</italic><sub>0</sub> are cell concentrations at time <italic>t</italic><sub>1</sub> and time 0, respectively, and <italic>t</italic><sub>1</sub>-<italic>t</italic><sub>0</sub> is the time interval between samplings.</p>
+        </sec>
+        <sec>
+          <title>Measurement of Photosynthetic Activity (<sup>14</sup>C)</title>
+          <p>Two 2-ml aliquots were withdrawn from each flask, transferred to each of two 20-ml glass scintillation vials, and used for measurements of photosynthesis. Twenty microliter of NaH<sup>14</sup> CO<sub>3</sub> stock solution (specific activity = 100 μCi ml<sup>-1</sup>; Carbon-14 Centralen, Denmark) was added to each vial. One vial of each pair was incubated for 3 h in the same place as the experimental flask, and the other vial was kept in complete darkness by wrapping in aluminum foil. After incubation, a 100 μl sub-sample was withdrawn from each vial and added to a new vial containing 200 μl phenylethylamine for measurements of specific activity (<xref rid="B34" ref-type="bibr">Skovgaard et al., 2000</xref>). The remaining 1.9 ml were acidified with 2 ml 10% glacial acetic acid in methanol, and evaporated overnight at 60°C to remove all inorganic carbon. The residue in the vial was re-dissolved in 2 ml Milli-Q water before adding 10 ml of scintillation cocktail (Insta-Gel Plus, Packard, USA). All vials were vigorously shaken and then analyzed using a liquid scintillation counter (Tri-Carb 2910 TR, Perkin-Elmer). Photosynthetic activity (PA, pg C cell<sup>-1</sup> h<sup>-1</sup>) was calculated as follows:</p>
+          <disp-formula id="E2">
+            <mml:math id="M2">
+              <mml:mrow>
+                <mml:mtext mathvariant="normal">PA=DPM</mml:mtext>
+                <mml:mo mathvariant="normal">×</mml:mo>
+                <mml:mrow>
+                  <mml:mo mathvariant="normal">[</mml:mo>
+                  <mml:mtext mathvariant="normal">DIC</mml:mtext>
+                  <mml:mo mathvariant="normal">]</mml:mo>
+                  <mml:mo mathvariant="normal">/</mml:mo>
+                  <mml:mmultiscripts>
+                    <mml:mrow>
+                      <mml:mtext mathvariant="italic">C</mml:mtext>
+                    </mml:mrow>
+                    <mml:mprescripts/>
+                    <mml:none/>
+                    <mml:mrow>
+                      <mml:mn mathvariant="normal">14</mml:mn>
+                    </mml:mrow>
+                  </mml:mmultiscripts>
+                </mml:mrow>
+                <mml:mo mathvariant="normal">×</mml:mo>
+                <mml:mtext mathvariant="italic">h</mml:mtext>
+                <mml:mo mathvariant="normal">×</mml:mo>
+                <mml:mtext mathvariant="normal">N</mml:mtext>
+              </mml:mrow>
+            </mml:math>
+          </disp-formula>
+          <p>where DPM is disintegrations min<sup>-1</sup> (in 1.9 ml) in the light corrected for dark value, DIC is the concentration of dissolved inorganic carbon (pg C ml<sup>-1</sup>), <sup>14</sup><italic>C</italic> is the specific activity (disintegrations min<sup>-1</sup> ml<sup>-1</sup>), <italic>h</italic> is the incubation time, and <italic>N</italic> is the number of cells in the vial (1.9 ml). DIC concentrations were measured within a few hours using a total organic carbon analyzer (TOC-L, Shimadzu, Japan).</p>
+        </sec>
+        <sec>
+          <title>Confocal Microscopy</title>
+          <p>Location, number, and changes in size of prey nuclei inside <italic>M. rubrum</italic> were studied by confocal microscopy. Nuclei were stained using the fluorescent nuclear stain Hoechst 33258 (Invitrogen, USA) and plasma membrane stain using CellMask Green (Life technologies, Carlsbad, CA, USA). Subsamples (5–10 ml) taken from each flask were fixed in 1% glutaraldehyde (EMD Millipore, USA) at 4°C for 1 h. Fixed samples were stained with a combination of 25 μg ml<sup>-1</sup> Hoechst 33258 and 0.25 X CellMask for 15 min in a dark chamber, then filtered through a 0.2 μm black polycarbonate membrane filter (Frisenette, Denmark), and finally washed with fresh autoclaved seawater to remove excess dye. A drop of immersion oil placed on both sides of a membrane filter was used to attach the filter to the microscope slide and coverglass. Nuclear size was measured directly from images taken at 600X magnification using a FViewII digital camera (Olympus Soft Imaging System, Tokyo, Japan) linked to the inverted microscope (Olympus IX81, Japan) equipped with a disk-spinning unit (DSU, Olympus, Japan). Epifluorescence micrographs of stained <italic>M. rubrum</italic> cells were taken at 1,000X magnification using a digital camera coupled to the Olympus BX51 microscope equipped with differential interference contrast. Twenty cells were examined for each sample. 3D images were generated using IMARIS software program (Bitplane, Zürich, Switzerland) to assess the number and volume of chloroplasts of <italic>M. rubrum</italic>.</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>Experiment 2: Refeeding of Starved <italic>Mesodinium rubrum</italic></title>
+        <p>The second experiment was designed to monitor the changes in the number, size and position of prey nuclei upon refeeding and subsequent prey starvation. After taking subsamples on Day 29, the three cultures from the first experiment were poured together in a 750-ml tissue culture flask and then distributed to three 750-ml tissue flasks. <italic>T. amphioxeia</italic> and new f/2 medium was added to each of the three flasks to give predator:prey ratios of 1:2.5, 1:5, and 1:10 and then a 150-ml subsample of each flask was transferred to each of three 270-ml tissue culture flasks. The triplicate flasks for each treatment were maintained as in Experiment 1, with subsamples for estimating cell abundance (2.3 ml) withdrawn on 10 occasions during the experiment (Day 0, 0.5, 1, 4, 6, 8, 10, 13, 16, and 19) (<bold>Figure <xref ref-type="fig" rid="F1">1</xref></bold>). Samples for measuring the size of prey nuclei inside of <italic>M. rubrum</italic> (5–10 ml) were taken on Day 0.5 to Day 19, with Day 29 data from Experiment 1 used as Day 0 data for Experiment 2. All nine flasks were supplied with fresh f/2 medium after removal of half of the ‘old’ medium on Day 10 for the same reason as above.</p>
+      </sec>
+      <sec>
+        <title>Statistical Analyses</title>
+        <p>Relationships of photosynthesis with prevalence of the centered prey nucleus (CPN; see below) and number of chloroplasts were analyzed and plotted using non-linear regression analysis (Sigma Plot v. 10.0). Data reported in the text as means are given ± standard error of the mean (SE). Error bars provided in figures also represent SE.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Results</title>
+      <sec>
+        <title>Experiment 1: Starvation of Well-Fed <italic>Mesodinium rubrum</italic></title>
+        <sec>
+          <title>Nuclei of Prey and Well-Fed <italic>Mesodinium rubrum</italic></title>
+          <p>Well-fed <italic>Mesodinium rubrum</italic> cells (Day 0 to Day 11) contain two ciliate macronuclei and one ciliate micronucleus, all of which were closely positioned at the center of the cell (<bold>Figure <xref ref-type="fig" rid="F2">2B</xref></bold>). The two macronuclei (diameter 3.54 μm ± 0.07 μm; <bold>Table <xref ref-type="table" rid="T1">1</xref></bold>) were placed close to each other in the middle of the cell, while the micronucleus (diameter 2.63 μm ± 0.09 μm) was located just posterior to the two macronuclei. Well-fed cells of <italic>M. rubrum</italic> contained additional nuclei of cryptophyte origin. A solitary cryptophyte nucleus (diameter 4.35 μm ± 0.04 μm; <bold>Table <xref ref-type="table" rid="T1">1</xref></bold>) was located in the center of the cell in close association with the ciliate nuclei and always anterior to the two ciliate macronuclei (<bold>Figure <xref ref-type="fig" rid="F2">2C</xref></bold>). This arrangement is subsequently referred to as the cryptophyte-ciliate nuclear complex (CCN complex; <bold>Figure <xref ref-type="fig" rid="F2">2D</xref></bold>). We also observed smaller cryptophyte nuclei (diameter 2.53 μm ± 0.04 μm), typically located at the periphery of the ciliate and usually in the anterior part of the cell (<bold>Figure <xref ref-type="fig" rid="F2">2C</xref></bold>). These nuclei were similar in size to the nucleus (diameter 2.08 μm ± 0.04 μm, <bold>Table <xref ref-type="table" rid="T1">1</xref></bold>) of the prey, <italic>Teleaulax amphioxeia</italic>, (<bold>Figures <xref ref-type="fig" rid="F2">2A,C</xref></bold>). We will subsequently refer to the former and latter type of ingested prey nuclei as “CPN” and “extra prey nucleus” (EPN), respectively (<bold>Figure <xref ref-type="fig" rid="F2">2C</xref></bold>).</p>
+          <fig id="F2" position="float">
+            <label>FIGURE 2</label>
+            <caption>
+              <p><bold>Epifluorescence micrographs of the cryptophyte <italic>Teleaulax amphioxeia</italic></bold>
+<bold>(A)</bold> and the ciliate <italic>Mesodinium rubrum</italic>
+<bold>(B,C)</bold> stained with both Hoechst 3325 and CellMask Green in combination. <bold>(A)</bold>
+<italic>T. amphioxeia</italic> showing the brightly stained cryptophyte nucleus. <bold>(B)</bold> Starved <italic>M. rubrum</italic> containing two ciliate macronuclei and one ciliate micronucleus. <bold>(C)</bold> Well-fed <italic>M. rubrum</italic> containing two types of prey nuclei (EPN and CPN) as well as the three nuclei. <bold>(D)</bold> Schematic drawing of the well-fed <italic>M. rubrum</italic>. Macro, ciliate macronucleus; Micro, ciliate micronucleus; EPN, extra prey nucleus; CPN, centered prey nucleus. Scale bar in <bold>(A)</bold> is 10 μm and applies to <bold>(B,C)</bold>.</p>
+            </caption>
+            <graphic xlink:href="fmicb-08-00423-g002"/>
+          </fig>
+          <table-wrap id="T1" position="float">
+            <label>Table 1</label>
+            <caption>
+              <p>Diameter of <italic>Teleaulax amphioxeia</italic> nuclei, <italic>Mesodinium rubrum</italic> nuclei, and ingested prey nuclei (EPNs and CPNs) during Experiments 1 and 2.</p>
+            </caption>
+            <table frame="hsides" rules="groups" cellspacing="5" cellpadding="5">
+              <thead>
+                <tr>
+                  <th valign="top" align="left" rowspan="1" colspan="1">Species</th>
+                  <th valign="top" align="left" colspan="2" rowspan="1">Type of nucleus</th>
+                  <th valign="top" align="left" rowspan="1" colspan="1">Sample ID</th>
+                  <th valign="top" align="center" rowspan="1" colspan="1">Nuclear diameter<sup>1</sup> ±<italic>SE</italic> (μm)</th>
+                  <th valign="top" align="center" rowspan="1" colspan="1">Range (μm)</th>
+                  <th valign="top" align="center" rowspan="1" colspan="1">Total # nuclei examined</th>
+                  <th valign="top" align="center" rowspan="1" colspan="1">Total # cells observed</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1">
+                    <italic>Teleaulax amphioxeia</italic>
+                  </td>
+                  <td valign="top" align="left" colspan="2" rowspan="1">Nucleus</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Experiment 1, Day 0</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">2.08 ± 0.04</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">1.8 – 2.5</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">27</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">27</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1">
+                    <italic>Mesodinium rubrum</italic>
+                  </td>
+                  <td valign="top" align="left" colspan="2" rowspan="1">Ciliate micronucleus</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Experiment 1, Day 0</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">2.63 ± 0.09</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">2.3 – 3.8</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">21</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">21</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1"/>
+                  <td valign="top" align="left" colspan="2" rowspan="1">Ciliate macronuclei</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Experiment 1, Day 0</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">3.54 ± 0.07</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">2.9 – 4.5</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">42</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">21</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1"/>
+                  <td valign="top" align="left" rowspan="1" colspan="1">EPN</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Well-fed cells</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Experiment 1, Day 0 – Day 8</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">2.35 ± 0.04</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">1.3 – 3.9</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">181</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">240</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1"/>
+                  <td valign="top" align="left" rowspan="1" colspan="1"/>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Starved/refeed cells</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Experiment 2, Day 0.5 – Day 13</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">2.17 ± 0.01</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">1.2 – 4.6</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">1959</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">1260</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1"/>
+                  <td valign="top" align="left" rowspan="1" colspan="1">CPN</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Well-fed cells</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Experiment 1, Day 0 – Day 11</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">4.35 ± 0.04</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">2.5 – 7.7</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">255</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">300</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1"/>
+                  <td valign="top" align="left" rowspan="1" colspan="1"/>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Starved/refeed cells</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Experiment 2, Day 0</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">6.83 <underline>+</underline> 0.26</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">5.8 – 8.0</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">8</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">60</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1"/>
+                  <td valign="top" align="left" rowspan="1" colspan="1"/>
+                  <td valign="top" align="left" rowspan="1" colspan="1"/>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Experiment 2, Day 0.5 – Day 4</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">3.80 <underline>+</underline> 0.07</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">1.8 – 8.4</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">293</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">540</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1"/>
+                  <td valign="top" align="left" rowspan="1" colspan="1"/>
+                  <td valign="top" align="left" rowspan="1" colspan="1"/>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Experiment 2, Day 19</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">5.75 <underline>+</underline> 0.12</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">3.9 – 7.6</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">42</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">180</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1"/>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <attrib>
+                <italic>Mean values are for nuclear diameters pooled for specified sample times. <sup>1</sup>Nuclear diameter estimated as the mean of length and width.</italic>
+              </attrib>
+            </table-wrap-foot>
+          </table-wrap>
+          <p>After staining with a combination of Hoechst 3325 and CellMask Green, the ciliate micronucleus always emitted stronger fluorescence than the two macronuclei (<bold>Figures <xref ref-type="fig" rid="F2">2B,C</xref></bold>). EPNs were typically spherical (<bold>Figure <xref ref-type="fig" rid="F2">2C</xref></bold>), while CPNs varied from spherical to irregular in shape (<bold>Figure <xref ref-type="fig" rid="F2">2C</xref></bold>). EPNs were never clustered close together, and none of 181 EPNs examined during the experiment showed evidence of fusing with another EPN or a CPN. Dividing <italic>M. rubrum</italic> cells were common in stained preparations, but none of 388 CPNs examined for the experiment appeared to be undergoing nuclear division. The location, size, and shape of CPNs present in dividing <italic>M. rubrum</italic> cells (<bold>Figure <xref ref-type="fig" rid="F9">9</xref></bold>) were indistinguishable from that of CPNs occurring in non-dividing cells.</p>
+        </sec>
+        <sec>
+          <title>Cell Divisions</title>
+          <p>The culture of <italic>Mesodinium rubrum</italic> that was mixed with <italic>Teleaulax amphioxeia</italic> at an initial ratio of 1:5 had almost depleted the cryptophyte prey at Day 8, and the prey were depleted below detection limit (&lt;1 cell ml<sup>-1</sup>) by Day 11 (<bold>Figure <xref ref-type="fig" rid="F3">3A</xref></bold>). During the first 8 days of the incubation, <italic>M. rubrum</italic> divided every second day (μ = 0.37 ± 0.01 d<sup>-1</sup>). After that period, growth declined. From Day 8 to Day 14, <italic>M. rubrum</italic> divided every third day (μ = 0.25 ± 0.02 d<sup>-1</sup>), and from Day 14 to end of the experiment cells stopped dividing (μ = 0.10 ± 0.02 d<sup>-1</sup>). A total of eight cell divisions were observed, four of which occurred in the period without available prey.</p>
+          <fig id="F3" position="float">
+            <label>FIGURE 3</label>
+            <caption>
+              <p><bold>Experiment 1.</bold> Starvation of well-fed <italic>Mesodinium rubrum</italic>. <bold>(A)</bold> Abundance of <italic>M. rubrum</italic> and <italic>T. amphioxeia</italic> as a function of incubation time. <bold>(B)</bold> Chloroplast number and volume (cell<sup>-1</sup>) as function of incubation time for <italic>M. rubrum</italic>. <bold>(C)</bold> Percentage of <italic>M. rubrum</italic> cells with a centered prey nucleus (CPN), CPN diameter, and photosynthetic rate for <italic>M. rubrum</italic> as a function of incubation time. <bold>(D)</bold> Percentage of <italic>M. rubrum</italic> cells with one or more extra prey nuclei (EPNs) and number of EPNs cell<sup>-1</sup> over incubation time. Data for cell abundance and photosynthesis represent mean ± SE for triplicate flasks (<italic>n</italic> = 3). Data for other parameters represent mean ± SE for triplicate flasks (<italic>n</italic> = 3), except for Day 0, when cells were examined from a single sample taken prior to distribution of stock culture to experimental flasks. For Day 0, <italic>n</italic> = 18 for chloroplasts number cell<sup>-1</sup> and chloroplasts volume cell<sup>-1</sup>, <italic>n</italic> = 21 for CPN prevalence, EPN prevalence, CPN number cell<sup>-1</sup>, and EPN number cell<sup>-1</sup>, and <italic>n</italic> = 19 for CPN diameter. Dashed vertical lines in <bold>(B–D)</bold> denote the point at which prey were depleted. Arrowheads indicate a doubling in cell number relative to prior values.</p>
+            </caption>
+            <graphic xlink:href="fmicb-08-00423-g003"/>
+          </fig>
+        </sec>
+        <sec>
+          <title>Number and Volume of Chloroplasts</title>
+          <p>Even though <italic>M. rubrum</italic> divided several times during the experiment, the number of chloroplasts cell<sup>-1</sup> remained relatively constant at 20 ± 0.39 cell<sup>-1</sup> (<italic>n</italic> = 12) for 26 days, despite the fact that prey cells were depleted after Day 8 (<bold>Figure <xref ref-type="fig" rid="F3">3B</xref></bold>). After Day 26, the number of chloroplasts decreased rapidly to reach 14 ± 0.10 cell<sup>-1</sup> at the end of the experiment. Chloroplast volume cell<sup>-1</sup> remained more or less steady from Day 0 to Day 18 (444 ± 33 μm<sup>3</sup> cell<sup>-1</sup>; <italic>n</italic> = 9), thereafter gradually decreasing to a mean of 274 ± 8 μm<sup>3</sup> cell<sup>-1</sup> on the last day of the experiment.</p>
+        </sec>
+        <sec>
+          <title>Changes in Prevalence and Linear Dimensions of Sequestered Prey Nuclei Inside <italic>M. rubrum</italic> Cells</title>
+          <p>More than 90% of the well-fed <italic>M. rubrum</italic> cells possessed a CPN at the initiation of the experiment (<bold>Figure <xref ref-type="fig" rid="F3">3C</xref></bold>) and a similar percentage was observed for the following 6 days (92.4 ± 0.2%; <italic>n</italic> = 4). The proportion of ciliates having a CPN decreased to ∼70% from Day 8 to 11 as prey cells were depleted, in which time <italic>M. rubrum</italic> underwent two additional cell divisions. Subsequently, the proportion of cells with a CPN gradually declined to ∼13.3% on Day 29.</p>
+          <p>Centered prey nucleus diameter was relatively stable over the first 11 days of the experiment (<bold>Figure <xref ref-type="fig" rid="F3">3C</xref></bold>), showing a minimum value of 4.01 ± 0.15 μm (<italic>n</italic> = 3) for samples taken on Day 4 and a maximum of 4.73 ± 0.14 μm on Day 11 (<italic>n</italic> = 3). During starvation (Day 11–29), however, the size of the CPN gradually increased to 6.8 ± 0.1 μm (<italic>n</italic> = 3) for samples taken on Day 26 (<bold>Figure <xref ref-type="fig" rid="F3">3C</xref></bold>), in direct contrast to the change in prevalence of cells with a CPN. The largest CPN observed during the experiment was encountered in samples taken at Day 26 and measured 8.9 μm in diameter.</p>
+          <p>Extra prey nucleus were only observed in <italic>M. rubrum</italic> cells when prey cells were present (Day 0–8; <bold>Figure <xref ref-type="fig" rid="F3">3D</xref></bold>). The percentage of ciliates with EPN was ∼75% at Day 2 and 4, and on average a little more than 1 EPN was found per cell (1.24 ± 0.05, <italic>n</italic> = 2, the number relative to all observed cells). Both values dropped rapidly after Day 4.</p>
+        </sec>
+        <sec>
+          <title>Inorganic Carbon Uptake</title>
+          <p><italic>Mesodinium rubrum</italic> maintained an inorganic carbon uptake of 45.2 ± 2.5 pg C cell<sup>-1</sup> h<sup>-1</sup> (<italic>n</italic> = 6) until Day 11 (<bold>Figure <xref ref-type="fig" rid="F3">3C</xref></bold>). Subsequently, photosynthetic activity steadily decreased in conjunction with prey depletion, reaching a value of 16 ± 1.4 pg C cell<sup>-1</sup> h<sup>-1</sup> at Day 29. Over the course of the experiment, inorganic carbon uptake displayed a direct relationship to the prevalence of cells with a CPN (<italic>r</italic><sup>2</sup> = 0.955, <italic>p</italic> &lt; 0.0001; <bold>Figure <xref ref-type="fig" rid="F4">4</xref></bold>). No relationship was observed between inorganic carbon uptake and the number of chloroplasts per cell (<italic>r</italic><sup>2</sup> = 0.0, <italic>p</italic> = 1; <bold>Figure <xref ref-type="fig" rid="F4">4</xref></bold>).</p>
+          <fig id="F4" position="float">
+            <label>FIGURE 4</label>
+            <caption>
+              <p><bold>Prevalence of a centered prey nucleus (CPN) and number of chloroplasts cell<sup>-1</sup> for <italic>Mesodinium rubrum</italic> in Experiment 1 plotted as a function of photosynthetic rate</bold>.</p>
+            </caption>
+            <graphic xlink:href="fmicb-08-00423-g004"/>
+          </fig>
+        </sec>
+      </sec>
+      <sec>
+        <title>Experiment 2: Refeeding of Starved <italic>Mesodinium rubrum</italic></title>
+        <sec>
+          <title>Cell Divisions</title>
+          <p>Predator:prey ratio calculated from mean concentration of the predator during the first 48 h of incubation and initial prey density, was 1:2.5, 1:5, and 1:10 for the different treatments. On Day 10, prey concentrations were less than 1% of initial concentration in all treatments. On Day 13, the prey were depleted below detection limit (&lt;1 cell ml<sup>-1</sup>) in the 1:2.5 and 1:5 treatments, and on Day 16 in the 1:10 treatment (<bold>Figures <xref ref-type="fig" rid="F5">5A–C</xref></bold>). <italic>M. rubrum</italic> abundance increased rapidly 4 days after refeeding with prey, showing a doubling in cell concentration every second day until Day 10. All cultures were diluted with fresh f/2 medium to a new initial concentration of 500 cells ml<sup>-1</sup> on Day 10, resulting in two additional cell divisions every third day, after which growth stopped.</p>
+          <fig id="F5" position="float">
+            <label>FIGURE 5</label>
+            <caption>
+              <p><bold>Experiment 2.</bold> Refeeding of starved <italic>Mesodinium rubrum</italic>
+<bold>(A–C)</bold>. Abundance of <italic>M. rubrum</italic> and <italic>T. amphioxeia</italic> in low, medium, and high prey treatments, respectively, plotted as a function of incubation time. <bold>(D–F)</bold> Percentage of <italic>M. rubrum</italic> cells with ingested prey nuclei in low, medium, and high prey treatments, respectively, plotted as a function of incubation time. Plots show mean ± SE for triplicate flasks (<italic>n</italic> = 3), with 20 cells examined sample<sup>-1</sup>. EPN, extra prey nucleus; CPN, centered prey nucleus; arrows indicate dilution of experimental cultures; arrowheads indicate a doubling in cell number relative to prior values; stars indicate that prey was present at less than 1% of predator abundance; dotted horizontal lines represent half of the former ratio value.</p>
+            </caption>
+            <graphic xlink:href="fmicb-08-00423-g005"/>
+          </fig>
+        </sec>
+        <sec>
+          <title>Changes in Prevalence of Ingested Prey Nuclei in <italic>M. rubrum</italic> at Different Prey Concentrations</title>
+          <p>Immediately after the addition of prey, EPNs were observed in <italic>M. rubrum</italic> cells in all treatments. Likewise, when prey was depleted, EPNs were no longer observed (<bold>Figures <xref ref-type="fig" rid="F5">5D–F</xref></bold>). Changes in the prevalence and number of EPNs were directly related to prey concentration. The highest percentage of cells having EPNs was observed on Day 4 or Day 6 in the three treatments. At low prey concentration (predator to prey ratio of 1:2.5), 66.6% of <italic>M. rubrum</italic> cells had a mean of 1.12 ± 0.38 (<italic>n</italic> = 3) EPNs cell<sup>-1</sup> on Day 6 (<bold>Figure <xref ref-type="fig" rid="F5">5D</xref></bold>). At moderate prey concentration (predator to prey ratio of 1:5), about 88.3% of <italic>M. rubrum</italic> cells had a mean of 2.18 ± 0.19 (<italic>n</italic> = 3) EPNs cell<sup>-1</sup> on Day 4 (<bold>Figure <xref ref-type="fig" rid="F5">5E</xref></bold>), while at the high initial prey concentration (predator to prey ratio of 1:10), 100% of <italic>M. rubrum</italic> cells retained a mean of 5 ± 0.16 (<italic>n</italic> = 3) EPNs cell<sup>-1</sup> on Day 6 (<bold>Figure <xref ref-type="fig" rid="F5">5F</xref></bold>). The largest number of EPNs retained by a single <italic>M. rubrum</italic> cell (11) was observed on Day 1 in the high prey treatment. The ‘n’ refers to triplicate samples and EPNs were scored in at least 20 cells in each sample.</p>
+          <p>At the start of the experiment, less than 10% of <italic>M. rubrum</italic> cells had a CPN, but the prevalence of cells with a CPN increased after refeeding, exceeding 80% on Day 4 in all treatments (<bold>Figures <xref ref-type="fig" rid="F5">5D–F</xref></bold>). Changes in the occurrence of cells with a CPN, however, showed different patterns across the treatments of prey concentration. At the lowest prey density, the prevalence of a CPN declined after Day 6, as cells underwent division (<bold>Figure <xref ref-type="fig" rid="F5">5D</xref></bold>), while at moderate prey density, prevalence of a CPN remained above 90% from Day 4 to 10 as cells divided 4 times and then decreased (<bold>Figure <xref ref-type="fig" rid="F5">5E</xref></bold>). At the high prey concentration, prevalence of a CPN was maintained above 80% while cells divided five times (Day 4 to Day 13) and then decreased (<bold>Figure <xref ref-type="fig" rid="F5">5F</xref></bold>). Changes in the prevalence of CPNs relative to the number of cell divisions were dependent on initial prey density. The percent cells with CPNs declined after three cell divisions in the low prey treatment after 4 cell divisions in the medium prey treatment, and after five cell divisions in the high prey treatment (<bold>Figure <xref ref-type="fig" rid="F6">6</xref></bold>).</p>
+          <fig id="F6" position="float">
+            <label>FIGURE 6</label>
+            <caption>
+              <p><bold>Prevalence of a centered prey nucleus as a function of the number of cell divisions for low, medium, and high prey treatments of Experiment 2</bold>.</p>
+            </caption>
+            <graphic xlink:href="fmicb-08-00423-g006"/>
+          </fig>
+          <p>Extra prey nucleus abundance (i.e., number ml<sup>-1</sup>) increased to a peak on Day 6 in the low prey treatment and on Day 8 in the medium and high prey treatments, before declining to undetectable levels as prey was depleted (<bold>Figure <xref ref-type="fig" rid="F7">7</xref></bold>). Abundance of total ingested prey nuclei (EPNs + CPNs) increased to a peak on Day 10 in all three treatments, but remained relatively stable following dilution of the cultures and depletion of prey. After dilution of the high prey treatment on Day 10, EPN abundance was about half that of total ingested nuclei (<bold>Figure <xref ref-type="fig" rid="F7">7C</xref></bold>). Over the following 6 days, EPN abundance in that treatment dropped to zero without influencing abundance of total ingested nuclei.</p>
+          <fig id="F7" position="float">
+            <label>FIGURE 7</label>
+            <caption>
+              <p><bold>Abundances of ingested prey nuclei (nuclei ml<sup>-1</sup>) for</bold>
+<bold>(A)</bold> low, <bold>(B)</bold> medium, and <bold>(C)</bold> high prey treatments of Experiment 2 as a function of incubation time. Mean ± SE for nuclear abundance calculated as mean abundance. <italic>M. rubrum</italic> abundance at each sample time multiplied by number of ingested prey nuclei cell<sup>-1</sup> for the triplicate flasks (<italic>n</italic> = 3). EPNs, extra prey nuclei; CPNs, center prey nuclei; arrows indicate dilution of cultures; stars indicate relatively constant values for (EPN + CPN) ml<sup>-1</sup> following dilution of cultures.</p>
+            </caption>
+            <graphic xlink:href="fmicb-08-00423-g007"/>
+          </fig>
+        </sec>
+        <sec>
+          <title>Changes in Size of Sequestered Prey Nuclei in <italic>M. rubrum</italic> at Different Prey Concentrations</title>
+          <p>Extra prey nucleus observed in all three treatments were relatively constant in size (<bold>Figure <xref ref-type="fig" rid="F8">8A</xref></bold>), with a mean diameter of 2.17 ± 0.01 μm for measurements pooled across treatment and time (<bold>Table <xref ref-type="table" rid="T1">1</xref></bold>). By contrast, CPNs were initially large in size (<bold>Figure <xref ref-type="fig" rid="F8">8B</xref></bold>), having a mean diameter of 6.83 ± 0.26 μm on Day 0 (<bold>Table <xref ref-type="table" rid="T1">1</xref></bold>). Treatment means showed decreased CPN size from Day 0.5 to Day 4 as prey were ingested and new CPNs formed, with CPN diameter for data pooled across treatments for those days averaging 3.08 ± 0.07 μm. Like in Experiment 1, the size of CPNs increased over time after prey were depleted (<bold>Figures <xref ref-type="fig" rid="F8">8B</xref></bold>, <bold><xref ref-type="fig" rid="F9">9</xref></bold>), with data pooled across treatments for Day 19 averaging 5.75 ± 0.12 μm. CPN size at the end of the experiment was similar across treatment, but pronounced enlargement occurred sooner (Day 6–8) in the lowest prey treatment compared to in the medium and high prey treatments (Day 10–13).</p>
+          <fig id="F8" position="float">
+            <label>FIGURE 8</label>
+            <caption>
+              <p><bold>Mean nuclear diameter ± SE for triplicate flasks (<italic>n</italic> = 3) during Experiment 2.</bold>
+<bold>(A)</bold> Extra prey nuclei (EPNs) for low, medium, and high prey treatments. <bold>(B)</bold> Centered prey nuclei (CPNs) for low, medium, and high prey treatments. Dotted line in <bold>(A)</bold> denotes the nuclear diameter for the prey, <italic>Teleaulax amphioxeia</italic>, (mean 2.08 μm).</p>
+            </caption>
+            <graphic xlink:href="fmicb-08-00423-g008"/>
+          </fig>
+          <fig id="F9" position="float">
+            <label>FIGURE 9</label>
+            <caption>
+              <p><bold>Schematic diagram showing the ideal dynamics of acquired prey nuclei following cell division in the ciliate <italic>Mesodinium rubrum</italic> and epifluorescence micrographs of <italic>M. rubrum</italic> cells from the high prey treatment of Experiment 2 after staining with Hoechst 33258 and CellMask Green.</bold> (1) <italic>M. rubrum</italic> feeds on three cryptophyte <italic>Teleaulax amphioxeia</italic> cells as prey, and obtains the nuclei of each prey (EPN). One of the EPN moves toward the center of the ciliate (or anterior to the three ciliate nuclei) and becomes enlarged (CPN). The other two EPN transfer to daughter cells through cell division, respectively. After first cell division, one daughter cell (2.1) has a CPN derived from one of the EPN. This daughter cell is divided into new daughter cells having a CPN (3.1) or not (3.2) by a second cell division. Meanwhile, the other daughter cell (2.2) has a CPN with one EPN. In case of this daughter cell, it is divided into new daughter cells through a second cell division; two daughter cells (3.3 and 3.4) have a CPN, respectively. Each CPN moves in the same way as before following a third cell division. As a result, only three cells among the eight daughter cells have a CPN after the third cell division. The series of epifluorescence images show temporal differences in the arrangement, number, and size of ingested prey nuclei after feeding starved <italic>M. rubrum</italic> with <italic>T. amphioxeia.</italic>
+<bold>(A)</bold> Day 0: 18 days starved <italic>M. rubrum</italic> derived from Day 29 of Experiment 1. <bold>(B)</bold> Day 1, <bold>(C)</bold> Day 4, <bold>(D)</bold> Day 8, <bold>(E)</bold> Day 13, and <bold>(F)</bold> Day 19 after feeding. Macro, macronucleus; Micro, micronucleus; EPN, extra prey nucleus; CPN, centered prey nucleus. Scale bar in <bold>(A)</bold> is 10 μm and applies to all images.</p>
+            </caption>
+            <graphic xlink:href="fmicb-08-00423-g009"/>
+          </fig>
+          <p>Frequency distributions for CPN diameter showed distinct size classes of ‘old’ and ‘new’ CPNs on Day 0 to Day 4. <italic>M. rubrum</italic> on Day 0 were derived from pooled culture remaining on Day 29 of Experiment 1 and thus contained ‘old’ CPNs that fell into the 5.5–6.4 μm to 7.5–8.4 μm size classes (<bold>Supplementary Figure <xref ref-type="supplementary-material" rid="SM1">S1</xref></bold>). On Day 3.5, smaller, presumably ‘new’ CPNs were observed, 94% of which fell into the 1.5–2.4 μm and 2.5–3.4 μm size classes and had a mean diameter of 2.58 ± 0.06 μm (<italic>n</italic> = 29). Given the mean diameter of EPNs on Day 0.5 (2.06 μm, <bold>Table <xref ref-type="table" rid="T1">1</xref></bold>), the volume of ‘new’ CPNs (8.9 μm<sup>3</sup>) was about twice that of EPNs (4.5 μm<sup>3</sup>) present in <italic>M. rubrum</italic> at the same time. Over the following 3.5 days, the frequency distribution for ‘new’ CPNs shifted toward larger size classes, with the peak occurring in the 2.5–3.4 μm size class on Day 1 and in the 3.5–4.4 μm size class on Day 4.</p>
+          <p>A total of 1959 ENPs were examined for the experiment, none of which appeared to be in the process of fusing with another EPN or a CPN. While dividing <italic>M. rubrum</italic> were common in Experiment 2, none of the 335 CPNs examined for Day 0.5 to Day 19 appeared to be undergoing division.</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec>
+      <title>Discussion</title>
+      <sec>
+        <title>Presence of Extra Prey Nuclei (ENPs) and the Centered Prey Nucleus</title>
+        <p>The ciliate <italic>Mesodinium rubrum</italic> has for long been known to harbor prey cytoplasm and cell organelles, including chloroplasts, mitochondria, and nuclei through feeding on cryptophytes (<xref rid="B36" ref-type="bibr">Taylor et al., 1969</xref>, <xref rid="B37" ref-type="bibr">1971</xref>; <xref rid="B10" ref-type="bibr">Hibberd, 1977</xref>; <xref rid="B27" ref-type="bibr">Oakley and Taylor, 1978</xref>). Initially, it was believed that this represented a reduced permanent “symbiont,” but recent molecular studies have indicated that this is not true. There is now clear evidence that the cryptophyte organelles and cytoplasm are identical to the prey that the ciliate is fed (e.g., <xref rid="B14" ref-type="bibr">Johnson et al., 2007</xref>) and that the chloroplasts from one cryptophyte species can be exchanged with chloroplasts from another species (<xref rid="B8" ref-type="bibr">Hansen et al., 2012</xref>). Previous publications have used transmission electron microscopy and fluorescence microscopy to document the presence of small (1.9–4 μm in diameter) or large (4.5–10 μm in diameter) prey nuclei (<xref rid="B10" ref-type="bibr">Hibberd, 1977</xref>; <xref rid="B27" ref-type="bibr">Oakley and Taylor, 1978</xref>; <xref rid="B14" ref-type="bibr">Johnson et al., 2007</xref>; <xref rid="B17" ref-type="bibr">Kim et al., 2016</xref>; <xref rid="B26" ref-type="bibr">Nam et al., 2016</xref>). Those reports are limited to observations of only one type of prey nucleus inside individual <italic>M. rubrum</italic> cells and provide little information about how <italic>M. rubrum</italic> retains different sizes of prey nuclei. <xref rid="B17" ref-type="bibr">Kim et al. (2016)</xref>, however, suggested that small prey nuclei fuse to form a large prey nucleus. Similarly, <xref rid="B26" ref-type="bibr">Nam et al. (2016)</xref> reported that small nuclei sequestered from prey were enclosed in a single membrane and suggested that small nuclei moved to the center of the <italic>M. rubrum</italic> cell and fused to form a single large prey nucleus.</p>
+        <p>Our study documents that along with two ciliate macronuclei and one ciliate micronucleus, well-fed <italic>M. rubrum</italic> cells can simultaneously have multiple small, peripherally positioned prey nuclei that we call extra prey nuclei (EPNs), and a single large, centrally positioned prey nucleus (CPN). EPNs were slightly larger (mean diameter 2.53 μm) than the mean size of the prey, <italic>Teleaulax amphioxeia</italic>, nucleus (mean diameter 2.08 μm). The CPN was always located at the center of the cell, as also shown for the large prey nucleus reported in previous studies (<xref rid="B10" ref-type="bibr">Hibberd, 1977</xref>; <xref rid="B7" ref-type="bibr">Hansen and Fenchel, 2006</xref>; <xref rid="B17" ref-type="bibr">Kim et al., 2016</xref>; <xref rid="B26" ref-type="bibr">Nam et al., 2016</xref>), and was generally much larger than the EPNs. The CPN, however, showed considerable variation in size during our experiments, depending on prey concentration and incubation time. The CPN size was relatively stable in well-fed <italic>M. rubrum</italic> supplied with plentiful prey (mean diameter 4.35 μm) but increased dramatically during starvation, averaging 6.8 μm in diameter 18 days after depletion of prey.</p>
+        <sec>
+          <title>Formation and Enlargement of the CPN</title>
+          <p>Eighteen days after depletion of prey, ∼85% of the <italic>M. rubru</italic>m in our study lacked a CPN and none possessed EPNs, but both types of nuclei were reacquired by a majority of the cells upon refeeding. EPNs appeared in most cells within 12 h and increased in number over time, with maximum mean number cell<sup>-1</sup> ranging from one to five depending on the amount of prey provided. Up to 11 EPNs were observed in individual <italic>M. rubrum</italic>. EPNs occupied a peripheral position in the cell, whereas recently sequestered ‘new’ CPNs were located at the center of the cell had a mean diameter (2.58 μm), similar to that of recently acquired EPNs (2.06 μm) present in cells at the same time. Four days post feeding, 80 – 90%, depending on prey concentration, of <italic>M. rubrum</italic> cells had a CPN, with mean diameter of 3.80 μm, larger than an EPN, but smaller than the CPN of well-fed cells (mean 4.35 μm). Calculations based on mean diameter indicate that the volume of ‘new’ CPNs is about twice that of recently acquired EPNs, raising the possibility that ‘new’ CPNs arise from fusion of two EPNs. However, fusing of multiple EPNs to form a ‘new’ CPN seems unlikely, since none of the more than 2100 EPNs observed in our experiments were closely clustered or appeared to be fusing with another EPN. It seems more probable that ‘new’ CPNs form by the relocation of a single EPN to the center of the cells accompanied by and/or followed by an increase in size that does not result from fusion with another EPN.</p>
+          <p>One may wonder how the CPN of <italic>M. rubrum</italic> increases in size over time. As mentioned in the introduction, enlargement of the centrally positioned prey nucleus was reported by <xref rid="B14" ref-type="bibr">Johnson et al. (2007)</xref>, <xref rid="B17" ref-type="bibr">Kim et al. (2016)</xref>, and <xref rid="B26" ref-type="bibr">Nam et al. (2016)</xref> and suggested in the latter two papers to result from the fusion of smaller ingested prey nuclei. Data from our starvation/refeeding study (Experiment 2), however, do not support that hypothesis, for several reasons. First, of the more than 2100 EPNs and over 600 CPNs examined during our experiments, fusions of an EPN with a CPN was never observed. If enlargement of the ‘new’ CPN were to be a slow process, fusion events might occur infrequently and thus not be observed in our samples. Enlargement of ‘new’ CPNs in our starvation/refeeding study, however, appeared to be a rather rapid process, as indicated by the observed upward shift in size classes of ‘new’ CPNs from Day 0.5 to Day 1 and Day 4. Second, during both of our experiments, CPNs showed a dramatic increase after prey had been depleted and continued to enlarge even after the number of EPNs cell<sup>-1</sup> had dropped to undetectable levels. Enlargement of CPNs when prey cells were not available to be ingested and when EPNs were not present in <italic>M. rubrum</italic> cells, indicates that CPNs can enlarge without fusion with EPNs. Third, once prey were reduced to very low or undetectable levels, the number of total ingested prey nuclei (EPNs + CPNs) ml<sup>-1</sup> remained stable as the number of EPNs ml<sup>-1</sup> decreased. Were the disappearance of EPNs to result from fusion with CPNs, then the total number of ingested prey nuclei ml<sup>-1</sup> would be expected to decrease. Fourth, if enlargement of CPNs were to result from fusion with EPNs, then it would be reasonable to expect the size of the CPNs and the rate of CPN enlargement to depend on the number of EPNs that are retained. In our starvation/refeeding study, however, the size CPNs was similar in all treatments even though the maximum mean number of EPNs cell<sup>-1</sup> showed a fivefold difference. In addition, enlargement of CPNs progressed faster in our lowest prey treatment where maximum mean number of EPNs cell<sup>-1</sup> was one, than in our moderate and high prey treatment where maximum mean number of EPNs cell<sup>-1</sup> was two and five, respectively (<bold>Figure <xref ref-type="fig" rid="F8">8B</xref></bold>).</p>
+          <p>Our results support the alternative hypothesis that CPNs are formed by the relocation of a single EPN from the periphery to the center of the <italic>M. rubrum</italic> cell where it becomes part of the ciliate-cryptophyte nuclear complex and increases in size without fusing with EPNs. Under that scenario, EPNs remaining at the periphery of cells after formation of a ‘new’ CPN might be digested, or might be distributed to daughter cells during division of <italic>M. rubrum</italic> where they would be available to form a ‘new’ CPN. The latter possibility assumes that CPNs do not divide along with the ciliate, as our data suggest (see below). If EPNs are distributed to daughter cells to form ‘new’ CPN, then the mean number of EPNs cell<sup>-1</sup> would influence the number of cell divisions that could occur without a decline in the frequency of <italic>M. rubrum</italic> with a CPN. That seems to be the case in our starvation/refeeding experiment, as <italic>M. rubrum</italic> in the low, medium, and high prey treatments had a maximum mean number EPNs cell<sup>-1</sup> of 1, 2, and 5 divided 3, 4, and 5 times, respectively, before showing a drop in CPN frequency.</p>
+        </sec>
+        <sec>
+          <title>Lack of Division and Disappearance of the CPN</title>
+          <p>Our results imply that the CPN of <italic>M. rubrum</italic> does not divide. Not only did we fail to observe indications of division in any of the more than 600 CPNs examined, CPNs of dividing <italic>M. rubrum</italic> were indistinguishable from the CPNs of non-dividing cells. Also, CPN prevalence decreased with division of host cells as prey were depleted, suggesting dilution of CPN cell<sup>-1</sup> due to lack of CPN division. As mentioned above, the total number of ingested prey nuclei (EPNs + CPNs) ml<sup>-1</sup> as prey were depleted remained relatively constant, due to apparent transformation of EPNs into CPNs. Were CPNs to have divided during that time, total ingested prey nuclei ml<sup>-1</sup> should have increased. Hence, during cell division of <italic>M. rubrum</italic>, the CPN appears to be inherited by only one of the two daughter cells. The lack of the ability of <italic>M. rubrum</italic> to divide the CPN has previously been reported by <xref rid="B14" ref-type="bibr">Johnson et al. (2007)</xref>. During prey starvation they found a disappearance of the CPN (termed kleptokaryon in their study) in <italic>M. rubrum</italic> over time and could estimate a half time of its disappearance. <xref rid="B7" ref-type="bibr">Hansen and Fenchel (2006)</xref> and <xref rid="B17" ref-type="bibr">Kim et al. (2016)</xref>, asserted that the CPN in <italic>M. rubrum</italic> is able to divide at least once in prey starved cultures, since cells that had undergone one cell division all had a CPN. Based on our observations, however, their results could be explained by the retention of EPNs prior to cell division and distribution of EPN to daughter cells to generate CPNs, rather than by division of the CPNs.</p>
+          <p>Through the present study, enlargement of the CPN was inferred to result from an increase in size of only one EPN. However, one question still remains to be answered: what causes enlargement of the CPN. Prior studies (<xref rid="B10" ref-type="bibr">Hibberd, 1977</xref>; <xref rid="B17" ref-type="bibr">Kim et al., 2016</xref>; <xref rid="B26" ref-type="bibr">Nam et al., 2016</xref>) have provided ultrastructural images of the enlarged prey nucleus (i.e., CPN) within <italic>M. rubrum</italic>. Here the chromosomes seemed to be untangled or less dense, the nucleolus had a large size and large amounts of nucleoplasm surrounded the expanded nuclear envelope. We also observed similar morphological changes of the CPN under the confocal microscope, with less dense chromosomes and an enlarged nucleolus present in large irregular shaped CPNs (<bold>Supplementary Figure <xref ref-type="supplementary-material" rid="SM2">S2</xref></bold>). The chromosome just seemed to be loose or swollen, but the possibility of replication cannot be ruled out. Surprisingly, two enlarged nucleoli were found in one CPN, a phenomenon that also appeared in the study of <xref rid="B14" ref-type="bibr">Johnson et al. (2007)</xref>. Nevertheless our quantitative data do not indicate that <italic>M. rubrum</italic> can replicate the CPN and the results seem inconsistent with a recent study by <xref rid="B32" ref-type="bibr">Qiu et al. (2016)</xref>. They observed gene transcripts for prey nucleus replication on field populations of <italic>M. rubrum</italic>. Since their study was carried out on field populations, it is difficult to interpret their data. It is possible that <italic>M. rubrum</italic> population they studied function differently than those isolates from Korea, Denmark, and Antarctica that have been studied in detail in laboratory culture. After all six clades (Clades A–F) of the <italic>M. rubrum</italic>/<italic>M. major</italic> species complex have been described recently (<xref rid="B9" ref-type="bibr">Herfort et al., 2011</xref>; <xref rid="B13" ref-type="bibr">Johnson et al., 2016</xref>). However, it is also possible that the <italic>M. rubrum</italic> population studied by <xref rid="B32" ref-type="bibr">Qiu et al. (2016)</xref> functions similar to the ones studied in detail in the laboratory, but the authors may have simply caught <italic>M. rubrum</italic> cells that recently ingested a diving cryptophyte cell. Future studies will show which of the two interpretations are right.</p>
+        </sec>
+        <sec>
+          <title>Prey Nucleus Effects on Photosynthetic Ability of <italic>M. rubrum</italic></title>
+          <p><italic>Mesodinium rubrum</italic> is unique among the marine alveolates for its ability to sequester prey nuclei and chloroplasts along with other organelles and show enlargement of the prey nucleus once sequestered. While sequestration of nuclei and chloroplasts along with other prey organelles is well known for a few dinoflagellates species (<xref rid="B1" ref-type="bibr">Dodge, 1971</xref>; <xref rid="B2" ref-type="bibr">Farmer and Roberts, 1990</xref>; <xref rid="B11" ref-type="bibr">Horiguchi and Pienaar, 1992</xref>; <xref rid="B28" ref-type="bibr">Okamoto and Inouye, 2005</xref>; <xref rid="B3" ref-type="bibr">Gast et al., 2007</xref>; <xref rid="B38" ref-type="bibr">Yamaguchi et al., 2011</xref>; <xref rid="B29" ref-type="bibr">Onuma and Horiguchi, 2013</xref>, <xref rid="B30" ref-type="bibr">2015</xref>; <xref rid="B18" ref-type="bibr">Kim et al., 2014</xref>), enlargement of the sequestered prey nucleus has not been reported in any of studies.</p>
+          <p>The sequestered prey nucleus has been inferred to allow the host cell to exploit photosynthetic performance of its sequestered prey chloroplasts; e.g., the dinoflagellates <italic>Amylax triacantha</italic>, <italic>Nusuttodinium aeruginosum</italic>, and <italic>N. myriopyrenoides</italic> and the ciliate <italic>M. rubrum</italic> (<xref rid="B15" ref-type="bibr">Johnson and Stoecker, 2005</xref>; <xref rid="B14" ref-type="bibr">Johnson et al., 2007</xref>; <xref rid="B18" ref-type="bibr">Kim et al., 2014</xref>, <xref rid="B17" ref-type="bibr">2016</xref>; <xref rid="B30" ref-type="bibr">Onuma and Horiguchi, 2015</xref>). A few molecular and transcriptome studies focusing on the photosynthetic ability of <italic>M. rubrum</italic> in association with the sequestered prey nucleus (<xref rid="B14" ref-type="bibr">Johnson et al., 2007</xref>; <xref rid="B19" ref-type="bibr">Lasek-Nesselquist et al., 2015</xref>; <xref rid="B17" ref-type="bibr">Kim et al., 2016</xref>) have shown expression of nuclear-encoded plastid-targeted algal genes. Subsequently, the retained prey nucleus was suggested to mainly contribute to sustained chloroplasts function (<xref rid="B14" ref-type="bibr">Johnson et al., 2007</xref>; <xref rid="B8" ref-type="bibr">Hansen et al., 2012</xref>; <xref rid="B19" ref-type="bibr">Lasek-Nesselquist et al., 2015</xref>; <xref rid="B17" ref-type="bibr">Kim et al., 2016</xref>). It has previously been shown that photosynthetic activity in different <italic>M. rubrum</italic> strains declines in prey starved cultures (<xref rid="B15" ref-type="bibr">Johnson and Stoecker, 2005</xref>; <xref rid="B7" ref-type="bibr">Hansen and Fenchel, 2006</xref>; <xref rid="B14" ref-type="bibr">Johnson et al., 2007</xref>). It has also been shown that the declines in photosynthetic parameters coincided with the loss of CPN (called prey nuclei) from <italic>M. rubrum</italic> cells, implicating a possible functional role for retained prey nuclei (<xref rid="B15" ref-type="bibr">Johnson and Stoecker, 2005</xref>; <xref rid="B14" ref-type="bibr">Johnson et al., 2007</xref>). Our work confirms that the presence of a CPN substantially affects the photosynthetic performance of the <italic>M. rubrum</italic> chloroplasts. A reduction in prevalence of the CPNs in starved populations of <italic>M. rubrum</italic> led to a significant decline in inorganic carbon uptake while chloroplast number cell<sup>-1</sup> showed little change. This result might help to explain the formation of the ‘CCN’ complex; the position could facilitate the gene exchange related with nuclear-encoded, chloroplasts targeted genes for stable photosynthesis, between the host nuclei and prey nucleus (<xref rid="B22" ref-type="bibr">Martin et al., 1998</xref>; <xref rid="B21" ref-type="bibr">Martin and Herrmann, 1998</xref>). Even though our results imply that a CPN is involved with photosynthetic ability of <italic>M. rubrum</italic>, it cannot be ruled out that the ciliate nuclei also participate in the photosynthetic ability of <italic>M. rubrum</italic>. We do not know whether retention of a CPN and chloroplasts derived from prey in <italic>M. rubrum</italic> is an evolutionary step toward establishing permanent chloroplasts, but <italic>M. rubrum</italic> is notable for showing the unique photosynthetic performance from the acquired chloroplasts and nucleus of prey.</p>
+          <p><xref rid="B8" ref-type="bibr">Hansen et al. (2012)</xref> proved that <italic>M. rubrum</italic> chloroplasts derived from <italic>T. amphioxeia</italic> can be replaced by chloroplasts derived from <italic>T. acuta</italic>. Whether or not the sequestered prey nucleus was simultaneously replaced, however, remains unknown. Addressing the possibility of replacement of the prey nucleus in <italic>M. rubrum</italic> may enhance our understanding of sequestration, enlargement, and function of the prey nucleus inside <italic>M. rubrum</italic>.</p>
+        </sec>
+        <sec>
+          <title>Model for CPN Maintenance and Increase in Size</title>
+          <p>Based on the results of our study, we propose the following model to explain the dynamics of acquisition, enlargement, and distribution of prey nuclei to daughter cells in <italic>Mesodinium rubrum</italic>. When <italic>M. rubrum</italic> having only three ciliate nuclei (one micronucleus and two macronuclei positioned at the center of the cell) feeds on the cryptophyte <italic>Teleaulax amphioxeia</italic>, prey nuclei (i.e., EPNs) are acquired at the periphery of the cell. The number of acquired nuclei is equal to the number of prey ingested (<bold>Figure <xref ref-type="fig" rid="F9">9</xref></bold>). Subsequently, one of the EPNs relocates to the center of the cell (or anterior to the three ciliate nuclei) to become a CPN, thus forming a CCN complex. The newly formed CPN is small at first, but continuously increases in size over time, without fusing with EPNs that persist in the cell. With division of <italic>M. rubrum</italic>, the enlarged CPN does not divide and is inherited by only one of the daughter cells, with the other daughter cell having the possibility of receiving one or more of the persisting EPNs. If the daughter cell lacking a CPN receives one or more EPNs, then a single EPN relocates to the center of the cell to form a CCN complex and a CPN which enlarges over time. The inherited CPN continues to enlarge until reaching maximum size as seen in starved <italic>M. rubrum</italic>. Once the ‘old’ inherited CPN senesces, it can be replaced by a new CPN if one or more EPNs are present in the peripheral cytoplasm of <italic>M. rubrum</italic> or are acquired through feeding.</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec>
+      <title>Conclusion</title>
+      <p>Our study show that the sequestered prey nucleus (CPN) associated with the CCN complex (Cryptophyte-Ciliate Nuclear complex) of <italic>M. rubrum</italic> is derived from a single prey nucleus, enlarges over time without fusing with other ingested prey nuclei (EPNs), does not divide, and is inherited by only one daughter cell when <italic>M. rubrum</italic> divides. Also, EPNs present in <italic>M. rubrum</italic> possessing a CPN can be inherited by and form a CPN in the daughter cell that does not receive the parental CPN. How the EPN-CPN system of <italic>M. rubrum</italic> works when the ciliate is fed a mixture of prey species is unknown. Will <italic>M. rubrum</italic> then contain two CPNs or can one CPN control the chloroplasts from two species? To elucidate this, development of species specific molecular techniques is required. Our study was conducted using <italic>M. rubrum</italic> isolated from Danish waters, while reports of fusion of ingested prey nuclei to form the enlarged prey nucleus (i.e., CPN) of the CCN complex (<xref rid="B17" ref-type="bibr">Kim et al., 2016</xref>; <xref rid="B26" ref-type="bibr">Nam et al., 2016</xref>) was based on a Korean strain (MR-MAL01) of <italic>Mesodinium</italic> cf. <italic>rubrum</italic>. Since our Danish <italic>M. rubrum</italic> and the Korean <italic>M</italic>. cf. <italic>rubrum</italic> differ at the strain level and may even represent different species, it is possible that the two cultures process ingested prey nuclei in different way. Additional studies using the Korean isolate of <italic>M.</italic> cf. <italic>rubrum</italic> and other isolates of <italic>M. rubrum</italic> from other parts of the world may help to resolve this issue.</p>
+    </sec>
+    <sec>
+      <title>Author Contributions</title>
+      <p>All authors were involved in the design and planning of the experiments. MK carried out the experiments, collected data, and performed data analysis with help from the co-authors. MK wrote the first draft of the manuscript based on discussions with all the co-authors. All co-authors were involved in revision of the manuscript and all the co-authors approved final manuscript.</p>
+    </sec>
+    <sec>
+      <title>Conflict of Interest Statement</title>
+      <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest. The reviewer MJ declared a past co-authorship with several of the authors (MK, KD, PJH) to the handling Editor, who ensured that the process met the standards of a fair and objective review.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn fn-type="financial-disclosure">
+        <p><bold>Funding.</bold> This work was supported by the Danish Council for Independent Research, grant number 4181-00484 (PH). ND thanks the Villum Kann Rasmussen Foundation for an equipment grant.</p>
+      </fn>
+    </fn-group>
+    <ack>
+      <p>We are indebted to D. Wayne Coats for comments and discussion on an earlier manuscript draft.</p>
+    </ack>
+    <sec sec-type="supplementary material">
+      <title>Supplementary Material</title>
+      <p>The Supplementary Material for this article can be found online at: <ext-link ext-link-type="uri" xlink:href="http://journal.frontiersin.org/article/10.3389/fmicb.2017.00423/full#supplementary-material">http://journal.frontiersin.org/article/10.3389/fmicb.2017.00423/full#supplementary-material</ext-link></p>
+      <supplementary-material content-type="local-data" id="SM1">
+        <media xlink:href="Image_1.tif">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+        <p><bold>FIGURE S1 | Frequency distributions for diameter of centered prey nuclei (CPNs) on</bold>
+<bold>(A)</bold> Day 0, <bold>(B)</bold> Day 0.5, <bold>(C)</bold> Day 1, and <bold>(D)</bold> Day 4 of Experiment 2. “Old CPNs” on Day 0 are enlarged nuclei remaining in <italic>M. rubrum</italic> cells after 18 days of starvation (Day 29 of Experiment 1). “New CPNs” represent nuclei acquired after addition of prey at the beginning of Experiment 2. In <bold>(B–D)</bold>, CPNs in the three largest size classes were assumed to be “old” CPNs.</p>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="S1">
+        <media xlink:href="Image_1.tif">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM2">
+        <media xlink:href="Image_2.TIF">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+        <p><bold>FIGURE S2 | Confocal images showing differences in size and shape of ingested prey nucleus in <italic>M. rubrum</italic></bold>
+<bold>(A)</bold> 2 days, <bold>(B–D)</bold> 29 days after feeding on prey. <bold>(A)</bold> Ingested prey nucleus located at the periphery of the ciliate (EPN) similar to the nucleus of the prey species. <bold>(B)</bold> Enlarged prey nucleus located at the center of the cell (CPN) seems to have untangled or less dense chromosomes and enlarged nucleolus. <bold>(C)</bold> The CPN shows morphological change. <bold>(D)</bold> The CPN has two enlarged nucleoli. Scale bar in <bold>(A)</bold> is 5 μm and applies to all images.</p>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="S2">
+        <media xlink:href="Image_2.TIF">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dodge</surname><given-names>J. D.</given-names></name></person-group> (<year>1971</year>). <article-title>A dinoflagellate with both a mesocaryotic and a eucaryotic nucleus I. Fine structure of the nuclei.</article-title>
+<source><italic>Protoplasma</italic></source>
+<volume>73</volume>
+<fpage>145</fpage>–<lpage>157</lpage>. <pub-id pub-id-type="doi">10.1007/BF01275591</pub-id><pub-id pub-id-type="pmid">5126401</pub-id></mixed-citation>
+      </ref>
+      <ref id="B2">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Farmer</surname><given-names>M. A.</given-names></name><name><surname>Roberts</surname><given-names>K. R.</given-names></name></person-group> (<year>1990</year>). <article-title>Organelle loss in the endosymbiont of <italic>Gymnodinium acidotum</italic> (Dinophyceae).</article-title>
+<source><italic>Protoplasma</italic></source>
+<volume>153</volume>
+<fpage>178</fpage>–<lpage>185</lpage>. <pub-id pub-id-type="doi">10.1007/BF01354002</pub-id></mixed-citation>
+      </ref>
+      <ref id="B3">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gast</surname><given-names>R. J.</given-names></name><name><surname>Moran</surname><given-names>D. M.</given-names></name><name><surname>Dennett</surname><given-names>M. R.</given-names></name><name><surname>Caron</surname><given-names>D. A.</given-names></name></person-group> (<year>2007</year>). <article-title>Kleptoplasty in an Antarctic dinoflagellate: caught in evolutionary transition?</article-title>
+<source><italic>Environ. Microbiol.</italic></source>
+<volume>9</volume>
+<fpage>39</fpage>–<lpage>45</lpage>. <pub-id pub-id-type="doi">10.1111/j.1462-2920.2006.01109.x</pub-id><pub-id pub-id-type="pmid">17227410</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Guillard</surname><given-names>R. R.</given-names></name></person-group> (<year>1975</year>). <article-title>“Culture of phytoplankton for feeding marine invertebrates,” in</article-title>
+<source><italic>Culture of Marine Invertebrate Animals</italic></source>, <role>eds</role>
+<person-group person-group-type="editor"><name><surname>Smith</surname><given-names>W. L.</given-names></name><name><surname>Chanley</surname><given-names>M. H.</given-names></name></person-group> (<publisher-loc>New York, NY</publisher-loc>: <publisher-name>Springer</publisher-name>), <fpage>29</fpage>–<lpage>60</lpage>. <pub-id pub-id-type="doi">10.1007/978-1-4615-8714-9_3</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gustafson</surname><given-names>D. E.</given-names></name><name><surname>Stoecker</surname><given-names>D. K.</given-names></name><name><surname>Johnson</surname><given-names>M. D.</given-names></name><name><surname>Van Heukelem</surname><given-names>W. F.</given-names></name><name><surname>Sneider</surname><given-names>K.</given-names></name></person-group> (<year>2000</year>). <article-title>Cryptophyte algae are robbed of their organelles by the marine ciliate <italic>Mesodinium rubrum</italic>.</article-title>
+<source><italic>Nature</italic></source>
+<volume>405</volume>
+<fpage>1049</fpage>–<lpage>1052</lpage>. <pub-id pub-id-type="doi">10.1038/35016570</pub-id><pub-id pub-id-type="pmid">10890444</pub-id></mixed-citation>
+      </ref>
+      <ref id="B6">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hansen</surname><given-names>P. J.</given-names></name></person-group> (<year>2002</year>). <article-title>Effect of high pH on the growth and survival of marine phytoplankton: implications for species succession.</article-title>
+<source><italic>Aquat. Microb. Ecol.</italic></source>
+<volume>28</volume>
+<fpage>279</fpage>–<lpage>288</lpage>. <pub-id pub-id-type="doi">10.3354/ame028279</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hansen</surname><given-names>P. J.</given-names></name><name><surname>Fenchel</surname><given-names>T.</given-names></name></person-group> (<year>2006</year>). <article-title>The bloom-forming ciliate <italic>Mesodinium rubrum</italic> harbours a single permanent endosymbiont.</article-title>
+<source><italic>Mar. Biol. Res.</italic></source>
+<volume>2</volume>
+<fpage>169</fpage>–<lpage>177</lpage>. <pub-id pub-id-type="doi">10.1080/17451000600719577</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hansen</surname><given-names>P. J.</given-names></name><name><surname>Moldrup</surname><given-names>M.</given-names></name><name><surname>Tarangkoon</surname><given-names>W.</given-names></name><name><surname>Garcia-Cuetos</surname><given-names>L.</given-names></name><name><surname>Moestrup</surname><given-names>Ø.</given-names></name></person-group> (<year>2012</year>). <article-title>Direct evidence for symbiont sequestration in the marine red tide ciliate <italic>Mesodinium rubrum</italic>.</article-title>
+<source><italic>Aquat. Microb. Ecol.</italic></source>
+<volume>66</volume>
+<fpage>63</fpage>–<lpage>75</lpage>. <pub-id pub-id-type="doi">10.3354/ame01559</pub-id></mixed-citation>
+      </ref>
+      <ref id="B9">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Herfort</surname><given-names>L.</given-names></name><name><surname>Peterson</surname><given-names>T. D.</given-names></name><name><surname>McCue</surname><given-names>L. A.</given-names></name><name><surname>Crump</surname><given-names>B. C.</given-names></name><name><surname>Prahl</surname><given-names>F. G.</given-names></name><name><surname>Baptista</surname><given-names>A. M.</given-names></name><etal/></person-group> (<year>2011</year>). <article-title><italic>Myrionecta rubra</italic> population genetic diversity and its cryptophyte chloroplast specificity in recurrent red tides in the Columbia River estuary.</article-title>
+<source><italic>Aquat. Microb. Ecol.</italic></source>
+<volume>62</volume>
+<fpage>85</fpage>–<lpage>97</lpage>. <pub-id pub-id-type="doi">10.3354/ame01460</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hibberd</surname><given-names>D. J.</given-names></name></person-group> (<year>1977</year>). <article-title>Observations on the ultrastructure of the cryptomonad endosymbiont of the red-water ciliate <italic>Mesodinium rubrum</italic>.</article-title>
+<source><italic>J. Mar. Biol. Assoc. U.K.</italic></source>
+<volume>57</volume>
+<fpage>45</fpage>–<lpage>61</lpage>. <pub-id pub-id-type="doi">10.1017/S0025315400021226</pub-id></mixed-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Horiguchi</surname><given-names>T.</given-names></name><name><surname>Pienaar</surname><given-names>R. N.</given-names></name></person-group> (<year>1992</year>). <article-title><italic>Amphidinium latum</italic> Lebour (Dinophyceae), a sand-dwelling dinoflagellate feeding on cryptomonads.</article-title>
+<source><italic>Jpn. J. Phycol.</italic></source>
+<volume>40</volume>
+<fpage>353</fpage>–<lpage>363</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Johnson</surname><given-names>M. D.</given-names></name></person-group> (<year>2011</year>). <article-title>Acquired phototrophy in ciliates: a review of cellular interactions and structural adaptations.</article-title>
+<source><italic>J. Eukaryot. Microbiol.</italic></source>
+<volume>58</volume>
+<fpage>185</fpage>–<lpage>195</lpage>. <pub-id pub-id-type="doi">10.1111/j.1550-7408.2011.00545.x</pub-id><pub-id pub-id-type="pmid">21518077</pub-id></mixed-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Johnson</surname><given-names>M. D.</given-names></name><name><surname>Beaudoin</surname><given-names>D. J.</given-names></name><name><surname>Laza-Martinez</surname><given-names>A.</given-names></name><name><surname>Dyhrman</surname><given-names>S. T.</given-names></name><name><surname>Fensin</surname><given-names>E.</given-names></name><name><surname>Lin</surname><given-names>S.</given-names></name><etal/></person-group> (<year>2016</year>). <article-title>The genetic diversity of <italic>Mesodinium</italic> and associated Cryptophytes.</article-title>
+<source><italic>Front. Microbiol.</italic></source>
+<volume>7</volume>:<issue>2017</issue>
+<pub-id pub-id-type="doi">10.3389/fmicb.2016.02017</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Johnson</surname><given-names>M. D.</given-names></name><name><surname>Oldach</surname><given-names>D.</given-names></name><name><surname>Delwiche</surname><given-names>C. F.</given-names></name><name><surname>Stoecker</surname><given-names>D. K.</given-names></name></person-group> (<year>2007</year>). <article-title>Retention of transcriptionally active cryptophyte nuclei by the ciliate <italic>Myrionecta rubra</italic>.</article-title>
+<source><italic>Nature</italic></source>
+<volume>445</volume>
+<fpage>426</fpage>–<lpage>428</lpage>. <pub-id pub-id-type="doi">10.1038/nature05496</pub-id><pub-id pub-id-type="pmid">17251979</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Johnson</surname><given-names>M. D.</given-names></name><name><surname>Stoecker</surname><given-names>D. K.</given-names></name></person-group> (<year>2005</year>). <article-title>Role of feeding in growth and photophysiology of <italic>Myrionecta rubra</italic>.</article-title>
+<source><italic>Aquat. Microb. Ecol.</italic></source>
+<volume>39</volume>
+<fpage>303</fpage>–<lpage>312</lpage>. <pub-id pub-id-type="doi">10.3354/ame039303</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Johnson</surname><given-names>M. D.</given-names></name><name><surname>Tengs</surname><given-names>T.</given-names></name><name><surname>Oldach</surname><given-names>D.</given-names></name><name><surname>Stoecker</surname><given-names>D. K.</given-names></name></person-group> (<year>2006</year>). <article-title>Sequestration, performance, and functional control of cryptophyte plastids in the ciliate <italic>Myrionecta rubra</italic> (Ciliophora).</article-title>
+<source><italic>J. Phycol.</italic></source>
+<volume>42</volume>
+<fpage>1235</fpage>–<lpage>1246</lpage>. <pub-id pub-id-type="doi">10.1111/j.1529-8817.2006.00275.x</pub-id></mixed-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kim</surname><given-names>G. H.</given-names></name><name><surname>Han</surname><given-names>J. H.</given-names></name><name><surname>Kim</surname><given-names>B.</given-names></name><name><surname>Han</surname><given-names>J. W.</given-names></name><name><surname>Nam</surname><given-names>S. W.</given-names></name><name><surname>Shin</surname><given-names>W.</given-names></name><etal/></person-group> (<year>2016</year>). <article-title>Cryptophyte gene regulation in the kleptoplastidic, karyokleptic ciliate <italic>Mesodinium rubrum</italic>.</article-title>
+<source><italic>Harmful Algae</italic></source>
+<volume>52</volume>
+<fpage>23</fpage>–<lpage>33</lpage>. <pub-id pub-id-type="doi">10.1016/j.hal.2015.12.004</pub-id><pub-id pub-id-type="pmid">28073468</pub-id></mixed-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kim</surname><given-names>M.</given-names></name><name><surname>Kim</surname><given-names>K. Y.</given-names></name><name><surname>Nam</surname><given-names>S. W.</given-names></name><name><surname>Shin</surname><given-names>W.</given-names></name><name><surname>Yih</surname><given-names>W.</given-names></name><name><surname>Park</surname><given-names>M. G.</given-names></name></person-group> (<year>2014</year>). <article-title>The effect of starvation on plastid number and photosynthetic performance in the kleptoplastidic dinoflagellate <italic>Amylax triacantha</italic>.</article-title>
+<source><italic>J. Eukaryot. Microbiol.</italic></source>
+<volume>61</volume>
+<fpage>354</fpage>–<lpage>363</lpage>. <pub-id pub-id-type="doi">10.1111/jeu.12115</pub-id><pub-id pub-id-type="pmid">24734883</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lasek-Nesselquist</surname><given-names>E.</given-names></name><name><surname>Wisecaver</surname><given-names>J. H.</given-names></name><name><surname>Hackett</surname><given-names>J. D.</given-names></name><name><surname>Johnson</surname><given-names>M. D.</given-names></name></person-group> (<year>2015</year>). <article-title>Insights into transcriptional changes that accompany organelle sequestration from the stolen nucleus of <italic>Mesodinium rubrum</italic>.</article-title>
+<source><italic>BMC Genomics</italic></source>
+<volume>16</volume>:<issue>805</issue>
+<pub-id pub-id-type="doi">10.1186/s12864-015-2052-9</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lindholm</surname><given-names>T.</given-names></name></person-group> (<year>1985</year>). <article-title><italic>Mesodinium rubrum</italic>-a unique photosynthetic ciliate.</article-title>
+<source><italic>Adv. Aquat. Microbiol.</italic></source>
+<volume>3</volume>
+<fpage>1</fpage>–<lpage>48</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Martin</surname><given-names>W.</given-names></name><name><surname>Herrmann</surname><given-names>R. G.</given-names></name></person-group> (<year>1998</year>). <article-title>Gene transfer from organelles to the nucleus: How much, what happens, and why?</article-title>
+<source><italic>Plant Physiol.</italic></source>
+<volume>118</volume>
+<fpage>9</fpage>–<lpage>17</lpage>. <pub-id pub-id-type="doi">10.1104/pp.118.1.9</pub-id><pub-id pub-id-type="pmid">9733521</pub-id></mixed-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Martin</surname><given-names>W.</given-names></name><name><surname>Stoebe</surname><given-names>B.</given-names></name><name><surname>Goremykin</surname><given-names>V.</given-names></name><name><surname>Hansmann</surname><given-names>S.</given-names></name><name><surname>Hasegawa</surname><given-names>M.</given-names></name><name><surname>Kowallik</surname><given-names>K. V.</given-names></name></person-group> (<year>1998</year>). <article-title>Gene transfer to the nucleus and the evolution of chloroplasts.</article-title>
+<source><italic>Nature</italic></source>
+<volume>393</volume>
+<fpage>162</fpage>–<lpage>165</lpage>. <pub-id pub-id-type="doi">10.1038/30234</pub-id><pub-id pub-id-type="pmid">11560168</pub-id></mixed-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Moeller</surname><given-names>H. V.</given-names></name><name><surname>Johnson</surname><given-names>M. D.</given-names></name><name><surname>Falkowski</surname><given-names>P. G.</given-names></name></person-group> (<year>2011</year>). <article-title>Photoacclimation in the phototrophic marine ciliate <italic>Mesodinium rubrum</italic> (Ciliophora).</article-title>
+<source><italic>J. Phycol.</italic></source>
+<volume>47</volume>
+<fpage>324</fpage>–<lpage>332</lpage>. <pub-id pub-id-type="doi">10.1111/j.1529-8817.2010.00954.x</pub-id><pub-id pub-id-type="pmid">27021864</pub-id></mixed-citation>
+      </ref>
+      <ref id="B24">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Myung</surname><given-names>G.</given-names></name><name><surname>Kim</surname><given-names>H. S.</given-names></name><name><surname>Park</surname><given-names>J. S.</given-names></name><name><surname>Park</surname><given-names>M. G.</given-names></name><name><surname>Yih</surname><given-names>W.</given-names></name></person-group> (<year>2011</year>). <article-title>Population growth and plastid type of <italic>Myrionecta rubra</italic> depend on the kinds of available cryptomonad prey.</article-title>
+<source><italic>Harmful Algae</italic></source>
+<volume>10</volume>
+<fpage>536</fpage>–<lpage>541</lpage>. <pub-id pub-id-type="doi">10.1016/j.hal.2011.04.005</pub-id></mixed-citation>
+      </ref>
+      <ref id="B25">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Myung</surname><given-names>G.</given-names></name><name><surname>Kim</surname><given-names>H. S.</given-names></name><name><surname>Park</surname><given-names>J. W.</given-names></name><name><surname>Park</surname><given-names>J. S.</given-names></name><name><surname>Yih</surname><given-names>W.</given-names></name></person-group> (<year>2013</year>). <article-title>Sequestered plastids in <italic>Mesodinium rubrum</italic> are functionally active up to 80 days of phototrophic growth without cryptomonad prey.</article-title>
+<source><italic>Harmful Algae</italic></source>
+<volume>27</volume>
+<fpage>82</fpage>–<lpage>87</lpage>. <pub-id pub-id-type="doi">10.1016/j.hal.2013.05.001</pub-id></mixed-citation>
+      </ref>
+      <ref id="B26">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nam</surname><given-names>S. W.</given-names></name><name><surname>Park</surname><given-names>J. W.</given-names></name><name><surname>Yih</surname><given-names>W.</given-names></name><name><surname>Park</surname><given-names>M. G.</given-names></name><name><surname>Shin</surname><given-names>W.</given-names></name></person-group> (<year>2016</year>). <article-title>The fate of cryptophyte cell organelles in the ciliate <italic>Mesodinium</italic> cf. <italic>rubrum</italic> subjected to starvation.</article-title>
+<source><italic>Harmful Algae</italic></source>
+<volume>59</volume>
+<fpage>19</fpage>–<lpage>30</lpage>. <pub-id pub-id-type="doi">10.1016/j.hal.2016.09.002</pub-id><pub-id pub-id-type="pmid">28073503</pub-id></mixed-citation>
+      </ref>
+      <ref id="B27">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Oakley</surname><given-names>B. R.</given-names></name><name><surname>Taylor</surname><given-names>F. J. R.</given-names></name></person-group> (<year>1978</year>). <article-title>Evidence for a new type of endosymbiotic organization in a population of the ciliate <italic>Mesodinium rubrum</italic> from British Columbia.</article-title>
+<source><italic>BioSystems</italic></source>
+<volume>10</volume>
+<fpage>361</fpage>–<lpage>369</lpage>. <pub-id pub-id-type="doi">10.1016/0303-2647(78)90019-9</pub-id><pub-id pub-id-type="pmid">747751</pub-id></mixed-citation>
+      </ref>
+      <ref id="B28">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Okamoto</surname><given-names>N.</given-names></name><name><surname>Inouye</surname><given-names>I.</given-names></name></person-group> (<year>2005</year>). <article-title>A secondary symbiosis in progress?</article-title>
+<source><italic>Science</italic></source>
+<volume>310</volume>
+<fpage>287</fpage>–<lpage>287</lpage>.<pub-id pub-id-type="pmid">16224014</pub-id></mixed-citation>
+      </ref>
+      <ref id="B29">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Onuma</surname><given-names>R.</given-names></name><name><surname>Horiguchi</surname><given-names>T.</given-names></name></person-group> (<year>2013</year>). <article-title>Morphological transition in kleptochloroplasts after ingestion in the dinoflagellates <italic>Amphidinium poecilochroum</italic> and <italic>Gymnodinium aeruginosum</italic> (Dinophyceae).</article-title>
+<source><italic>Protist</italic></source>
+<volume>164</volume>
+<fpage>622</fpage>–<lpage>642</lpage>. <pub-id pub-id-type="doi">10.1016/j.protis.2013.06.003</pub-id><pub-id pub-id-type="pmid">23880436</pub-id></mixed-citation>
+      </ref>
+      <ref id="B30">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Onuma</surname><given-names>R.</given-names></name><name><surname>Horiguchi</surname><given-names>T.</given-names></name></person-group> (<year>2015</year>). <article-title>Kleptochloroplast enlargement, karyoklepty and the distribution of the cryptomonad nucleus in <italic>Nusuttodinium</italic> (= <italic>Gymnodinium</italic>) <italic>aeruginosum</italic> (Dinophyceae).</article-title>
+<source><italic>Protist</italic></source>
+<volume>166</volume>
+<fpage>177</fpage>–<lpage>195</lpage>. <pub-id pub-id-type="doi">10.1016/j.protis.2015.01.004</pub-id><pub-id pub-id-type="pmid">25771111</pub-id></mixed-citation>
+      </ref>
+      <ref id="B31">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Park</surname><given-names>J. S.</given-names></name><name><surname>Myung</surname><given-names>G.</given-names></name><name><surname>Kim</surname><given-names>H. S.</given-names></name><name><surname>Cho</surname><given-names>B. C.</given-names></name><name><surname>Yih</surname><given-names>W.</given-names></name></person-group> (<year>2007</year>). <article-title>Growth responses of the marine photosynthetic ciliate <italic>Myrionecta rubra</italic> to different cryptomonad strains.</article-title>
+<source><italic>Aquat. Microb. Ecol.</italic></source>
+<volume>48</volume>
+<fpage>83</fpage>–<lpage>90</lpage>. <pub-id pub-id-type="doi">10.3354/ame048083</pub-id></mixed-citation>
+      </ref>
+      <ref id="B32">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Qiu</surname><given-names>D.</given-names></name><name><surname>Huang</surname><given-names>L.</given-names></name><name><surname>Lin</surname><given-names>S.</given-names></name></person-group> (<year>2016</year>). <article-title>Cryptophyte farming by symbiotic ciliate host detected in situ.</article-title>
+<source><italic>Proc. Natl. Acad. Sci. U.S.A.</italic></source>
+<volume>113</volume>
+<fpage>12208</fpage>–<lpage>12213</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1612483113</pub-id><pub-id pub-id-type="pmid">27791006</pub-id></mixed-citation>
+      </ref>
+      <ref id="B33">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Raho</surname><given-names>N.</given-names></name><name><surname>Jaén</surname><given-names>D.</given-names></name><name><surname>Mamán</surname><given-names>L.</given-names></name><name><surname>Rial</surname><given-names>P.</given-names></name><name><surname>Marín</surname><given-names>I.</given-names></name></person-group> (<year>2014</year>). <article-title>psbA based molecular analysis of cross-feeding experiments suggests that <italic>Dinophysis acuta</italic> does not harbour permanent plastids.</article-title>
+<source><italic>Harmful Algae</italic></source>
+<volume>35</volume>
+<fpage>20</fpage>–<lpage>28</lpage>. <pub-id pub-id-type="doi">10.1016/j.hal.2014.03.003</pub-id></mixed-citation>
+      </ref>
+      <ref id="B34">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Skovgaard</surname><given-names>A.</given-names></name><name><surname>Hansen</surname><given-names>P. J.</given-names></name><name><surname>Stoecker</surname><given-names>D. K.</given-names></name></person-group> (<year>2000</year>). <article-title>Physiology of the mixotrophic dinoflagellate <italic>Fragilidium subglobosum</italic>. I. Effects of phagotrophy and irradiance on photosynthesis and carbon content.</article-title>
+<source><italic>Mar. Ecol. Prog. Ser.</italic></source>
+<volume>201</volume>
+<fpage>129</fpage>–<lpage>136</lpage>. <pub-id pub-id-type="doi">10.3354/meps201129</pub-id></mixed-citation>
+      </ref>
+      <ref id="B35">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Smith</surname><given-names>M.</given-names></name><name><surname>Hansen</surname><given-names>P. J.</given-names></name></person-group> (<year>2007</year>). <article-title>Interaction between <italic>Mesodinium rubrum</italic> and its prey: importance of prey concentration, irradiance and pH.</article-title>
+<source><italic>Mar. Ecol. Prog. Ser.</italic></source>
+<volume>338</volume>
+<fpage>61</fpage>–<lpage>70</lpage>. <pub-id pub-id-type="doi">10.3354/meps338061</pub-id></mixed-citation>
+      </ref>
+      <ref id="B36">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Taylor</surname><given-names>F. J. R.</given-names></name><name><surname>Blackbourn</surname><given-names>D. J.</given-names></name><name><surname>Blackbourn</surname><given-names>J.</given-names></name></person-group> (<year>1969</year>). <article-title>Ultrastructure of the chloroplasts and associated structures within the marine ciliate <italic>Mesodinium rubrum</italic> (Lohmann).</article-title>
+<source><italic>Nature</italic></source>
+<volume>224</volume>
+<fpage>819</fpage>–<lpage>821</lpage>. <pub-id pub-id-type="doi">10.1038/224819a0</pub-id></mixed-citation>
+      </ref>
+      <ref id="B37">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Taylor</surname><given-names>F. J. R.</given-names></name><name><surname>Blackbourn</surname><given-names>D. J.</given-names></name><name><surname>Blackbourn</surname><given-names>J.</given-names></name></person-group> (<year>1971</year>). <article-title>The red-water ciliate <italic>Mesodinium rubrum</italic> and its “incomplete symbionts”: a review including new ultrastructural observations.</article-title>
+<source><italic>J. Fish. Res. Board Can.</italic></source>
+<volume>28</volume>
+<fpage>391</fpage>–<lpage>407</lpage>. <pub-id pub-id-type="doi">10.1139/f71-052</pub-id></mixed-citation>
+      </ref>
+      <ref id="B38">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yamaguchi</surname><given-names>H.</given-names></name><name><surname>Nakayama</surname><given-names>T.</given-names></name><name><surname>Kai</surname><given-names>A.</given-names></name><name><surname>Inouye</surname><given-names>I.</given-names></name></person-group> (<year>2011</year>). <article-title>Taxonomy and phylogeny of a new kleptoplastidal dinoflagellate, <italic>Gymnodinium myriopyrenoides</italic> sp. nov. (Gymnodiniales, Dinophyceae), and its cryptophyte symbiont.</article-title>
+<source><italic>Protist</italic></source>
+<volume>162</volume>
+<fpage>650</fpage>–<lpage>667</lpage>. <pub-id pub-id-type="doi">10.1016/j.protis.2011.01.002</pub-id><pub-id pub-id-type="pmid">21497133</pub-id></mixed-citation>
+      </ref>
+      <ref id="B39">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yih</surname><given-names>W.</given-names></name><name><surname>Kim</surname><given-names>H. S.</given-names></name><name><surname>Jeong</surname><given-names>H. J.</given-names></name><name><surname>Myung</surname><given-names>G.</given-names></name><name><surname>Kim</surname><given-names>Y. G.</given-names></name></person-group> (<year>2004</year>). <article-title>Ingestion of cryptophyte cells by the marine photosynthetic ciliate <italic>Mesodinium rubrum</italic>.</article-title>
+<source><italic>Aquat. Microb. Ecol.</italic></source>
+<volume>36</volume>
+<fpage>165</fpage>–<lpage>170</lpage>. <pub-id pub-id-type="doi">10.3354/ame036165</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record>

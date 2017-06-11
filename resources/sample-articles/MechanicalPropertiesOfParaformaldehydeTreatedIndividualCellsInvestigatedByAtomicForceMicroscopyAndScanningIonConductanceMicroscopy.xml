@@ -1,0 +1,1119 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5359366</identifier><datestamp>2017-04-04</datestamp><setSpec>springeropen</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Nano Converg</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Nano Converg</journal-id>
+      <journal-title-group>
+        <journal-title>Nano Convergence</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2196-5404</issn>
+      <publisher>
+        <publisher-name>Springer Singapore</publisher-name>
+        <publisher-loc>Singapore</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5359366</article-id>
+      <article-id pub-id-type="pmcid">PMC5359366</article-id>
+      <article-id pub-id-type="pmc-uid">5359366</article-id>
+      <article-id pub-id-type="publisher-id">99</article-id>
+      <article-id pub-id-type="doi">10.1186/s40580-017-0099-9</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Mechanical properties of paraformaldehyde-treated individual cells investigated by atomic force microscopy and scanning ion conductance microscopy</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" equal-contrib="yes">
+          <name>
+            <surname>Kim</surname>
+            <given-names>Seong-Oh</given-names>
+          </name>
+          <address>
+            <email>seongoh001@e.ntu.edu.sg</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" equal-contrib="yes">
+          <name>
+            <surname>Kim</surname>
+            <given-names>Joonhui</given-names>
+          </name>
+          <address>
+            <email>joonhui001@e.ntu.edu.sg</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Okajima</surname>
+            <given-names>Takaharu</given-names>
+          </name>
+          <address>
+            <email>okajima@ist.hokudai.ac.jp</email>
+          </address>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Cho</surname>
+            <given-names>Nam-Joon</given-names>
+          </name>
+          <address>
+            <email>njcho@ntu.edu.sg</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2224 0361</institution-id><institution-id institution-id-type="GRID">grid.59025.3b</institution-id><institution>School of Materials Science and Engineering, </institution><institution>Nanyang Technological University, </institution></institution-wrap>50 Nanyang Avenue, Singapore, 639798 Singapore </aff>
+        <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2224 0361</institution-id><institution-id institution-id-type="GRID">grid.59025.3b</institution-id><institution>School of Chemical and Biomedical Engineering, </institution><institution>Nanyang Technological University, </institution></institution-wrap>62 Nanyang Drive, Singapore, 637459 Singapore </aff>
+        <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2173 7691</institution-id><institution-id institution-id-type="GRID">grid.39158.36</institution-id><institution>Graduate School of Information Science and Technology, </institution><institution>Hokkaido University, </institution></institution-wrap>Sapporo, 060-0814 Japan </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <day>20</day>
+        <month>3</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>20</day>
+        <month>3</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <year>2017</year>
+      </pub-date>
+      <volume>4</volume>
+      <issue>1</issue>
+      <elocation-id>5</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>15</day>
+          <month>2</month>
+          <year>2017</year>
+        </date>
+        <date date-type="accepted">
+          <day>13</day>
+          <month>3</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© Korea Nano Technology Research Society 2017</copyright-statement>
+        <license license-type="OpenAccess">
+          <license-p>
+<bold>Open Access</bold>This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.</license-p>
+        </license>
+      </permissions>
+      <abstract id="Abs1">
+        <sec>
+          <title>Background</title>
+          <p>Cell fixation is an essential step to preserve cell samples for a wide range of biological assays involving histochemical and cytochemical analysis. Paraformaldehyde (PFA) has been widely used as a cross-linking fixation agent. It has been empirically recognized in a gold standard protocol that the PFA concentration for cell fixation, <italic>C</italic>
+<sub>PFA</sub>, is 4%. However, it is still not quantitatively clear how the conventional protocol of <italic>C</italic>
+<sub>PFA</sub> is optimized.</p>
+        </sec>
+        <sec>
+          <title>Methods</title>
+          <p>Here, we investigated the mechanical properties of cell fixation as a function of <italic>C</italic>
+<sub>PFA</sub> by using atomic force microscopy and scanning ion conductance microscopy. The goal of this study is to investigate the effect of <italic>C</italic>
+<sub>PFA</sub> (0–10 wt%) on the morphological and mechanical properties of live and fixed mouse fibroblast cells.</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p>We found that both Young’s modulus, <italic>E,</italic> and the fluctuation amplitude of apical cell membrane, <italic>a</italic>
+<sub>m</sub>, were almost constant in a lower <italic>C</italic>
+<sub>PFA</sub> (&lt;10<sup>−4</sup>%). Interestingly, in an intermediate <italic>C</italic>
+<sub>PFA</sub> between 10<sup>−1</sup> and 4%, <italic>E</italic> dramatically increased whereas <italic>a</italic>
+<sub>m</sub> abruptly decreased, indicating that entire cells begin to fix at <italic>C</italic>
+<sub>PFA</sub> = ca. 10<sup>−1</sup>%. Moreover, these quantities were unchanged in a higher <italic>C</italic>
+<sub>PFA</sub> (&gt;4%), indicating that the cell fixation is stabilized at <italic>C</italic>
+<sub>PFA</sub> = ca. 4%, which is consistent with the empirical concentration of cell fixation optimized in biological protocols.</p>
+        </sec>
+        <sec>
+          <title>Conclusions</title>
+          <p>Taken together, these findings offer a deeper understanding of how varying PFA concentrations influence the mechanical properties of cells and suggest new avenues for establishing refined cell fixation protocols.</p>
+        </sec>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <title>Keywords</title>
+        <kwd>Scanning ion conductance microscopy</kwd>
+        <kwd>Atomic force microscopy</kwd>
+        <kwd>Cellular mechanics</kwd>
+        <kwd>Cell fixation</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution>JSPS-NUS/NTU Joint Research Project Grant Call </institution>
+          </funding-source>
+          <award-id>M4081560</award-id>
+        </award-group>
+      </funding-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>issue-copyright-statement</meta-name>
+          <meta-value>© Korea Nano Technology Research Society 2017</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="Sec1">
+      <title>Background</title>
+      <p>Understanding how cells behave at material interfaces holds wide importance for key biological applications such as cell–material surface interactions [<xref ref-type="bibr" rid="CR1">1</xref>], mechanobiology [<xref ref-type="bibr" rid="CR2">2</xref>], and advanced cell analysis [<xref ref-type="bibr" rid="CR3">3</xref>]. Among such applications, one of the most practical and widely methods used across the biological sciences is cell fixation, which is an essential process for histological analyses in clinical diagnosis. Typically, when cells are degraded or dehydrated, essential cell components, such as protein, membrane, and intracellular structures will also be altered or degraded [<xref ref-type="bibr" rid="CR4">4</xref>]. The surface structure of these cells may also collapse and diffuse away during antibody incubation and washing steps. Cell fixation aims to maintain cells or cellular components in life-like state, preventing unexpected changes by preserving essential chemical and physical characteristics of cells for further observation. Furthermore, cell fixation provides an effective approach for immunostaining by allowing the antibodies to access intracellular structures [<xref ref-type="bibr" rid="CR5">5</xref>].</p>
+      <p>Among various fixation agents for cross-linking cell membrane and cytoplasmic protein, paraformaldehyde (PFA) is one of the most widely used chemical agents for cell and tissue samples [<xref ref-type="bibr" rid="CR4">4</xref>–<xref ref-type="bibr" rid="CR6">6</xref>]. PFA causes covalent cross-links between molecules, effectively gluing them together into an insoluble meshwork that alters the mechanical properties of the cell surface. Previous studies report that the cell surface hardens after fixative treatment [<xref ref-type="bibr" rid="CR7">7</xref>–<xref ref-type="bibr" rid="CR10">10</xref>]. Compared to an unfixed cell, the mechanical properties of a fixed cell are more uniform across the entire cell surface [<xref ref-type="bibr" rid="CR11">11</xref>]. However, there is no systematic assessment of correlation between changes in mechanical properties of live and fixed cells. Indeed, little is known about how the mechanical properties of cells depend on the PFA concentration. Furthermore, it has been revealed that subtle adjustment in fixation conditions with, e.g., PFA condition, can have dramatic effects on the immobilization of molecules within cellular membranes [<xref ref-type="bibr" rid="CR12">12</xref>]. Understanding the detailed process of cell fixation in various states from living cells to completely fixed cells provides an opportunity to optimize cell fixation protocols and to gain useful knowledge about the living cell fixation process.</p>
+      <p>To address this outstanding question, we investigated the mechanical properties of cell surface structures as a function of the concentration of PFA (<italic>C</italic>
+<sub>PFA</sub>) by using atomic force microscopy (AFM) and scanning ion conductance microscopy (SICM). These methods allow us to measure the elastic modulus and the surface fluctuation amplitude, respectively, of cells in both living and fixed states [<xref ref-type="bibr" rid="CR13">13</xref>–<xref ref-type="bibr" rid="CR16">16</xref>]. These measurement approaches can be applied to living cells to investigate cell mechanical changes in response to the PFA concentration, <italic>C</italic>
+<sub>PFA</sub>. We found that both cell stiffness and cell surface fluctuation underwent a transition around <italic>C</italic>
+<sub>PFA</sub> = 10<sup>−1</sup>–4%, and these quantities were unchanged at a higher <italic>C</italic>
+<sub>PFA</sub> (&gt;4%), indicating that the cell fixation is stabilized at <italic>C</italic>
+<sub>PFA</sub> = ca. 4%, which is consistent with the empirical concentration of cell fixation optimized in biological protocols.</p>
+    </sec>
+    <sec id="Sec2">
+      <title>Results and discussion</title>
+      <sec id="Sec3">
+        <title>Topographical imaging of live and fixed L929 cells with SICM</title>
+        <p>Figure <xref rid="Fig1" ref-type="fig">1</xref>c, d show the topography of a single L929 cell imaged by SICM before and after treating with 4% PFA, which is the conventional PFA concentration for cell fixation. Whereas no clear difference between the untreated and treated cells was observed for the cell height, a small difference in cell shape was apparent. The live cell shows a maximum height of 2.5 µm (Fig. <xref rid="Fig1" ref-type="fig">1</xref>e), and the corresponding height in the 4% PFA treated cell appears around 2.5 µm (Fig. <xref rid="Fig1" ref-type="fig">1</xref>f). However, the PFA-treated cells are slightly shrunken so that the cell adhesive area and the cell volume were lower than those of the untreated cell, which is in good agreement with anecdotal observations in the biology field [<xref ref-type="bibr" rid="CR17">17</xref>]. The measured cell area and volumes are 908.12 µm<sup>2</sup> and 774.11 µm<sup>3</sup> in the live cell and 876.85 µm<sup>2</sup> (3.5% lower) and 716.54 µm<sup>3</sup> (7.4% lower) in 4% PFA treated cell. Furthermore, we found that the roughness of cell surface is larger in treated cells. This is probably due to crosslinking of proteins that react with PFA, resulting in aggregation and cell shrinkage.<fig id="Fig1"><label>Fig. 1</label><caption><p>Schematic view of principle of SPM techiques and L929 cell surface images using SICM. <bold>a</bold> In AFM, the attractive or repulsive force between the tip and the sample causes deflection of the cantilever. As the cantilever deflects, the angle of the reflected laser beam changes angle and strikes a different part of the photodiode. The signals from the four quadrants of the detector are compared to calculate the deflection signal. Using this signal, the system (computer) generates a topography of the sample surface. <bold>b</bold> In SICM, a nano-pipette filled with electrolyte is brought in proximity to the sample of interest. A bias applied between an electrode in the pipette and another electrode in the bulk solution generates an ion current, which can be used in feedback control to prevent direct contact between the nano-pipette and the sample. <bold>c</bold> Height image and 3-dimensional image of live single L929 fibroblast cell surface using SICM hopping mode, <bold>d</bold> height image and 3-dimensional image of fixed fibroblast cell surface. The size of all images are 50 × 50 µm, after imaging of live cell (<bold>c</bold>), fixed with PFA, fixed cell imaging (<bold>d</bold>) was performed. <bold>e</bold>, <bold>f</bold> Indicates line profile of each image. Imaging time of each image is around 30 min</p></caption><graphic xlink:href="40580_2017_99_Fig1_HTML" id="MO1"/></fig>
+</p>
+      </sec>
+      <sec id="Sec4">
+        <title>Surface fluctuations of cells with PFA treatment</title>
+        <p>We measured the I–D curves of SICM as applied to cell surfaces at various <italic>C</italic>
+<sub>PFA</sub>. To estimate cell surface fluctuations, the measurement time of the I–D curve was checked against a known standard [<xref ref-type="bibr" rid="CR16">16</xref>, <xref ref-type="bibr" rid="CR18">18</xref>, <xref ref-type="bibr" rid="CR19">19</xref>]. Figure <xref rid="Fig2" ref-type="fig">2</xref>b shows the representative I–D curves for L929 cells with different C<sub>PFA</sub>’s. In the solid substrate (petri dish), I–D curve exhibits the steepest slope, while in the untreated condition, I–D curve exhibits the broadest slope. In the PFA-treastd cells, the I–D curves exists in between. Note that the cell treated with 4% PFA was almost the same I–D curve as the solid substrate I–D curves. The I–D curves in Fig. <xref rid="Fig2" ref-type="fig">2</xref>b were fitted to Eq. (<xref rid="Equ1" ref-type="">1</xref>), and the RMS displacement of cell surface fluctuations on treatment of different <italic>C</italic>
+<sub>PFA</sub> are shown in Fig. <xref rid="Fig3" ref-type="fig">3</xref>. The estimated RMS displacement of surface fluctuations (a<sub>m</sub>) is approximately 12 nm on the 4% C<sub>PFA</sub> treated cell. However, it increases gradually depending on the lower concentration of PFA. In the live cell, displacements was around 43 nm. The chemically fixation caused no difference on cell surface topography (Fig. <xref rid="Fig1" ref-type="fig">1</xref>e, f) however, the surface dynamics was drastically varied. It means that the live L929 cell had more active movement compare to the PFA treated cell. Smaller surface fluctuations in PFA treated cell can be explained by the PFA treatment effect that results in cross-linking of proteins between the membrane and cytoplasmic proteins.<fig id="Fig2"><label>Fig. 2</label><caption><p>
+<bold>a</bold> Schematic view of the cell surface fluctuation setting by SICM. To investigate fluctuation levels, the nano-pipette was positioned on the apex of the single cell. <bold>b</bold> Typical ion current–distance curves of the solid substrate (<italic>black</italic>), a fixed cell (<italic>red</italic>), a 1% PFA treated cell (<italic>green</italic>), a 0.1% PFA treated cell (<italic>blue</italic>) and a live cell (<italic>sky blue</italic>). For the solid substrate (petri dish), there was no change. In the fixed cell, a much broader curve range was observed. For the live cell, the broadness of the curve range was greatest</p></caption><graphic xlink:href="40580_2017_99_Fig2_HTML" id="MO2"/></fig>
+<fig id="Fig3"><label>Fig. 3</label><caption><p>RMS displacements of cell surface fluctuations. The displacements are approximately 12 nm on a fixed cell, but much larger on a live cell surface (43 nm). The live cell shows more active movement than fixed cell (N = 60)</p></caption><graphic xlink:href="40580_2017_99_Fig3_HTML" id="MO3"/></fig>
+</p>
+      </sec>
+      <sec id="Sec5">
+        <title>Young’s modulus of cells with PFA treatment</title>
+        <p>To investigate the effect of PFA treatment on cell surface stiffness, the force-separation curve measurements were performed on live and PFA treated cells (Fig. <xref rid="Fig4" ref-type="fig">4</xref>a). Figure <xref rid="Fig4" ref-type="fig">4</xref>b shows typical force-separation curve for live cells, 4% PFA treated cells and solid substrate (petri dish). Clearly, the 4% PFA treated cell exhibits a much steeper force curve slope than a live cell. In addition, the required force for surface indentation is also larger for treated cells than for live cells. Figure <xref rid="Fig5" ref-type="fig">5</xref> shows the averaged Young’s modulus, <italic>E</italic>, values as a function of C<sub>PFA</sub>. Compared to live cells (3.5 kPa), the stiffness of PFA treated cells (4% <italic>C</italic>
+<sub>PFA</sub> treated cell is 18 kPa) gradually increases with higher <italic>C</italic>
+<sub>PFA</sub>.<fig id="Fig4"><label>Fig. 4</label><caption><p>
+<bold>a</bold> Optical image of AFM tips positioning on the target cell. <bold>b</bold> Typical force-separation curve for a fixed cell (4% PFA-treated cell), live cell, and solid substrate. Compared to live cells, the slope of fixed cells approach curve is steeper, indicating a significantly larger Young’s modulus for fixed cells</p></caption><graphic xlink:href="40580_2017_99_Fig4_HTML" id="MO4"/></fig>
+<fig id="Fig5"><label>Fig. 5</label><caption><p>Young’s modulus for varying PFA concentrations in fibroblast cells. As expected, higher concentrations resulted in a higher Young’s modulus: approximately 3.5 kPa on live cells, and 18 kPa on fixed cells (N = 50)</p></caption><graphic xlink:href="40580_2017_99_Fig5_HTML" id="MO5"/></fig>
+</p>
+        <p>The cell stiffness measured with AFM is strongly affected by the actin filamentous structures. PFA treatment affects the cross-linking of cell surface proteins, including F-actin filaments [<xref ref-type="bibr" rid="CR5">5</xref>, <xref ref-type="bibr" rid="CR9">9</xref>, <xref ref-type="bibr" rid="CR17">17</xref>, <xref ref-type="bibr" rid="CR20">20</xref>, <xref ref-type="bibr" rid="CR21">21</xref>]. Taken together, we concluded that the stiffening of cells directly results in the cross-linking of proteins. Specifically, it is assumed that the PFA fixation caused an increase of the cell stiffness depending on the available number of randomly distributed crosslinking sites on the cell surface. As shown in Fig. <xref rid="Fig5" ref-type="fig">5</xref>, Young’s modulus does not increase linearly with the <italic>C</italic>
+<sub>PFA</sub> which suggests saturation in the number of available sites for surface protein cross-linking. Below the 10<sup>−1</sup>% of <italic>C</italic>
+<sub>PFA</sub> treatment, in lower concentration, there is no significant effect on cell stiffness, but it gradually increases because the crosslinking is occurred randomly. In the intermediate C<sub>PFA</sub> (10<sup>−1</sup>%), a percolation of the crosslinking occurs, so that the stiffness undergoes a transition. When treated with higher concentrations of PFA (over 10<sup>−1</sup>%), it produces dramatic changes in cell stiffness. In this case, the stiffness remains unchanged, indicating the percolation is completed around C<sub>PFA</sub> = 4%. Interestingly, the elastic modulus begins to increase before the membrane fluctuation amplitude decreases, suggesting that cells can tolerate some degree of protein cross-linking while maintaining normal function. Such findings are in excellent agreement with previous observations that molecules in cellular membranes can remain mobile under certain, relatively mild PFA fixation conditions [<xref ref-type="bibr" rid="CR12">12</xref>].</p>
+        <p>To corroborate these findings, cell viability experiments were conducted at different PFA concentrations. Figure <xref rid="Fig6" ref-type="fig">6</xref>a shows live and dead cells as distinguished via the staining kit. Green color represents live cells, and red color represents dead cells. As shown in this figure, from control to 0.1% PFA treatment, most of the cell culture is live. PFA treatment over 1% shows a large increase in red cells, indicating widespread cell death. Also, Fig. <xref rid="Fig6" ref-type="fig">6</xref>b shows the quantitative analysis of live and dead ratio from staining data after PFA treatment. Between 0.1 and 1% <italic>C</italic>
+<sub>PFA</sub> appears to be the critical concentration for live cell to dead cell ratio inversion. This agreement between cell surface fluctuation, Young’s modulus and cell viability assay data supports the statement that range encompassing 0.1–1% <italic>C</italic>
+<sub>PFA</sub> can trigger sufficient surface protein cross-linking, and in particular that a critical density of cross-linking events occurs in this PFA concentration range whereby cellular function is irreversibly impaired and likely related to changes in membrane mobility as well. In other words, this PFA concentration range is critical for to influencing the available number of crosslinking sites on the cell surface, and with that, cell viability.<fig id="Fig6"><label>Fig. 6</label><caption><p>Evaluation of PFA-mediated cytotoxicity on L929 cells. <bold>a</bold> Fluorescence microscope images for assessment of live and dead cell ratio dependent on titration of <italic>C</italic>
+<sub>PFA</sub>. <italic>Green fluorescence</italic> represents live cells and <italic>red fluorescence</italic> represents dead cell, <italic>scale bar</italic> 50 μm. <bold>b</bold> Percentage graph of live/dead cell ratio dependent on the titration of <italic>C</italic>
+<sub>PFA</sub>. Data is presented as the mean ± standard deviation, with <italic>t</italic> test results indicating p &lt; 0.05</p></caption><graphic xlink:href="40580_2017_99_Fig6_HTML" id="MO6"/></fig>
+</p>
+      </sec>
+    </sec>
+    <sec id="Sec6">
+      <title>Conclusions</title>
+      <p>Herein, we have demonstrated a fundamental mechanical comparison between live cells and cells that were fixed with various concentrations of PFA. AFM and SICM measurements showed that the apparent surface fluctuation amplitude and elastic modulus of cells underwent transition when exposed to PFA concentrations between 0.1 and 4%. After complete PFA fixation, cell surface fluctuation decreased to 71% of live cell, while the Young’s modulus increased by fivefold compared to that of live cells. These results provide a deeper understanding of how cells react to chemical treatment with PFA that takes into account not only the traditional chemical understanding of PFA’s effect upon the cell, but now also the cell’s surface-based mechanical properties that were targeted in this study. It is now apparent that PFA fixation enables the opening of distributed proteins across the cell surface, a critical process that facilitates widespread crosslinking. Cell membranes that are typically flexible and variable. But in a certain situation, such as chemical treatment, biological functions are changed, and morphological changes also occur. This is the reason why studying cell surface fluctuations are crucial for the understanding of cell function about cell dynamics. Given the general nature of these physicochemical mechanisms, we expect that similar effects of PFA treatment on the elastic modulus and membrane fluctuations would also be expected although the specific magnitudes and responses conferred upon PFA treatment might vary on an absolute scale. We have confidence in that the SPM techniques could well serve as a promising tool for quantitative studies of both fixed cells and live cells in order to further explore this exciting topic at the convergence of biology and nanotechnology.</p>
+    </sec>
+    <sec id="Sec7">
+      <title>Methods</title>
+      <sec id="Sec8">
+        <title>Cell sample</title>
+        <p>We used mouse fibroblast L929 cells (ATCC, USA) cultured in Dulbecco’s modified eagle medium (DMEM; Invitrogen Life Technique, US) supplemented with 10% fetal bovine serum (Thermo Fisher Scientific, US) and 1% penicillin/streptomycin (Invitrogen Life Technique, USA) at 37 °C in a humidified atmosphere containing 5% CO<sub>2</sub>. The cell samples with cell densities of 1 × 10<sup>4</sup>/mL on a 35 mm diameter cell culture petri dish (NUNC, Denmark), were washed with phosphate buffered saline (PBS, Sigma-Aldrich, US) three times and then treated with different PFA solutions (<italic>C</italic>
+<sub>PFA</sub> = 10<sup>−5</sup>, 10<sup>−4</sup>, 10<sup>−1</sup>, 1, 4, 8 and 10%) for 5 min. Before AFM and SICM experiments, the treated cell samples were again washed three times with PBS.</p>
+      </sec>
+      <sec id="Sec9">
+        <title>SPM apparatus</title>
+        <p>A commercial SPM system (NX-Bio, Park Systems, South Korea) equipped with an inverted optical microscopy (Nikon Corp., Japan) which is designed specifically for biological applications was employed in this study. The SPM system not only achieved a soft material sample such as cell surface information using SICM, but it also obtained mechanical properties of a sample using AFM. All experiments using live cells were performed in a customized live cell chamber (Live Cell Instrument, South Korea). The live cell chamber was adjusted to 37 °C with 5% CO<sub>2</sub> and 95% humidity, readily providing the specific environmental conditions needed to sustain cell cultures. Within this environment, live cell SICM imaging or AFM experiment was conducted for extended timeframes via optical monitoring methods, including optical phase contrast and digital image correlation microscopy.</p>
+        <sec id="Sec11">
+          <title>SICM measurement for cell imaging and fluctuation analysis</title>
+          <p>The operation of SICM relies on an ion current that flows between an electrode inside a nano-pipette and an electrode located in an external bath solution. This ion current provides a feedback signal used to maintain the tip-sample distance and allow for the nano-pipette to scan topographical information (Fig. <xref rid="Fig1" ref-type="fig">1</xref>b). In spite of low lateral resolution (10–20 nm) [<xref ref-type="bibr" rid="CR22">22</xref>], SICM offers useful topographical measurement without applying any mechanical force onto the sample surface.</p>
+          <p>SICM imaging and ion current-distance (I–D) curve experiments were performed using customized SPM system with 100 nm inner diameter nano-pipette fabricated from borosilicate capillaries (inner diameter 0.6 mm, outer diameter 1.0 mm, World Precision Instruments, USA) using a CO<sub>2</sub>-laser pipette puller (Sutter Instruments, USA). The cell topographic images were obtained with the so-called hopping mode [<xref ref-type="bibr" rid="CR23">23</xref>], in which the nano-pipette approached sample surfaces with the pre-set threshold of 1.2%.</p>
+          <p>The apparent fluctuation amplitude of cell apical surfaces, <italic>a</italic>
+<sub>m</sub>, was estimated from the I–D curve of SICM measurement [<xref ref-type="bibr" rid="CR16">16</xref>, <xref ref-type="bibr" rid="CR19">19</xref>]. The measured ion current with cell apical surface fluctuation was assumed to be a convolution of the non-fluctuation-based ion-current relation, <italic>I</italic>
+<sub>0</sub>, and the existing probability of cell surface position at z, <italic>P</italic>(<italic>z</italic>).<disp-formula id="Equ1"><label>1</label><alternatives><tex-math id="M1">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\left\langle I( {z - z_{0} ,\delta z^{2}_{s} }) \right\rangle = \mathop \smallint \limits_{ - \infty }^{\infty } I_{0} \left( {z - z_{0} } \right) P\left( {z_{s} - z_{0} , \delta z^{2}_{s} } \right) {\text{d}}z_{s}.$$\end{document}</tex-math><mml:math id="M2" display="block"><mml:mrow><mml:mfenced close="〉" open="〈" separators=""><mml:mi>I</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:mi>z</mml:mi><mml:mo>-</mml:mo><mml:msub><mml:mi>z</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo>,</mml:mo><mml:mi mathvariant="italic">δ</mml:mi><mml:msubsup><mml:mi>z</mml:mi><mml:mi>s</mml:mi><mml:mn>2</mml:mn></mml:msubsup></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mfenced><mml:mo>=</mml:mo><mml:munderover><mml:mo largeop="false">∫</mml:mo><mml:mrow><mml:mo>-</mml:mo><mml:mi>∞</mml:mi></mml:mrow><mml:mi>∞</mml:mi></mml:munderover><mml:msub><mml:mi>I</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:mi>z</mml:mi><mml:mo>-</mml:mo><mml:msub><mml:mi>z</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mrow></mml:mfenced><mml:mi>P</mml:mi><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:msub><mml:mi>z</mml:mi><mml:mi>s</mml:mi></mml:msub><mml:mo>-</mml:mo><mml:msub><mml:mi>z</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo>,</mml:mo><mml:mi mathvariant="italic">δ</mml:mi><mml:msubsup><mml:mi>z</mml:mi><mml:mi>s</mml:mi><mml:mn>2</mml:mn></mml:msubsup></mml:mrow></mml:mfenced><mml:mtext>d</mml:mtext><mml:msub><mml:mi>z</mml:mi><mml:mi>s</mml:mi></mml:msub><mml:mo>.</mml:mo></mml:mrow></mml:math><graphic xlink:href="40580_2017_99_Article_Equ1.gif" position="anchor"/></alternatives></disp-formula>
+</p>
+          <p>The <italic>z</italic> and <italic>z</italic>
+<sub><italic>s</italic></sub> are the position of the pipette and the sample, respectively. The <inline-formula id="IEq1"><alternatives><tex-math id="M3">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$z_{0}$$\end{document}</tex-math><mml:math id="M4"><mml:msub><mml:mi>z</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:math><inline-graphic xlink:href="40580_2017_99_Article_IEq1.gif"/></alternatives></inline-formula> and <inline-formula id="IEq2"><alternatives><tex-math id="M5">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\delta z^{ 2}_{s}$$\end{document}</tex-math><mml:math id="M6"><mml:mrow><mml:mi mathvariant="italic">δ</mml:mi><mml:msubsup><mml:mi>z</mml:mi><mml:mi>s</mml:mi><mml:mn>2</mml:mn></mml:msubsup></mml:mrow></mml:math><inline-graphic xlink:href="40580_2017_99_Article_IEq2.gif"/></alternatives></inline-formula> are the time-average position of cell surface and the deviation of the sample fluctuation. The non-fluctuation ion-current relation is approximately expressed as the following form [<xref ref-type="bibr" rid="CR19">19</xref>]:<disp-formula id="Equ2"><label>2</label><alternatives><tex-math id="M7">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$I_{0} \left( {z - z_{0} } \right) = I_{sat} \left( {1 + \frac{\zeta }{{z - z_{0} }}} \right)^{ - 1} ,$$\end{document}</tex-math><mml:math id="M8" display="block"><mml:mrow><mml:msub><mml:mi>I</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:mi>z</mml:mi><mml:mo>-</mml:mo><mml:msub><mml:mi>z</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mrow></mml:mfenced><mml:mo>=</mml:mo><mml:msub><mml:mi>I</mml:mi><mml:mrow><mml:mi>s</mml:mi><mml:mi>a</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:msub><mml:msup><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:mfrac><mml:mi mathvariant="italic">ζ</mml:mi><mml:mrow><mml:mi>z</mml:mi><mml:mo>-</mml:mo><mml:msub><mml:mi>z</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mrow></mml:mfrac></mml:mrow></mml:mfenced><mml:mrow><mml:mo>-</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msup><mml:mo>,</mml:mo></mml:mrow></mml:math><graphic xlink:href="40580_2017_99_Article_Equ2.gif" position="anchor"/></alternatives></disp-formula>where <italic>I</italic>
+<sub><italic>sat</italic></sub> is the reference current when the pipette is far enough from the sample surface, and <italic>ζ</italic> is a constant from the pipette geometry. It is here assumed that the cell fluctuation obeys the Gaussian distribution,<disp-formula id="Equ3"><label>3</label><alternatives><tex-math id="M9">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$P\left( {z_{s} - z_{0} , \delta z^{2}_{s} } \right) = \frac{1}{{\delta z_{s} \sqrt {2\pi } }}\exp \left( { - \frac{1}{2}\left( {\frac{{z_{s} - z_{0} }}{{\delta z_{s} }}} \right)^{2} } \right).$$\end{document}</tex-math><mml:math id="M10" display="block"><mml:mrow><mml:mi>P</mml:mi><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:msub><mml:mi>z</mml:mi><mml:mi>s</mml:mi></mml:msub><mml:mo>-</mml:mo><mml:msub><mml:mi>z</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo>,</mml:mo><mml:mi mathvariant="italic">δ</mml:mi><mml:msubsup><mml:mi>z</mml:mi><mml:mi>s</mml:mi><mml:mn>2</mml:mn></mml:msubsup></mml:mrow></mml:mfenced><mml:mo>=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:mi mathvariant="italic">δ</mml:mi><mml:msub><mml:mi>z</mml:mi><mml:mi>s</mml:mi></mml:msub><mml:msqrt><mml:mrow><mml:mn>2</mml:mn><mml:mi mathvariant="italic">π</mml:mi></mml:mrow></mml:msqrt></mml:mrow></mml:mfrac><mml:mo>exp</mml:mo><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:mo>-</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mn>2</mml:mn></mml:mfrac><mml:msup><mml:mfenced close=")" open="(" separators=""><mml:mfrac><mml:mrow><mml:msub><mml:mi>z</mml:mi><mml:mi>s</mml:mi></mml:msub><mml:mo>-</mml:mo><mml:msub><mml:mi>z</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mrow><mml:mrow><mml:mi mathvariant="italic">δ</mml:mi><mml:msub><mml:mi>z</mml:mi><mml:mi>s</mml:mi></mml:msub></mml:mrow></mml:mfrac></mml:mfenced><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfenced><mml:mo>.</mml:mo></mml:mrow></mml:math><graphic xlink:href="40580_2017_99_Article_Equ3.gif" position="anchor"/></alternatives></disp-formula>
+</p>
+          <p>The I–D curves measured at around the cell center were fitted to the Eq. (<xref rid="Equ1" ref-type="">1</xref>) to estimate the apparent fluctuation deviation <inline-formula id="IEq3"><alternatives><tex-math id="M11">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\delta z^{ 2}_{s}$$\end{document}</tex-math><mml:math id="M12"><mml:mrow><mml:mi mathvariant="italic">δ</mml:mi><mml:msubsup><mml:mi>z</mml:mi><mml:mi>s</mml:mi><mml:mn>2</mml:mn></mml:msubsup></mml:mrow></mml:math><inline-graphic xlink:href="40580_2017_99_Article_IEq3.gif"/></alternatives></inline-formula>
+<inline-formula id="IEq4"><alternatives><tex-math id="M13">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$I_{sat}$$\end{document}</tex-math><mml:math id="M14"><mml:msub><mml:mi>I</mml:mi><mml:mrow><mml:mi>s</mml:mi><mml:mi>a</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40580_2017_99_Article_IEq4.gif"/></alternatives></inline-formula> and <inline-formula id="IEq5"><alternatives><tex-math id="M15">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\zeta$$\end{document}</tex-math><mml:math id="M16"><mml:mi mathvariant="italic">ζ</mml:mi></mml:math><inline-graphic xlink:href="40580_2017_99_Article_IEq5.gif"/></alternatives></inline-formula> were determined experimentally to be <inline-formula id="IEq7"><alternatives><tex-math id="M17">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$I_{sat}$$\end{document}</tex-math><mml:math id="M18"><mml:msub><mml:mi>I</mml:mi><mml:mrow><mml:mi>s</mml:mi><mml:mi>a</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40580_2017_99_Article_IEq7.gif"/></alternatives></inline-formula> = 1 nA and <inline-formula id="IEq8"><alternatives><tex-math id="M19">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\zeta$$\end{document}</tex-math><mml:math id="M20"><mml:mi mathvariant="italic">ζ</mml:mi></mml:math><inline-graphic xlink:href="40580_2017_99_Article_IEq8.gif"/></alternatives></inline-formula> = 4.9 × 10<sup>−2</sup> nm, respectively, which were estimated from the SICM measurement on a glass substrate [<xref ref-type="bibr" rid="CR16">16</xref>]. According to Eq. (<xref rid="Equ3" ref-type="">3</xref>), the fluctuation amplitude of apical cell membrane, <italic>a</italic>
+<sub>m</sub> is defined as the Gaussian distribution, <italic>P</italic>, with the root mean square (RMS) displacement of cell surface fluctuation, <inline-formula id="IEq9"><alternatives><tex-math id="M21">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\langle \delta z^{2}_{s} \rangle^{{\frac{1}{2}}}$$\end{document}</tex-math><mml:math id="M22"><mml:msup><mml:mrow><mml:mo stretchy="false">⟨</mml:mo><mml:mi mathvariant="italic">δ</mml:mi><mml:msubsup><mml:mi>z</mml:mi><mml:mi>s</mml:mi><mml:mn>2</mml:mn></mml:msubsup><mml:mo stretchy="false">⟩</mml:mo></mml:mrow><mml:mfrac><mml:mn>1</mml:mn><mml:mn>2</mml:mn></mml:mfrac></mml:msup></mml:math><inline-graphic xlink:href="40580_2017_99_Article_IEq9.gif"/></alternatives></inline-formula>.</p>
+        </sec>
+        <sec id="Sec12">
+          <title>AFM measurements for Young’s modulus of cells</title>
+          <p>The force curve measurements of AFM were performed to estimate Young’s modulus of cells. We used a commercial AFM cantilever (Biolever mini, Olympus, Japan) with less than 0.09 N/m of a nominal spring constant. Because a cantilever with a small spring constant makes a relatively large deflection for a small force, the cantilever used in this study provides reliable data of the cell surface structure. The spring constant of the AFM cantilever was calibrated using the thermal vibration method [<xref ref-type="bibr" rid="CR24">24</xref>]. AFM cantilever was cleaned using ethanol and exposed to UV light for 30 min to remove contamination on the AFM cantilever and tip. We measured more than 50 force curves with 512 data points. The force curves were analyzed with a Hertz model using a commercial SPM data analysis program (Park Systems, South Korea). We assumed the AFM tip shape is four-sided pyramid with a half cone angle <italic>α</italic>, so that the force on cantilever <italic>F</italic> is expressed as.<disp-formula id="Equ4"><label>4</label><alternatives><tex-math id="M23">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$F = \frac{E}{{1 - v^{2} }}\frac{\tan \alpha }{\sqrt 2 }\delta^{2} ,$$\end{document}</tex-math><mml:math id="M24" display="block"><mml:mrow><mml:mi>F</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mi>E</mml:mi><mml:mrow><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:msup><mml:mi>v</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfrac><mml:mfrac><mml:mrow><mml:mo>tan</mml:mo><mml:mi mathvariant="italic">α</mml:mi></mml:mrow><mml:msqrt><mml:mn>2</mml:mn></mml:msqrt></mml:mfrac><mml:msup><mml:mi mathvariant="italic">δ</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>,</mml:mo></mml:mrow></mml:math><graphic xlink:href="40580_2017_99_Article_Equ4.gif" position="anchor"/></alternatives></disp-formula>where <italic>E</italic> is the Young’s moduls, <italic>ν</italic> is the Poisson’s ratio and <italic>δ</italic> is the indentation (depth). <italic>ν</italic> and alpha were set to be 0.5° and 35°, respectively. The scan rate of the AFM cantilever and the maximum loading force were set to be 1–2 µm/s and 3–8 nN, respectively.</p>
+        </sec>
+      </sec>
+      <sec id="Sec10">
+        <title>Cell viability assay</title>
+        <p>To evaluate the viability of cells with PFA treatment, we used a LIVE/DEAD<sup>®</sup> Viability/Cytotoxicity Kit (L3224; Invitrogen life technique, USA). Briefly, the PFA-treated cells were immediately incubated using the live and dead stain fluorescence dye for 10 min. Then the final 2 µM calcein AM and 4uM EtD-1 mixture solution were added to the PFA-treated cell sample. A commercial fluorescence microscope (Nikon Corp., Japan) was used to obtain fluorescence images of cells where green and red colors represented live and dead cells, respectively.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn>
+        <p>Seong-Oh Kim and Joonhui Kim contributed equally to this work</p>
+      </fn>
+    </fn-group>
+    <ack>
+      <title>Authors’ contributions</title>
+      <p>SOK and NJC designed the study; SOK conducted all experiments and performed data analysis; JK, TO and NJC assisted with data analysis; SOK, TO and NJC wrote the manuscript. All authors read and approved the final manuscript.</p>
+      <sec id="FPar1">
+        <title>Acknowledgements</title>
+        <p>The authors would like to thank the Japan Society for the Promotion of Science, the National University of Singapore, and Nanyang Technological University promoting collaborative science project across Singapore and Japan.</p>
+      </sec>
+      <sec id="FPar2">
+        <title>Competing interests</title>
+        <p>The authors declare that they have no competing interests.</p>
+      </sec>
+      <sec id="FPar3">
+        <title>Availability of data and materials</title>
+        <p>Available upon request.</p>
+      </sec>
+      <sec id="FPar4">
+        <title>Funding</title>
+        <p>This work was supported by the JSPS-NUS/NTU Joint Research Project Grant Call (M4081560).</p>
+      </sec>
+    </ack>
+    <ref-list id="Bib1">
+      <title>References</title>
+      <ref id="CR1">
+        <label>1.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Minami</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Kasuya</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Yamazaki</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Ji</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Nakanishi</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Hill</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Ariga</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Highly ordered 1-D fullerene crystals for concurrent control of macroscopic cellular orientation and differentiation toward large-scale tissue engineering</article-title>
+          <source>Adv. Mater.</source>
+          <year>2015</year>
+          <volume>27</volume>
+          <issue>27</issue>
+          <fpage>4020</fpage>
+          <lpage>4026</lpage>
+          <pub-id pub-id-type="doi">10.1002/adma.201501690</pub-id>
+          <pub-id pub-id-type="pmid">26033774</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR2">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ariga</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Minami</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Ebara</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Nakanishi</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>What are the emerging concepts and challenges in NANO? Nanoarchitectonics, hand-operating nanotechnology and mechanobiology</article-title>
+          <source>Polym. J.</source>
+          <year>2016</year>
+          <volume>48</volume>
+          <issue>4</issue>
+          <fpage>371</fpage>
+          <lpage>389</lpage>
+          <pub-id pub-id-type="doi">10.1038/pj.2016.8</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR3">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kikuchi</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>19F MRI Probes with tunable switches and highly sensitive 19F MRI nanoprobes</article-title>
+          <source>Bull. Chem. Soc. Jpn.</source>
+          <year>2015</year>
+          <volume>88</volume>
+          <issue>4</issue>
+          <fpage>518</fpage>
+          <lpage>521</lpage>
+          <pub-id pub-id-type="doi">10.1246/bcsj.20140392</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR4">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fox</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>Johnson</surname>
+              <given-names>FB</given-names>
+            </name>
+            <name>
+              <surname>Whiting</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Roller</surname>
+              <given-names>PP</given-names>
+            </name>
+          </person-group>
+          <article-title>Formaldehyde fixation</article-title>
+          <source>J histochem Cytochem</source>
+          <year>1985</year>
+          <volume>33</volume>
+          <issue>8</issue>
+          <fpage>845</fpage>
+          <lpage>853</lpage>
+          <pub-id pub-id-type="doi">10.1177/33.8.3894502</pub-id>
+          <pub-id pub-id-type="pmid">3894502</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR5">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lanier</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Warner</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Paraformaldehyde fixation of hematopoietic cells for quantitative flow cytometry (FACS) analysis</article-title>
+          <source>J. Immunol. Methods</source>
+          <year>1981</year>
+          <volume>47</volume>
+          <issue>1</issue>
+          <fpage>25</fpage>
+          <lpage>30</lpage>
+          <pub-id pub-id-type="doi">10.1016/0022-1759(81)90253-2</pub-id>
+          <pub-id pub-id-type="pmid">7310138</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR6">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hopwood</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Cell and tissue fixation, 1972–1982</article-title>
+          <source>The Histochem J</source>
+          <year>1985</year>
+          <volume>17</volume>
+          <issue>4</issue>
+          <fpage>389</fpage>
+          <lpage>442</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF01003203</pub-id>
+          <pub-id pub-id-type="pmid">3930430</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR7">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Braet</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Rotsch</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Wisse</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Radmacher</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparison of fixed and living liver endothelial cells by atomic force microscopy</article-title>
+          <source>Appl. Phys. A Mater. Sci. Process.</source>
+          <year>1998</year>
+          <volume>66</volume>
+          <fpage>S575</fpage>
+          <lpage>S578</lpage>
+          <pub-id pub-id-type="doi">10.1007/s003390051204</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR8">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hoh</surname>
+              <given-names>JH</given-names>
+            </name>
+            <name>
+              <surname>Schoenenberger</surname>
+              <given-names>C-A</given-names>
+            </name>
+          </person-group>
+          <article-title>Surface morphology and mechanical properties of MDCK monolayers by atomic force microscopy</article-title>
+          <source>J. Cell Sci.</source>
+          <year>1994</year>
+          <volume>107</volume>
+          <issue>5</issue>
+          <fpage>1105</fpage>
+          <lpage>1114</lpage>
+          <pub-id pub-id-type="pmid">7929621</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR9">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hutter</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Wan</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Uniyal</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Leabu</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Atomic force microscopy investigation of the dependence of cellular elastic moduli on glutaraldehyde fixation</article-title>
+          <source>J. Microsc.</source>
+          <year>2005</year>
+          <volume>219</volume>
+          <issue>2</issue>
+          <fpage>61</fpage>
+          <lpage>68</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-2818.2005.01497.x</pub-id>
+          <pub-id pub-id-type="pmid">16159341</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR10">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wu</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Kuhn</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Moy</surname>
+              <given-names>V</given-names>
+            </name>
+          </person-group>
+          <article-title>Mechanical properties of L929 cells measured by atomic force microscopy: effects of anticytoskeletal drugs and membrane crosslinking</article-title>
+          <source>Scanning</source>
+          <year>1998</year>
+          <volume>20</volume>
+          <issue>5</issue>
+          <fpage>389</fpage>
+          <lpage>397</lpage>
+          <pub-id pub-id-type="doi">10.1002/sca.1998.4950200504</pub-id>
+          <pub-id pub-id-type="pmid">9737018</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR11">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yamane</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Shiga</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Haga</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Kawabata</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Abe</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Ito</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Quantitative analyses of topography and elasticity of living and fixed astrocytes</article-title>
+          <source>J. Electron Microsc.</source>
+          <year>2000</year>
+          <volume>49</volume>
+          <issue>3</issue>
+          <fpage>463</fpage>
+          <lpage>471</lpage>
+          <pub-id pub-id-type="doi">10.1093/oxfordjournals.jmicro.a023830</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR12">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tanaka</surname>
+              <given-names>KA</given-names>
+            </name>
+            <name>
+              <surname>Suzuki</surname>
+              <given-names>KG</given-names>
+            </name>
+            <name>
+              <surname>Shirai</surname>
+              <given-names>YM</given-names>
+            </name>
+            <name>
+              <surname>Shibutani</surname>
+              <given-names>ST</given-names>
+            </name>
+            <name>
+              <surname>Miyahara</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Tsuboi</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Fujiwara</surname>
+              <given-names>TK</given-names>
+            </name>
+          </person-group>
+          <article-title>Membrane molecules mobile even after chemical fixation</article-title>
+          <source>Nat. Methods</source>
+          <year>2010</year>
+          <volume>7</volume>
+          <issue>11</issue>
+          <fpage>865</fpage>
+          <lpage>866</lpage>
+          <pub-id pub-id-type="doi">10.1038/nmeth.f.314</pub-id>
+          <pub-id pub-id-type="pmid">20881966</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR13">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Binnig</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Quate</surname>
+              <given-names>CF</given-names>
+            </name>
+            <name>
+              <surname>Gerber</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Atomic force microscope</article-title>
+          <source>Phys. Rev. Lett.</source>
+          <year>1986</year>
+          <volume>56</volume>
+          <issue>9</issue>
+          <fpage>930</fpage>
+          <pub-id pub-id-type="doi">10.1103/PhysRevLett.56.930</pub-id>
+          <pub-id pub-id-type="pmid">10033323</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR14">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cappella</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Dietler</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Force-distance curves by atomic force microscopy</article-title>
+          <source>Surf. Sci. Rep.</source>
+          <year>1999</year>
+          <volume>34</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>104</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0167-5729(99)00003-5</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR15">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Korchev</surname>
+              <given-names>YE</given-names>
+            </name>
+            <name>
+              <surname>Bashford</surname>
+              <given-names>CL</given-names>
+            </name>
+            <name>
+              <surname>Milovanovic</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Vodyanoy</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Lab</surname>
+              <given-names>MJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Scanning ion conductance microscopy of living cells</article-title>
+          <source>Biophys. J.</source>
+          <year>1997</year>
+          <volume>73</volume>
+          <issue>2</issue>
+          <fpage>653</fpage>
+          <pub-id pub-id-type="doi">10.1016/S0006-3495(97)78100-1</pub-id>
+          <pub-id pub-id-type="pmid">9251784</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR16">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mizutani</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Choi</surname>
+              <given-names>M-H</given-names>
+            </name>
+            <name>
+              <surname>Cho</surname>
+              <given-names>S-J</given-names>
+            </name>
+            <name>
+              <surname>Okajima</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>Nanoscale fluctuations on epithelial cell surfaces investigated by scanning ion conductance microscopy</article-title>
+          <source>Appl. Phys. Lett.</source>
+          <year>2013</year>
+          <volume>102</volume>
+          <issue>17</issue>
+          <fpage>173703</fpage>
+          <pub-id pub-id-type="doi">10.1063/1.4803469</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR17">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kiernan</surname>
+              <given-names>JA</given-names>
+            </name>
+          </person-group>
+          <article-title>Formaldehyde, formalin, paraformaldehyde and glutaraldehyde: what they are and what they do</article-title>
+          <source>Microsc Today</source>
+          <year>2000</year>
+          <volume>1</volume>
+          <issue>5</issue>
+          <fpage>8</fpage>
+          <lpage>12</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR18">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gorelik</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Shevchuk</surname>
+              <given-names>AI</given-names>
+            </name>
+            <name>
+              <surname>Frolenkov</surname>
+              <given-names>GI</given-names>
+            </name>
+            <name>
+              <surname>Diakonov</surname>
+              <given-names>IA</given-names>
+            </name>
+            <name>
+              <surname>Kros</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Richardson</surname>
+              <given-names>GP</given-names>
+            </name>
+            <name>
+              <surname>Korchev</surname>
+              <given-names>YE</given-names>
+            </name>
+          </person-group>
+          <article-title>Dynamic assembly of surface structures in living cells</article-title>
+          <source>Proc. Natl. Acad. Sci.</source>
+          <year>2003</year>
+          <volume>100</volume>
+          <issue>10</issue>
+          <fpage>5819</fpage>
+          <lpage>5822</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.1030502100</pub-id>
+          <pub-id pub-id-type="pmid">12721367</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR19">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nitz</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Kamp</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Fuchs</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>A combined scanning ion-conductance and shear-force microscope</article-title>
+          <source>Probe microsc</source>
+          <year>1998</year>
+          <volume>1</volume>
+          <fpage>187</fpage>
+          <lpage>200</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR20">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Crawford</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Barer</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>The action of formaldehyde on living cells as studied by phase-contrast microscopy</article-title>
+          <source>J. Cell Sci.</source>
+          <year>1951</year>
+          <volume>3</volume>
+          <issue>20</issue>
+          <fpage>403</fpage>
+          <lpage>452</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR21">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Targosz-Korecka</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Daniel Brzezinka</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Danilkiewicz</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Rajfur</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Szymonski</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Glutaraldehyde fixation preserves the trend of elasticity alterations for endothelial cells exposed to TNF-α</article-title>
+          <source>Cytoskeleton</source>
+          <year>2015</year>
+          <volume>72</volume>
+          <issue>3</issue>
+          <fpage>124</fpage>
+          <lpage>130</lpage>
+          <pub-id pub-id-type="doi">10.1002/cm.21217</pub-id>
+          <pub-id pub-id-type="pmid">25786919</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR22">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rheinlaender</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Geisse</surname>
+              <given-names>NA</given-names>
+            </name>
+            <name>
+              <surname>Proksch</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Schäffer</surname>
+              <given-names>TE</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparison of scanning ion conductance microscopy with atomic force microscopy for cell imaging</article-title>
+          <source>Langmuir</source>
+          <year>2010</year>
+          <volume>27</volume>
+          <issue>2</issue>
+          <fpage>697</fpage>
+          <lpage>704</lpage>
+          <pub-id pub-id-type="doi">10.1021/la103275y</pub-id>
+          <pub-id pub-id-type="pmid">21158392</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR23">
+        <label>23.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Novak</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Shevchuk</surname>
+              <given-names>AI</given-names>
+            </name>
+            <name>
+              <surname>Stepanyan</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Caldwell</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Hughes</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Korchev</surname>
+              <given-names>YE</given-names>
+            </name>
+          </person-group>
+          <article-title>Nanoscale live-cell imaging using hopping probe ion conductance microscopy</article-title>
+          <source>Nat. Methods</source>
+          <year>2009</year>
+          <volume>6</volume>
+          <issue>4</issue>
+          <fpage>279</fpage>
+          <lpage>282</lpage>
+          <pub-id pub-id-type="doi">10.1038/nmeth.1306</pub-id>
+          <pub-id pub-id-type="pmid">19252505</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR24">
+        <label>24.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hutter</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Bechhoefer</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Calibration of atomic-force microscope tips</article-title>
+          <source>Rev. Sci. Instrum.</source>
+          <year>1993</year>
+          <volume>64</volume>
+          <issue>7</issue>
+          <fpage>1868</fpage>
+          <lpage>1873</lpage>
+          <pub-id pub-id-type="doi">10.1063/1.1143970</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record>

@@ -1,0 +1,749 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5359310</identifier><datestamp>2017-04-04</datestamp><setSpec>frontplantsci</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Plant Sci</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Plant Sci</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Plant Sci.</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Plant Science</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1664-462X</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5359310</article-id>
+      <article-id pub-id-type="pmcid">PMC5359310</article-id>
+      <article-id pub-id-type="pmc-uid">5359310</article-id>
+      <article-id pub-id-type="doi">10.3389/fpls.2017.00182</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Plant Science</subject>
+          <subj-group>
+            <subject>Original Research</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Modeling Tree Growth Taking into Account Carbon Source and Sink Limitations</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hayat</surname>
+            <given-names>Amaury</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn001">
+            <sup>*</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/390301/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hacket-Pain</surname>
+            <given-names>Andrew J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/389975/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pretzsch</surname>
+            <given-names>Hans</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff4">
+            <sup>4</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/418638/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rademacher</surname>
+            <given-names>Tim T.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff5">
+            <sup>5</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/379020/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Friend</surname>
+            <given-names>Andrew D.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff5">
+            <sup>5</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn002">
+            <sup>*</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/398079/overview"/>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <sup>1</sup>
+        <institution>Department of Pure Mathematics and Mathematical Statistics, Centre for Mathematical Sciences, University of Cambridge</institution>
+        <country>Cambridge, UK</country>
+      </aff>
+      <aff id="aff2">
+        <sup>2</sup>
+        <institution>Fitzwilliam College</institution>
+        <country>Cambridge, UK</country>
+      </aff>
+      <aff id="aff3">
+        <sup>3</sup>
+        <institution>St Catherine's College</institution>
+        <country>Oxford, UK</country>
+      </aff>
+      <aff id="aff4">
+        <sup>4</sup>
+        <institution>Technical University of Munich</institution>
+        <country>Munich, Germany</country>
+      </aff>
+      <aff id="aff5">
+        <sup>5</sup>
+        <institution>Department of Geography, University of Cambridge</institution>
+        <country>Cambridge, UK</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <p>Edited by: Alexander Bucksch, University of Georgia, USA</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Reviewed by: Gerhard Buck-Sorlin, Agrocampus Ouest, France; Simone Fatichi, ETH Zurich, Switzerland</p>
+        </fn>
+        <corresp id="fn001">*Correspondence: Amaury Hayat <email xlink:type="simple">amaury.hayat@cantab.net</email></corresp>
+        <corresp id="fn002">Andrew D. Friend <email xlink:type="simple">adf10@cam.ac.uk</email></corresp>
+        <fn fn-type="other" id="fn003">
+          <p>This article was submitted to Plant Biophysics and Modeling, a section of the journal Frontiers in Plant Science</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>3</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2017</year>
+      </pub-date>
+      <volume>8</volume>
+      <elocation-id>182</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>21</day>
+          <month>9</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>30</day>
+          <month>1</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2017 Hayat, Hacket-Pain, Pretzsch, Rademacher and Friend.</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <copyright-holder>Hayat, Hacket-Pain, Pretzsch, Rademacher and Friend</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Increasing CO<sub>2</sub> concentrations are strongly controlled by the behavior of established forests, which are believed to be a major current sink of atmospheric CO<sub>2</sub>. There are many models which predict forest responses to environmental changes but they are almost exclusively carbon source (i.e., photosynthesis) driven. Here we present a model for an individual tree that takes into account the intrinsic limits of meristems and cellular growth rates, as well as control mechanisms within the tree that influence its diameter and height growth over time. This new framework is built on process-based understanding combined with differential equations solved by numerical method. Our aim is to construct a model framework of tree growth for replacing current formulations in Dynamic Global Vegetation Models, and so address the issue of the terrestrial carbon sink. Our approach was successfully tested for stands of beech trees in two different sites representing part of a long-term forest yield experiment in Germany. This model provides new insights into tree growth and limits to tree height, and addresses limitations of previous models with respect to sink-limited growth.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>tree growth</kwd>
+        <kwd>vegetation modeling</kwd>
+        <kwd>sink limitation</kwd>
+        <kwd>source limitation</kwd>
+        <kwd>height growth</kwd>
+      </kwd-group>
+      <counts>
+        <fig-count count="7"/>
+        <table-count count="1"/>
+        <equation-count count="26"/>
+        <ref-count count="49"/>
+        <page-count count="15"/>
+        <word-count count="10387"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>1. Introduction</title>
+      <p>Forests are an important component of the global carbon cycle and are currently thought to be a major sink of atmospheric CO<sub>2</sub> (Bonan, <xref rid="B5" ref-type="bibr">2008</xref>; Pan et al., <xref rid="B35" ref-type="bibr">2011</xref>). Being able to predict the future responses of forests is therefore of great interest. Many models have been used to address this issue, but they are almost exclusively carbon source-driven, with plants at any particular location treated as a pool, or pools, of carbon mainly driven by photosynthesis (e.g., Cramer et al., <xref rid="B10" ref-type="bibr">2001</xref>; Anav et al., <xref rid="B4" ref-type="bibr">2013</xref>; Friend et al., <xref rid="B17" ref-type="bibr">2014</xref>). However, it is likely that many other factors, such as the intrinsic limits of meristems and cellular growth rates, as well as control mechanisms within the tree, have large influences on forest responses (Körner, <xref rid="B25" ref-type="bibr">2003</xref>; Fatichi et al., <xref rid="B14" ref-type="bibr">2014</xref>). A few research groups have addressed the issue of sink-limited growth in a modeling context with respect to carbon sequestration. The potential for sink-limited growth to affect carbon storage and treeline position was addressed by Leuzinger et al. (<xref rid="B28" ref-type="bibr">2013</xref>) using a global vegetation model. However, their approach was highly empirical and only addressed temperature limitations. A more mechanistic approach was presented by Schiestl-Aalto et al. (<xref rid="B44" ref-type="bibr">2015</xref>), in which a tree-level carbon balance model was constructed with both carbon source and sink parameterizations. The sink parameterizations were based on thermal-time and included different ontogenetic effects between tissue types and xylogenetic processes for secondary growth. However, while this paper makes a significant contribution, the various parameterizations were very simply incorporated, with no effect of moisture on wood growth, fixed durations for xylem enlargement, and no overall tree growth across years. Gea-Izquierdo et al. (<xref rid="B19" ref-type="bibr">2015</xref>) also presented a tree-level model parameterization that addressed the effect of growth processes independently of photosynthesis, and in this case looked particularly at soil moisture effects. However, they did not explicitly treat meristem growth, but instead used modified allocation coefficients depending on temperature and soil water.</p>
+      <p>Grossman and DeJong (<xref rid="B20" ref-type="bibr">1994</xref>) examined the consequences of explicit consideration of sink-limited growth for growth partitioning through the growing season in fruit trees. Sink growth was parameterized using a priority order and as a function of carbohydrate supply up to potential rates for different tissues, which were modulated by daily temperature and season. It was concluded that source and sink limit at different times of the year, with carbohydrate supply limiting stem growth during the spring and autumn periods, presumably related to the total sink strength being maximal at those times. Derived from this type of approach, a number of so-called “Functional-Structural Plant Models” (FSPMs) have been developed which typically explicitly consider both source and sink functions (Allen et al., <xref rid="B1" ref-type="bibr">2005</xref>). While the emphasis of these models has been on allocation to plant form, the focus on sinks makes them relevant for the sink-source debate, and potentially useful tools to address it. However, as far as we know they have not been directly used for this purpose. The LIGNUM model (Perttunun, <xref rid="B36" ref-type="bibr">2009</xref>), for example, computes stem growth using available photosynthate in order to conform to the pipe model, based on foliage area. The tree grows as a coordinated whole, and storage is not considered. It has primarily been used to study the three-dimensional aspects of crown shape and light capture.</p>
+      <p>Most of the published growth and yield models that are routinely applied to forest ecosystem management and scenario analyses are based on statistical relationships between tree growth and environmental conditions (Pretzsch et al., <xref rid="B40" ref-type="bibr">2007</xref>). Thus, they inherently consider the sink aspect of growth, in terms of parameterized resource-growth relationships, more than the source approach. Examples are the individual tree models TASS (Purves et al., <xref rid="B41" ref-type="bibr">2008</xref>), SILVA (Pretzsch et al., <xref rid="B39" ref-type="bibr">2002</xref>), PROGNAUS (Sterba and Monserud, <xref rid="B46" ref-type="bibr">1997</xref>), SORTIE (Pacala and Deutschman, <xref rid="B33" ref-type="bibr">1995</xref>), MELA (Hynynen, <xref rid="B23" ref-type="bibr">2002</xref>), and HEUREKA (Wikström et al., <xref rid="B48" ref-type="bibr">2011</xref>). They represent successful but maybe too exclusively sink-oriented models, in which new knowledge of tree responses to environmental conditions is difficult to integrate due to their empirical nature. In contrast, the generation of mainly source-driven models such as BALANCE (Grote and Pretzsch, <xref rid="B21" ref-type="bibr">2002</xref>), TREEDYN (Bossel, <xref rid="B6" ref-type="bibr">1991</xref>), and 3PG (Landsberg and Waring, <xref rid="B27" ref-type="bibr">1997</xref>) represent hypotheses about biogeoeco-physiological mechanisms, but so far are little established beyond scientific applications. This is mainly due to the lack of evaluation and comparison with empirical growth and yield records. In response to this current one-sided focus on modeling either taking the sink or the source aspect into account, an integration of both seems most promising for taking forward understanding and prognosis of tree and stand growth.</p>
+      <p>Here we present a new framework for addressing tree growth responses to environmental change, building on knowledge of tree physiology to develop approaches for predicting the development of an individual tree, and thereby enabling a better understanding of forest responses to environmental change than purely source-driven models can achieve, as well as addressing the limitations of previous sink-limited approaches. Our aim is to derive an approach that can be applied in global models, specifically Dynamic Global Vegetation Models (DGVMs). Therefore, we seek the minimal level of detail necessary in order to compute behavior at the global scale, and to be compatible with the other highly aggregated process representation in DGVMs.</p>
+      <p>In this paper we suggest that this objective can be realized using differential models, that is to say growth models using differential equations. We propose here a first differential model taking into account control mechanisms and the intrinsic limits of meristems and cellular growth within trees together with the carbon balance, as well as direct environmental controls on meristematic activity. The paper is presented as follows. First we make several hypotheses concerning physiological considerations, then we give a description of the model. We show how the model is used to predict tree height and stem volume in two sets of three different stands of beech trees. Finally, we discuss the results and the behavior of the model in several situations.</p>
+    </sec>
+    <sec id="s2">
+      <title>2. Model and framework</title>
+      <sec>
+        <title>2.1. General considerations</title>
+        <p>To describe the development of the tree, we suppose that it has two types of meristems, apical and lateral, and that the apical meristem increases the height through sustaining primary growth, while the lateral meristem (i.e., the vascular cambium) increases the radius through sustaining secondary growth. We recognize that trees will usually have many separate apical meristems distributed across many branches, but for convenience we treat these together as one apical meristem; we also ignore apical root growth for now. We further assume that the stem can be represented by a cylinder and that the crown (i.e., the branches and foliage) occupies a cylindrical volume and has dimensions that are proportional to the stem dimensions, i.e., the crown depth is proportional to the height of the tree stem and its radius to the radius of the tree stem. In this way we need only obtain information about the radius <italic>r</italic> and the height <italic>h</italic> of the stem to describe the growth of the tree. Future developments will include introducing other crown and stem shapes, as well as root meristems. Here our objective is to keep the model as simple as possible in order to explore the realism of its fundamental assumptions.</p>
+        <p>In order to derive the dynamics of <italic>r</italic> and <italic>h</italic> we need three types of equations:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>constitutive equations—related to the structure of the tree;</p>
+          </list-item>
+          <list-item>
+            <p>control equations—representation(s) of the intrinsic controls that the tree has on itself;</p>
+          </list-item>
+          <list-item>
+            <p>carbon balance equations—related to the balance of carbon between the tree and its environment, and the balance within the tree.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec>
+        <title>2.2. Constitutive equations: allometric relationships</title>
+        <p>Physiologically, plant growth is sustained by meristems producing new cells which subsequently enlarge and increase in mass (Aloni, <xref rid="B2" ref-type="bibr">1987</xref>). We suppose that for each type of meristem, growth is proportional to its volume, that is to say that the mass of carbon allocated to a meristematic region will depend proportionally on the volume of meristem, which determines the maximum potential production rate of new cells.</p>
+        <p>We also suppose that a tree controls the activities of the meristems and therefore the relative demand for carbon <italic>between</italic> the meristematic regions: it can favor either height or diameter growth in this way, depending on environmental signals. Moreover, we suppose that this is the only control the tree has on its growth. With this hypothesis we soon get:
+<disp-formula id="E1"><label>(1)</label><mml:math id="M1"><mml:mrow><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:mi>h</mml:mi></mml:mrow><mml:mi>h</mml:mi></mml:mfrac><mml:mo>=</mml:mo><mml:mn>2</mml:mn><mml:msub><mml:mi>α</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:mi>r</mml:mi></mml:mrow><mml:mi>r</mml:mi></mml:mfrac></mml:mrow></mml:math></disp-formula>
+where α<sub>2</sub> is the ratio of activities between the apical and lateral meristems, i.e., when the activity of the lateral meristem produces 1 g of carbon growth, α<sub>2</sub> g of carbon growth occurs from the apical meristem. It is the control parameter.</p>
+        <p>Note that we suppose here that the volume of the apical meristem is proportional to the top surface area of the (cylindrical) stem and that the volume of the lateral meristem is proportional to the lateral surface area of the stem. This hypothesis is used as it is more realistic than assuming that the volume of the lateral and apical meristems are proportional to the volume of the tree, i.e., that the thickness of the lateral meristem area increases proportionally with the radius and the thickness of apical meristem increases proportionally with height. Although even under this alternative hypothesis we would get the same type of equation with α<sub>2</sub> being the proportion of growth per unit of volume of apical meristem relative to proportional lateral growth, only adding a numerical coefficient in front of α<sub>2</sub>.</p>
+        <p>Knowing the definition of the volume and integrating we get the following constitutive equations:
+<disp-formula id="E2"><label>(2)</label><mml:math id="M2"><mml:mrow><mml:mi>h</mml:mi><mml:mo>=</mml:mo><mml:mi>γ</mml:mi><mml:msup><mml:mi>r</mml:mi><mml:mrow><mml:mn>2</mml:mn><mml:msub><mml:mi>α</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:msup></mml:mrow></mml:math></disp-formula>
+<disp-formula id="E3"><label>(3)</label><mml:math id="M3"><mml:mrow><mml:msub><mml:mi>M</mml:mi><mml:mtext>c</mml:mtext></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mi>g</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:msup><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mi>h</mml:mi></mml:mrow></mml:math></disp-formula></p>
+        <p>We recognize Equation (2) as the usual allometric relationship where γ is a constant. As it is true for any time <italic>t</italic>, it can be expressed as <inline-formula><mml:math id="M27"><mml:msub><mml:mrow><mml:mi>h</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msub><mml:mo>/</mml:mo><mml:msubsup><mml:mrow><mml:mi>r</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow><mml:mrow><mml:mn>2</mml:mn><mml:msub><mml:mrow><mml:mi>α</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:msubsup></mml:math></inline-formula>, with <italic>h</italic><sub>0</sub> and <italic>r</italic><sub>0</sub> the height and radius at some time origin <italic>t</italic> = 0.</p>
+        <p>Equation (3) is simply the definition of the volume of the stem plus canopy (containing the branches and leaves) in relation to its mass, <italic>M</italic><sub>c</sub>. We assume naturally that branches, stem, and leaves have different densities, but for each of them we suppose that their mass is proportional to <italic>r</italic><sup>2</sup> × <italic>h</italic> with potentially a geometrical coefficient. That implies that the general mass is proportional to <italic>r</italic><sup>2</sup> × <italic>h</italic>, and in Equation (3), <italic>g</italic><sub>1</sub> is the global proportionality coefficient. Therefore, <italic>g</italic><sub>1</sub> takes into account the density of the stem, the density of the branches and foliage, their contribution to the mass of the tree, and geometric factors. <italic>g</italic><sub>1</sub> can therefore be found using the proportionality coefficients we assumed between crown radius and stem radius and crown height and stem height, and their relative densities. Or if we call <italic>a</italic> the geometrical factors and <italic>d</italic> the densities: <italic>g</italic><sub>1</sub> = <italic>a<sub>foliage</sub>d<sub>foliage</sub></italic> + <italic>a<sub>branches</sub>d<sub>branches</sub></italic> + <italic>a<sub>stem</sub>d<sub>stem</sub></italic>. Here <italic>a</italic> takes into account the geometry and the volume of each element.</p>
+      </sec>
+      <sec>
+        <title>2.3. Control mechanism of the tree</title>
+        <p>We want now to take into account the intrinsic control that the tree has on itself, parameterized in our model by α<sub>2</sub>, the ratio between the activities of the apical and lateral meristems. For this we need to consider what happens physiologically (for convenience we use teleological terminology): the tree uses internal controls to be able to adapt its shape and physiology to the surrounding environment, for instance other competing trees (e.g., Ritchie, <xref rid="B43" ref-type="bibr">1997</xref>), through phytohormonal signaling networks (Brackmann and Greb, <xref rid="B7" ref-type="bibr">2014</xref>; Aloni, <xref rid="B3" ref-type="bibr">2015</xref>). Many behaviors could be taken into account, but here we focus on the behavior of a tree competing for light by trying to grow taller faster than its competitors by increasing α<sub>2</sub>. The modeled tree is assumed to detect the presence of surrounding trees by sensing the ratio of downwelling red radiation (i.e., wavelengths between 655 and 665 nm) to downwelling far-red radiation (i.e., wavelengths between 725 and 735 nm). A low ratio signals potentially more neighboring trees and therefore a potential threat of shading. In that case the tree reacts by increasing the activity of the apical meristem relative to the lateral meristem, while a higher ratio potentially means no threat and so the tree reacts by balancing the activities of the two meristems as it needs to compete less for light (Franklin, <xref rid="B15" ref-type="bibr">2008</xref>). We hypothesize that this reaction can be modeled as:
+<disp-formula id="E4"><label>(4)</label><mml:math id="M4"><mml:mrow><mml:msub><mml:mi>α</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mi>α</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mi>exp</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mo>−</mml:mo><mml:msub><mml:mi>α</mml:mi><mml:mn>3</mml:mn></mml:msub><mml:msub><mml:mi>R</mml:mi><mml:mtext>a</mml:mtext></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math></disp-formula></p>
+        <p>Where α<sub>0</sub> is the highest limit for α<sub>2</sub> beyond which the tree breaks due to mechanical failure, and <italic>R</italic><sub>a</sub> is the ratio of received downwelling red:far-red ratio. α<sub>3</sub> is a scaling parameter such that α<sub>0</sub> exp(−α<sub>3</sub>) is the value of α<sub>2</sub> when the tree is unshaded (i.e., when it detects no other tree around).</p>
+        <p>This approach is based on the findings of several studies (e.g., Morgan and Smith, <xref rid="B30" ref-type="bibr">1976</xref>; Franklin, <xref rid="B15" ref-type="bibr">2008</xref>). In particular, Morgan and Smith (<xref rid="B30" ref-type="bibr">1976</xref>) observed the laboratory behavior of two similar young trees grown for 21 days with the same intensity of photosynthetically active radiation (PAR), but different red:far-red ratios. They experimentally obtained a relationship which, extended by limited development for short trees, is coherent with the relationship we give in Equation (4).</p>
+        <p>A potential limitation to our approach is that we may not have access to direct measurements of <italic>R</italic><sub>a</sub>. For a lone tree this would not be a real problem: the allometric relationship would be constant in our model and the red:far-red ratio maximal. For individual trees growing in a stand in a forest, however, the situation is different as the trees shade each other.</p>
+        <p>Finding a dependency rule of the red:far-red ratio for trees in a stand is therefore a challenge that does not seem to be overcome yet. Because of this and our desire to keep the model simple<xref ref-type="fn" rid="fn0001"><sup>1</sup></xref>, when we do not have access to measurements of the red:far-red ratio we make the assumption that α<sub>2</sub> is constant for each stand, as it would be for a lone tree. When the value of this constant is required, it will be estimated as a typical value consistent with the empirical allometric relationship. This is likely to be our most limiting factor as we are here trying to model the internal control that the tree has on itself, which is probably the most complicated phenomenon to take into account, and likely the least-well understood component of our model (cf. Li et al., <xref rid="B29" ref-type="bibr">2011</xref>; Aloni, <xref rid="B3" ref-type="bibr">2015</xref>). Although the model seems to work realistically, further work may require a more precise dependency of the red:far red ratio.</p>
+      </sec>
+      <sec>
+        <title>2.4. Carbon balance</title>
+        <p>The variation of carbon in the tree over time can be written as the sum of the carbon used for volume growth and the carbon stored:
+<disp-formula id="E5"><label>(5)</label><mml:math id="M5"><mml:mrow><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:msub><mml:mi>M</mml:mi><mml:mrow><mml:mtext>tot</mml:mtext></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mi>d</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:msub><mml:mi>M</mml:mi><mml:mi>c</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:mi>d</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mi>S</mml:mi><mml:mo>−</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo stretchy="false">)</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>g</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mfrac><mml:mi>π</mml:mi><mml:mi>h</mml:mi><mml:msup><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:mi>d</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac></mml:mrow></mml:math></disp-formula>
+where <italic>M</italic><sub><italic>c</italic></sub> is the carbon used for volume growth, <inline-formula><mml:math id="M28"><mml:msub><mml:mrow><mml:mi>S</mml:mi></mml:mrow><mml:mrow><mml:mstyle mathvariant="normal"><mml:mi>c</mml:mi></mml:mstyle></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mi>S</mml:mi><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>g</mml:mi></mml:mrow><mml:mrow><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:msub><mml:mrow><mml:mi>S</mml:mi></mml:mrow><mml:mrow><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow></mml:mfrac><mml:mi>π</mml:mi><mml:mi>h</mml:mi><mml:msup><mml:mrow><mml:mi>r</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msup></mml:math></inline-formula> the carbon stored, <italic>S</italic> is defined as carbon stored per unit volume of stem, <inline-formula><mml:math id="M29"><mml:msub><mml:mrow><mml:mi>S</mml:mi></mml:mrow><mml:mrow><mml:mstyle mathvariant="normal"><mml:msub><mml:mrow><mml:mi>c</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msub></mml:mstyle></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:mi>S</mml:mi><mml:mo>-</mml:mo><mml:msub><mml:mrow><mml:mi>S</mml:mi></mml:mrow><mml:mrow><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>g</mml:mi></mml:mrow><mml:mrow><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:msub><mml:mrow><mml:mi>S</mml:mi></mml:mrow><mml:mrow><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow></mml:mfrac><mml:mi>π</mml:mi><mml:mi>h</mml:mi><mml:msup><mml:mrow><mml:mi>r</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msup></mml:math></inline-formula> is the carbon stored above the storage limit <italic>S</italic><sub>1</sub> under which the tree is considered in danger. This distinction has a physical interpretation and therefore in this model the density of the tree can then be seen as a standard density related to the carbon used for growth plus an increase of density due to the storage.</p>
+        <p>We also know that the variation of carbon is given by:
+<disp-formula id="E6"><label>(6)</label><mml:math id="M6"><mml:mrow><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:msub><mml:mi>M</mml:mi><mml:mrow><mml:mtext>tot</mml:mtext></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mi>d</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mi>A</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>Q</mml:mi><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:msub><mml:mi>C</mml:mi><mml:mi>g</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:mi>T</mml:mi><mml:mo>,</mml:mo><mml:mi>ψ</mml:mi><mml:mo>,</mml:mo><mml:mi>h</mml:mi><mml:mo>,</mml:mo><mml:mi>r</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo>−</mml:mo><mml:msub><mml:mi>C</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mi>h</mml:mi><mml:msup><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>−</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>C</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:msub><mml:mi>g</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mi>π</mml:mi></mml:mrow></mml:mfrac><mml:msub><mml:mi>S</mml:mi><mml:mtext>c</mml:mtext></mml:msub></mml:mrow></mml:math></disp-formula>
+where <italic>A</italic> is the carbon assimilation due to gross photosynthesis minus a foliage respiration part proportional to photosynthesis, while <italic>C</italic><sub>1</sub> is a constant grouping a part of the respiration and a litter component proportional to the volume, together with the geometrical factor <italic>g</italic><sub>1</sub>π (such that <italic>C</italic><sub>1</sub>/<italic>g</italic><sub>1</sub>π is the respiration and litter component constant). We assume here that there is no other litter component, that is to say that litter is completely proportional to the volume of the stem. We note that this also means that the litter is proportional to the volume of the crown with our previous assumptions. Also we assumed here that we are dealing with trees where the living volume can be approximated as proportional to the total volume. This is an approximation and further work could include a variable corrective coefficient, however this is a secondary issue compared to the main advance of this model concerning sink-limited growth. Finally, <italic>C</italic><sub>2</sub> is the same type of constant but for the carbon storage. <italic>A</italic> is assumed to depend on PAR (<italic>Q</italic>1), the concentration of CO<sub>2</sub> in the atmosphere (<italic>C</italic><sub><italic>g</italic></sub>), temperature (<italic>T</italic>), water potential (ψ), and the dimensions of the tree (<italic>h</italic> and <italic>r</italic>).</p>
+        <p>Therefore:
+<disp-formula id="E7"><label>(7)</label><mml:math id="M7"><mml:mrow><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:msub><mml:mi>M</mml:mi><mml:mi>c</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:mi>d</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:msub><mml:mi>S</mml:mi><mml:mrow><mml:msub><mml:mtext>c</mml:mtext><mml:mn>0</mml:mn></mml:msub></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mi>d</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mi>A</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>Q</mml:mi><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mi>C</mml:mi><mml:mi>g</mml:mi><mml:mo>,</mml:mo><mml:mi>T</mml:mi><mml:mo>,</mml:mo><mml:mi>ψ</mml:mi><mml:mo>,</mml:mo><mml:mi>h</mml:mi><mml:mo>,</mml:mo><mml:mi>r</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo>−</mml:mo><mml:mi>C</mml:mi><mml:mi>h</mml:mi><mml:msup><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>−</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>C</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:msub><mml:mi>g</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mi>π</mml:mi></mml:mrow></mml:mfrac><mml:msub><mml:mi>S</mml:mi><mml:mtext>c</mml:mtext></mml:msub></mml:mrow></mml:math></disp-formula></p>
+        <p>The system is so far incomplete as there needs to be a relationship that controls which part of the carbon is allocated to growth and which part is allocated to storage. Also, the volume growth of the tree is sustained by meristematic cell division and enlargement, with a maximal rate determined by intrinsic physiological limits or environmental controls.</p>
+        <p>We assume that the tree grows in volume as much as it can, as long as it keeps enough storage to avoid being in danger, such as for repairing damage and surviving poor growing seasons. We assume that there is one tree specific storage pool, although we acknowledge that localized storage with various turnover times are more realistic (Sprugel et al., <xref rid="B45" ref-type="bibr">1991</xref>; Palacio et al., <xref rid="B34" ref-type="bibr">2014</xref>; Richardson et al., <xref rid="B42" ref-type="bibr">2015</xref>). Therefore, if there is enough carbon assimilation then the rate of growth is equal to the meristem-sustained growth-rate limit and the storage can increase using the difference of these two. Also, if the carbon assimilation rate becomes too low but there is enough storage, then the storage delivers carbon to the meristematic region to maintain a rate of growth equal to its maximal sustainable rate. Then density decreases as the carbon of the storage is used to maintain the volume growth. This is likely to occur for instance when buds appear while photosynthesis is not yet high enough to support the maximal growth potential due to meristem reactivation (note that bud-burst and other seasonal phenological phenomena are not yet treated by the model). However, if there is not enough carbon assimilation or storage then the rate of growth is equal to the carbon assimilation rate and the storage per unit volume remains constant.</p>
+        <p>This behavior can be translated into evolution equations. As growth occurs at a cellular level we can assume that the maximal meristem growth is proportional to the volume of meristems. We denote this maximal meristem-sustained growth per volume by <italic>R</italic><sub>max</sub>, the volume of the meristems by <italic>V</italic><sub>me</sub>.</p>
+        <p>If there is enough photosynthesis or storage, i.e.,
+<disp-formula id="E8"><label>(8)</label><mml:math id="M8"><mml:mrow><mml:mtext>if </mml:mtext><mml:mi>A</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>Q</mml:mi><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mi>C</mml:mi><mml:mi>g</mml:mi><mml:mo>,</mml:mo><mml:mi>T</mml:mi><mml:mo>,</mml:mo><mml:mi>ψ</mml:mi><mml:mo>,</mml:mo><mml:mi>h</mml:mi><mml:mo>,</mml:mo><mml:mi>r</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo>−</mml:mo><mml:mi>C</mml:mi><mml:mi>h</mml:mi><mml:msup><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>−</mml:mo><mml:msub><mml:mi>C</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi>S</mml:mi><mml:mi>h</mml:mi><mml:msup><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>&gt;</mml:mo><mml:msub><mml:mi>R</mml:mi><mml:mrow><mml:mtext>max</mml:mtext></mml:mrow></mml:msub><mml:msub><mml:mi>V</mml:mi><mml:mrow><mml:mtext>me</mml:mtext></mml:mrow></mml:msub><mml:mtext> or </mml:mtext><mml:mi>S</mml:mi><mml:mo>&gt;</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:math></disp-formula>
+then:
+<disp-formula id="E9"><label>(9)</label><mml:math id="M9"><mml:mrow><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:msub><mml:mi>M</mml:mi><mml:mi>c</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:mi>d</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>R</mml:mi><mml:mrow><mml:mtext>max</mml:mtext></mml:mrow></mml:msub><mml:msub><mml:mi>V</mml:mi><mml:mrow><mml:mtext>me</mml:mtext></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>S</mml:mi><mml:mo>−</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mfrac></mml:mrow></mml:mfrac></mml:mrow></mml:math></disp-formula>
+<disp-formula id="E10"><label>(10)</label><mml:math id="M10"><mml:mtable columnalign="left"><mml:mtr><mml:mtd><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mi>S</mml:mi><mml:mo>−</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo stretchy="false">)</mml:mo><mml:mi>π</mml:mi><mml:mfrac><mml:mrow><mml:msub><mml:mi>g</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mfrac><mml:mi>h</mml:mi><mml:msup><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:mi>d</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mi>A</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>Q</mml:mi><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mi>C</mml:mi><mml:mi>g</mml:mi><mml:mo>,</mml:mo><mml:mi>T</mml:mi><mml:mo>,</mml:mo><mml:mi>ψ</mml:mi><mml:mo>,</mml:mo><mml:mi>h</mml:mi><mml:mo>,</mml:mo><mml:mi>r</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo>−</mml:mo><mml:mi>C</mml:mi><mml:mi>h</mml:mi><mml:msup><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mtext>                                          </mml:mtext><mml:mo>−</mml:mo><mml:msub><mml:mi>C</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi>S</mml:mi><mml:mi>h</mml:mi><mml:msup><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>−</mml:mo><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:msub><mml:mi>M</mml:mi><mml:mi>c</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:mi>d</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac></mml:mtd></mml:mtr></mml:mtable></mml:math></disp-formula>
+<disp-formula id="E11"><label>(11)</label><mml:math id="M11"><mml:mtable columnalign="left"><mml:mtr><mml:mtd><mml:mtext>but if </mml:mtext><mml:mi>A</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>Q</mml:mi><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mi>C</mml:mi><mml:mi>g</mml:mi><mml:mo>,</mml:mo><mml:mi>T</mml:mi><mml:mo>,</mml:mo><mml:mi>ψ</mml:mi><mml:mo>,</mml:mo><mml:mi>h</mml:mi><mml:mo>,</mml:mo><mml:mi>r</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mtext> </mml:mtext><mml:mo>−</mml:mo><mml:mtext> </mml:mtext><mml:mi>C</mml:mi><mml:mi>h</mml:mi><mml:msup><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>−</mml:mo><mml:mtext> </mml:mtext><mml:msub><mml:mi>C</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi>S</mml:mi><mml:mi>h</mml:mi><mml:msup><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>≤</mml:mo><mml:msub><mml:mi>R</mml:mi><mml:mrow><mml:mtext>max</mml:mtext></mml:mrow></mml:msub><mml:msub><mml:mi>V</mml:mi><mml:mrow><mml:mtext>me</mml:mtext></mml:mrow></mml:msub></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mtext>                                               and </mml:mtext><mml:mi>S</mml:mi><mml:mtext> </mml:mtext><mml:mo>=</mml:mo><mml:mtext> </mml:mtext><mml:msub><mml:mi>S</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mtd></mml:mtr></mml:mtable></mml:math></disp-formula>
+then
+<disp-formula id="E12"><label>(12)</label><mml:math id="M12"><mml:mrow><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:msub><mml:mi>M</mml:mi><mml:mi>c</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:mi>d</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mi>A</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>Q</mml:mi><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mi>C</mml:mi><mml:mi>g</mml:mi><mml:mo>,</mml:mo><mml:mi>T</mml:mi><mml:mo>,</mml:mo><mml:mi>ψ</mml:mi><mml:mo>,</mml:mo><mml:mi>h</mml:mi><mml:mo>,</mml:mo><mml:mi>r</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo>−</mml:mo><mml:mi>C</mml:mi><mml:mi>h</mml:mi><mml:msup><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>−</mml:mo><mml:msub><mml:mi>C</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi>S</mml:mi><mml:mi>h</mml:mi><mml:msup><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:math></disp-formula>
+<disp-formula id="E13"><label>(13)</label><mml:math id="M13"><mml:mrow><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:mi>S</mml:mi></mml:mrow><mml:mrow><mml:mi>d</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow></mml:math></disp-formula></p>
+        <p>Note that the case where for some reason the carbon assimilation by photosynthesis is insufficient even to cover the cost of maintenance is treated by Equations (8–10). In that case there will be a depletion of storage to sustain the maintenance cost until the storage reaches a critical level or until the photosynthesis rate increases sufficiently.</p>
+      </sec>
+      <sec>
+        <title>2.5. Modeling photosynthesis</title>
+        <p>We assume the following dependencies of photosynthesis on water potential, atmospheric CO<sub>2</sub> concentration (<italic>Cg</italic>), PAR (<italic>Q</italic><sub>1</sub>), temperature, radius, and height:</p>
+        <list list-type="order">
+          <list-item>
+            <p>Photosynthesis increases with CO<sub>2</sub> concentration and PAR exponentially and tends to saturate:
+<disp-formula id="E14"><label>(14)</label><mml:math id="M14"><mml:mrow><mml:mi>A</mml:mi><mml:mtext> </mml:mtext><mml:mi>α</mml:mi><mml:mtext> </mml:mtext><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>−</mml:mo><mml:mi>exp</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mo>−</mml:mo><mml:mfrac><mml:mrow><mml:mi>C</mml:mi><mml:mi>g</mml:mi></mml:mrow><mml:mrow><mml:mi>C</mml:mi><mml:mi>r</mml:mi></mml:mrow></mml:mfrac><mml:mo stretchy="false">)</mml:mo><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math></disp-formula>
+<disp-formula id="E15"><label>(15)</label><mml:math id="M15"><mml:mrow><mml:mi>A</mml:mi><mml:mtext> </mml:mtext><mml:mi>α</mml:mi><mml:mtext> </mml:mtext><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>−</mml:mo><mml:mi>exp</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mo>−</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>Q</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mi>Q</mml:mi><mml:mi>r</mml:mi></mml:msub></mml:mrow></mml:mfrac><mml:mo stretchy="false">)</mml:mo><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math></disp-formula></p>
+            <p><italic>Cr</italic> and <italic>Q</italic><sub><italic>r</italic></sub> refers to the critical constants.</p>
+          </list-item>
+          <list-item>
+            <p>As a first approximation photosynthesis of each leaf decreases linearly with a reduction in soil water potential. We also suppose that water potential and hence photosynthesis decreases linearly with height (Friend, <xref rid="B16" ref-type="bibr">1993</xref>):
+<disp-formula id="E16"><label>(16)</label><mml:math id="M16"><mml:mrow><mml:msub><mml:mi>A</mml:mi><mml:mrow><mml:mtext>leaf</mml:mtext></mml:mrow></mml:msub><mml:mtext> </mml:mtext><mml:mi>α</mml:mi><mml:mtext> </mml:mtext><mml:mfrac><mml:mrow><mml:msub><mml:mi>h</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>−</mml:mo><mml:mi>h</mml:mi></mml:mrow><mml:mrow><mml:msub><mml:mi>h</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:mfrac></mml:mrow></mml:math></disp-formula>
+</p>
+            <p>Where:
+<disp-formula id="E17"><label>(17)</label><mml:math id="M17"><mml:mrow><mml:msub><mml:mi>h</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>ψ</mml:mi><mml:mrow><mml:mtext>soil</mml:mtext></mml:mrow></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>ψ</mml:mi><mml:mrow><mml:mtext>lim</mml:mtext></mml:mrow></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:msub><mml:mi>R</mml:mi><mml:mtext>h</mml:mtext></mml:msub></mml:mrow></mml:mfrac></mml:mrow></mml:math></disp-formula></p>
+            <p>With ψ<sub>soil</sub> the water potential in the soil and ψ<sub><italic>lim</italic></sub> the limit water potential below which any photosynthesis cannot be performed due to a lack of turgor pressure in the leaves and increased probability of xylem cavitation. <italic>R</italic><sub><italic>h</italic></sub> is the hydraulic resistance per unit length. Overall for the whole canopy we suppose a dependency of the form:
+<disp-formula id="E18"><label>(18)</label><mml:math id="M18"><mml:mrow><mml:mi>A</mml:mi><mml:mtext> </mml:mtext><mml:mi>α</mml:mi><mml:mtext> </mml:mtext><mml:mo stretchy="false">(</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>h</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>−</mml:mo><mml:mi>β</mml:mi><mml:mi>h</mml:mi></mml:mrow><mml:mrow><mml:msub><mml:mi>h</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:mfrac><mml:mo stretchy="false">)</mml:mo><mml:mi>h</mml:mi></mml:mrow></mml:math></disp-formula></p>
+            <p>In particular this means that there are two antagonist effects: one that tend to increase photosynthesis with the depth of the canopy due to more leaves and another that tends to make photosynthesis decrease with height due to the decline in water potential. Note that β is a numerical coefficient that depends on the ratio between the crown depth and the height. We assumed in our simulations that β = 3/4. Also, the dependency of both height and water potential is given above.</p>
+          </list-item>
+          <list-item>
+            <p>We assume a dependency with temperature given by an asymmetric parabola:
+<disp-formula id="E19"><label>(19)</label><mml:math id="M19"><mml:mrow><mml:mi>A</mml:mi><mml:mtext> </mml:mtext><mml:mi>α</mml:mi><mml:mtext> </mml:mtext><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>−</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mfrac><mml:mrow><mml:mo>|</mml:mo><mml:mi>T</mml:mi><mml:mo>−</mml:mo><mml:msub><mml:mi>T</mml:mi><mml:mrow><mml:mtext>opt</mml:mtext></mml:mrow></mml:msub><mml:mo>|</mml:mo></mml:mrow><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mtext>i</mml:mtext></mml:msub></mml:mrow></mml:mfrac><mml:msup><mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math></disp-formula></p>
+            <p>With <italic>T</italic><sub>i</sub> being 21°C if <italic>T</italic> &gt; <italic>T</italic><sub>opt</sub> and 25°C otherwise. We set here <italic>T</italic><sub>opt</sub> = 18°C. These values are inspired by previous studies (e.g., Precht et al., <xref rid="B37" ref-type="bibr">1973</xref>).</p>
+          </list-item>
+          <list-item>
+            <p>We suppose that photosynthesis is proportional to the surface area of the crown, and so proportional to <italic>r</italic><sup>2</sup>.</p>
+          </list-item>
+        </list>
+        <p>Overall we get:
+<disp-formula id="E20"><label>(20)</label><mml:math id="M20"><mml:mtable columnalign="left"><mml:mtr><mml:mtd><mml:mi>A</mml:mi><mml:mo>=</mml:mo><mml:msub><mml:mi>A</mml:mi><mml:mrow><mml:mtext>max</mml:mtext></mml:mrow></mml:msub><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>−</mml:mo><mml:msup><mml:mi>e</mml:mi><mml:mrow><mml:mo>−</mml:mo><mml:mfrac><mml:mrow><mml:mi>C</mml:mi><mml:mi>g</mml:mi></mml:mrow><mml:mrow><mml:mi>C</mml:mi><mml:mi>r</mml:mi></mml:mrow></mml:mfrac></mml:mrow></mml:msup><mml:mo stretchy="false">)</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>−</mml:mo><mml:msup><mml:mi>e</mml:mi><mml:mrow><mml:mo>−</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>Q</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow><mml:mrow><mml:mi>Q</mml:mi><mml:mi>r</mml:mi></mml:mrow></mml:mfrac></mml:mrow></mml:msup><mml:mo stretchy="false">)</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>−</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:mo>|</mml:mo><mml:mi>T</mml:mi><mml:mo>−</mml:mo><mml:msub><mml:mi>T</mml:mi><mml:mrow><mml:mtext>opt</mml:mtext></mml:mrow></mml:msub><mml:mo>|</mml:mo></mml:mrow><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mtext>i</mml:mtext></mml:msub></mml:mrow></mml:mfrac></mml:mrow><mml:msup><mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mo stretchy="false">)</mml:mo></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mtext>                </mml:mtext><mml:mo stretchy="false">(</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>h</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>−</mml:mo><mml:mn>3</mml:mn><mml:mi>h</mml:mi><mml:mo>/</mml:mo><mml:mn>4</mml:mn></mml:mrow><mml:mrow><mml:msub><mml:mi>h</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:mfrac><mml:mo stretchy="false">)</mml:mo><mml:msup><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mi>h</mml:mi></mml:mtd></mml:mtr></mml:mtable></mml:math></disp-formula></p>
+      </sec>
+      <sec>
+        <title>2.6. Maximal meristem-sustained growth</title>
+        <p>Intuitively, as meristem-sustained growth occurs at a cellular level, we assume that the limit to meristem-sustained growth per volume increases with temperature up to a certain temperature and increases with water potential (cf. Deleuze and Houllier, <xref rid="B11" ref-type="bibr">1998</xref>). Therefore, we assume the following dependencies:</p>
+        <list list-type="order">
+          <list-item>
+            <p>Themeristem-sustained growth limit decreases with height as: <inline-formula><mml:math id="M230"><mml:mrow><mml:msub><mml:mi>R</mml:mi><mml:mrow><mml:mtext>max</mml:mtext></mml:mrow></mml:msub><mml:mtext> </mml:mtext><mml:mi>α</mml:mi><mml:mtext> </mml:mtext><mml:mfrac><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>h</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>−</mml:mo><mml:mi>h</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:msub><mml:mi>h</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:mfrac></mml:mrow></mml:math></inline-formula>
+<disp-formula id="E21"><label>(21)</label><mml:math id="M21"><mml:mrow><mml:msub><mml:mi>h</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>ψ</mml:mi><mml:mrow><mml:mtext>soil</mml:mtext></mml:mrow></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>ψ</mml:mi><mml:mrow><mml:mtext>lim</mml:mtext><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:msub><mml:mi>R</mml:mi><mml:mtext>h</mml:mtext></mml:msub></mml:mrow></mml:mfrac></mml:mrow></mml:math></disp-formula></p>
+            <p>With ψ<sub>soil</sub> the water potential in the soil and ψ<sub>lim2</sub> the limit water potential below which meristem-sustained growth cannot occur. Physically this gives us a maximal height <italic>h</italic><sub>2</sub> due to the limit on meristematic growth.</p>
+            <p>We define therefore <italic>R</italic><sub>max0</sub> the reference maximal meristem-sustained growth per volume independant of water potential by: <inline-formula><mml:math id="M30"><mml:msub><mml:mrow><mml:mi>R</mml:mi></mml:mrow><mml:mrow><mml:mstyle mathvariant="normal"><mml:mi>m</mml:mi><mml:mi>a</mml:mi><mml:mi>x</mml:mi></mml:mstyle></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mrow><mml:mi>R</mml:mi></mml:mrow><mml:mrow><mml:mstyle mathvariant="normal"><mml:mi>m</mml:mi><mml:mi>a</mml:mi><mml:mi>x</mml:mi><mml:mn>0</mml:mn></mml:mstyle></mml:mrow></mml:msub><mml:mfrac><mml:mrow><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:msub><mml:mrow><mml:mi>h</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mo>-</mml:mo><mml:mi>h</mml:mi></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>h</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:math></inline-formula></p>
+            <p>We could also suppose that the limit to meristem-sustained growth per volume increases with temperature using a standard <italic>Q</italic><sub>10</sub> formulation: <inline-formula><mml:math id="M31"><mml:msub><mml:mrow><mml:mi>R</mml:mi></mml:mrow><mml:mrow><mml:mstyle mathvariant="normal"><mml:mi>m</mml:mi><mml:mi>a</mml:mi><mml:mi>x</mml:mi></mml:mstyle></mml:mrow></mml:msub><mml:mtext> </mml:mtext><mml:mi>α</mml:mi><mml:mtext> </mml:mtext><mml:msubsup><mml:mrow><mml:mi>Q</mml:mi></mml:mrow><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mfrac><mml:mrow><mml:mi>T</mml:mi><mml:mo>-</mml:mo><mml:msub><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mn>10</mml:mn></mml:mrow></mml:mfrac></mml:mrow></mml:msubsup></mml:math></inline-formula>. However, seen the difficulty to know precisely <italic>Q</italic><sub>10</sub> and in order to keep the model as simple as possible we assumed that <italic>R</italic><sub>max0</sub> remains constant with time.</p>
+          </list-item>
+          <list-item>
+            <p>As stated previously, we suppose that the volume of meristems is expressed as: <inline-formula><mml:math id="M32"><mml:msub><mml:mrow><mml:mi>V</mml:mi></mml:mrow><mml:mrow><mml:mstyle mathvariant="normal"><mml:mi>m</mml:mi><mml:mi>e</mml:mi></mml:mstyle></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:msub><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mrow><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mi>π</mml:mi><mml:msup><mml:mrow><mml:mi>r</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msup><mml:mo>+</mml:mo><mml:mn>2</mml:mn><mml:mi>π</mml:mi><mml:mi>r</mml:mi><mml:mi>h</mml:mi><mml:msub><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math></inline-formula>, where <italic>t</italic><sub>1</sub> is the effective thickness of the apical meristem and <italic>t</italic><sub>2</sub> is the effective thickness of the lateral meristem.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec>
+        <title>2.7. Final evolution equations</title>
+        <p>Using the previous elements we finally get:
+<disp-formula id="E22"><label>(22)</label><mml:math id="M22"><mml:mrow><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:msub><mml:mi>M</mml:mi><mml:mi>c</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:mi>d</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>R</mml:mi><mml:mrow><mml:mtext>max</mml:mtext><mml:mn>0</mml:mn></mml:mrow></mml:msub><mml:mo stretchy="false">(</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>h</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>−</mml:mo><mml:mi>h</mml:mi></mml:mrow><mml:mrow><mml:msub><mml:mi>h</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:mfrac><mml:mo stretchy="false">)</mml:mo><mml:msub><mml:mi>V</mml:mi><mml:mrow><mml:mtext>me</mml:mtext></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>S</mml:mi><mml:mo>−</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mfrac></mml:mrow></mml:mfrac></mml:mrow></mml:math></disp-formula>
+<disp-formula id="E23"><label>(23)</label><mml:math id="M23"><mml:mtable columnalign="left"><mml:mtr><mml:mtd><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:msub><mml:mi>S</mml:mi><mml:mrow><mml:msub><mml:mtext>c</mml:mtext><mml:mn>0</mml:mn></mml:msub></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mi>d</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>A</mml:mi><mml:mrow><mml:mtext>max</mml:mtext></mml:mrow></mml:msub><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>−</mml:mo><mml:msup><mml:mi>e</mml:mi><mml:mrow><mml:mo>−</mml:mo><mml:mfrac><mml:mrow><mml:mi>C</mml:mi><mml:mi>g</mml:mi></mml:mrow><mml:mrow><mml:mi>C</mml:mi><mml:mi>r</mml:mi></mml:mrow></mml:mfrac></mml:mrow></mml:msup><mml:mo stretchy="false">)</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>−</mml:mo><mml:msup><mml:mi>e</mml:mi><mml:mrow><mml:mo>−</mml:mo><mml:mfrac><mml:mrow><mml:mi>Q</mml:mi><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mi>Q</mml:mi><mml:mi>r</mml:mi></mml:mrow></mml:mfrac></mml:mrow></mml:msup><mml:mo stretchy="false">)</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>−</mml:mo><mml:msup><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:mo>|</mml:mo><mml:mi>T</mml:mi><mml:mo>−</mml:mo><mml:msub><mml:mi>T</mml:mi><mml:mrow><mml:mtext>op</mml:mtext></mml:mrow></mml:msub><mml:mo>|</mml:mo></mml:mrow><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mtext>i</mml:mtext></mml:msub></mml:mrow></mml:mfrac></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mo stretchy="false">)</mml:mo></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mtext>                      </mml:mtext><mml:mo stretchy="false">(</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>h</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>−</mml:mo><mml:mn>3</mml:mn><mml:mi>h</mml:mi><mml:mo>/</mml:mo><mml:mn>4</mml:mn></mml:mrow><mml:mrow><mml:msub><mml:mi>h</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:mfrac><mml:mo stretchy="false">)</mml:mo><mml:mo>−</mml:mo><mml:mi>C</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mi>h</mml:mi><mml:msup><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>−</mml:mo><mml:msub><mml:mi>C</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi>S</mml:mi><mml:mi>h</mml:mi><mml:msup><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>−</mml:mo><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:msub><mml:mi>M</mml:mi><mml:mi>c</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:mi>d</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac></mml:mtd></mml:mtr></mml:mtable></mml:math></disp-formula>
+or
+<disp-formula id="E24"><label>(24)</label><mml:math id="M24"><mml:mtable columnalign="left"><mml:mtr><mml:mtd><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:msub><mml:mi>M</mml:mi><mml:mi>c</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:mi>d</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>A</mml:mi><mml:mrow><mml:mtext>max</mml:mtext></mml:mrow></mml:msub><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>−</mml:mo><mml:msup><mml:mi>e</mml:mi><mml:mrow><mml:mo>−</mml:mo><mml:mfrac><mml:mrow><mml:mi>C</mml:mi><mml:mi>g</mml:mi></mml:mrow><mml:mrow><mml:mi>C</mml:mi><mml:mi>r</mml:mi></mml:mrow></mml:mfrac></mml:mrow></mml:msup><mml:mo stretchy="false">)</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>−</mml:mo><mml:msup><mml:mi>e</mml:mi><mml:mrow><mml:mo>−</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>Q</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow><mml:mrow><mml:mi>Q</mml:mi><mml:mi>r</mml:mi></mml:mrow></mml:mfrac></mml:mrow></mml:msup><mml:mo stretchy="false">)</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>−</mml:mo><mml:msup><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:mo>|</mml:mo><mml:mi>T</mml:mi><mml:mo>−</mml:mo><mml:msub><mml:mi>T</mml:mi><mml:mrow><mml:mtext>op</mml:mtext></mml:mrow></mml:msub><mml:mo>|</mml:mo></mml:mrow><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mtext>i</mml:mtext></mml:msub></mml:mrow></mml:mfrac></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mo stretchy="false">)</mml:mo></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mtext>                     </mml:mtext><mml:mo stretchy="false">(</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>h</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>−</mml:mo><mml:mn>3</mml:mn><mml:mi>h</mml:mi><mml:mo>/</mml:mo><mml:mn>4</mml:mn></mml:mrow><mml:mrow><mml:msub><mml:mi>h</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:mfrac><mml:mo stretchy="false">)</mml:mo><mml:mo>−</mml:mo><mml:mi>C</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:msup><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mi>h</mml:mi><mml:mo>−</mml:mo><mml:msub><mml:mi>C</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi>S</mml:mi><mml:mi>h</mml:mi><mml:msup><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mtd></mml:mtr></mml:mtable></mml:math></disp-formula>
+<disp-formula id="E25"><label>(25)</label><mml:math id="M25"><mml:mrow><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:mi>S</mml:mi></mml:mrow><mml:mrow><mml:mi>d</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow></mml:math></disp-formula>
+depending on whether carbon supply from photosynthesis plus storage is sufficient to meet demand for growth (Equations 22 and 23) or not (Equations 24 and 25).</p>
+      </sec>
+      <sec>
+        <title>2.8. Deriving the values of the parameters</title>
+        <p>So far we need to know the values of the following physiological parameters to use the model (Table <xref ref-type="table" rid="T1">1</xref>):
+<disp-formula id="E26"><mml:math id="M26"><mml:mrow><mml:msub><mml:mi>A</mml:mi><mml:mrow><mml:mtext>max</mml:mtext></mml:mrow></mml:msub><mml:mo>,</mml:mo><mml:mtext> </mml:mtext><mml:msub><mml:mi>g</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>,</mml:mo><mml:mi>C</mml:mi><mml:mo>,</mml:mo><mml:mtext> </mml:mtext><mml:msub><mml:mi>C</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>,</mml:mo><mml:mtext> </mml:mtext><mml:msub><mml:mi>C</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>,</mml:mo><mml:mtext> </mml:mtext><mml:msub><mml:mi>S</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>,</mml:mo><mml:mtext> </mml:mtext><mml:mi>C</mml:mi><mml:mi>r</mml:mi><mml:mo>,</mml:mo><mml:mtext> </mml:mtext><mml:mi>Q</mml:mi><mml:mi>r</mml:mi><mml:mo>,</mml:mo><mml:mtext> </mml:mtext><mml:msub><mml:mi>h</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>,</mml:mo><mml:mtext> </mml:mtext><mml:msub><mml:mi>h</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>,</mml:mo><mml:mtext> </mml:mtext><mml:msub><mml:mi>t</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:msub><mml:mi>R</mml:mi><mml:mrow><mml:msub><mml:mrow><mml:mtext>max</mml:mtext></mml:mrow><mml:mn>0</mml:mn></mml:msub></mml:mrow></mml:msub></mml:mrow></mml:math></disp-formula></p>
+        <table-wrap id="T1" position="float">
+          <label>Table 1</label>
+          <caption>
+            <p><bold>Numeric values of the parameters used in the model</bold>.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Symbol</bold>
+                </th>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Value</bold>
+                </th>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Quantity</bold>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <italic>g</italic>
+                  <sub>1</sub>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1">365 <italic>kg</italic>.<italic>m</italic><sup>−3</sup></td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Density of carbon of the equivalent cylinder representing the tree</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"><italic>C</italic>/π</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">73 <italic>kg</italic>.<italic>m</italic><sup>−3</sup>.<italic>y</italic><sup>−1</sup></td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Respiration and litter coefficient</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"><italic>C</italic><sub>2</sub>/π</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">73 <italic>kg</italic>.<italic>m</italic><sup>−3</sup>.<italic>y</italic><sup>−1</sup></td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Respiration coefficient for the storage</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"><italic>t</italic><sub>2</sub><italic>R</italic><sub>max0</sub>/<italic>g</italic><sub>1</sub></td>
+                <td valign="top" align="left" rowspan="1" colspan="1">0.0201 <italic>m</italic>.<italic>y</italic><sup>−1</sup> corresponds to a maximal radius expansion of 1.5 <italic>cm</italic>.<italic>y</italic><sup>−1</sup></td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Reference maximal meristem-sustained lateral growth per area independent of water potential</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"><italic>t</italic><sub>2</sub>/<italic>t</italic><sub>1</sub></td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ratio between lateral and apical meristem thickness</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">β<italic>h</italic><sub>1</sub></td>
+                <td valign="top" align="left" rowspan="1" colspan="1">67.5 <italic>m</italic></td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Limit height of occurrence for photosynthesis</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <italic>h</italic>
+                  <sub>2</sub>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1">47 <italic>m</italic></td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Limit height of occurrence for meristem-sustained growth</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <italic>S</italic>
+                  <sub>1</sub>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1">0.2</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Critical value of the storage per unit mass</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"><italic>A</italic><sub>max</sub>/π</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">206 <italic>kg</italic>.<italic>m</italic><sup>−3</sup>.<italic>y</italic><sup>−1</sup></td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Maximal assimilation of carbon per unit volume by photosynthesis</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <italic>Q</italic>
+                  <sub>
+                    <italic>r</italic>
+                  </sub>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1000 <italic>W</italic>.<italic>m</italic><sup>−2</sup></td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Characteristic PAR dependency</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">α<sub>2</sub></td>
+                <td valign="top" align="left" rowspan="1" colspan="1">0.34–0.43</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ratio of meristematic activity</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <italic>C</italic>
+                  <sub>
+                    <italic>r</italic>
+                  </sub>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1">500 ppm</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Characteristic CO<sub>2</sub> mixing ratio dependency</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">β</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">3/4</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Geometrical integrand for <italic>h</italic><sub>1</sub></td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <italic>T</italic>
+                  <sub>opt</sub>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1">18°C</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Optimal temperature for carbon assimilation</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>The most accessible are probably <italic>Cr</italic> and <italic>Qr</italic>. These are usually well known and can be obtained from the curve of photosynthesis activity as a function of atmospheric CO<sub>2</sub> mixing ratio (in ppmv) or as a function of PAR, respectively.</p>
+        <p><italic>A</italic><sub>max</sub> can be obtained by direct measurements of the carbon exchange at a given height, ambient CO<sub>2</sub> concentration, temperature, PAR, and compensating for respiration as in Campioli et al. (<xref rid="B8" ref-type="bibr">2011</xref>). Acting similarly and measuring litter with litter traps gives access to <italic>C</italic>. These values can also be deduced from net primary production and gross primary production and the typical litter flux rates. Note that here we use data coming from forest stands, although in the model we suppose that we have an individual tree without shading because data for lone standing trees are seldom available. This means that we may underestimate the growth of isolated trees, but at the same time the values of <italic>A</italic><sub>max</sub> and <italic>C</italic> obtained enable to take into account the shading effect by neighbors of a forest with the same density, which is a hidden parameter of this model (i.e., not explicitly taken into account). Also, depending on the typical time length of the study, we choose a model timestep and therefore we use averaged values of the parameters on this timestep. In this analysis, we chose 1 year as the timestep although smaller timesteps could be considered.</p>
+        <p>Finding <italic>h</italic><sub>1</sub> is equivalent to finding the minimal water potential that can sustain photosynthesis. <italic>h</italic><sub>2</sub> is its equivalent with respect to growth. Combined, these two parameters take into account all water potential-dependant limits in trees such as cavitation in the xylem conduits, minimal turgor potential to maintain the shape of the leaf and enable stomatal opening, etc. While <italic>h</italic><sub>1</sub> (or equivalently ψ<sub>max1</sub>) has been extensively studied (e.g., Friend, <xref rid="B16" ref-type="bibr">1993</xref>; Koch et al., <xref rid="B24" ref-type="bibr">2004</xref>; Du et al., <xref rid="B13" ref-type="bibr">2008</xref>), and is believed to be equal to around 90 m for redwood trees (Koch et al., <xref rid="B24" ref-type="bibr">2004</xref>), <italic>h</italic><sub>2</sub> seems to be less known. However, knowing <italic>h</italic><sub>1</sub> and the other parameters, as well as the effective limit height for the considered species, <italic>h</italic><sub>2</sub> can be estimated by assuming that it is the limiting parameter in regions with very good conditions for photosynthesis. Therefore, looking at the effective limit height would give access to <italic>h</italic><sub>2</sub> for these particular regions. Using Equation (22) and regressing on the water potential we would have access to ψ<sub><italic>lim</italic></sub> and <italic>R</italic><sub><italic>h</italic></sub> and therefore we would be able to estimate <italic>h</italic><sub>2</sub> in any region from a measure of ψ<sub><italic>soil</italic></sub>.</p>
+        <p>We can find <italic>R</italic><sub><italic>max</italic>0</sub>, at least approximately, by looking at the tree rings of many trees across several geographical locations and assuming that the largest ones correspond to the maximal increment <italic>dr</italic> achievable in a year, which is directly linked to <italic>R</italic><sub>max0</sub>, the maximal meristem-sustained growth rate under perfect water potentials. Then we can deduce the value of <italic>R</italic><sub>max0</sub>, or at least its order of magnitude.</p>
+      </sec>
+    </sec>
+    <sec id="s3">
+      <title>3. Results</title>
+      <p>The model described above is ordinary, first order, non-linear, and has no widely known explicit analytical solution in the case where 2α<sub>2</sub> is not an integer. Therefore, it was solved numerically by the Runge-Kutta-Fehlberg (RK45) method (Dormand and Prince, <xref rid="B12" ref-type="bibr">1980</xref>). Coherence both with the analytical solution in simplified cases and with other solving methods (i.e., the trapezoidal rule and numerical differentiation formula) was tested.</p>
+      <p>As some parameters can depend, <italic>a priori</italic>, on the considered species, we derived the parameters explained previously for beech trees from the data provided in Campioli et al. (<xref rid="B8" ref-type="bibr">2011</xref>) and Zianis and Mencuccini (<xref rid="B49" ref-type="bibr">2005</xref>). Beech trees were chosen because of their importance in European forests, especially in Germany where they represent more than 15% of the forest and in France where they comprise 15% of the non-conifer forest. Therefore, a great number of studies have focussed on beech trees, enabling easier comparisons with our current study.</p>
+      <p>As the computation of the parameters is based on independent measurements that have sometimes a non-negligible margin of error, we allowed the parameters thus obtained to vary with a 20% margin to account for this error, and to allow a small adaptation of the model (as it is only a simplification of reality) by fitting them with reference measurements of a standard beech tree stand in Fabrikschleichach, Germany that we refer to as “first stand” in the following. As <italic>R</italic><sub>max0</sub> was more coarsely estimated we allowed it a variation of 50% in order to maintain the right order of magnitude. Also, as no precise data on the soil water potentials over the tested period A.D. 1870–2010 were available for these stands, we allowed a 50% variation of <italic>h</italic><sub>2</sub>, the height where meristem-sustained growth cannot occur due to cell turgor limits. We obtained then a final vector of parameters for our model using a non-linear least-square method (trust-region-reflective algorithm: <ext-link ext-link-type="uri" xlink:href="http://uk.mathworks.com/help/optim/ug/equation-solving-algorithms.html">http://uk.mathworks.com/help/optim/ug/equation-solving-algorithms.html</ext-link>).</p>
+      <p>We then used our model to predict the time variation of height and volume of an average tree in other stands of beech trees. It should be emphasized that there is a substantial difference between fitting and prediction. Fitting a model to some data gives a partial understanding of the data but does not usually enable prediction for another tree or even for future data points as the fitting is done on a restricted set of measurements. Prediction, on the other hand, is much harder to achieve as it supposes the use of previously-derived parameters and environmental information (e.g., air temperature, soil moisture, CO<sub>2</sub> concentration, etc.) to predict the measurements. Usually most models are fitted rather than predicting as it is much harder to predict anything without any fitting, although when it works it gives much more information: a better understanding and a reliable way to deduce future measurements before they occur even for other trees (e.g., height or volume prediction).</p>
+      <p>On these stands the model was tested without any additional fitting. In that sense it is, at least partially, a prediction. Of course a fitting on these stands would give a better result than the (still good) results we obtain, however it is not the goal of our approach. This is the reason why in the figures, to emphasize the difference of treatment between the standard stand and the others, two labels appear: “partial fit” and “prediction.”</p>
+      <p>We first considered three stands of beech trees that are part of a long-term experiment on forest yield science performed by the Chair of Forest Growth and Yield Science at the Technische Universität München. The stands are in southern Germany, about 60 km from Würzburg in the heart of the Steigerwald, a richly forested hillside, near a small village named Fabrikschleichach (49.9 °N; 10.5 °E). They cover roughly 0.37 ha, are located within immediate proximity of each other (i.e., they have experienced the same environmental conditions), and differ only in silvicultural management, especially thinning with consequences for the development of stem densities during the experiment. The beech trees were planted and then measured at irregular intervals averaging 8 ± 3 (mean ± standard deviation) years from an age of 48 y in A.D. 1870 to 188 y in A.D. 2010. For each stand we considered the average height of the 100 trees with the largest stem diameter at breast height. The first stand was the reference stand used to partially fit the parameters (within the 20% margin). As the model needs initial values for both <italic>h</italic><sub>0</sub> and <italic>r</italic><sub>0</sub>, and as measurements only started at an age of 48 y, all the computations were run starting at an age of 48 y as can be seen in Figure <xref ref-type="fig" rid="F1">1</xref>.</p>
+      <fig id="F1" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p><bold>Size of the modeled tree with age at the first site (Fabrikschleichach)</bold>. Continuous curves are computed with the model while circles correspond to experimental measurements. <bold>(A)</bold> Represents the results of the partial fit on the reference stand. <bold>(B,C)</bold> Represent the results of the prediction with the parameters obtained by partial fitting.</p>
+        </caption>
+        <graphic xlink:href="fpls-08-00182-g0001"/>
+      </fig>
+      <p>As expected, our partially fitted model agrees well with the measurements from this stand (Figure <xref ref-type="fig" rid="F1">1A</xref>; <italic>R</italic><sup>2</sup> = 0.924). Predictions with the model were then performed for the two other stands (Figures <xref ref-type="fig" rid="F1">1B,C</xref>).</p>
+      <p>The results give a very good prediction for the second stand (<italic>R</italic><sup>2</sup> &gt; 0.925), and a small, although non-negligible, error for the third one (<italic>R</italic><sup>2</sup> = 0.89). However, this could be at least partially explained by the change in the density of trees during the 120 y due to different rates of thinning in the different stands (i.e., from 3,500 tree <italic>ha</italic><sup>−1</sup> to 200 tree <italic>ha</italic><sup>−1</sup> in the first stand, 6,400 tree <italic>ha</italic><sup>−1</sup> to 200 tree <italic>ha</italic><sup>−1</sup> in the second, and 2,400 tree <italic>ha</italic><sup>−1</sup> to 200 tree <italic>ha</italic><sup>−1</sup> in the third). Therefore, the red:far-red radiation ratio changes with time in the real forest while it was assumed constant in our model.</p>
+      <p>To complete the analysis by testing the model thus calibrated on another site where the conditions may be different, it was also used to predict the height of dominant trees in three other stands at a different site in the Spessart, Hain (50.0 °N; 9.3 °E), a low wooded mountain range in central Germany, located approximately 100 km from the first site where the beech trees were also planted and then measured from an age of 48 y in A.D. 1870 to 188 y in A.D. 2010 (Figure <xref ref-type="fig" rid="F2">2</xref>). As data were missing concerning the water potential during the growth period from A.D. 1870 to compare with the first stand, we allowed the model to adapt its value of <italic>h</italic><sub>2</sub> within 20% by keeping the calibration derived previously and fitting only this one parameter on the first of the three new stands. Then the new calibration was used to predict the heights of the three stands according to the model. To avoid the potential error induced by the different variations of the red:far-red ratios within the stands, we restrict our analysis to data when the density was lower than 1,000 tree <italic>ha</italic><sup>−1</sup> and started the simulations from these ages. As before, the predictions are in strong accordance with the observations for all three stands, with a nearly exact correspondence with the measurements (<italic>R</italic><sup>2</sup> = 0.99, <italic>R</italic><sup>2</sup> = 0.92, <italic>R</italic><sup>2</sup> = 0.99 respectively), except for the second stand.</p>
+      <fig id="F2" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p><bold>Plot of the size of the tree with age at the second site (Hain)</bold>. Continuous curves are computed with the model and start when the tree density is lower than 1,000 tree ha<sup>−1</sup>, while circles correspond to experimental measurements. Parameters for beech trees are obtained from the first site and <italic>h</italic><sub>2</sub> was allowed to vary up to 20% to compensate for the lack of data concerning water potential from A.D. 1870 on the two sites. Panels <bold>(A–C)</bold> represent, respectively, the results for stands 1–3.</p>
+        </caption>
+        <graphic xlink:href="fpls-08-00182-g0002"/>
+      </fig>
+      <p>We should note that the correspondence is very close but not exact, and that the data we have might limit the accuracy: firstly, from our equations we can see that there is a propagation of error from the initial conditions. An error on the initial height of 1 m could imply an error of the predicted height of up to 2.5 m after 50 years even if the model were perfect. Also, no data were available for the difference of water potentials between the stands on a same site, while it seems logical that for a certain density of trees, the stands with higher density will have less water available per tree. Therefore, this could induce a small error in <italic>h</italic><sub>2</sub> and <italic>h</italic><sub>1</sub> that could be corrected if we knew the average water potential during the growth period in each stand.</p>
+      <p>To exam the sensitivity of the model to the initial condition, we investigated how this impacts its predicting potential. Figure <xref ref-type="fig" rid="F3">3A</xref> shows predictions by the model for the second stand of the first site (Fabrikschleichach) when we add an error on the initial condition for <italic>r</italic><sub>0</sub> between −20% and +20% (in blue) with an increment of 4%. We also show the effect of combining this error on <italic>r</italic><sub>0</sub> with a −20% error on <italic>h</italic><sub>0</sub> (in cyan) and a +20% error on <italic>h</italic><sub>0</sub> (in magenta). Experimental measurements are represented in red. In Figure <xref ref-type="fig" rid="F3">3B</xref> we show the result of the model with a full range of error for <italic>r</italic><sub>0</sub> and <italic>h</italic><sub>0</sub> between −20% and +20% with an increment of 4%, while the experimental measurements are again represented in red. In these simulations some knowledge on the experimental measurement is still necessary as we need to known the allometric relationship <italic>a priori</italic>. However, we could avoid this assumption by estimating it for instance using the allometric relationship of the first stand used for partial fitting. Figure <xref ref-type="fig" rid="F3">3B</xref> would not change much: the result of this procedure is given in Figure <xref ref-type="fig" rid="F3">3C</xref>. Of course the prediction is likely to be more precise if we knew more than the single initial point. The existing but small dispersion of the model prediction due to variation in the initial condition as demonstrated by the panels in Figure <xref ref-type="fig" rid="F3">3</xref>, is encouraging. It appears that the sensitivity or our model to the initial condition is not a significant concern regarding the ability of the model to reproduce actual behavior.</p>
+      <fig id="F3" position="float">
+        <label>Figure 3</label>
+        <caption>
+          <p><bold>Plot of the size of the tree with age at the second stand of the first site (Fabrikschleichach) when some error is added to the initial conditions</bold>. On every plot the error on <italic>r</italic><sub>0</sub> ranges between −20 and +20%, while the error on <italic>h</italic><sub>0</sub> depends on the plot. <bold>(A)</bold> Three groups of initial conditions are represented: no error on <italic>h</italic><sub>0</sub> (blue), -20% error on <italic>h</italic><sub>0</sub> (magenta), +20% error on <italic>h</italic><sub>0</sub> (cyan). <bold>(B)</bold> Error on <italic>h</italic><sub>0</sub> ranges between −20% (cyan) and +20% (magenta) with a 4% increment. <bold>(C)</bold> Same as the previous but, in addition, allometric relationship of the stand is assumed unknown.</p>
+        </caption>
+        <graphic xlink:href="fpls-08-00182-g0003"/>
+      </fig>
+      <p>Finally, mortality is not addressed by the model, although the model does produce cessation of growth under stressful circumstances. Therefore, tree mortality due to critical events (e.g., disturbance, pathogens, etc.) other than a limit on growth due to the external conditions, can create discontinuities in the data which are not captured by the model. Although the continual use of the 100 trees with largest DBHs tends to average this discontinuity (as the probability that a large change in those 100 trees occurs in 1 year is low), this might have created another limit to the accuracy. For instance, we note that we have observed in the 2010 measurements, i.e., after 188 years, the death of several of the 100 trees with the largest DBHs, which seems to have caused a decline of the average height of the 100 living trees with the largest DBHs as taller trees were replaced by smaller trees in this group, which is a result of size-related mortality dynamics (cf. Holzwarth et al., <xref rid="B22" ref-type="bibr">2013</xref>).</p>
+      <p>If we wanted to address further this question, especially if we wanted to simulate many individual trees that interact together in a forest, we could multiply the height <italic>h</italic> by a random process <italic>M</italic>(<italic>t</italic>) that would be equal to 1 when the tree is alive and 0 when the tree is dead. Then the probability p(M(t) = 0|M(s&lt;t) = 1) of transition between a living tree and a dead tree could be derived using experimental measurements and even be a function of the size of the tree. So far, though, this doesn't seem to be needed in the present application.</p>
+      <p>So far, the only things we assumed to be known for predicting the height are the external variables (i.e., temperature, water potential, PAR, and CO<sub>2</sub> concentration), the species of the tree, and the allometric relationships for each stand. No other knowledge about the trees was used to perform the predictions. Measurements in themselves were used to compare our predictions with reality.</p>
+      <p>We chose to predict height as there is usually a relatively small error of measurement in height compared to other variables. It should be noted that the same procedure is possible taking instead the stem volume as the quantity to predict. However, the results would be less precise because they will be susceptible to cumulative measurement errors of the radius and the stem height, among other reasons, but they would still be accurate (the highest error is around 25% after 75 years) and are presented in Figure <xref ref-type="fig" rid="F4">4</xref>. As in Figure <xref ref-type="fig" rid="F1">1</xref>, we find again between 168 and 188 years that the effect of thinning reduces the precision and explains the apparently strange experimental values. Also, we chose to predict height instead of radius or diameter as the measurements performed on the radius were the DBH which might be different from the equivalent cylindrical diameter, especially for the 100 trees with the largest DBH, and this would have added an artificial error of measurement.</p>
+      <fig id="F4" position="float">
+        <label>Figure 4</label>
+        <caption>
+          <p><bold>Plot of the stem volume with age at the first site (Fabrikschleichach)</bold>. Continuous curves are computed with the model and start when the tree density is lower than 1,000 tree ha<sup>−1</sup>, while circles correspond to experimental measurements. Panel <bold>(A)</bold> represents the partial fit on the reference stand. Panels <bold>(B)</bold> and <bold>(C)</bold> represent the results of the prediction with the parameters obtained by partial fitting.</p>
+        </caption>
+        <graphic xlink:href="fpls-08-00182-g0004"/>
+      </fig>
+      <sec>
+        <title>3.1. Notable behavior</title>
+        <p>The results of this model are very encouraging and are not limited to predicting the height of dominant trees but show notable qualitative behaviors in other respects.</p>
+        <p>Firstly, it is known that forest stand growth dynamics have significantly changed since 1870, as shown in Pretzsch et al. (<xref rid="B38" ref-type="bibr">2014</xref>), and many experiments have been conducted to measure the impact of climate and CO<sub>2</sub> change on forests. Climate and CO<sub>2</sub> change also shows an impact on this individual tree model, as the model depends on external conditions such as temperature and soil moisture, as well as CO<sub>2</sub> concentration. For instance, using the model with a constant CO<sub>2</sub> concentration (from 1870) rather than the actual CO<sub>2</sub> concentrations gives biased results and a slower growth of trees (Figure <xref ref-type="fig" rid="F5">5</xref>)<xref ref-type="fn" rid="fn0002"><sup>2</sup></xref>. This seems coherent with both the idea that atmospheric CO<sub>2</sub> had an impact on forest stand growth and that present forest stands are growing more rapidly than comparable stands before.</p>
+        <fig id="F5" position="float">
+          <label>Figure 5</label>
+          <caption>
+            <p><bold>Comparison of simulations with and without increasing atmospheric CO<sub>2</sub></bold>.</p>
+          </caption>
+          <graphic xlink:href="fpls-08-00182-g0005"/>
+        </fig>
+        <p>Also, if we consider a small tree in a forest, shaded by the canopy above, it would receive only a small amount of light. Therefore, the model would predict a very limited maximum height and the tree would remain near this height with very small growth until a big tree nearby falls. Then the light received would be higher and enough for the tree to grow taller very quickly. If the tree were very close to the dead big tree then the aperture is large enough and the tree would reach the canopy. If not, and if the tree is still significantly partially shaded compared to the rest of the trees, then its limit height would be lower than the forest height and it would reduce its growth progressively until it were close to this height. This behavior would seem to be qualitatively in accordance with reality Nagel et al. (<xref rid="B31" ref-type="bibr">2007</xref>), but due to a lack of data we have not been able test this quantitatively.</p>
+        <p>Finally, we have examined the response of our model to a wide range of maximal carbon assimilation parameter values (<italic>A</italic><sub>max</sub>) in order to investigate the conditions under which sink-limited growth dominates (Figure <xref ref-type="fig" rid="F6">6</xref>). Under the reference simulation, the growth of the tree was source-limited when young, but switched to being sink-limited when it reached 84 y old (this simulation is equivalent to that presented in Figure <xref ref-type="fig" rid="F1">1B</xref>, with <italic>A</italic><sub>max</sub> obtained after a partial fit on the first stand from the value in Table <xref ref-type="table" rid="T1">1</xref>. At low values of <italic>A</italic><sub>max</sub> (i.e., approximately &lt;80% of the reference value), the tree remained source-limited to maturity, whereas at high values it was sink-limited for most of its life.</p>
+        <fig id="F6" position="float">
+          <label>Figure 6</label>
+          <caption>
+            <p><bold>Effect of maximal carbon assimilation (<italic>A</italic><sub>max</sub>) and time on simulated tree height</bold>. Also shown is the limiting process for growth: source or sink. <italic>A</italic><sub>max</sub> is normalized to 1 at its value in Table <xref ref-type="table" rid="T1">1</xref>.</p>
+          </caption>
+          <graphic xlink:href="fpls-08-00182-g0006"/>
+        </fig>
+        <p>To examine further the idea of the importance of considering the sink limit in this model we performed a similar simulation but we switched off the sink limit, letting photosynthesis being the only limiting factor. We then computed the difference of the two simulations. This difference is shown in Figure <xref ref-type="fig" rid="F7">7</xref>. As we can see for regions where <italic>A</italic><sub>max</sub> is large, the difference in tree heights between the two simulations can reach around 40 m after several 100 years.</p>
+        <fig id="F7" position="float">
+          <label>Figure 7</label>
+          <caption>
+            <p><bold>Difference in height growth with Figure <xref ref-type="fig" rid="F6">6</xref> when sink-limited growth is switched off</bold>.</p>
+          </caption>
+          <graphic xlink:href="fpls-08-00182-g0007"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec id="s4">
+      <title>4. Discussion</title>
+      <p>Our aim in developing this model has been to provide a means of representing realistic tree growth and forest/vegetation dynamics at the global scale. To simulate individual tree competition our preferred method is to use a gap model of succession. Our global gap-model, HYBRID (Friend and White, <xref rid="B18" ref-type="bibr">2000</xref>), computes individual-level photosynthesis and allocates photosynthate to leaves, stems, and roots, without consideration of sink limitations. All other DGVMs do something similar (Fatichi et al., <xref rid="B14" ref-type="bibr">2014</xref>), usually at the big-leaf level (i.e., they do not consider individuals at all). The motivation of the new model described here is to explore a framework for introducing, in DGVMs, sink-limited growth. We have suggested as simple a scheme as possible to avoid reaching the point where we can no longer simulate dynamics at the global scale due to limited computing resources. The approach to modeling photosynthesis in DGVMs is similar to ours, in that the whole canopy is typically simulated as one leaf, and so it seems appropriate to simulate the meristems with a similar approach. We have chosen two meristem types—apical and lateral, in order to simulate the essential properties of height and diameter growth. Our new model is a major advance over current global models, and we expect that it could have significant consequences for our understanding of the historical and future global terrestrial carbon sink.</p>
+      <p>Our model starts from physiological considerations about trees and several hypotheses to derive differential equations that are solved over time to obtain the growth of a tree and predict its size. Although the model is fairly simple and far from taking every possible parameter of the tree into account, it seems to obtain very good results and predictions which agree closely with observations from different stands of trees with different environmental conditions.</p>
+      <p>Interestingly, our approach gives rise to two limiting tree heights: <italic>h</italic><sub>1</sub>, the limit height above which photosynthesis cannot occur, and <italic>h</italic><sub>2</sub>, the height above which growth is limited by the capacity of the meristematic regions themselves to grow at low water potential. These two heights represent different processes: <italic>h</italic><sub>1</sub> includes the factors that limit photosynthesis such as minimal turgor potential and possible xylem cavitation (i.e., source limitations), whereas <italic>h</italic><sub>2</sub> takes into account intrinsic meristem factors such as the physiological limits of cell division and growth limits such as cell wall extension when the water potential is too low (i.e., sink limitations).</p>
+      <p>While <italic>h</italic><sub>1</sub> (and, more generally, source processes) is often considered as the only limiting height to explain the maximal height of trees (e.g., Koch et al., <xref rid="B24" ref-type="bibr">2004</xref>), under some external conditions of light and temperature it could be that <italic>h</italic><sub>2</sub> (i.e., sink activity) becomes limiting (cf. Friend, <xref rid="B16" ref-type="bibr">1993</xref>). Although in this model, water potential is still the critical factor which limits the height of trees, the amount of light received and the temperature during the growth period also play roles that could produce one or other limit and influence its value. Hence, our approach could give a new and more complete understanding of the limits of tree height, and growth more generally, through a balanced consideration of both source and sink limitations.</p>
+      <p>Concerning the derivation of the results, we could have avoided assuming known allometric relationships for each stand and tried to estimate them as described in Section 2.3 (“Control mechanism of the tree"). Another way to estimate the allometric relationship on the second and third stand could be to estimate it close to the allometric relathionship of the first stand used for partial fitting. In that case we would still get good results with <italic>R</italic><sup>2</sup> around 0.8 − 0.9. The small difference of accuracy between this case and the previous one is mainly due to the model becoming more sensitive to measurement error when we estimate the allometric relationship, and also to the estimated allometric relationship being a constant as explained in Section 2.3, whereas the allometric relationship in reality changes with changes in tree density and therefore time. Lastly, our model for α<sub>2</sub> is probably too simple as we also explained in Section 2.3. Nevertheless, we can note that the accuracy of the results is still very good considering that we try here to predict the heights of three stands without knowing anything but the species, the CO<sub>2</sub> concentration, the temperature, the soil moisture, the PAR, the number of trees per ha, and the initial tree dimensions. This last point also underscores an additional motivation to build such a relatively simple model: collecting data about the external variables can be difficult. Therefore, data can be limiting and in order to be practical the model should stay as simple as it can relative to the required data, provided that it can still give accurate results.</p>
+      <p>As a first dynamic model for an individual tree using such considerations about control mechanism and the maximal meristem-sustained limited rate of growth, improvements could probably be made by introducing additional parameters, especially taking the roots into account explicitly, and improving the function of the red:far-red ratio. Nevertheless, the model already gives very good results while being relatively simple, allowing its wider use such as through allowing many trees to interact with each other via shading, water potential, etc., and obtaining a model for the whole forest. So far the partial fitting of the parameters within bounds of 20% takes less than 120 s on a desk-top computer, and computing height over 100 y less than 0.1 s, which suggests that its use as a growth simulator within a forest model could be achieved with today's computer resources.</p>
+      <p>Our model makes the interesting prediction that under standard conditions/parameterization, trees shift from being source- to sink-limited as they mature. This behavior is consistent with field and experimental evidence for a lack of stem growth response to elevated CO<sub>2</sub> in mature trees, despite increased photosynthesis (e.g., Körner, <xref rid="B26" ref-type="bibr">2005</xref>; van der Sleen et al., <xref rid="B47" ref-type="bibr">2014</xref>), whereas young fast growing trees show significant responses (e.g., Norby et al., <xref rid="B32" ref-type="bibr">1999</xref>). In our model, the cause of the change in growth limitation as trees grow appears to be a combination of the effect of the limiting height for meristem activity, <italic>h</italic><sub>2</sub>, and the dependency of the balance of photosynthesis and respiration on height.</p>
+      <p>The relative simplicity of the model and its extremely encouraging results should stimulate further use of similar differential models in the future. Starting from physiological considerations to derive differential equations and an individual tree model as a cornerstone for simulating a whole forest may considerably improve our understanding of forest behavior, including, but not limited to, the prediction of overall responses of forests to increasing CO<sub>2</sub> concentrations in order to address the future terrestrial carbon sink.</p>
+      <p>A number of other models have the potential to address the issues considered in this paper. For example, the L-PEACH FSPM (Allen et al., <xref rid="B1" ref-type="bibr">2005</xref>) contains a number of features that make it applicable to the source-sink debate, including carbohydrate storage dynamics, product inhibition of photosynthesis, a transport-resistance framework for sugar partitioning, a sink growth control from available carbon, a direct effect of water supply, and an intrinsic size limit. The pipe model constraint is used, making overall growth a strong function of leaf growth, which itself is determined by carbon supply. However, it is not clear the extent to which this model would predict either source- or sink-limitations under different environmental conditions and/or timescales. This would be a very interesting exercise. FSPMs are also relevant to the calculation of canopy red:far red ratios as they explicitly treat light interception throughout the canopy. In fact, some herbaceous crop models already compute the canopy red:far red ratio distribution and its influence on morphogenesis (e.g., Chelle et al., <xref rid="B9" ref-type="bibr">2007</xref>). Such approaches could be simplified for implementing dynamic red:far red ratio responses in our model.</p>
+      <p>To conclude, we have proposed a differential model for modeling tree growth over time under external conditions such as temperature, soil moisture, and CO<sub>2</sub> concentration. This model takes into account not only photosynthesis and the carbon balance but also meristem behavior and cellular growth limits. We established a procedure to parametrize the model with measurable quantities and reference measurements. This model seems not only to fit data very well but also to give accurate predictions for tree height and tree volume.</p>
+    </sec>
+    <sec id="s5">
+      <title>Author contributions</title>
+      <p>AH executed the study designed by AF with input from AH-P and TR. HP provided data for model evaluation. AH initially wrote the manuscript and all authors commented on and edited the manuscript.</p>
+    </sec>
+    <sec id="s6">
+      <title>Funding</title>
+      <p>AH wishes to thank the Cambridge Faculty of Mathematics for support via the PMP scheme.</p>
+      <sec>
+        <title>Conflict of interest statement</title>
+        <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>All authors thank those involved in the measurements of the plot data at the two experimental sites.</p>
+    </ack>
+    <fn-group>
+      <fn id="fn0001">
+        <p><sup>1</sup>Variation of α<sub>2</sub> could strongly increase the complexity of the equations as α is an exponent in our model.</p>
+      </fn>
+      <fn id="fn0002">
+        <p><sup>2</sup>The three last experimental points are likely to be decreasing because of the thinning.</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Allen</surname><given-names>M. T.</given-names></name><name><surname>Prusinkiewicz</surname><given-names>P.</given-names></name><name><surname>DeJong</surname><given-names>T. M.</given-names></name></person-group> (<year>2005</year>). <article-title>Using L-systems for modeling source-sink interactions, architecture and physiology of growing trees: the L-PEACH model</article-title>. <source>New Phytol.</source>
+<volume>166</volume>, <fpage>869</fpage>–<lpage>880</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-8137.2005.01348.x</pub-id><?supplied-pmid 15869648?><pub-id pub-id-type="pmid">15869648</pub-id></mixed-citation>
+      </ref>
+      <ref id="B2">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Aloni</surname><given-names>R.</given-names></name></person-group> (<year>1987</year>). <article-title>Differentiation of Vascular Tissues</article-title>. <source>Ann. Rev. Plant Physiol.</source>
+<volume>38</volume>, <fpage>179</fpage>–<lpage>204</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.pp.38.060187.001143</pub-id></mixed-citation>
+      </ref>
+      <ref id="B3">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Aloni</surname><given-names>R.</given-names></name></person-group> (<year>2015</year>). <article-title>Ecophysiological implications of vascular differentiation and plant evolution</article-title>. <source>Trees</source>
+<volume>29</volume>, <fpage>1</fpage>–<lpage>16</lpage>. <pub-id pub-id-type="doi">10.1007/s00468-014-1070-6</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Anav</surname><given-names>A.</given-names></name><name><surname>Friedlingstein</surname><given-names>P.</given-names></name><name><surname>Kidston</surname><given-names>M.</given-names></name><name><surname>Bopp</surname><given-names>L.</given-names></name><name><surname>Ciais</surname><given-names>P.</given-names></name><name><surname>Cox</surname><given-names>P.</given-names></name><etal/></person-group> (<year>2013</year>). <article-title>Evaluating the land and ocean components of the global carbon cycle in the CMIP5 earth system models</article-title>. <source>J. Clim.</source>
+<volume>26</volume>, <fpage>6801</fpage>–<lpage>6843</lpage>. <pub-id pub-id-type="doi">10.1175/JCLI-D-12-00417.1</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bonan</surname><given-names>G. B.</given-names></name></person-group> (<year>2008</year>). <article-title>Forests and climate change: forcings, feedbacks, and the climate benefits of forests</article-title>. <source>Science</source>
+<volume>320</volume>, <fpage>1444</fpage>–<lpage>1449</lpage>. <pub-id pub-id-type="doi">10.1126/science.1155121</pub-id><?supplied-pmid 18556546?><pub-id pub-id-type="pmid">18556546</pub-id></mixed-citation>
+      </ref>
+      <ref id="B6">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bossel</surname><given-names>H.</given-names></name></person-group> (<year>1991</year>). <article-title>Modelling forest dynamics: moving from description to explanation</article-title>. <source>For. Ecol. Manage.</source>
+<volume>42</volume>, <fpage>129</fpage>–<lpage>142</lpage>. <pub-id pub-id-type="doi">10.1016/0378-1127(91)90069-8</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brackmann</surname><given-names>K.</given-names></name><name><surname>Greb</surname><given-names>T.</given-names></name></person-group> (<year>2014</year>). <article-title>Long- and short-distance signaling in the regulation of lateral plant growth</article-title>. <source>Physiol. Plant.</source>
+<volume>151</volume>, <fpage>134</fpage>–<lpage>141</lpage>. <pub-id pub-id-type="doi">10.1111/ppl.12103</pub-id><?supplied-pmid 24053438?><pub-id pub-id-type="pmid">24053438</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Campioli</surname><given-names>M.</given-names></name><name><surname>Gielen</surname><given-names>B.</given-names></name><name><surname>Göckede</surname><given-names>M.</given-names></name><name><surname>Papale</surname><given-names>D.</given-names></name><name><surname>Bouriaud</surname><given-names>O.</given-names></name><name><surname>Granier</surname><given-names>A.</given-names></name></person-group> (<year>2011</year>). <article-title>Temporal variability of the NPP-GPP ratio at seasonal and interannual time scales in a temperate beech forest</article-title>. <source>Biogeosciences</source>
+<volume>8</volume>, <fpage>2481</fpage>–<lpage>2492</lpage>. <pub-id pub-id-type="doi">10.5194/bg-8-2481-2011</pub-id></mixed-citation>
+      </ref>
+      <ref id="B9">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chelle</surname><given-names>M.</given-names></name><name><surname>Evers</surname><given-names>J. B.</given-names></name><name><surname>Combes</surname><given-names>D.</given-names></name><name><surname>Varlet-Grancher</surname><given-names>C.</given-names></name><name><surname>Vos</surname><given-names>J.</given-names></name><name><surname>Andrieu</surname><given-names>B.</given-names></name></person-group> (<year>2007</year>). <article-title>Simulation of the three-dimensional distribution of the red: far-red ratio within crop canopies</article-title>. <source>New Phytol.</source>
+<volume>176</volume>, <fpage>223</fpage>–<lpage>234</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-8137.2007.02161.x</pub-id><?supplied-pmid 17803651?><pub-id pub-id-type="pmid">17803651</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cramer</surname><given-names>W.</given-names></name><name><surname>Bondeau</surname><given-names>A.</given-names></name><name><surname>Woodward</surname><given-names>F. I.</given-names></name><name><surname>Prentice</surname><given-names>I. C.</given-names></name><name><surname>Betts</surname><given-names>R. A.</given-names></name><name><surname>Brovkin</surname><given-names>V.</given-names></name><etal/></person-group> (<year>2001</year>). <article-title>Global response of terrestrial ecosystem structure and function to CO2 and climate change: results from six dynamic global vegetation models</article-title>. <source>Global Change Biol.</source>
+<volume>7</volume>, <fpage>357</fpage>–<lpage>373</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2486.2001.00383.x</pub-id></mixed-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Deleuze</surname><given-names>C.</given-names></name><name><surname>Houllier</surname><given-names>F.</given-names></name></person-group> (<year>1998</year>). <article-title>A simple process-based xylem growth model for describing wood microdensitometric profiles</article-title>. <source>J. Theor. Biol.</source>
+<volume>193</volume>, <fpage>99</fpage>–<lpage>113</lpage>. <pub-id pub-id-type="doi">10.1006/jtbi.1998.0689</pub-id></mixed-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dormand</surname><given-names>J.</given-names></name><name><surname>Prince</surname><given-names>P.</given-names></name></person-group> (<year>1980</year>). <article-title>A family of embedded Runge-Kutta formulae</article-title>. <source>J. Comput. Appl. Math.</source>
+<volume>6</volume>, <fpage>19</fpage>–<lpage>26</lpage>. <pub-id pub-id-type="doi">10.1016/0771-050X(80)90013-3</pub-id></mixed-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Du</surname><given-names>N.</given-names></name><name><surname>Fan</surname><given-names>J.</given-names></name><name><surname>Chen</surname><given-names>S.</given-names></name><name><surname>Liu</surname><given-names>Y.</given-names></name></person-group> (<year>2008</year>). <article-title>A hydraulic, Äìphotosynthetic model based on extended HLH and its application to Coast redwood (Sequoia sempervirens)</article-title>. <source>J. Theor. Biol.</source>
+<volume>253</volume>, <fpage>393</fpage>–<lpage>400</lpage>. <pub-id pub-id-type="doi">10.1016/j.jtbi.2008.03.016</pub-id><?supplied-pmid 18440559?><pub-id pub-id-type="pmid">18440559</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fatichi</surname><given-names>S.</given-names></name><name><surname>Leuzinger</surname><given-names>S.</given-names></name><name><surname>Körner</surname><given-names>C.</given-names></name></person-group> (<year>2014</year>). <article-title>Moving beyond photosynthesis: from carbon source to sink-driven vegetation modeling</article-title>. <source>New Phytol.</source>
+<volume>201</volume>, <fpage>1086</fpage>–<lpage>1095</lpage>. <pub-id pub-id-type="doi">10.1111/nph.12614</pub-id><?supplied-pmid 24261587?><pub-id pub-id-type="pmid">24261587</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Franklin</surname><given-names>K. A.</given-names></name></person-group> (<year>2008</year>). <article-title>Shade avoidance</article-title>. <source>New Phytol.</source>
+<volume>179</volume>, <fpage>930</fpage>–<lpage>944</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-8137.2008.02507.x</pub-id><?supplied-pmid 18537892?><pub-id pub-id-type="pmid">18537892</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Friend</surname><given-names>A. D.</given-names></name></person-group> (<year>1993</year>). <article-title>The prediction and physiological significance of tree height</article-title>, in <source>Vegetation Dynamics and Global Change</source>, eds <person-group person-group-type="editor"><name><surname>Solomon</surname><given-names>A. M.</given-names></name><name><surname>Shugart</surname><given-names>H. H.</given-names></name></person-group> (<publisher-name>Springer</publisher-name>), <fpage>101</fpage>–<lpage>115</lpage>. <pub-id pub-id-type="doi">10.1007/978-1-4615-2816-6_5</pub-id></mixed-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Friend</surname><given-names>A. D.</given-names></name><name><surname>Lucht</surname><given-names>W.</given-names></name><name><surname>Rademacher</surname><given-names>T. T.</given-names></name><name><surname>Keribin</surname><given-names>R.</given-names></name><name><surname>Betts</surname><given-names>R.</given-names></name><name><surname>Cadule</surname><given-names>P.</given-names></name><etal/></person-group>. (<year>2014</year>). <article-title>Carbon residence time dominates uncertainty in terrestrial vegetation responses to future climate and atmospheric CO<sub>2</sub></article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume>111</volume>, <fpage>3280</fpage>–<lpage>3285</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1222477110</pub-id><?supplied-pmid 24344265?><pub-id pub-id-type="pmid">24344265</pub-id></mixed-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Friend</surname><given-names>A. D.</given-names></name><name><surname>White</surname><given-names>A.</given-names></name></person-group> (<year>2000</year>). <article-title>Evaluation and analysis of a dynamic terrestrial ecosystem model under preindustrial conditions at the global scale</article-title>. <source>Global Biogeochem. Cycles</source>
+<volume>14</volume>, <fpage>1173</fpage>–<lpage>1190</lpage>. <pub-id pub-id-type="doi">10.1029/1999GB900085</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gea-Izquierdo</surname><given-names>G.</given-names></name><name><surname>Guibal</surname><given-names>F.</given-names></name><name><surname>Joffre</surname><given-names>R.</given-names></name><name><surname>Ourcival</surname><given-names>J. M.</given-names></name><name><surname>Simioni</surname><given-names>G.</given-names></name><name><surname>Guiot</surname><given-names>J.</given-names></name></person-group> (<year>2015</year>). <article-title>Modelling the climatic drivers determining photosynthesis and carbon allocation in evergreen Mediterranean forests using multiproxy long time series</article-title>. <source>Biogeosciences</source>
+<volume>12</volume>, <fpage>3695</fpage>–<lpage>3712</lpage>. <pub-id pub-id-type="doi">10.5194/bg-12-3695-2015</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Grossman</surname><given-names>Y. L.</given-names></name><name><surname>DeJong</surname><given-names>T. M.</given-names></name></person-group> (<year>1994</year>). <article-title>PEACH: a simulation model of reproductive and vegetative growth in peach trees</article-title>. <source>Tree Physiol.</source>
+<volume>14</volume>, <fpage>329</fpage>–<lpage>345</lpage>. <pub-id pub-id-type="doi">10.1093/treephys/14.4.329</pub-id><?supplied-pmid 14967690?><pub-id pub-id-type="pmid">14967690</pub-id></mixed-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Grote</surname><given-names>R.</given-names></name><name><surname>Pretzsch</surname><given-names>H.</given-names></name></person-group> (<year>2002</year>). <article-title>A model for individual tree development based on physiological processes</article-title>. <source>Plant Biol.</source>
+<volume>4</volume>, <fpage>167</fpage>–<lpage>180</lpage>. <pub-id pub-id-type="doi">10.1055/s-2002-25743</pub-id></mixed-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Holzwarth</surname><given-names>F.</given-names></name><name><surname>Kahl</surname><given-names>A.</given-names></name><name><surname>Bauhus</surname><given-names>J.</given-names></name><name><surname>Wirth</surname><given-names>C.</given-names></name></person-group> (<year>2013</year>). <article-title>Many ways to die - partitioning tree mortality dynamics in a near-natural mixed deciduous forest</article-title>. <source>J. Ecol.</source>
+<volume>101</volume>, <fpage>220</fpage>–<lpage>230</lpage>. <pub-id pub-id-type="doi">10.1111/1365-2745.12015</pub-id></mixed-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Hynynen</surname><given-names>J.</given-names></name></person-group> (ed.). (<year>2002</year>). <source>Models for Predicting Stand Development in MELA System</source>. Number 835 in Metsäntutkimuslaitoksen Tiedonantoja. <publisher-loc>Vantaa</publisher-loc>: <publisher-name>Vantaa Research Center</publisher-name>. OCLC: 248970310.</mixed-citation>
+      </ref>
+      <ref id="B24">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Koch</surname><given-names>G. W.</given-names></name><name><surname>Sillett</surname><given-names>S. C.</given-names></name><name><surname>Jennings</surname><given-names>G. M.</given-names></name><name><surname>Davis</surname><given-names>S. D.</given-names></name></person-group> (<year>2004</year>). <article-title>The limits to tree height</article-title>. <source>Nature</source>
+<volume>428</volume>, <fpage>851</fpage>–<lpage>854</lpage>. <pub-id pub-id-type="doi">10.1038/nature02417</pub-id><?supplied-pmid 15103376?><pub-id pub-id-type="pmid">15103376</pub-id></mixed-citation>
+      </ref>
+      <ref id="B25">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Körner</surname><given-names>C.</given-names></name></person-group> (<year>2003</year>). <article-title>Carbon limitation in trees</article-title>. <source>J. Ecol.</source>
+<volume>91</volume>, <fpage>4</fpage>–<lpage>17</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2745.2003.00742.x</pub-id></mixed-citation>
+      </ref>
+      <ref id="B26">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Körner</surname><given-names>C.</given-names></name></person-group> (<year>2005</year>). <article-title>Carbon flux and growth in mature deciduous forest trees exposed to elevated CO2</article-title>. <source>Science</source>
+<volume>309</volume>, <fpage>1360</fpage>–<lpage>1362</lpage>. <pub-id pub-id-type="doi">10.1126/science.1113977</pub-id><?supplied-pmid 16123297?><pub-id pub-id-type="pmid">16123297</pub-id></mixed-citation>
+      </ref>
+      <ref id="B27">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Landsberg</surname><given-names>J.</given-names></name><name><surname>Waring</surname><given-names>R.</given-names></name></person-group> (<year>1997</year>). <article-title>A generalised model of forest productivity using simplified concepts of radiation-use efficiency, carbon balance and partitioning</article-title>. <source>For. Ecol. Manage.</source>
+<volume>95</volume>, <fpage>209</fpage>–<lpage>228</lpage>. <pub-id pub-id-type="doi">10.1016/S0378-1127(97)00026-1</pub-id></mixed-citation>
+      </ref>
+      <ref id="B28">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Leuzinger</surname><given-names>S.</given-names></name><name><surname>Manusch</surname><given-names>C.</given-names></name><name><surname>Bugmann</surname><given-names>H.</given-names></name><name><surname>Wolf</surname><given-names>A.</given-names></name></person-group> (<year>2013</year>). <article-title>A sink-limited growth model improves biomass estimation along boreal and alpine tree lines</article-title>. <source>Global Ecol. Biogeogr.</source>
+<volume>22</volume>, <fpage>924</fpage>–<lpage>932</lpage>. <pub-id pub-id-type="doi">10.1111/geb.12047</pub-id></mixed-citation>
+      </ref>
+      <ref id="B29">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>J.</given-names></name><name><surname>Li</surname><given-names>G.</given-names></name><name><surname>Wang</surname><given-names>H.</given-names></name><name><surname>Wang Deng</surname><given-names>X.</given-names></name></person-group> (<year>2011</year>). <article-title>Phytochrome signaling mechanisms</article-title>. <source>Arabidopsis Book</source>
+<volume>9</volume>:<fpage>e0148</fpage>. <pub-id pub-id-type="doi">10.1199/tab.0148</pub-id><?supplied-pmid 22303272?><pub-id pub-id-type="pmid">22303272</pub-id></mixed-citation>
+      </ref>
+      <ref id="B30">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Morgan</surname><given-names>D. C.</given-names></name><name><surname>Smith</surname><given-names>H.</given-names></name></person-group> (<year>1976</year>). <article-title>Linear relationship between phytochrome photoequilibrium and growth in plants under simulated natural radiation</article-title>. <source>Nature</source>
+<volume>262</volume>, <fpage>210</fpage>–<lpage>212</lpage>. <pub-id pub-id-type="doi">10.1038/262210a0</pub-id></mixed-citation>
+      </ref>
+      <ref id="B31">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nagel</surname><given-names>T. A.</given-names></name><name><surname>Levanic</surname><given-names>T.</given-names></name><name><surname>Diaci</surname><given-names>J.</given-names></name></person-group> (<year>2007</year>). <article-title>A dendroecological reconstruction of disturbance in an old-growth Fagus-Abies forest in Slovenia</article-title>. <source>Ann. For. Sci.</source>
+<volume>64</volume>, <fpage>891</fpage>–<lpage>897</lpage>. <pub-id pub-id-type="doi">10.1051/forest:2007067</pub-id></mixed-citation>
+      </ref>
+      <ref id="B32">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Norby</surname><given-names>R. J.</given-names></name><name><surname>Wullschleger</surname><given-names>S. D.</given-names></name><name><surname>Gunderson</surname><given-names>C. A.</given-names></name><name><surname>Johnson</surname><given-names>D. W.</given-names></name><name><surname>Ceulemans</surname><given-names>R.</given-names></name></person-group> (<year>1999</year>). <article-title>Tree responses to rising CO<sub>2</sub> in field experiments: implications for the future forest</article-title>. <source>Plant Cell Environ.</source>
+<volume>22</volume>, <fpage>683</fpage>–<lpage>714</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-3040.1999.00391.x</pub-id></mixed-citation>
+      </ref>
+      <ref id="B33">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pacala</surname><given-names>S. W.</given-names></name><name><surname>Deutschman</surname><given-names>D. H.</given-names></name></person-group> (<year>1995</year>). <article-title>Details that matter: the spatial distribution of individual trees maintains forest ecosystem function</article-title>. <source>Oikos</source>
+<volume>74</volume>:<fpage>357</fpage>
+<pub-id pub-id-type="doi">10.2307/3545980</pub-id></mixed-citation>
+      </ref>
+      <ref id="B34">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Palacio</surname><given-names>S.</given-names></name><name><surname>Hoch</surname><given-names>G.</given-names></name><name><surname>Sala</surname><given-names>A.</given-names></name><name><surname>Körner</surname><given-names>C.</given-names></name><name><surname>Millard</surname><given-names>P.</given-names></name></person-group> (<year>2014</year>). <article-title>Does carbon storage limit tree growth?</article-title>
+<source>New Phytol.</source>
+<volume>201</volume>, <fpage>1096</fpage>–<lpage>1100</lpage>. <pub-id pub-id-type="doi">10.1111/nph.12602</pub-id><?supplied-pmid 24172023?><pub-id pub-id-type="pmid">24172023</pub-id></mixed-citation>
+      </ref>
+      <ref id="B35">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pan</surname><given-names>Y.</given-names></name><name><surname>Birdsey</surname><given-names>R. A.</given-names></name><name><surname>Fang</surname><given-names>J.</given-names></name><name><surname>Houghton</surname><given-names>R.</given-names></name><name><surname>Kauppi</surname><given-names>P. E.</given-names></name><name><surname>Kurz</surname><given-names>W. A.</given-names></name><etal/></person-group>. (<year>2011</year>). <article-title>A large and persistent carbon sink in the world's forests</article-title>. <source>Science</source>
+<volume>333</volume>, <fpage>988</fpage>–<lpage>993</lpage>. <pub-id pub-id-type="doi">10.1126/science.1201609</pub-id><?supplied-pmid 21764754?><pub-id pub-id-type="pmid">21764754</pub-id></mixed-citation>
+      </ref>
+      <ref id="B36">
+        <mixed-citation publication-type="thesis"><person-group person-group-type="author"><name><surname>Perttunun</surname><given-names>J.</given-names></name></person-group> (<year>2009</year>). <source>The LIGNUM Functional-Structural Tree Model</source>. Ph.D. thesis, Aalto University.</mixed-citation>
+      </ref>
+      <ref id="B37">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Precht</surname><given-names>H.</given-names></name><name><surname>Christophersen</surname><given-names>J.</given-names></name><name><surname>Hensel</surname><given-names>H.</given-names></name><name><surname>Larcher</surname><given-names>W.</given-names></name></person-group> (<year>1973</year>). <source>Temperature and Life</source>. <publisher-loc>New York; Heidelberg; Berlin</publisher-loc>: <publisher-name>Springer-Verlag</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="B38">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pretzsch</surname><given-names>H.</given-names></name><name><surname>Biber</surname><given-names>P.</given-names></name><name><surname>Schütze</surname><given-names>G.</given-names></name><name><surname>Uhl</surname><given-names>E.</given-names></name><name><surname>Rötzer</surname><given-names>T.</given-names></name></person-group> (<year>2014</year>). <article-title>Forest stand growth dynamics in Central Europe have accelerated since 1870</article-title>. <source>Nat. Commun.</source>
+<volume>5</volume>:<fpage>4967</fpage>. <pub-id pub-id-type="doi">10.1038/ncomms5967</pub-id><?supplied-pmid 25216297?><pub-id pub-id-type="pmid">25216297</pub-id></mixed-citation>
+      </ref>
+      <ref id="B39">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pretzsch</surname><given-names>H.</given-names></name><name><surname>Biber</surname><given-names>P.</given-names></name><name><surname>Ďursý</surname><given-names>J.</given-names></name></person-group> (<year>2002</year>). <article-title>The single tree-based stand simulator SILVA: construction, application and evaluation</article-title>. <source>For. Ecol. Manage.</source>
+<volume>162</volume>, <fpage>3</fpage>–<lpage>21</lpage>. <pub-id pub-id-type="doi">10.1016/S0378-1127(02)00047-6</pub-id></mixed-citation>
+      </ref>
+      <ref id="B40">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pretzsch</surname><given-names>H.</given-names></name><name><surname>Grote</surname><given-names>R.</given-names></name><name><surname>Reineking</surname><given-names>B.</given-names></name><name><surname>Rotzer</surname><given-names>T.</given-names></name><name><surname>Seifert</surname><given-names>S.</given-names></name></person-group> (<year>2007</year>). <article-title>Models for forest ecosystem management: a European perspective</article-title>. <source>Ann. Bot.</source>
+<volume>101</volume>, <fpage>1065</fpage>–<lpage>1087</lpage>. <pub-id pub-id-type="doi">10.1093/aob/mcm246</pub-id><?supplied-pmid 17954471?><pub-id pub-id-type="pmid">17954471</pub-id></mixed-citation>
+      </ref>
+      <ref id="B41">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Purves</surname><given-names>D. W.</given-names></name><name><surname>Lichstein</surname><given-names>J. W.</given-names></name><name><surname>Strigul</surname><given-names>N.</given-names></name><name><surname>Pacala</surname><given-names>S. W.</given-names></name></person-group> (<year>2008</year>). <article-title>Predicting and understanding forest dynamics using a simple tractable model</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume>105</volume>, <fpage>17018</fpage>–<lpage>17022</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0807754105</pub-id><?supplied-pmid 18971335?><pub-id pub-id-type="pmid">18971335</pub-id></mixed-citation>
+      </ref>
+      <ref id="B42">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Richardson</surname><given-names>A. D.</given-names></name><name><surname>Carbone</surname><given-names>M. S.</given-names></name><name><surname>Huggett</surname><given-names>B. A.</given-names></name><name><surname>Furze</surname><given-names>M. E.</given-names></name><name><surname>Czimczik</surname><given-names>C. I.</given-names></name><name><surname>Walker</surname><given-names>J. C.</given-names></name><etal/></person-group>. (<year>2015</year>). <article-title>Distribution and mixing of old and new nonstructural carbon in two temperate trees</article-title>. <source>New Phytol.</source>
+<volume>206</volume>, <fpage>590</fpage>–<lpage>597</lpage>. <pub-id pub-id-type="doi">10.1111/nph.13273</pub-id><?supplied-pmid 25558814?><pub-id pub-id-type="pmid">25558814</pub-id></mixed-citation>
+      </ref>
+      <ref id="B43">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ritchie</surname><given-names>G. A.</given-names></name></person-group> (<year>1997</year>). <article-title>Evidence for red:far red signaling and photomorphogenic growth response in Douglas-fir (Pseudotsuga menziesii) seedlings</article-title>. <source>Tree Physiol.</source>
+<volume>17</volume>, <fpage>161</fpage>–<lpage>168</lpage>. <pub-id pub-id-type="doi">10.1093/treephys/17.3.161</pub-id><?supplied-pmid 14759870?><pub-id pub-id-type="pmid">14759870</pub-id></mixed-citation>
+      </ref>
+      <ref id="B44">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schiestl-Aalto</surname><given-names>P.</given-names></name><name><surname>Kulmala</surname><given-names>L.</given-names></name><name><surname>Mäkinen</surname><given-names>H.</given-names></name><name><surname>Nikinmaa</surname><given-names>E.</given-names></name><name><surname>Mäkelä</surname><given-names>A.</given-names></name></person-group> (<year>2015</year>). <article-title>CASSIA - a dynamic model for predicting intra-annual sink demand and interannual growth variation in Scots pine</article-title>. <source>New Phytol.</source>
+<volume>206</volume>, <fpage>647</fpage>–<lpage>659</lpage>. <pub-id pub-id-type="doi">10.1111/nph.13275</pub-id><?supplied-pmid 25616175?><pub-id pub-id-type="pmid">25616175</pub-id></mixed-citation>
+      </ref>
+      <ref id="B45">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sprugel</surname><given-names>D.</given-names></name><name><surname>Hinckley</surname><given-names>T.</given-names></name><name><surname>Schaap</surname><given-names>W.</given-names></name></person-group> (<year>1991</year>). <article-title>The theory and practise of branch autonomy</article-title>. <source>Ann. Rev. Ecol. Systemat.</source>
+<volume>22</volume>, <fpage>309</fpage>–<lpage>334</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.es.22.110191.001521</pub-id></mixed-citation>
+      </ref>
+      <ref id="B46">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sterba</surname><given-names>H.</given-names></name><name><surname>Monserud</surname><given-names>R. A.</given-names></name></person-group> (<year>1997</year>). <article-title>Applicability of the forest stand growth simulator prognaus for the Austrian part of the Bohemian Massif</article-title>. <source>Ecol. Model.</source>
+<volume>98</volume>, <fpage>23</fpage>–<lpage>34</lpage>. <pub-id pub-id-type="doi">10.1016/S0304-3800(96)01934-5</pub-id></mixed-citation>
+      </ref>
+      <ref id="B47">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>van der Sleen</surname><given-names>P.</given-names></name><name><surname>Groenendijk</surname><given-names>P.</given-names></name><name><surname>Vlam</surname><given-names>M.</given-names></name><name><surname>Anten</surname><given-names>N. P. R.</given-names></name><name><surname>Boom</surname><given-names>A.</given-names></name><etal/></person-group> (<year>2014</year>). <article-title>No growth stimulation of tropical trees by 150 years of CO2 fertilization but water-use efficiency increased</article-title>. <source>Nat. Geosci.</source>
+<volume>8</volume>, <fpage>24</fpage>–<lpage>28</lpage>. <pub-id pub-id-type="doi">10.1038/ngeo2313</pub-id></mixed-citation>
+      </ref>
+      <ref id="B48">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wikström</surname><given-names>P.</given-names></name><name><surname>Edenius</surname><given-names>L.</given-names></name><name><surname>Elfving</surname><given-names>B.</given-names></name><name><surname>Eriksson</surname><given-names>L. O.</given-names></name><name><surname>Lämås</surname><given-names>T.</given-names></name><name><surname>Sonesson</surname><given-names>J.</given-names></name><etal/></person-group> (<year>2011</year>). <article-title>The heureka forestry decision support system: an overview. Mathematical and computational forestry &amp; natural-resource sciences (MCFNS)</article-title>. <source>Math. Comput. For. Nat. Resour. Sci.</source>
+<volume>3</volume>, <fpage>87</fpage>–<lpage>94</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B49">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zianis</surname><given-names>D.</given-names></name><name><surname>Mencuccini</surname><given-names>M.</given-names></name></person-group> (<year>2005</year>). <article-title>Aboveground net primary productivity of a beech (Fagus moesiaca) forest: a case study of Naousa forest, northern Greece</article-title>. <source>Tree Physiol.</source>
+<volume>25</volume>, <fpage>713</fpage>–<lpage>722</lpage>. <pub-id pub-id-type="doi">10.1093/treephys/25.6.713</pub-id><?supplied-pmid 15805091?><pub-id pub-id-type="pmid">15805091</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record>
