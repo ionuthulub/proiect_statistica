@@ -81,7 +81,6 @@ def get_author_views_and_publications(file_name):
     author_id = re.search('http://loop.frontiersin.org/people/(\d+)', text)
     if not author_id:
         return 0, 0
-    print author_id.group(1)
     text = requests.get('https://impact-api.frontiersin.org/v2/Authors({0})/ProfileOverview'.format(author_id.group(1))).text
     info = json.loads(text)
     total_views = info['totalViews']
