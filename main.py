@@ -1,11 +1,14 @@
 import codecs
+import json
 import os
+import re
 import shutil
 import subprocess
 import sys
 import tempfile
 
 import nltk
+import requests
 
 
 CLEAN_FILE_NAME = 'clean.txt'
@@ -72,6 +75,22 @@ def get_medical_terms_frequency(file_name):
         return 0
 
 
+def get_author_views_and_publications(file_name):
+    with codecs.open(file_name, 'r', encoding='utf-8') as fin:
+        text = fin.read()
+    author_id = re.search('http://loop.frontiersin.org/people/(\d+)', text)
+    if not author_id:
+        return 0, 0
+    print author_id.group(1)
+    text = requests.get('https://impact-api.frontiersin.org/v2/Authors({0})/ProfileOverview'.format(author_id.group(1))).text
+    info = json.loads(text)
+    total_views = info['totalViews']
+    text = requests.get('http://loop.frontiersin.org/api/v1/users/{0}/publications/totals'.format(author_id.group(1))).text
+    info = json.loads(text)
+    total_publications = info['Confirmed']
+    return total_views, total_publications
+
+
 def main():
     """Sample usage:
 
@@ -91,6 +110,9 @@ def main():
             os.path.join(dir_name, CLEAN_FILE_NAME)
         )
         print medical_terms_frequency
+        total_views, total_publications = get_author_views_and_publications(input_file_name)
+        print total_views
+        print total_publications
     finally:
         shutil.rmtree(dir_name)
 
