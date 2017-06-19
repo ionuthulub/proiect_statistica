@@ -114,11 +114,16 @@ def main():
         print total_views
         print total_publications
 
+        views_score = 0.15 * float(total_views) / 1000 if float(total_views / 1000) < 1 else 0.15
+        if views_score == 0:
+            views_score = 0.05
+        publications_score = 0.05 * float(total_publications) / 10 if float(total_publications / 10) < 1 else 0.05
+        if publications_score == 0:
+            publications_score = 0.02
+
         total = (0.5 * sentiment if sentiment > 0 else 0.25) + \
-                (0.05 if 20 <= average_words_per_sentence <= 30 else 0) + \
-                (0.25 * medical_terms_frequency) + \
-                (0.15 * float(total_views) / 1000 if float(total_views / 1000) < 1 else 0.15) + \
-                (0.05 * float(total_publications) / 10 if float(total_publications / 10) < 1 else 0.05)
+                (0.05 if 10 <= average_words_per_sentence <= 20 else 0) + \
+                (0.25 * medical_terms_frequency) + views_score + publications_score
         print total
     finally:
         shutil.rmtree(dir_name)
