@@ -1,0 +1,1461 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5360108</identifier><datestamp>2017-04-04</datestamp><setSpec>frontsysneuro</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Syst Neurosci</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Syst Neurosci</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Syst. Neurosci.</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Systems Neuroscience</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1662-5137</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5360108</article-id>
+      <article-id pub-id-type="pmcid">PMC5360108</article-id>
+      <article-id pub-id-type="pmc-uid">5360108</article-id>
+      <article-id pub-id-type="doi">10.3389/fnsys.2017.00014</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Neuroscience</subject>
+          <subj-group>
+            <subject>Original Research</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Breaking the Excitation-Inhibition Balance Makes the Cortical Network's Space-Time Dynamics Distinguish Simple Visual Scenes</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Roland</surname>
+            <given-names>Per E.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn001">
+            <sup>*</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/5375/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bonde</surname>
+            <given-names>Lars H.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/351635/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Forsberg</surname>
+            <given-names>Lars E.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Harvey</surname>
+            <given-names>Michael A.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <sup>1</sup>
+        <institution>Faculty of Health Sciences, Center for Neuroscience, University of Copenhagen</institution>
+        <country>Copenhagen, Denmark</country>
+      </aff>
+      <aff id="aff2">
+        <sup>2</sup>
+        <institution>Department of Physiology, University of Fribourg</institution>
+        <country>Fribourg, Switzerland</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <p>Edited by: Gilad Silberberg, Karolinska Institutet, Sweden</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Reviewed by: Dirk Jancke, Ruhr University Bochum, Germany; Paolo Medini, Umeå University, Sweden</p>
+        </fn>
+        <corresp id="fn001">*Correspondence: Per E. Roland <email xlink:type="simple">mgt875@ku.dk</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>20</day>
+        <month>3</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2017</year>
+      </pub-date>
+      <volume>11</volume>
+      <elocation-id>14</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>02</day>
+          <month>11</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>03</day>
+          <month>3</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2017 Roland, Bonde, Forsberg and Harvey.</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <copyright-holder>Roland, Bonde, Forsberg and Harvey</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Brain dynamics are often taken to be temporal dynamics of spiking and membrane potentials in a balanced network. Almost all evidence for a balanced network comes from recordings of cell bodies of few single neurons, neglecting more than 99% of the cortical network. We examined the space-time dynamics of excitation and inhibition simultaneously in dendrites and axons over four visual areas of ferrets exposed to visual scenes with stationary and moving objects. The visual stimuli broke the tight balance between excitation and inhibition such that the network exhibited longer episodes of net excitation subsequently balanced by net inhibition, in contrast to a balanced network. Locally in all four areas the amount of net inhibition matched the amount of net excitation with a delay of 125 ms. The space-time dynamics of excitation-inhibition evolved to reduce the complexity of neuron interactions over the whole network to a flow on a low-(3)-dimensional manifold within 80 ms. In contrast to the pure temporal dynamics, the low dimensional flow evolved to distinguish the simple visual scenes.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>cerebral cortex</kwd>
+        <kwd>mechanics of vision</kwd>
+        <kwd>dynamical systems</kwd>
+        <kwd>balanced network</kwd>
+        <kwd>inhibition</kwd>
+        <kwd>voltage sensitive dye</kwd>
+      </kwd-group>
+      <counts>
+        <fig-count count="8"/>
+        <table-count count="0"/>
+        <equation-count count="6"/>
+        <ref-count count="64"/>
+        <page-count count="19"/>
+        <word-count count="14963"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="s1">
+      <title>Introduction</title>
+      <p>How do neurons in the brain collaborate to produce visual perception? This question has no satisfactory answer yet. The idea of neuron coding in vision builds on the notion that the temporal sequence of spikes from single neurons or a population of neurons is sufficient to distinguish different visual objects or scenes (Barlow, <xref rid="B5" ref-type="bibr">1961</xref>; Gross et al., <xref rid="B24" ref-type="bibr">1972</xref>; Richmond and Optican, <xref rid="B51" ref-type="bibr">1990</xref>). The spike trains are analyzed statistically or analyzed for their information content to find a match or correlation with the present scene or object. An alternative to these objectives is to use a dynamical systems approach and examine the evolution of the spiking in (abstract) state space. Forsberg et al. (<xref rid="B22" ref-type="bibr">2016</xref>) used both approaches, i.e., examined the temporal dynamics of spiking populations of neurons in the primary visual cortex in state space and examined the spike rates in single trials from the same population. Although both the temporal spike rate changes and the temporal spiking dynamics in state space reported whether a sharp or a smooth visual transient changed the visual scene, neither could differentiate simple visual scenes on a single trial basis. When one examines temporal structures of spike trains or membrane currents for information about a current visual scene and when one analyzes the temporal aspects of these variables in state space, one neglects what goes on in the remaining network, and one neglects the possibility that combinations of temporal and spatial evolution of spiking or membrane potential changes might be more efficient in distinguishing visual scenes.</p>
+      <p>Therefore, we examined the space-time dynamics of the membrane potential changes of the visual areas 17, 18, 19, and 21 of the ferrets used by Forsberg et al. (<xref rid="B22" ref-type="bibr">2016</xref>). By space-time dynamics, we mean the progression of membrane current changes in the topological space made up of the cortical network of neurons. The cortical network of neurons is formed by the synaptic connected neurons having their cell bodies in the cerebral cortex. The evolutions of the membrane potentials over the four visual areas are described as trajectories and vectors in (mathematical abstract) state space. We found that within 50–90 ms after exposure to the visual scenes, the space-time dynamics reduced to a 3-dimensional state space where the trajectories of the membrane potential changes caused by the individual scenes clearly separated. These diverging flows on a low dimensional manifold show that the connectivity and spiking dynamics in the visual cortical network swiftly constrain the patterns of membrane potential changes to simple low dimensional solutions unique for each of the scenes. Although this succinctly describes the space-time interactions of the membrane potential changes in mathematical terms, it does not provide a biophysical explanation of the mechanisms.</p>
+      <p>The visual scenes were very simple, composed of one stationary or moving bar. Creutzfeldt et al. (<xref rid="B13" ref-type="bibr">1974</xref>) showed that a moving bar first depolarized and then hyperpolarized the neurons in the primary visual cortex of the cat. Currently there seems to be a consensus that neurons in the primary visual cortex of carnivores and primates have a balance between excitation and inhibition during visual stimulation (Destexhe and Pare, <xref rid="B17" ref-type="bibr">1999</xref>; Anderson et al., <xref rid="B2" ref-type="bibr">2000</xref>; Monier et al., <xref rid="B40" ref-type="bibr">2003</xref>, <xref rid="B41" ref-type="bibr">2008</xref>; Priebe and Ferster, <xref rid="B47" ref-type="bibr">2005</xref>; Haider et al., <xref rid="B25" ref-type="bibr">2006</xref>; Rudolph et al., <xref rid="B57" ref-type="bibr">2007</xref>; Tan et al., <xref rid="B60" ref-type="bibr">2011</xref>; Xue et al., <xref rid="B64" ref-type="bibr">2014</xref>; Dehghani et al., <xref rid="B15" ref-type="bibr">2016</xref>). The terms excitation and inhibition are used in several ways. In this context, balance between excitation and inhibition in the cortical network means that the excitatory membrane currents = inhibitory membrane currents (van Vreeswijk and Sompolinsky, <xref rid="B62" ref-type="bibr">1996</xref>). Alternatively the balance has been interpreted as balanced ratio between excitatory and inhibitory membrane conductances (Denéve and Machens, <xref rid="B16" ref-type="bibr">2016</xref> for a recent review). It does not matter too much which of these definitions of balance one adheres to, the point is that the balance is not instantaneous. If it were, there would be no excitatory spiking of the neurons. The membrane potential, however, cannot show the balance between excitatory and inhibitory membrane currents, because the membrane potential can be high during large inhibitory currents and conductances and currents can change markedly without affecting the membrane potential too much (Anderson et al., <xref rid="B2" ref-type="bibr">2000</xref>; Monier et al., <xref rid="B40" ref-type="bibr">2003</xref>, <xref rid="B41" ref-type="bibr">2008</xref>; Priebe and Ferster, <xref rid="B47" ref-type="bibr">2005</xref>; Haider et al., <xref rid="B25" ref-type="bibr">2006</xref>; Rudolph et al., <xref rid="B57" ref-type="bibr">2007</xref>; Okun and Lampl, <xref rid="B43" ref-type="bibr">2008</xref>; Tan et al., <xref rid="B60" ref-type="bibr">2011</xref>; Xue et al., <xref rid="B64" ref-type="bibr">2014</xref>). The finding of Creutzfeldt et al. (<xref rid="B13" ref-type="bibr">1974</xref>) is still valid, although it does not say anything about the instantaneous balance between excitation and inhibition. The time derivative of the membrane potential reports this balance, because it equals the sum of the ionic currents through the membrane divided by the specific capacitance (the specific capacitance is regarded constant) (Equation 2, Methods). If the inhibition first increases after a delay, there would be a chance that excitation can spread through the cortical network. The question is how big this delay is.</p>
+      <p><italic>In vivo</italic> patch clamp recordings of individual neurons in primary visual cortex have generally shown two types of responses. The excitatory conductance increased while the inhibitory conductance decreased or did not change initially, but thereafter increased with a delay of some 100–400 ms. For other stimuli and for other neurons, the excitatory and inhibitory conductances increased almost simultaneously; or the inhibitory conductances lagged the excitatory conductances with a small 10–20 ms delay (Anderson et al., <xref rid="B2" ref-type="bibr">2000</xref>; Monier et al., <xref rid="B40" ref-type="bibr">2003</xref>, <xref rid="B41" ref-type="bibr">2008</xref>; Priebe and Ferster, <xref rid="B47" ref-type="bibr">2005</xref>; Haider et al., <xref rid="B25" ref-type="bibr">2006</xref>; Rudolph et al., <xref rid="B57" ref-type="bibr">2007</xref>; Okun and Lampl, <xref rid="B43" ref-type="bibr">2008</xref>; Tan et al., <xref rid="B60" ref-type="bibr">2011</xref>; Xue et al., <xref rid="B64" ref-type="bibr">2014</xref>). In these studies, the excitatory (inward) currents and inhibitory (outward) currents were measured in the cell bodies of only a limited number of neurons (typically 25–40). As cell body membranes only make up an estimated 2% of the total membrane surface of cortical neurons (Fiala and Harris, <xref rid="B21" ref-type="bibr">1999</xref>), such measurements say little about the balance of excitatory and inhibitory currents in the dendrites and axon terminals of the measured neurons (Williams and Mitchell, <xref rid="B63" ref-type="bibr">2008</xref>).</p>
+      <p>In this report, we take a network approach and examine the space-time dynamics of the membrane potential changes with a voltage sensitive dye (VSD) (Cohen et al., <xref rid="B12" ref-type="bibr">1974</xref>) simultaneously in areas 17, 18, 19, 21. The cortical surface exposed for measurement was 12 mm<sup>2</sup> (assuming 70,000 neurons/mm<sup>3</sup> and that 50% of these contribute fluorescence to the VSD signal, VSD(t), the estimate of the number of neurons measured would be around 400,000). Voltage sensitive dyes reliably report changes in membrane potential of neurons (Cohen et al., <xref rid="B12" ref-type="bibr">1974</xref>). The voltage sensitive dye signal, VSD(t), reports relative increases and decreases of population membrane potential compared to baseline at the network scale and without any bias toward spiking probabilities, receptive fields and stimulus feature preferences (Berger et al., <xref rid="B8" ref-type="bibr">2007</xref>). Under the assumption that the membranes in a small volume of the cortical network from where the fluorescence originates can be regarded as one compartment, the dVSD(t)/dt of that compartment is the sum of the membrane currents multiplied by a constant (Eriksson et al., <xref rid="B18" ref-type="bibr">2008</xref>) (Equation 3, Methods). The dVSD(t)/dt thus reports the instantaneous balance between excitatory currents and inhibitory currents in the network (Methods). If the balance changes toward net inhibition (no matter whether this is due to reduced excitatory currents or increased inhibitory currents) the dVSD(t)/dt significantly decreases below baseline fluctuations. Thus, we label significant decreases of the dVSD(t)/dt as net inhibition, NINH, and significant increases as net excitations, NEX.</p>
+      <p>The dVSD(t)/dt has been used to measure excitation-inhibition balance in the cortex (Eriksson et al., <xref rid="B18" ref-type="bibr">2008</xref>; Harvey et al., <xref rid="B28" ref-type="bibr">2009</xref>; Onat et al., <xref rid="B44" ref-type="bibr">2011a</xref>; Harvey and Roland, <xref rid="B27" ref-type="bibr">2013</xref>). Onat et al. (<xref rid="B44" ref-type="bibr">2011a</xref>) showed that the balance between excitation and inhibition in response to a drifting grating, at 100 ms goes into NINH and then switches to NEX. This and the other dVSD(t)/dt studies showed the temporal characteristics of the excitation- inhibition balance at one location or averaged from all locations. However, to our knowledge, the space-time evolution of inhibition and the balance between excitation and inhibition has not been explored.</p>
+      <p>NEX and NINH evolved with similar space-time dynamics in all four visual areas and distinguished the visual scenes. The visual stimuli disrupted the tight balance between excitation and inhibition and drove the network into a regime tolerating large amplitude NEX and NINHs. However, at each cortical spot in the four visual areas, the amount of integrated NEX and NINH were strongly correlated, showing that net-excitation after longer delays became balanced with net-inhibition overall in the exposed part of the cortical network.</p>
+    </sec>
+    <sec sec-type="materials and methods" id="s2">
+      <title>Materials and methods</title>
+      <sec>
+        <title>Animals</title>
+        <p>The voltage sensitive signals VSDi(t) were measured in 8 female adult ferrets. These animals also participated in the study of Harvey and Roland (<xref rid="B27" ref-type="bibr">2013</xref>) but none of the results presented in this study have been presented in Harvey and Roland (<xref rid="B27" ref-type="bibr">2013</xref>) or elsewhere. Laminar action potentials were measured at the border between areas 17/18 in 10 adult female ferrets of which 6 also had their VSD<sub>i</sub>(t) measured. The Regional Ethics Committee of Stockholm had approved all procedures. The ferrets were anesthetized and artificially ventilated with 1% isofluran mixed with N<sub>2</sub>O:O<sub>2</sub>, 1:1 and paralyzed with pancuronium bromide throughout the experiments. A left-sided craniotomy with a chamber affixed to the skull exposed cortical areas 17, 18, 19 and 21. The end-expiratory partial pressure of CO<sub>2</sub>, pCO2, was maintained between 3.5 and 4.5 KPa.</p>
+      </sec>
+      <sec>
+        <title>Stimuli</title>
+        <p>In all animals, known cortical landmarks were used to guide a single electrode penetration at the estimated crossing of the vertical and horizontal meridian in areas 17/18. The receptive field (RF) at this area was then mapped using an m-sequence method (Reid et al., <xref rid="B50" ref-type="bibr">1997</xref>). The monitor position was then adjusted to be precisely centered to this RF location.</p>
+        <p>Stimuli were presented in a pseudorandom order on a video monitor with a refresh rate of 144 Hz located 57 cm in front of the animal (Cambridge Research Systems, Kent UK). Stimuli consisted of 1° × 2° horizontal bars (64.5 cd m<sup>−2</sup>) on a homogenous gray background (7.2 cd m<sup>−2</sup>). There were six conditions: (1) A bar moving downwards from the center of field of view (CFOV) with a velocity of 25.4° s<sup>−1</sup> for 413 ms along the vertical meridian. (2) A bar moving upward from the CFOV with a velocity of 25.4° s<sup>−1</sup> for 413 ms along the vertical meridian. (3) Upward and (4) downward moving bars initially flashed 10.5° below and 10.5° above the center of field of view (CFOV) respectively and moving a total of 21° with a velocity of 25.4° s<sup>−1</sup> along the vertical meridian for a period of 825 ms with start and end points equidistant from the screens center. (5) A single stationary bar was presented at the CFOV for 250 ms. In addition (6) a no-stimulus condition was included, consisting of a homogenous gray screen (7.2 cd m<sup>−2</sup>) presented continuously in between the stimulus conditions. Each of these six conditions was repeated 50 times.</p>
+      </sec>
+      <sec>
+        <title>Voltage sensitive dye measurements</title>
+        <p>The procedures were described in detail recently (Harvey and Roland, <xref rid="B27" ref-type="bibr">2013</xref>).</p>
+        <p>The cortex was stained for 2 h with the voltage sensitive dye RH1838 (0.53 mg ml<sup>−1</sup>; <italic>n</italic> = 3) or RH1691 (0.53 mg ml<sup>−1</sup>; <italic>n</italic> = 5) (Optical Imaging, Rehovot, Israel). Imaging was centered on the initial recording site and acquired using a 464-channel photodiode array, (H469-IV WuTech Instruments Gaithersburg, MD) Images of the voltage sensitive dye signal were acquired at a rate of 1.6 kHz, stimulus presentation was synchronized to the electrocardiogram, and respiration stopped during stimulus presentation. The voltage sensitive dye signal, VSD(t), in most animals (<italic>n</italic> = 7) covered both the representations of the CFOV at the 17/18 border and the CFOV representation at 19/21 border.</p>
+      </sec>
+      <sec>
+        <title>Laminar electrophysiology</title>
+        <sec>
+          <title>A: ferrets having the VSD(t) measured</title>
+          <p>The multiunit activity was recorded with single shank, 16 channel, laminar probes (NeuroNexus, Ann Arbor, MI) with recording site resistances of 2–3 MΩ, and leads separated by 100 μm. The signal was digitally band pass filtered between100 Hz and 10 KHz. At each recording site, receptive fields were first mapped using the methodology noted above. For electrode penetrations in cortex mapping the CFOV, the receptive fields in the granular layer were less than 3°.</p>
+        </sec>
+        <sec>
+          <title>Current source density</title>
+          <p>We estimated current source densities from the second spatial derivative of the local field potentials in filtered (0.5–600 Hz) original data files (Rappelsberger et al., <xref rid="B49" ref-type="bibr">1981</xref>). The data files were averaged over 50 trials for each lead either from a single stationary bar or from whole screen flashes of 1 Hz. Layer 4 was estimated to start where the early sink appeared (the sink being at the upper part of layer 4), the supragranular and infragranular layers above respective below layer 4 (Harvey et al., <xref rid="B28" ref-type="bibr">2009</xref>).</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>Data analysis voltage sensitive dye</title>
+        <p>The voltage sensitive dye signals were analyzed up to 800 ms after the start of the stimulus. The details of the analysis have been described elsewhere (Roland et al., <xref rid="B55" ref-type="bibr">2006</xref>; Eriksson et al., <xref rid="B18" ref-type="bibr">2008</xref>; Harvey and Roland, <xref rid="B27" ref-type="bibr">2013</xref>). The signal in the blank (background alone) condition was subtracted from the signal of the stimulus conditions and divided by the background fluorescence to yield the fractional fluorescence (ΔF/F<sub>0</sub>) referred to here as VSD<sub>i</sub>(t). Usually the VSD<sub>i</sub>(t) of 8–12 trials were averaged to give one time-series VSD(t).</p>
+        <sec>
+          <title>Cytoarchitectonics</title>
+          <p>Six of the eight ferrets had their cytoarchitectural borders determined between areas 17 and 18, 18 and 19 and 19 and 21. Their brains were sectioned, stained and the cytoarchitectural borders determined. The sections were reconstructed to a volume and the borders overlaid the hexagonal map of the VSD(t) (<bold>Figure 4</bold>) as described in detail in Harvey and Roland (<xref rid="B27" ref-type="bibr">2013</xref>). The individual VSD(t) with the cytoarchitectural borders were aligned as described in detail in Harvey et al. (<xref rid="B28" ref-type="bibr">2009</xref>), to produce the average cytoarchitectural borders in Figures <xref ref-type="fig" rid="F1">1</xref>, <bold>3</bold>, <bold>4</bold> and Movies <xref ref-type="supplementary-material" rid="SM1">1</xref>–<xref ref-type="supplementary-material" rid="SM7">7</xref>.</p>
+          <fig id="F1" position="float">
+            <label>Figure 1</label>
+            <caption>
+              <p><bold>Original averaged data from the cortex at the red retinotopic zone for the CFOV. (A)</bold> Relation between dVSD(t)/dt (peak value 4.2 10<sup>−5</sup>) in upper layers (red curve) and supragranular MUA spiking rate (peak value 41 Hz) from cortex mapping the CFOV; (Animal 4, penetration 6). <bold>(B)</bold> The contour plots are identical snapshots of the mean VSD(t) of 6 animals at absolute maximum (103 ms, stationary bar stimulus) to show the red sampling area mapping the CFOV from where the temporal course of the mean VSD (t) and mean dVSD(t)/dt were sampled. The red arrow (left) marks the location where the mapping of the bar started for the 3 stimuli initially presented at CFOV. The 2 arrows (right) mark where the mappings of the bars moving from the peripheral FOV started. Stimulus start 0 ms. The stationary square displayed for 250 ms had an OFF response, moving bars did not. Mean ± standard error of mean (SEM) shown (<italic>n</italic> = 7 animals) for respective stimulus (top). Bars starting in the C-zone evoked sharp net excitatory transients followed by net inhibitions, shown in the dVSD(t)/dt plots; whereas the bars moving toward the CFOV evoked early and late net excitations (blue arrows), which after the bar had been mapped at cortex representing the CFOV (after 450 ms) was followed by net inhibition.</p>
+            </caption>
+            <graphic xlink:href="fnsys-11-00014-g0001"/>
+          </fig>
+        </sec>
+        <sec>
+          <title>State space analysis of dVSD(t) trajectory differences in the time domain</title>
+          <p>In each animal, the 4 photodiode channels sampling from the cortex mapping the CFOV, were chosen. The mean of dVSD(t)/dt from these 4 channels in one animal is a time vector for one stimulus condition. A principal component analysis, PCA, was then performed on the data matrix for the 2 stimulus conditions to be compared in state space for all 8 animals. The first 3 components accounted for 88–97% of the total variance. For each condition and animal, the first three principal components were used as regressors against the time vector of the condition to obtain a beta-estimate for each principal component, showing how well it describes the condition. The polynomial of principal components times the beta-estimates was then calculated to show how a particular condition is described by all three principal components. The difference between two conditions' polynomials within an animal was further calculated to describe how the two conditions differ in the same 3-dimensional state space as a function of time. Features in the time series of the conditions that are not part of the common 3-dimensional state space are thus effectively removed and thereby not compared between conditions. Across animals, a statistical <italic>t</italic>-test was used to test if the null-hypothesis “no difference between conditions” in any given time point could be rejected in the given state space. False Discovery Rate was finally used to correct for multiple comparisons over time (FDR at 0.05).</p>
+        </sec>
+        <sec>
+          <title>Net excitation and net inhibition</title>
+          <p>Experimentally the change in the VSD(t) is proportional to the change in the average membrane potential Vm(t) of a small population of neurons (Petersen et al., <xref rid="B46" ref-type="bibr">2003</xref>; Ferezou et al., <xref rid="B20" ref-type="bibr">2006</xref>). Thus:</p>
+          <disp-formula id="E1">
+            <label>(1)</label>
+            <mml:math id="M1">
+              <mml:mrow>
+                <mml:mtext>dVSD</mml:mtext>
+                <mml:mo stretchy="false">(</mml:mo>
+                <mml:mtext>t</mml:mtext>
+                <mml:mo stretchy="false">)</mml:mo>
+                <mml:mo>/</mml:mo>
+                <mml:mtext>dt </mml:mtext>
+                <mml:mo>≈</mml:mo>
+                <mml:mtext>k </mml:mtext>
+                <mml:msub>
+                  <mml:mrow>
+                    <mml:mtext>dV</mml:mtext>
+                  </mml:mrow>
+                  <mml:mtext>m</mml:mtext>
+                </mml:msub>
+                <mml:mo stretchy="false">(</mml:mo>
+                <mml:mtext>t</mml:mtext>
+                <mml:mo stretchy="false">)</mml:mo>
+                <mml:mo>/</mml:mo>
+                <mml:mtext>dt</mml:mtext>
+              </mml:mrow>
+            </mml:math>
+          </disp-formula>
+          <p>The change in the membrane potential is the sum of the ionic currents divided by the specific capacitance:</p>
+          <disp-formula id="E2">
+            <label>(2)</label>
+            <mml:math id="M2">
+              <mml:mtable columnalign="left">
+                <mml:mtr>
+                  <mml:mtd>
+                    <mml:msub>
+                      <mml:mtext>dV</mml:mtext>
+                      <mml:mtext>m</mml:mtext>
+                    </mml:msub>
+                    <mml:mo stretchy="false">(</mml:mo>
+                    <mml:mtext>t</mml:mtext>
+                    <mml:mo stretchy="false">)</mml:mo>
+                    <mml:mo>/</mml:mo>
+                    <mml:mtext>dt</mml:mtext>
+                    <mml:mo>=</mml:mo>
+                    <mml:mo>−</mml:mo>
+                    <mml:mn>1</mml:mn>
+                    <mml:mo>/</mml:mo>
+                    <mml:msub>
+                      <mml:mtext>C</mml:mtext>
+                      <mml:mrow>
+                        <mml:mtext>m</mml:mtext>
+                      </mml:mrow>
+                    </mml:msub>
+                    <mml:mtext> </mml:mtext>
+                    <mml:mo stretchy="false">[</mml:mo>
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:msub>
+                          <mml:mtext>g</mml:mtext>
+                          <mml:mrow>
+                            <mml:mtext>Na</mml:mtext>
+                          </mml:mrow>
+                        </mml:msub>
+                      </mml:mrow>
+                      <mml:mo>+</mml:mo>
+                    </mml:msup>
+                    <mml:mo stretchy="false">(</mml:mo>
+                    <mml:msub>
+                      <mml:mtext>V</mml:mtext>
+                      <mml:mtext>m</mml:mtext>
+                    </mml:msub>
+                    <mml:mo stretchy="false">(</mml:mo>
+                    <mml:mtext>t</mml:mtext>
+                    <mml:mo stretchy="false">)</mml:mo>
+                    <mml:mo>−</mml:mo>
+                    <mml:msub>
+                      <mml:mtext>E</mml:mtext>
+                      <mml:mrow>
+                        <mml:msup>
+                          <mml:mtext>Na</mml:mtext>
+                          <mml:mo>+</mml:mo>
+                        </mml:msup>
+                      </mml:mrow>
+                    </mml:msub>
+                    <mml:mo stretchy="false">)</mml:mo>
+                    <mml:mo>+</mml:mo>
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:msub>
+                          <mml:mtext>g</mml:mtext>
+                          <mml:mrow>
+                            <mml:mtext>Ca</mml:mtext>
+                          </mml:mrow>
+                        </mml:msub>
+                      </mml:mrow>
+                      <mml:mrow>
+                        <mml:mn>2</mml:mn>
+                        <mml:mo>+</mml:mo>
+                      </mml:mrow>
+                    </mml:msup>
+                    <mml:mo stretchy="false">(</mml:mo>
+                    <mml:msub>
+                      <mml:mtext>V</mml:mtext>
+                      <mml:mtext>m</mml:mtext>
+                    </mml:msub>
+                    <mml:mo stretchy="false">(</mml:mo>
+                    <mml:mtext>t</mml:mtext>
+                    <mml:mo stretchy="false">)</mml:mo>
+                    <mml:mo>−</mml:mo>
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:msub>
+                          <mml:mtext>E</mml:mtext>
+                          <mml:mrow>
+                            <mml:mtext>Ca</mml:mtext>
+                          </mml:mrow>
+                        </mml:msub>
+                      </mml:mrow>
+                      <mml:mrow>
+                        <mml:mn>2</mml:mn>
+                        <mml:mo>+</mml:mo>
+                      </mml:mrow>
+                    </mml:msup>
+                    <mml:mo stretchy="false">)</mml:mo>
+                  </mml:mtd>
+                </mml:mtr>
+                <mml:mtr>
+                  <mml:mtd>
+                    <mml:mtext>                          </mml:mtext>
+                    <mml:mo>+</mml:mo>
+                    <mml:mtext> </mml:mtext>
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:msub>
+                          <mml:mtext>g</mml:mtext>
+                          <mml:mrow>
+                            <mml:mtext>Cl</mml:mtext>
+                          </mml:mrow>
+                        </mml:msub>
+                      </mml:mrow>
+                      <mml:mo>−</mml:mo>
+                    </mml:msup>
+                    <mml:mo stretchy="false">(</mml:mo>
+                    <mml:msub>
+                      <mml:mtext>V</mml:mtext>
+                      <mml:mtext>m</mml:mtext>
+                    </mml:msub>
+                    <mml:mo stretchy="false">(</mml:mo>
+                    <mml:mtext>t</mml:mtext>
+                    <mml:mo stretchy="false">)</mml:mo>
+                    <mml:mo>−</mml:mo>
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:msub>
+                          <mml:mtext>E</mml:mtext>
+                          <mml:mrow>
+                            <mml:mtext>Cl</mml:mtext>
+                          </mml:mrow>
+                        </mml:msub>
+                      </mml:mrow>
+                      <mml:mo>−</mml:mo>
+                    </mml:msup>
+                    <mml:mo stretchy="false">)</mml:mo>
+                    <mml:mo>+</mml:mo>
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:msub>
+                          <mml:mtext>g</mml:mtext>
+                          <mml:mtext>K</mml:mtext>
+                        </mml:msub>
+                      </mml:mrow>
+                      <mml:mo>+</mml:mo>
+                    </mml:msup>
+                    <mml:mo stretchy="false">(</mml:mo>
+                    <mml:msub>
+                      <mml:mtext>V</mml:mtext>
+                      <mml:mtext>m</mml:mtext>
+                    </mml:msub>
+                    <mml:mo stretchy="false">(</mml:mo>
+                    <mml:mtext>t</mml:mtext>
+                    <mml:mo stretchy="false">)</mml:mo>
+                    <mml:mo>−</mml:mo>
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:msub>
+                          <mml:mtext>E</mml:mtext>
+                          <mml:mtext>k</mml:mtext>
+                        </mml:msub>
+                      </mml:mrow>
+                      <mml:mo>+</mml:mo>
+                    </mml:msup>
+                    <mml:mo stretchy="false">)</mml:mo>
+                    <mml:mo stretchy="false">]</mml:mo>
+                  </mml:mtd>
+                </mml:mtr>
+              </mml:mtable>
+            </mml:math>
+          </disp-formula>
+          <p>In which C<sub>m</sub> is the specific capacitance of these membranes, E is the reversal potential, and g the conductance. Then under the assumption that the membranes in a small volume of the cortex from where the fluorescence originates can be regarded as one compartment (Eriksson et al., <xref rid="B18" ref-type="bibr">2008</xref>; Roland, <xref rid="B54" ref-type="bibr">2010</xref>), the dVSD(t)/dt of that compartment is:</p>
+          <disp-formula id="E3">
+            <label>(3)</label>
+            <mml:math id="M3">
+              <mml:mtable columnalign="left">
+                <mml:mtr>
+                  <mml:mtd>
+                    <mml:mtext>dVSD</mml:mtext>
+                    <mml:mo stretchy="false">(</mml:mo>
+                    <mml:mtext>t</mml:mtext>
+                    <mml:mo stretchy="false">)</mml:mo>
+                    <mml:mo>/</mml:mo>
+                    <mml:mtext>dt</mml:mtext>
+                    <mml:mo>≈</mml:mo>
+                    <mml:mtext>  </mml:mtext>
+                    <mml:mo>−</mml:mo>
+                    <mml:mtext>  k</mml:mtext>
+                    <mml:mo>/</mml:mo>
+                    <mml:msub>
+                      <mml:mtext>C</mml:mtext>
+                      <mml:mrow>
+                        <mml:mtext>m</mml:mtext>
+                      </mml:mrow>
+                    </mml:msub>
+                    <mml:mo stretchy="false">[</mml:mo>
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:msub>
+                          <mml:mtext>g</mml:mtext>
+                          <mml:mrow>
+                            <mml:mtext>Na</mml:mtext>
+                          </mml:mrow>
+                        </mml:msub>
+                      </mml:mrow>
+                      <mml:mo>+</mml:mo>
+                    </mml:msup>
+                    <mml:mo stretchy="false">(</mml:mo>
+                    <mml:msub>
+                      <mml:mtext>V</mml:mtext>
+                      <mml:mtext>m</mml:mtext>
+                    </mml:msub>
+                    <mml:mo stretchy="false">(</mml:mo>
+                    <mml:mtext>t</mml:mtext>
+                    <mml:mo stretchy="false">)</mml:mo>
+                    <mml:mo>−</mml:mo>
+                    <mml:msub>
+                      <mml:mtext>E</mml:mtext>
+                      <mml:mrow>
+                        <mml:msup>
+                          <mml:mtext>Na</mml:mtext>
+                          <mml:mo>+</mml:mo>
+                        </mml:msup>
+                      </mml:mrow>
+                    </mml:msub>
+                    <mml:mo stretchy="false">)</mml:mo>
+                    <mml:mo>+</mml:mo>
+                    <mml:mtext>  </mml:mtext>
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:msub>
+                          <mml:mtext>g</mml:mtext>
+                          <mml:mrow>
+                            <mml:mtext>Ca</mml:mtext>
+                          </mml:mrow>
+                        </mml:msub>
+                      </mml:mrow>
+                      <mml:mrow>
+                        <mml:mn>2</mml:mn>
+                        <mml:mo>+</mml:mo>
+                      </mml:mrow>
+                    </mml:msup>
+                    <mml:mo stretchy="false">(</mml:mo>
+                    <mml:msub>
+                      <mml:mtext>V</mml:mtext>
+                      <mml:mtext>m</mml:mtext>
+                    </mml:msub>
+                    <mml:mo stretchy="false">(</mml:mo>
+                    <mml:mtext>t</mml:mtext>
+                    <mml:mo stretchy="false">)</mml:mo>
+                    <mml:mo>−</mml:mo>
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:msub>
+                          <mml:mtext>E</mml:mtext>
+                          <mml:mrow>
+                            <mml:mtext>Ca</mml:mtext>
+                          </mml:mrow>
+                        </mml:msub>
+                      </mml:mrow>
+                      <mml:mrow>
+                        <mml:mn>2</mml:mn>
+                        <mml:mo>+</mml:mo>
+                      </mml:mrow>
+                    </mml:msup>
+                    <mml:mo stretchy="false">)</mml:mo>
+                  </mml:mtd>
+                </mml:mtr>
+                <mml:mtr>
+                  <mml:mtd>
+                    <mml:mtext>                                    </mml:mtext>
+                    <mml:mo>+</mml:mo>
+                    <mml:mtext> </mml:mtext>
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:msub>
+                          <mml:mtext>g</mml:mtext>
+                          <mml:mrow>
+                            <mml:mtext>Cl</mml:mtext>
+                          </mml:mrow>
+                        </mml:msub>
+                      </mml:mrow>
+                      <mml:mo>−</mml:mo>
+                    </mml:msup>
+                    <mml:mo stretchy="false">(</mml:mo>
+                    <mml:msub>
+                      <mml:mtext>V</mml:mtext>
+                      <mml:mtext>m</mml:mtext>
+                    </mml:msub>
+                    <mml:mo stretchy="false">(</mml:mo>
+                    <mml:mtext>t</mml:mtext>
+                    <mml:mo stretchy="false">)</mml:mo>
+                    <mml:mo>−</mml:mo>
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:msub>
+                          <mml:mtext>E</mml:mtext>
+                          <mml:mrow>
+                            <mml:mtext>Cl</mml:mtext>
+                          </mml:mrow>
+                        </mml:msub>
+                      </mml:mrow>
+                      <mml:mo>−</mml:mo>
+                    </mml:msup>
+                    <mml:mo stretchy="false">)</mml:mo>
+                    <mml:mo>+</mml:mo>
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:msub>
+                          <mml:mtext>g</mml:mtext>
+                          <mml:mtext>K</mml:mtext>
+                        </mml:msub>
+                      </mml:mrow>
+                      <mml:mo>+</mml:mo>
+                    </mml:msup>
+                    <mml:mo stretchy="false">(</mml:mo>
+                    <mml:msub>
+                      <mml:mtext>V</mml:mtext>
+                      <mml:mtext>m</mml:mtext>
+                    </mml:msub>
+                    <mml:mo stretchy="false">(</mml:mo>
+                    <mml:mtext>t</mml:mtext>
+                    <mml:mo stretchy="false">)</mml:mo>
+                    <mml:mo>−</mml:mo>
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:msub>
+                          <mml:mtext>E</mml:mtext>
+                          <mml:mtext>k</mml:mtext>
+                        </mml:msub>
+                      </mml:mrow>
+                      <mml:mo>+</mml:mo>
+                    </mml:msup>
+                    <mml:mo stretchy="false">)</mml:mo>
+                    <mml:mo stretchy="false">]</mml:mo>
+                  </mml:mtd>
+                </mml:mtr>
+              </mml:mtable>
+            </mml:math>
+          </disp-formula>
+          <p>At the network scale, at which our measurements of the dVSD(t)/dt were done, the membrane compartment comprises the membranes of thousands of neurons at a single spot. Although a few of these neurons may be depolarized over their spiking threshold, these action potentials will not be detectable in the VSD(t) (Grinvald et al., <xref rid="B23" ref-type="bibr">1994</xref>; Arieli et al., <xref rid="B3" ref-type="bibr">1995</xref>; Senseman, <xref rid="B58" ref-type="bibr">1996</xref>; Roland, <xref rid="B53" ref-type="bibr">2002</xref>; Slovin et al., <xref rid="B59" ref-type="bibr">2002</xref>; Petersen et al., <xref rid="B46" ref-type="bibr">2003</xref>; Jancke et al., <xref rid="B32" ref-type="bibr">2004</xref>; Ferezou et al., <xref rid="B20" ref-type="bibr">2006</xref>; Roland et al., <xref rid="B55" ref-type="bibr">2006</xref>; Ahmed et al., <xref rid="B1" ref-type="bibr">2008</xref>; Eriksson et al., <xref rid="B18" ref-type="bibr">2008</xref>; Harvey et al., <xref rid="B28" ref-type="bibr">2009</xref>; Ayzenshtat et al., <xref rid="B4" ref-type="bibr">2010</xref>; Chavane et al., <xref rid="B9" ref-type="bibr">2011</xref>; Harvey and Roland, <xref rid="B27" ref-type="bibr">2013</xref>; Müller et al., <xref rid="B42" ref-type="bibr">2014</xref>). The reason most likely is that the fraction of membrane depolarized over spiking threshold is too minute. Consequently, the VSD(t) will reflect a population membrane potential above the reversal potentials for Cl<sup>−</sup> and K<sup>+</sup> currents and below the reversal potentials for Na<sup>+</sup> and Ca<sup>2+</sup>. The dVSD(t)/dt, thus indicates the (weighted sum of) membrane currents of the membranes in the compartment.</p>
+          <p>Definition of net excitation and net inhibition: For a single spot in the network where the dVSD(t)/dt is measured a significant decrease from baseline fluctuations of dVSD(t)/dt is a net inhibition, NINH(t) and a significant increase is a net excitation, NEX(t).</p>
+          <p>The baseline fluctuations were determined in the pre-stimulus period. Statistically significant decreases and increases from baseline fluctuations <italic>p</italic> &lt; 0.05 (see below).</p>
+          <p>For the analysis of net-excitation and net-inhibition, the VSD(t) was filtered with a temporal Gaussian filter σ = 40 ms and then the temporal derivative dVSD(t)/dt was calculated (Matlab®). A filter of σ = 12 ms did not change the results. No spatial filtering was done, but in the figures and movies the original hexagon pixels were sub-sampled.</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>Statistical significance</title>
+        <p>In each animal, statistical comparisons between the pre-stimulus time interval and the post-stimulus interval for all 464 photodiode channels are corrected for mass significance with a false discovery rate of 0.05 (Benjamini and Hochberg, <xref rid="B7" ref-type="bibr">1995</xref>). The results are movies and snapshot sequences of only statistically significant dVSD(t)/dt increases and decreases (<italic>p</italic> &lt; 0.05). As our definition of NEX and NINH is significant increases and decreases from baseline fluctuations in the dVSD(t)/dt in the pre-stimulus period, it implies that these fluctuations will be smaller than the NEX(t) and NINH(t), and that there might be periods in the post-stimulus interval in which NEX(t) and NINH(t) are not defined. Non-statistically significant parts of the cortex will have the same color as the pre-stimulus interval in figures and movies. Movies <xref ref-type="supplementary-material" rid="SM4">4</xref>–<xref ref-type="supplementary-material" rid="SM7">7</xref> and <bold>Figures 3</bold>, <bold>4</bold> show the spatio-temporal evolution of the NEX(t) and NINH(t) (FDR at 0.05).</p>
+      </sec>
+      <sec>
+        <title>State space analysis of dVSD(t)/dt trajectories</title>
+        <p>To produce Figure <xref ref-type="fig" rid="F2">2</xref>, The dVSD(t)/dt time-series underwent PCA. For each of the 6 cortical zones in the figure, the data matrix comprised 6 conditions. The PCA was done using Singular Value Decomposition as implemented in the Matlab® PCA routine.</p>
+        <disp-formula id="E4">
+          <label>(4)</label>
+          <mml:math id="M4">
+            <mml:mrow>
+              <mml:mstyle mathvariant="bold" mathsize="normal">
+                <mml:mi>X</mml:mi>
+              </mml:mstyle>
+              <mml:mo>=</mml:mo>
+              <mml:mstyle mathvariant="bold" mathsize="normal">
+                <mml:mi>U</mml:mi>
+                <mml:mi>Σ</mml:mi>
+              </mml:mstyle>
+              <mml:msup>
+                <mml:mstyle mathvariant="bold" mathsize="normal">
+                  <mml:mi>V</mml:mi>
+                </mml:mstyle>
+                <mml:mtext>T</mml:mtext>
+              </mml:msup>
+              <mml:mo>,</mml:mo>
+              <mml:mo> </mml:mo>
+              <mml:mstyle mathvariant="bold" mathsize="normal">
+                <mml:mi>X</mml:mi>
+              </mml:mstyle>
+              <mml:mo>∈</mml:mo>
+              <mml:msup>
+                <mml:mi>ℝ</mml:mi>
+                <mml:mrow>
+                  <mml:mi>N</mml:mi>
+                  <mml:mo>×</mml:mo>
+                  <mml:mi>L</mml:mi>
+                </mml:mrow>
+              </mml:msup>
+            </mml:mrow>
+          </mml:math>
+        </disp-formula>
+        <p>where [<italic>N</italic> = <italic>N</italic><sub><italic>times</italic></sub> · <italic>N</italic><sub><italic>animals</italic></sub> · <italic>N</italic><sub><italic>conditions</italic></sub> = 1, 000 · 8 · 6 = 48, 000] is the number of observations and <italic>L</italic> is the number of photodiode channels (for example 15 if the zone of cortex was monitored by 15 channels). When all of the exposed cortex was examined, <italic>L</italic> = 464 (corresponding to the 464 photodiode channels monitoring all 4 cortical areas).</p>
+        <fig id="F2" position="float">
+          <label>Figure 2</label>
+          <caption>
+            <p><bold>State space trajectories of the dVSD(t)/dt in different cortical zones are similar. (A)</bold> The 5 visual scenes and their associated trajectories in 3-dimensional state space (Methods) from the red zone. Each trajectory is a projection of the first 3 principal components (for all 8 animals) over time shown in ms after the stimulus start by the black numbers. FP is the origo of the state space (fixed-point). The first row of trajectories comes from the red zone, i.e., the cortex mapping the CFOV. The red parts of the trajectories show the time intervals with the largest acceleration. <bold>(B)</bold> Trajectories from the red (19/21 area) zone also mapping the CFOV. Red parts of trajectories show the fastest acceleration for the bars initially mapped in cortex representing CFOV; the last two red parts are shown for comparison with A. <bold>(C)</bold> Cortical zones in which the stimulus in the top row was <italic>not</italic> mapped according to retinotopy and active evoked spiking. <bold>(D)</bold> The dVSD(t)/dt trajectories for each of the non-mapping zones in <bold>(C)</bold>. Red parts of trajectories only shown for comparison with <bold>(A,B)</bold>. In all zones the trajectories were significantly different (FDR at 0.05) from the pre-stimulus period in the time interval 40–200 ms for conditions with stimulus starting in CFOV and for interval 105–525 ms for the last 2 conditions. Notice the similarities in trajectories irrespective of whether the stimulus was mapped by retinotopic localized spiking or not.</p>
+          </caption>
+          <graphic xlink:href="fnsys-11-00014-g0002"/>
+        </fig>
+        <p>The vectors <bold>U</bold> = [<italic>u</italic><sub>1</sub><italic>u</italic><sub>2</sub><italic>u</italic><sub>3</sub> … <italic>u</italic><sub><italic>N</italic></sub>] hold the coordinates of the observations in the PCA vector space spanned by <inline-formula><mml:math id="M8"><mml:msup><mml:mrow><mml:mstyle mathvariant="bold"><mml:mtext>V</mml:mtext></mml:mstyle></mml:mrow><mml:mrow><mml:mstyle class="text"><mml:mtext class="textrm" mathvariant="normal">T</mml:mtext></mml:mstyle></mml:mrow></mml:msup><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mrow><mml:mi>v</mml:mi></mml:mrow><mml:mrow><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi>v</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi>v</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msub><mml:mo>…</mml:mo><mml:msub><mml:mrow><mml:mi>v</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mstyle class="text"><mml:mtext class="textrm" mathvariant="normal">T</mml:mtext></mml:mstyle></mml:mrow></mml:msup></mml:math></inline-formula>. The diagonal matrix <inline-formula><mml:math id="M7"><mml:mrow><mml:mstyle mathvariant="bold" mathsize="normal"><mml:mi>Σ</mml:mi></mml:mstyle><mml:mo>=</mml:mo><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:mtable><mml:mtr><mml:mtd><mml:mrow><mml:msub><mml:mi>σ</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:mtd><mml:mtd><mml:mn>0</mml:mn></mml:mtd><mml:mtd><mml:mn>0</mml:mn></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mrow><mml:mtext> </mml:mtext></mml:mrow></mml:mtd><mml:mtd><mml:mo>⋱</mml:mo></mml:mtd><mml:mtd><mml:mrow><mml:mtext> </mml:mtext></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mn>0</mml:mn></mml:mtd><mml:mtd><mml:mn>0</mml:mn></mml:mtd><mml:mtd><mml:mrow><mml:msub><mml:mi>σ</mml:mi><mml:mi>L</mml:mi></mml:msub></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow><mml:mo>]</mml:mo></mml:mrow></mml:mrow></mml:math></inline-formula> holds the singular values which scales vectors in <bold>U</bold> to reflect the variance explained by each of the <italic>L</italic> principal components. The state-space trajectories in 3 dimensions are the (<italic>u</italic><sub>1<italic>i</italic></sub>, <italic>u</italic><sub>2<italic>i</italic></sub>, <italic>u</italic><sub>3<italic>i</italic></sub>) coordinates, plotted over a time series of i's (Figures <xref ref-type="fig" rid="F2">2</xref>, <bold>5</bold>, Movies <xref ref-type="supplementary-material" rid="SM8">8</xref>–<xref ref-type="supplementary-material" rid="SM14">14</xref>). Note that the (<italic>u</italic><sub>1<italic>i</italic></sub>, <italic>u</italic><sub>2<italic>i</italic></sub>, <italic>u</italic><sub>3<italic>i</italic></sub>) ≠ (<italic>x</italic><sub><italic>i</italic>1</sub><italic>x</italic><sub><italic>i</italic>2</sub><italic>x</italic><sub><italic>i</italic>3.</sub>). Figure <xref ref-type="fig" rid="F2">2</xref> shows the trajectories of the first three components.</p>
+      </sec>
+      <sec>
+        <title>Balance of net excitation net inhibition and delay</title>
+        <p>To examine the balance between NEX and NINH we calculated the time-averages, E(NEX) and E(NINH) of the NEX(t) and NINH(t) for the post-stimulus time intervals in which NEX(t) and NINH(t) were defined in the post-stimulus period from 0 to 800 ms. We calculated the integrals of NEX(t) over the time interval the NEX(t) was defined, added the integrals and divided by the number of time frames in the interval the NEX(t) was defined. Similar for NINH(t).</p>
+        <p>This produced the hexagon maps of E(NEX) and E(NINH) in <bold>Figure 6</bold>.</p>
+        <p>Thereafter we determined the delay between the maximum NEX, NEXmax; and minimum of NINH, NINHmin, in all pixels where NEX(t) and NINH(t) were defined for each condition in each animal and calculated a mean delay for that condition in each animal.</p>
+        <p>We also calculated the correlation between E(NEX) and E(NINH) pixel by pixel for each condition and animal (<bold>Figure 6</bold>).</p>
+      </sec>
+      <sec>
+        <title>NEX and NINH velocities</title>
+        <p>The NEX and NINH velocities of propagation were determined by the wave-front algorithm of Ahmed et al. (<xref rid="B1" ref-type="bibr">2008</xref>). As the algorithm assumes that the parameter amplitude progresses as an increase (see Figure 3 in Ahmed et al., <xref rid="B1" ref-type="bibr">2008</xref>) the –NINH(t) = −dVSD(t)/dt file was used. Shortly, a region of interest was made covering the progress of the NEX or NINH in an animal. The mean dVSD(t)/dt for the time interval chosen, dVSD (respective −dVSD(t)/dt) was calculated. Then all values of dVSD(t)/dt &gt; dVSD were divided in 10 amplitude levels and the cortical positions (mm) of these amplitude levels vs. time (ms) were plotted and a linear regression was made giving the velocity in mm/ms and its statistical significance determined (in this paper &lt; 0.01; <bold>Figure 7</bold>. For further details see Ahmed et al. (<xref rid="B1" ref-type="bibr">2008</xref>). The algorithm, thus, does not require a progress with constant amplitude and velocity.</p>
+      </sec>
+      <sec>
+        <title>NEX and NINH phase lags between areas</title>
+        <p>We used the algorithm of Müller et al. (<xref rid="B42" ref-type="bibr">2014</xref>). This algorithm makes a Hilbert transform of the data under the assumption that all parts of the cortex monitored can be seen as one wave of NEX or one wave of NINH. The different positions on the cortex, x, and hence the different cortical areas will be in different phases if there are delays in the propagation of NEX or NINH between areas. The real part at position x is dVSD<sub><italic>x</italic></sub>(t) = Re (x, t). The phase, z = x + iy, is a complex number.</p>
+        <p>The algorithm calculates the imaginary part as:</p>
+        <disp-formula id="E5">
+          <label>(5)</label>
+          <mml:math id="M5">
+            <mml:mrow>
+              <mml:mi>I</mml:mi>
+              <mml:mi>m</mml:mi>
+              <mml:mo> </mml:mo>
+              <mml:mtext> </mml:mtext>
+              <mml:mi>z</mml:mi>
+              <mml:mrow>
+                <mml:mtext> </mml:mtext>
+                <mml:mo>(</mml:mo>
+                <mml:mrow>
+                  <mml:mi>x</mml:mi>
+                  <mml:mo>,</mml:mo>
+                  <mml:mi>t</mml:mi>
+                </mml:mrow>
+                <mml:mo>)</mml:mo>
+              </mml:mrow>
+              <mml:mo>=</mml:mo>
+              <mml:mo> </mml:mo>
+              <mml:mi>P</mml:mi>
+              <mml:munder>
+                <mml:mrow>
+                  <mml:mover>
+                    <mml:mstyle mathsize="140%" displaystyle="true">
+                      <mml:mo>∫</mml:mo>
+                    </mml:mstyle>
+                    <mml:mi>∞</mml:mi>
+                  </mml:mover>
+                </mml:mrow>
+                <mml:mrow>
+                  <mml:mo>−</mml:mo>
+                  <mml:mi>∞</mml:mi>
+                </mml:mrow>
+              </mml:munder>
+              <mml:mfrac>
+                <mml:mrow>
+                  <mml:mi>d</mml:mi>
+                  <mml:msup>
+                    <mml:mi>t</mml:mi>
+                    <mml:mo>′</mml:mo>
+                  </mml:msup>
+                </mml:mrow>
+                <mml:mi>π</mml:mi>
+              </mml:mfrac>
+              <mml:mi>R</mml:mi>
+              <mml:mi>e</mml:mi>
+              <mml:mfrac>
+                <mml:mrow>
+                  <mml:mi>z</mml:mi>
+                  <mml:mrow>
+                    <mml:mtext> </mml:mtext>
+                    <mml:mo>(</mml:mo>
+                    <mml:mrow>
+                      <mml:mi>x</mml:mi>
+                      <mml:mo>,</mml:mo>
+                      <mml:msup>
+                        <mml:mi>t</mml:mi>
+                        <mml:mo>′</mml:mo>
+                      </mml:msup>
+                    </mml:mrow>
+                    <mml:mo>)</mml:mo>
+                  </mml:mrow>
+                </mml:mrow>
+                <mml:mrow>
+                  <mml:mi>t</mml:mi>
+                  <mml:mo>−</mml:mo>
+                  <mml:msup>
+                    <mml:mi>t</mml:mi>
+                    <mml:mo>′</mml:mo>
+                  </mml:msup>
+                </mml:mrow>
+              </mml:mfrac>
+            </mml:mrow>
+          </mml:math>
+        </disp-formula>
+        <p>from this the phase</p>
+        <disp-formula id="E6">
+          <label>(6)</label>
+          <mml:math id="M6">
+            <mml:mrow>
+              <mml:mi>θ</mml:mi>
+              <mml:mo> </mml:mo>
+              <mml:mrow>
+                <mml:mo>(</mml:mo>
+                <mml:mrow>
+                  <mml:mi>x</mml:mi>
+                  <mml:mo>,</mml:mo>
+                  <mml:mi>t</mml:mi>
+                </mml:mrow>
+                <mml:mo>)</mml:mo>
+              </mml:mrow>
+              <mml:mo>=</mml:mo>
+              <mml:mi>t</mml:mi>
+              <mml:mi>a</mml:mi>
+              <mml:msup>
+                <mml:mi>n</mml:mi>
+                <mml:mrow>
+                  <mml:mo>−</mml:mo>
+                  <mml:mn>1</mml:mn>
+                </mml:mrow>
+              </mml:msup>
+              <mml:mo> </mml:mo>
+              <mml:mrow>
+                <mml:mo>(</mml:mo>
+                <mml:mrow>
+                  <mml:mo> </mml:mo>
+                  <mml:mfrac>
+                    <mml:mrow>
+                      <mml:mi>I</mml:mi>
+                      <mml:mi>m</mml:mi>
+                      <mml:mo> </mml:mo>
+                      <mml:mi>z</mml:mi>
+                      <mml:mrow>
+                        <mml:mtext> </mml:mtext>
+                        <mml:mo>(</mml:mo>
+                        <mml:mrow>
+                          <mml:mi>x</mml:mi>
+                          <mml:mo>,</mml:mo>
+                          <mml:mi>t</mml:mi>
+                        </mml:mrow>
+                        <mml:mo>)</mml:mo>
+                      </mml:mrow>
+                    </mml:mrow>
+                    <mml:mrow>
+                      <mml:mi>R</mml:mi>
+                      <mml:mi>e</mml:mi>
+                      <mml:mo> </mml:mo>
+                      <mml:mi>z</mml:mi>
+                      <mml:mrow>
+                        <mml:mtext> </mml:mtext>
+                        <mml:mo>(</mml:mo>
+                        <mml:mrow>
+                          <mml:mi>x</mml:mi>
+                          <mml:mo>.</mml:mo>
+                          <mml:mi>t</mml:mi>
+                        </mml:mrow>
+                        <mml:mo>)</mml:mo>
+                      </mml:mrow>
+                    </mml:mrow>
+                  </mml:mfrac>
+                </mml:mrow>
+                <mml:mo>)</mml:mo>
+              </mml:mrow>
+              <mml:mo>=</mml:mo>
+              <mml:mi>t</mml:mi>
+              <mml:mi>a</mml:mi>
+              <mml:msup>
+                <mml:mi>n</mml:mi>
+                <mml:mrow>
+                  <mml:mo>−</mml:mo>
+                  <mml:mn>1</mml:mn>
+                  <mml:mo> </mml:mo>
+                </mml:mrow>
+              </mml:msup>
+              <mml:mrow>
+                <mml:mo>(</mml:mo>
+                <mml:mrow>
+                  <mml:mfrac>
+                    <mml:mrow>
+                      <mml:mi>I</mml:mi>
+                      <mml:mi>m</mml:mi>
+                      <mml:mo> </mml:mo>
+                      <mml:mi>Z</mml:mi>
+                      <mml:mrow>
+                        <mml:mtext> </mml:mtext>
+                        <mml:mo>(</mml:mo>
+                        <mml:mrow>
+                          <mml:mi>x</mml:mi>
+                          <mml:mo>,</mml:mo>
+                          <mml:mi>t</mml:mi>
+                        </mml:mrow>
+                        <mml:mo>)</mml:mo>
+                      </mml:mrow>
+                    </mml:mrow>
+                    <mml:mrow>
+                      <mml:mi>d</mml:mi>
+                      <mml:mi>V</mml:mi>
+                      <mml:mi>S</mml:mi>
+                      <mml:mi>D</mml:mi>
+                      <mml:mrow>
+                        <mml:mo>(</mml:mo>
+                        <mml:mrow>
+                          <mml:mi>x</mml:mi>
+                          <mml:mo>,</mml:mo>
+                          <mml:mi>t</mml:mi>
+                        </mml:mrow>
+                        <mml:mo>)</mml:mo>
+                      </mml:mrow>
+                    </mml:mrow>
+                  </mml:mfrac>
+                </mml:mrow>
+                <mml:mo>)</mml:mo>
+              </mml:mrow>
+            </mml:mrow>
+          </mml:math>
+        </disp-formula>
+        <p>giving the phase. Phase delays between the earliest point x<sub>0</sub> and the other x<sub><italic>s</italic></sub> are then calculated in ms (<bold>Figure 8</bold>).</p>
+        <p>To visualize the phase in Movie <xref ref-type="supplementary-material" rid="SM15">15</xref> of the VSD(t), the VSD(t) was normalized to the maximum VSD(t) value in the post-stimulus time interval, VSDmax, i.e., pixel values were VSD(t)/VSDmax.</p>
+      </sec>
+      <sec>
+        <title>The spatio-temporal evoked spiking in areas 17 and 18, 19, and 21</title>
+        <p>The positions of the electrode penetrations were transferred to a map of the cortex monitored by the photodiode-array. The electrode penetrations preserved their relation to the cytoarchtectural border between areas 17 and 18. The photo-diode cortical map was centered to the electrodes mapping the very center of the field of view (see <italic>Stimulation</italic> section). The electrode penetrations are marked with white circles in the movies.</p>
+        <p>The treatments of the spike data and the calculation of the proportion evoked trials ms by ms for each electrode penetration was done separately for supragranular, granular, and infragranular layers as described in Forsberg et al. (<xref rid="B22" ref-type="bibr">2016</xref>).</p>
+        <p>For each electrode penetration the proportion of <italic>evoked trials</italic> (maximum 50 trials) was calculated for the specific layer. Evoked trials of spiking are trials in which the spiking trajectories are outside the separatrix separating the spontaneous states from the evoked spiking states in state space (for state-space analysis of spiking see Forsberg et al., <xref rid="B22" ref-type="bibr">2016</xref>). First episodes of a single spiking trial were detected as evoked if the velocity vectors of the trajectory of the spiking in state space were located outside the separatrix (threshold) separating the state space into spontaneous ongoing spiking and evoked spiking (for details see Forsberg et al., <xref rid="B22" ref-type="bibr">2016</xref>). The proportion of trials evoked is shown color-coded for each ms for each penetration. The number of encircled positions is less than 82, because one position may represent more than 1 electrode penetration (up to 3), and a few electrode positions were outside the map. (Movies <xref ref-type="supplementary-material" rid="SM1">1</xref>–<xref ref-type="supplementary-material" rid="SM3">3</xref>).</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="s3">
+      <title>Results</title>
+      <p>In the experiments, the anesthetized ferrets were exposed to a gray screen in an otherwise dark room. The scene suddenly, within 7 ms, shifted and a continuously moving bar, or occasionally a stationary bar appeared (Figure <xref ref-type="fig" rid="F1">1</xref>). We measured the voltage sensitive dye signal, VSD<sub>i</sub>(t), simultaneously from all points of the exposed cortex comprising visual areas 17, 18, 19, and 21. The multi-unit activity, MUA(t), was also measured from all layers in areas 17 and 18 to the same stimuli; albeit not simultaneously with the VSD<sub>i</sub>(t) measurements. The VSD<sub>i</sub> data (Methods) presented in this report were averaged over 8–12 trials belonging to one stimulus condition to give the averaged signal, VSD(t) and the dVSD(t)/dt (Figure <xref ref-type="fig" rid="F1">1</xref>). Figure <xref ref-type="fig" rid="F1">1A</xref> shows the typical time relation between the average spike rate and the time derivative d(VSD(t))/dt. For the scenes with stimuli appearing in the center of field of view, CFOV, the dVSD(t)/dt shows a strong NEX transient at the arrival of the increased spiking from layer 4 (Movies <xref ref-type="supplementary-material" rid="SM1">1</xref>, <xref ref-type="supplementary-material" rid="SM3">3</xref>) and thereafter NINH. For the scenes, in which the stimulus passed through the CFOV after 450 ms, the network at the retinotopic site for the CFOV showed two smaller NEXes prior to the passage (arrows), followed by a smooth further NEX that at 450 ms was replaced by a NINH (Figure <xref ref-type="fig" rid="F1">1B</xref>). The fluctuations of the dVSD(t)/dt in the pre-stimulus period were significantly smaller than the deviations caused by the changes of the visual scene (FDR at 0.05, Methods).We interpret these smaller fluctuations as reflecting a tight balance between inhibition and excitation.</p>
+      <sec>
+        <title>Temporal dynamics of dVSD(t) in different cortical zones</title>
+        <p>When stimuli are presented in the center of field of view, they first increase the spiking in a small zone at the border between areas 17 and 18 and then, with a delay, in a similar zone at the border between areas 19 and 21 (Roland et al., <xref rid="B55" ref-type="bibr">2006</xref>; Harvey et al., <xref rid="B28" ref-type="bibr">2009</xref>). First we examined the space-time dynamics of the balance between excitation and inhibition, dVSD(t)/dt, inside and outside zones in the network where the bars were retinotopically mapped. We used a dynamical systems approach (Huys et al., <xref rid="B30" ref-type="bibr">2015</xref>; Forsberg et al., <xref rid="B22" ref-type="bibr">2016</xref>) and examined the evolution of the dVSD(t)/dt for each zone in multidimensional state space (Methods). In this state space, the time evolution of the dVSD(t)/dt evolves as a trajectory. Each coordinate of the trajectory corresponds to one state of the network in one zone. Figure <xref ref-type="fig" rid="F2">2A</xref> shows the temporal dynamics of the derivative of the dye signal, dVSD(t)/dt for the two retinotopic sites mapping the CFOV in areas 17/18 and areas 19/21. Prior to stimulus onset, the trajectories evolve in a narrow part of state space close to (0,0,0) (marked with FP in Figure <xref ref-type="fig" rid="F2">2</xref>). When the stimulus drives the evolution of the trajectories, they accelerate, make a smooth loop and return slowly by another route to the space near (0,0,0). This is the typical stimulus evoked behavior of a mono-excitable dynamical system (Huys et al., <xref rid="B30" ref-type="bibr">2015</xref>). The trajectories did not show any sign of equilibrium points outside the (0,0,0).</p>
+        <p>In addition to these 2 zones the cortex was subdivided into 5 other zones, shown in the colored inserts (Figure <xref ref-type="fig" rid="F2">2C</xref>). These 5 zones comprise the cortex that did <italic>not</italic> show stimulus related retinotopic localized spiking. For example, the stationary bar did not lead to continuous spiking outside the red zones (Movies <xref ref-type="supplementary-material" rid="SM1">1</xref>, <xref ref-type="supplementary-material" rid="SM2">2</xref>). The trajectories of the dVSD(t)/dt systematically showed stimulus evoked dynamics in all zones no matter whether the zone mapped the stimulus or not (Figures <xref ref-type="fig" rid="F2">2B–D</xref>).</p>
+        <p>The evoked parts of the trajectories were significantly different from the trajectories in the pre-stimulus period. (False discovery rate of 0.05; Methods) (Figure <xref ref-type="fig" rid="F2">2</xref>). We then tested whether the trajectories from the zone mapping the CFOV in the population of animals (<italic>n</italic> = 8) distinguished the 5 scenes shown in Figure <xref ref-type="fig" rid="F2">2</xref> (Methods). There were no significant differences in the evoked part of the trajectories between the scenes with objects moving from the center of field of view, (FDR at 0.05, paired comparison). The scene with the stationary object could be distinguished from scenes with the object moving from the CFOV in the interval 420–460 ms (i.e., after the OFF response). Scenes with a bar moving up or down from the peripheral field of view could be distinguished from 470 to 520 ms post-stimulus (FDR at 0.05 for both conditions). The temporal dynamics of dVSD(t)/dt thus could not differentiate the visual scenes in all cases.</p>
+      </sec>
+      <sec>
+        <title>Space-time sequences of NEX and NINH in areas 17, 18, 19, and 21</title>
+        <p>Next we examined the space-time evolution of the statistically significant changes in the balance between excitation and inhibition in the cortical network, i.e., the NEX and NINH space-time changes in anatomical space in each of the 8 animals (FDR at 0.05; Methods). The NEX and NINH were defined as significant increases and decreases above the pre-stimulus, spontaneous state fluctuations in dVSD(t)/dt for each animal (Methods). The appearance of the visual scenes changed the balance into a series of NEX and NINH evolutions in space-time engaging most of the exposed cortex (Figure <xref ref-type="fig" rid="F3">3</xref>). Identical scenes evoked nearly identical space-time sequences of NEX and NINH in the animals.</p>
+        <fig id="F3" position="float">
+          <label>Figure 3</label>
+          <caption>
+            <p><bold>Space-time dynamics of NEX and NINH to a visual scene with bar moving up from the CFOV</bold>. Non-statistically significant cortex is light blue. Statistically significant NINH dark blue to black scale (FDR at 0.05); statistically significant NEX colors from green to red (FDR at 0.05). Maximum scale values 5 10<sup>−6</sup>. The time after the stimulus start is shown in ms on top and below. Space-time dynamics associated with scene in which a bar moves upwards from the CFOV in animal 2. Non-significant parts, amplitudes from −5 10<sup>−7</sup> to 5 10<sup>−7</sup>. The sequence of events: The NEX appears and spreads in all directions into the adjacent cortex from the two CFOV mapping sites (8/8). Then an offshoot of the NEX in 19/21 moves toward area 17/18 (7/7) and the NEX at 17/18 moves left (8/8). The NEX reached its maximal amplitude in areas 17/18 (7/8) and in areas 19/21 (5/7). The NEX diminishes and the NINH took over almost simultaneously in areas 17/18 and 19/21 (7/7). The NINH spreads in all directions gaining amplitude (7/7) into all exposed areas (7/8). The NINH shrinks and moves pursuing the earlier NEX in both areas 17/18 (7/8) and areas 19/21 (6/6).</p>
+          </caption>
+          <graphic xlink:href="fnsys-11-00014-g0003"/>
+        </fig>
+        <p>For the scenes in which the object appeared in the CFOV and moved either up or down, the statically significant NEX and NINH typical space-time events are summarized by a representative animal in Figure <xref ref-type="fig" rid="F3">3</xref> (see also Movies <xref ref-type="supplementary-material" rid="SM4">4</xref>, <xref ref-type="supplementary-material" rid="SM5">5</xref> which show the dynamics in anatomical space much better than any figure can convey). The legend to Figure <xref ref-type="fig" rid="F3">3</xref> gives the proportion of animals having a particular statistically significant space-time event. The times, after stimulus onset, when these changes of NEX and NINH occurred varied among the animals by up to 70 ms, but the sequence of events was consistent in space-time (Figure <xref ref-type="fig" rid="F3">3</xref>, Movies <xref ref-type="supplementary-material" rid="SM4">4</xref>, <xref ref-type="supplementary-material" rid="SM5">5</xref>).</p>
+        <p>The variability in the timing of the NEX and NINH became even more pronounced in the conditions in which the scenes started with a bar moving from the peripheral field of view. This is characteristic for a dynamical system. The sequence of space-time dynamical events was consistent in the animals also in these conditions, although minor variations could appear in the later part of the space-time evolution (Figure <xref ref-type="fig" rid="F4">4</xref>). NEX always preceded the first NINH. The NEXs and NINHs had similar space-time dynamics in anatomical space; the NINH space-time dynamics roughly replicated that of the preceding NEX (Figures <xref ref-type="fig" rid="F3">3</xref>, <xref ref-type="fig" rid="F4">4</xref>, Movies <xref ref-type="supplementary-material" rid="SM4">4</xref>–<xref ref-type="supplementary-material" rid="SM7">7</xref>).</p>
+        <fig id="F4" position="float">
+          <label>Figure 4</label>
+          <caption>
+            <p><bold>Space-time dynamics of NEX and NINH for bar moving upwards from peripheral field of view</bold>. One animal shown. Non-significant parts, amplitudes from (−1 to 0.95) 10<sup>−6</sup>. As the bars started 10.5°. From the CFOV, the cortex that was initially active was outside the network monitored by the photodiode array in the majority of the animals. Statistically significant NEX first appeared in area 19/21 (5/7) and in 2/7 animals in area 17/18. The NEX then spreads and an offshoot of the NEX in areas 19/21 moves to the area of 17/18 NEX (7/8). The NEX in areas 17/18 becomes further elongated in the cortical direction of the bar motion (7/7). Then the NEXes in areas 17/18 and 19/21 almost simultaneously attained maximal amplitude (7/7; not shown). NEXes subsequently decrease and switch to NINH almost simultaneously in areas 17/18 and 19/21 (5/8) after which the NINH spreads. In the other 3 animals the NEX was replaced by the balanced state for a while. A second NEX appears in areas 17/18 (7/7) and 19/21 (6/6) spreading from the cortex mapping the CFOV. In 5/7 animals, the NEX decreased and the exposed cortex went into a balanced NEX-NIMH state (shown), in 3 animals, a third NEX appeared immediately and in 5/8 after a little while moving away from the CFOV mapping cortex areas 17/18 (7/7) and areas 19/21 (7/7). Behind the moving NEX a similar moving NINH appeared spreading in all directions. In 7/8 animals the moving NEX and following NINH disappeared from monitoring photodiodes and left the cortex in a balanced NEX/NINH state.</p>
+          </caption>
+          <graphic xlink:href="fnsys-11-00014-g0004"/>
+        </fig>
+        <p>Neither the NEX nor the NINH evolved to a state with motion of constant amplitude and velocity over the network. In contrast, the balance between excitation and inhibition changed throughout the whole space-time evolution. The changes in the balance engaged large populations of neurons in all animals. (Movies <xref ref-type="supplementary-material" rid="SM1">1</xref>–<xref ref-type="supplementary-material" rid="SM7">7</xref>). The return to small amplitude baseline fluctuations of the excitation-inhibition balance may take 600–700 ms (Movies <xref ref-type="supplementary-material" rid="SM4">4</xref>–<xref ref-type="supplementary-material" rid="SM7">7</xref>).</p>
+      </sec>
+      <sec>
+        <title>Space-time dynamics, but not temporal dynamics alone, distinguish the visual scenes</title>
+        <p>Figure <xref ref-type="fig" rid="F1">1</xref> showed that the mean VSD(t) and the mean dVSD(t)/dt of the population of neurons mapping the CFOV do not distinguish the visual scenes with a bar moving upwards from a bar moving downward from the CFOV. Neither do the temporal course of the dVSD(t)/dt distinguish a stationary bar flashed in the CFOV from the bars moving from the CFOV until the stationary bar disappears and elicits an OFF response (Figures <xref ref-type="fig" rid="F1">1</xref>, <xref ref-type="fig" rid="F2">2</xref>). Averaging spatially over the CFOV mapping population or any other neuron population removes the spatio-temporal dynamics.</p>
+        <p>In contrast, just by looking at the space-time evolution of the balance between excitation and inhibition over the four visual areas, one can distinguish the five scenes (Figures <xref ref-type="fig" rid="F1">1B</xref>, <xref ref-type="fig" rid="F3">3</xref>, <xref ref-type="fig" rid="F4">4</xref>; Movies <xref ref-type="supplementary-material" rid="SM1">1</xref>–<xref ref-type="supplementary-material" rid="SM7">7</xref>). Similarly, just by looking at the space-time evolution of the population membrane potentials, i.e., the VSD(t) caused by stationary and moving objects, over the same four areas, one can distinguish such simple visual scenes in carnivores and primates (Harvey et al., <xref rid="B28" ref-type="bibr">2009</xref>; Ayzenshtat et al., <xref rid="B4" ref-type="bibr">2010</xref>; Harvey and Roland, <xref rid="B27" ref-type="bibr">2013</xref>). Figures <xref ref-type="fig" rid="F3">3</xref>, <xref ref-type="fig" rid="F4">4</xref> show how, when, and where large populations of neurons change their balance between excitation and inhibition or change the membrane potentials at the network scale. However, they do not show how the brain reduces this multidimensional evolution (as many dimensions as points of the network measured) to lower dimension solutions characteristic for a single scene- or if such a reduction is at all possible. For this reason, we examined the space-time dynamics in multidimensional state space. This is in a state space that had as many dimensions as the number of channels in our photodiode camera, namely 464.</p>
+        <p>We calculated the <italic>spatial</italic> PCA (Methods) of the VSD(t) in 464 localizations of the visual cortical network and plotted the first four components. The first 4 components explained 92–99.9% of the total variance. The state-space made of the first 3 principal components explained between 92 and 99% of the space-time variance in the VSD(t) (Movies <xref ref-type="supplementary-material" rid="SM8">8</xref>–<xref ref-type="supplementary-material" rid="SM14">14</xref>). The animals in Movies <xref ref-type="supplementary-material" rid="SM10">10</xref>–<xref ref-type="supplementary-material" rid="SM14">14</xref> had an extra condition in which two bars moved toward each other (Harvey and Roland, <xref rid="B27" ref-type="bibr">2013</xref>). In state space, the VSD(t) caused by one visual scene produced one trajectory. The trajectories of the VSD(t)s of all scenes first evolved in a chaotic like manner in a small part of the state space throughout the pre-stimulus period and into the post-stimulus period (Figure <xref ref-type="fig" rid="F5">5</xref>, Movies <xref ref-type="supplementary-material" rid="SM8">8</xref>–<xref ref-type="supplementary-material" rid="SM14">14</xref>). Within 47–82 ms (full range), the trajectories accelerated, diverged, and continued to diverge in state space. This was especially clearly seen in the projection of principal components 2 and 3 (Movies <xref ref-type="supplementary-material" rid="SM8">8</xref>–<xref ref-type="supplementary-material" rid="SM14">14</xref>). This result was consistent in all 8 animals (Figure <xref ref-type="fig" rid="F5">5</xref>). The time the individual trajectories left the chaotic like state in small part of state space where this behavior took place depended on the time the first statistically significant NEX appeared in the monitored cortex. This delay ranged from −4 to 44 ms (mean 14.0 ms ± 9.0 ms standard deviation). The longer delays seemed related to the time it took for the NEX to spread in the four visual areas.</p>
+        <fig id="F5" position="float">
+          <label>Figure 5</label>
+          <caption>
+            <p><bold>Space-time evolution of VSD(t) in areas 17, 18, 19, 21 produce flow on low dimension manifold</bold>. State space projection of principal components 2 and 3 of the 464 <italic>spatial</italic> dimension state space (Methods) of all five visual scenes. Each condition's trajectory has a “head” marking its position in state space at the time of the snapshot marked in ms, and a “tail” of its previous 25 ms course. Condition codes: (blue) bar moving down from CFOV, (green) bar moving up from CFOV, (turquoise) bar moving down from periphery, (lilac) bar moving up from periphery, (yellow) stationary bar <bold>(A,E)</bold> Snapshots showing evolution from chaotic-like trajectories to accelerating diverging trajectories (Animal 2). <bold>(F–L)</bold> moment at which the trajectories diverge in animals 1, 3, 4, 5, 6, 7, 8 respectively. For the true dynamics see Movies <xref ref-type="supplementary-material" rid="SM8">8</xref>–<xref ref-type="supplementary-material" rid="SM14">14</xref>.</p>
+          </caption>
+          <graphic xlink:href="fnsys-11-00014-g0005"/>
+        </fig>
+        <p>This means that the evolution of the VSD(t) in all parts of the exposed network first evolved in a chaotic like manner by spatial cooperative activity, similarly to the temporal dynamics in Figure <xref ref-type="fig" rid="F2">2</xref>. Soon after the upper cortical layers became net excited and the VSD(t) thus increased and this increase spread in the network reducing the complexity of the network membrane potential changes to roughly a 3-dimensional evolution at 47–88 ms progressing in time uniquely for each of the 5 or 6 visual scenes (Movies <xref ref-type="supplementary-material" rid="SM8">8</xref>–<xref ref-type="supplementary-material" rid="SM14">14</xref>).</p>
+      </sec>
+      <sec>
+        <title>Space-time evolution of spiking in areas 17 and 18</title>
+        <p>We had 82 electrode penetrations in areas 17 and 18. In Movies <xref ref-type="supplementary-material" rid="SM1">1</xref>–<xref ref-type="supplementary-material" rid="SM3">3</xref> the reconstructed position of each site is mapped on the hexagonal photodiode array monitoring the visual areas. Depending on how many of the 50 trials that showed evoked spiking in a certain ms (see Methods for definition of evoked spiking), the color changed from light blue to red. Movies <xref ref-type="supplementary-material" rid="SM1">1</xref>–<xref ref-type="supplementary-material" rid="SM3">3</xref> show initial spreading of the evoked spiking in the network up to 100 ms. For the stationary object, the evoked spiking outside the retinotopic mapping of the object in areas 17 and 18 ceased in the granular layer, but continued albeit weakly in the supragranular layers (Movie <xref ref-type="supplementary-material" rid="SM2">2</xref>). For the scenes with moving objects, there was some spiking ahead of the retinotopic evoked spiking at 120–200 ms, characteristic for each scene (as described by Harvey et al., <xref rid="B28" ref-type="bibr">2009</xref>) (Movie <xref ref-type="supplementary-material" rid="SM3">3</xref>). Thereafter there was a more ordered progression of retinotopic spiking (Movie <xref ref-type="supplementary-material" rid="SM3">3</xref>) (additional movies for spiking to the other scenes at <ext-link ext-link-type="uri" xlink:href="https://www.dropbox.com/sh/o6qtfrhmt5jwev2/AABbxksHtkd0UxTlFCrA_b0ca?dl=0">https://www.dropbox.com/sh/o6qtfrhmt5jwev2/AABbxksHtkd0UxTlFCrA_b0ca?dl=0</ext-link>). However, only the spikes from a single penetration were obtained simultaneously, therefore it made no sense to perform a spatial PCA on these reconstructed data (Methods).</p>
+        <p>If one compares the space-time evolution of the evoked spiking (Movies <xref ref-type="supplementary-material" rid="SM1">1</xref>–<xref ref-type="supplementary-material" rid="SM3">3</xref>) with the space-time evolution of dVSD(t)/dt and VSD(t) (Figures <xref ref-type="fig" rid="F1">1</xref>–<xref ref-type="fig" rid="F4">4</xref>, Movies <xref ref-type="supplementary-material" rid="SM4">4</xref>–<xref ref-type="supplementary-material" rid="SM7">7</xref>) the VSD(t) changes and the changes of excitation-inhibition balance take up a larger territory of the network in areas 17 and 18. Furthermore, it is obvious that the spiking, even in the upper cortical layers from ~125 to 300 ms and in periods thereafter, continues seemingly unaffected by the NINH regimes.</p>
+      </sec>
+      <sec>
+        <title>Delayed balance</title>
+        <p>So far our results unambiguously showed that the smaller fluctuations in the balance after the impact of the visual scenes is replaced by a large amplitude NEX that after some 100 150 ms switches to a NINH (Figures <xref ref-type="fig" rid="F1">1</xref>, <xref ref-type="fig" rid="F3">3</xref>, <xref ref-type="fig" rid="F4">4</xref>, Movies <xref ref-type="supplementary-material" rid="SM4">4</xref>–<xref ref-type="supplementary-material" rid="SM7">7</xref>). The network of the four visual areas could still be balanced, in the sense that inhibition sooner or later would bring it back to a stable state when the impact of the scenes cease (Huys et al., <xref rid="B30" ref-type="bibr">2015</xref>).</p>
+        <p>We examined the local amount of NEX and NINH (<italic>p</italic> &lt; 0.05, Methods) in the four areas by integrating the NEX over the whole post-stimulus period 0–800 ms and then dividing by the number of samples and then repeating this for the NINH (Methods).</p>
+        <p>The integrated NEX matched the integrated NINH in distribution and amount in all 4 areas (Figure <xref ref-type="fig" rid="F6">6</xref>). The correlations between the average integrated NEX and average integrated NINH for all cortical locations in all animals and all 4 conditions of moving bars (<italic>n</italic> = 32) were all highly significant (F-statistics <italic>p</italic> &lt; 10<sup>−10</sup>). The average delays between the maximum NEX and the minimum of the NINH (<italic>n</italic> = 16; Methods) were for the two conditions with the bar starting at the CFOV 118 ± 25 ms (mean ± stand. deviation). For the two conditions with the bar starting in the peripheral field of view 138 ± 26 ms and for the stationary square condition 125 ± 37 ms. The average slope of the regression was 1.00 ± 0.31 (mean ± stand. deviation) indicating that on the average, the amount of NEX became balanced by an equal amount NINH. These results were largely independent of the duration of the period over which the NEX and NINHs were integrated. For example, reducing the period to be from 0 to 400 ms and even from 0 to 210 ms after stimulus onset did not affect the strong correlation between NEX and NINH. The figures of average integrated NEXs, NINHs and their spatial correlations in all animals and conditions are available at <ext-link ext-link-type="uri" xlink:href="https://www.dropbox.com/sh/j6bs1eegvh14fth/AAB-HYQPhallfh-wH9SDe4nPa?dl=0">https://www.dropbox.com/sh/j6bs1eegvh14fth/AAB-HYQPhallfh-wH9SDe4nPa?dl=0</ext-link>.</p>
+        <fig id="F6" position="float">
+          <label>Figure 6</label>
+          <caption>
+            <p><bold>Spatial distribution and correlation of average NEX and NINH</bold>. First column: stimuli and correlations of average NEX and NINH at the cortical locations having (statistically significant) NEX and NINH. Second column: Top images: distributions of the delay between maximum NEX and the NINH minimum for each cortical location. Bottom: time-varying significant (<italic>p</italic> &lt; 0.05) NEX and NINH from each of the locations in the four visual areas. X-axis ms. Third column: spatial distribution of average NEX in the 4 visual areas. Last column: spatial distribution of NINH in the 4 visual areas. Scale values should be multiplied with 10<sup>−7</sup>. The average NINH at each location is proportional to the average NEX. Across animals and conditions, the slope of the correlation was not significantly different from 1. <bold>(A)</bold> Object moving down from CFOV, one animal. <bold>(B)</bold> Object moving up from CFOV, one animal. <bold>(C)</bold> Object moving down from peripheral FOV, one animal. <bold>(D)</bold> Object moving up from peripheral FOV, one animal.</p>
+          </caption>
+          <graphic xlink:href="fnsys-11-00014-g0006"/>
+        </fig>
+        <p>These results showed that there was no instantaneous or fast, tight balance between NEX and NINH after the perturbation by the stimuli. Instead, at any spot in the participating cortical network, the net-excitation was after a delay of ~125 ms balanced by an equal amount of net-inhibition. This also implied that the NEX and NINH occupied identical network territory (Figure <xref ref-type="fig" rid="F6">6</xref>).</p>
+      </sec>
+      <sec>
+        <title>Propagation speeds of NEX and NINH</title>
+        <p>There were several forms of propagation of the NEX and NINH in the cortical network. First, the VSD(t) spreads out from the retinotopic mapping site in area 17 when a visual object is flashed in the FOV (Grinvald et al., <xref rid="B23" ref-type="bibr">1994</xref>; Roland et al., <xref rid="B55" ref-type="bibr">2006</xref>). Then the NEX became oriented in the direction mapping the trajectory of the object and then the NEX branched out from areas 19/21 moving toward the NEX in areas 17/18. Examination of these dynamics show that they were partly superimposed, i.e., after a while it is not possible to describe the NEX of the membranes as a single “wave” having one direction (Figures <xref ref-type="fig" rid="F3">3</xref>, <xref ref-type="fig" rid="F4">4</xref>, Movies <xref ref-type="supplementary-material" rid="SM4">4</xref>–<xref ref-type="supplementary-material" rid="SM7">7</xref>). As seen in Figure <xref ref-type="fig" rid="F7">7</xref> there was a relatively large range of speeds of both NEX and NINH spanning from 0.08 to 0.4 mm ms<sup>−1</sup>. The distribution of speeds was similar in areas 17/18 and areas 19/21. The mean speed ± square root of the variance was 0.23 ± 0.10 mm ms<sup>−1</sup> for the initial NEX and 0.21 ± 0.08 mm ms<sup>−1</sup> for the first NINH in areas 17/18 with no statistical difference between NEX and NINH (<italic>p</italic> &gt; 0.2; <italic>t</italic>-test). In areas 19/21 the speeds were 0.20 ± 0 .08 mm ms<sup>−1</sup> for the first NEX and 0.22 ± 0.12 mm ms<sup>−1</sup> for the first NINH with no statistical significance (<italic>p</italic> &gt; 0.1, <italic>t</italic>-test). In summary there were no differences between the speeds of the first NEX and the first NINH propagation and no difference in speeds between the primary visual areas 17/18 and the higher areas 19/21. The progression speed of the second NEX was (<italic>n</italic> = 10) 0.25 ± 0.10 mm ms<sup>−1</sup> and the second NINH (<italic>n</italic> = 16) 0.19 ± 0.09 mm ms<sup>−1</sup>.</p>
+        <fig id="F7" position="float">
+          <label>Figure 7</label>
+          <caption>
+            <p><bold>Speeds of NEX and NINH and delays between areas. (A)</bold> Distribution of speeds of propagation in areas 17 and 18 of the first NEX and NINH for all four scenes with moving objects <bold>(B)</bold> Same but for areas 19 and 21. <bold>(C)</bold> Distributions of minimum latencies of the first NEX and NINH in ms between areas 17/18 and area 19/21.</p>
+          </caption>
+          <graphic xlink:href="fnsys-11-00014-g0007"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Phase delays</title>
+        <p>When the objects moved along on the display screen, first the neurons in areas 17 and 18 spiked and went into NEX, then the neurons in areas 19 and 21 spiked and went into NEX. Thus, the NEX will appear in several versions in several visual areas, each delayed more and more compared to the primary visual cortex. We asked whether there existed a mechanism that brought the membrane potentials into phase. In order to calculate the phase differences in the cortex, we Hilbert transformed the data files (Müller et al., <xref rid="B42" ref-type="bibr">2014</xref>; Methods). Calculated over a time interval of 100 ms, the Hilbert transformed data gives a single image of the cortex showing the phase latencies in ms (Figure <xref ref-type="fig" rid="F8">8</xref>). The NEX delay between areas 17/18 and areas 19/21 in all animals and conditions is shown in Figure <xref ref-type="fig" rid="F7">7</xref> and was 8.35 ± 5.74 ms (mean ± square root of variance) and significantly greater than 0 (<italic>p</italic> &lt; 0.00002; <italic>n</italic> = 30). The NINH delay between area 17/18 and areas 19/21 was not significantly different from 0 (<italic>p</italic> &gt; 0.9; <italic>n</italic> = 23) in mean −4.30 ± 9.92 ms. This indicated that when the NINH starts, the phase differences were not obvious. To further illustrate this we spatially aligned the VSD(t) measurements of animals with roughly matching cytoarchitectural borders by simple affine transformations (Methods) to show the space-time evolution of the normalized nVSD(t) across animals. Normalizing all pixels to their max being 1, removes the amplitude differences but maintains their phase relations. Movie <xref ref-type="supplementary-material" rid="SM15">15</xref> (<italic>n</italic> = 6) shows that, for the bar moving down from the peripheral field of view, the nVSD(t) in areas 19/21 leads that of areas 17/18 from 60 ms up to 116 ms and thereafter the area 17/18 nVSD(t) catches up to nullify the phase differences at 160 ms and onwards.</p>
+        <fig id="F8" position="float">
+          <label>Figure 8</label>
+          <caption>
+            <p><bold>Phase latency maps of first NEX and NINH in four scenes</bold>. The Hilbert plots (Methods) show the phase latencies of the first NEX and NINH in ms between the start location in cortex (having the minimum latency) and the remaining parts of the cortex. Note the 5–10 ms delays between area 17/18 (top of the hexagon) and areas 19/21 (bottom of hexagon) for NEX start. Animal 1.</p>
+          </caption>
+          <graphic xlink:href="fnsys-11-00014-g0008"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="s4">
+      <title>Discussion</title>
+      <p>We presented the following main results. The appearance of the visual scenes drove the network away from a more tightly balanced state into space-time sequences of expansive NEXs and NINHs. NEX and NINH propagated through the network with similar speeds. Locally in the network, the amount of NINH was strongly correlated with the amount of NEX appearing 125 ms earlier. This implied that the NIMH matched the NEX spatially and dynamically, albeit with a delay. The temporal dynamics of the NEX and NINH could not distinguish the visual scenes in all cases. The space-time dynamics in all parts of the exposed network evolved early to reduce the complexity of the network membrane potential changes to roughly a 3-dimensional evolution progressing in time uniquely for each of the visual scenes.</p>
+      <sec>
+        <title>Temporal dynamics</title>
+        <p>Our <italic>in vivo</italic> measurements and data treatment of the VSD<sub>i</sub>(t) impose some constraints on the interpretation of the results. First, we averaged the single trials to get the VSD(t). Second we applied a temporal filter on the VSD(t) to exclude high frequency (photon) fluctuations. Third, the VSD<sub>i</sub>(t), at each cortical point of measurement, stems from dendrites and axons belonging to tens of thousands of neurons (Roland, <xref rid="B54" ref-type="bibr">2010</xref>). This implies that individual fluctuations of the sum of membrane currents have been suppressed, and therefore we can only characterize the average behavior of the network. Fourth, because the cell bodies only make up a minute proportion of the total membrane surfaces of neurons (Fiala and Harris, <xref rid="B21" ref-type="bibr">1999</xref>), the NEX and NINH may not agree with somatic patch clamp data (Williams and Mitchell, <xref rid="B63" ref-type="bibr">2008</xref>). Fifth, the dye signal is proportional to the surface of the stained membranes, thus signaling mainly the membrane potential changes in large populations of dendrites and un-myelinated axons in the upper layers of the network. This means that the membrane compartment providing the NEX and NINH is a mixture of pre- and post-synaptic elements. Sixth, in <italic>in vitro</italic> experiments, 1% isoflurane concentration increase a K<sup>+</sup> leak current modestly and linearly in thalamic neurons (Ries and Puil, <xref rid="B52" ref-type="bibr">1999</xref>), which could depress the spiking driving the NEX. In another <italic>in vitro</italic> experiment the dye RH 1691 enhanced the GABA-A response at concentrations used in our experiments (Mennerick et al., <xref rid="B39" ref-type="bibr">2010</xref>). Thus, the dVSD(t)/dt results may be slightly biased toward NINH. However, a recent modeling study show that these inhibitory effects might be negligible (Chemla and Chavane, <xref rid="B10" ref-type="bibr">2016</xref>). In addition, inhibition in anesthetized mice (isofluran and chlorproxtiene) was weaker than in awake mice (Haider et al., <xref rid="B26" ref-type="bibr">2013</xref>). Finally, at each point of measurement, the NEX and NINH only report relative changes in the sum of the ion currents in the membrane compartment. Consequently, the NINH cannot distinguish decreases in the sum of inward currents from increases in the sum of outward currents and the NEX does not distinguish increases in inward currents from decreases in outward currents.</p>
+        <p>These limitations, however, cannot effect the results that the presentations of visual scenes with moving objects lead to longer, 70–200 ms lasting episodes of NEX and NINH; nor that the amount of NEX locally in the four visual areas subsequently is matched by an equal amount of NINH. The impact of the afferent potentials switched the balance in the visual cortex from a tight temporal balance to a delayed balance. The period of net-excitation permits active spiking to propagate through the network. When the network is perturbed by stimuli, its connectivity and the behavior of the inhibitory neurons allow larger deviations from the spontaneous state. When the visual scenes disappear, the delayed balance implies that the network will return to the regime of smaller fluctuations from the baseline, although slowly (Figures <xref ref-type="fig" rid="F3">3</xref>, <xref ref-type="fig" rid="F4">4</xref>; Movies <xref ref-type="supplementary-material" rid="SM4">4</xref>–<xref ref-type="supplementary-material" rid="SM7">7</xref>).</p>
+        <p>Our results complement studies of balanced excitation and inhibition performed on single cell bodies. Although our results are incompatible with a tight temporal balance of excitatory and inhibitory currents after the impact of a change in the visual scene and although our cortical VSD(t) is practically blind to what happens at the somata of the neurons, the result that there is a 125 ms delay in the cortical network between maximal net excitatory and maximal net inhibitory currents is similar to recordings from the cell body. In a subset of earlier single neuron patch clamp findings in lightly anesthetized cats and ferrets similar or even longer delays were found between excitatory and inhibitory conductances (Anderson et al., <xref rid="B2" ref-type="bibr">2000</xref>; Martinez et al., <xref rid="B38" ref-type="bibr">2002</xref>; Monier et al., <xref rid="B40" ref-type="bibr">2003</xref>; Priebe and Ferster, <xref rid="B47" ref-type="bibr">2005</xref>; Tan et al., <xref rid="B60" ref-type="bibr">2011</xref>; Baudot et al., <xref rid="B6" ref-type="bibr">2013</xref>). However, the delay between excitation and inhibition may depend on animal order (Tan et al., <xref rid="B60" ref-type="bibr">2011</xref>). For carnivores it may also depend on the type of visual stimulus, e.g., drifting grating, object or a natural scene (Anderson et al., <xref rid="B2" ref-type="bibr">2000</xref>; Martinez et al., <xref rid="B38" ref-type="bibr">2002</xref>; Monier et al., <xref rid="B40" ref-type="bibr">2003</xref>; Priebe and Ferster, <xref rid="B47" ref-type="bibr">2005</xref>; Tan et al., <xref rid="B60" ref-type="bibr">2011</xref>; Baudot et al., <xref rid="B6" ref-type="bibr">2013</xref>). Natural scenes might evoke shorter delays than those we observed (Baudot et al., <xref rid="B6" ref-type="bibr">2013</xref>). Our results are compatible with observations that the spiking of excitatory and inhibitory neurons matches over longer time scales (seconds) (Dehghani et al., <xref rid="B15" ref-type="bibr">2016</xref>). Our result gives the overall delay in dendrites, un-myelinated axon terminals and cell bodies belonging to an estimated 400,000 neurons, that the cell body measurements cannot predict. As seen from Figure <xref ref-type="fig" rid="F6">6</xref> (second column) the delay varied locally from 60 to 250 ms. This is what would be expected from large network with space-time dynamics. Our overall result does not exclude shorter or longer delays in selected single neurons.</p>
+        <p>Onat et al. (<xref rid="B44" ref-type="bibr">2011a</xref>) computed the average time courses for a drifting grating and natural scenes and estimated the decay VSD signal, VSD(t), by a straight line. “The processing of different gratings showed a strong adaptational decay of net excitation levels. For gratings, its negative slope was equal to −48%/s (99% CI = [−59%/s, 35%/s]), meaning that after only 1 s of presentation time amplitudes declined to half of the peak activity levels. During stimulation with natural movies, the mean adaptational decay was −24%/s (99% CI = [−44%/s, −5%/s], and the median slope was found to be only marginally different from zero (sign test, <italic>P</italic> = 0.065).” From which they drew the conclusion: “Thus, drifting oriented gratings are processed in a non-stationary regime and in contrast, natural movies processing is generally characterized by overall stationary balance between excitation and inhibition” (Onat et al., <xref rid="B44" ref-type="bibr">2011a</xref>). Neither Eriksson et al. (<xref rid="B18" ref-type="bibr">2008</xref>), Harvey et al. (<xref rid="B28" ref-type="bibr">2009</xref>), Harvey and Roland (<xref rid="B27" ref-type="bibr">2013</xref>) nor we (Figures <xref ref-type="fig" rid="F1">1B</xref>, <xref ref-type="fig" rid="F6">6</xref>) could fine any time segments over the first 800 ms in which the temporal course of the dVSD(t)/dt of the post-stimulus period to stationary and moving stimuli was approximately linear. This indicates that the time course of the balance between excitation and inhibition in response to these stimuli most likely is dynamic, i.e., changing continuously.</p>
+        <p>The time course of the inhibition may depend on the duration of the stimuli. The shorter the stimulus, the deeper the inhibition elicited by the stimulus offset (Eriksson et al., <xref rid="B18" ref-type="bibr">2008</xref>). When two bars move toward each other in the field of view, the local balance between excitation and inhibition turn to inhibition in advance of their mutual occlusion. For the time interval of occlusion, the spiking locally at the retinotopical spot in primary visual cortex becomes tuned to that representing one single bar (Harvey and Roland, <xref rid="B27" ref-type="bibr">2013</xref>). This might illustrate a property of the local network to modulate the balance for fine-tuning of local visual details.</p>
+        <p>It is often claimed that the cerebral cortex is similar to a balanced neuronal network.</p>
+        <p>The visual cortex is continuously spiking <italic>in vivo</italic>, even when it is not driven by external stimuli (Hubel and Wiesel, <xref rid="B29" ref-type="bibr">1959</xref>). The spiking in this spontaneous state is slow and irregular (chaotic like) associated with moderate amplitude fluctuations of the membrane currents indicating a relatively tight balance of excitation-inhibition (Haider et al., <xref rid="B25" ref-type="bibr">2006</xref>; Monier et al., <xref rid="B41" ref-type="bibr">2008</xref>; Huys et al., <xref rid="B30" ref-type="bibr">2015</xref>; Figure <xref ref-type="fig" rid="F1">1A</xref>). This however does not necessarily mean that the cerebral cortex behaves like a balanced neuronal network. Even in very large balanced neuronal networks with many biologically relevant details, the spiking rapidly dies out unless it is driven by an external (artificial) input (Izhikevich and Edelman, <xref rid="B31" ref-type="bibr">2008</xref>; Kumar et al., <xref rid="B34" ref-type="bibr">2008</xref>; Markram et al., <xref rid="B37" ref-type="bibr">2015</xref>). This holds also for the classical balanced neuronal network that swift and nearly linearly responds to an increase in the external drive with a new equilibrium between excitatory and inhibitory currents (van Vreeswijk and Sompolinsky, <xref rid="B62" ref-type="bibr">1996</xref>), which is in contrast to our results (Figures <xref ref-type="fig" rid="F1">1</xref>–<xref ref-type="fig" rid="F6">6</xref>, Movies <xref ref-type="supplementary-material" rid="SM8">8</xref>–<xref ref-type="supplementary-material" rid="SM14">14</xref>).</p>
+      </sec>
+      <sec>
+        <title>Space-time dynamics in the cortical network</title>
+        <p>We described the space-time dynamics of the membrane potential changes in two different spaces: the topological (anatomical) space made of the cortical network of synaptic connected neurons (Figures <xref ref-type="fig" rid="F1">1</xref>, <xref ref-type="fig" rid="F3">3</xref>, <xref ref-type="fig" rid="F4">4</xref>, <xref ref-type="fig" rid="F8">8</xref>; Movies <xref ref-type="supplementary-material" rid="SM1">1</xref>–<xref ref-type="supplementary-material" rid="SM7">7</xref>, <xref ref-type="supplementary-material" rid="SM15">15</xref>) and the (abstract) state space depicted as orthogonal principal component projections (Figures <xref ref-type="fig" rid="F2">2</xref>, <xref ref-type="fig" rid="F5">5</xref>, Movies <xref ref-type="supplementary-material" rid="SM8">8</xref>–<xref ref-type="supplementary-material" rid="SM14">14</xref>). In the cortical network anatomical space one can see the spatial evolution of NEX and NINH in time and get an intuitive sense of their space-time dynamics.</p>
+        <p>The visually evoked space-time dynamics of the dVSD(t)/dt started with a NEX in a small zone spreading in all directions, including the direction opposite to that mapping of the moving object. After this followed a NINH with similar space-time dynamics (Figures <xref ref-type="fig" rid="F3">3</xref>, <xref ref-type="fig" rid="F4">4</xref>, <xref ref-type="fig" rid="F8">8</xref>; Movies <xref ref-type="supplementary-material" rid="SM4">4</xref>–<xref ref-type="supplementary-material" rid="SM7">7</xref>). Although the VSD(t) increase appearing after visual scene shifts always spreads laterally in the cortex (reviewed in Roland et al., <xref rid="B56" ref-type="bibr">2014</xref>), we now show that this is composed of NEX dynamics followed by a similar spreading NINH dynamics. The spreading NEX dynamics enable the spiking related to two different objects to interact at a distance and interact with the visual background (Harvey and Roland, <xref rid="B27" ref-type="bibr">2013</xref>).</p>
+        <p>The speed of NEX spread varied from 0.1 to 0.4 mm ms<sup>−1</sup> in all four areas from the two cortical sites mapping the retinotopic position in areas 17/18 and 19/21 (Figures <xref ref-type="fig" rid="F3">3</xref>, <xref ref-type="fig" rid="F4">4</xref>, <xref ref-type="fig" rid="F8">8</xref>), indicating that the NEX spread may be fast mono-synaptic from the mapping neurons as well as more slowly poly-synaptic via neurons not mapping the bar in the cortical surround. The poly-synaptic hypothesis is in accordance with the result that there were neurons entering the evoked spiking state, outside the CFOV retinotopic site, for a short instance initially (Movies <xref ref-type="supplementary-material" rid="SM1">1</xref>–<xref ref-type="supplementary-material" rid="SM3">3</xref>). These speeds are also in accordance with the spread of VSD(t) increases observed in primates V1 and V2 by Müller et al. (<xref rid="B42" ref-type="bibr">2014</xref>).</p>
+        <p>Speculatively, the high-speed spread of the NINH into the adjacent cortex could be done mono-synaptically by long axons from inhibitory neurons spiking in the mapping zone (Kisvarday et al., <xref rid="B33" ref-type="bibr">1997</xref>). The slower spreading of NINH could hardly be poly-synaptic, but caused by the disappearance of excitation locally combined with local spiking of inhibitory neurons. At the mapping site, the spiking increased again after 80 ms this might be an increase of spiking mainly by inhibitory neurons, because this spiking increase coincided with the NINH getting deeper (Figure <xref ref-type="fig" rid="F1">1</xref>). As the excitatory drive now was gone (because the object moved) this would cause the excitation to decrease also locally in the surroundings of the mapping zone where the always spiking inhibitory neurons would take over (Rudolph et al., <xref rid="B57" ref-type="bibr">2007</xref>).</p>
+        <p>The first NINH covered large regions, including the retinotopic spiking zones related to the object 125 ms after the NEX (Figures <xref ref-type="fig" rid="F3">3</xref>, <xref ref-type="fig" rid="F4">4</xref>, Movies <xref ref-type="supplementary-material" rid="SM4">4</xref>–<xref ref-type="supplementary-material" rid="SM7">7</xref>). However, the layer 4 and 2, 3 neurons continued to spike at these subsequent retinotopic sites during the NINH, (Movie <xref ref-type="supplementary-material" rid="SM2">2</xref>). Apparently, this spiking was insufficient to drive the network into NEX. This is not so surprising as the VSD-signal reflects membrane potential changes of all membranes (Methods). The finding, though, illustrates that the network around spiking excitatory neurons can be in a different regime. The widespread inhibitory regime might prevent the spread of the evoked spiking in the interval 100–200 ms after the start of the stimuli and hence confine the evoked spiking to the retinotopic zone (Movies <xref ref-type="supplementary-material" rid="SM1">1</xref>–<xref ref-type="supplementary-material" rid="SM3">3</xref>).</p>
+        <p>The individual variations in appearance of second NEXs and NINHs and third NEXs and NINHs became more pronounced as time after the stimulus onset increased, as expected for a dynamical system. A full description of individual variations should ideally be on a single trial basis, which was not possible for the present data of dVSD(t)/dt.</p>
+        <p>Some theoretical models replicate essential parts of the VSD(t) space-time dynamics to stationary and moving objects in the primary visual cortex of primates and carnivores. This includes the lateral spreading of the VSD(t) increases and VSD(t) space-time dynamics giving rise to visual illusions (Rangan et al., <xref rid="B48" ref-type="bibr">2005</xref>; Deco and Roland, <xref rid="B14" ref-type="bibr">2010</xref>; Markounikau et al., <xref rid="B36" ref-type="bibr">2010</xref>). Markounikau et al. (<xref rid="B36" ref-type="bibr">2010</xref>) show that the VSD(t) most likely is composed to a large extent of inhibition, modeled as the time derivative of the population membrane potentials, which is in accordance with our results (Figure <xref ref-type="fig" rid="F1">1</xref>). However, none of the models have spontaneous ongoing membrane current fluctuations and hence do not predict the transition from tight to delayed balance. In the Chemla and Chavane's (<xref rid="B10" ref-type="bibr">2016</xref>) model different delays between excitatory and inhibitory spiking modulates the shape of the VSD(t) and hence affect also the dVSD(t)/dt. Although many models, including the above mentioned, have a strong local coupling between excitation and inhibition, in accordance with (Figure <xref ref-type="fig" rid="F6">6</xref>), to our knowledge, this has not lead to predictions of the space-time dynamics of the long delays between NEX and NINH (Figures <xref ref-type="fig" rid="F3">3</xref>, <xref ref-type="fig" rid="F4">4</xref>, <xref ref-type="fig" rid="F6">6</xref>). One model study predicts the NEX propagation from area 19/21 toward areas 17/18 at 80–100 ms (Figures <xref ref-type="fig" rid="F3">3</xref>, <xref ref-type="fig" rid="F4">4</xref>; Deco and Roland, <xref rid="B14" ref-type="bibr">2010</xref>). One recent model predicts that excitation and inhibition under certain synaptic regimes can segregate spatially at the mesoscopic (network) scale (Malagarriga et al., <xref rid="B35" ref-type="bibr">2015</xref>). This is in contrast to our finding of a strong local correlation between NEX and NINH in the four visual areas and the results in Figures <xref ref-type="fig" rid="F3">3</xref>, <xref ref-type="fig" rid="F4">4</xref>, <xref ref-type="fig" rid="F6">6</xref>.</p>
+        <p>When the scene appears at time 0, first the spiking from the lateral geniculate nucleus breaks the tight balance between excitation and inhibition and drives the network into NEX and evoked spiking at the retinotopic spot for the bar (Figures <xref ref-type="fig" rid="F1">1</xref>, <xref ref-type="fig" rid="F3">3</xref>, <xref ref-type="fig" rid="F4">4</xref>; Movies <xref ref-type="supplementary-material" rid="SM1">1</xref>, <xref ref-type="supplementary-material" rid="SM3">3</xref>). The temporal dynamics of the NEX at this spot of the network does not distinguish a stationary bar from bars moving up or down (Figure <xref ref-type="fig" rid="F2">2</xref>), neither do the temporal course and the temporal dynamics of the evoked spiking (Movies <xref ref-type="supplementary-material" rid="SM1">1</xref>–<xref ref-type="supplementary-material" rid="SM3">3</xref>; Forsberg et al., <xref rid="B22" ref-type="bibr">2016</xref>). The evoked spiking at this initial spot drives the surrounding network into NEX with similar temporal dynamics engaging the network over nearly all of the exposed cortical surface (Figure <xref ref-type="fig" rid="F2">2</xref>; Movies <xref ref-type="supplementary-material" rid="SM4">4</xref>–<xref ref-type="supplementary-material" rid="SM7">7</xref>). However, after 40 ms, the driving by the retinal input spikes has moved to an adjacent spot in the network where the previous spreading NEX facilitates the evoked spiking (in accordance with the models of Rangan et al., <xref rid="B48" ref-type="bibr">2005</xref>; Markounikau et al., <xref rid="B36" ref-type="bibr">2010</xref>). At this new spot, the spreading NEX changes to be more specific to the visual scene driving it, at 45–90 ms and onwards (Movies <xref ref-type="supplementary-material" rid="SM4">4</xref>–<xref ref-type="supplementary-material" rid="SM7">7</xref>).</p>
+        <p>The evolution of the NEX and NINH in state-space is a succinct mathematical description of the collaboration of all parts of the exposed cortical network comprising the four visual areas. The state-space made of the first 3 principal components, i.e., a manifold, is a mathematical object on which the flow of the NEX and NINH for each scene evolves. The evolution of the specific space-time dynamics starts with the divergence of the trajectories at 30–90 ms showing the cooperative membrane potential changes of the total network. The departure from the chaotic like behavior and divergence of the trajectories coincided with the NEX spreading to cover most of the exposed cortex. The trajectories continued to diverge over the next 50 ms when the net inhibitory regime takes over at 110–120 ms (Movies <xref ref-type="supplementary-material" rid="SM8">8</xref>–<xref ref-type="supplementary-material" rid="SM14">14</xref>). It is at this point of time the evoked spiking becomes more clearly related to current scene (Movies <xref ref-type="supplementary-material" rid="SM1">1</xref>–<xref ref-type="supplementary-material" rid="SM3">3</xref>; Eriksson et al., <xref rid="B19" ref-type="bibr">2010</xref>). The trajectories on the 3-dimensional manifold thus show the space-time dynamics of the membrane potential changes leading up to the 110-120 ms when the scene is likely to be perceived (Thorpe et al., <xref rid="B61" ref-type="bibr">1996</xref>; Chen et al., <xref rid="B11" ref-type="bibr">2007</xref>; Eriksson et al., <xref rid="B19" ref-type="bibr">2010</xref>).</p>
+        <p>Onat et al. (<xref rid="B44" ref-type="bibr">2011a</xref>,<xref rid="B45" ref-type="bibr">b</xref>) using a drifting grating as stimulus and principal component analysis showed that some components reflected the wave propagation from the moving gratings, whereas the first 2 components reflected the stationary feature, i.e., the orientation of the grating. If one looks at Movies <xref ref-type="supplementary-material" rid="SM8">8</xref>–<xref ref-type="supplementary-material" rid="SM14">14</xref>, one can see that the first 3 components contribute to the divergent flows over the manifold, although the divergence was slightly larger in the projection of the 2nd and 3rd component. Thus, in our case there was no (clear) separation of space vs. time in the space-time dynamics. In our case, the retinotopic mapping of the moving object moved over the cortical network, so one could think that this was the reason for the discrepancy. However, if one focus on the flow associated with the stationary square (yellow in Movies <xref ref-type="supplementary-material" rid="SM8">8</xref>, <xref ref-type="supplementary-material" rid="SM9">9</xref>, gray in Movies <xref ref-type="supplementary-material" rid="SM10">10</xref>–<xref ref-type="supplementary-material" rid="SM14">14</xref>) this was also affected by the first 3 components. Another reason for the discrepancy could be that the first 400 ms were discarded from the analysis in the Onat et al. (<xref rid="B45" ref-type="bibr">2011b</xref>) study. In contrast, our stimuli and analysis was starting from 0 ms and thus biased toward spatio-temporal transients.</p>
+        <p>The evolution to low dimensional flow would not have been possible if the network had remained in tight balance, as also seen in Movies <xref ref-type="supplementary-material" rid="SM8">8</xref>–<xref ref-type="supplementary-material" rid="SM14">14</xref>. The spontaneous state is a stable state (Huys et al., <xref rid="B30" ref-type="bibr">2015</xref>; Forsberg et al., <xref rid="B22" ref-type="bibr">2016</xref>). For sensory areas, in general, the tight balance between excitation and inhibition must be broken to allow the evoked spiking and NEX to propagate in the network to engage as many neurons as possible in the dynamics driven by the scene. Even if the neurons are only engaged sub-threshold, this makes the solution of the network robust. The subsequent NINH appearing locally in the network at 100–110 ms, removes excess spiking outside the part of the network engaged in mapping the progress of the bar, and hence probably sharpens and further stabilizes perception (Movies <xref ref-type="supplementary-material" rid="SM1">1</xref>–<xref ref-type="supplementary-material" rid="SM3">3</xref>). It remains to be tested whether the dynamic separation also works in single trials. This question was not possible to answer with our present data.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions" id="s5">
+      <title>Conclusions</title>
+      <p>We measured the balance between net-excitation, NEX, and net-inhibition, NINH, in the network of dendrites and un-myelinated axons in the upper layers of four visual areas. Our results complement studies of the excitation-inhibition balance in the cell bodies of single neurons. The appearance of visual scenes with moving objects elicited longer, 70–200 ms lasting episodes with larger deviations of NEX and NINH from baseline, and at times, sequences of several NEXs and NINHs, implying that it took some 600–700 ms for the balance to return to the state of small fluctuations. These results are incompatible with a fast, tight balance between excitatory and inhibitory currents and with the behavior of a classic balanced network (van Vreeswijk and Sompolinsky, <xref rid="B62" ref-type="bibr">1996</xref>). Locally in the network, in all four areas, the amount of NINH with a delay matched the amounts of NEX for these episodes. The NEX and NINH thus were also matched spatially in the network, in our case within 800 ms, by local inhibition. Thus, the network should return to the baseline or pre-stimulus state, when the last episode of NINH is finished.</p>
+      <p>The <italic>temporal</italic> dynamics of the changes in the population membrane potentials, the dVSD(t)/dt, spread to all zones of the visual areas with similar trajectories resembling those of a mono-stable excitable system. In contrast to the temporal dynamics of the dVSD(t)/dt and hence the NEX and NINH, the NINH and NEX space-time dynamics in anatomical space as well as in abstract state space explained how differences evolved to distinguish simple visual scenes. We do not know whether these mechanisms also will explain differences in natural, complex scenes. Space-time dynamics of the changes in the balance between excitation and inhibition evolved at a much larger scale than that used to examine receptive fields changes in single neurons. The space-time dynamics are missed with local probes, and are only captured by a high frequency sampling network approach. The results of the collaboration in this large network were succinctly described as diverging trajectories after 50–88 ms on a low-dimensional (manifold) in state space. The network in the four areas operated with similar local temporal dynamics to the presentation of the visual scenes, whereas its (average) spatio-temporal dynamics evolved to distinguish the scenes.</p>
+    </sec>
+    <sec id="s6">
+      <title>Author contributions</title>
+      <p>PR and MH designed the experiments, MH did the experiments, LB, LF, and PR designed and did the data analysis. PR wrote the final version of the manuscript.</p>
+      <sec>
+        <title>Conflict of interest statement</title>
+        <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We thank Sofie Phødenphant Jensen, Anne Brandt Nielsen for programming, Lyle Müller for the Hilbert phase lag code, and John Hertz for comments. Supported by the Dynamical Systems Interdisciplinary Network, Copenhagen University.</p>
+    </ack>
+    <sec sec-type="supplementary-material" id="s7">
+      <title>Supplementary material</title>
+      <p>The Supplementary Material for this article can be found online at: <ext-link ext-link-type="uri" xlink:href="http://journal.frontiersin.org/article/10.3389/fnsys.2017.00014/full#supplementary-material">http://journal.frontiersin.org/article/10.3389/fnsys.2017.00014/full#supplementary-material</ext-link></p>
+      <supplementary-material content-type="local-data" id="SM1">
+        <label>Movie 1</label>
+        <caption>
+          <p><bold>Evoked spiking in the granular layer to a scene with a stationary bar shown at time 0–250 ms</bold>. The movie starts 200 ms prior to stimulus onset. The electrode penetrations are marked with white circles on the photodiode map. The magenta curve marks the position of the cytoarchtectural border between areas 17 and 18 (Methods), which obscured one channel to the right. The color scale shows how many trials (out of maximum number of trials) that are evoked. Note the evoked spiking outside the zone mapping the CFOV shortly after stimulus onset.</p>
+        </caption>
+        <media xlink:href="Video1.MP4">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM2">
+        <label>Movie 2</label>
+        <caption>
+          <p><bold>Evoked spiking in the supragranular layers to a scene with a stationary bar shown at time 0–250 ms</bold>. Conventions as in Movie <xref ref-type="supplementary-material" rid="SM1">1</xref>.</p>
+        </caption>
+        <media xlink:href="Video2.MP4">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM3">
+        <label>Movie 3</label>
+        <caption>
+          <p><bold>Evoked spiking in the granular layer to a scene with a bar moving up from the CFOV</bold>.</p>
+        </caption>
+        <media xlink:href="Video3.MP4">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM4">
+        <label>Movie 4</label>
+        <caption>
+          <p><bold>Space-time dynamics of statistically significant NEX and NINH (FDR methods &lt; 0.05) in one animal to a scene with a bar moving down from the CFOV</bold>. The color scale values should be multiplied with 10<sup>−6</sup>. Magenta curves show cytoarchitectural borders between areas. The time in ms after the start is shown in yellow. Light blue marks non-significant changes in dVSD(t)/dt, here between −3 and 3 10<sup>−7</sup>. NINH in blue and dark blue, NEX in green yellow, beige red.</p>
+        </caption>
+        <media xlink:href="Video4.MPG">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM5">
+        <label>Movie 5</label>
+        <caption>
+          <p><bold>Space-time dynamics of statistically significant NEX and NINH (FDR methods &lt; 0.05) in one animal to a scene with a bar moving up from the CFOV</bold>. The color scale values should be multiplied with 10<sup>−6</sup>. Light blue marks non-significant changes in dVSD(t)/dt, here between −4 and 4 10<sup>−7</sup>. Other conventions as in Movie <xref ref-type="supplementary-material" rid="SM4">4</xref>.</p>
+        </caption>
+        <media xlink:href="Video5.MPG">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM6">
+        <label>Movie 6</label>
+        <caption>
+          <p><bold>Space-time dynamics of statistically significant NEX and NINH (FDR methods &lt; 0.05) in one animal to a scene with a bar moving down from the peripheral field of view</bold>. The color scale values should be multiplied with 10<sup>−6</sup>. Light blue marks non-significant changes in dVSD(t)/dt, here between −7 and 7 10<sup>−7</sup>. Other conventions as in Movie <xref ref-type="supplementary-material" rid="SM11">11</xref>.</p>
+        </caption>
+        <media xlink:href="Video6.MPG">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM7">
+        <label>Movie 7</label>
+        <caption>
+          <p><bold>Space-time dynamics of statistically significant NEX and NINH (FDR methods &lt; 0.05) in one animal to a scene with a bar moving up from the peripheral field of view</bold>. The color scale values should be multiplied with 10<sup>−6</sup>. Light blue marks non-significant changes in dVSD(t)/dt, here between −10 and 10 10<sup>−7</sup>. Other conventions as in Movie <xref ref-type="supplementary-material" rid="SM11">11</xref>.</p>
+        </caption>
+        <media xlink:href="Video7.MPG">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM8">
+        <label>Movie 8</label>
+        <caption>
+          <p><bold>State-space displays of trajectories of spatial principal components (PC) of VSD(t) of all visual scenes for animal 2</bold>. The panels are 6 projections of the 4-dimensional state-space explaining more than 94% of the total variance. Color codes: blue, scene with bar moving down from the CFOV, green, scene with bar moving up from CFOV; light blue, scene with bar moving down from the peripheral field of view; purple, scene with bar moving up from the peripheral field of view; yellow, scene with stationary bar. Remaining animals had similar good separation of the scenes, especially by principal components 2 and 3.</p>
+        </caption>
+        <media xlink:href="Video8.MP4">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM9">
+        <label>Movie 9</label>
+        <caption>
+          <p><bold>State-space displays of trajectories of spatial principal components (PC) of VSD(t) of all 5 visual scenes for animal 3</bold>.</p>
+        </caption>
+        <media xlink:href="Video9.MP4">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM10">
+        <label>Movie 10</label>
+        <caption>
+          <p><bold>State-space displays of trajectories of spatial principal components (PC) of VSD(t) of all 6 visual scenes for animal 4</bold>. The 6th scene was two bars moving toward each other to occlude each other at 413 ms (Harvey and Roland, <xref rid="B27" ref-type="bibr">2013</xref>). This condition is now yellow; the stationary object condition now gray.</p>
+        </caption>
+        <media xlink:href="Video10.MP4">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM11">
+        <label>Movie 11</label>
+        <caption>
+          <p><bold>State-space displays of trajectories of spatial principal components (PC) of VSD(t) of all 6 visual scenes for animal 5</bold>.</p>
+        </caption>
+        <media xlink:href="Video11.MP4">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM12">
+        <label>Movie 12</label>
+        <caption>
+          <p><bold>State-space displays of trajectories of spatial principal components (PC) of VSD(t) of all 6 visual scenes for animal 6</bold>.</p>
+        </caption>
+        <media xlink:href="Video12.MP4">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM13">
+        <label>Movie 13</label>
+        <caption>
+          <p><bold>State-space displays of trajectories of spatial principal components (PC) of VSD(t) of all 6 visual scenes for animal 7</bold>.</p>
+        </caption>
+        <media xlink:href="Video13.MP4">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM14">
+        <label>Movie 14</label>
+        <caption>
+          <p><bold>State-space displays of trajectories of spatial principal components (PC) of VSD(t) of all 6 visual scenes for animal 8</bold>.</p>
+        </caption>
+        <media xlink:href="Video14.MP4">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM15">
+        <label>Movie 15</label>
+        <caption>
+          <p><bold>Space-time dynamics of phase relations of the VSD(t) of network of six animals (Methods)</bold>. The VSD(t) in each channel in the time period shown was normalized to the maximal value of 1. Notice the advance of the VSD(t) increase in areas 19/21 initially.</p>
+        </caption>
+        <media xlink:href="Video15.MPG">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ahmed</surname><given-names>B.</given-names></name><name><surname>Hanazawa</surname><given-names>A.</given-names></name><name><surname>Undeman</surname><given-names>C.</given-names></name><name><surname>Eriksson</surname><given-names>D.</given-names></name><name><surname>Valentiniene</surname><given-names>S.</given-names></name><name><surname>Roland</surname><given-names>P. E.</given-names></name></person-group> (<year>2008</year>). <article-title>Cortical dynamics subserving visual apparent motion</article-title>. <source>Cereb. Cortex</source>
+<volume>18</volume>, <fpage>2796</fpage>–<lpage>2810</lpage>. <pub-id pub-id-type="doi">10.1093/cercor/bhn038</pub-id><?supplied-pmid 18375528?><pub-id pub-id-type="pmid">18375528</pub-id></mixed-citation>
+      </ref>
+      <ref id="B2">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Anderson</surname><given-names>J. S.</given-names></name><name><surname>Carandini</surname><given-names>M.</given-names></name><name><surname>Ferster</surname><given-names>D.</given-names></name></person-group> (<year>2000</year>). <article-title>Orientation tuning of input conductance, excitation, and inhibition in cat primary visual cortex</article-title>. <source>J. Neurophysiol.</source>
+<volume>84</volume>, <fpage>909</fpage>–<lpage>926</lpage>. <?supplied-pmid 10938316?><pub-id pub-id-type="pmid">10938316</pub-id></mixed-citation>
+      </ref>
+      <ref id="B3">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Arieli</surname><given-names>A.</given-names></name><name><surname>Shoham</surname><given-names>D.</given-names></name><name><surname>Hildesheim</surname><given-names>R.</given-names></name><name><surname>Grinvald</surname><given-names>A.</given-names></name></person-group> (<year>1995</year>). <article-title>Coherent spatiotemporal patterns of ongoing activity revealed by real-time optical imaging coupled with single-unit recording in the cat visual cortex</article-title>. <source>J. Neurophysiol.</source>
+<volume>73</volume>, <fpage>2072</fpage>–<lpage>2093</lpage>. <?supplied-pmid 7623099?><pub-id pub-id-type="pmid">7623099</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ayzenshtat</surname><given-names>I.</given-names></name><name><surname>Meirovithz</surname><given-names>E.</given-names></name><name><surname>Edelman</surname><given-names>H.</given-names></name><name><surname>Werner-Reiss</surname><given-names>U.</given-names></name><name><surname>Bienenstock</surname><given-names>E.</given-names></name><name><surname>Abeles</surname><given-names>M.</given-names></name><etal/></person-group>. (<year>2010</year>). <article-title>Precise spatiotemporal patterns among visual cortical areas and their relation to visual stimulus processing</article-title>. <source>J. Neurosci.</source>
+<volume>30</volume>, <fpage>11232</fpage>–<lpage>11245</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.5177-09.2010</pub-id><?supplied-pmid 20720131?><pub-id pub-id-type="pmid">20720131</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Barlow</surname><given-names>H.</given-names></name></person-group> (<year>1961</year>). <article-title>Possible principles underlying the transformations of sensory messages</article-title>, in <source>Sensory communication</source>, ed <person-group person-group-type="editor"><name><surname>Rosenblith</surname><given-names>W. A.</given-names></name></person-group> (<publisher-loc>New York, NY</publisher-loc>: <publisher-name>MIT Press</publisher-name>), <fpage>217</fpage>–<lpage>234</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B6">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Baudot</surname><given-names>P.</given-names></name><name><surname>Levy</surname><given-names>M.</given-names></name><name><surname>Marre</surname><given-names>O.</given-names></name><name><surname>Monier</surname><given-names>C.</given-names></name><name><surname>Pananceau</surname><given-names>M.</given-names></name><name><surname>Frégnac</surname><given-names>Y.</given-names></name></person-group> (<year>2013</year>). <article-title>Animation of natural scene by virtual eye-movements evokes high precision and low noise in V1 neurons</article-title>. <source>Front. Neural Circuits</source>
+<volume>7</volume>:<fpage>206</fpage>. <pub-id pub-id-type="doi">10.3389/fncir.2013.00206</pub-id><?supplied-pmid 24409121?><pub-id pub-id-type="pmid">24409121</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Benjamini</surname><given-names>Y.</given-names></name><name><surname>Hochberg</surname><given-names>Y.</given-names></name></person-group> (<year>1995</year>). <article-title>Controlling the false discovery rate- a practical and powerful approach to multiple testing</article-title>. <source>J. R. Stat. Soc. B Methodol.</source>
+<volume>57</volume>, <fpage>289</fpage>–<lpage>300</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B8">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Berger</surname><given-names>T.</given-names></name><name><surname>Borgdorff</surname><given-names>A.</given-names></name><name><surname>Crochet</surname><given-names>S.</given-names></name><name><surname>Neubauer</surname><given-names>F. B.</given-names></name><name><surname>Lefort</surname><given-names>S.</given-names></name><name><surname>Fauvet</surname><given-names>B.</given-names></name><etal/></person-group>. (<year>2007</year>). <article-title>Combined voltage and calcium epiflourescence imaging in vitro and in vivo reveals subthreshold and suprathreshold dynamics of mouse barrel cortex</article-title>. <source>J. Neurophysiol.</source>
+<volume>97</volume>, <fpage>3751</fpage>–<lpage>3762</lpage>. <pub-id pub-id-type="doi">10.1152/jn.01178.2006</pub-id><?supplied-pmid 17360827?><pub-id pub-id-type="pmid">17360827</pub-id></mixed-citation>
+      </ref>
+      <ref id="B9">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chavane</surname><given-names>F.</given-names></name><name><surname>Sharon</surname><given-names>D.</given-names></name><name><surname>Jancke</surname><given-names>D.</given-names></name><name><surname>Marre</surname><given-names>O.</given-names></name><name><surname>Fregnac</surname><given-names>Y.</given-names></name><name><surname>Grinvald</surname><given-names>A.</given-names></name></person-group> (<year>2011</year>). <article-title>Lateral spread of orientation selectivity in V1 is controlled by intracortical cooperativity</article-title>. <source>Front. Syst. Neurosci.</source>
+<volume>5</volume>:<fpage>4</fpage>
+<pub-id pub-id-type="doi">10.3389/fnsys.2011.00004</pub-id><?supplied-pmid 21629708?><pub-id pub-id-type="pmid">21629708</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chemla</surname><given-names>S.</given-names></name><name><surname>Chavane</surname><given-names>F.</given-names></name></person-group> (<year>2016</year>). <article-title>Effects of GABA-A kinetics on cortical population activity: computational studies and physiological confirmations</article-title>. <source>J. Neurophysiol.</source>
+<volume>115</volume>, <fpage>2867</fpage>–<lpage>2879</lpage>. <pub-id pub-id-type="doi">10.1152/jn.00352.2015</pub-id><pub-id pub-id-type="pmid">26912588</pub-id></mixed-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chen</surname><given-names>C.-M.</given-names></name><name><surname>Lakatos</surname><given-names>P.</given-names></name><name><surname>Shah</surname><given-names>A. S.</given-names></name><name><surname>Mehta</surname><given-names>A. D.</given-names></name><name><surname>Givre</surname><given-names>S. D.</given-names></name><name><surname>Javitt</surname><given-names>D. C.</given-names></name><etal/></person-group>. (<year>2007</year>). <article-title>Functional anatomy and interaction of fast and slow visual pathways in macaque monkeys</article-title>. <source>Cereb. Cortex</source>
+<volume>17</volume>, <fpage>1561</fpage>–<lpage>1569</lpage>. <pub-id pub-id-type="doi">10.1093/cercor/bhl067</pub-id><?supplied-pmid 16950866?><pub-id pub-id-type="pmid">16950866</pub-id></mixed-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cohen</surname><given-names>L. B.</given-names></name><name><surname>Salzberg</surname><given-names>B. M.</given-names></name><name><surname>Davila</surname><given-names>H. V.</given-names></name><name><surname>Ross</surname><given-names>W. N.</given-names></name><name><surname>Landowne</surname><given-names>D.</given-names></name></person-group> (<year>1974</year>). <article-title>Changes in axon fluorescence during activity: molecular probes of membrane potential</article-title>. <source>J. Membr. Biol.</source>
+<volume>19</volume>, <fpage>1</fpage>–<lpage>36</lpage>. <pub-id pub-id-type="doi">10.1007/BF01869968</pub-id><?supplied-pmid 4431037?><pub-id pub-id-type="pmid">4431037</pub-id></mixed-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Creutzfeldt</surname><given-names>O. D.</given-names></name><name><surname>Kuhnt</surname><given-names>U.</given-names></name><name><surname>Benevento</surname><given-names>L. A.</given-names></name></person-group> (<year>1974</year>). <article-title>An intracellular analysis of visual cortical neurons to moving stimuli: responses in a co-operative neuronal network</article-title>. <source>Exp. Brain Res.</source>
+<volume>21</volume>, <fpage>251</fpage>–<lpage>274</lpage>. <pub-id pub-id-type="doi">10.1007/BF00235746</pub-id><pub-id pub-id-type="pmid">4374364</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Deco</surname><given-names>G.</given-names></name><name><surname>Roland</surname><given-names>P.</given-names></name></person-group> (<year>2010</year>). <article-title>The role of multi-area interactions for the computation of apparent motion</article-title>. <source>Neuroimage</source>
+<volume>51</volume>, <fpage>1018</fpage>–<lpage>1026</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuroimage.2010.03.032</pub-id><?supplied-pmid 20303411?><pub-id pub-id-type="pmid">20303411</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dehghani</surname><given-names>N.</given-names></name><name><surname>Peyrache</surname><given-names>A.</given-names></name><name><surname>Telenczuk</surname><given-names>B.</given-names></name><name><surname>Le van Quyen</surname><given-names>M.</given-names></name><name><surname>Halgren</surname><given-names>E.</given-names></name><name><surname>Cash</surname><given-names>S. S.</given-names></name><etal/></person-group>. (<year>2016</year>). <article-title>Dynamic balance of excitation and inhibition in human and monkey neocortex</article-title>. <source>Sci. Rep.</source>
+<volume>6</volume>:<fpage>23176</fpage>. <pub-id pub-id-type="doi">10.1038/srep23176</pub-id><?supplied-pmid 26980663?><pub-id pub-id-type="pmid">26980663</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Denéve</surname><given-names>S.</given-names></name><name><surname>Machens</surname><given-names>C. K.</given-names></name></person-group> (<year>2016</year>). <article-title>Efficient codes and balanced networks</article-title>. <source>Nat. Neurosci.</source>
+<volume>19</volume>, <fpage>375</fpage>–<lpage>382</lpage>. <pub-id pub-id-type="doi">10.1038/nn.4243</pub-id><?supplied-pmid 26906504?><pub-id pub-id-type="pmid">26906504</pub-id></mixed-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Destexhe</surname><given-names>A.</given-names></name><name><surname>Pare</surname><given-names>D.</given-names></name></person-group> (<year>1999</year>). <article-title>Impact of network activity on the integrative properties of neorcortical pyramidal neurons <italic>in vivo</italic></article-title>. <source>J. Neurophysiol.</source>
+<volume>81</volume>, <fpage>1531</fpage>–<lpage>1547</lpage>. <?supplied-pmid 10200189?><pub-id pub-id-type="pmid">10200189</pub-id></mixed-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Eriksson</surname><given-names>D.</given-names></name><name><surname>Tompa</surname><given-names>T.</given-names></name><name><surname>Roland</surname><given-names>P. E.</given-names></name></person-group> (<year>2008</year>). <article-title>Non-linear population firing rates and voltage sensitive dye signals in visual areas 17 and 18 to short duration stimuli</article-title>. <source>PLoS ONE</source>
+<volume>3</volume>:<fpage>e2673</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pone.0002673</pub-id><?supplied-pmid 18628825?><pub-id pub-id-type="pmid">18628825</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Eriksson</surname><given-names>D.</given-names></name><name><surname>Valentiniene</surname><given-names>S.</given-names></name><name><surname>Papaioannou</surname><given-names>S.</given-names></name></person-group> (<year>2010</year>). <article-title>Relating information, encoding and adaptation: decoding the population firing rate in visual areas 17/18 as response to stimulus transition</article-title>. <source>PLoS ONE</source>
+<volume>5</volume>:<fpage>e10327</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pone.0010327</pub-id><?supplied-pmid 20436907?><pub-id pub-id-type="pmid">20436907</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ferezou</surname><given-names>I.</given-names></name><name><surname>Bolea</surname><given-names>S.</given-names></name><name><surname>Petersen</surname><given-names>C. C.</given-names></name></person-group> (<year>2006</year>). <article-title>Visualizing the cortical representation of whisker touch: voltage-sensitive dye imaging in freely moving mice</article-title>. <source>Neuron</source>
+<volume>50</volume>, <fpage>617</fpage>–<lpage>629</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuron.2006.03.043</pub-id><?supplied-pmid 16701211?><pub-id pub-id-type="pmid">16701211</pub-id></mixed-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Fiala</surname><given-names>J. C.</given-names></name><name><surname>Harris</surname><given-names>K. M.</given-names></name></person-group> (<year>1999</year>). <article-title>Dendrite structure</article-title>, in <source>Dendrites</source>, eds <person-group person-group-type="editor"><name><surname>Stuart</surname><given-names>G.</given-names></name><name><surname>Spruston</surname><given-names>N.</given-names></name><name><surname>Häusser</surname><given-names>M.</given-names></name></person-group> (<publisher-loc>Oxford</publisher-loc>: <publisher-name>Oxford University Press</publisher-name>), <fpage>1</fpage>–<lpage>34</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Forsberg</surname><given-names>L. E.</given-names></name><name><surname>Bonde</surname><given-names>L. H.</given-names></name><name><surname>Harvey</surname><given-names>M. A.</given-names></name><name><surname>Roland</surname><given-names>P. E.</given-names></name></person-group> (<year>2016</year>). <article-title>The second spiking threshold: dynamics of laminar network spiking in the visual cortex</article-title>. <source>Front. Syst. Neurosci.</source>
+<volume>10</volume>:<fpage>65</fpage>. <pub-id pub-id-type="doi">10.3389/fnsys.2016.00065</pub-id><?supplied-pmid 27582693?><pub-id pub-id-type="pmid">27582693</pub-id></mixed-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Grinvald</surname><given-names>A.</given-names></name><name><surname>Lieke</surname><given-names>E. E.</given-names></name><name><surname>Frostig</surname><given-names>R. D.</given-names></name><name><surname>Hildesheim</surname><given-names>R.</given-names></name></person-group> (<year>1994</year>). <article-title>Cortical point-spread function and long-range lateral interactions revealed by real-time optical imaging of macaque monkey primary visual cortex</article-title>. <source>J. Neurosci.</source>
+<volume>14</volume>, <fpage>2545</fpage>–<lpage>2568</lpage>. <?supplied-pmid 8182427?><pub-id pub-id-type="pmid">8182427</pub-id></mixed-citation>
+      </ref>
+      <ref id="B24">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gross</surname><given-names>C. G.</given-names></name><name><surname>Rocha-Miranda</surname><given-names>C. E.</given-names></name><name><surname>Bender</surname><given-names>D. B.</given-names></name></person-group> (<year>1972</year>). <article-title>Visual properties of neurons in inferotemporal cortex of the Macaque</article-title>. <source>J. Neurophysiol.</source>
+<volume>35</volume>, <fpage>96</fpage>–<lpage>111</lpage>. <pub-id pub-id-type="doi">10.3389/fnsys.2010.00028</pub-id><?supplied-pmid 4621506?><pub-id pub-id-type="pmid">4621506</pub-id></mixed-citation>
+      </ref>
+      <ref id="B25">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Haider</surname><given-names>B.</given-names></name><name><surname>Duque</surname><given-names>A.</given-names></name><name><surname>Hasenstaub</surname><given-names>A. R.</given-names></name><name><surname>McCormick</surname><given-names>D. A.</given-names></name></person-group> (<year>2006</year>). <article-title>Neocortical network activity <italic>in vivo</italic> is generated through a dynamic balance of excitation and inhibition</article-title>. <source>J. Neurosci.</source>
+<volume>26</volume>, <fpage>4535</fpage>–<lpage>4545</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.5297-05.2006</pub-id><?supplied-pmid 16641233?><pub-id pub-id-type="pmid">16641233</pub-id></mixed-citation>
+      </ref>
+      <ref id="B26">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Haider</surname><given-names>B.</given-names></name><name><surname>Häusser</surname><given-names>M.</given-names></name><name><surname>Carandini</surname><given-names>M.</given-names></name></person-group> (<year>2013</year>). <article-title>Inhibition dominates sensory responses in the awake cortex</article-title>. <source>Nature</source>
+<volume>493</volume>, <fpage>97</fpage>–<lpage>100</lpage>
+<pub-id pub-id-type="doi">10.1038/nature11665</pub-id><?supplied-pmid 23172139?><pub-id pub-id-type="pmid">23172139</pub-id></mixed-citation>
+      </ref>
+      <ref id="B27">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Harvey</surname><given-names>M. A.</given-names></name><name><surname>Roland</surname><given-names>P. E.</given-names></name></person-group> (<year>2013</year>). <article-title>Laminar firing and membrane dynamics in four visual areas exposed to two objects moving to occlusion</article-title>. <source>Front. Syst. Neurosci.</source>
+<volume>7</volume>:<fpage>23</fpage>. <pub-id pub-id-type="doi">10.3389/fnsys.2013.00023</pub-id><?supplied-pmid 23805082?><pub-id pub-id-type="pmid">23805082</pub-id></mixed-citation>
+      </ref>
+      <ref id="B28">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Harvey</surname><given-names>M. A.</given-names></name><name><surname>Valentiniene</surname><given-names>S.</given-names></name><name><surname>Roland</surname><given-names>P. E.</given-names></name></person-group> (<year>2009</year>). <article-title>Cortical membrane potential dynamics and laminar firing during object motion</article-title>. <source>Front. Syst. Neurosci.</source>
+<volume>3</volume>:<fpage>7</fpage>. <pub-id pub-id-type="doi">10.3389/neuro.06.007.2009</pub-id><?supplied-pmid 19753323?><pub-id pub-id-type="pmid">19753323</pub-id></mixed-citation>
+      </ref>
+      <ref id="B29">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hubel</surname><given-names>D. H.</given-names></name><name><surname>Wiesel</surname><given-names>T. N.</given-names></name></person-group> (<year>1959</year>). <article-title>Receptive fields of single neurons in the cat‘s striate cortex</article-title>. <source>J. Physiol.</source>
+<volume>148</volume>, <fpage>574</fpage>–<lpage>591</lpage>. <pub-id pub-id-type="doi">10.1113/jphysiol.1959.sp006308</pub-id><pub-id pub-id-type="pmid">14403679</pub-id></mixed-citation>
+      </ref>
+      <ref id="B30">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Huys</surname><given-names>R.</given-names></name><name><surname>Jirsa</surname><given-names>V. K.</given-names></name><name><surname>Darokhan</surname><given-names>Z.</given-names></name><name><surname>Valentiniene</surname><given-names>S.</given-names></name><name><surname>Roland</surname><given-names>P. E.</given-names></name></person-group> (<year>2015</year>). <article-title>Visually evoked spiking evolves while spontaneous ongoing dynamics persist</article-title>. <source>Front. Syst. Neurosci</source>. <volume>9</volume>:<fpage>183</fpage>. <pub-id pub-id-type="doi">10.3389/fnsys.2015.00183</pub-id><?supplied-pmid 26778982?><pub-id pub-id-type="pmid">26778982</pub-id></mixed-citation>
+      </ref>
+      <ref id="B31">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Izhikevich</surname><given-names>E. M.</given-names></name><name><surname>Edelman</surname><given-names>G. E.</given-names></name></person-group> (<year>2008</year>). <article-title>Large-scale model of mammalian thalamocortical systems</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A</source>. <volume>105</volume>, <fpage>3593</fpage>–<lpage>3598</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0712231105</pub-id><?supplied-pmid 18292226?><pub-id pub-id-type="pmid">18292226</pub-id></mixed-citation>
+      </ref>
+      <ref id="B32">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jancke</surname><given-names>D.</given-names></name><name><surname>Chavane</surname><given-names>F.</given-names></name><name><surname>Naaman</surname><given-names>S.</given-names></name><name><surname>Grinvald</surname><given-names>A.</given-names></name></person-group> (<year>2004</year>). <article-title>Imaging cortical correlates of illusion in early visual cortex</article-title>. <source>Nature</source>
+<volume>428</volume>, <fpage>423</fpage>–<lpage>426</lpage>. <pub-id pub-id-type="doi">10.1038/nature02396</pub-id><?supplied-pmid 15042090?><pub-id pub-id-type="pmid">15042090</pub-id></mixed-citation>
+      </ref>
+      <ref id="B33">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kisvarday</surname><given-names>Z. F.</given-names></name><name><surname>Toth</surname><given-names>E.</given-names></name><name><surname>Rausch</surname><given-names>M.</given-names></name><name><surname>Eysel</surname><given-names>U. T.</given-names></name></person-group> (<year>1997</year>). <article-title>Orientation-specific relationship between populations of excitatory and inhibitory lateral connections in the visual cortex of the cat</article-title>. <source>Cereb. Cortex</source>
+<volume>7</volume>, <fpage>605</fpage>–<lpage>618</lpage>. <pub-id pub-id-type="doi">10.1093/cercor/7.7.605</pub-id><?supplied-pmid 9373017?><pub-id pub-id-type="pmid">9373017</pub-id></mixed-citation>
+      </ref>
+      <ref id="B34">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kumar</surname><given-names>A.</given-names></name><name><surname>Schrader</surname><given-names>S.</given-names></name><name><surname>Aertsen</surname><given-names>A.</given-names></name><name><surname>Rotter</surname><given-names>S.</given-names></name></person-group> (<year>2008</year>). <article-title>The high conductance state of cortical networks</article-title>. <source>Neural Comput.</source>
+<volume>20</volume>, <fpage>1</fpage>–<lpage>43</lpage>. <pub-id pub-id-type="doi">10.1162/neco.2008.20.1.1</pub-id><?supplied-pmid 18044999?><pub-id pub-id-type="pmid">18044999</pub-id></mixed-citation>
+      </ref>
+      <ref id="B35">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Malagarriga</surname><given-names>D.</given-names></name><name><surname>Villa</surname><given-names>A. E. P.</given-names></name><name><surname>Garcia-Ojalvo</surname><given-names>J.</given-names></name><name><surname>Pons</surname><given-names>A. J.</given-names></name></person-group> (<year>2015</year>). <article-title>Mesoscopic segregation of excitation and inhibition in a brain network model</article-title>. <source>PLoS Comput. Biol.</source>
+<volume>11</volume>:<fpage>e1004007</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pcbi.1004007</pub-id><?supplied-pmid 25671573?><pub-id pub-id-type="pmid">25671573</pub-id></mixed-citation>
+      </ref>
+      <ref id="B36">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Markounikau</surname><given-names>V.</given-names></name><name><surname>Igel</surname><given-names>C.</given-names></name><name><surname>Grinvald</surname><given-names>A.</given-names></name><name><surname>Jancke</surname><given-names>D.</given-names></name></person-group> (<year>2010</year>). <article-title>A dynamic neural field model of mesoscopic cortical activity capturted with voltage-sensitive dye imaging (20010)</article-title>. <source>PLoS Comput. Biol.</source>
+<volume>6</volume>:<fpage>e1000919</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pcbi.1000919</pub-id><pub-id pub-id-type="pmid">20838578</pub-id></mixed-citation>
+      </ref>
+      <ref id="B37">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Markram</surname><given-names>H.</given-names></name><name><surname>Muller</surname><given-names>E.</given-names></name><name><surname>Ramaswamy</surname><given-names>S.</given-names></name><name><surname>Reimann</surname><given-names>M. W.</given-names></name><name><surname>Abdellah</surname><given-names>M.</given-names></name><name><surname>Sanchez</surname><given-names>C. A.</given-names></name><etal/></person-group>. (<year>2015</year>). <article-title>Reconstruction and simulation of neocortical microcircuity</article-title>. <source>Cell</source>
+<volume>163</volume>, <fpage>456</fpage>–<lpage>492</lpage>. <pub-id pub-id-type="doi">10.1016/j.cell.2015.09.029</pub-id><?supplied-pmid 26451489?><pub-id pub-id-type="pmid">26451489</pub-id></mixed-citation>
+      </ref>
+      <ref id="B38">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Martinez</surname><given-names>L. M.</given-names></name><name><surname>Alonso</surname><given-names>J. M.</given-names></name><name><surname>Reid</surname><given-names>R. C.</given-names></name><name><surname>Hirsch</surname><given-names>J. A.</given-names></name></person-group> (<year>2002</year>). <article-title>Laminar processing of stimulus orientation in cat visual cortex</article-title>. <source>J. Physiol.</source>
+<volume>540</volume>, <fpage>321</fpage>–<lpage>333</lpage>. <pub-id pub-id-type="doi">10.1113/jphysiol.2001.012776</pub-id><?supplied-pmid 11927690?><pub-id pub-id-type="pmid">11927690</pub-id></mixed-citation>
+      </ref>
+      <ref id="B39">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mennerick</surname><given-names>S.</given-names></name><name><surname>Chisari</surname><given-names>M.</given-names></name><name><surname>Shu</surname><given-names>H.-J.</given-names></name><name><surname>Taylor</surname><given-names>A.</given-names></name><name><surname>Vasek</surname><given-names>M.</given-names></name><name><surname>Eisenmann</surname><given-names>L. N.</given-names></name><etal/></person-group> (<year>2010</year>). <article-title>Diverse voltage sensitive dyes modulate GABA-A receptor function</article-title>. <source>J. Neurosci.</source>
+<volume>30</volume>, <fpage>2871</fpage>–<lpage>2879</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.5607-09.2010</pub-id><pub-id pub-id-type="pmid">20181584</pub-id></mixed-citation>
+      </ref>
+      <ref id="B40">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Monier</surname><given-names>C.</given-names></name><name><surname>Chavane</surname><given-names>F.</given-names></name><name><surname>Baudot</surname><given-names>P.</given-names></name><name><surname>Graham</surname><given-names>L. J.</given-names></name><name><surname>Frégnac</surname><given-names>Y.</given-names></name></person-group> (<year>2003</year>). <article-title>Orientation and direction selectivity of synaptic inputs in visual cortical neurons: a diversity of combinations produces spike tuning</article-title>. <source>Neuron</source>
+<volume>37</volume>, <fpage>663</fpage>–<lpage>680</lpage>. <pub-id pub-id-type="doi">10.1016/S0896-6273(03)00064-3</pub-id><?supplied-pmid 12597863?><pub-id pub-id-type="pmid">12597863</pub-id></mixed-citation>
+      </ref>
+      <ref id="B41">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Monier</surname><given-names>C.</given-names></name><name><surname>Fournier</surname><given-names>J.</given-names></name><name><surname>Frégnac</surname><given-names>Y.</given-names></name></person-group> (<year>2008</year>). <article-title><italic>In vitro</italic> and <italic>in vivo</italic> measures of evoked excitatory and inhibitory conductance dynamics in sensory cortices</article-title>. <source>J. Neurosci. Methods</source>
+<volume>169</volume>, <fpage>323</fpage>–<lpage>365</lpage>. <pub-id pub-id-type="doi">10.1016/j.jneumeth.2007.11.008</pub-id><?supplied-pmid 18215425?><pub-id pub-id-type="pmid">18215425</pub-id></mixed-citation>
+      </ref>
+      <ref id="B42">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Müller</surname><given-names>L.</given-names></name><name><surname>Reynaud</surname><given-names>A.</given-names></name><name><surname>Chavane</surname><given-names>F.</given-names></name><name><surname>Destexhe</surname><given-names>A.</given-names></name></person-group> (<year>2014</year>). <article-title>The stimulus evoked population response in visual cortex of awake monkey is a propagating wave</article-title>. <source>Nat. Commun.</source>
+<volume>5</volume>:<fpage>3675</fpage>. <pub-id pub-id-type="doi">10.1038/ncomms4675</pub-id><?supplied-pmid 24770473?><pub-id pub-id-type="pmid">24770473</pub-id></mixed-citation>
+      </ref>
+      <ref id="B43">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Okun</surname><given-names>M.</given-names></name><name><surname>Lampl</surname><given-names>I.</given-names></name></person-group> (<year>2008</year>). <article-title>Instantaneous correlation of excitation and inhibition during ongoing and sensory-evoked activities</article-title>. <source>Nat. Neurosci.</source>
+<volume>11</volume>, <fpage>535</fpage>–<lpage>537</lpage>. <pub-id pub-id-type="doi">10.1038/nn.2105</pub-id><?supplied-pmid 18376400?><pub-id pub-id-type="pmid">18376400</pub-id></mixed-citation>
+      </ref>
+      <ref id="B44">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Onat</surname><given-names>S.</given-names></name><name><surname>König</surname><given-names>P.</given-names></name><name><surname>Jancke</surname><given-names>D.</given-names></name></person-group> (<year>2011a</year>). <article-title>Natural scene evoked population dynamics across cat primary visual cortex captured with voltage-sensitive dye imaging</article-title>. <source>Cereb. Cortex</source>
+<volume>21</volume>, <fpage>2542</fpage>–<lpage>2554</lpage>. <pub-id pub-id-type="doi">10.1093/cercor/bhr038</pub-id><?supplied-pmid 21459837?><pub-id pub-id-type="pmid">21459837</pub-id></mixed-citation>
+      </ref>
+      <ref id="B45">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Onat</surname><given-names>S.</given-names></name><name><surname>Nortmann</surname><given-names>N.</given-names></name><name><surname>Rekauzke</surname><given-names>S.</given-names></name><name><surname>König</surname><given-names>P.</given-names></name><name><surname>Jancke</surname><given-names>D.</given-names></name></person-group> (<year>2011b</year>). <article-title>Independent encoding of gtrating motion across stationary feature maps in primary visual cortex visualized with voltage-sensitive dye imaging</article-title>. <source>Neuroimage</source>
+<volume>55</volume>, <fpage>1763</fpage>–<lpage>1770</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuroimage.2011.01.004</pub-id><?supplied-pmid 21232616?><pub-id pub-id-type="pmid">21232616</pub-id></mixed-citation>
+      </ref>
+      <ref id="B46">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Petersen</surname><given-names>C. C.</given-names></name><name><surname>Grinvald</surname><given-names>A.</given-names></name><name><surname>Sakmann</surname><given-names>B.</given-names></name></person-group> (<year>2003</year>). <article-title>Spatiotemporal dynamics of sensory responses in layer 2/3 of rat barrel cortex measured <italic>in vivo</italic> by voltage-sensitive dye imaging combined with whole-cell voltage recordings and neuron reconstructions</article-title>. <source>J. Neurosci.</source>
+<volume>23</volume>, <fpage>1298</fpage>–<lpage>1309</lpage>. <?supplied-pmid 12598618?><pub-id pub-id-type="pmid">12598618</pub-id></mixed-citation>
+      </ref>
+      <ref id="B47">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Priebe</surname><given-names>N.</given-names></name><name><surname>Ferster</surname><given-names>D.</given-names></name></person-group> (<year>2005</year>). <article-title>Direction selectivity of excitation and inhibition in simple cells of the cat primary visual cortex</article-title>. <source>Neuron</source>
+<volume>45</volume>, <fpage>133</fpage>–<lpage>145</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuron.2004.12.024</pub-id><?supplied-pmid 15629708?><pub-id pub-id-type="pmid">15629708</pub-id></mixed-citation>
+      </ref>
+      <ref id="B48">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rangan</surname><given-names>A. V.</given-names></name><name><surname>Cai</surname><given-names>D.</given-names></name><name><surname>McLaughlin</surname><given-names>D. W.</given-names></name></person-group> (<year>2005</year>). <article-title>Modeling the spatiotemporal cortical activity associated with the line-motion illusion in primary visual cortex</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A</source>
+<volume>102</volume>, <fpage>18793</fpage>–<lpage>18800</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0509481102</pub-id><?supplied-pmid 16380423?><pub-id pub-id-type="pmid">16380423</pub-id></mixed-citation>
+      </ref>
+      <ref id="B49">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rappelsberger</surname><given-names>P.</given-names></name><name><surname>Pockberger</surname><given-names>H.</given-names></name><name><surname>Petsche</surname><given-names>H.</given-names></name></person-group> (<year>1981</year>). <article-title>Current source density analysis: methods and application to simultaneously recorded field potential of the rabbit's visual cortex</article-title>. <source>Phlügers Arch.</source>
+<volume>389</volume>, <fpage>159</fpage>–<lpage>170</lpage>. <pub-id pub-id-type="doi">10.1007/BF00582108</pub-id><?supplied-pmid 6259585?><pub-id pub-id-type="pmid">6259585</pub-id></mixed-citation>
+      </ref>
+      <ref id="B50">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Reid</surname><given-names>R. C.</given-names></name><name><surname>Victor</surname><given-names>J. D.</given-names></name><name><surname>Shapley</surname><given-names>R. M.</given-names></name></person-group> (<year>1997</year>). <article-title>The use of m-sequences in the analysis of visual neurons: linear receptive field properties</article-title>. <source>Vis. Neurosci.</source>
+<volume>14</volume>, <fpage>1015</fpage>–<lpage>1027</lpage>. <pub-id pub-id-type="doi">10.1017/S0952523800011743</pub-id><?supplied-pmid 9447685?><pub-id pub-id-type="pmid">9447685</pub-id></mixed-citation>
+      </ref>
+      <ref id="B51">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Richmond</surname><given-names>B. J.</given-names></name><name><surname>Optican</surname><given-names>L. M.</given-names></name></person-group> (<year>1990</year>). <article-title>Temporal encoding of two-dimensional patterns by single units in primate primary visual cortex. II. Information transmission</article-title>. <source>J. Neurophysiol.</source>
+<volume>64</volume>, <fpage>370</fpage>–<lpage>380</lpage>. <?supplied-pmid 2213123?><pub-id pub-id-type="pmid">2213123</pub-id></mixed-citation>
+      </ref>
+      <ref id="B52">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ries</surname><given-names>C. R.</given-names></name><name><surname>Puil</surname><given-names>E.</given-names></name></person-group> (<year>1999</year>). <article-title>Ionic mechanism of isoflurane's action on thalamo-cortical neurons</article-title>. <source>J. Neurophysiol.</source>
+<volume>81</volume>, <fpage>1802</fpage>–<lpage>1809</lpage>.<pub-id pub-id-type="pmid">10200214</pub-id></mixed-citation>
+      </ref>
+      <ref id="B53">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Roland</surname><given-names>P. E.</given-names></name></person-group> (<year>2002</year>). <article-title>Dynamic depolarization fields in the cerebral cortex</article-title>. <source>Trends Neurosci.</source>
+<volume>25</volume>, <fpage>183</fpage>–<lpage>190</lpage>. <pub-id pub-id-type="doi">10.1016/S0166-2236(00)02125-1</pub-id><?supplied-pmid 11998686?><pub-id pub-id-type="pmid">11998686</pub-id></mixed-citation>
+      </ref>
+      <ref id="B54">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Roland</surname><given-names>P. E.</given-names></name></person-group> (<year>2010</year>). <article-title>Six principles of visual cortical dynamics</article-title>. <source>Front. Syst. Neurosci.</source>
+<volume>4</volume>:<fpage>28</fpage>. <pub-id pub-id-type="doi">10.3389/fnsys.2010.00028</pub-id><?supplied-pmid 20661451?><pub-id pub-id-type="pmid">20661451</pub-id></mixed-citation>
+      </ref>
+      <ref id="B55">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Roland</surname><given-names>P. E.</given-names></name><name><surname>Hanazawa</surname><given-names>A.</given-names></name><name><surname>Undeman</surname><given-names>C.</given-names></name><name><surname>Eriksson</surname><given-names>D.</given-names></name><name><surname>Tompa</surname><given-names>T.</given-names></name><name><surname>Nakamura</surname><given-names>H.</given-names></name><etal/></person-group>. (<year>2006</year>). <article-title>Cortical feedback depolarization waves: a mechanism of top-down influence on early visual areas</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume>103</volume>, <fpage>12586</fpage>–<lpage>12591</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0604925103</pub-id><?supplied-pmid 16891418?><pub-id pub-id-type="pmid">16891418</pub-id></mixed-citation>
+      </ref>
+      <ref id="B56">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Roland</surname><given-names>P. E.</given-names></name><name><surname>Hilgetag</surname><given-names>C. C.</given-names></name><name><surname>Deco</surname><given-names>G.</given-names></name></person-group> (<year>2014</year>). <article-title>Cortico-cortical communication dynamics</article-title>. <source>Front. Syst. Neurosci.</source>
+<volume>8</volume>:<fpage>19</fpage>
+<pub-id pub-id-type="doi">10.3389/fnsys.2014.00019</pub-id><pub-id pub-id-type="pmid">24847217</pub-id></mixed-citation>
+      </ref>
+      <ref id="B57">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rudolph</surname><given-names>M.</given-names></name><name><surname>Pospischil</surname><given-names>M.</given-names></name><name><surname>Timofeev</surname><given-names>I.</given-names></name><name><surname>Destexhe</surname><given-names>A.</given-names></name></person-group> (<year>2007</year>). <article-title>Inhibition determines membrane potential dynamics and controls action potential generation in awake and sleeping cat cortex</article-title>. <source>J. Neurosci.</source>
+<volume>27</volume>, <fpage>5280</fpage>–<lpage>5290</lpage>
+<pub-id pub-id-type="doi">10.1523/JNEUROSCI.4652-06.2007</pub-id><?supplied-pmid 17507551?><pub-id pub-id-type="pmid">17507551</pub-id></mixed-citation>
+      </ref>
+      <ref id="B58">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Senseman</surname><given-names>D. M.</given-names></name></person-group> (<year>1996</year>). <article-title>Correspondance between visually evoked voltage-sensitive dye signals and synaptic activity recorded in cortical pyramidal cells with intracellular microelectrodes</article-title>. <source>Vis. Neurosci.</source>
+<volume>13</volume>, <fpage>963</fpage>–<lpage>977</lpage>. <pub-id pub-id-type="doi">10.1017/S0952523800009196</pub-id><?supplied-pmid 8903037?><pub-id pub-id-type="pmid">8903037</pub-id></mixed-citation>
+      </ref>
+      <ref id="B59">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Slovin</surname><given-names>H.</given-names></name><name><surname>Arieli</surname><given-names>A.</given-names></name><name><surname>Hildesheim</surname><given-names>R.</given-names></name><name><surname>Grinvald</surname><given-names>A.</given-names></name></person-group> (<year>2002</year>). <article-title>Long-term voltage-sensitive dye imaging reveals cortical dynamics in behaving monkeys</article-title>. <source>J. Neurophysiol.</source>
+<volume>88</volume>, <fpage>3421</fpage>–<lpage>3438</lpage>. <pub-id pub-id-type="doi">10.1152/jn.00194.2002</pub-id><?supplied-pmid 12466458?><pub-id pub-id-type="pmid">12466458</pub-id></mixed-citation>
+      </ref>
+      <ref id="B60">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tan</surname><given-names>A. Y. Y.</given-names></name><name><surname>Brown</surname><given-names>B. D.</given-names></name><name><surname>Scholl</surname><given-names>B.</given-names></name><name><surname>Mohanty</surname><given-names>D.</given-names></name><name><surname>Priebe</surname><given-names>N. J</given-names></name></person-group> (<year>2011</year>). <article-title>Orientation selectivity of synaptic input to neurons in mouse and cat visual cortex</article-title>. <source>J. Neurosci.</source>
+<volume>34</volume>, <fpage>12339</fpage>–<lpage>12350</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.2039-11.2011</pub-id></mixed-citation>
+      </ref>
+      <ref id="B61">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Thorpe</surname><given-names>S.</given-names></name><name><surname>Fize</surname><given-names>D.</given-names></name><name><surname>Marlot</surname><given-names>C.</given-names></name></person-group> (<year>1996</year>). <article-title>Speed of processing in the human visual system</article-title>. <source>Nature</source>
+<volume>381</volume>, <fpage>520</fpage>–<lpage>522</lpage>. <pub-id pub-id-type="doi">10.1038/381520a0</pub-id><?supplied-pmid 8632824?><pub-id pub-id-type="pmid">8632824</pub-id></mixed-citation>
+      </ref>
+      <ref id="B62">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>van Vreeswijk</surname><given-names>C.</given-names></name><name><surname>Sompolinsky</surname><given-names>H.</given-names></name></person-group> (<year>1996</year>). <article-title>Chaos in neural networks with balanced excitatory and inhibitory activity</article-title>. <source>Science</source>
+<volume>274</volume>, <fpage>1724</fpage>–<lpage>1726</lpage>. <pub-id pub-id-type="doi">10.1126/science.274.5293.1724</pub-id><pub-id pub-id-type="pmid">8939866</pub-id></mixed-citation>
+      </ref>
+      <ref id="B63">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Williams</surname><given-names>S. R.</given-names></name><name><surname>Mitchell</surname><given-names>S. J.</given-names></name></person-group> (<year>2008</year>). <article-title>Direct measurement of somatic voltage clamp errors in central neurons</article-title>. <source>Nat. Neurosci.</source>
+<volume>11</volume>, <fpage>790</fpage>–<lpage>798</lpage>. <pub-id pub-id-type="doi">10.1038/nn.2137</pub-id><?supplied-pmid 18552844?><pub-id pub-id-type="pmid">18552844</pub-id></mixed-citation>
+      </ref>
+      <ref id="B64">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Xue</surname><given-names>M.</given-names></name><name><surname>Atallah</surname><given-names>B. V.</given-names></name><name><surname>Scanziani</surname><given-names>M.</given-names></name></person-group> (<year>2014</year>). <article-title>Equalizing excitation-inhibition ratios across visual cortical neurons</article-title>. <source>Nature</source>
+<volume>511</volume>, <fpage>596</fpage>–<lpage>600</lpage>. <pub-id pub-id-type="doi">10.1038/nature13321</pub-id><?supplied-pmid 25043046?><pub-id pub-id-type="pmid">25043046</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+    <glossary>
+      <def-list>
+        <title>Abbreviations</title>
+        <def-item>
+          <term>CFOV</term>
+          <def>
+            <p>center of field of view</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>FDR</term>
+          <def>
+            <p>false discovery rate</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>FOV</term>
+          <def>
+            <p>field of view</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>MUA</term>
+          <def>
+            <p>multi-unit activity</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>NEX</term>
+          <def>
+            <p>net excitation</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>NINH</term>
+          <def>
+            <p>net inhibition</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>VSD(t)</term>
+          <def>
+            <p>averaged voltage sensitive dye signal.</p>
+          </def>
+        </def-item>
+      </def-list>
+    </glossary>
+  </back>
+</article>
+
+</metadata></record>

@@ -1,0 +1,1816 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5362656</identifier><datestamp>2017-04-04</datestamp><setSpec>springeropen</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Patient</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Patient</journal-id>
+      <journal-title-group>
+        <journal-title>The Patient</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1178-1653</issn>
+      <issn pub-type="epub">1178-1661</issn>
+      <publisher>
+        <publisher-name>Springer International Publishing</publisher-name>
+        <publisher-loc>Cham</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5362656</article-id>
+      <article-id pub-id-type="pmcid">PMC5362656</article-id>
+      <article-id pub-id-type="pmc-uid">5362656</article-id>
+      <article-id pub-id-type="pmid">27704486</article-id>
+      <article-id pub-id-type="publisher-id">198</article-id>
+      <article-id pub-id-type="doi">10.1007/s40271-016-0198-4</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Practical Application</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Successful Stepwise Development of Patient Research Partnership: 14 Years’ Experience of Actions and Consequences in Outcome Measures in Rheumatology (OMERACT)</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" corresp="yes">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8428-6354</contrib-id>
+          <name>
+            <surname>de Wit</surname>
+            <given-names>Maarten</given-names>
+          </name>
+          <address>
+            <phone>+31 20 4448219</phone>
+            <phone>+31 418 515904</phone>
+            <email>mp.dewit@vumc.nl</email>
+            <email>martinusdewit@hotmail.com</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kirwan</surname>
+            <given-names>John R.</given-names>
+          </name>
+          <address>
+            <email>john.kirwan@bristol.ac.uk</email>
+          </address>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tugwell</surname>
+            <given-names>Peter</given-names>
+          </name>
+          <address>
+            <email>Tugwell.BB@uOttawa.ca</email>
+          </address>
+          <xref ref-type="aff" rid="Aff4">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Beaton</surname>
+            <given-names>Dorcas</given-names>
+          </name>
+          <address>
+            <email>beatond@smh.ca</email>
+          </address>
+          <xref ref-type="aff" rid="Aff5">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Boers</surname>
+            <given-names>Maarten</given-names>
+          </name>
+          <address>
+            <email>m.boers@vumc.nl</email>
+          </address>
+          <xref ref-type="aff" rid="Aff6">6</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Brooks</surname>
+            <given-names>Peter</given-names>
+          </name>
+          <address>
+            <email>brooksp@unimelb.edu.au</email>
+          </address>
+          <xref ref-type="aff" rid="Aff7">7</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Collins</surname>
+            <given-names>Sarah</given-names>
+          </name>
+          <address>
+            <email>sarah.collins_counsellor@btopenworld.com</email>
+          </address>
+          <xref ref-type="aff" rid="Aff8">8</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Conaghan</surname>
+            <given-names>Philip G.</given-names>
+          </name>
+          <address>
+            <email>P.Conaghan@leeds.ac.uk</email>
+          </address>
+          <xref ref-type="aff" rid="Aff9">9</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>D’Agostino</surname>
+            <given-names>Maria-Antonietta</given-names>
+          </name>
+          <address>
+            <email>maria-antonietta.dagostino@aphp.fr</email>
+          </address>
+          <xref ref-type="aff" rid="Aff10">10</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hofstetter</surname>
+            <given-names>Cathie</given-names>
+          </name>
+          <address>
+            <email>mcfence@on.aibn.com</email>
+          </address>
+          <xref ref-type="aff" rid="Aff11">11</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hughes</surname>
+            <given-names>Rod</given-names>
+          </name>
+          <address>
+            <email>Rod.Hughes@asph.nhs.uk</email>
+          </address>
+          <xref ref-type="aff" rid="Aff12">12</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Leong</surname>
+            <given-names>Amye</given-names>
+          </name>
+          <address>
+            <email>amye@healthymotivation.com</email>
+          </address>
+          <xref ref-type="aff" rid="Aff13">13</xref>
+          <xref ref-type="aff" rid="Aff14">14</xref>
+          <xref ref-type="aff" rid="Aff15">15</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lyddiatt</surname>
+            <given-names>Ann</given-names>
+          </name>
+          <address>
+            <email>alyddiatt@primus.ca</email>
+          </address>
+          <xref ref-type="aff" rid="Aff11">11</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>March</surname>
+            <given-names>Lyn</given-names>
+          </name>
+          <address>
+            <email>lyn.march@sydney.edu.au</email>
+          </address>
+          <xref ref-type="aff" rid="Aff16">16</xref>
+          <xref ref-type="aff" rid="Aff17">17</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>May</surname>
+            <given-names>James</given-names>
+          </name>
+          <address>
+            <email>jmay@seanet.com</email>
+          </address>
+          <xref ref-type="aff" rid="Aff18">18</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Montie</surname>
+            <given-names>Pamela</given-names>
+          </name>
+          <address>
+            <email>plmontie@gmail.com</email>
+          </address>
+          <xref ref-type="aff" rid="Aff11">11</xref>
+          <xref ref-type="aff" rid="Aff19">19</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Richards</surname>
+            <given-names>Pamela</given-names>
+          </name>
+          <address>
+            <email>pamrichards@mac.com</email>
+          </address>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+          <xref ref-type="aff" rid="Aff20">20</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Simon</surname>
+            <given-names>Lee S.</given-names>
+          </name>
+          <address>
+            <email>lssconsult@aol.com</email>
+          </address>
+          <xref ref-type="aff" rid="Aff21">21</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Singh</surname>
+            <given-names>Jasvinder A.</given-names>
+          </name>
+          <address>
+            <email>jasvinder.md@gmail.com</email>
+          </address>
+          <xref ref-type="aff" rid="Aff22">22</xref>
+          <xref ref-type="aff" rid="Aff23">23</xref>
+          <xref ref-type="aff" rid="Aff24">24</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Strand</surname>
+            <given-names>Vibeke</given-names>
+          </name>
+          <address>
+            <email>vibekestrand@me.com</email>
+          </address>
+          <xref ref-type="aff" rid="Aff25">25</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Voshaar</surname>
+            <given-names>Marieke</given-names>
+          </name>
+          <address>
+            <email>Marieke@voshaar.nl</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff26">26</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bingham</surname>
+            <given-names>Clifton O.</given-names>
+            <suffix>III</suffix>
+          </name>
+          <address>
+            <email>cbingha2@jhmi.edu</email>
+          </address>
+          <xref ref-type="aff" rid="Aff27">27</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gossec</surname>
+            <given-names>Laure</given-names>
+          </name>
+          <address>
+            <email>laure.gossec@aphp.fr</email>
+          </address>
+          <xref ref-type="aff" rid="Aff28">28</xref>
+          <xref ref-type="aff" rid="Aff29">29</xref>
+        </contrib>
+        <aff id="Aff1"><label>1</label>OMERACT Patient Research Partner, Amsterdam, The Netherlands </aff>
+        <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0435 165X</institution-id><institution-id institution-id-type="GRID">grid.16872.3a</institution-id><institution>Department of Medical Humanities, </institution><institution>VU University Medical Centre/EMGO+ instituut, </institution></institution-wrap>Van der Boechorststraat 7, 1081 BT Amsterdam, The Netherlands </aff>
+        <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1936 7603</institution-id><institution-id institution-id-type="GRID">grid.5337.2</institution-id><institution>Academic Rheumatology Unit, Bristol Royal Infirmary, </institution><institution>University of Bristol, </institution></institution-wrap>Bristol, BS2 8HW UK </aff>
+        <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2182 2255</institution-id><institution-id institution-id-type="GRID">grid.28046.38</institution-id><institution>Department of Medicine, </institution><institution>University of Ottawa, </institution></institution-wrap>Ottawa, ON Canada </aff>
+        <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="GRID">grid.17063.33</institution-id><institution>Musculoskeletal Health and Outcomes Research, </institution><institution>Li Ka Shing Knowledge Institute, St Michael’s Hospital, University of Toronto, </institution></institution-wrap>Toronto, ON Canada </aff>
+        <aff id="Aff6"><label>6</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0435 165X</institution-id><institution-id institution-id-type="GRID">grid.16872.3a</institution-id><institution>Department of Epidemiology and Biostatistics, </institution><institution>Amsterdam Rheumatology and Immunology Center, VU University Medical Center, </institution></institution-wrap>Amsterdam, The Netherlands </aff>
+        <aff id="Aff7"><label>7</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2179 088X</institution-id><institution-id institution-id-type="GRID">grid.1008.9</institution-id><institution>Centre for Health Policy School of Population and Global Health, </institution><institution>University of Melbourne, </institution></institution-wrap>Melbourne, VIC Australia </aff>
+        <aff id="Aff8"><label>8</label>OMERACT Patient Research Partner, London, UK </aff>
+        <aff id="Aff9"><label>9</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1936 8403</institution-id><institution-id institution-id-type="GRID">grid.9909.9</institution-id><institution>NIHR Leeds Musculoskeletal Biomedical Research Unit, Leeds Institute of Rheumatic and Musculoskeletal Medicine, </institution><institution>University of Leeds, </institution></institution-wrap>Leeds, UK </aff>
+        <aff id="Aff10"><label>10</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0000 9982 5352</institution-id><institution-id institution-id-type="GRID">grid.413756.2</institution-id><institution>Department of Rheumatology, </institution><institution>Hôpital Ambroise Paré, APHP, Université Versailles Saint Quentin en Yvelines, </institution></institution-wrap>Boulogne-Billancourt, France </aff>
+        <aff id="Aff11"><label>11</label>OMERACT Patient Research Partner, Vancouver, BC Canada </aff>
+        <aff id="Aff12"><label>12</label>Ashford St Peter’s Foundation trust Hospital, Chertsey, Surrey, UK </aff>
+        <aff id="Aff13"><label>13</label>OMERACT Patient Research Partner, Santa Barbara, CA USA </aff>
+        <aff id="Aff14"><label>14</label>Healthy Motivations, Santa Barbara, CA 93108 USA </aff>
+        <aff id="Aff15"><label>15</label>Bone and Joint Decade, The Global Alliance for Musculoskeletal Health, Truro, Cornwall UK </aff>
+        <aff id="Aff16"><label>16</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1936 834X</institution-id><institution-id institution-id-type="GRID">grid.1013.3</institution-id><institution>Institute of Bone and Joint Research, </institution><institution>Sydney Medical School and School of Public Health, University of Sydney, </institution></institution-wrap>Sydney, NSW Australia </aff>
+        <aff id="Aff17"><label>17</label>Department of Rheumatology, Royal North Shore, St. Leonards, NSW Australia </aff>
+        <aff id="Aff18"><label>18</label>OMERACT Patient Research Partner, Seattle, WA USA </aff>
+        <aff id="Aff19"><label>19</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0462 6801</institution-id><institution-id institution-id-type="GRID">grid.418127.9</institution-id><institution/><institution>Arthritis Patient Advisory Board, Arthritis Research Centre Canada, </institution></institution-wrap>Richmond, BC Canada </aff>
+        <aff id="Aff20"><label>20</label>OMERACT Patient Research Partner, Bristol, UK </aff>
+        <aff id="Aff21"><label>21</label>SDG LLC, Cambridge, MA 02139 USA </aff>
+        <aff id="Aff22"><label>22</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0419 1326</institution-id><institution-id institution-id-type="GRID">grid.280808.a</institution-id><institution/><institution>Medicine Service, VA Medical Center, </institution></institution-wrap>Birmingham, AL USA </aff>
+        <aff id="Aff23"><label>23</label><institution-wrap><institution-id institution-id-type="ISNI">0000000106344187</institution-id><institution-id institution-id-type="GRID">grid.265892.2</institution-id><institution>Division of Epidemiology at School of Public Health, Department of Medicine at School of Medicine, </institution><institution>University of Alabama, </institution></institution-wrap>Birmingham, AL 35294-0022 USA </aff>
+        <aff id="Aff24"><label>24</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0459 167X</institution-id><institution-id institution-id-type="GRID">grid.66875.3a</institution-id><institution>Department of Orthopedic Surgery, </institution><institution>Mayo Clinic College of Medicine, </institution></institution-wrap>Rochester, MN 55905 USA </aff>
+        <aff id="Aff25"><label>25</label><institution-wrap><institution-id institution-id-type="ISNI">0000000419368956</institution-id><institution-id institution-id-type="GRID">grid.168010.e</institution-id><institution>Division Immunology/Rheumatology, </institution><institution>Stanford University School of Medicine, </institution></institution-wrap>Palo Alto, CA USA </aff>
+        <aff id="Aff26"><label>26</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0399 8953</institution-id><institution-id institution-id-type="GRID">grid.6214.1</institution-id><institution>Department of Psychology, Health and Technology, </institution><institution>University of Twente, </institution></institution-wrap>Enschede, The Netherlands </aff>
+        <aff id="Aff27"><label>27</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2171 9311</institution-id><institution-id institution-id-type="GRID">grid.21107.35</institution-id><institution>Division of Rheumatology, </institution><institution>Johns Hopkins University, </institution></institution-wrap>Baltimore, MD USA </aff>
+        <aff id="Aff28"><label>28</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 1955 3500</institution-id><institution-id institution-id-type="GRID">grid.5805.8</institution-id><institution>Institut Pierre Louis d’Epidémiologie et de Santé Publique, </institution><institution>Sorbonne Universités, UPMC Univ Paris 06, GRC-08, </institution></institution-wrap>Paris, France </aff>
+        <aff id="Aff29"><label>29</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2150 9058</institution-id><institution-id institution-id-type="GRID">grid.411439.a</institution-id><institution>Rheumatology Department, </institution><institution>Pitie-Salpétrière Hospital, AP-HP, </institution></institution-wrap>Paris, France </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <day>5</day>
+        <month>10</month>
+        <year>2016</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>5</day>
+        <month>10</month>
+        <year>2016</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <year>2017</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>2</issue>
+      <fpage>141</fpage>
+      <lpage>152</lpage>
+      <permissions>
+        <copyright-statement>© The Author(s) 2016</copyright-statement>
+        <license license-type="OpenAccess">
+          <license-p>
+<bold>Open Access</bold>This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 International License (http://creativecommons.org/licenses/by-nc/4.0/), which permits any noncommercial use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.</license-p>
+        </license>
+      </permissions>
+      <abstract id="Abs1">
+        <p>There is increasing interest in making patient participation an integral component of medical research. However, practical guidance on optimizing this engagement in healthcare is scarce. Since 2002, patient involvement has been one of the key features of the Outcome Measures in Rheumatology (OMERACT) international consensus effort. Based on a review of cumulative data from qualitative studies and internal surveys among OMERACT participants, we explored the potential benefits and challenges of involving patient research partners in conferences and working group activities. We supplemented our review with personal experiences and reflections regarding patient participation in the OMERACT process. We found that between 2002 and 2016, 67 patients have attended OMERACT conferences, of whom 28 had sustained involvement; many other patients contributed to OMERACT working groups. Their participation provided face validity to the OMERACT process and expanded the research agenda. Essential facilitators have been the financial commitment to guarantee sustainable involvement of patients at these conferences, procedures for recruitment, selection and support, and dedicated time allocated in the program for patient issues. Current challenges include the representativeness of the patient panel, risk of pseudo-professionalization, and disparity in patients’ and researchers’ perception of involvement. In conclusion, OMERACT has embedded long-term patient involvement in the consensus-building process on the measurement of core health outcomes. This integrative process continues to evolve iteratively. We believe that the practical points raised here can improve participatory research implementation.</p>
+      </abstract>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution-wrap>
+              <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/100006093</institution-id>
+              <institution>Patient-Centered Outcomes Research Institute</institution>
+            </institution-wrap>
+          </funding-source>
+          <award-id>1IP2-PI000737-01</award-id>
+          <award-id>SC14-1402-10818</award-id>
+          <principal-award-recipient>
+            <name>
+              <surname>Bingham</surname>
+              <given-names>Clifton O.</given-names>
+              <suffix>III</suffix>
+            </name>
+          </principal-award-recipient>
+        </award-group>
+      </funding-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>issue-copyright-statement</meta-name>
+          <meta-value>© Springer International Publishing Switzerland 2017</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="FPar1">
+      <title>Key Points for Decision Makers</title>
+      <p>
+<table-wrap id="Taba"><table frame="hsides" rules="groups"><tbody><tr><td align="left">Outcome Measures in Rheumatology (OMERACT) has shown that long-term involvement of patients in research is beneficial for identifying and validating outcomes that matter to patients.</td></tr><tr><td align="left">Building and sustaining successful partnerships with patients requires restructuring of the research process and investing time and budgets into training and support of patient research partners (PRPs).</td></tr><tr><td align="left">The integration of qualitative and quantitative data, complemented by participation of PRPs, enhances the face validity of outcome research.</td></tr><tr><td align="left">Ensuring representativeness of the patient perspective for diagnosis, disease severity and cultural, social-economic, and geographical diversity is still challenging.</td></tr></tbody></table></table-wrap>
+</p>
+    </sec>
+    <sec id="Sec1" sec-type="introduction">
+      <title>Introduction</title>
+      <p>There is a growing trend in healthcare research to focus more on outcomes that matter to patients, and more widely on patient-centered research [<xref ref-type="bibr" rid="CR1">1</xref>, <xref ref-type="bibr" rid="CR2">2</xref>]. To this end, the involvement of patients not just as subjects of research but as partners in the design, assessment, and implementation of health research is recommended, and is sometimes mandatory for grant approval [<xref ref-type="bibr" rid="CR3">3</xref>–<xref ref-type="bibr" rid="CR5">5</xref>]. In the USA, the Patient-Centered Outcomes Research Institute (PCORI) was established in 2010 to promote research that focuses on those aspects of health that are most meaningful and important to patients. PCORI involves patients at critical stages of the research process to ensure that the questions being asked are relevant and the results are meaningful to people living with a given health condition [<xref ref-type="bibr" rid="CR6">6</xref>]. In Canada, a unique study explored perspectives of people with osteoarthritis with full involvement of patients in all research phases [<xref ref-type="bibr" rid="CR7">7</xref>]. In the context of the Innovative Medicine Initiative, the European Union, in collaboration with the pharmaceutical industry, has initiated the European Patients’ Academy on Therapeutic Innovation (EUPATI) to promote the education and active involvement of patients in health research [<xref ref-type="bibr" rid="CR8">8</xref>]. Internationally, the Cochrane Collaboration involves patients in the development of systematic reviews [<xref ref-type="bibr" rid="CR9">9</xref>, <xref ref-type="bibr" rid="CR10">10</xref>]. The UK has the longest tradition of public and patient involvement through a National Institute of Health Research program called Involve [<xref ref-type="bibr" rid="CR11">11</xref>]. Within the specialty of rheumatology, the European League Against Rheumatism (EULAR) [<xref ref-type="bibr" rid="CR12">12</xref>], Outcome Measures in Rheumatology (OMERACT), an international consensus effort, and its member working parties [<xref ref-type="bibr" rid="CR13">13</xref>], the Group for Research and Assessment of Psoriasis and Psoriatic Arthritis (GRAPPA) [<xref ref-type="bibr" rid="CR14">14</xref>], and the Assessment of SpondyloArthritis international Society (ASAS) [<xref ref-type="bibr" rid="CR15">15</xref>] have gained experience and published regarding active involvement of patients in their main activities. In the past years, EULAR and the American College of Rheumatology (ACR) have included patient representatives in their guideline development and other initiatives. In several European countries, arthritis patient organizations have established networks of trained research partners [<xref ref-type="bibr" rid="CR16">16</xref>, <xref ref-type="bibr" rid="CR17">17</xref>].</p>
+      <p>Although patient engagement in research is promoted, it is often limited to evaluating research proposals for funding or participating in advocacy groups. However, patients can contribute to research in different roles, not only as respondents or study participants but also as advocates, advisors, reviewers, or research partners (Fig. <xref rid="Fig1" ref-type="fig">1</xref>). When referring to higher levels of engagement, involving close collaboration in the research process itself, we use the term ‘patient research partner’ (PRP). A PRP is someone living with the relevant disease or condition who participates as an active team member on an equal basis with professional researchers, adding the benefit of his/her experiential knowledge to research projects [<xref ref-type="bibr" rid="CR13">13</xref>]. There is limited guidance on how high-level patient involvement in research can be achieved, and few case studies to illustrate its success [<xref ref-type="bibr" rid="CR18">18</xref>–<xref ref-type="bibr" rid="CR20">20</xref>].<fig id="Fig1"><label>Fig. 1</label><caption><p>The empirical research circle: potential patient contributions and potential patient roles in research. Phases of the empirical research circle are in <italic>blue</italic>, examples of potential patient contributions are in <italic>orange</italic>, and five potential patient roles in research are in <italic>black</italic>. The role of patient research partner and patient advisor are applicable throughout the research circle. The role of patient reviewer is particularly relevant in the phase of assessing grant applications, often used by research funding bodies. The roles of patient respondent or patient participant mostly relate to the phase of data collection. The role of patient advocate is generally beneficial in the phases of fundraising, establishing supportive legislation for medical research, and dissemination</p></caption><graphic xlink:href="40271_2016_198_Fig1_HTML" id="MO1"/></fig>
+</p>
+      <p>OMERACT, an independent international organization of health professionals, epidemiologists, outcomes researchers, pharmaceutical representatives, and patients [<xref ref-type="bibr" rid="CR21">21</xref>], has engaged PRPs consistently and increasingly over a period of 14 years [<xref ref-type="bibr" rid="CR22">22</xref>]. The involvement of patients has been rewarding for both the researchers and the patient representatives. By collaborating with PRPs, relevant outcomes for patients such as fatigue, well-being, and sleep-disturbances have been identified, and PRPs have reported increased knowledge, self-confidence, and empowerment [<xref ref-type="bibr" rid="CR23">23</xref>, <xref ref-type="bibr" rid="CR24">24</xref>]. OMERACT has incrementally learned how to support, promote, and gain from this process. Here we review how PRP involvement in OMERACT was developed, supported, and promoted, how challenges were addressed, and the benefits that have accrued.</p>
+    </sec>
+    <sec id="Sec2">
+      <title>Outcome Measures in Rheumatology (OMERACT) and the Involvement of Patients</title>
+      <p>The first OMERACT conference (1992) was convened at a time of actively questioning traditional but arbitrary approaches to assessing the benefits of treatment in rheumatic diseases. The conference aimed to consolidate methodologically oriented approaches that had begun separately in the USA through activities within the ACR and in Europe through the World Health Organization and International League of Associations of Rheumatology (WHO/ILAR). One of the objectives of the first OMERACT conference was to develop consensus on the minimum number of outcome measures to be included in all rheumatoid arthritis (RA) randomized controlled trials. The conference brought together 92 rheumatologists, methodologists, regulatory officials, and pharmaceutical industry researchers from around the world. Agreement was achieved on the outcome domains that are known as the RA core set [<xref ref-type="bibr" rid="CR25">25</xref>].</p>
+      <p>Subsequent meetings of OMERACT followed every 2 years, developing and validating specific outcome measures and developing core sets for other rheumatic diseases as proposed by Working Groups within OMERACT. The basis of OMERACT is evidence-based discussions with consensus through nominal group techniques.</p>
+      <p>In 2000, during discussions about “minimum clinically important” differences in outcome measures [<xref ref-type="bibr" rid="CR26">26</xref>], there was uncertainty whether the perspective of physicians and researchers was similar to that of patients. Concluding that a representative consensus should include all three, the final plenary voting session at the conference recognized that the patients’ perspective was needed [<xref ref-type="bibr" rid="CR27">27</xref>], and a decision was made to invite patients to the next meeting.</p>
+      <p>The 11 PRPs who attended OMERACT 6 (2002) had a limited degree of participation in the meeting. They were asked to review the RA core set from the patient perspective and to identify domains that mattered to patients. It became clear that the views of researchers and patients were not identical [<xref ref-type="bibr" rid="CR28">28</xref>]. Symptoms of importance to patients such as fatigue, overall well-being, and sleep disturbances were not included in the existing RA core set. Also, the design of clinical trials at that time would not provide patients with the information they felt was needed to judge the success of new treatments. After this meeting, the leadership of OMERACT and a sufficiently large proportion of those actively involved in OMERACT-related research were convinced that PRPs should continue to be involved. Since then, between 17 and 21 patients have participated in each of the OMERACT conferences (Table <xref rid="Tab1" ref-type="table">1</xref>).<table-wrap id="Tab1"><label>Table 1</label><caption><p>Characteristics of patients attending Outcome Measures in Rheumatology (OMERACT) conferences</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Characteristics</th><th align="left">2002: Gold Coast, QLD, Australia</th><th align="left">2004: Asilomar, CA, USA</th><th align="left">2006: St. Julian’s Bay, Malta</th><th align="left">2008: Kanaskis, AB, Canada</th><th align="left">2010: Borneo, Malaysia</th><th align="left">2012: Pinehurst, NC, USA</th><th align="left">2014: Budapest, Hungary</th><th align="left">2016: Whistler, BC, Canada</th></tr></thead><tbody><tr><td align="left" colspan="9">Sex</td></tr><tr><td align="left"> Female</td><td char="." align="char">9</td><td char="." align="char">13</td><td char="." align="char">12</td><td char="." align="char">11</td><td char="." align="char">10</td><td char="." align="char">15</td><td char="." align="char">18</td><td char="." align="char">18</td></tr><tr><td align="left"> Male</td><td char="." align="char">2</td><td char="." align="char">5</td><td char="." align="char">8</td><td char="." align="char">6</td><td char="." align="char">11</td><td char="." align="char">5</td><td char="." align="char">3</td><td char="." align="char">4</td></tr><tr><td align="left" colspan="9">Previous attendance</td></tr><tr><td align="left"> Yes</td><td char="." align="char">0</td><td char="." align="char">6</td><td char="." align="char">15</td><td char="." align="char">8</td><td char="." align="char">14</td><td char="." align="char">10</td><td char="." align="char">16</td><td char="." align="char">14</td></tr><tr><td align="left"> No</td><td char="." align="char">11</td><td char="." align="char">12</td><td char="." align="char">5</td><td char="." align="char">9</td><td char="." align="char">7</td><td char="." align="char">10</td><td char="." align="char">5</td><td char="." align="char">8</td></tr><tr><td align="left" colspan="9">Condition</td></tr><tr><td align="left"> Rheumatoid arthritis</td><td char="." align="char">11</td><td char="." align="char">17</td><td char="." align="char">15</td><td char="." align="char">7</td><td char="." align="char">12</td><td char="." align="char">10</td><td char="." align="char">10</td><td char="." align="char">9</td></tr><tr><td align="left"> Osteoarthritis</td><td align="left"/><td char="." align="char">1</td><td char="." align="char">1</td><td char="." align="char">1</td><td align="left"/><td char="." align="char">1</td><td char="." align="char">2</td><td char="." align="char">1</td></tr><tr><td align="left"> Psoriatic arthritis</td><td align="left"/><td align="left"/><td char="." align="char">4</td><td char="." align="char">2</td><td char="." align="char">2</td><td char="." align="char">2</td><td char="." align="char">2</td><td char="." align="char">4</td></tr><tr><td align="left"> Fibromyalgia</td><td align="left"/><td align="left"/><td align="left"/><td char="." align="char">3</td><td char="." align="char">1</td><td align="left"/><td align="left"/><td align="left"/></tr><tr><td align="left"> Gout</td><td align="left"/><td align="left"/><td align="left"/><td char="." align="char">3</td><td char="." align="char">2</td><td char="." align="char">2</td><td align="left"/><td align="left"/></tr><tr><td align="left"> Vasculitis</td><td align="left"/><td align="left"/><td align="left"/><td char="." align="char">1</td><td char="." align="char">2</td><td char="." align="char">2</td><td char="." align="char">2</td><td char="." align="char">2</td></tr><tr><td align="left"> Ankylosing spondylitis</td><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td char="." align="char">2</td><td align="left"/><td align="left"/><td align="left"/></tr><tr><td align="left"> Myositis</td><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td char="." align="char">1</td><td char="." align="char">1</td><td char="." align="char">1</td></tr><tr><td align="left"> Polymyalgia rheumatica</td><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td char="." align="char">1</td><td char="." align="char">1</td><td char="." align="char">2</td></tr><tr><td align="left"> Connective tissue diseases</td><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td char="." align="char">1</td><td char="." align="char">1</td><td char="." align="char">1</td></tr><tr><td align="left"> Behçet’s syndrome</td><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td char="." align="char">1</td><td char="." align="char">1</td></tr><tr><td align="left"> Chronic pain</td><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td char="." align="char">1</td><td align="left"/></tr><tr><td align="left"> Juvenile idiopathic arthritis</td><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td char="." align="char">1</td></tr><tr><td align="left" colspan="9">Country</td></tr><tr><td align="left"> USA</td><td char="." align="char">1</td><td char="." align="char">2</td><td char="." align="char">3</td><td char="." align="char">6</td><td char="." align="char">4</td><td char="." align="char">7</td><td char="." align="char">6</td><td char="." align="char">7</td></tr><tr><td align="left"> UK</td><td char="." align="char">3</td><td char="." align="char">4</td><td char="." align="char">3</td><td char="." align="char">2</td><td char="." align="char">3</td><td char="." align="char">4</td><td char="." align="char">5</td><td char="." align="char">4</td></tr><tr><td align="left"> Australia</td><td char="." align="char">3</td><td char="." align="char">2</td><td char="." align="char">1</td><td char="." align="char">1</td><td char="." align="char">3</td><td align="left"/><td align="left"/><td char="." align="char">1</td></tr><tr><td align="left"> Norway</td><td char="." align="char">2</td><td char="." align="char">2</td><td char="." align="char">2</td><td align="left"/><td align="left"/><td align="left"/><td char="." align="char">1</td><td align="left"/></tr><tr><td align="left"> Sweden</td><td char="." align="char">1</td><td char="." align="char">2</td><td char="." align="char">3</td><td char="." align="char">1</td><td char="." align="char">1</td><td align="left"/><td align="left"/><td align="left"/></tr><tr><td align="left"> Denmark</td><td align="left"/><td char="." align="char">1</td><td char="." align="char">1</td><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td align="left"/></tr><tr><td align="left"> Canada</td><td align="left"/><td char="." align="char">3</td><td char="." align="char">4</td><td char="." align="char">5</td><td char="." align="char">2</td><td char="." align="char">4</td><td char="." align="char">4</td><td char="." align="char">5</td></tr><tr><td align="left"> The Netherlands</td><td char="." align="char">1</td><td char="." align="char">2</td><td char="." align="char">2</td><td char="." align="char">1</td><td char="." align="char">4</td><td char="." align="char">3</td><td char="." align="char">4</td><td char="." align="char">4</td></tr><tr><td align="left"> Germany</td><td align="left"/><td align="left"/><td char="." align="char">1</td><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td align="left"/></tr><tr><td align="left"> New Zealand</td><td align="left"/><td align="left"/><td align="left"/><td char="." align="char">1</td><td align="left"/><td char="." align="char">1</td><td align="left"/><td align="left"/></tr><tr><td align="left"> France</td><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td char="." align="char">1</td><td char="." align="char">1</td><td align="left"/><td align="left"/></tr><tr><td align="left"> Malaysia</td><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td char="." align="char">3</td><td align="left"/><td align="left"/><td align="left"/></tr><tr><td align="left"> Turkey</td><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td char="." align="char">1</td><td align="left"/></tr><tr><td align="left"> Italy</td><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td align="left"/><td char="." align="char">1</td></tr><tr><td align="left">Proportion of all attending the conference (%)</td><td char="." align="char">7.9</td><td char="." align="char">7.0</td><td char="." align="char">7.4</td><td char="." align="char">9.0</td><td char="." align="char">18.1</td><td char="." align="char">10.2</td><td char="." align="char">9.5</td><td char="." align="char">10.0</td></tr></tbody></table></table-wrap>
+</p>
+      <p>Each meeting included patients with the rheumatologic condition featured in the program because experiential knowledge of the condition itself was felt to be critical. Thirty of the 67 PRPs (45 %) have participated in at least two OMERACT conferences, ten of whom have participated in at least four OMERACT conferences. In recent years many more PRPs have been members of OMERACT Working Groups, which carry forward the research agenda between the biannual meetings.</p>
+      <p>The extent to which PRPs are integrated into the OMERACT meeting program has steadily expanded (Fig. <xref rid="Fig2" ref-type="fig">2</xref>). As a consequence, the timetable commitment for PRPs during the meeting has increased from 7.5 h in 2002 to 47 h in 2016. In parallel, OMERACT has developed systems for the selection and support of PRPs, with the funding and organization of their attendance being a practical challenge. However, developing and implementing rules and guidelines recognizing that PRPs are an essential element of all OMERACT activities has been the greatest intellectual challenge [<xref ref-type="bibr" rid="CR13">13</xref>].<fig id="Fig2"><label>Fig. 2</label><caption><p>Outcome measures in rheumatology (OMERACT) conference timetabled hours designated for full participation of patient research partners in the program and for patient research partners support sessions</p></caption><graphic xlink:href="40271_2016_198_Fig2_HTML" id="MO2"/></fig>
+</p>
+    </sec>
+    <sec id="Sec3">
+      <title>Recognizing Patient Research Partners (PRPs) as an Essential Element of all OMERACT Activities</title>
+      <sec id="Sec4">
+        <title>Endorsement by the Leadership and Full Participation in the OMERACT Process</title>
+        <p>The continuous support of the OMERACT leadership has been crucial, as has the continued increase of experience and patient involvement (Fig. <xref rid="Fig2" ref-type="fig">2</xref>) [<xref ref-type="bibr" rid="CR29">29</xref>]. Initiatives taken by patients, such as producing the OMERACT Glossary (which is now part of every conference information pack) have gradually convinced the majority of OMERACT participants that PRPs make a positive contribution. Results from a recent survey of repeat OMERACT attendees concluded that working with PRPs was one of the aspects that made them return to these meetings [<xref ref-type="bibr" rid="CR30">30</xref>].</p>
+        <p>OMERACT values the perspectives of all stakeholders and stimulates open discussions through an interactive meeting design. All participants should be treated as equals and have the same opportunities to contribute to the process. An introductory patient session familiarizes PRPs with the conditions under discussion at the meeting, OMERACT terminology, and procedures. Session moderators provide patients with a pre-session subject overview and provide an environment that encourages all stakeholders, but particularly patients, to speak up and contribute actively in all aspects of the meeting. When voting on consensus decisions, PRPs have full voting rights. The roles played by PRPs at and between OMERACT meetings have steadily expanded to include leading, mentoring, reporting small group discussions, chairing plenary sessions, writing reports, helping to design and facilitate research between meetings, securing funding, and writing and editing papers.</p>
+      </sec>
+      <sec id="Sec5">
+        <title>Support of PRPs and the Sustainability of Participation</title>
+        <p>OMERACT support for PRPs evolved as experience working together accumulated. Increasing integration of patients into the program (Fig. <xref rid="Fig2" ref-type="fig">2</xref>) combined with the achievement of specific milestones was accompanied by greater attention to the support of PRPs (Table <xref rid="Tab2" ref-type="table">2</xref>). Orientation and training sessions have been cumulative and written into the conference program design. The increasing time demand on PRPs has resulted in the introduction of personalized programs to ensure that each PRP is able to attend the sessions most relevant to their condition. Arriving 1 day before the conference and scheduling ‘down time’ during the meeting are included to prevent overburdening and respect disease management (e.g., time for activities of daily living, resting, and doing exercises). An important innovation in 2008 was the introduction of a ‘buddy system,’ where new patient participants are paired with more experienced PRPs. New participants found this extremely helpful [<xref ref-type="bibr" rid="CR23">23</xref>].<table-wrap id="Tab2"><label>Table 2</label><caption><p>Milestones and cumulative patient research partner support activities: 2000–2016</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Year</th><th align="left">Milestone</th><th align="left">PRP support activities</th></tr></thead><tbody><tr><td align="left">2000</td><td align="left">Vote at the final plenary to include the patient perspective at the next OMERACT </td><td align="left">Establishment of Patient Stream Coordinator with allocated funding for patient support</td></tr><tr><td align="left">2002</td><td align="left">First patients participating in the conference</td><td align="left">Participation in two main sessions only with special patient group workshop<break/>Pre-session briefing and post-session debriefing<break/>Experienced clinical researcher available for questions, discussion, and general support<break/>Nominated clinician available for individual assistance</td></tr><tr><td align="left" rowspan="3">2004</td><td align="left" rowspan="3">Establishment of Patient Panel with a chair</td><td align="left">Production (by PRPs) of OMERACT Glossary</td></tr><tr><td align="left">Post-meeting educational day in Bristol for European patients</td></tr><tr><td align="left">Patient newsletter started (by PRPs)</td></tr><tr><td align="left" rowspan="3">2006</td><td align="left" rowspan="3">First policy statement: patient involvement becomes mandatory for module and workshop applications</td><td align="left">Patients provided with their own meeting room</td></tr><tr><td align="left">Brief patient introduction session before start of meeting</td></tr><tr><td align="left">Patient Panel wrap-up meeting included in program</td></tr><tr><td align="left" rowspan="3">2008</td><td align="left">PRPs responsible for supporting each other</td><td align="left" rowspan="3">Substantial patient introduction session before start of meeting<break/>Buddy system introduced<break/>Pre-conference PRP dinner</td></tr><tr><td align="left">OMERACT Glossary in conference information pack for all attendees</td></tr><tr><td align="left">Fatigue included as a recommended outcome in the RA core set</td></tr><tr><td align="left">2010</td><td align="left">Second policy statement: integral involvement of patients in all working groups</td><td align="left">Daily patient update sessions introduced</td></tr><tr><td align="left">2012</td><td align="left">Evaluation of a decade of patient involvement in OMERACT presented</td><td align="left">Pre-conference patient information pack, including lay summaries of all the sessions<break/>Introduction of personalized programs<break/>PRPs fully involved in development of OMERACT Filter 2.0</td></tr><tr><td align="left" rowspan="2">2014</td><td align="left">Consensus on recommendations for the involvement of patient research partners in OMERACT working groups approved</td><td align="left">Daily patient evaluation sessions introduced</td></tr><tr><td align="left">PRP becomes a member of OMERACT Executive</td><td align="left"/></tr><tr><td align="left">2016</td><td align="left">Preparatory internet seminars for patients</td><td align="left"/></tr></tbody></table><table-wrap-foot><p>
+<italic>OMERACT</italic> Outcome Measures in Rheumatology, <italic>PRP</italic> patient research partner</p></table-wrap-foot></table-wrap>
+</p>
+        <p>Facilitating PRP participation in ongoing research between meetings has been a challenge. Working Group leaders have been confronted with practical issues such as providing lay summaries of documents, preventing overburdening, ensuring sufficient lead time for PRPs to read information and provide feedback, and adequate acknowledgment of PRPs’ contributions. In addition, it is not always clear whether (all) PRPs fulfil the criteria for authorship of peer-reviewed publications. The criteria can vary between groups, to some degree influenced by the PRP’s decision to be coauthor or not. These processes are continually evolving.</p>
+      </sec>
+      <sec id="Sec6">
+        <title>Acceptance of the Role of PRPs by OMERACT Members</title>
+        <p>In 2014, recommendations for the involvement of PRPs in OMERACT Working Groups were approved by an overwhelming majority at the OMERACT plenary voting session [<xref ref-type="bibr" rid="CR13">13</xref>]. Together with the appointment of a patient delegate to the Executive Committee, this demonstrates the OMERACT commitment to the principles and practice of substantive patient engagement in the research process to ensure the inclusion of that perspective as a mandatory feature of high-quality outcomes research [<xref ref-type="bibr" rid="CR13">13</xref>]. This point was arrived at in a stepwise process, with many OMERACT participants gradually changing their views on PRPs’ contributions, and realizing the value they can add to the research process. These developments [<xref ref-type="bibr" rid="CR29">29</xref>] can be summarized in the observation that increasing experience of working with PRPs has the greatest influence on researchers’ perceptions.</p>
+      </sec>
+    </sec>
+    <sec id="Sec7">
+      <title>Organizing the Attendance of PRPs</title>
+      <sec id="Sec8">
+        <title>Recruitment, Selection, and Representativeness of PRPs</title>
+        <p>Potential OMERACT PRPs are first approached by a member of a Working Group, usually a physician. Minimum requirements include being diagnosed with the condition being studied and the ability to speak English, articulate the lived experience with the disease, and travel abroad and participate in an intense 4-day OMERACT working conference. The patient stream leader, who is one of the members of the Executive Committee, approves nominations and invites PRPs to attend the conference. OMERACT aims at an adequate representation of continents, sexes, conditions, and experiences appropriate to each conference program. Ensuring appropriate representativeness of PRPs has been an ongoing challenge. Detailed characteristics have not been systematically collected, but the majority of OMERACT PRPs have been white, middle-class, middle-aged, and higher educated. Attempts have been made to broaden the diversity of the OMERACT PRPs, such as finding participants from Malaysia when the meeting was held there, but it is difficult to involve patients from countries where participatory research is less recognized and physician–patient relationships are traditionally more paternalistic [<xref ref-type="bibr" rid="CR31">31</xref>]. Nevertheless, the countries of residence of the PRPs (Table <xref rid="Tab1" ref-type="table">1</xref>) are similar to those of the rest of the participants in OMERACT, as is the proportion residing in the USA, Europe, and elsewhere (23, 48, and 29 %, respectively, for PRPs compared with 30, 45, and 25 % for other participants).</p>
+        <p>Patients and their treating physician are often both involved in OMERACT research, requiring a separation of roles of patient/doctor in the clinic from that of collaborative partners at OMERACT [<xref ref-type="bibr" rid="CR32">32</xref>]. To facilitate this, each OMERACT meeting has a designated consultant physician available for patients if they have health concerns.</p>
+        <p>OMERACT expects PRPs to represent their personal perspective of living with the disease, not that of a particular group of patients. Guidelines have been developed to help PRPs and researchers focus on the personal lived experience rather than personal agendas or organizational advocacy [<xref ref-type="bibr" rid="CR13">13</xref>].</p>
+      </sec>
+      <sec id="Sec9">
+        <title>Resources for Participation</title>
+        <p>Patient participation in research, and in particular at conferences, requires financial resources. The cost of each PRP attending OMERACT have been met by OMERACT funds or donations organized by Working Groups. These expenses have been considerable, and accommodating patients with severe disabilities may require special transportation arrangements (e.g., supplemental oxygen on flights, personal assistance, or special travel arrangements). The average cost per patient has been similar for almost all meetings; the total cost for patient attendance for each of the last three meetings has been approximately US$100,000 per meeting (in 2014 values [US$] after correction for US inflation). This is a considerable portion of the central funds available to OMERACT and represents a major fundraising commitment by the OMERACT Executive Committee.</p>
+      </sec>
+    </sec>
+    <sec id="Sec10">
+      <title>Challenges and Benefits</title>
+      <sec id="Sec11">
+        <title>Demonstrating the Impact of PRPs</title>
+        <p>There is evidence that engaging patients structurally in outcomes research provides benefits for the overall research process [<xref ref-type="bibr" rid="CR5">5</xref>, <xref ref-type="bibr" rid="CR33">33</xref>, <xref ref-type="bibr" rid="CR34">34</xref>]. Patients’ questions, opinions, and concerns provided face validity to the OMERACT process and widened the research agenda [<xref ref-type="bibr" rid="CR24">24</xref>]. New domains, including fatigue, foot problems, stiffness definition, work productivity, and flares, were identified by patients and prompted new research. The involvement of PRPs enhanced the inclusion of patient-relevant outcomes in core sets. It changed the culture of OMERACT and may influence practice in other disciplines and research contexts. At the individual level, PRPs reported ‘positive pay-back’ in feeling more empowered towards their own disease, they appreciated opportunities to contribute to the greater community, and felt better able to keep abreast of research developments related to their disease [<xref ref-type="bibr" rid="CR24">24</xref>].</p>
+        <p>In the 2014 OMERACT survey, Working Group leaders valued the PRPs’ feedback as a reality check of the relevance and quality of their project, and stated that the feedback influenced the choice of appropriate outcomes and instruments. Interestingly, patients were less certain about the added value of their experiential knowledge to the overall research. This confirms earlier findings that patients tend to underestimate their contribution to the research process [<xref ref-type="bibr" rid="CR23">23</xref>].</p>
+      </sec>
+      <sec id="Sec12">
+        <title>Risk of Pseudo-Professionalization</title>
+        <p>Almost half of OMERACT PRPs have attended two or more OMERACT conferences and some are highly involved in other ongoing research projects. As these patient participants have become more experienced, some researchers have welcomed their increased familiarity with research processes and vocabulary. However, others have questioned the authenticity of their patient perspective because they felt training and support over a long period of time could result in ‘professional patients’ who are not able to represent the ‘naïve’ or ‘authentic’ patient perspective [<xref ref-type="bibr" rid="CR29">29</xref>] and therefore do not represent ‘ordinary’ patients. Whether this is true is open to debate [<xref ref-type="bibr" rid="CR29">29</xref>], but OMERACT minimizes this risk by ensuring a mixture of new and more experienced PRPs at meetings, and by focusing education on the ability of PRPs to articulate their personal experience in the context of outcome research.</p>
+      </sec>
+      <sec id="Sec13">
+        <title>Extent of Patient Participation Between Meetings</title>
+        <p>A 2014 internal OMERACT survey showed that 14 of 18 Working Group leaders reported patient involvement between conferences, usually including at least two PRPs. Involvement included regular electronic communications, teleconferences, and face-to-face meetings where possible. The survey revealed differences between researchers and PRPs in their perception of the role played by PRPs. Most PRPs perceived themselves as “advisors” or “information providers”; four viewed themselves as collaborators and one PRP reported a leadership role. In contrast, Working Group leaders perceived that PRPs had higher levels of involvement: ten Working Group leaders viewed PRPs as “collaborators” in their projects and two Working Group leaders mentioned the role as being “in control”. This disparity might be explained by the varying maturity of Working Groups in regards to their activities and the tendency of PRPs to underestimate the influence of their participation [<xref ref-type="bibr" rid="CR23">23</xref>].</p>
+      </sec>
+      <sec id="Sec14">
+        <title>PRPs in Different Types of Projects</title>
+        <p>There remains some debate as to whether the appropriate extent of patient participation may depend on the particular research project. Although OMERACT recommends involvement of patients as PRPs throughout the research process, in reality this is not always feasible. Some patients provide valuable input into one or more research phases, not as a PRP but as a patient advisor. For example, in a study to develop or evaluate a new imaging modality, it may be argued that patients’ perspectives are not as necessary for the assessment of the measurement algorithms or scoring method. However, it would be appropriate for patients to comment on the burden, safety, and feasibility of a test and to understand how the results could be used in guiding their care.</p>
+      </sec>
+      <sec id="Sec15">
+        <title>Examples of PRPs in Working Groups</title>
+        <p>A detailed analysis of the consequences of PRP involvement in OMERACT has been published [<xref ref-type="bibr" rid="CR24">24</xref>, <xref ref-type="bibr" rid="CR27">27</xref>]. Here we showcase two working groups that substantively engaged patients in all their activities. After patients identified fatigue as an often ignored and under-researched disease symptom, the OMERACT Fatigue Working Group initiated a research agenda with studies at different centers to systematically explore the phenomenon of fatigue. The Working Group looked at its severity and evaluated existing measurement instruments and are developing new ones. Patients have been involved on different levels and in different roles [<xref ref-type="bibr" rid="CR35">35</xref>]. In the development of a new patient-reported outcome measure for fatigue, patients played a pivotal role in focus group meetings, individual interviews, surveys, clinical trials, cognitive interviews, as well as in the OMERACT Working Group. The result has been a new instrument, the Bristol Rheumatoid Arthritis Fatigue (BRAF) questionnaire [<xref ref-type="bibr" rid="CR36">36</xref>], which is based on the conceptual framework developed from qualitative studies, ensuring its face validity. New data on the impact and measurement of fatigue have resulted in the recommendation to measure fatigue in clinical trials [<xref ref-type="bibr" rid="CR37">37</xref>] and in clinical care to reconcile disparities between physician and patient assessments of disease activity [<xref ref-type="bibr" rid="CR38">38</xref>].</p>
+        <p>The OMERACT RA Flare Working Group involved patients from its initiation through every stage of the project. Since the inception of the project in 2006, the role of PRPs has been intense and diverse [<xref ref-type="bibr" rid="CR35">35</xref>]. Tasks were related to developing the design of the study, co-organizing focus group meetings, and coding and analyzing transcripts. PRPs participated in international, bi-weekly teleconferences to discuss the development of an instrument to measure flares, and a patient committee held additional face-to-face meetings and teleconferences with other group leaders for feedback and discussion of research progress and interim findings [<xref ref-type="bibr" rid="CR39">39</xref>]. This work is ongoing.</p>
+      </sec>
+    </sec>
+    <sec id="Sec16" sec-type="discussion">
+      <title>Discussion</title>
+      <p>The way patients are involved as research partners in OMERACT has grown from an initial tightly circumscribed and experimental arrangement in 2002 to complete involvement at all levels of activity, supported by an inclusive and supportive code of practice approved by the membership in 2014. During this time, OMERACT has successfully introduced a number of conceptual, structural, and practical processes to ensure the integration of the patient perspective and substantive engagement throughout outcome measure development. These have centered on recognizing PRPs as an essential element of all OMERACT activities and funding and organizing the attendance of PRPs. Initial leadership commitment to providing resources for participation and a structure for the recruitment, selection, and support of PRPs was crucial. The experience of working with PRPs led to a stepwise acceptance and then encouragement of the role by OMERACT members and has resulted in increased PRP engagement in Working Group activities between OMERACT meetings. This approach can be applied by other societies and research groups [<xref ref-type="bibr" rid="CR40">40</xref>], and may result in the development of different structural and procedural changes to ensure that PRPs are supported and productive in that setting.</p>
+      <p>PRP inclusion in the OMERACT process is not intended to represent the perspective of all patients as they only represent themselves and their experiences. However, having two patients within a Working Group, whatever their background and experience, is infinitely better than not involving patients at all. Ensuring a more representative view may be achieved through the use of mixed research methods that include qualitative interviews, focus groups, Delphi methods, or surveys to expand the input across a wider spectrum of patients [<xref ref-type="bibr" rid="CR19">19</xref>]. Such methods are increasingly recognized as an essential requisite of outcomes research in identifying and defining the concept of measurement (e.g., what you are seeking to measure) grounded in the patient experience, and to ensure that the ultimate measure is reflective of this concept [<xref ref-type="bibr" rid="CR2">2</xref>].</p>
+      <p>While many have advocated increased participation in research, developing metrics to demonstrate the added value of such inclusion is challenging. In this report we provide not only experiential evidence from the perspectives of patients and researchers, but real evidence of change in the direction of research endeavors, and more detailed analyses are available [<xref ref-type="bibr" rid="CR17">17</xref>, <xref ref-type="bibr" rid="CR23">23</xref>, <xref ref-type="bibr" rid="CR24">24</xref>, <xref ref-type="bibr" rid="CR27">27</xref>, <xref ref-type="bibr" rid="CR29">29</xref>, <xref ref-type="bibr" rid="CR30">30</xref>]. The recognition of fatigue as an important aspect of living with RA has now been incorporated into recommendations for patient assessments in clinical care, and for clinical trials, though the optimal measure has yet to be defined. There are few publications that have described methods of successful engagement in detail [<xref ref-type="bibr" rid="CR41">41</xref>], and further studies are needed to provide additional evidence of the benefits and impact of patient participation.</p>
+      <p>While the work reported here has been limited to rheumatology, the conceptual foundations and the framework developed for patient inclusion are widely applicable across all chronic diseases and beyond outcomes research [<xref ref-type="bibr" rid="CR42">42</xref>, <xref ref-type="bibr" rid="CR43">43</xref>]. EULAR now recommends involvement of PRPs throughout the research process, preferably from the beginning [<xref ref-type="bibr" rid="CR12">12</xref>]. PCORI has also recently developed a rubric for patient and stakeholder engagement that provides examples of how patients can be involved at different phases of research [<xref ref-type="bibr" rid="CR44">44</xref>, <xref ref-type="bibr" rid="CR45">45</xref>]. The US Food &amp; Drug Administration Critical Path Initiative, the Core Outcome Measures in Effectiveness Trials (COMET) initiative [<xref ref-type="bibr" rid="CR46">46</xref>], and the International Society for Quality of Life research (ISOQOL) [<xref ref-type="bibr" rid="CR47">47</xref>] have also begun to integrate PRPs in their work. The process explained here should be useful in other contexts and to other specialties. Moving such an agenda forward is time consuming and necessitates enthusiasm and perseverance, particularly to support and train patients and health professionals. However, OMERACT researchers value patient participation highly in conferences and this is one of the central reasons for their ongoing participation [<xref ref-type="bibr" rid="CR30">30</xref>]. The dialogue and engagement between researchers and PRPs has greatly improved the quality of core outcome sets, by ensuring that outcomes are relevant to patients [<xref ref-type="bibr" rid="CR48">48</xref>, <xref ref-type="bibr" rid="CR49">49</xref>]. Patient participation has enriched the research agendas and enhanced mutual understanding of outcomes of importance for both patients and researchers [<xref ref-type="bibr" rid="CR24">24</xref>].</p>
+      <p>The experience of OMERACT should help move policy makers, funders, and researchers closer to the view that participatory research is not only a normative imperative for outcome research, but is also effective in producing relevant research and health outcomes [<xref ref-type="bibr" rid="CR41">41</xref>].</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Author contributions</title>
+      <p>MdeW, JRK, PT, and LG drew together the main elements of the article. All authors were then involved in drafting the article or revising it critically for important intellectual content and all authors approved the final version to be submitted for publication.</p>
+    </ack>
+    <notes notes-type="COI-statement">
+      <title>Compliance with Ethical Standards</title>
+      <sec id="FPar2">
+        <title>Conflict of interest</title>
+        <p>All authors declare no conflict of interest relevant to the content of this paper. PGC is supported in part by the National Institute for Health Research (NIHR) Leeds Musculoskeletal Biomedical Research Unit. The views expressed are those of the author(s) and not necessarily those of the NHS, the NIHR or the Department of Health.</p>
+      </sec>
+      <sec id="FPar3">
+        <title>Financial disclosures</title>
+        <p>The authors received no specific funding for this paper and have no financial disclosures directly linked with the contents of this paper. OMERACT (Outcome Measures in Rheumatology) is an international research group that is supported by registration fees and has received unrestricted hands-off funding from more than 23 pharmaceutical and clinical research companies over the past 2 years. MdeW, JRK, PT, DB, MB, PB, PGC, MADA, LM, LSS, JAS, VS, COB, and LG are, or were previously, members of the OMERACT Executive Committee; they received no financial remuneration for their participation in this role. COB was supported, in part, through a Patient-Centered Outcomes Research Institute (PCORI) Pilot Project Program Award (1IP2-PI000737-01) and a PCORI Methods Award (SC14-1402-10818). All statements in this report, including its findings and conclusions, are solely those of the authors and do not necessarily represent the views of PCORI, its Board of Governors, or Methodology Committee.</p>
+      </sec>
+    </notes>
+    <ref-list id="Bib1">
+      <title>References</title>
+      <ref id="CR1">
+        <label>1.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Staniszewska</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Haywood</surname>
+              <given-names>KL</given-names>
+            </name>
+            <name>
+              <surname>Brett</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Tutton</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Patient and public involvement in patient-reported outcome measures: evolution not revolution</article-title>
+          <source>Patient</source>
+          <year>2012</year>
+          <volume>5</volume>
+          <fpage>79</fpage>
+          <lpage>87</lpage>
+          <pub-id pub-id-type="doi">10.2165/11597150-000000000-00000</pub-id>
+          <?supplied-pmid 22428752?>
+          <pub-id pub-id-type="pmid">22428752</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR2">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Speight</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Barendse</surname>
+              <given-names>SM</given-names>
+            </name>
+          </person-group>
+          <article-title>FDA guidance on patient reported outcomes</article-title>
+          <source>BMJ</source>
+          <year>2010</year>
+          <volume>340</volume>
+          <fpage>c2921</fpage>
+          <pub-id pub-id-type="doi">10.1136/bmj.c2921</pub-id>
+          <?supplied-pmid 20566597?>
+          <pub-id pub-id-type="pmid">20566597</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR3">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wright</surname>
+              <given-names>MT</given-names>
+            </name>
+            <name>
+              <surname>Roche</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>von Unger</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Block</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Gardner</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>A call for an international collaboration on participatory research for health</article-title>
+          <source>Health Promot Int</source>
+          <year>2010</year>
+          <volume>25</volume>
+          <fpage>115</fpage>
+          <lpage>122</lpage>
+          <pub-id pub-id-type="doi">10.1093/heapro/dap043</pub-id>
+          <?supplied-pmid 19854843?>
+          <pub-id pub-id-type="pmid">19854843</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR4">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Slager</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Tritter</surname>
+              <given-names>JQ</given-names>
+            </name>
+          </person-group>
+          <article-title>Exchanging knowledge on participation by EU health consumers and patients in research, quality and policy [conference report]</article-title>
+          <source>Health Expect</source>
+          <year>2013</year>
+          <volume>16</volume>
+          <fpage>128</fpage>
+          <lpage>129</lpage>
+          <pub-id pub-id-type="doi">10.1111/hex.12114</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR5">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brett</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Staniszewska</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Mockford</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Herron-Marx</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Hughes</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Tysall</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A systematic review of the impact of patient and public involvement on service users, researchers and communities</article-title>
+          <source>Patient</source>
+          <year>2014</year>
+          <volume>7</volume>
+          <fpage>387</fpage>
+          <lpage>395</lpage>
+          <pub-id pub-id-type="doi">10.1007/s40271-014-0065-0</pub-id>
+          <?supplied-pmid 25034612?>
+          <pub-id pub-id-type="pmid">25034612</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR6">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Frank</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Basch</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Selby</surname>
+              <given-names>JV</given-names>
+            </name>
+          </person-group>
+          <article-title>The PCORI perspective on patient-centered outcomes research</article-title>
+          <source>JAMA</source>
+          <year>2014</year>
+          <volume>312</volume>
+          <fpage>1513</fpage>
+          <lpage>1514</lpage>
+          <pub-id pub-id-type="doi">10.1001/jama.2014.11100</pub-id>
+          <?supplied-pmid 25167382?>
+          <pub-id pub-id-type="pmid">25167382</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR7">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Miller</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Teare</surname>
+              <given-names>SR</given-names>
+            </name>
+            <name>
+              <surname>Marlett</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Shklarov</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Marshall</surname>
+              <given-names>DA</given-names>
+            </name>
+          </person-group>
+          <article-title>Support for living a meaningful life with osteoarthritis: a patient-to-patient research study</article-title>
+          <source>Patient</source>
+          <year>2016</year>
+          <volume>9</volume>
+          <issue>5</issue>
+          <fpage>457</fpage>
+          <lpage>464</lpage>
+          <pub-id pub-id-type="doi">10.1007/s40271-016-0169-9</pub-id>
+          <?supplied-pmid 27085710?>
+          <pub-id pub-id-type="pmid">27085710</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR8">
+        <label>8.</label>
+        <mixed-citation publication-type="other">EUPATI. European Patients’ Academy on Therapeutic Innovations. 2013. <ext-link ext-link-type="uri" xlink:href="http://www.patientsacademy.eu/">http://www.patientsacademy.eu/</ext-link>. Accessed 25 Aug 2013.</mixed-citation>
+      </ref>
+      <ref id="CR9">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kelson</surname>
+              <given-names>MC</given-names>
+            </name>
+          </person-group>
+          <article-title>Consumer collaboration, patient-defined outcomes and the preparation of cochrane reviews</article-title>
+          <source>Health Expect</source>
+          <year>1999</year>
+          <volume>2</volume>
+          <fpage>129</fpage>
+          <lpage>135</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1369-6513.1999.00042.x</pub-id>
+          <?supplied-pmid 11281886?>
+          <pub-id pub-id-type="pmid">11281886</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR10">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shea</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Santesso</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Qualman</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Heiberg</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Leong</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Judd</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Consumer-driven health care: building partnerships in research</article-title>
+          <source>Health Expect</source>
+          <year>2005</year>
+          <volume>8</volume>
+          <fpage>352</fpage>
+          <lpage>359</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1369-7625.2005.00347.x</pub-id>
+          <?supplied-pmid 16266423?>
+          <pub-id pub-id-type="pmid">16266423</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR11">
+        <label>11.</label>
+        <mixed-citation publication-type="other">INVOLVE. Website Supporting public involvement in NHS, public health and social care research. 2016. <ext-link ext-link-type="uri" xlink:href="http://www.invo.org.uk/">http://www.invo.org.uk/</ext-link>. Accessed 10 Feb 2016.</mixed-citation>
+      </ref>
+      <ref id="CR12">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>de Wit</surname>
+              <given-names>MP</given-names>
+            </name>
+            <name>
+              <surname>Berlo</surname>
+              <given-names>SE</given-names>
+            </name>
+            <name>
+              <surname>Aanerud</surname>
+              <given-names>GJ</given-names>
+            </name>
+            <name>
+              <surname>Aletaha</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Bijlsma</surname>
+              <given-names>JW</given-names>
+            </name>
+            <name>
+              <surname>Croucher</surname>
+              <given-names>L</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>European League Against Rheumatism recommendations for the inclusion of patient representatives in scientific projects</article-title>
+          <source>Ann Rheum Dis</source>
+          <year>2011</year>
+          <volume>70</volume>
+          <fpage>722</fpage>
+          <lpage>726</lpage>
+          <pub-id pub-id-type="doi">10.1136/ard.2010.135129</pub-id>
+          <?supplied-pmid 21257615?>
+          <pub-id pub-id-type="pmid">21257615</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR13">
+        <label>13.</label>
+        <mixed-citation publication-type="other">Cheung PP, de Wit M, Bingham CO 3rd, Kirwan JR, Leong A, March LM, et al. Recommendations for the involvement of patient research partners (PRP) in OMERACT Working Groups. A report from the OMERACT 2014 Working Group on PRP. J Rheumatol 2016;43:187–93.</mixed-citation>
+      </ref>
+      <ref id="CR14">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>de Wit</surname>
+              <given-names>MPT</given-names>
+            </name>
+            <name>
+              <surname>Campbell</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Orbai</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Tillett</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>FitzGerald</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Gladman</surname>
+              <given-names>D</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Building bridges between researchers and patient research partners: a report from the GRAPPA 2014 annual meeting</article-title>
+          <source>J Rheumatol</source>
+          <year>2015</year>
+          <volume>42</volume>
+          <fpage>1021</fpage>
+          <lpage>1026</lpage>
+          <pub-id pub-id-type="doi">10.3899/jrheum.150123</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR15">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kiltz</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>van der Heijde</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Mielants</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Feldtkeller</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Braun</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>ASAS/EULAR recommendations for the management of ankylosing spondylitis: the patient version</article-title>
+          <source>Ann Rheum Dis</source>
+          <year>2009</year>
+          <volume>68</volume>
+          <fpage>1381</fpage>
+          <lpage>1386</lpage>
+          <pub-id pub-id-type="doi">10.1136/ard.2008.096073</pub-id>
+          <?supplied-pmid 18930993?>
+          <pub-id pub-id-type="pmid">18930993</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR16">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kjeken</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Ziegler</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Skrolsvik</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Bagge</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Smedslund</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Tøvik</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Research priorities, attitudes and experiences among individuals with rheumatic diseases in Scandinavia</article-title>
+          <source>Ann Rheum Dis</source>
+          <year>2009</year>
+          <volume>68</volume>
+          <fpage>793</fpage>
+        </element-citation>
+      </ref>
+      <ref id="CR17">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>de Wit</surname>
+              <given-names>MP</given-names>
+            </name>
+            <name>
+              <surname>Elberse</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>Broerse</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>Abma</surname>
+              <given-names>TA</given-names>
+            </name>
+          </person-group>
+          <article-title>Do not forget the professional - the value of the FIRST model for guiding the structural involvement of patients in rheumatology research</article-title>
+          <source>Health Expect</source>
+          <year>2015</year>
+          <volume>18</volume>
+          <fpage>489</fpage>
+          <lpage>503</lpage>
+          <pub-id pub-id-type="doi">10.1111/hex.12048</pub-id>
+          <?supplied-pmid 23363240?>
+          <pub-id pub-id-type="pmid">23363240</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR18">
+        <label>18.</label>
+        <mixed-citation publication-type="other">CAPA. Canadian Arthritis Patient Alliances: patient involvement in research. 2015. <ext-link ext-link-type="uri" xlink:href="http://www.arthritispatient.ca/research">http://www.arthritispatient.ca/research</ext-link>. Accessed 29 June 2015.</mixed-citation>
+      </ref>
+      <ref id="CR19">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>De Wit</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Kvien</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Gossec</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Patient participation as an integral part of patient reported outcomes development guarantees the representativeness of the patient voice—a case-study from the field of rheumatology</article-title>
+          <source>RMD Open</source>
+          <year>2015</year>
+          <volume>1</volume>
+          <fpage>e000129</fpage>
+          <?supplied-pmid 26509075?>
+          <pub-id pub-id-type="pmid">26509075</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR20">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Forsythe</surname>
+              <given-names>LP</given-names>
+            </name>
+            <name>
+              <surname>Ellis</surname>
+              <given-names>LE</given-names>
+            </name>
+            <name>
+              <surname>Edmundson</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Sabharwal</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Rein</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Konopka</surname>
+              <given-names>K</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Patient and stakeholder engagement in the PCORI pilot projects: description and lessons learned</article-title>
+          <source>J Gen Intern Med</source>
+          <year>2016</year>
+          <volume>31</volume>
+          <fpage>13</fpage>
+          <lpage>21</lpage>
+          <pub-id pub-id-type="doi">10.1007/s11606-015-3450-z</pub-id>
+          <?supplied-pmid 26160480?>
+          <pub-id pub-id-type="pmid">26160480</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR21">
+        <label>21.</label>
+        <mixed-citation publication-type="other">OMERACT. 2016. <ext-link ext-link-type="uri" xlink:href="http://www.omeract.org/">http://www.omeract.org/</ext-link>. Accessed 10 Feb 2016.</mixed-citation>
+      </ref>
+      <ref id="CR22">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kirwan</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>de Wit</surname>
+              <given-names>MPT</given-names>
+            </name>
+          </person-group>
+          <article-title>What have we learned from a decade of patient involvement in OMERACT and its effect on trial outcome assessments?</article-title>
+          <source>Trials</source>
+          <year>2011</year>
+          <volume>12</volume>
+          <issue>suppl 1</issue>
+          <fpage>A80</fpage>
+          <pub-id pub-id-type="doi">10.1186/1745-6215-12-S1-A80</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR23">
+        <label>23.</label>
+        <mixed-citation publication-type="other">de Wit MPT, Koelewijn-van Loon MS, Collins S, Abma TA, Kirwan JR. “If I wasn’t this robust”: patients’ expectations and experiences at the Outcome Measures in Rheumatology Conference 2010. Patient. 2013;6:179–87.</mixed-citation>
+      </ref>
+      <ref id="CR24">
+        <label>24.</label>
+        <mixed-citation publication-type="other">de Wit M, Abma T, Koelewijn-van Loon M, Collins S, Kirwan J. Involving patient research partners has a significant impact on outcomes research: a responsive evaluation of the international OMERACT conferences. BMJ Open. 2013;3. doi:10.1136/bmjopen-2012-002241.</mixed-citation>
+      </ref>
+      <ref id="CR25">
+        <label>25.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Boers</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Tugwell</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Felson</surname>
+              <given-names>DT</given-names>
+            </name>
+            <name>
+              <surname>van Riel</surname>
+              <given-names>PL</given-names>
+            </name>
+            <name>
+              <surname>Kirwan</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Edmonds</surname>
+              <given-names>JP</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>World Health Organization and International League of Associations for Rheumatology core endpoints for symptom modifying antirheumatic drugs in rheumatoid arthritis clinical trials</article-title>
+          <source>J Rheumatol Suppl</source>
+          <year>1994</year>
+          <volume>41</volume>
+          <fpage>86</fpage>
+          <lpage>89</lpage>
+          <?supplied-pmid 7799394?>
+          <pub-id pub-id-type="pmid">7799394</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR26">
+        <label>26.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wells</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Anderson</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Beaton</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Bellamy</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Boers</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Bombardier</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Minimal clinically important difference module: summary, recommendations, and research agenda</article-title>
+          <source>J Rheumatol</source>
+          <year>2001</year>
+          <volume>28</volume>
+          <fpage>452</fpage>
+          <lpage>454</lpage>
+          <?supplied-pmid 11246695?>
+          <pub-id pub-id-type="pmid">11246695</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR27">
+        <label>27.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>de Wit</surname>
+              <given-names>MP</given-names>
+            </name>
+            <name>
+              <surname>Abma</surname>
+              <given-names>TA</given-names>
+            </name>
+            <name>
+              <surname>Koelewijn-van Loon</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Collins</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Kirwan</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>What has been the effect on trial outcome assessments of a decade of patient participation in OMERACT?</article-title>
+          <source>J Rheumatol</source>
+          <year>2014</year>
+          <volume>41</volume>
+          <fpage>177</fpage>
+          <lpage>184</lpage>
+          <pub-id pub-id-type="doi">10.3899/jrheum.130816</pub-id>
+          <?supplied-pmid 24128777?>
+          <pub-id pub-id-type="pmid">24128777</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR28">
+        <label>28.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hewlett</surname>
+              <given-names>SA</given-names>
+            </name>
+          </person-group>
+          <article-title>Patients and clinicians have different perspectives on outcomes in arthritis</article-title>
+          <source>J Rheumatol</source>
+          <year>2003</year>
+          <volume>30</volume>
+          <fpage>877</fpage>
+          <lpage>879</lpage>
+          <?supplied-pmid 12672220?>
+          <pub-id pub-id-type="pmid">12672220</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR29">
+        <label>29.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>de Wit</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Abma</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Koelewijn-Van Loon</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Collins</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Kirwan</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Facilitating and inhibiting factors for long-term involvement of patients at outcome conferences–lessons learnt from a decade of collaboration in OMERACT: a qualitative study</article-title>
+          <source>BMJ Open</source>
+          <year>2013</year>
+          <volume>3</volume>
+          <fpage>e003311</fpage>
+          <pub-id pub-id-type="doi">10.1136/bmjopen-2013-003311</pub-id>
+          <?supplied-pmid 23975104?>
+          <pub-id pub-id-type="pmid">23975104</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR30">
+        <label>30.</label>
+        <mixed-citation publication-type="other">Flurey CA, Kirwan JR, Hadridge P, Richards P, Grosskleg S, Tugwell PS. The spirit of OMERACT: Q methodology analysis of conference characteristics valued by delegates. J Rheumatol. 2015. doi:10.3899/jrheum.150113.</mixed-citation>
+      </ref>
+      <ref id="CR31">
+        <label>31.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gossec</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Kirwan</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>de Wit</surname>
+              <given-names>MPT</given-names>
+            </name>
+          </person-group>
+          <article-title>Patient perspective in outcome measures developed by OMERACT</article-title>
+          <source>Indian J Rheumatol</source>
+          <year>2013</year>
+          <volume>8</volume>
+          <fpage>17</fpage>
+          <lpage>22</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.injr.2013.11.004</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR32">
+        <label>32.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hewlett</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>De Wit</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Richards</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Quest</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Hughes</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Heiberg</surname>
+              <given-names>T</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Patients and professionals as research partners: challenges, practicalities, and benefits</article-title>
+          <source>Arthritis Rheum</source>
+          <year>2006</year>
+          <volume>55</volume>
+          <fpage>676</fpage>
+          <lpage>680</lpage>
+          <pub-id pub-id-type="doi">10.1002/art.22091</pub-id>
+          <?supplied-pmid 16874772?>
+          <pub-id pub-id-type="pmid">16874772</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR33">
+        <label>33.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mockford</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Staniszewska</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Griffiths</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Herron-Marx</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>The impact of patient and public involvement on UK NHS health care: a systematic review</article-title>
+          <source>Int J Qual Health Care</source>
+          <year>2012</year>
+          <volume>24</volume>
+          <fpage>28</fpage>
+          <lpage>38</lpage>
+          <pub-id pub-id-type="doi">10.1093/intqhc/mzr066</pub-id>
+          <?supplied-pmid 22109631?>
+          <pub-id pub-id-type="pmid">22109631</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR34">
+        <label>34.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lindenmeyer</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Hearnshaw</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Sturt</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Ormerod</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Aitchison</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Assessment of the benefits of user involvement in health research from the Warwick Diabetes Care Research User Group: a qualitative case study</article-title>
+          <source>Health Expect</source>
+          <year>2007</year>
+          <volume>10</volume>
+          <fpage>268</fpage>
+          <lpage>277</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1369-7625.2007.00451.x</pub-id>
+          <?supplied-pmid 17678515?>
+          <pub-id pub-id-type="pmid">17678515</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR35">
+        <label>35.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bingham</surname>
+              <given-names>CO</given-names>
+              <suffix>3rd</suffix>
+            </name>
+            <name>
+              <surname>Alten</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>de Wit</surname>
+              <given-names>MP</given-names>
+            </name>
+          </person-group>
+          <article-title>The importance of patient participation in measuring rheumatoid arthritis flares</article-title>
+          <source>Ann Rheum Dis</source>
+          <year>2012</year>
+          <volume>71</volume>
+          <fpage>1107</fpage>
+          <lpage>1109</lpage>
+          <pub-id pub-id-type="doi">10.1136/annrheumdis-2011-200870</pub-id>
+          <?supplied-pmid 22323439?>
+          <pub-id pub-id-type="pmid">22323439</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR36">
+        <label>36.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hewlett</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Dures</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Almeida</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Measures of fatigue: Bristol Rheumatoid Arthritis Fatigue Multi-Dimensional Questionnaire (BRAF MDQ), Bristol Rheumatoid Arthritis Fatigue Numerical Rating Scales (BRAF NRS) for Severity, Effect, and Coping, Chalder Fatigue Questionnaire (CFQ), Checklist Individual Strength (CIS20R and CIS8R), Fatigue Severity Scale (FSS), Functional Assessment Chronic Illness Therapy (Fatigue) (FACIT-F), Multi-Dimensional Assessment of Fatigue (MAF), Multi-Dimensional Fatigue Inventory (MFI), Pediatric Quality Of Life (PedsQL) Multi-Dimensional Fatigue Scale, Profile of Fatigue (ProF), Short Form 36 Vitality Subscale (SF-36 VT), and Visual Analog Scales (VAS)</article-title>
+          <source>Arthritis Care Res</source>
+          <year>2011</year>
+          <volume>63</volume>
+          <issue>Suppl 11</issue>
+          <fpage>S263</fpage>
+          <lpage>S286</lpage>
+          <pub-id pub-id-type="doi">10.1002/acr.20579</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR37">
+        <label>37.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Aletaha</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Landewe</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Karonitsch</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Bathon</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Boers</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Bombardier</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Reporting disease activity in clinical trials of patients with rheumatoid arthritis: EULAR/ACR collaborative recommendations</article-title>
+          <source>Arthritis Rheum</source>
+          <year>2008</year>
+          <volume>59</volume>
+          <fpage>1371</fpage>
+          <lpage>1377</lpage>
+          <pub-id pub-id-type="doi">10.1002/art.24123</pub-id>
+          <?supplied-pmid 18821648?>
+          <pub-id pub-id-type="pmid">18821648</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR38">
+        <label>38.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Khan</surname>
+              <given-names>NA</given-names>
+            </name>
+            <name>
+              <surname>Spencer</surname>
+              <given-names>HJ</given-names>
+            </name>
+            <name>
+              <surname>Abda</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Aggarwal</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Alten</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Ancuta</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Determinants of discordance in patients’ and physicians’ rating of rheumatoid arthritis disease activity</article-title>
+          <source>Arthritis Care Res</source>
+          <year>2012</year>
+          <volume>64</volume>
+          <fpage>206</fpage>
+          <lpage>214</lpage>
+          <pub-id pub-id-type="doi">10.1002/acr.20685</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR39">
+        <label>39.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bykerk</surname>
+              <given-names>VP</given-names>
+            </name>
+            <name>
+              <surname>Lie</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Bartlett</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Alten</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Boonen</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Christensen</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Establishing a core domain set to measure rheumatoid arthritis flares: report of the OMERACT 11 RA flare Workshop</article-title>
+          <source>J Rheumatol</source>
+          <year>2014</year>
+          <volume>41</volume>
+          <fpage>799</fpage>
+          <lpage>809</lpage>
+          <pub-id pub-id-type="doi">10.3899/jrheum.131252</pub-id>
+          <?supplied-pmid 24584927?>
+          <pub-id pub-id-type="pmid">24584927</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR40">
+        <label>40.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jinks</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Carter</surname>
+              <given-names>PE</given-names>
+            </name>
+            <name>
+              <surname>Rhodes</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Beech</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Dziedzic</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Hughes</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Sustaining patient and public involvement in research: a case study of a research centre</article-title>
+          <source>J Care Serv Manag</source>
+          <year>2013</year>
+          <volume>7</volume>
+          <fpage>146</fpage>
+          <lpage>154</lpage>
+          <pub-id pub-id-type="doi">10.1179/1750168715Y.0000000003</pub-id>
+          <?supplied-pmid 26705412?>
+          <pub-id pub-id-type="pmid">26705412</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR41">
+        <label>41.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Staniszewska</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Brett</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Mockford</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Barber</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>The GRIPP checklist: strengthening the quality of patient and public involvement reporting in research</article-title>
+          <source>Int J Technol Assess Health Care</source>
+          <year>2011</year>
+          <volume>27</volume>
+          <fpage>391</fpage>
+          <lpage>399</lpage>
+          <pub-id pub-id-type="doi">10.1017/S0266462311000481</pub-id>
+          <?supplied-pmid 22004782?>
+          <pub-id pub-id-type="pmid">22004782</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR42">
+        <label>42.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nierse</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Schipper</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>van Zadelhoff</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>van de Griendt</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Abma</surname>
+              <given-names>TA</given-names>
+            </name>
+          </person-group>
+          <article-title>Collaboration and co-ownership in research: dynamics and dialogues between patient research partners and professional researchers in a research team</article-title>
+          <source>Health Expect</source>
+          <year>2012</year>
+          <volume>15</volume>
+          <fpage>242</fpage>
+          <lpage>254</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1369-7625.2011.00661.x</pub-id>
+          <?supplied-pmid 21332617?>
+          <pub-id pub-id-type="pmid">21332617</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR43">
+        <label>43.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abma</surname>
+              <given-names>TA</given-names>
+            </name>
+            <name>
+              <surname>Nierse</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Widdershoven</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Patients as partners in responsive research: methodological notions for collaborations in mixed research teams</article-title>
+          <source>Qual Health Res</source>
+          <year>2009</year>
+          <volume>19</volume>
+          <fpage>401</fpage>
+          <lpage>415</lpage>
+          <pub-id pub-id-type="doi">10.1177/1049732309331869</pub-id>
+          <?supplied-pmid 19224882?>
+          <pub-id pub-id-type="pmid">19224882</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR44">
+        <label>44.</label>
+        <mixed-citation publication-type="other">PCORI. PCORI engagement rubric. 2015. <ext-link ext-link-type="uri" xlink:href="http://www.pcori.org/sites/default/files/PCORI-Engagement-Rubric-with-Table.pdf">http://www.pcori.org/sites/default/files/PCORI-Engagement-Rubric-with-Table.pdf</ext-link>. Accessed 10 Apr 2015.</mixed-citation>
+      </ref>
+      <ref id="CR45">
+        <label>45.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Frank</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Forsythe</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Ellis</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Schrandt</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Sheridan</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Gerson</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Conceptual and practical foundations of patient engagement in research at the patient-centered outcomes research institute</article-title>
+          <source>Qual Life Res</source>
+          <year>2015</year>
+          <volume>24</volume>
+          <issue>5</issue>
+          <fpage>1033</fpage>
+          <lpage>1041</lpage>
+          <pub-id pub-id-type="doi">10.1007/s11136-014-0893-3</pub-id>
+          <?supplied-pmid 25560774?>
+          <pub-id pub-id-type="pmid">25560774</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR46">
+        <label>46.</label>
+        <mixed-citation publication-type="other">Williamson P, Clarke M. The COMET (Core Outcome Measures in Effectiveness Trials) initiative: its role in improving Cochrane reviews. Cochrane Database Syst Rev. 2012;5:ED000041.</mixed-citation>
+      </ref>
+      <ref id="CR47">
+        <label>47.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Haywood</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Brett</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Salek</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Marlett</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Penman</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Shklarov</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Patient and public engagement in health-related quality of life and patient-reported outcomes research: what is important and why should we care? Findings from the first ISOQOL patient engagement symposium</article-title>
+          <source>Qual Life Res</source>
+          <year>2015</year>
+          <volume>24</volume>
+          <issue>5</issue>
+          <fpage>1069</fpage>
+          <lpage>1076</lpage>
+          <pub-id pub-id-type="doi">10.1007/s11136-014-0796-3</pub-id>
+          <?supplied-pmid 25194573?>
+          <pub-id pub-id-type="pmid">25194573</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR48">
+        <label>48.</label>
+        <mixed-citation publication-type="other">Kirwan JR, Bartlett SJ, Beaton DE, Boers M, Bosworth A, Brooks PM, et al. Updating the OMERACT filter: implications for patient-reported outcomes. J Rheumatol. 2014;41:1011–5.</mixed-citation>
+      </ref>
+      <ref id="CR49">
+        <label>49.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kirwan</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Fries</surname>
+              <given-names>JF</given-names>
+            </name>
+            <name>
+              <surname>Hewlett</surname>
+              <given-names>SE</given-names>
+            </name>
+            <name>
+              <surname>Osborne</surname>
+              <given-names>RH</given-names>
+            </name>
+            <name>
+              <surname>Newman</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Ciciriello</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Patient perspective workshop: moving towards OMERACT guidelines for choosing or developing instruments to measure patient-reported outcomes</article-title>
+          <source>J Rheumatol</source>
+          <year>2011</year>
+          <volume>38</volume>
+          <fpage>1711</fpage>
+          <lpage>1715</lpage>
+          <pub-id pub-id-type="doi">10.3899/jrheum.110391</pub-id>
+          <?supplied-pmid 21807790?>
+          <pub-id pub-id-type="pmid">21807790</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record>

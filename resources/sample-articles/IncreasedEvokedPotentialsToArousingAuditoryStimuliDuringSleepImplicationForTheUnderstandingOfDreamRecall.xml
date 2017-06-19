@@ -1,0 +1,1105 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5360011</identifier><datestamp>2017-04-04</datestamp><setSpec>fronthumneuro</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Hum Neurosci</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Hum Neurosci</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Hum. Neurosci.</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Human Neuroscience</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1662-5161</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5360011</article-id>
+      <article-id pub-id-type="pmcid">PMC5360011</article-id>
+      <article-id pub-id-type="pmc-uid">5360011</article-id>
+      <article-id pub-id-type="doi">10.3389/fnhum.2017.00132</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Neuroscience</subject>
+          <subj-group>
+            <subject>Original Research</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Increased Evoked Potentials to Arousing Auditory Stimuli during Sleep: Implication for the Understanding of Dream Recall</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Vallat</surname>
+            <given-names>Raphael</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/413465/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lajnef</surname>
+            <given-names>Tarek</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff4">
+            <sup>4</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/211927/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Eichenlaub</surname>
+            <given-names>Jean-Baptiste</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff5">
+            <sup>5</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/87227/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Berthomier</surname>
+            <given-names>Christian</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff6">
+            <sup>6</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/202604/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jerbi</surname>
+            <given-names>Karim</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff4">
+            <sup>4</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/1676/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Morlet</surname>
+            <given-names>Dominique</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/43911/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ruby</surname>
+            <given-names>Perrine M.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn001">
+            <sup>*</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/28767/overview"/>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <sup>1</sup>
+        <institution>Brain Dynamics and Cognition Team—Lyon Neuroscience Research Center (CRNL), INSERM U1028, CNRS UMR 5292, Centre Hospitalier Le Vinatier (Bat. 452)</institution>
+        <country>Bron, France</country>
+      </aff>
+      <aff id="aff2">
+        <sup>2</sup>
+        <institution>Lyon 1 University</institution>
+        <country>Lyon, France</country>
+      </aff>
+      <aff id="aff3">
+        <sup>3</sup>
+        <institution>LETI Lab, Sfax National Engineering School, University of Sfax</institution>
+        <country>Sfax, Tunisia</country>
+      </aff>
+      <aff id="aff4">
+        <sup>4</sup>
+        <institution>Department of Psychology, Université de Montréal</institution>
+        <country>Montréal, QC, Canada</country>
+      </aff>
+      <aff id="aff5">
+        <sup>5</sup>
+        <institution>Department of Neurology, Massachusetts General Hospital, Harvard Medical School</institution>
+        <country>Boston, MA, USA</country>
+      </aff>
+      <aff id="aff6">
+        <sup>6</sup>
+        <institution>Physip</institution>
+        <country>Paris, France</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <p>Edited by: Juliana Yordanova, Institute of Neurobiology (BAS), Bulgaria</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Reviewed by: Axel Steiger, Max Planck Institute of Psychiatry, Germany; Luigi De Gennaro, Sapienza University of Rome, Italy</p>
+        </fn>
+        <corresp id="fn001">*Correspondence: Perrine M. Ruby <email xlink:type="simple">perrine.ruby@inserm.fr</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>3</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2017</year>
+      </pub-date>
+      <volume>11</volume>
+      <elocation-id>132</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>07</day>
+          <month>2</month>
+          <year>2017</year>
+        </date>
+        <date date-type="accepted">
+          <day>07</day>
+          <month>3</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2017 Vallat, Lajnef, Eichenlaub, Berthomier, Jerbi, Morlet and Ruby.</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <copyright-holder>Vallat, Lajnef, Eichenlaub, Berthomier, Jerbi, Morlet and Ruby</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution and reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>High dream recallers (HR) show a larger brain reactivity to auditory stimuli during wakefulness and sleep as compared to low dream recallers (LR) and also more intra-sleep wakefulness (ISW), but no other modification of the sleep macrostructure. To further understand the possible causal link between brain responses, ISW and dream recall, we investigated the sleep microstructure of HR and LR, and tested whether the amplitude of auditory evoked potentials (AEPs) was predictive of arousing reactions during sleep. Participants (18 HR, 18 LR) were presented with sounds during a whole night of sleep in the lab and polysomnographic data were recorded. Sleep microstructure (arousals, rapid eye movements (REMs), muscle twitches (MTs), spindles, KCs) was assessed using visual, semi-automatic and automatic validated methods. AEPs to arousing (awakenings or arousals) and non-arousing stimuli were subsequently computed. No between-group difference in the microstructure of sleep was found. In N2 sleep, auditory arousing stimuli elicited a larger parieto-occipital positivity and an increased late frontal negativity as compared to non-arousing stimuli. As compared to LR, HR showed more arousing stimuli and more long awakenings, regardless of the sleep stage but did not show more numerous or longer arousals. These results suggest that the amplitude of the brain response to stimuli during sleep determine subsequent awakening and that awakening duration (and not arousal) is the critical parameter for dream recall. Notably, our results led us to propose that the minimum necessary duration of an awakening during sleep for a successful encoding of dreams into long-term memory is approximately 2 min.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>EEG</kwd>
+        <kwd>dreaming</kwd>
+        <kwd>awakenings</kwd>
+        <kwd>arousals</kwd>
+        <kwd>sleep</kwd>
+        <kwd>oddball paradigm</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source id="cn001">Agence Nationale de la Recherche<named-content content-type="fundref-id">10.13039/501100001665</named-content></funding-source>
+          <award-id rid="cn001">ANR-07-JCJC-0095</award-id>
+        </award-group>
+      </funding-group>
+      <counts>
+        <fig-count count="3"/>
+        <table-count count="2"/>
+        <equation-count count="0"/>
+        <ref-count count="57"/>
+        <page-count count="12"/>
+        <word-count count="9869"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="introduction" id="s1">
+      <title>Introduction</title>
+      <p>Nearly everyone has awakened once with a dream in mind. The dream recall frequency however can vary substantially between individuals and even within one person from time to time. For more than a century, researchers have investigated whether some psychological parameters could explain dream recall frequency variability (for a review see Ruby, <xref rid="B46" ref-type="bibr">2011</xref>), but it’s only recently that physiological parameters have been considered. Using Electroencephalogram (EEG) and PET we found neurophysiological differences between high dream-recallers (HR) and low dream-recallers (LR) during both sleep and wakefulness (Ruby et al., <xref rid="B48" ref-type="bibr">2013b</xref>; Eichenlaub et al., <xref rid="B28" ref-type="bibr">2014a</xref>,<xref rid="B29" ref-type="bibr">b</xref>). Notably, during wakefulness, in response to auditory novel stimuli, the attention-orienting brain response (P3a) and a late parietal component were found to be larger in HR than in LR. During sleep, between-group differences were also observed for auditory evoked potentials (AEPs) to the same stimuli, at the latency of the P3a in N2 and at later latencies during all sleep stages. Finally, at the behavioral level HR showed more intra-sleep wakefulness (ISW) than LR (~15 min more on average, see Eichenlaub et al., <xref rid="B28" ref-type="bibr">2014a</xref>).</p>
+      <p>Taken together, these results suggest a causal link between neurophysiological responses to auditory stimuli and ISW. We proposed that this link could be subserved by the amplitude of the brain response to external stimuli (Eichenlaub et al., <xref rid="B28" ref-type="bibr">2014a</xref>), and hypothesized that large neurophysiological responses to sounds during sleep are responsible for subsequent awakenings. Indeed, Bastuji et al. (<xref rid="B10" ref-type="bibr">2008</xref>) demonstrated that during sleep (N2 and rapid eye movements (REMs)), the amplitude of a late parietal positive component (450–650 ms) in response to painful stimulation was significantly enhanced in trials that were followed by an arousing reaction (be it a short arousal of 3–15 s or an awakening lasting more than 15 s). The authors concluded that laser-evoked response to nociceptive stimuli during sleep predicted subsequent arousing reactions. However, such results remain to be demonstrated for auditory stimuli. This hypothesis was not tested in our previous study because of a too small number of sounds followed by an awakening which prevented us from computing reliable AEPs (Eichenlaub et al., <xref rid="B28" ref-type="bibr">2014a</xref>). Awakenings (lasting at least 15 s by definition) are indeed far less frequent for auditory stimuli than for painful stimuli (Bastuji et al., <xref rid="B10" ref-type="bibr">2008</xref>). Nonetheless, considering that arousals (short awakenings lasting less than 15 s) are also far more frequent than full awakenings (twice more numerous in Bastuji et al.’s (<xref rid="B10" ref-type="bibr">2008</xref>) study), we hoped that considering arousals in addition to awakenings would allow us to investigate event-related potentials (ERPs) to auditory arousing stimuli (which are far more frequent than painful stimuli during sleep in everyday life).</p>
+      <p>Mechanisms responsible for arousing reactions are important to consider regarding dream recall since the arousal-retrieval model postulates that ISW is the enabling factor for dreams to be encoded in long term memory (Koulack and Goodenough, <xref rid="B39" ref-type="bibr">1976</xref>). Previous results from our group and other teams (Schredl et al., <xref rid="B50" ref-type="bibr">2003</xref>; De Gennaro et al., <xref rid="B26" ref-type="bibr">2010</xref>) argue in favor of this hypothesis but several parameters remain to be investigated to clarify and strengthen our understanding of the link between ISW and dream recall. Notably, sleep macro and microstructure need to be exhaustively investigated to identify or exclude the involvement of other sleep parameters in dream recall, and to specify the characteristics of awakenings associated with a higher dream recall frequency (e.g., distribution in the sleep cycle, duration and alpha frequency).</p>
+      <p>The goals of the present study were to further investigate the hypothesis of a causal link between AEPs and subsequent arousing reactions (Eichenlaub et al., <xref rid="B28" ref-type="bibr">2014a</xref>) and the hypothesis of a causal link between ISW and dream recall (Koulack and Goodenough, <xref rid="B39" ref-type="bibr">1976</xref>; Eichenlaub et al., <xref rid="B28" ref-type="bibr">2014a</xref>). To this purpose, we first scored arousals in data previously acquired and reported in Eichenlaub et al. (<xref rid="B28" ref-type="bibr">2014a</xref>), to have a full assessment of the arousing reactions in the subjects’ sleep. Thanks to this scoring, AEPs to arousing stimuli (i.e., stimuli followed by an arousal or a full awakening in the first 15 s post stimulus) and to non-arousing stimuli were then computed. Second, several parameters of the sleep macrostructure were computed such as the distribution of awakenings and the number of stage shifts across the sleep cycle, spectral power of the delta rhythm during the first sleep cycle, frequency and spectral power of the alpha rhythm during intra-sleep and before-sleep wakefulness (BSW). Finally, as many previous results justified to investigate sleep microstructural components regarding dream recall, a thorough analysis of the sleep microstructure of HR and LR was conducted. Sleep spindles and the alpha frequency during wakefulness have been related to memory abilities (Klimesch, <xref rid="B38" ref-type="bibr">1997</xref>; Ulrich, <xref rid="B52" ref-type="bibr">2016</xref>), the REMs of REM sleep to dream content (Dement and Kleitman, <xref rid="B27" ref-type="bibr">1957</xref>; Roffwarg et al., <xref rid="B45" ref-type="bibr">1962</xref>; Molinari and Foulkes, <xref rid="B42" ref-type="bibr">1969</xref>), K-complexes (KCs) to sleep stability (Bastien et al., <xref rid="B7" ref-type="bibr">2000</xref>; Colrain, <xref rid="B18" ref-type="bibr">2005</xref>; Halász, <xref rid="B33" ref-type="bibr">2005</xref>) and muscles twitches may be considered as the physiological expression of oneiric behaviors thought to be an acting out of dreams (Wolpert, <xref rid="B56" ref-type="bibr">1960</xref>; Sastre and Jouvet, <xref rid="B49" ref-type="bibr">1979</xref>). Each of these parameters was computed using either visual (arousals), semi-automatic (REMs, muscle twitches (MTs), KCs) and automatic validated methods (alpha, spindles). Such a systematic analysis of macrostructural and microstructural sleep parameters have scarcely been reported in healthy subjects, especially using automatic methods, and never among HR and LR.</p>
+    </sec>
+    <sec sec-type="materials and methods" id="s2">
+      <title>Materials and Methods</title>
+      <p>We re-analyzed data presented in previous articles (Eichenlaub et al., <xref rid="B30" ref-type="bibr">2012</xref>, <xref rid="B28" ref-type="bibr">2014a</xref>; Ruby et al., <xref rid="B47" ref-type="bibr">2013a</xref>,<xref rid="B48" ref-type="bibr">b</xref>).</p>
+      <sec id="s2-1">
+        <title>Subjects</title>
+        <p>Eighteen HR (age = 22.7 ± 0.6 years old; dream recall = 4.4 ± 0.25 mornings per week) and 18 LR (age = 22.4 ± 0.9 years old; dream recall = 0.25 ± 0.02 morning per week) were selected out of 1000 participants who completed an online questionnaire on their sleep and dream habits (importantly, they were unaware that dream recall frequency was an inclusion criterion). Participants were subsequently contacted by telephone and selected as HR or LR upon confirming dream recall on &gt;3 mornings per week or &lt;2 mornings per month respectively. Gender, age, habitual sleep duration, habitual sleep time, education level and the size of the place of residence of the subjects were controlled and did not differ between the two groups. The local ethics committee (Centre Leon Bérard, Lyon) approved this study, and subjects provided written, informed consent in accordance with the Declaration of Helsinki. The subjects were paid for their participation. For more details concerning inclusion criteria refer to Eichenlaub et al. (<xref rid="B28" ref-type="bibr">2014a</xref>).</p>
+      </sec>
+      <sec id="s2-2">
+        <title>Stimuli</title>
+        <p>During both sleep and pre-sleep wakefulness subjects were presented with two different first names included as novels in an oddball novelty paradigm. The first names consisted of the first name of the subject (novel 1) and an unfamiliar first name (novel 2). They were normalized for duration and amplitude and presented with a probability of occurrence of 0.02 each. Responses to frequent standard tones (<italic>p</italic> = 0.82) and rare deviant tones (<italic>p</italic> = 0.14) were not considered in this study. Stimulus onset asynchrony was set at 650 ms, except for the standard following a novel, which appeared 1260 ms after the novel onset, whatever the duration of the novel. Stimuli were presented in a pseudo-randomized order (Eichenlaub et al., <xref rid="B30" ref-type="bibr">2012</xref>), binaurally and at 50 dB above the hearing threshold of the subject.</p>
+      </sec>
+      <sec id="s2-3">
+        <title>Electrophysiological Recordings</title>
+        <p>EEG data were recorded from 21-Ag/AgCl electrodes placed according to the extended International 10–20 System. The electro-oculogram (EOG) was recorded from two electrodes placed on the supraorbital ridge of the left eye and on the infraorbital ridge of the right eye. Muscle activity electromyogram (EMG) was recorded from two electrodes attached to the chin. Polysomnographic data (EEG, EMG, EOG) were continuously recorded using a BrainAmp system (Brain Products GmbH, Germany) with an amplification gain of 12,500, a high-pass filter of 0.1 Hz, and a sampling rate of 1000 Hz.</p>
+      </sec>
+      <sec id="s2-4">
+        <title>Procedure</title>
+        <p>Subjects slept at night in a bed in the lab while polysomnographic data were acquired. Stimuli were presented through earphones during the whole night, thus ensuring constancy of stimulus input throughout the night despite head movements (Cote et al., <xref rid="B20" ref-type="bibr">1999</xref>). When possible, subjects were awakened in the morning by the experimenters after 5–10 min of REM sleep and were subsequently asked to report any dreams or sleep mentation. For more details see Eichenlaub et al. (<xref rid="B28" ref-type="bibr">2014a</xref>).</p>
+      </sec>
+      <sec id="s2-5">
+        <title>Data Analysis</title>
+        <sec id="s2-5-1">
+          <title>Sleep Macrostructure</title>
+          <p>Polysomnographic data have been scored according to the standard guidelines (Iber et al., <xref rid="B36" ref-type="bibr">2007</xref>; Silber et al., <xref rid="B51" ref-type="bibr">2007</xref>) using 30-s epochs to identify the sleep macrostructure of the subjects. Scoring was done both by an automatic software (ASEEGA version 3.30.14, Physip, France, Berthomier et al., <xref rid="B13" ref-type="bibr">2007</xref>) and by an expert scorer (JBE; for more details see Eichenlaub et al., <xref rid="B28" ref-type="bibr">2014a</xref>). The epoch-by-epoch comparison between JBE and ASEEGA shown 83.6% of agreement with a Cohen’s kappa coefficient of 0.77. All further analyses in the present study are based solely on the visually-scored hypnograms. For each group, the following sleep parameters were measured.</p>
+          <sec id="s2-5-1-1">
+            <title>Awakenings</title>
+            <p>Total number of awakenings over the sleep period time; Awakening index, defined as the number of awakenings per hour of sleep, computed for the total sleep time (TST), N1, N2, N3 and REM sleep; Awakening duration, defined as the average duration of awakenings; Awakening type, defined as the percentage of long and short awakenings (0–1 min, 1–5 min and 5–30 min, as in Goldenberg et al., <xref rid="B32" ref-type="bibr">1981</xref>).</p>
+          </sec>
+          <sec id="s2-5-1-2">
+            <title>Stage shifts</title>
+            <p>Total number of stage shifts over the sleep period time (includes transitions from and to W, N1, N2, N3 and REM).</p>
+          </sec>
+        </sec>
+        <sec id="s2-5-2">
+          <title>Sleep Microstructure</title>
+          <sec id="s2-5-2-1">
+            <title>Arousals</title>
+            <p>Arousals were visually scored according to the ASDA 92 criteria (American Sleep Disorders Association, <xref rid="B4" ref-type="bibr">1992</xref>). They were defined as any shift in the EEG frequency to alpha or theta for at least 3 s irrespective of changes in submental EMG during NREM sleep but accompanied by a at least 3 s increase in EMG amplitude during REM sleep. Typically, arousals last between 3 s and 15 s (see Supplementary Figure S1 for an example of arousal). However, since arousal scoring is independent from the scoring of sleep macrostructure, arousals may last more than 15 s (but not more than 30 s without being considered as awakenings according to the standard guidelines (if they start on one page and continue on the next one). Moreover, the ASDA rules also state that an arousal has to be preceded by at least 10 s of continuous sleep which means that a minimum of 10 s of intervening sleep is necessary between two arousals. Arousal were scored by RV and PR. RV scored arousal first, PR reviewed the scoring realized by RV and proposed modifications, then RV checked the propositions and in case of disagreement a consensus was reached after discussion. The parameters that were considered in the present study are: (1) the total number of arousals over the sleep period time; (2) the arousal index (AI), defined as the number of arousals per hour of sleep, computed for TST, N1, N2, N3, REM as well as for epochs scored as indeterminate (Inds) and movements (Mvts); and (3) the arousal duration, defined as the average duration of arousals.</p>
+          </sec>
+          <sec id="s2-5-2-2">
+            <title>Rapid eye movements</title>
+            <p>REMs are a core feature of REM sleep (Iber et al., <xref rid="B36" ref-type="bibr">2007</xref>; Silber et al., <xref rid="B51" ref-type="bibr">2007</xref>). In order to assess if there is any difference in the amount of REMs during REM sleep between HR and LR, we developed a semi-automatic detection of saccades in the EOG (see Supplementary Figure S2). We used independent component analysis to extract EOG-components free from artifacts from the original polysomnographic data. Then for each subject, two components showing eye movements were visually selected and subsequently analyzed with the following method. The signal was smoothed using a moving average with a window of 100 ms. The first derivative of the signal was computed and converted into absolute value. A 40 ms step was chosen for the derivative since most of naturally occurring human saccades have magnitudes of 15° or less and last thus no more than 30–40 ms (the maximum velocity of a saccade is above 500°/s, see Bahill et al., <xref rid="B6" ref-type="bibr">1975</xref>). We then applied an arbitrary threshold (mean + 4 standard deviations (SD)) to allow for an optimal detection of REMs. Finally, the quality of the detection was visually checked on a subpart of the data of several subjects. The total number of REMs was defined as the sum of non-concomitant REMs detected in the two components during REM sleep.</p>
+          </sec>
+          <sec id="s2-5-2-3">
+            <title>Muscle twitches</title>
+            <p>REM sleep is characterized by a flat muscle tone (atonia) and MTs which can be identified using electromyographic recordings with electrodes on the chin (Iber et al., <xref rid="B36" ref-type="bibr">2007</xref>; Silber et al., <xref rid="B51" ref-type="bibr">2007</xref>). To compare MTs between HR and LR, a semi-automatic analysis of the EMG was developed (see Supplementary Figure S3). First, a notch filter at 50 Hz was applied on the EMG signal. Second, the envelope of the signal was computed using standard Hilbert transform (frequency band: 60–450 Hz; Vidal et al., <xref rid="B53" ref-type="bibr">2012</xref>). The obtained envelope was normalized and smoothed using a moving average with a 500-ms window. As for REMs, a threshold (3.25 SD) was empirically chosen to obtain an optimal detection of MTs. Each supra-threshold clusters with a duration superior to 100 ms were scored as MTs. Finally, the quality of the detection was visually checked on a subpart of the data of several subjects. Three subjects were excluded from the analysis because of a too noisy EMG signal. We assessed the total number of REMs and MTs in REM sleep and the density of REMs/MTs, defined as the average number of REMs/MTs per minute for the total REM sleep duration.</p>
+          </sec>
+          <sec id="s2-5-2-4">
+            <title>Sleep spindles</title>
+            <p>A sleep spindle is a train of distinct 11–16 Hz waves, predominant over central EEG derivations and lasting more than 0.5 s (Iber et al., <xref rid="B36" ref-type="bibr">2007</xref>; Silber et al., <xref rid="B51" ref-type="bibr">2007</xref>). An automatic data-driven method was used to detect sleep spindles (ASEEGA). This iterative approach uses recording-specific automatic thresholds, based on EEG power ratios in frequency bands. The detection was performed on CzPz channel, both raw EEG data and sigma-filtered EEG were used in the analysis (for more details refer to Dang-Vu et al., <xref rid="B24" ref-type="bibr">2015</xref>).</p>
+          </sec>
+          <sec id="s2-5-2-5">
+            <title>K-complexes</title>
+            <p>K-complexes (KCs) are defined by the AASM (Iber et al., <xref rid="B36" ref-type="bibr">2007</xref>; Silber et al., <xref rid="B51" ref-type="bibr">2007</xref>) as <italic>“a well delineated negative sharp wave immediately followed by a positive component with a total duration ≥0.5 s, typically maximal at frontal electrodes”</italic>. KCs were semi-automatically detected using an open-access validated method (Lajnef et al., <xref rid="B40" ref-type="bibr">2015</xref>, <xref rid="B41" ref-type="bibr">2017</xref>) which is based on a combination of the tunable Q-factor wavelet transform and a morphological component analysis. This approach requires an initial calibration step where a small subset of the data is visually scored for KCs and then used to derive an optimal threshold. Once the training is achieved, the algorithm runs on the entire dataset to automatically detect KCs. For both KCs and spindles, the outcome measures were the total number of KCs/spindles detected and the density which is the number per min of N2 sleep.</p>
+          </sec>
+        </sec>
+        <sec id="s2-5-3">
+          <title>Spectral and Frequency Analysis</title>
+          <sec id="s2-5-3-1">
+            <title>Delta power</title>
+            <p>EEG delta spectral power in the first sleep cycle is a marker of homeostatic sleep pressure (Achermann et al., <xref rid="B2" ref-type="bibr">1993</xref>; Huber et al., <xref rid="B35" ref-type="bibr">2004</xref>). Calculation of the normalized spectral power of CzPz in the delta band (0.1–4 Hz) was performed using a fast Fourier transform with Hanning window for consecutive 30-s epochs after automatic artifact rejection (ASEEGA).</p>
+          </sec>
+          <sec id="s2-5-3-2">
+            <title>Alpha power and predominant frequency</title>
+            <p>A specific analysis of the alpha band (8–12 Hz) was performed after automatic artifact rejection. For each 30 s epoch of the EEG CzPz signal, the alpha normalized power and the mean of the instantaneous frequency weighted by the alpha power (Berthomier, <xref rid="B12" ref-type="bibr">1983</xref>) were computed (ASEEGA). We assessed the predominant frequency and normalized power of alpha band for intra-sleep wakefulness (ISW) and BSW epochs and the normalized power of delta band in the first sleep cycle.</p>
+            <p>For both delta and alpha power, values are reported in percent after band-wise normalization in five frequency bands (delta = 0.1–4 Hz, theta = 4–8 Hz, alpha = 8–12 Hz, beta = 12–16 Hz, sigma = 16–50 Hz) in order to avoid low frequency artifact and powerline artifacts. Hence, for each 30-s epoch, the sum of normalized values in the five bands is equal to 100.</p>
+          </sec>
+        </sec>
+        <sec id="s2-5-4">
+          <title>Event-Related Potentials Analysis</title>
+          <p>AEPs were analyzed using Elan pack software (Aguera et al., <xref rid="B3" ref-type="bibr">2011</xref>) and Matlab (Mathworks). AEPs elicited by first names were averaged over an epoch of 1100 ms, including a prestimulus period of 100 ms. Prior to averaging, trials were automatically excluded if the overall electrophysiological signal amplitude exceeded 400 μV during N2. Epoch were baseline corrected according to the pre-stimulus period and a 30-Hz low-pass butterworth (order 3) digital filter was applied to averaged responses. Arousing reactions were considered as stimulus-related if occurring within 15 s after stimulus onset (American Sleep Disorders Association, <xref rid="B4" ref-type="bibr">1992</xref>).</p>
+        </sec>
+        <sec id="s2-5-5">
+          <title>Statistical Analysis</title>
+          <p>Between-group comparisons of the sleep characteristics were achieved using Student <italic>t</italic>-tests (two-tailed, level of significance, <italic>p</italic> &lt; 0.05). In addition, a nested two-way ANOVA tested the sleep stage (four levels: N1, N2, N3, REM sleep) and the group (two levels: HR, LR) effects on the parameters of the macrostructure (number and duration of awakenings) and microstructure of sleep (number and duration of arousals). <italic>Post hoc</italic> analyses (<italic>t</italic>-tests) were used in case of significance.</p>
+          <p>The analysis of the AEPs was performed using non-parametric tests at each sampling point and at each <italic>a priori</italic> chosen electrode (Fp1, Fp2, F3, Fz, F4, C3, Cz, C4, P3, Pz, P4, O1, O2) for grand averaged responses. We used Wilcoxon matched rank sign tests to compare AEPs between conditions (arousing vs. non-arousing; two-tailed, <italic>p</italic> &lt; 0.05). To take into account the issue of multiple comparisons, we chose to apply both spatial limitations based on previous results (according to the results of Bastuji et al. (<xref rid="B10" ref-type="bibr">2008</xref>) and Eichenlaub et al. (<xref rid="B28" ref-type="bibr">2014a</xref>), we expected condition effects for the contrast arousing stimuli vs. non-arousing stimuli on AEPs at frontal and parieto-occipital electrodes), i.e., to consider only a limited amount of electrodes, and temporal and spatial constraints to decrease the chances of false positive, i.e., considering a difference significant only if more than 15 consecutive samples (15 ms) were significantly different for at least two adjacent electrodes (Guthrie and Buchwald, <xref rid="B330" ref-type="bibr">1991</xref>). This method has the advantage of taking spatial and temporal priors into account and is classically used in electrophysiology to correct for multiple comparisons (e.g., Caclin et al., <xref rid="B16" ref-type="bibr">2008</xref>; Bidet-Caulet et al., <xref rid="B14" ref-type="bibr">2012</xref>; Eichenlaub et al., <xref rid="B28" ref-type="bibr">2014a</xref>).</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="s3">
+      <title>Results</title>
+      <sec id="s3-1">
+        <title>Sleep Parameters</title>
+        <p>Table <xref ref-type="table" rid="T1">1</xref> shows the main sleep parameters of the experimental night in the lab for the two groups reported in Eichenlaub et al.’s (<xref rid="B28" ref-type="bibr">2014a</xref>) study (reproduced with permission). HR showed more ISW (wake after sleep onset, WASO) in average than LR and consequently a shorter TST. Except for these parameters, no other between groups difference was observed in the sleep architecture (notably in the proportion and latency of each sleep stage).</p>
+        <table-wrap id="T1" position="float">
+          <label>Table 1</label>
+          <caption>
+            <p><bold>Mean ± SEM of the main sleep parameters obtained in the original study</bold>.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" rowspan="1" colspan="1">Sleep parameters</th>
+                <th align="center" rowspan="1" colspan="1">High-recallers</th>
+                <th align="center" rowspan="1" colspan="1">Low-recallers</th>
+                <th align="center" rowspan="1" colspan="1">Standard</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">TIB (min)</td>
+                <td align="center" rowspan="1" colspan="1">449 ± 10</td>
+                <td align="center" rowspan="1" colspan="1">479 ± 15</td>
+                <td align="center" rowspan="1" colspan="1">
+                  <italic>390–510</italic>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">SPT (min)</td>
+                <td align="center" rowspan="1" colspan="1">428 ± 11</td>
+                <td align="center" rowspan="1" colspan="1">449 ± 11</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">WASO (min)</td>
+                <td align="center" rowspan="1" colspan="1">30 ± 4*</td>
+                <td align="center" rowspan="1" colspan="1">14 ± 5</td>
+                <td align="center" rowspan="1" colspan="1">
+                  <italic>20–30</italic>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">TST (min)</td>
+                <td align="center" rowspan="1" colspan="1">398 ± 11*</td>
+                <td align="center" rowspan="1" colspan="1">435 ± 12</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Sleep efficiency (%)</td>
+                <td align="center" rowspan="1" colspan="1">89 ± 1.4</td>
+                <td align="center" rowspan="1" colspan="1">91 ± 1.8</td>
+                <td align="center" rowspan="1" colspan="1">
+                  <italic>80–90</italic>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Sleep stage, % of TST</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">  N1 (%)</td>
+                <td align="center" rowspan="1" colspan="1">4 ± 0.6</td>
+                <td align="center" rowspan="1" colspan="1">2 ± 0.6</td>
+                <td align="center" rowspan="1" colspan="1">
+                  <italic>5–10</italic>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">  N2 (%)</td>
+                <td align="center" rowspan="1" colspan="1">39 ± 1.7</td>
+                <td align="center" rowspan="1" colspan="1">41 ± 2.1</td>
+                <td align="center" rowspan="1" colspan="1">
+                  <italic>40–55</italic>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">  N3 (%)</td>
+                <td align="center" rowspan="1" colspan="1">36 ± 1.5</td>
+                <td align="center" rowspan="1" colspan="1">36 ± 2.3</td>
+                <td align="center" rowspan="1" colspan="1">
+                  <italic>25–30</italic>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">  REM sleep (%)</td>
+                <td align="center" rowspan="1" colspan="1">21 ± 1.2</td>
+                <td align="center" rowspan="1" colspan="1">21 ± 1.1</td>
+                <td align="center" rowspan="1" colspan="1">
+                  <italic>20–25</italic>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">N2 latency from lights out (min)</td>
+                <td align="center" rowspan="1" colspan="1">19 ± 2.6</td>
+                <td align="center" rowspan="1" colspan="1">29 ± 6.2</td>
+                <td align="center" rowspan="1" colspan="1">
+                  <italic>20–30</italic>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">N3 latency from lights out (min)</td>
+                <td align="center" rowspan="1" colspan="1">21 ± 3.3</td>
+                <td align="center" rowspan="1" colspan="1">32 ± 6.3</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">REM latency from lights out (min)</td>
+                <td align="center" rowspan="1" colspan="1">120 ± 13.2</td>
+                <td align="center" rowspan="1" colspan="1">133 ± 16.4</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">N3 latency from N2 (min)</td>
+                <td align="center" rowspan="1" colspan="1">5 ± 1.8</td>
+                <td align="center" rowspan="1" colspan="1">5 ± 1.5</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">REM latency from N2 (min)</td>
+                <td align="center" rowspan="1" colspan="1">104 ± 11.9</td>
+                <td align="center" rowspan="1" colspan="1">106 ± 12.9</td>
+                <td align="center" rowspan="1" colspan="1">
+                  <italic>60–120</italic>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">WASO (%)</td>
+                <td align="center" rowspan="1" colspan="1">7 ± 0.9*</td>
+                <td align="center" rowspan="1" colspan="1">3 ± 1.1</td>
+                <td align="center" rowspan="1" colspan="1">
+                  <italic>5</italic>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Movements (%)</td>
+                <td align="center" rowspan="1" colspan="1">4 ± 0.5</td>
+                <td align="center" rowspan="1" colspan="1">4 ± 0.5</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Indeterminate (%)</td>
+                <td align="center" rowspan="1" colspan="1">10 ± 1.4</td>
+                <td align="center" rowspan="1" colspan="1">10 ± 0.9</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p><italic>Table 1 is reproduced and modified from Eichenlaub et al. (<xref rid="B28" ref-type="bibr">2014a</xref>) with permission of the authors. Only values obtained with visual scoring (JBE) are reported. TIB refers to time in bed; SPT, sleep period time; WASO, wakefulness after sleep onset; TST, total sleep time; REM, rapid eye movement sleep; min, minutes. In comparison with the standard values presented in the last column (Hirshkowitz, <xref rid="B34" ref-type="bibr">2004</xref>), the quality of sleep was generally preserved for the 36 subjects. *<italic>p</italic> &lt; 0.05</italic>.</p>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>Table <xref ref-type="table" rid="T2">2</xref> presents the new parameters of the macrostructure (notably the distribution of awakenings across the sleep cycle and the proportion of long and short awakenings) and several parameters of the microstructure of sleep that have been investigated thanks to the re-analysis of the data.</p>
+        <table-wrap id="T2" position="float">
+          <label>Table 2</label>
+          <caption>
+            <p><bold>Mean ± SEM of supplementary macrostructural and microstructural sleep parameters calculated in this study</bold>.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" rowspan="1" colspan="1">Sleep parameters</th>
+                <th align="center" rowspan="1" colspan="1">High-recallers</th>
+                <th align="center" rowspan="1" colspan="1">Low-recallers</th>
+                <th align="center" rowspan="1" colspan="1">Standard</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">
+                  <bold>Sleep macrostructure</bold>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Awakenings, no.</td>
+                <td align="center" rowspan="1" colspan="1">17.5 ± 2.1</td>
+                <td align="center" rowspan="1" colspan="1">12.1 ± 2.9</td>
+                <td align="left" rowspan="1" colspan="1">9.6 (Hirshkowitz, <xref rid="B34" ref-type="bibr">2004</xref>)</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Awakenings, duration (min)</td>
+                <td align="center" rowspan="1" colspan="1">1.9 ± 0.2**</td>
+                <td align="center" rowspan="1" colspan="1">0.95 ± 0.1</td>
+                <td align="left" rowspan="1" colspan="1">1.4 (Benoit et al., <xref rid="B11" ref-type="bibr">1981</xref>)</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Awakenings index, no. per hour</td>
+                <td align="center" rowspan="1" colspan="1">3.2 ± 0.4</td>
+                <td align="center" rowspan="1" colspan="1">2.2 ± 0.6</td>
+                <td align="left" rowspan="1" colspan="1">4.2 (Wamsley et al., <xref rid="B55" ref-type="bibr">2012</xref>)</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">  N1</td>
+                <td align="center" rowspan="1" colspan="1">27.3 ± 4.8</td>
+                <td align="center" rowspan="1" colspan="1">34.6 ± 7</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">  N2</td>
+                <td align="center" rowspan="1" colspan="1">3.3 ± 0.7</td>
+                <td align="center" rowspan="1" colspan="1">1.8 ± 0.7</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">  N3</td>
+                <td align="center" rowspan="1" colspan="1">0.9 ± 0.2</td>
+                <td align="center" rowspan="1" colspan="1">1.1 ± 0.3</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">  REM</td>
+                <td align="center" rowspan="1" colspan="1">3.6 ± 1.5</td>
+                <td align="center" rowspan="1" colspan="1">1.0 ± 0.3</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Awakenings duration (%)</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">  0–1 min</td>
+                <td align="center" rowspan="1" colspan="1">66.1 ± 3.2**</td>
+                <td align="center" rowspan="1" colspan="1">82.9 ± 3.3</td>
+                <td align="left" rowspan="1" colspan="1">87 (Goldenberg et al., <xref rid="B32" ref-type="bibr">1981</xref>)</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">  1–5 min</td>
+                <td align="center" rowspan="1" colspan="1">24.6 ± 2.1*</td>
+                <td align="center" rowspan="1" colspan="1">16.1 ± 3.3</td>
+                <td align="left" rowspan="1" colspan="1">11 (Goldenberg et al., <xref rid="B32" ref-type="bibr">1981</xref>)</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">  5–30 min</td>
+                <td align="center" rowspan="1" colspan="1">9.4 ± 2.5**</td>
+                <td align="center" rowspan="1" colspan="1">1.0 ± 0.6</td>
+                <td align="left" rowspan="1" colspan="1">3 (Goldenberg et al., <xref rid="B32" ref-type="bibr">1981</xref>)</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Number of stage shifts</td>
+                <td align="center" rowspan="1" colspan="1">63.6 ± 4.2</td>
+                <td align="center" rowspan="1" colspan="1">71.6 ± 7.2</td>
+                <td align="left" rowspan="1" colspan="1">47 (Hirshkowitz, <xref rid="B34" ref-type="bibr">2004</xref>)</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Alpha power (%), in B.S.W</td>
+                <td align="center" rowspan="1" colspan="1">32 ± 4.6</td>
+                <td align="center" rowspan="1" colspan="1">30.5 ± 3.9</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Alpha power (%), in I.S.W</td>
+                <td align="center" rowspan="1" colspan="1">21 ± 3.1</td>
+                <td align="center" rowspan="1" colspan="1">24.4 ± 2.5</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Alpha frequency (Hz), in B.S.W</td>
+                <td align="center" rowspan="1" colspan="1">9.88 ± 0.1</td>
+                <td align="center" rowspan="1" colspan="1">9.86 ± 0.1</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Alpha frequency (Hz), in I.S.W</td>
+                <td align="center" rowspan="1" colspan="1">9.64 ± 0.1</td>
+                <td align="center" rowspan="1" colspan="1">9.65 ± 0.1</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Delta power (%), in first sleep cycle</td>
+                <td align="center" rowspan="1" colspan="1">79.7 ± 1.7</td>
+                <td align="center" rowspan="1" colspan="1">80.8 ± 1.6</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Arousing stimuli (%)</td>
+                <td align="center" rowspan="1" colspan="1">2.9 ± 0.3**</td>
+                <td align="center" rowspan="1" colspan="1">1.6 ± 0.2</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Arousing, latency after stim. onset</td>
+                <td align="center" rowspan="1" colspan="1">5.3 ± 0.2</td>
+                <td align="center" rowspan="1" colspan="1">5.8 ± 0.3</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">
+                  <bold>Sleep microstructure</bold>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Arousals, no.</td>
+                <td align="center" rowspan="1" colspan="1">76.3 ± 8.5</td>
+                <td align="center" rowspan="1" colspan="1">61.2 ± 7.2</td>
+                <td align="left" rowspan="1" colspan="1">83 (Bonnet and Arand, <xref rid="B15" ref-type="bibr">2007</xref>)</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Arousals, duration (sec)</td>
+                <td align="center" rowspan="1" colspan="1">10.2 ± 0.3</td>
+                <td align="center" rowspan="1" colspan="1">11.2 ± 0.4</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Arousal index</td>
+                <td align="center" rowspan="1" colspan="1">11.1 ± 1</td>
+                <td align="center" rowspan="1" colspan="1">8.3 ± 1</td>
+                <td align="left" rowspan="1" colspan="1">10.8 (Bonnet and Arand, <xref rid="B15" ref-type="bibr">2007</xref>)</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Spindles, no. per min. of N2</td>
+                <td align="center" rowspan="1" colspan="1">3.5 ± 0.3</td>
+                <td align="center" rowspan="1" colspan="1">3.5 ± 0.4</td>
+                <td align="left" rowspan="1" colspan="1">2.1 (Wamsley et al., <xref rid="B55" ref-type="bibr">2012</xref>)</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">K-complex density, no. per min. of N2</td>
+                <td align="center" rowspan="1" colspan="1">2.0 ± 0.2</td>
+                <td align="center" rowspan="1" colspan="1">2.5 ± 0.2</td>
+                <td align="left" rowspan="1" colspan="1">1–3 (Halász, <xref rid="B33" ref-type="bibr">2005</xref>)</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">REMs, no. per min of REM sleep</td>
+                <td align="center" rowspan="1" colspan="1">10.9 ± 0.3</td>
+                <td align="center" rowspan="1" colspan="1">10.3 ± 0.3</td>
+                <td align="left" rowspan="1" colspan="1">3.7 (Andrillon et al., <xref rid="B5" ref-type="bibr">2015</xref>)</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">MTs, no. per min of REM sleep</td>
+                <td align="center" rowspan="1" colspan="1">0.8 ± 0.1</td>
+                <td align="center" rowspan="1" colspan="1">0.8 ± 0.1</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p><italic>REMs refers to rapid eye movements; ISW, intra-sleep wakefulness; BSW, before-sleep wakefulness; TST, total sleep time; Normalized spectral power (alpha and delta) is relative to the power in the other frequency bands; MT, muscle twitches; min, minute; no, number. Sleep onset was considered as the first epoch of N2 for the calculation of intra-sleep awakenings. Sleep onset was considered as the first epoch of N1 for arousals. Supplementary Table S1 reports awakening parameters using the first epoch of N1 as sleep onset. Last column represents standard values. One-way and two-way ANOVA for independent samples (High-recallers vs. Low-recallers) are presented: *<italic>p</italic> &lt; 0.05, **<italic>p</italic> &lt; 0.01</italic>.</p>
+          </table-wrap-foot>
+        </table-wrap>
+        <sec id="s3-1-1">
+          <title>Awakenings</title>
+          <p>A two-way ANOVA yielded a significant sleep stage effect on the awakening index (<italic>F</italic><sub>(1,3)</sub> = 47.0, <italic>p</italic> &lt; 0.000), no significant group effect and no group × sleep stage interaction (Figure <xref ref-type="fig" rid="F1">1A</xref>). <italic>Post hoc</italic> tests revealed that the awakening index in N1 was significantly higher than in all other sleep stages (<italic>p</italic> &lt; 0.000 for all the comparisons between N1 and another sleep stage) and that it was also higher in N2 than in N3 (<italic>p</italic> = 0.003). Regarding the duration of awakenings, a two-way ANOVA showed a group effect (<italic>F</italic><sub>(1,3)</sub> = 13.6, <italic>p</italic> &lt; 0.001) but no sleep stage effect or interaction group × sleep stage (Figure <xref ref-type="fig" rid="F1">1D</xref>). After classifying awakenings into three categories according to their duration i.e., 0–1 min, 1–5 min and 5–30 min (Goldenberg et al., <xref rid="B32" ref-type="bibr">1981</xref>), we observed a significant interaction group × duration (<italic>F</italic><sub>(1,2)</sub> = 14.75, <italic>p</italic> &lt; 0.001; Figure <xref ref-type="fig" rid="F1">1C</xref>). <italic>Post hoc</italic> comparisons revealed that HR showed less short awakenings lasting less than 1 min (66.1 ± 3% in HR vs. 82.9 ± 3% in LR, <italic>p</italic> &lt; 0.001) but more long awakenings lasting more than 1 min than LR (1–5 min, 24.6 ± 2% in HR vs. 16.1 ± 3% in LR, <italic>p</italic> = 0.03; 5–30 min, 9.4 ± 2.5% in HR vs. 1 ± 0.6% in LR, <italic>p</italic> = 0.003).</p>
+          <fig id="F1" position="float">
+            <label>Figure 1</label>
+            <caption>
+              <p><bold>Means and SEM of sleep parameters for High and Low dream recallers (HR and LR). (A)</bold> Awakening index per sleep stage (number of awakenings per hour in each sleep stage). <bold>(B)</bold> Arousal index (AI) per sleep stage (number of arousals per hour in each sleep stage). <bold>(C)</bold> Percentage of short and long awakenings. <bold>(D)</bold> Mean duration of awakenings per sleep stages. Hatched columns represent standards values. *<italic>p</italic> &lt; 0.05, **<italic>p</italic> &lt; 0.01.</p>
+            </caption>
+            <graphic xlink:href="fnhum-11-00132-g0001"/>
+          </fig>
+        </sec>
+        <sec id="s3-1-2">
+          <title>Arousals</title>
+          <p>The total number of arousals was not significantly different between the two groups (<italic>p</italic> = 0.19). A two-way ANOVA on the AI showed a significant sleep stage effect (<italic>F</italic><sub>(1,5)</sub> = 88, <italic>p</italic> &lt; 0.001), no group effect (a tendency towards a larger AI in HR than in LR was observed regardless of the sleep stages, <italic>p</italic> = 0.07) and no group × sleep stage interaction (Table <xref ref-type="table" rid="T2">2</xref>). The distribution of arousals across sleep stages is in accordance with previous studies (De Gennaro et al., <xref rid="B25" ref-type="bibr">2001</xref>) even if AI was slightly lower than expected in all sleep stages (Figure <xref ref-type="fig" rid="F1">1B</xref>). In De Gennaro et al.’s (<xref rid="B25" ref-type="bibr">2001</xref>) study, the categories indeterminate (Inds) and movements (Mvts) were not considered in the sleep scoring whereas in the present study the majority of arousals were found in epochs scored as Inds or Mvts. This could explain the lower AI in each sleep stage (N1, N2, N3 and REM sleep) found in our study. The AI did not correlate significantly with any other sleep parameters, including the awakening index (Pearson’s <italic>r</italic> = 0.24, <italic>N</italic> = 36, <italic>p</italic> = 0.15, two-tailed). A two-way ANOVA on arousals duration showed a significant sleep stage effect (<italic>F</italic><sub>(1,5)</sub> = 35, <italic>p</italic> &lt; 0.000), but no group effect nor interaction group × sleep stage. Arousals were significantly longer in epochs scored as Mvts than all other epochs (N1, 9.7 ± 0.6 s, N2, 8.5 ± 0.4, N3, 9.5 ± 0.7, REM, 9.3 ± 0.5, Inds, 9.1 ± 0.3, Mvts, 16.4 ± 2.0, <italic>p</italic> &lt; 0.000 for all pairwise comparisons between Mvts and the other stages).</p>
+        </sec>
+        <sec id="s3-1-3">
+          <title>Arousing Stimuli</title>
+          <p>In average (<italic>N</italic> = 36), 2.2 ± 0.2% of auditory stimuli (first names) that occurred during either N2, N3 or REM sleep were associated with an arousing reaction (be it an arousal or an awakening) in the following 15 s (see Supplementary Figure S1 for examples of arousing and non arousing stimuli). A two-way ANOVA showed a sleep stage effect (<italic>F</italic><sub>(1,2)</sub> = 13.2, <italic>p</italic> &lt; 0.001), a group effect (<italic>F</italic><sub>(1,2)</sub> = 13.1, <italic>p</italic> = 0.001) and no interaction effect on the rate of arousing stimuli. <italic>Post hoc</italic> comparisons revealed that there was a higher rate of arousing stimuli in N2 and REM as compared to N3 sleep (N2, 3.1 ± 0.4%; REM, 2.4 ± 0.3%; N3, 1.4 ± 0.2%; <italic>p</italic> &lt; 0.000 for the two comparisons), but no differences between N2 and REM. HR showed a higher proportion of arousing reactions than LR (HR, 2.9 ± 0.3%, LR, 1.6 ± 0.2%, <italic>p</italic> = 0.001), whatever the sleep stage (no significant interaction was observed). The latency between the stimulus onset and the beginning of the arousing reaction was 5.6 ± 0.2 s in average. A two-way analysis of variance revealed a significant sleep stage effect on this delay (<italic>F</italic><sub>(1,2)</sub> = 3.7, <italic>p</italic> = 0.03), no group effect or interaction group × sleep stage. <italic>Post hoc</italic> tests showed that arousing reactions were more delayed in REM sleep (6.5 ± 0.4 s) than in N2 (5.0 ± 0.2 s) and N3 (5.2 ± 0.3 s) (<italic>p</italic> &lt; 0.01 and <italic>p</italic> &lt; 0.05 respectively). Most arousing stimuli were associated with short arousing reactions (75.6 ± 2.5% of the arousing stimuli were followed by an arousal, the remaining 24.4% were followed by an awakening). A two-way ANOVA yielded a significant sleep stage effect on the type of arousing reaction (<italic>F</italic><sub>(1,2)</sub> = 23.7, <italic>p</italic> &lt; 0.000) but no group effect or interaction group × sleep stage. Arousing reaction in N3 were less often short arousals (50.8 ± 6.1%) than in N2 (89.1 ± 2.7%) or REM sleep (87.8 ± 3.1%; <italic>p</italic> &lt; 0.000 for the two tests).</p>
+        </sec>
+        <sec id="s3-1-4">
+          <title>Other Microstructural Parameters</title>
+          <p>Number of stage shifts, sleep spindles density, KCs density, REMs density and MTs density were not significantly different between the two groups (<italic>p</italic> = 0.35, <italic>p</italic> = 0.98, <italic>p</italic> = 0.16, <italic>p</italic> = 0.25 and <italic>p</italic> = 0.74 respectively; see Table <xref ref-type="table" rid="T2">2</xref> for details).</p>
+        </sec>
+        <sec id="s3-1-5">
+          <title>Spectral Power and Predominant Frequency</title>
+          <p>Two-way ANOVAs yielded that the alpha predominant frequency and spectral power were significantly decreased during ISW as compared to BSW (<italic>Frequency</italic>, <italic>F</italic><sub>(1,1)</sub> = 32.1, <italic>p</italic> &lt; 0.000. <italic>Power</italic>, <italic>F</italic><sub>(1,1)</sub> = 22.2, <italic>p</italic> &lt; 0.000). For both parameters there were no group effect or interaction between group and time of the night. Moreover, delta power in the first sleep cycle was not significantly different between the two groups.</p>
+        </sec>
+      </sec>
+      <sec id="s3-2">
+        <title>Auditory Evoked Potentials</title>
+        <sec id="s3-2-1">
+          <title>Arousing Stimuli after Artifact Rejection</title>
+          <p>N2—3.0 ± 0.4% of auditory stimuli were associated with an arousing reaction within 15 s (13.6 ± 1.8 stimuli in average per subject). Arousals prevailed (89.5%) over awakenings (10.5%). The mean latency between stimulus onset and arousing reactions was 4.5 s in N2.</p>
+          <p>REM sleep —2.2 ± 0.3% of auditory stimuli were associated with an arousing reaction within 15 s (4.2 ± 0.5 stimuli in average per subject). Arousals prevailed (87.7%) over awakenings (12.3%) The mean latency between stimulus onset and arousing reactions was 6.2 s in REM sleep.</p>
+          <p>As expected for auditory stimuli (Bastuji et al., <xref rid="B10" ref-type="bibr">2008</xref>; Bastuji and Lavigne, <xref rid="B9" ref-type="bibr">2016</xref>), a small percentage of stimuli led to an arousing reaction. For the evoked potential analysis, to avoid a poor signal-to-noise ratio, we retained for further analysis subjects with at least 10 arousing stimuli in the same sleep stage. These constraints restricted the analysis to the most represented sleep stage i.e., N2, for which 19 subjects (12 HR and 7 LR) showed more than 10 arousing stimuli after artifact rejection.</p>
+        </sec>
+        <sec id="s3-2-2">
+          <title>AEPs to Arousing vs. Non-Arousing Stimuli in N2</title>
+          <p>Grand averaged responses to arousing and non-arousing stimuli in N2 are displayed in Figure <xref ref-type="fig" rid="F2">2</xref>. A sample of non-arousing stimuli was randomly selected so that the number of averaged stimuli was equivalent for the arousing and non-arousing conditions. Significant differences between the two conditions in N2 were found at frontal and occipital topographies. The amplitudes of a late positive and a late negative (peaking at 800–1000 ms) components were significantly enhanced for arousing stimuli at occipital electrodes (O1 and O2) and frontal electrodes respectively (FP1, FP2, Fz, F3).</p>
+          <fig id="F2" position="float">
+            <label>Figure 2</label>
+            <caption>
+              <p><bold>Brain responses to first names according to the presence or absence of an arousing reaction following the stimulus in N2 sleep. (A)</bold> Grand averaged responses. Gray vertical bars highlight significant differences (sample-by-sample Wilcoxon test, <italic>p</italic> &lt; 0.05 for more than 15 ms). <bold>(B)</bold> Statistical significance of sample-by-sample Wilcoxon test (<italic>p</italic> &lt; 0.05 for more than 15 ms) performed at 10 electrodes in the post-stimulus period.</p>
+            </caption>
+            <graphic xlink:href="fnhum-11-00132-g0002"/>
+          </fig>
+        </sec>
+        <sec id="s3-2-3">
+          <title>AEPs to Arousing vs. Non-Arousing Stimuli in N2 as a Function of the Delay Between Stimuli and Arousing Reactions</title>
+          <p>According to the hypothesis that the amplitude of the AEPs to stimuli presented during sleep is related to the subsequent reaction of the sleeper, one would expect that the shorter the delay between the stimulus and the arousing reaction, the larger the amplitude of the evoked response to the stimulus. To test this hypothesis, we compared AEPs to stimuli quickly followed by an arousing reaction (arousing reaction in the 5 s after stimulus onset) and to stimuli followed by a late arousing reaction (5–15 s after stimulus onset). For this analysis paired statistics were not possible because of an insufficient number of subjects having more than 10 events in both conditions. Instead, we used the Kruskal-Wallis test to compare nine subjects with more than 10 events within 0–5 s post-stimuli (18.5 ± 2.1 events in average) and 10 subjects with more than 10 events within 5–15 s post-stimuli (16.7 ± 1.7 events in average). Grand averaged responses are displayed in Figure <xref ref-type="fig" rid="F3">3</xref>. At occipital electrodes, the amplitude of a late parietal positivity was significantly enhanced when the arousing reaction occurred within the first 5 s as compared to the last 10 s. A comparable effect was observed at frontal electrodes for the amplitude of a large negative wave peaking between 800 ms and 1000 ms.</p>
+          <fig id="F3" position="float">
+            <label>Figure 3</label>
+            <caption>
+              <p><bold>Brain responses to first names leading to a rapid arousing reaction (in the 5 s post stimulus, black thick line), to a delayed arousing reaction (between 5 s and 15 s post-stimulus, gray thick line) and to no arousing reactions (dotted line) in N2 sleep.</bold> Gray vertical bars highlight significant differences between rapid and delayed arousing reactions (sample-by-sample Kruskal-Wallis test, <italic>p</italic> &lt; 0.05 for more than 15 ms).</p>
+            </caption>
+            <graphic xlink:href="fnhum-11-00132-g0003"/>
+          </fig>
+        </sec>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="s4">
+      <title>Discussion</title>
+      <p>In this study, we further investigated the hypothesis of a causal link between ERPs to auditory stimuli and subsequent arousing reactions (Eichenlaub et al., <xref rid="B28" ref-type="bibr">2014a</xref>), and the hypothesis of a causal link between ISW and dream recall (Koulack and Goodenough, <xref rid="B39" ref-type="bibr">1976</xref>; Eichenlaub et al., <xref rid="B28" ref-type="bibr">2014a</xref>). The reanalysis of EEG data (Eichenlaub et al., <xref rid="B30" ref-type="bibr">2012</xref>, <xref rid="B28" ref-type="bibr">2014a</xref>; Ruby et al., <xref rid="B47" ref-type="bibr">2013a</xref>,<xref rid="B48" ref-type="bibr">b</xref>) enabled us to characterize more precisely the sleep macro and microstructure of HR and LR thanks to visual, semi-automatic and validated automatic methods. For intra-sleep awakenings no interaction between group and sleep stages was found (be it for the awakening index or for awakenings duration) showing that awakenings were longer in HR than in LR whatever the sleep stage. We also observed significantly more long awakenings (longer than 1 min) and less short ones in HR than in LR. Regarding the alpha predominant frequency and alpha power during ISW and BSW, no between-group differences were found, but the overall frequency and power of the alpha rhythm was slightly lower in ISW than in BSW. There were no between-group differences in the delta power during the first sleep cycle or in the number of stage shifts during SPT. Moreover, no between-group difference was found for the parameters of the sleep microstructure considered, namely arousals (density, duration and distribution), sleep spindles (density in N2), KCs (total number and density in N2), REMs (total number and density in REM sleep), MTs (total number and density in REM sleep). Finally, thanks to the scoring of arousals, we could compute AEPs to arousing and non-arousing stimuli and reproduce the results obtained for painful stimuli showing that the amplitude of the AEPs was predictive of the subsequent arousing reaction.</p>
+      <sec id="s4-1">
+        <title>AEPs to Arousing and Non-Arousing Stimuli</title>
+        <p>The scoring of arousals in Eichenlaub et al.’s (<xref rid="B28" ref-type="bibr">2014a</xref>) data resulted in a great increase of the stimuli categorized as arousing. Still, auditory stimuli presented at an average intensity (50 dB above the hearing level of the subject) induced far less arousing reaction (2.2%) than did laser nociceptive stimuli (30.6% in Bastuji et al., <xref rid="B10" ref-type="bibr">2008</xref>). Among all the arousing reactions, arousals largely prevailed over awakenings (three-to-one ratio). Considering both arousals and awakening improved our ability to test whether AEPs amplitude to stimuli presented during sleep was related to subsequent arousing reactions, but only in N2, the most represented sleep stage. Results revealed that auditory first names followed within 15 s by an arousing reaction elicited a larger occipital positivity and also a larger frontal negative wave than non-arousing stimuli. Similarly Bastuji et al. (<xref rid="B10" ref-type="bibr">2008</xref>) found that arousing laser nociceptive stimuli induced a larger late parietal positive component than non-arousing stimuli in N2 and REM sleep. We further found that the shorter (less than 5 s vs. more than 5 s) the delay between the stimulus onset and the subsequent arousing reaction, the larger the amplitude of the AEPs. These results tie convincingly the AEPs’ amplitude to subsequent arousing reaction and question the fact that arousing reaction arising between 5 s and 15 s after the stimulus onset are truly stimulus related. Our results show that arousing auditory stimuli induce arousing reaction through a cerebral mechanism similar to the one described for nociceptive stimuli i.e., an increased amplitude of the evoked response. Interestingly the topographies of the responses for the two sensory modalities are different. No frontal difference was found between ERPs to arousing and non-arousing stimuli in Bastuji et al.’s (<xref rid="B10" ref-type="bibr">2008</xref>) study whereas we found a large one in our study. The large amplitude of this frontal wave might have masked the parietal component that was reported in Bastuji et al.’s (<xref rid="B10" ref-type="bibr">2008</xref>) study on parietal electrodes. It may explain that the arousing effect appeared only on occipital electrodes in our study since they are less influenced by frontal components.</p>
+        <p>The late parieto-occipital components have traditionally been associated with complex cognitive processes, such as semantic or memory processes (Curran, <xref rid="B23" ref-type="bibr">2004</xref>; Eichenlaub et al., <xref rid="B30" ref-type="bibr">2012</xref>). This could reflect a high level cognitive processing of the stimuli possibly triggering a subsequent arousing reaction. The frontal component, larger for arousing auditory stimuli, is thought to reflect evoked KCs or N550 (Cote et al., <xref rid="B20" ref-type="bibr">1999</xref>; Bastien et al., <xref rid="B8" ref-type="bibr">2002</xref>; Bastuji et al., <xref rid="B10" ref-type="bibr">2008</xref>). According to previous work, KCs have been traditionally viewed as indicative of an arousal process (for a review see Colrain, <xref rid="B18" ref-type="bibr">2005</xref>). Halász (<xref rid="B33" ref-type="bibr">2005</xref>) also suggested that they could reflect an arousal response to exogenous stimuli, since they are often followed by arousing reactions. This view fits well with the fact that this frontal response is enhanced for auditory arousing stimuli as compared to non-arousing stimuli, but it does not fit with the fact that this component is more prominent for the auditory stimuli than for painful stimuli which are more arousing. This frontal response may rather be explained by an opposite functional role proposed for KCs. Some studies have shown that there is an increased proportion of KCs in situation of increased sleep drive and thus decreased arousability (Bastien et al., <xref rid="B7" ref-type="bibr">2000</xref>, <xref rid="B8" ref-type="bibr">2002</xref>; Nicholas et al., <xref rid="B43" ref-type="bibr">2002</xref>; Peszka and Harsh, <xref rid="B44" ref-type="bibr">2002</xref>; Colrain, <xref rid="B18" ref-type="bibr">2005</xref>). These latter results are more in favor of an endogenous nature of KCs which could help maintaining sleep (Jahnke et al., <xref rid="B37" ref-type="bibr">2012</xref>). This interpretation of KCs may explain that auditory stimuli are less arousing than painful ones due to their elicitation of a sleep-protective component (the frontal component) in addition to an arousing component (the parieto-occipital one).</p>
+        <p>These findings suggest that the amplitude of ERPs to stimuli presented during sleep is predictive, whatever the sensory modality, of a subsequent arousing reaction. Such a link was previously shown for somatosensory painful stimulation—i.e., potentially dangerous stimuli—but not for sounds which are much more frequent in our daily life and far less often dangerous than painful ones.</p>
+      </sec>
+      <sec id="s4-2">
+        <title>Intra-Sleep Awakenings and Dream Recall</title>
+        <p>The increased amount of ISW in HR reported in our previous work raised several questions. If ISW is increased in HR as compared to LR, is it also true for arousals? What is the minimum duration of an awakening to allow for the encoding of some information into long term memory? What about the other components of the sleep microstructure?</p>
+        <p>Many previous results justified to investigate sleep microstructural components regarding dream recall. Sleep spindles and the alpha frequency during wakefulness have been related to memory abilities (Klimesch, <xref rid="B38" ref-type="bibr">1997</xref>; Ulrich, <xref rid="B52" ref-type="bibr">2016</xref>), the REMs of REM sleep to dream content (Dement and Kleitman, <xref rid="B27" ref-type="bibr">1957</xref>; Roffwarg et al., <xref rid="B45" ref-type="bibr">1962</xref>; Molinari and Foulkes, <xref rid="B42" ref-type="bibr">1969</xref>), KCs to sleep stability (Bastien et al., <xref rid="B7" ref-type="bibr">2000</xref>; Colrain, <xref rid="B18" ref-type="bibr">2005</xref>; Halász, <xref rid="B33" ref-type="bibr">2005</xref>) and muscles twitches may be considered as the physiological expression of oneiric behaviors thought to be an acting out of dreams (Wolpert, <xref rid="B56" ref-type="bibr">1960</xref>; Sastre and Jouvet, <xref rid="B49" ref-type="bibr">1979</xref>). Interestingly, our in-depth analysis of the sleep structure revealed no differences in the sleep microstructure of HR and LR for any of the parameters considered (i.e., arousals, sleep spindles, KCs, REMs and MTs). Since the number of stage shifts and the delta power in the first sleep cycle were also not significantly different between groups, these results leave awakenings as the only sleep parameter differentiating HR and LR sleep architectures. Our further analysis of these awakenings, notably their distribution in the sleep cycle, revealed that the higher dream recall frequency of HR could not be explained by the REM sleep hypothesis of dreaming (Dement and Kleitman, <xref rid="B27" ref-type="bibr">1957</xref>; Ruby, <xref rid="B46" ref-type="bibr">2011</xref>) since awakenings were not found to be more numerous or longer in REM sleep in HR as compared to LR (Figures <xref ref-type="fig" rid="F1">1A,D</xref>). Interestingly, we found that the frequency of the alpha predominant rhythm was slightly lower (of ~0.2 Hz) during ISW as compared to BSW. This is consistent with previous results that showed an increased power in the lower alpha range in the first minutes following an awakening as compared to the corresponding pre-sleep period (Ferrara et al., <xref rid="B31" ref-type="bibr">2006</xref>). According to Klimesch (<xref rid="B38" ref-type="bibr">1997</xref>) which showed that the alpha frequency of good memory performers is about 1 Hz higher than those of bad performers, the decrease of alpha frequency in ISW could explain the difficulties in memory recall at awakening (recall of dreams or of awakenings during sleep). However alpha frequency was not different in HR and LR and can thus not explain their differences in dream recall.</p>
+        <p>What seems to be the best predictor of dream recall is the intra-sleep awakenings duration. During a night of sleep in the lab with sound presentation, in average, the awakenings of HR were twice longer than those of LR. The reanalysis of the data further showed that if the distribution of short (&lt;1 min) and long awakenings (&gt;1 min) is as expected in young healthy subjects (Goldenberg et al., <xref rid="B32" ref-type="bibr">1981</xref>) i.e., with a great majority of short awakenings—the proportion of each category of awakenings was significantly different between the two groups. HR experienced a significantly higher proportion of long awakenings than LR, while LR experienced more short awakenings than HR. This result is interesting to discuss regarding those of a study which investigated the relationship between the duration of polysomnographic-defined awakenings and awakenings’ awareness (Campbell and Webb, <xref rid="B17" ref-type="bibr">1981</xref>). The subjects’ task was to press a push-button whenever they gained awareness of being awake during sleep while polysomnographic data were acquired. They found that 84% of the unreported arousals/awakenings were shorter than 2 min (1.88 min). This result in addition to ours (awakenings but no arousals difference between HR and LR, average awakenings duration of 2 min vs. 1 min in HR vs. LR, more awakenings longer than 1 min in HR than in LR) suggest that awareness and/or memory of intra-sleep awakenings and dreams is dependent on the duration of intra-sleep awakenings and that the minimum duration for an awakening to allow for memory encoding is approximately 2 min. Given that according to available data the brain is not able to encode new information into explicit memory during sleep (Aarons, <xref rid="B1" ref-type="bibr">1976</xref>), and that the brain is in a very different state during sleep and wakefulness, it seems not unrealistic that some time is needed to restore the encoding-in-memory ability of the brain at awakening.</p>
+        <p>Our results support but also extend and precise the arousal-retrieval model proposed by Koulack and Goodenough (<xref rid="B39" ref-type="bibr">1976</xref>). We found that intra-sleep awakenings duration is the only candidate among the numerous tested parameters assessing sleep macro and microstructure to explain dream recall, that the duration of awakenings rather than the frequency was the critical factor and that the required duration for an awakening to allow for memory encoding was approximately 2 min.</p>
+        <p>A limitation of this study is the smaller number of stimulus-related arousing reactions as compared to Bastuji et al. (<xref rid="B10" ref-type="bibr">2008</xref>) study with painful stimuli. For this reason we could not investigate AEPs in all the sleep stages. Second, automatic vs. visual detection of microstructural sleep parameters is a debated issue in the sleep community (e.g., Wallant et al., <xref rid="B54" ref-type="bibr">2016</xref>). As a consequence even if no between groups difference have been observed, the figures (number of K complexes, spindles, MTs and REMs during REM sleep) have to be considered cautiously since they may have been different if the detection had been made visually. Thirdly, it should be kept in mind that our sleep measures does not reflect natural sleep since sounds were presented to participants during the whole night. That said, most of the computed sleep parameters were close or within the range of standard values, and it is therefore reasonable to assume that sleep quality was generally preserved despite the experimental setup and auditory stimuli. Finally, regarding the interpretation of the AEPs to arousing stimuli it should be kept in mind that the functional role of KCs regarding sleep depth is still unclear and debated, since it has been found that: (1) KCs do not change in the recovery night after sleep deprivation (Curcio et al., <xref rid="B22" ref-type="bibr">2003</xref>); (2) KCs show a linear decline across the adult lifespan (Colrain et al., <xref rid="B19" ref-type="bibr">2010</xref>); (3) they drop in patients with Alzheimer disease (Crowley et al., <xref rid="B21" ref-type="bibr">2005</xref>); and (4) sensory stimulation increases their probability in the ascending slopes of the sleep cycles to a higher degree than in the descending ones (Colrain, <xref rid="B18" ref-type="bibr">2005</xref>).</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusion" id="s5">
+      <title>Conclusion</title>
+      <p>We have shown that brain responses to auditory stimuli in N2 are larger when followed by a subsequent arousing reaction in the 5 s. Coherently with our previous results suggesting a greater brain reactivity in HR, HR demonstrated more arousing stimuli than LR during sleep. Finally, the reanalysis of our previous data (Eichenlaub et al., <xref rid="B28" ref-type="bibr">2014a</xref>) highlighted that HR do not show any other sleep differences with LR apart from longer intra-sleep awakenings and, more precisely, more long and less short intra-sleep awakenings than LR. The results of our team lead us to propose the following mechanism leading to a better recall of dreams in HR than in LR. An increased activity in the temporo-parietal junction at rest in HR as compared to LR (Eichenlaub et al., <xref rid="B29" ref-type="bibr">2014b</xref>) would lead to a greater brain reactivity to external stimuli (Eichenlaub et al., <xref rid="B28" ref-type="bibr">2014a</xref>), i.e., larger brain responses to stimuli, which in turn would trigger more and longer arousing reactions during sleep. These intra-sleep awakenings would finally give more opportunities to the brain to restore his memory-encoding abilities and therefore to encode the dream in long term memory.</p>
+    </sec>
+    <sec id="s6">
+      <title>Author Contributions</title>
+      <p>PMR, DM, J-BE designed the experiment and acquired data. RV, TL, J-BE, CB, KJ, DM and PMR participated in the data analysis. RV and PMR wrote the initial draft.</p>
+    </sec>
+    <sec id="s7">
+      <title>Funding</title>
+      <p>This research was financially supported by a grant from the French National research Agency (Agence Nationale de la Recherche, ANR-07-JCJC-0095). This work was partly performed within the framework of the LABEX CORTEX (ANR-11-LABX-0042) of Université de Lyon, within the program ANR-11-IDEX-0007.</p>
+    </sec>
+    <sec id="s8">
+      <title>Conflict of Interest Statement</title>
+      <p>CB has ownership and directorship in Physip S.A. Company. The other authors declare no conflict of interest.</p>
+    </sec>
+  </body>
+  <back>
+    <sec sec-type="supplementary material" id="s9">
+      <title>Supplementary Material</title>
+      <p>The Supplementary Material for this article can be found online at: <ext-link ext-link-type="uri" xlink:href="http://journal.frontiersin.org/article/10.3389/fnhum.2017.00132/full#supplementary-material">http://journal.frontiersin.org/article/10.3389/fnhum.2017.00132/full#supplementary-material</ext-link></p>
+      <supplementary-material content-type="local-data" id="SM1">
+        <media xlink:href="Image_1.tif">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM2">
+        <media xlink:href="Image_2.tif">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM3">
+        <media xlink:href="Image_3.tif">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM4">
+        <media xlink:href="Table_1.docx">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Aarons</surname><given-names>L.</given-names></name></person-group> (<year>1976</year>). <article-title>Sleep-assisted instruction</article-title>. <source>Psychol. Bull.</source>
+<volume>83</volume>, <fpage>1</fpage>–<lpage>40</lpage>. <pub-id pub-id-type="doi">10.1037/0033-2909.83.1.1</pub-id><?supplied-pmid 1019279?><pub-id pub-id-type="pmid">1019279</pub-id></mixed-citation>
+      </ref>
+      <ref id="B2">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Achermann</surname><given-names>P.</given-names></name><name><surname>Dijk</surname><given-names>D.-J.</given-names></name><name><surname>Brunner</surname><given-names>D. P.</given-names></name><name><surname>Borbély</surname><given-names>A. A.</given-names></name></person-group> (<year>1993</year>). <article-title>A model of human sleep homeostasis based on EEG slow-wave activity: quantitative comparison of data and simulations</article-title>. <source>Brain Res. Bull.</source>
+<volume>31</volume>, <fpage>97</fpage>–<lpage>113</lpage>. <pub-id pub-id-type="doi">10.1016/0361-9230(93)90016-5</pub-id><?supplied-pmid 8453498?><pub-id pub-id-type="pmid">8453498</pub-id></mixed-citation>
+      </ref>
+      <ref id="B3">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Aguera</surname><given-names>P.-E.</given-names></name><name><surname>Jerbi</surname><given-names>K.</given-names></name><name><surname>Caclin</surname><given-names>A.</given-names></name><name><surname>Bertrand</surname><given-names>O.</given-names></name></person-group> (<year>2011</year>). <article-title>ELAN: a software package for analysis and visualization of MEG, EEG, and LFP signals</article-title>. <source>Comput. Intell. Neurosci.</source>
+<volume>2011</volume>:<fpage>158970</fpage>. <pub-id pub-id-type="doi">10.1155/2011/158970</pub-id><?supplied-pmid 21687568?><pub-id pub-id-type="pmid">21687568</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><collab>American Sleep Disorders Association</collab></person-group> (<year>1992</year>). <article-title>EEG arousals: scoring rules and examples</article-title>. <source>Sleep</source>
+<volume>15</volume>:<fpage>173</fpage>
+<pub-id pub-id-type="doi">10.1093/sleep/15.2.173</pub-id><pub-id pub-id-type="pmid">11032543</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Andrillon</surname><given-names>T.</given-names></name><name><surname>Nir</surname><given-names>Y.</given-names></name><name><surname>Cirelli</surname><given-names>C.</given-names></name><name><surname>Tononi</surname><given-names>G.</given-names></name><name><surname>Fried</surname><given-names>I.</given-names></name></person-group> (<year>2015</year>). <article-title>Single-neuron activity and eye movements during human REM sleep and awake vision</article-title>. <source>Nat. Commun.</source>
+<volume>6</volume>:<fpage>7884</fpage>. <pub-id pub-id-type="doi">10.1038/ncomms8884</pub-id><?supplied-pmid 26262924?><pub-id pub-id-type="pmid">26262924</pub-id></mixed-citation>
+      </ref>
+      <ref id="B6">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bahill</surname><given-names>A. T.</given-names></name><name><surname>Clark</surname><given-names>M. R.</given-names></name><name><surname>Stark</surname><given-names>L.</given-names></name></person-group> (<year>1975</year>). <article-title>Glissades—eye movements generated by mismatched components of the saccadic motoneuronal control signal</article-title>. <source>Math. Biosci.</source>
+<volume>26</volume>, <fpage>303</fpage>–<lpage>318</lpage>. <pub-id pub-id-type="doi">10.1016/0025-5564(75)90018-8</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bastien</surname><given-names>C. H.</given-names></name><name><surname>Crowley</surname><given-names>K. E.</given-names></name><name><surname>Colrain</surname><given-names>I. M.</given-names></name></person-group> (<year>2002</year>). <article-title>Evoked potential components unique to non-REM sleep: relationship to evoked KCs and vertex sharp waves</article-title>. <source>Int. J. Psychophysiol.</source>
+<volume>46</volume>, <fpage>257</fpage>–<lpage>274</lpage>. <pub-id pub-id-type="doi">10.1016/s0167-8760(02)00117-4</pub-id><?supplied-pmid 12445952?><pub-id pub-id-type="pmid">12445952</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bastien</surname><given-names>C. H.</given-names></name><name><surname>Ladouceur</surname><given-names>C.</given-names></name><name><surname>Campbell</surname><given-names>K. B.</given-names></name></person-group> (<year>2000</year>). <article-title>EEG characteristics prior to and following the evoked K-Complex</article-title>. <source>Can. J. Exp. Psychol. Can. Psychol.</source>
+<volume>54</volume>, <fpage>255</fpage>–<lpage>265</lpage>. <pub-id pub-id-type="doi">10.1037/h0087345</pub-id><?supplied-pmid 11195716?><pub-id pub-id-type="pmid">11195716</pub-id></mixed-citation>
+      </ref>
+      <ref id="B9">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Bastuji</surname><given-names>H.</given-names></name><name><surname>Lavigne</surname><given-names>G.</given-names></name></person-group> (<year>2016</year>). “<article-title>Pain perception during sleep</article-title>,” in <source>Pain and the Conscious Brain</source>, eds <person-group person-group-type="editor"><name><surname>Garcia-Larrea</surname><given-names>L.</given-names></name><name><surname>Jackson</surname><given-names>P. L.</given-names></name></person-group> (<publisher-loc>Philadelphia, PA</publisher-loc>: <publisher-name>Wolters Kluwer Health</publisher-name>), <fpage>61</fpage>–<lpage>74</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bastuji</surname><given-names>H.</given-names></name><name><surname>Perchet</surname><given-names>C.</given-names></name><name><surname>Legrain</surname><given-names>V.</given-names></name><name><surname>Montes</surname><given-names>C.</given-names></name><name><surname>Garcia-Larrea</surname><given-names>L.</given-names></name></person-group> (<year>2008</year>). <article-title>Laser evoked responses to painful stimulation persist during sleep and predict subsequent arousals</article-title>. <source>Pain</source>
+<volume>137</volume>, <fpage>589</fpage>–<lpage>599</lpage>. <pub-id pub-id-type="doi">10.1016/j.pain.2007.10.027</pub-id><?supplied-pmid 18063478?><pub-id pub-id-type="pmid">18063478</pub-id></mixed-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Benoit</surname><given-names>O.</given-names></name><name><surname>Lacombe</surname><given-names>J.</given-names></name><name><surname>Bouard</surname><given-names>G.</given-names></name><name><surname>Foret</surname><given-names>J.</given-names></name><name><surname>Marc</surname><given-names>M.-E.</given-names></name></person-group> (<year>1981</year>). <article-title>Durée habituelle de sommeil, modifications du rythme veille-sommeil et éveils nocturnes</article-title>. <source>Rev. Electroencephalogr. Neurophysiol. Clin.</source>
+<volume>11</volume>, <fpage>89</fpage>–<lpage>95</lpage>. <pub-id pub-id-type="doi">10.1016/s0370-4475(81)80038-x</pub-id><?supplied-pmid 7313261?><pub-id pub-id-type="pmid">7313261</pub-id></mixed-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Berthomier</surname><given-names>C.</given-names></name></person-group> (<year>1983</year>). <article-title>Instantaneous frequency and energy distribution of a signal</article-title>. <source>Signal Process.</source>
+<volume>5</volume>, <fpage>31</fpage>–<lpage>45</lpage>. <pub-id pub-id-type="doi">10.1016/0165-1684(83)90033-6</pub-id></mixed-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Berthomier</surname><given-names>C.</given-names></name><name><surname>Drouot</surname><given-names>X.</given-names></name><name><surname>Herman-Stoïca</surname><given-names>M.</given-names></name><name><surname>Berthomier</surname><given-names>P.</given-names></name><name><surname>Prado</surname><given-names>J.</given-names></name><name><surname>Bokar-Thire</surname><given-names>D.</given-names></name><etal/></person-group>. (<year>2007</year>). <article-title>Automatic analysis of single-channel sleep EEG: validation in healthy individuals</article-title>. <source>Sleep</source>
+<volume>30</volume>, <fpage>1587</fpage>–<lpage>1595</lpage>. <pub-id pub-id-type="doi">10.1093/sleep/30.11.1587</pub-id><?supplied-pmid 18041491?><pub-id pub-id-type="pmid">18041491</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bidet-Caulet</surname><given-names>A.</given-names></name><name><surname>Barbe</surname><given-names>P.-G.</given-names></name><name><surname>Roux</surname><given-names>S.</given-names></name><name><surname>Viswanath</surname><given-names>H.</given-names></name><name><surname>Barthélémy</surname><given-names>C.</given-names></name><name><surname>Bruneau</surname><given-names>N.</given-names></name><etal/></person-group>. (<year>2012</year>). <article-title>Dynamics of anticipatory mechanisms during predictive context processing</article-title>. <source>Eur. J. Neurosci.</source>
+<volume>36</volume>, <fpage>2996</fpage>–<lpage>3004</lpage>. <pub-id pub-id-type="doi">10.1111/j.1460-9568.2012.08223.x</pub-id><?supplied-pmid 22780698?><pub-id pub-id-type="pmid">22780698</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bonnet</surname><given-names>M. H.</given-names></name><name><surname>Arand</surname><given-names>D. L</given-names></name></person-group>. (<year>2007</year>). <article-title>EEG arousal norms by age</article-title>. <source>J. Clin. Sleep Med.</source>
+<volume>3</volume>, <fpage>271</fpage>–<lpage>274</lpage>. <?supplied-pmid 17557423?><pub-id pub-id-type="pmid">17561594</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Caclin</surname><given-names>A.</given-names></name><name><surname>McAdams</surname><given-names>S.</given-names></name><name><surname>Smith</surname><given-names>B. K.</given-names></name><name><surname>Giard</surname><given-names>M.-H.</given-names></name></person-group> (<year>2008</year>). <article-title>Interactive processing of timbre dimensions: an exploration with event-related potentials</article-title>. <source>J. Cogn. Neurosci.</source>
+<volume>20</volume>, <fpage>49</fpage>–<lpage>64</lpage>. <pub-id pub-id-type="doi">10.1162/jocn.2008.20.1.49</pub-id><?supplied-pmid 17919079?><pub-id pub-id-type="pmid">17919079</pub-id></mixed-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Campbell</surname><given-names>S. S.</given-names></name><name><surname>Webb</surname><given-names>W. B.</given-names></name></person-group> (<year>1981</year>). <article-title>The perception of wakefulness within sleep</article-title>. <source>Sleep</source>
+<volume>4</volume>, <fpage>177</fpage>–<lpage>183</lpage>. <pub-id pub-id-type="doi">10.1093/sleep/4.2.177</pub-id><?supplied-pmid 7256078?><pub-id pub-id-type="pmid">7256078</pub-id></mixed-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Colrain</surname><given-names>I. M.</given-names></name></person-group> (<year>2005</year>). <article-title>The K-complex: a 7-decade history</article-title>. <source>Sleep</source>
+<volume>28</volume>, <fpage>255</fpage>–<lpage>273</lpage>. <pub-id pub-id-type="doi">10.1093/sleep/28.2.255</pub-id><?supplied-pmid 16171251?><pub-id pub-id-type="pmid">16171251</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Colrain</surname><given-names>I. M.</given-names></name><name><surname>Crowley</surname><given-names>K. E.</given-names></name><name><surname>Nicholas</surname><given-names>C. L.</given-names></name><name><surname>Afifi</surname><given-names>L.</given-names></name><name><surname>Baker</surname><given-names>F. C.</given-names></name><name><surname>Padilla</surname><given-names>M.</given-names></name><etal/></person-group>. (<year>2010</year>). <article-title>Sleep evoked delta frequency responses show a linear decline in amplitude across the adult lifespan</article-title>. <source>Neurobiol. Aging</source>
+<volume>31</volume>, <fpage>874</fpage>–<lpage>883</lpage>. <pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2008.06.003</pub-id><?supplied-pmid 18657881?><pub-id pub-id-type="pmid">18657881</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cote</surname><given-names>K. A.</given-names></name><name><surname>de Lugt</surname><given-names>D. R.</given-names></name><name><surname>Langley</surname><given-names>S. D.</given-names></name><name><surname>Campbell</surname><given-names>K. B.</given-names></name></person-group> (<year>1999</year>). <article-title>Scalp topography of the auditory evoked K-complex in stage 2 and slow wave sleep</article-title>. <source>J. Sleep Res.</source>
+<volume>8</volume>, <fpage>263</fpage>–<lpage>272</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2869.1999.00164.x</pub-id><?supplied-pmid 10646166?><pub-id pub-id-type="pmid">10646166</pub-id></mixed-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Crowley</surname><given-names>K.</given-names></name><name><surname>Sullivan</surname><given-names>E. V.</given-names></name><name><surname>Adalsteinsson</surname><given-names>E.</given-names></name><name><surname>Pfefferbaum</surname><given-names>A.</given-names></name><name><surname>Colrain</surname><given-names>I. M.</given-names></name></person-group> (<year>2005</year>). <article-title>Differentiating pathologic delta from healthy physiologic delta in patients with Alzheimer disease</article-title>. <source>Sleep</source>
+<volume>28</volume>, <fpage>865</fpage>–<lpage>870</lpage>. <pub-id pub-id-type="doi">10.1093/sleep/28.7.865</pub-id><?supplied-pmid 16124667?><pub-id pub-id-type="pmid">16124667</pub-id></mixed-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Curcio</surname><given-names>G.</given-names></name><name><surname>Ferrara</surname><given-names>M.</given-names></name><name><surname>Pellicciari</surname><given-names>M. C.</given-names></name><name><surname>Cristiani</surname><given-names>R.</given-names></name><name><surname>De Gennaro</surname><given-names>L.</given-names></name></person-group> (<year>2003</year>). <article-title>Effect of total sleep deprivation on the landmarks of stage 2 sleep</article-title>. <source>Clin. Neurophysiol.</source>
+<volume>114</volume>, <fpage>2279</fpage>–<lpage>2285</lpage>. <pub-id pub-id-type="doi">10.1016/s1388-2457(03)00276-1</pub-id><?supplied-pmid 14652087?><pub-id pub-id-type="pmid">14652087</pub-id></mixed-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Curran</surname><given-names>T.</given-names></name></person-group> (<year>2004</year>). <article-title>Effects of attention and confidence on the hypothesized ERP correlates of recollection and familiarity</article-title>. <source>Neuropsychologia</source>
+<volume>42</volume>, <fpage>1088</fpage>–<lpage>1106</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuropsychologia.2003.12.011</pub-id><?supplied-pmid 15093148?><pub-id pub-id-type="pmid">15093148</pub-id></mixed-citation>
+      </ref>
+      <ref id="B24">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dang-Vu</surname><given-names>T. T.</given-names></name><name><surname>Salimi</surname><given-names>A.</given-names></name><name><surname>Boucetta</surname><given-names>S.</given-names></name><name><surname>Wenzel</surname><given-names>K.</given-names></name><name><surname>O’Byrne</surname><given-names>J.</given-names></name><name><surname>Brandewinder</surname><given-names>M.</given-names></name><etal/></person-group>. (<year>2015</year>). <article-title>Sleep spindles predict stress-related increases in sleep disturbances</article-title>. <source>Front. Hum. Neurosci.</source>
+<volume>9</volume>:<fpage>68</fpage>. <pub-id pub-id-type="doi">10.3389/fnhum.2015.00068</pub-id><?supplied-pmid 25713529?><pub-id pub-id-type="pmid">25713529</pub-id></mixed-citation>
+      </ref>
+      <ref id="B25">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>De Gennaro</surname><given-names>L.</given-names></name><name><surname>Ferrara</surname><given-names>M.</given-names></name><name><surname>Bertini</surname><given-names>M.</given-names></name></person-group> (<year>2001</year>). <article-title>EEG arousals in normal sleep: variations induced by total and selective slow-wave sleep deprivation</article-title>. <source>Sleep</source>
+<volume>24</volume>, <fpage>673</fpage>–<lpage>679</lpage>. <pub-id pub-id-type="doi">10.1093/sleep/24.6.673</pub-id><?supplied-pmid 11560180?><pub-id pub-id-type="pmid">11560180</pub-id></mixed-citation>
+      </ref>
+      <ref id="B26">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>De Gennaro</surname><given-names>L.</given-names></name><name><surname>Marzano</surname><given-names>C.</given-names></name><name><surname>Moroni</surname><given-names>F.</given-names></name><name><surname>Curcio</surname><given-names>G.</given-names></name><name><surname>Ferrara</surname><given-names>M.</given-names></name><name><surname>Cipolli</surname><given-names>C.</given-names></name></person-group> (<year>2010</year>). <article-title>Recovery sleep after sleep deprivation almost completely abolishes dream recall</article-title>. <source>Behav. Brain Res.</source>
+<volume>206</volume>, <fpage>293</fpage>–<lpage>298</lpage>. <pub-id pub-id-type="doi">10.1016/j.bbr.2009.09.030</pub-id><?supplied-pmid 19788898?><pub-id pub-id-type="pmid">19788898</pub-id></mixed-citation>
+      </ref>
+      <ref id="B27">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dement</surname><given-names>W.</given-names></name><name><surname>Kleitman</surname><given-names>N.</given-names></name></person-group> (<year>1957</year>). <article-title>The relation of eye movements during sleep to dream activity: an objective method for the study of dreaming</article-title>. <source>J. Exp. Psychol.</source>
+<volume>53</volume>, <fpage>339</fpage>–<lpage>346</lpage>. <pub-id pub-id-type="doi">10.1037/h0048189</pub-id><?supplied-pmid 13428941?><pub-id pub-id-type="pmid">13428941</pub-id></mixed-citation>
+      </ref>
+      <ref id="B28">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Eichenlaub</surname><given-names>J.-B.</given-names></name><name><surname>Bertrand</surname><given-names>O.</given-names></name><name><surname>Morlet</surname><given-names>D.</given-names></name><name><surname>Ruby</surname><given-names>P.</given-names></name></person-group> (<year>2014a</year>). <article-title>Brain reactivity differentiates subjects with high and low dream recall frequencies during both sleep and wakefulness</article-title>. <source>Cereb. Cortex</source>
+<volume>24</volume>, <fpage>1206</fpage>–<lpage>1215</lpage>. <pub-id pub-id-type="doi">10.1093/cercor/bhs388</pub-id><?supplied-pmid 23283685?><pub-id pub-id-type="pmid">23283685</pub-id></mixed-citation>
+      </ref>
+      <ref id="B29">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Eichenlaub</surname><given-names>J.-B.</given-names></name><name><surname>Nicolas</surname><given-names>A.</given-names></name><name><surname>Daltrozzo</surname><given-names>J.</given-names></name><name><surname>Redouté</surname><given-names>J.</given-names></name><name><surname>Costes</surname><given-names>N.</given-names></name><name><surname>Ruby</surname><given-names>P.</given-names></name></person-group> (<year>2014b</year>). <article-title>Resting brain activity varies with dream recall frequency between subjects</article-title>. <source>Neuropsychopharmacology</source>
+<volume>39</volume>, <fpage>1594</fpage>–<lpage>1602</lpage>. <pub-id pub-id-type="doi">10.1038/npp.2014.6</pub-id><?supplied-pmid 24549103?><pub-id pub-id-type="pmid">24549103</pub-id></mixed-citation>
+      </ref>
+      <ref id="B30">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Eichenlaub</surname><given-names>J.-B.</given-names></name><name><surname>Ruby</surname><given-names>P.</given-names></name><name><surname>Morlet</surname><given-names>D.</given-names></name></person-group> (<year>2012</year>). <article-title>What is the specificity of the response to the own first-name when presented as a novel in a passive oddball paradigm? An ERP study</article-title>. <source>Brain Res.</source>
+<volume>1447</volume>, <fpage>65</fpage>–<lpage>78</lpage>. <pub-id pub-id-type="doi">10.1016/j.brainres.2012.01.072</pub-id><?supplied-pmid 22361115?><pub-id pub-id-type="pmid">22361115</pub-id></mixed-citation>
+      </ref>
+      <ref id="B31">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ferrara</surname><given-names>M.</given-names></name><name><surname>Curcio</surname><given-names>G.</given-names></name><name><surname>Fratello</surname><given-names>F.</given-names></name><name><surname>Moroni</surname><given-names>F.</given-names></name><name><surname>Marzano</surname><given-names>C.</given-names></name><name><surname>Pellicciari</surname><given-names>M.</given-names></name><etal/></person-group>. (<year>2006</year>). <article-title>The electroencephalographic substratum of the awakening</article-title>. <source>Behav. Brain Res.</source>
+<volume>167</volume>, <fpage>237</fpage>–<lpage>244</lpage>. <pub-id pub-id-type="doi">10.1016/j.bbr.2005.09.012</pub-id><?supplied-pmid 16242789?><pub-id pub-id-type="pmid">16242789</pub-id></mixed-citation>
+      </ref>
+      <ref id="B32">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Goldenberg</surname><given-names>F.</given-names></name><name><surname>Goldenberg</surname><given-names>E.</given-names></name><name><surname>LaComber</surname><given-names>J.</given-names></name><name><surname>Benoit</surname><given-names>O.</given-names></name></person-group> (<year>1981</year>). <article-title>Eveil intra-sommeil chez de mauvais dormeurs de 20 a 30 ans. Correlation avec le niveau d’anxiete et la personnalite</article-title>. <source>Rev. Electroencephalogr. Neurophysiol. Clin.</source>
+<volume>11</volume>, <fpage>102</fpage>–<lpage>109</lpage>. <pub-id pub-id-type="doi">10.1016/s0370-4475(81)80040-8</pub-id><?supplied-pmid 7313242?><pub-id pub-id-type="pmid">7313242</pub-id></mixed-citation>
+      </ref>
+      <ref id="B330">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Guthrie</surname><given-names>D.</given-names></name><name><surname>Buchwald</surname><given-names>J. S.</given-names></name></person-group> (<year>1991</year>). <article-title>Significance testing of difference potentials</article-title>. <source>Psychophysiology</source>
+<volume>28</volume>, <fpage>240</fpage>–<lpage>244</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-8986.1991.tb00417.x</pub-id><?supplied-pmid 16122950?><pub-id pub-id-type="pmid">1946890</pub-id></mixed-citation>
+      </ref>
+      <ref id="B33">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Halász</surname><given-names>P.</given-names></name></person-group> (<year>2005</year>). <article-title>K-complex, a reactive EEG graphoelement of NREM sleep: an old chap in a new garment</article-title>. <source>Sleep Med. Rev.</source>
+<volume>9</volume>, <fpage>391</fpage>–<lpage>412</lpage>. <pub-id pub-id-type="doi">10.1016/j.smrv.2005.04.003</pub-id><?supplied-pmid 16122950?><pub-id pub-id-type="pmid">16122950</pub-id></mixed-citation>
+      </ref>
+      <ref id="B34">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hirshkowitz</surname><given-names>M.</given-names></name></person-group> (<year>2004</year>). <article-title>Normal human sleep: an overview</article-title>. <source>Med. Clin. North Am.</source>
+<volume>88</volume>, <fpage>551</fpage>–<lpage>565</lpage>. <pub-id pub-id-type="doi">10.1016/j.mcna.2004.01.001</pub-id><?supplied-pmid 15087204?><pub-id pub-id-type="pmid">15087204</pub-id></mixed-citation>
+      </ref>
+      <ref id="B35">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Huber</surname><given-names>R.</given-names></name><name><surname>Ghilardi</surname><given-names>M. F.</given-names></name><name><surname>Massimini</surname><given-names>M.</given-names></name><name><surname>Tononi</surname><given-names>G.</given-names></name></person-group> (<year>2004</year>). <article-title>Local sleep and learning</article-title>. <source>Nature</source>
+<volume>430</volume>, <fpage>78</fpage>–<lpage>81</lpage>. <pub-id pub-id-type="doi">10.1038/nature02663</pub-id><?supplied-pmid 15184907?><pub-id pub-id-type="pmid">15184907</pub-id></mixed-citation>
+      </ref>
+      <ref id="B36">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Iber</surname><given-names>C.</given-names></name><name><surname>Ancoli-Israel</surname><given-names>S.</given-names></name><name><surname>Chesson</surname><given-names>A. L.</given-names><suffix>Jr.</suffix></name><name><surname>Quan</surname><given-names>S. F.</given-names></name></person-group> (<year>2007</year>). <source>The AASM Manual for The Scoring of Sleep and Associated Events: Rules, Terminology and Technical Specifications.</source>
+<publisher-loc>Westchester, IL</publisher-loc>: <publisher-name>American Academy of Sleep Medicine</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="B37">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jahnke</surname><given-names>K.</given-names></name><name><surname>von Wegner</surname><given-names>F.</given-names></name><name><surname>Morzelewski</surname><given-names>A.</given-names></name><name><surname>Borisov</surname><given-names>S.</given-names></name><name><surname>Maischein</surname><given-names>M.</given-names></name><name><surname>Steinmetz</surname><given-names>H.</given-names></name><etal/></person-group>. (<year>2012</year>). <article-title>To wake or not to wake? The two-sided nature of the human K-complex</article-title>. <source>Neuroimage</source>
+<volume>59</volume>, <fpage>1631</fpage>–<lpage>1638</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuroimage.2011.09.013</pub-id><?supplied-pmid 21945697?><pub-id pub-id-type="pmid">21945697</pub-id></mixed-citation>
+      </ref>
+      <ref id="B38">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Klimesch</surname><given-names>W.</given-names></name></person-group> (<year>1997</year>). <article-title>EEG-alpha rhythms and memory processes</article-title>. <source>Int. J. Psychophysiol.</source>
+<volume>26</volume>, <fpage>319</fpage>–<lpage>340</lpage>. <pub-id pub-id-type="doi">10.1016/s0167-8760(97)00773-3</pub-id><?supplied-pmid 9203012?><pub-id pub-id-type="pmid">9203012</pub-id></mixed-citation>
+      </ref>
+      <ref id="B39">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Koulack</surname><given-names>D.</given-names></name><name><surname>Goodenough</surname><given-names>D. R.</given-names></name></person-group> (<year>1976</year>). <article-title>Dream recall and dream recall failure: an arousal-retrieval model</article-title>. <source>Psychol. Bull.</source>
+<volume>83</volume>, <fpage>975</fpage>–<lpage>984</lpage>. <pub-id pub-id-type="doi">10.1037/0033-2909.83.5.975</pub-id></mixed-citation>
+      </ref>
+      <ref id="B40">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lajnef</surname><given-names>T.</given-names></name><name><surname>Chaibi</surname><given-names>S.</given-names></name><name><surname>Eichenlaub</surname><given-names>J.-B.</given-names></name><name><surname>Ruby</surname><given-names>P. M.</given-names></name><name><surname>Aguera</surname><given-names>P.-E.</given-names></name><name><surname>Samet</surname><given-names>M.</given-names></name><etal/></person-group>. (<year>2015</year>). <article-title>Sleep spindle and K-complex detection using tunable Q-factor wavelet transform and morphological component analysis</article-title>. <source>Front. Hum. Neurosci.</source>
+<volume>9</volume>:<fpage>414</fpage>. <pub-id pub-id-type="doi">10.3389/fnhum.2015.00414</pub-id><?supplied-pmid 26283943?><pub-id pub-id-type="pmid">26283943</pub-id></mixed-citation>
+      </ref>
+      <ref id="B41">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lajnef</surname><given-names>T.</given-names></name><name><surname>O’Reilly</surname><given-names>C.</given-names></name><name><surname>Combrisson</surname><given-names>E.</given-names></name><name><surname>Chaibi</surname><given-names>S.</given-names></name><name><surname>Eichenlaub</surname><given-names>J.-B.</given-names></name><name><surname>Ruby</surname><given-names>P. M.</given-names></name><etal/></person-group> (<year>2017</year>). <article-title>Meet spinky: an open-source spindle and K-complex detection toolbox validated on the open-access montreal archive of sleep studies (MASS)</article-title>. <source>Front. Neuroinform.</source>
+<volume>11</volume>:<fpage>15</fpage>
+<pub-id pub-id-type="doi">10.3389/fninf.2017.00015</pub-id><pub-id pub-id-type="pmid">28303099</pub-id></mixed-citation>
+      </ref>
+      <ref id="B42">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Molinari</surname><given-names>S.</given-names></name><name><surname>Foulkes</surname><given-names>D.</given-names></name></person-group> (<year>1969</year>). <article-title>Tonic and phasic events during sleep: psychological correlates and implications</article-title>. <source>Percept. Mot. Skills</source>
+<volume>29</volume>, <fpage>343</fpage>–<lpage>368</lpage>. <pub-id pub-id-type="doi">10.2466/pms.1969.29.2.343</pub-id><?supplied-pmid 4310916?><pub-id pub-id-type="pmid">4310916</pub-id></mixed-citation>
+      </ref>
+      <ref id="B43">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nicholas</surname><given-names>C. L.</given-names></name><name><surname>Trinder</surname><given-names>J.</given-names></name><name><surname>Colrain</surname><given-names>I. M.</given-names></name></person-group> (<year>2002</year>). <article-title>Increased production of evoked and spontaneous KCs following a night of fragmented sleep</article-title>. <source>Sleep</source>
+<volume>25</volume>, <fpage>882</fpage>–<lpage>887</lpage>. <pub-id pub-id-type="doi">10.1093/sleep/25.8.42</pub-id><?supplied-pmid 12489895?><pub-id pub-id-type="pmid">12489895</pub-id></mixed-citation>
+      </ref>
+      <ref id="B44">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Peszka</surname><given-names>J.</given-names></name><name><surname>Harsh</surname><given-names>J.</given-names></name></person-group> (<year>2002</year>). <article-title>Effect of sleep deprivation on NREM sleep ERPs and related activity at sleep onset</article-title>. <source>Int. J. Psychophysiol.</source>
+<volume>46</volume>, <fpage>275</fpage>–<lpage>286</lpage>. <pub-id pub-id-type="doi">10.1016/s0167-8760(02)00115-0</pub-id><?supplied-pmid 12445953?><pub-id pub-id-type="pmid">12445953</pub-id></mixed-citation>
+      </ref>
+      <ref id="B45">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Roffwarg</surname><given-names>H. P.</given-names></name><name><surname>Dement</surname><given-names>W. C.</given-names></name><name><surname>Muzio</surname><given-names>J. N.</given-names></name><name><surname>Fisher</surname><given-names>C.</given-names></name></person-group> (<year>1962</year>). <article-title>Dream imagery: relationship to rapid eye movements of sleep</article-title>. <source>Arch. Gen. Psychiatry</source>
+<volume>7</volume>, <fpage>235</fpage>–<lpage>258</lpage>. <pub-id pub-id-type="doi">10.1001/archpsyc.1962.01720040001001</pub-id><?supplied-pmid 13982370?><pub-id pub-id-type="pmid">13982370</pub-id></mixed-citation>
+      </ref>
+      <ref id="B46">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ruby</surname><given-names>P.</given-names></name></person-group> (<year>2011</year>). <article-title>Experimental research on dreaming: state of the art and neuropsychoanalytic perspectives</article-title>. <source>Front. Psychol.</source>
+<volume>2</volume>:<fpage>286</fpage>. <pub-id pub-id-type="doi">10.3389/fpsyg.2011.00286</pub-id><?supplied-pmid 22121353?><pub-id pub-id-type="pmid">22121353</pub-id></mixed-citation>
+      </ref>
+      <ref id="B47">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ruby</surname><given-names>P.</given-names></name><name><surname>Blochet</surname><given-names>C.</given-names></name><name><surname>Eichenlaub</surname><given-names>J.-B.</given-names></name><name><surname>Bertrand</surname><given-names>O.</given-names></name><name><surname>Morlet</surname><given-names>D.</given-names></name><name><surname>Bidet-Caulet</surname><given-names>A.</given-names></name></person-group> (<year>2013a</year>). <article-title>Alpha reactivity to complex sounds differs during REM sleep and wakefulness</article-title>. <source>PLoS One</source>
+<volume>8</volume>:<fpage>e79989</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pone.0079989</pub-id><?supplied-pmid 24260331?><pub-id pub-id-type="pmid">24260331</pub-id></mixed-citation>
+      </ref>
+      <ref id="B48">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ruby</surname><given-names>P.</given-names></name><name><surname>Blochet</surname><given-names>C.</given-names></name><name><surname>Eichenlaub</surname><given-names>J.-B.</given-names></name><name><surname>Bertrand</surname><given-names>O.</given-names></name><name><surname>Morlet</surname><given-names>D.</given-names></name><name><surname>Bidet-Caulet</surname><given-names>A.</given-names></name></person-group> (<year>2013b</year>). <article-title>Alpha reactivity to first names differs in subjects with high and low dream recall frequency</article-title>. <source>Front. Psychol.</source>
+<volume>4</volume>:<fpage>419</fpage>. <pub-id pub-id-type="doi">10.3389/fpsyg.2013.00419</pub-id><?supplied-pmid 23966960?><pub-id pub-id-type="pmid">23966960</pub-id></mixed-citation>
+      </ref>
+      <ref id="B49">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sastre</surname><given-names>J.-P.</given-names></name><name><surname>Jouvet</surname><given-names>M.</given-names></name></person-group> (<year>1979</year>). <article-title>Le comportement onirique du chat</article-title>. <source>Physiol. Behav.</source>
+<volume>22</volume>, <fpage>979</fpage>–<lpage>989</lpage>. <pub-id pub-id-type="doi">10.1016/0031-9384(79)90344-5</pub-id><pub-id pub-id-type="pmid">228328</pub-id></mixed-citation>
+      </ref>
+      <ref id="B50">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schredl</surname><given-names>M.</given-names></name><name><surname>Wittmann</surname><given-names>L.</given-names></name><name><surname>Ciric</surname><given-names>P.</given-names></name><name><surname>GÖtz</surname><given-names>S.</given-names></name></person-group> (<year>2003</year>). <article-title>Factors of home dream recall: a structural equation model</article-title>. <source>J. Sleep Res.</source>
+<volume>12</volume>, <fpage>133</fpage>–<lpage>141</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2869.2003.00344.x</pub-id><?supplied-pmid 12753350?><pub-id pub-id-type="pmid">12753350</pub-id></mixed-citation>
+      </ref>
+      <ref id="B51">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Silber</surname><given-names>M. H.</given-names></name><name><surname>Ancoli-Israel</surname><given-names>S.</given-names></name><name><surname>Bonnet</surname><given-names>M. H.</given-names></name><name><surname>Chokroverty</surname><given-names>S.</given-names></name><name><surname>Grigg-Damberger</surname><given-names>M. M.</given-names></name><name><surname>Hirshkowitz</surname><given-names>M.</given-names></name><etal/></person-group>. (<year>2007</year>). <article-title>The visual scoring of sleep in adults</article-title>. <source>J. Clin. Sleep Med.</source>
+<volume>3</volume>, <fpage>121</fpage>–<lpage>131</lpage>. <?supplied-pmid 17557422?><pub-id pub-id-type="pmid">17557422</pub-id></mixed-citation>
+      </ref>
+      <ref id="B52">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ulrich</surname><given-names>D.</given-names></name></person-group> (<year>2016</year>). <article-title>Sleep spindles as facilitators of memory formation and learning</article-title>. <source>Neural Plast.</source>
+<volume>2016</volume>:<fpage>1796715</fpage>. <pub-id pub-id-type="doi">10.1155/2016/1796715</pub-id><?supplied-pmid 27119026?><pub-id pub-id-type="pmid">27119026</pub-id></mixed-citation>
+      </ref>
+      <ref id="B53">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vidal</surname><given-names>J. R.</given-names></name><name><surname>Freyermuth</surname><given-names>S.</given-names></name><name><surname>Jerbi</surname><given-names>K.</given-names></name><name><surname>Hamamé</surname><given-names>C. M.</given-names></name><name><surname>Ossandon</surname><given-names>T.</given-names></name><name><surname>Bertrand</surname><given-names>O.</given-names></name><etal/></person-group>. (<year>2012</year>). <article-title>Long-distance amplitude correlations in the high gamma band reveal segregation and integration within the reading network</article-title>. <source>J. Neurosci.</source>
+<volume>32</volume>, <fpage>6421</fpage>–<lpage>6434</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.4363-11.2012</pub-id><?supplied-pmid 22573665?><pub-id pub-id-type="pmid">22573665</pub-id></mixed-citation>
+      </ref>
+      <ref id="B54">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wallant</surname><given-names>D.</given-names></name><name><surname>Maquet</surname><given-names>P.</given-names></name><name><surname>Phillips</surname><given-names>C.</given-names></name></person-group> (<year>2016</year>). <article-title>Sleep spindles as an electrographic element: description and automatic detection methods</article-title>. <source>Neural Plast.</source>
+<volume>2016</volume>:<fpage>6783812</fpage>. <pub-id pub-id-type="doi">10.1155/2016/6783812</pub-id><?supplied-pmid 27478649?><pub-id pub-id-type="pmid">27478649</pub-id></mixed-citation>
+      </ref>
+      <ref id="B55">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wamsley</surname><given-names>E. J.</given-names></name><name><surname>Tucker</surname><given-names>M. A.</given-names></name><name><surname>Shinn</surname><given-names>A. K.</given-names></name><name><surname>Ono</surname><given-names>K. E.</given-names></name><name><surname>McKinley</surname><given-names>S. K.</given-names></name><name><surname>Ely</surname><given-names>A. V.</given-names></name><etal/></person-group>. (<year>2012</year>). <article-title>Reduced sleep spindles and spindle coherence in schizophrenia: mechanisms of impaired memory consolidation?</article-title>
+<source>Biol. Psychiatry</source>
+<volume>71</volume>, <fpage>154</fpage>–<lpage>161</lpage>. <pub-id pub-id-type="doi">10.1016/j.biopsych.2011.08.008</pub-id><?supplied-pmid 21967958?><pub-id pub-id-type="pmid">21967958</pub-id></mixed-citation>
+      </ref>
+      <ref id="B56">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wolpert</surname><given-names>E. A.</given-names></name></person-group> (<year>1960</year>). <article-title>Studies in psychophysiology of dreams: II. An electromyographic study of dreaming</article-title>. <source>JAMA. Arch. Gen. Psychiatry</source>
+<volume>2</volume>, <fpage>231</fpage>–<lpage>241</lpage>. <pub-id pub-id-type="doi">10.1001/archpsyc.1960.03590080107014</pub-id><?supplied-pmid 13845777?><pub-id pub-id-type="pmid">13845777</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+    <glossary>
+      <def-list>
+        <title>Abbreviations</title>
+        <def-item>
+          <term>AEP</term>
+          <def>
+            <p>Auditory evoked potential</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>AI</term>
+          <def>
+            <p>Arousal Index</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>BSW</term>
+          <def>
+            <p>Before sleep wakefulness</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>EEG</term>
+          <def>
+            <p>Electroencephalogram</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>EMG</term>
+          <def>
+            <p>Electromyogram</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>EOG</term>
+          <def>
+            <p>Electro-oculogram</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>ERP</term>
+          <def>
+            <p>Event related potential</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>HR</term>
+          <def>
+            <p>High dream recallers</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>Inds</term>
+          <def>
+            <p>Indeterminate</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>ISW</term>
+          <def>
+            <p>Intra sleep wakefulness</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>KCs</term>
+          <def>
+            <p>K-complexes</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>LR</term>
+          <def>
+            <p>Low dream recallers</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>MTs</term>
+          <def>
+            <p>Muscle twitches</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>Mvts</term>
+          <def>
+            <p>Movements</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>REMs</term>
+          <def>
+            <p>Rapid eyes movements</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>TST</term>
+          <def>
+            <p>Total Sleep Time.</p>
+          </def>
+        </def-item>
+      </def-list>
+    </glossary>
+  </back>
+</article>
+
+</metadata></record>

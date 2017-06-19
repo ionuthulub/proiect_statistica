@@ -76,7 +76,7 @@ def get_medical_terms_frequency(file_name):
 
 
 def get_author_views_and_publications(file_name):
-    with codecs.open(file_name, 'r', encoding='utf-8') as fin:
+    with codecs.open(file_name, 'r', encoding='utf-8', errors='ignore') as fin:
         text = fin.read()
     author_id = re.search('http://loop.frontiersin.org/people/(\d+)', text)
     if not author_id:
@@ -98,6 +98,7 @@ def main():
     input_file_name = sys.argv[1]
     dir_name = tempfile.mkdtemp()
     try:
+        print input_file_name
         extract_clean_text(input_file_name, dir_name)
         sentiment = get_sentiment(input_file_name)
         print sentiment
@@ -112,6 +113,13 @@ def main():
         total_views, total_publications = get_author_views_and_publications(input_file_name)
         print total_views
         print total_publications
+
+        total = (0.5 * sentiment if sentiment > 0 else 0.25) + \
+                (0.05 if 20 <= average_words_per_sentence <= 30 else 0) + \
+                (0.25 * medical_terms_frequency) + \
+                (0.15 * float(total_views) / 1000 if float(total_views / 1000) < 1 else 0.15) + \
+                (0.05 * float(total_publications) / 10 if float(total_publications / 10) < 1 else 0.05)
+        print total
     finally:
         shutil.rmtree(dir_name)
 

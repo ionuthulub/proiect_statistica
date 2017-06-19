@@ -1,0 +1,1037 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5362666</identifier><datestamp>2017-04-04</datestamp><setSpec>springeropen</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Int J Comput Assist Radiol Surg</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Int J Comput Assist Radiol Surg</journal-id>
+      <journal-title-group>
+        <journal-title>International Journal of Computer Assisted Radiology and Surgery</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1861-6410</issn>
+      <issn pub-type="epub">1861-6429</issn>
+      <publisher>
+        <publisher-name>Springer International Publishing</publisher-name>
+        <publisher-loc>Cham</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5362666</article-id>
+      <article-id pub-id-type="pmcid">PMC5362666</article-id>
+      <article-id pub-id-type="pmc-uid">5362666</article-id>
+      <article-id pub-id-type="pmid">28028655</article-id>
+      <article-id pub-id-type="publisher-id">1511</article-id>
+      <article-id pub-id-type="doi">10.1007/s11548-016-1511-3</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Original Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Computer-aided volumetric assessment of malignant pleural mesothelioma on CT using a random walk-based method</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" corresp="yes">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-3779-5615</contrib-id>
+          <name>
+            <surname>Chen</surname>
+            <given-names>Mitchell</given-names>
+          </name>
+          <address>
+            <email>d.mitch.chen@gmail.com</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Helm</surname>
+            <given-names>Emma</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Joshi</surname>
+            <given-names>Niranjan</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gleeson</surname>
+            <given-names>Fergus</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Brady</surname>
+            <given-names>Michael</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1936 8948</institution-id><institution-id institution-id-type="GRID">grid.4991.5</institution-id><institution>Institute of Biomedical Engineering, </institution><institution>University of Oxford, </institution></institution-wrap>Old Road Campus Research Building, Oxford, OX3 7DQ England </aff>
+        <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 0440 1440</institution-id><institution-id institution-id-type="GRID">grid.410556.3</institution-id><institution>The Churchill Hospital, </institution><institution>Oxford University Hospitals NHS Trust, </institution></institution-wrap>Old Road, Headington, OX3 7LE England </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <day>27</day>
+        <month>12</month>
+        <year>2016</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>27</day>
+        <month>12</month>
+        <year>2016</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <year>2017</year>
+      </pub-date>
+      <volume>12</volume>
+      <issue>4</issue>
+      <fpage>529</fpage>
+      <lpage>538</lpage>
+      <history>
+        <date date-type="received">
+          <day>7</day>
+          <month>9</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>8</day>
+          <month>12</month>
+          <year>2016</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© The Author(s) 2016</copyright-statement>
+        <license license-type="OpenAccess">
+          <license-p>
+<bold>Open Access</bold>This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</ext-link>/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.</license-p>
+        </license>
+      </permissions>
+      <abstract id="Abs1">
+        <sec>
+          <title>Objective</title>
+          <p>The aim of this study is to assess the performance of a computer-aided semi-automated algorithm we have adapted for the purpose of segmenting malignant pleural mesothelioma (MPM) on CT.</p>
+        </sec>
+        <sec>
+          <title>Methods</title>
+          <p>Forty-five CT scans were collected from 15 patients (M:F <inline-formula id="IEq1"><alternatives><tex-math id="M1">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$=$$\end{document}</tex-math><mml:math id="M2"><mml:mo>=</mml:mo></mml:math><inline-graphic xlink:href="11548_2016_1511_Article_IEq1.gif"/></alternatives></inline-formula> 10:5, mean age 62.8 years) in a multi-centre clinical drug trial. A computer-aided random walk-based algorithm was applied to segment the tumour; the results were then compared to radiologist-drawn contours and correlated with measurements made using the MPM-adapted Response Evaluation Criteria in Solid Tumour (modified RECIST).</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p>A mean accuracy (Sørensen–Dice index) of 0.825 (95% CI [0.758, 0.892]) was achieved. Compared to a median measurement time of 68.1 min (range [40.2, 102.4]) for manual delineation, the median running time of our algorithm was 23.1 min (range [10.9, 37.0]). A linear correlation (Pearson’s correlation coefficient: 0.6392, <inline-formula id="IEq2"><alternatives><tex-math id="M3">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p &lt; 0.05$$\end{document}</tex-math><mml:math id="M4"><mml:mrow><mml:mi>p</mml:mi><mml:mo>&lt;</mml:mo><mml:mn>0.05</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11548_2016_1511_Article_IEq2.gif"/></alternatives></inline-formula>) was established between the changes in modified RECIST and computed tumour volume.</p>
+        </sec>
+        <sec>
+          <title>Conclusion</title>
+          <p>Volumetric tumour segmentation offers a potential solution to the challenges in quantifying MPM. Computer-assisted methods such as the one presented in this study facilitate this in an accurate and time-efficient manner and provide additional morphological information about the tumour’s evolution over time.</p>
+        </sec>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <title>Keywords</title>
+        <kwd>Malignant pleural mesothelioma</kwd>
+        <kwd>Quantitative tumour measurement</kwd>
+        <kwd>Computed tomography</kwd>
+        <kwd>Image processing</kwd>
+        <kwd>Therapy response assessment</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution>NIHR Biomedical Research Centre</institution>
+          </funding-source>
+          <award-id>ID0E3VAE1434</award-id>
+          <principal-award-recipient>
+            <name>
+              <surname>Gleeson</surname>
+              <given-names>Fergus</given-names>
+            </name>
+          </principal-award-recipient>
+        </award-group>
+      </funding-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>issue-copyright-statement</meta-name>
+          <meta-value>© CARS 2017</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="Sec1">
+      <title>Introduction</title>
+      <p>Malignant pleural mesothelioma (MPM) is an aggressive thoracic malignancy that is closely linked to past exposure to asbestos. It is currently responsible for over 47,000 annual deaths worldwide, a number which continues to increase despite legal restrictions limiting the use of asbestos in many countries [<xref ref-type="bibr" rid="CR1">1</xref>]. MPM is currently the greatest single cause of work-related deaths in the UK [<xref ref-type="bibr" rid="CR2">2</xref>]. Although the production of asbestos was gradually phased out in the 1980s, the disease’s long latency period, typically ranging from 30 to 40 years, has caused a continuing rising trend of MPM in the country, which is projected to peak in 2020 [<xref ref-type="bibr" rid="CR3">3</xref>]. Moreover, asbestos is still being harvested and used in the developing world, most notably in China and India, where MPM is rapidly becoming a prominent occupational health concern [<xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR5">5</xref>].</p>
+      <p>MPM usually originates in the parietal pleura of the lung and grows as a ‘rind’ around the pleural surface. It has a tendency to encase the affected lung, severely impairing its ventilatory function. The detection of early-stage MPM on CT is difficult because of the complexity of thoracic anatomy and the challenge in distinguishing the tumour from neighbouring tissues, in terms of both pixel intensity and regional texture. A sample CT axial slice, with the relevant thoracic tissues highlighted, is shown in Fig. <xref rid="Fig1" ref-type="fig">1</xref>. Intensity distributions of these tissues (in Hounsfield units) are shown in Fig. <xref rid="Fig2" ref-type="fig">2</xref>. Their overlapping nature, hence the tumour’s low contrast on CT, is evident.<fig id="Fig1"><label>Fig. 1</label><caption><p>Sample CT image slice with key regional tissues <italic>highlighted</italic>. Tumour is shown in <italic>orange</italic>. <bold>a</bold> Original, <bold>b</bold> segmented CT</p></caption><graphic xlink:href="11548_2016_1511_Fig1_HTML" id="MO1"/></fig>
+<fig id="Fig2"><label>Fig. 2</label><caption><p>Probabilistic intensity distributions of the overall image scan and individual tissues in the thorax. <bold>a</bold> Overall scan, <bold>b</bold> individual tissues</p></caption><graphic xlink:href="11548_2016_1511_Fig2_HTML" id="MO2"/></fig>
+</p>
+      <p>To quantify the progression of a tumour and its response to treatment in clinical trials and patient follow-ups, current clinical practice recommends the use of MPM-adapted Response Evaluation Criteria in Solid Tumour (modified RECIST) [<xref ref-type="bibr" rid="CR6">6</xref>]. This quantifies the tumour based on a one-dimensional measurement of its thickness at two locations on three axial levels of the scan. A major drawback of modified RECIST is that it measures the tumour at just six singular points, irrespective of the tumour’s overall shape and growth pattern. As a result, it is known to be prone to intra-observer and inter-observer variations. In one study [<xref ref-type="bibr" rid="CR7">7</xref>], major and minor disagreements were found in 40% and 10.5% of the cases, respectively. Such discrepancies can largely be attributed to the inconsistent selection of measurable lesions and radiological artefacts such as the partial volume effect, which gives rise to ambiguous tissue boundaries. Additionally, being one dimensional in nature, the system fails to adequately address tumour growth in the axial direction. Overall, considering the low CT contrast between the MPM tumour and surrounding tissues and the tumour’s characteristic ‘rind-pattern’ growth, modified RECIST is limited both in its ease of application, consistency and overall clinical utility.</p>
+      <p>Noting the limitations of modified RECIST, previous works on MPM [<xref ref-type="bibr" rid="CR8">8</xref>–<xref ref-type="bibr" rid="CR16">16</xref>] have supported the use of segmented tumour volumes for evaluating the tumour’s response to treatments.</p>
+      <p>Ak et al. [<xref ref-type="bibr" rid="CR8">8</xref>] estimated the tumour volume by counting the number of evenly spaced dots that fall within the tumour boundary, as determined by the clinical observer. Though the results showed good correlation with patient survival and prognostic data, it remains a manual method, which would require tedious and time-consuming radiological supervision.</p>
+      <p>Armato et al. [<xref ref-type="bibr" rid="CR9">9</xref>] developed an automated method to compute for modified RECIST. This method works by first segmenting the lungs by thresholding to mark the inner margin of the tumour, followed by taking a thickness measurement perpendicular to the nearby chest wall or mediastinum. The results were presented in terms of ‘clinical acceptance rate’, as determined by trained radiologists, which was found to be as high as 75%. Although this approach offers some guidance for making RECIST measurements, it still makes use of the modified RECIST framework and does not tackle its intrinsic limitations.</p>
+      <p>In view of the challenging nature of automated MPM segmentation, Frauenfelder et al. [<xref ref-type="bibr" rid="CR10">10</xref>] applied interpolation to hand-drawn tumour contours found on every 4–5 axial cuts. Inter-observer agreement of the segmented tumour was reported to be significantly higher than that of modified RECIST (<inline-formula id="IEq3"><alternatives><tex-math id="M5">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\kappa =0.9$$\end{document}</tex-math><mml:math id="M6"><mml:mrow><mml:mi mathvariant="italic">κ</mml:mi><mml:mo>=</mml:mo><mml:mn>0.9</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11548_2016_1511_Article_IEq3.gif"/></alternatives></inline-formula> vs <inline-formula id="IEq4"><alternatives><tex-math id="M7">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\kappa =0.33$$\end{document}</tex-math><mml:math id="M8"><mml:mrow><mml:mi mathvariant="italic">κ</mml:mi><mml:mo>=</mml:mo><mml:mn>0.33</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11548_2016_1511_Article_IEq4.gif"/></alternatives></inline-formula>). However, although interpolation helped reduce the workload, the method did not circumvent the need for manual drawing.</p>
+      <p>Liu et al. [<xref ref-type="bibr" rid="CR11">11</xref>] presented some preliminary works on a volume-based MPM tumour evaluation, where the authors studied the baseline and follow-up data collected from 30 patients and found patient survival to be linked to baseline tumour volume with a good degree of certainty.</p>
+      <p>Chaosaowong et al. [<xref ref-type="bibr" rid="CR14">14</xref>] introduced a method that computes a contour containing the tumour and pleura. Assuming a convex shape for the pleura, concave irregularities are treated as potential sites of pleural thickening, which would undergo thresholding before the final classification. In addition to being prone to thresholding-related issues, this approach made numerous assumptions about the tumour’s pattern of growth, which would limit its applicability in a wider clinical context.</p>
+      <p>Sensakovic et al. [<xref ref-type="bibr" rid="CR15">15</xref>] applied a more advanced MPM segmentation method based on a nonlinear diffusion model and a k-class classifier. For each of the 31 MPM scans examined in the study, 5 axial scans were segmented on a 2-D basis and validated by manual delineations made by five independent clinical observers. Mean Jaccard similarity coefficient (J-index) was found to be 0.517 (<inline-formula id="IEq5"><alternatives><tex-math id="M9">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p &lt; 0.05$$\end{document}</tex-math><mml:math id="M10"><mml:mrow><mml:mi>p</mml:mi><mml:mo>&lt;</mml:mo><mml:mn>0.05</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11548_2016_1511_Article_IEq5.gif"/></alternatives></inline-formula>) between observers and 0.484 (<inline-formula id="IEq6"><alternatives><tex-math id="M11">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p&lt; 0.05$$\end{document}</tex-math><mml:math id="M12"><mml:mrow><mml:mi>p</mml:mi><mml:mo>&lt;</mml:mo><mml:mn>0.05</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11548_2016_1511_Article_IEq6.gif"/></alternatives></inline-formula>) between manual and computed segmentations, which is less than ideal for a wider clinical application. It should also be noted that this method was implemented in 2-D, tested only with diagnostic imaging data, and did not allow the clinician to influence the segmentation itself through user interaction. Labby et al. [<xref ref-type="bibr" rid="CR16">16</xref>] added an interpolation component to the 2-D method of Sensakovic et al. and extended its scope to MPM follow-up studies. An inverse relationship was reported between the tumour and aerated lung volumes, which is in line with clinical expectation.</p>
+      <p>It should be noted despite the above efforts, a method that is capable of segmenting all tumour cases accurately is yet to be established.</p>
+      <p>The segmentation of MPM presents numerous application-specific challenges, one of which is due to the similarity in CT attenuation of an MPM lesion with its neighbouring tissues. This is made worse by the presence of atelectatic lungs and pleural effusion; commonly found in patients with clinically evident MPM. This largely precludes the direct application of simple segmentation methods such as thresholding, region growing, texture filtering, and active contours. The tumour may also grow in finger-like projections along the lung fissures or hilar vessels and can invade the neighbouring structures. This would severely affect the performance of shape and morphology-based methods [<xref ref-type="bibr" rid="CR13">13</xref>]. Moreover, the long thin shape of the tumour, anatomical complexity of the thoracic region, in particular due to secondary chest conditions such as pleural effusion, intrinsic image noise, and partial volume effect, pose considerable challenges which collectively prevent the application of many established segmentation methods.</p>
+      <p>In this paper, we present a computer-aided segmentation algorithm that is capable of accurately segmenting the MPM tumour and has the ability to incorporate input from end-users with good robustness.</p>
+    </sec>
+    <sec id="Sec2">
+      <title>Methods and materials</title>
+      <sec id="Sec3">
+        <title>Study design</title>
+        <p>The data used in this study were collected from a Phase II clinical trial of Vinflunine, which was tested as a therapeutic agent for MPM across nine centres in the UK, France, and Germany. Specifics on the trial design and outcome are given in [<xref ref-type="bibr" rid="CR17">17</xref>]. Informed consent was obtained from all individual participants included in the study.</p>
+        <p>For our study, data from the UK centres were available, collected from 15 patients, with a total of 48 baseline and follow-up CT scans. Patient characteristics are given in Table <xref rid="Tab1" ref-type="table">1</xref>. All patients had histologically and cytologically confirmed cases of mesothelioma and at least one lesion that satisfied the measurability criteria in modified RECIST (defined as pleural tumour thickness of at least 5 mm at three locations on the CT scan, with a sum &gt;20 mm). Each participant received one baseline scan and between one to three follow-up scans. All scans are valid for assessing tumour responses under modified RECIST (i.e. at least four weeks have lapsed between subsequent scans). Patients were treated until either disease progression or unacceptable chemotherapeutic toxicity.<table-wrap id="Tab1"><label>Table 1</label><caption><p>Patient characteristics</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Characteristic</th><th align="left">Value</th></tr></thead><tbody><tr><td align="left">Patient number</td><td align="left">15</td></tr><tr><td align="left">Mean age (range in years)</td><td align="left">62.8 (47.9–79.7)</td></tr><tr><td align="left">Male/female [<italic>n</italic> (%)]</td><td align="left">10:5 (67:33)</td></tr><tr><td align="left">Karnofsky performance status (%)</td><td align="left"/></tr><tr><td align="left">   80</td><td align="left">7 (46.7)</td></tr><tr><td align="left">   90</td><td align="left">7 (46.7)</td></tr><tr><td align="left">   100</td><td align="left">1 (6.7)</td></tr><tr><td align="left">Histologic type [<italic>n</italic> (%)]</td><td align="left"/></tr><tr><td align="left">   Epithelial</td><td align="left">12 (80.0)</td></tr><tr><td align="left">   Mixed</td><td align="left">2 (13.3)</td></tr><tr><td align="left">   Not specified</td><td align="left">1 (6.7)</td></tr><tr><td align="left">Stage at initial diagnosis (IMIG classification) (%)</td><td align="left"/></tr><tr><td align="left">   I</td><td align="left">1 (6.7)</td></tr><tr><td align="left">   II</td><td align="left">3 (20.1)</td></tr><tr><td align="left">   III</td><td align="left">7 (43.3)</td></tr><tr><td align="left">   IV</td><td align="left">4 (29.9)</td></tr></tbody></table></table-wrap>
+</p>
+        <p>
+<fig id="Fig3"><label>Fig. 3</label><caption><p>Key steps in the computer-aided method</p></caption><graphic xlink:href="11548_2016_1511_Fig3_HTML" id="MO3"/></fig>
+</p>
+      </sec>
+      <sec id="Sec4">
+        <title>Data collection</title>
+        <p>The CT examinations were performed on a LightSpeed Ultra CT scanner (General Electric Medical Systems). Each CT scan consisted of multiple axial slices of <inline-formula id="IEq7"><alternatives><tex-math id="M13">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$512 \times 512$$\end{document}</tex-math><mml:math id="M14"><mml:mrow><mml:mn>512</mml:mn><mml:mo>×</mml:mo><mml:mn>512</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11548_2016_1511_Article_IEq7.gif"/></alternatives></inline-formula> pixels. An assortment of thick (5 mm), thin (2.5 mm), and quasi-isotropic (0.625 mm) scans was available, with a voxel spacing of 0.68 mm. No contrast enhancing agent was used.</p>
+      </sec>
+      <sec id="Sec5">
+        <title>Random walk-based image segmentation</title>
+        <p>We implemented the semi-automatic random walk-based segmentation method by Grady [<xref ref-type="bibr" rid="CR18">18</xref>], where details of the mathematical formulation are presented. The method handles weak tissue boundaries well and is able to segment any arbitrary shapes with appropriately placed seeds.</p>
+        <p>The key steps in our segmentation algorithm are outlined in Fig. <xref rid="Fig3" ref-type="fig">3</xref>.</p>
+        <p>We have extended Grady’s original method to 3-D based on a nine-connected graph model, aiming to improve the algorithm performance by adopting additional image information from adjacent axial slices for classifying the image voxel in question. Performance-wise, it is superior to simple interpolation applied in the vertical axis because uneven tumour growth and anatomical irregularities are dealt with equally in the planar and inter-planar domains and are therefore better accounted for.</p>
+        <p>Compared to its planar counterpart, a volumetric segmentation would not require exhaustive initialisation on all axial slices; specifying initialisation seeds on just a few axial slices is sufficient to produce accurate full volume segmentations.</p>
+      </sec>
+      <sec id="Sec6">
+        <title>User interaction</title>
+        <p>User-defined seeds are initialisation points the radiologically trained user places, based on their clinical experience, in regions they known to be of tumour. Using a semi-automated method with user-defined seeds is advantageous because it gives the radiologists more control of the segmentation process by enabling them to influence both the initialisation and post-segmentation revision steps with their clinical knowledge about the patient’s disease.<fig id="Fig4"><label>Fig. 4</label><caption><p>Segmented tumour contours on axial cuts of two arbitrarily selected CT scans, as shown in <italic>white</italic>. Manually delineated tumour contours are shown in <italic>orange</italic>. <bold>a</bold>, <bold>c</bold> Reference truth, <bold>b</bold>, <bold>d</bold> segmented tumour</p></caption><graphic xlink:href="11548_2016_1511_Fig4_HTML" id="MO4"/></fig>
+<fig id="Fig5"><label>Fig. 5</label><caption><p>Effect of user input on the method’s performance. <bold>a</bold> Segmentation accuracy in three different seeding attempts, <bold>b</bold> Number of seeds employed in each scenario</p></caption><graphic xlink:href="11548_2016_1511_Fig5_HTML" id="MO5"/></fig>
+<fig id="Fig6"><label>Fig. 6</label><caption><p>A breakdown of accuracy performance of the two trials presented in Fig. <xref rid="Fig5" ref-type="fig">5</xref>. <italic>Arrows point</italic> to the slices where initialisation seeds were placed</p></caption><graphic xlink:href="11548_2016_1511_Fig6_HTML" id="MO6"/></fig>
+</p>
+        <p>However, defining ’seed regions’, contour areas of known tumour instead of points within the tumour, as required by Grady’s random walk-based method, on a large number of image slices is laborious, substantially reducing the clinical practicality of the algorithm. For our study, initialising seeds are placed by a clinical radiology specialist with five years of MPM diagnostic experience, based on expert knowledge about MPM, and added them to between six and ten axial slices for each image scan, that is, one initialised slice for every ten raw image slices. On average, 20–30 seeds were placed per initialisation slice, taking 20–30 s. The initialisation slices were not evenly distributed across the volume scan; they tend to concentrate around regions of difficulty, marked by the presence of weak tumour boundary, fluid and/or collapsed lung. Additionally, to facilitate an effective response evaluation, the same axial locations were selected for initialisation in follow-up scans of the same patient. This is comparable to modified RECIST, where the measurements are taken from the same transverse cuts for different scans of the same patient. Further seeds can be added at a review stage if deemed necessary by the observer, to enhance the segmentation accuracy. This was only required in one out of every three scans. The additional running time for this additional seeding process is minimal, normally a fraction of the overall time spent on the initial segmentation, as will be presented in the Results section of this paper.</p>
+        <p>All computation times are based on using a workstation with Pentium-D CPU 3.39 GHz with 2GB of RAM.</p>
+      </sec>
+      <sec id="Sec7">
+        <title>Gold standard</title>
+        <p>To validate our findings, a clinical radiologist with five years of experience in MPM evaluation manually delineated the tumour contours on the whole imaging dataset. Though such delineations vary between observers and over time, for simplicity, we refer to them here as the ’reference truth’. We recognise the fact that the reference truth used might not be ideal, but for the purpose of our study and from an explorative research perspective, we use them here as a surrogate gold standard. To reduce observer bias, a blinded experimental design was implemented, where the delineations were made without knowledge of the clinical outcomes of individual patients and the modified RECIST measurements.</p>
+      </sec>
+      <sec id="Sec8">
+        <title>Data analysis and statistical methods</title>
+        <p>The accuracy of the segmentation results is evaluated by calculating the Sørensen–Dice index (DICE) according to the following equation, where <italic>X</italic> and <italic>Y</italic> represents the reference truth and the segmentation result, respectively:<disp-formula id="Equ1"><label>1</label><alternatives><tex-math id="M15">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} \hbox {DICE}=\frac{2\left| {X\cap Y} \right| }{\left| X \right| +\left| Y \right| } \end{aligned}$$\end{document}</tex-math><mml:math id="M16" display="block"><mml:mrow><mml:mtable columnspacing="0.5ex"><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mtext>DICE</mml:mtext><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mn>2</mml:mn><mml:mfenced close="|" open="|" separators=""><mml:mrow><mml:mi>X</mml:mi><mml:mo>∩</mml:mo><mml:mi>Y</mml:mi></mml:mrow></mml:mfenced></mml:mrow><mml:mrow><mml:mfenced close="|" open="|"><mml:mi>X</mml:mi></mml:mfenced><mml:mo>+</mml:mo><mml:mfenced close="|" open="|"><mml:mi>Y</mml:mi></mml:mfenced></mml:mrow></mml:mfrac></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11548_2016_1511_Article_Equ1.gif" position="anchor"/></alternatives></disp-formula>To assess the clinical utility of the computer-assisted method, we computed the correlation of changes in computed tumour volume with those in modified RECIST measurement.</p>
+      </sec>
+    </sec>
+    <sec id="Sec9">
+      <title>Results</title>
+      <sec id="Sec10">
+        <title>Tumour quantification</title>
+        <p>Applying our computer-aided algorithm, segmented MPM tumour contours are computed in the axial planes. Sample results from two arbitrarily selected scans are shown in Fig. <xref rid="Fig4" ref-type="fig">4</xref>. Note the close resemblance of the segmented tumour with the reference truth. The calculated planar DICE measures in these cases were 0.89 and 0.91, respectively.</p>
+      </sec>
+      <sec id="Sec11">
+        <title>Results validation</title>
+        <p>An assessment of the effect of user input on the method’s performance and its overall robustness is shown in Fig. <xref rid="Fig5" ref-type="fig">5</xref>. Note the accuracy of segmentation is largely independent of the number of ’seeds’ used, once beyond a certain level. Note also the good reproducibility and consistency of the results, where changing the ’seeding’ map did not significantly impact on the overall segmentation accuracy.<table-wrap id="Tab2"><label>Table 2</label><caption><p>Segmented MPM volumes (<inline-formula id="IEq8"><alternatives><tex-math id="M17">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\hbox {mm}^{3})$$\end{document}</tex-math><mml:math id="M18"><mml:mrow><mml:msup><mml:mtext>mm</mml:mtext><mml:mn>3</mml:mn></mml:msup><mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow></mml:math><inline-graphic xlink:href="11548_2016_1511_Article_IEq8.gif"/></alternatives></inline-formula>, % change from baseline to the final cycle of treatment and overall accuracy of the segmentation for our complete patient data: mean 0.825 (95% CI [0.758, 0.892])</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="2">Patient</th><th align="left" colspan="4">Scan</th><th align="left" rowspan="2">% Change</th><th align="left" rowspan="2">Overall accuracy (DICE)</th></tr><tr><th align="left">Baseline</th><th align="left">2 cycles</th><th align="left">4 cycles</th><th align="left">6 cycles</th></tr></thead><tbody><tr><td align="left">1</td><td align="left">229,031</td><td align="left">274,025</td><td align="left">165,920</td><td align="left">182,376</td><td align="left">
+<inline-formula id="IEq9"><alternatives><tex-math id="M19">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M20"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2016_1511_Article_IEq9.gif"/></alternatives></inline-formula>19.1</td><td align="left">0.820</td></tr><tr><td align="left">2</td><td align="left">333,650</td><td align="left">289,575</td><td align="left">188,461</td><td align="left">232,001</td><td align="left">
+<inline-formula id="IEq10"><alternatives><tex-math id="M21">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M22"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2016_1511_Article_IEq10.gif"/></alternatives></inline-formula>30.5</td><td align="left">0.843</td></tr><tr><td align="left">3</td><td align="left">231,266</td><td align="left">274,968</td><td align="left">285,437</td><td align="left"/><td align="left">23.4</td><td align="left">0.861</td></tr><tr><td align="left">4</td><td align="left">523,928</td><td align="left">338,702</td><td align="left"/><td align="left"/><td align="left">
+<inline-formula id="IEq11"><alternatives><tex-math id="M23">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M24"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2016_1511_Article_IEq11.gif"/></alternatives></inline-formula>35.4</td><td align="left">0.894</td></tr><tr><td align="left">5</td><td align="left">216,690</td><td align="left">165,982</td><td align="left"/><td align="left"/><td align="left">
+<inline-formula id="IEq12"><alternatives><tex-math id="M25">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M26"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2016_1511_Article_IEq12.gif"/></alternatives></inline-formula>23.4</td><td align="left">0.772</td></tr><tr><td align="left">6</td><td align="left">492,666</td><td align="left">180,036</td><td align="left">389,923</td><td align="left"/><td align="left">
+<inline-formula id="IEq13"><alternatives><tex-math id="M27">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M28"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2016_1511_Article_IEq13.gif"/></alternatives></inline-formula>20.9</td><td align="left">0.814</td></tr><tr><td align="left">7</td><td align="left">348,011</td><td align="left">526,396</td><td align="left"/><td align="left"/><td align="left">51.3</td><td align="left">0.782</td></tr><tr><td align="left">8</td><td align="left">315,052</td><td align="left">340,443</td><td align="left">330,652</td><td align="left">291,806</td><td align="left">
+<inline-formula id="IEq14"><alternatives><tex-math id="M29">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M30"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2016_1511_Article_IEq14.gif"/></alternatives></inline-formula>7.4</td><td align="left">0.852</td></tr><tr><td align="left">9</td><td align="left">813,416</td><td align="left">870,872</td><td align="left"/><td align="left"/><td align="left">7.1</td><td align="left">0.802</td></tr><tr><td align="left">10</td><td align="left">10,6348</td><td align="left">132,937</td><td align="left">182,732</td><td align="left"/><td align="left">71.8</td><td align="left">0.791</td></tr><tr><td align="left">11</td><td align="left">523,828</td><td align="left">348,642</td><td align="left">397,824</td><td align="left">333,911</td><td align="left">
+<inline-formula id="IEq15"><alternatives><tex-math id="M31">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M32"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2016_1511_Article_IEq15.gif"/></alternatives></inline-formula>35.3</td><td align="left">0.832</td></tr><tr><td align="left">12</td><td align="left">939,842</td><td align="left">630,513</td><td align="left">87,445</td><td align="left"/><td align="left">
+<inline-formula id="IEq16"><alternatives><tex-math id="M33">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M34"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2016_1511_Article_IEq16.gif"/></alternatives></inline-formula>7.1</td><td align="left">0.840</td></tr><tr><td align="left">13</td><td align="left">211,220</td><td align="left">209,103</td><td align="left">152,571</td><td align="left"/><td align="left">
+<inline-formula id="IEq17"><alternatives><tex-math id="M35">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M36"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2016_1511_Article_IEq17.gif"/></alternatives></inline-formula>27.8</td><td align="left">0.869</td></tr><tr><td align="left">14</td><td align="left">163,116</td><td align="left">208,185</td><td align="left">238,774</td><td align="left"/><td align="left">46.4</td><td align="left">0.821</td></tr><tr><td align="left">15</td><td align="left">476,943</td><td align="left">505,001</td><td align="left">461,913</td><td align="left">634,501</td><td align="left">33.0</td><td align="left">0.784</td></tr></tbody></table></table-wrap>
+<table-wrap id="Tab3"><label>Table 3</label><caption><p>Computation time (s) taken for processing each image scan. The median running time is 1385 s (range [653, 2218])</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="2">Patient</th><th align="left" colspan="4">Scan</th><th align="left" rowspan="2">Running time (s)</th></tr><tr><th align="left">Baseline</th><th align="left">2 cycles</th><th align="left">4 cycles</th><th align="left">6 cycles</th></tr></thead><tbody><tr><td align="left">1</td><td align="left">814</td><td align="left">655</td><td align="left">684</td><td align="left">458</td><td align="left">653</td></tr><tr><td align="left">2</td><td align="left">935</td><td align="left">1011</td><td align="left">455</td><td align="left">815</td><td align="left">804</td></tr><tr><td align="left">3</td><td align="left">2557</td><td align="left">780</td><td align="left">900</td><td align="left"/><td align="left">1413</td></tr><tr><td align="left">4</td><td align="left">1400</td><td align="left">1346</td><td align="left"/><td align="left"/><td align="left">1373</td></tr><tr><td align="left">5</td><td align="left">1474</td><td align="left">1147</td><td align="left"/><td align="left"/><td align="left">1311</td></tr><tr><td align="left">6</td><td align="left">1609</td><td align="left">1940</td><td align="left">985</td><td align="left"/><td align="left">1511</td></tr><tr><td align="left">7</td><td align="left">1466</td><td align="left">1314</td><td align="left"/><td align="left"/><td align="left">1390</td></tr><tr><td align="left">8</td><td align="left">2067</td><td align="left">1461</td><td align="left">1656</td><td align="left">1832</td><td align="left">1754</td></tr><tr><td align="left">9</td><td align="left">1846</td><td align="left">1754</td><td align="left"/><td align="left"/><td align="left">1800</td></tr><tr><td align="left">10</td><td align="left">1063</td><td align="left">1233</td><td align="left">1543</td><td align="left"/><td align="left">1280</td></tr><tr><td align="left">11</td><td align="left">1288</td><td align="left">823</td><td align="left">579</td><td align="left">930</td><td align="left">905</td></tr><tr><td align="left">12</td><td align="left">2538</td><td align="left">2491</td><td align="left">1624</td><td align="left"/><td align="left">2218</td></tr><tr><td align="left">13</td><td align="left">1471</td><td align="left">1161</td><td align="left">1145</td><td align="left"/><td align="left">1259</td></tr><tr><td align="left">14</td><td align="left">1572</td><td align="left">1301</td><td align="left">1281</td><td align="left"/><td align="left">1385</td></tr><tr><td align="left">15</td><td align="left">1623</td><td align="left">1721</td><td align="left">1476</td><td align="left">1716</td><td align="left">1634</td></tr></tbody></table></table-wrap>
+</p>
+        <p>An analysis of the accuracy measure for individual slices in these cases is shown in Fig. <xref rid="Fig6" ref-type="fig">6</xref>. As expected, performance of the algorithm generally deteriorates with distance from the initialisation slices. Full segmentation results and computation times of each individual scan are presented in Tables <xref rid="Tab2" ref-type="table">2</xref> and <xref rid="Tab3" ref-type="table">3</xref>, respectively.</p>
+        <p>Good accuracy of the computerised method is clearly demonstrated, with results yielding a mean accuracy of 0.825 (95% CI [0.758, 0.892]).<fig id="Fig7"><label>Fig. 7</label><caption><p>Scatter plots showing the correlation of segmented tumour volumes with their corresponding modified RECIST measures. Pearson’s correlation coefficient 0.6392, <italic>p</italic> value: 0.0001, <inline-formula id="IEq18"><alternatives><tex-math id="M37">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${R}^{2} = 0.4086$$\end{document}</tex-math><mml:math id="M38"><mml:mrow><mml:msup><mml:mrow><mml:mi>R</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mo>=</mml:mo><mml:mn>0.4086</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11548_2016_1511_Article_IEq18.gif"/></alternatives></inline-formula>
+</p></caption><graphic xlink:href="11548_2016_1511_Fig7_HTML" id="MO8"/></fig>
+<table-wrap id="Tab4"><label>Table 4</label><caption><p>A comparison of results from various published works on computer-assisted MPM segmentation</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Study</th><th align="left">Study size</th><th align="left">Segmentation method</th><th align="left">Performance</th></tr></thead><tbody><tr><td align="left">Ak et al. [<xref ref-type="bibr" rid="CR8">8</xref>]</td><td align="left">57 scans from individual patients</td><td align="left">Manual dot counting</td><td align="left">Method accuracy not assessed for MPM</td></tr><tr><td align="left">Chaisaowong et al. [<xref ref-type="bibr" rid="CR14">14</xref>]</td><td align="left">14 scans from 3 patients</td><td align="left">Convex shape with thresholding</td><td align="left">Method accuracy not assessed for MPM</td></tr><tr><td align="left">Frauenfelder et al. [<xref ref-type="bibr" rid="CR10">10</xref>]</td><td align="left">30 scans from individual patients</td><td align="left">Interpolation to hand-drawn tumour contours</td><td align="left">Method accuracy not assessed for MPM</td></tr><tr><td align="left">Sensakovic et al. [<xref ref-type="bibr" rid="CR15">15</xref>]</td><td align="left">31 scans from 31 patients</td><td align="left">Nonlinear diffusion model with k-class classifier</td><td align="left">J-index: 0.484 between manual and computed segmentations</td></tr><tr><td align="left">Labby et al. [<xref ref-type="bibr" rid="CR16">16</xref>]</td><td align="left">216 scans from 61 patients</td><td align="left">Interpolation component added to [<xref ref-type="bibr" rid="CR15">15</xref>]</td><td align="left">Method accuracy not assessed for MPM</td></tr><tr><td align="left">Our method</td><td align="left">45 scans from 15 patients</td><td align="left">Automated random walk</td><td align="left">DICE: 0.825 (95% CI [0.758, 0.892])</td></tr></tbody></table></table-wrap>
+</p>
+      </sec>
+      <sec id="Sec12">
+        <title>Time efficiency of our method</title>
+        <p>The median time spent on manually delineating the tumour in a typical CT scan was 68.1 min (range [40.2, 102.4]). In comparison, the median running time of the computer-aided procedure was 23.1 min (range [10.9, 37.0]). The median total time spent on manual user interaction was 2.8 min (range [1.8, 4.2]) per image scan. The computer running time could potentially be reduced further by increasing the workstation processing power or by incorporating the use of graphics processor units (GPUs).</p>
+        <p>Although modified RECIST would take less time to measure from start to finish, it remains a manual process, which requires focused work from a clinician; whereas a computer-aided algorithm such as the one presented in this paper requires little supervision and would enable this clinical time to be invested elsewhere.</p>
+      </sec>
+      <sec id="Sec13">
+        <title>Statistical correlation with modified RECIST</title>
+        <p>Correlation with the modified RECIST is shown as a scatter plot with linear fit, as shown in Fig. <xref rid="Fig7" ref-type="fig">7</xref>.</p>
+        <p>This shows that tumour response found using the segmented volumes is well correlated with that predicted by the change in modified RECIST and supports the use of volumetric segmentation from a clinical perspective.</p>
+      </sec>
+    </sec>
+    <sec id="Sec14">
+      <title>Discussion</title>
+      <p>Assessing the therapeutic response of MPM is difficult because of the tumour’s poor image contrast and its large variation in shape and growth pattern, which prevent an effective choice of measurement points when employing modified RECIST. These characteristics also happen to make the computer-assisted segmentation of MPM difficult.</p>
+      <p>It should be noted that apart from Sensakovic et al. [<xref ref-type="bibr" rid="CR15">15</xref>], most of the existing works on computer-assisted MPM segmentation did not assess the accuracy of their proposed method in a systematic way. Sensakovic et al. [<xref ref-type="bibr" rid="CR15">15</xref>], whilst presenting a more advanced approach to the problem, produced a less than desirable J-index of 0.484, was implemented only in the planar space, was applied to only diagnostic imaging data, and did not allow the clinician to influence the segmentation itself through user interaction.</p>
+      <p>Our proposed method, on the other hand, incorporates a three-dimensional framework, flexibly accepts end-user inputs, and produces results that are consistently accurate and with competitive running times.</p>
+      <p>The results from our method are generally satisfactory, yielding a mean accuracy (DICE) of 0.825 (95% CI [0.758, 0.892]), taking a median running time of 1385 s (95% CI [653, 2218]), greatly reducing the time requirement of an otherwise tedious process. The method also exhibits good robustness because changing the user seed number and configuration did not significant alter the end result. A strong correlation was found between the changes in tumour volume and those in modified RECIST. These results support the use of our algorithm in segmenting MPM for both diagnostic and treatment monitoring purposes. A comparison with results from various published works on computer-assisted MPM segmentation is given in Table <xref rid="Tab4" ref-type="table">4</xref>.</p>
+      <p>To further assess the applicability of our method in a wider clinical context, it is crucial to develop and validate criteria for categorising tumour changes. Oxnard et al. [<xref ref-type="bibr" rid="CR19">19</xref>] used geometric models to suggest equivalents of the RECIST classification criteria in the volume space. We note that given the small size and distribution of our data, we are unable to validate these thresholds based on our study because only 1 out of our 15 patients would be classified as ‘progressive disease’ and the rest ‘stable disease’. In addition, although these geometric model-derived thresholds provide good insight into potential volume response criteria, because they are based on standard geometric shapes, they may not lend well to the uneven shapes and irregular growth patterns of MPM. Currently, the issue of volume response criteria remains a contentious area requiring more work.</p>
+      <p>To further our work, larger patient datasets are needed. It would also be helpful to collect more detailed follow-up clinical data from the patients, such as measures of their quality of life and prognostic data, preferably stratified according to age, gender, and disease stage at diagnosis. These additional clinical data would enable us to better validate our method.</p>
+      <p>Due to the challenges in assessing the MPM tumour based on CT scans alone, there is a growing interest in employing metabolic imaging in MPM follow-ups [<xref ref-type="bibr" rid="CR20">20</xref>, <xref ref-type="bibr" rid="CR21">21</xref>]. To this end, it might be helpful to examine the possibility of bridging the information obtained from segmented tumour volume to metabolic PET data, such as establishing a correlation between changes in the tumour’s metabolic output and a particular trend of morphological change in its shape.</p>
+      <p>Currently, modified RECIST remains the standard approach to quantifying MPM in clinical practice, mostly due to its favourable prediction of patient survival and its existing wide acceptance in the radiological community. However, computer-aided volume-based methods, such as the one presented in this paper, are emerging as a new tactic to the clinical problem, for their automated action and better performance consistency.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Funding</title>
+      <p>This study was funded by the National Institute of Health Research—Biomedical Research Centres Research Grant.</p>
+    </ack>
+    <notes notes-type="COI-statement">
+      <title>Compliance with ethical standards</title>
+      <sec id="FPar1">
+        <title>Conflict of interest</title>
+        <p>The authors declare that they have no conflict of interest.</p>
+      </sec>
+      <sec id="FPar2">
+        <title>Ethical approval</title>
+        <p>All procedures performed in studies involving human participants were in accordance with the ethical standards of the institutional and/or national research committee and with the 1964 Helsinki declaration and its later amendments or comparable ethical standards.</p>
+      </sec>
+      <sec id="FPar3">
+        <title>Informed consent</title>
+        <p>Informed consent was obtained from all individual participants included in the study.</p>
+      </sec>
+    </notes>
+    <ref-list id="Bib1">
+      <title>References</title>
+      <ref id="CR1">
+        <label>1.</label>
+        <mixed-citation publication-type="other">World Health Organization (2007) WHO calls for prevention of cancer through healthy workplaces. Secondary WHO calls for prevention of cancer through healthy workplaces. <ext-link ext-link-type="uri" xlink:href="http://www.who.int/mediacentre/news/notes/2007/np19/en/index.html">http://www.who.int/mediacentre/news/notes/2007/np19/en/index.html</ext-link></mixed-citation>
+      </ref>
+      <ref id="CR2">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rushton</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Hutchings</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>The burden of cancer at work: estimation as the first step to prevention</article-title>
+          <source>Occup Environ Med</source>
+          <year>2008</year>
+          <volume>65</volume>
+          <issue>12</issue>
+          <fpage>789</fpage>
+          <lpage>800</lpage>
+          <pub-id pub-id-type="doi">10.1136/oem.2007.037002</pub-id>
+          <?supplied-pmid 18079154?>
+          <pub-id pub-id-type="pmid">18079154</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR3">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vogel</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Special report: asbestos in the world</article-title>
+          <source>HESA Newslett</source>
+          <year>2005</year>
+          <volume>27</volume>
+          <fpage>7</fpage>
+          <lpage>21</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR4">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Courtice</surname>
+              <given-names>MN</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>X</given-names>
+            </name>
+          </person-group>
+          <article-title>An updated review on asbestos and related diseases in China</article-title>
+          <source>Int J Occup Environ Health</source>
+          <year>2012</year>
+          <volume>18</volume>
+          <issue>3</issue>
+          <fpage>247</fpage>
+          <lpage>253</lpage>
+          <pub-id pub-id-type="doi">10.1179/1077352512Z.00000000021</pub-id>
+          <?supplied-pmid 23026008?>
+          <pub-id pub-id-type="pmid">23026008</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR5">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Joshi</surname>
+              <given-names>TK</given-names>
+            </name>
+            <name>
+              <surname>Bhuva</surname>
+              <given-names>UB</given-names>
+            </name>
+            <name>
+              <surname>Katoch</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Asbestos ban in India: challenges ahead</article-title>
+          <source>Ann NY Acad Sci</source>
+          <year>2006</year>
+          <volume>1076</volume>
+          <fpage>292</fpage>
+          <lpage>308</lpage>
+          <pub-id pub-id-type="doi">10.1196/annals.1371.072</pub-id>
+          <?supplied-pmid 17119210?>
+          <pub-id pub-id-type="pmid">17119210</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR6">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Byrne</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Nowak</surname>
+              <given-names>AK</given-names>
+            </name>
+          </person-group>
+          <article-title>Modified RECIST criteria for assessment of response in malignant pleural mesothelioma</article-title>
+          <source>Ann Oncol</source>
+          <year>2004</year>
+          <volume>15</volume>
+          <issue>2</issue>
+          <fpage>257</fpage>
+          <lpage>260</lpage>
+          <pub-id pub-id-type="doi">10.1093/annonc/mdh059</pub-id>
+          <?supplied-pmid 14760119?>
+          <pub-id pub-id-type="pmid">14760119</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR7">
+        <label>7.</label>
+        <mixed-citation publication-type="other">Thiesse P, Ollivier L, Di Stefano-Louineau D, Négrier S, Savary J, Pignard K, Lasset C, Escudier B (1997) Response rate accuracy in oncology trials: reasons for interobserver variability. Groupe Français d’Immunothérapie of the Fédération Nationale des Centres de Lutte Contre le Cancer. J Clin Oncol 15(12):3507–3514. doi:10.1200/jco.1997.15.12.3507</mixed-citation>
+      </ref>
+      <ref id="CR8">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ak</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Metintas</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Metintas</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Yildirim</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Ozkan</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Ozden</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Three-dimensional evaluation of chemotherapy response in malignant pleural mesothelioma</article-title>
+          <source>Eur J Radiol</source>
+          <year>2010</year>
+          <volume>74</volume>
+          <issue>1</issue>
+          <fpage>130</fpage>
+          <lpage>135</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejrad.2009.02.002</pub-id>
+          <?supplied-pmid 19268516?>
+          <pub-id pub-id-type="pmid">19268516</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR9">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Armato</surname>
+              <given-names>SG</given-names>
+              <suffix>3rd</suffix>
+            </name>
+            <name>
+              <surname>Oxnard</surname>
+              <given-names>GR</given-names>
+            </name>
+            <name>
+              <surname>Kocherginsky</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Vogelzang</surname>
+              <given-names>NJ</given-names>
+            </name>
+            <name>
+              <surname>Kindler</surname>
+              <given-names>HL</given-names>
+            </name>
+            <name>
+              <surname>MacMahon</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Evaluation of semiautomated measurements of mesothelioma tumor thickness on CT scans</article-title>
+          <source>Acad Radiol</source>
+          <year>2005</year>
+          <volume>12</volume>
+          <issue>10</issue>
+          <fpage>1301</fpage>
+          <lpage>1309</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.acra.2005.05.021</pub-id>
+          <?supplied-pmid 16179207?>
+          <pub-id pub-id-type="pmid">16179207</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR10">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Frauenfelder</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Tutic</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Weder</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Götti</surname>
+              <given-names>RP</given-names>
+            </name>
+            <name>
+              <surname>Stahel</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Seifert</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Opitz</surname>
+              <given-names>I</given-names>
+            </name>
+          </person-group>
+          <article-title>Volumetry: an alternative to assess therapy response for malignant pleural mesothelioma?</article-title>
+          <source>Eur Respir J</source>
+          <year>2011</year>
+          <volume>38</volume>
+          <issue>1</issue>
+          <fpage>162</fpage>
+          <lpage>168</lpage>
+          <pub-id pub-id-type="doi">10.1183/09031936.00146110</pub-id>
+          <?supplied-pmid 21273389?>
+          <pub-id pub-id-type="pmid">21273389</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR11">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Krug</surname>
+              <given-names>LM</given-names>
+            </name>
+            <name>
+              <surname>Ishill</surname>
+              <given-names>NM</given-names>
+            </name>
+            <name>
+              <surname>Lim</surname>
+              <given-names>RC</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Gorski</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Flores</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Moskowitz</surname>
+              <given-names>CS</given-names>
+            </name>
+            <name>
+              <surname>Rusch</surname>
+              <given-names>VW</given-names>
+            </name>
+            <name>
+              <surname>Schwartz</surname>
+              <given-names>LH</given-names>
+            </name>
+          </person-group>
+          <article-title>Assessment of therapy responses and prediction of survival in malignant pleural mesothelioma through computer-aided volumetric measurement on computed tomography scans</article-title>
+          <source>J Thorac Oncol</source>
+          <year>2010</year>
+          <volume>5</volume>
+          <issue>6</issue>
+          <fpage>879</fpage>
+          <lpage>884</lpage>
+          <pub-id pub-id-type="doi">10.1097/JTO.0b013e3181dd0ef1</pub-id>
+          <?supplied-pmid 20421814?>
+          <pub-id pub-id-type="pmid">20421814</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR12">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Plathow</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Schoebinger</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Fink</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Hof</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Debus</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Meinzer</surname>
+              <given-names>HP</given-names>
+            </name>
+            <name>
+              <surname>Kauczor</surname>
+              <given-names>HU</given-names>
+            </name>
+          </person-group>
+          <article-title>Quantification of lung tumor volume and rotation at 3D dynamic parallel MR imaging with view sharing: preliminary results</article-title>
+          <source>Radiology</source>
+          <year>2006</year>
+          <volume>240</volume>
+          <issue>2</issue>
+          <fpage>537</fpage>
+          <lpage>45</lpage>
+          <pub-id pub-id-type="doi">10.1148/radiol.2401050727</pub-id>
+          <?supplied-pmid 16801367?>
+          <pub-id pub-id-type="pmid">16801367</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR13">
+        <label>13.</label>
+        <mixed-citation publication-type="other">Labby ZE, Armato SG, Dignam JJ, Straus C, Kindler HL, Nowak AK (2013) Lung volume measurements as a surrogate marker for patient response in malignant pleural mesothelioma. J Thorac Oncol 8(4):478–486. doi:10.1097/JTO.0b013e31828354c8</mixed-citation>
+      </ref>
+      <ref id="CR14">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chaisaowong</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Aach</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Jager</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Vogel</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Knepper</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Kraus</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>Computer-assisted diagnosis for early stage pleural mesothelioma: towards automated detection and quantitative assessment of pleural thickening from thoracic CT images</article-title>
+          <source>Methods Inf Med</source>
+          <year>2007</year>
+          <volume>46</volume>
+          <issue>3</issue>
+          <fpage>324</fpage>
+          <lpage>331</lpage>
+          <?supplied-pmid 17492119?>
+          <pub-id pub-id-type="pmid">17492119</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR15">
+        <label>15.</label>
+        <mixed-citation publication-type="other">Sensakovic WF, Armato SG 3rd, Straus C, Roberts RY, Caligiuri P, Starkey A, Kindler HL (2011) Computerized segmentation and measurement of malignant pleural mesothelioma. Med Phys 38(1):238–244. doi:10.1118/1.3525836</mixed-citation>
+      </ref>
+      <ref id="CR16">
+        <label>16.</label>
+        <mixed-citation publication-type="other">Labby ZE, Nowak AK, Dignam JJ, Straus C, Kindler HL, Armato SG (2013) Disease volumes as a marker for patient response in malignant pleural mesothelioma. Ann Oncol 24(4):999–1005. doi:10.1093/annonc/mds535</mixed-citation>
+      </ref>
+      <ref id="CR17">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Talbot</surname>
+              <given-names>DC</given-names>
+            </name>
+            <name>
+              <surname>Margery</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Dabouis</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Dark</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Taylor</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Boussemart</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Cadic</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Pinel</surname>
+              <given-names>MC</given-names>
+            </name>
+            <name>
+              <surname>Rivière</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Ollivier</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Ruffié</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Phase II study of vinflunine in malignant pleural mesothelioma</article-title>
+          <source>J Clin Oncol</source>
+          <year>2007</year>
+          <volume>25</volume>
+          <issue>30</issue>
+          <fpage>4751</fpage>
+          <lpage>4756</lpage>
+          <pub-id pub-id-type="doi">10.1200/JCO.2007.12.5641</pub-id>
+          <?supplied-pmid 17947722?>
+          <pub-id pub-id-type="pmid">17947722</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR18">
+        <label>18.</label>
+        <mixed-citation publication-type="other">Grady L (2006) Random walks for image segmentation. IEEE Trans Pattern Anal Mach Intell 28(11):1768–1783. doi:10.1109/TPAMI.2006.233</mixed-citation>
+      </ref>
+      <ref id="CR19">
+        <label>19.</label>
+        <mixed-citation publication-type="other">Oxnard GR, Armato SG 3rd, Kindler HL (2006) Modeling of mesothelioma growth demonstrates weaknesses of current response criteria. Lung Cancer 52(2):141–148. doi:10.1016/j.lungcan.2005.12.013</mixed-citation>
+      </ref>
+      <ref id="CR20">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Basu</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Saboury</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Torigian</surname>
+              <given-names>DA</given-names>
+            </name>
+            <name>
+              <surname>Alavi</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Current evidence base of FDG-PET/CT imaging in the clinical management of malignant pleural mesothelioma: emerging significance of image segmentation and global disease assessment</article-title>
+          <source>Mol Imaging Biol (MIB)</source>
+          <year>2011</year>
+          <volume>13</volume>
+          <issue>5</issue>
+          <fpage>801</fpage>
+          <lpage>811</lpage>
+          <pub-id pub-id-type="doi">10.1007/s11307-010-0426-6</pub-id>
+          <pub-id pub-id-type="pmid">21136185</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR21">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Armato</surname>
+              <given-names>SG</given-names>
+              <suffix>3rd</suffix>
+            </name>
+            <name>
+              <surname>Entwisle</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Truong</surname>
+              <given-names>MT</given-names>
+            </name>
+            <name>
+              <surname>Nowak</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Ceresoli</surname>
+              <given-names>GL</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Misri</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Kindler</surname>
+              <given-names>HL</given-names>
+            </name>
+          </person-group>
+          <article-title>Current state and future directions of pleural mesothelioma imaging</article-title>
+          <source>Lung Cancer</source>
+          <year>2008</year>
+          <volume>59</volume>
+          <issue>3</issue>
+          <fpage>411</fpage>
+          <lpage>420</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.lungcan.2007.09.027</pub-id>
+          <?supplied-pmid 18061303?>
+          <pub-id pub-id-type="pmid">18061303</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record>

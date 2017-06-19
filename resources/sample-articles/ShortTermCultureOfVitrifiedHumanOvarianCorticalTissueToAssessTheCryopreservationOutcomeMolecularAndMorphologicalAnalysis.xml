@@ -1,0 +1,824 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5359853</identifier><datestamp>2017-04-04</datestamp><setSpec>jri</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Reprod Infertil</journal-id>
+      <journal-id journal-id-type="iso-abbrev">J Reprod Infertil</journal-id>
+      <journal-id journal-id-type="publisher-id">JRI</journal-id>
+      <journal-id journal-id-type="pmc">JRI</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Reproduction &amp; Infertility</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">2228-5482</issn>
+      <issn pub-type="epub">2251-676X</issn>
+      <publisher>
+        <publisher-name>Avicenna Research Institute</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5359853</article-id>
+      <article-id pub-id-type="pmcid">PMC5359853</article-id>
+      <article-id pub-id-type="pmc-uid">5359853</article-id>
+      <article-id pub-id-type="publisher-id">jri-17-162</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Original Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Short Term Culture of Vitrified Human Ovarian Cortical Tissue to Assess the Cryopreservation Outcome: Molecular and Morphological Analysis</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ramezani</surname>
+            <given-names>Mehdi</given-names>
+          </name>
+          <xref ref-type="aff" rid="AFF1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Salehnia</surname>
+            <given-names>Mojdeh</given-names>
+          </name>
+          <xref ref-type="aff" rid="AFF1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="C1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jafarabadi</surname>
+            <given-names>Mina</given-names>
+          </name>
+          <xref ref-type="aff" rid="AFF2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <aff id="AFF1"><label>1-</label> Department of Anatomical Sciences, Medical Sciences Faculty, Tarbiat Modares University, Tehran, Iran</aff>
+        <aff id="AFF2"><label>2-</label> Reproductive Health Research Center, Tehran University of Medical Sciences, Tehran, Iran</aff>
+      </contrib-group>
+      <author-notes>
+        <corresp id="C1"><label>*</label><italic>Corresponding Author:</italic> Mojdeh Salehnia, Department of Anatomical Sciences, Medical Sciences Faculty, Tarbiat Modares University, P. O. BOX: 14115-111, Tehran, Iran, <italic>E-mail:</italic><email>salehnim@modares.ac.ir</email>, <email>mogdeh@dr.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <season>Jan-Mar</season>
+        <year>2017</year>
+      </pub-date>
+      <volume>18</volume>
+      <issue>1</issue>
+      <fpage>162</fpage>
+      <lpage>171</lpage>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>5</month>
+          <year>2015</year>
+        </date>
+        <date date-type="accepted">
+          <day>13</day>
+          <month>7</month>
+          <year>2015</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright© 2017, Avicenna Research Institute.</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <license>
+          <license-p>This work is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License which allows users to read, copy, distribute and make derivative works for non-commercial purposes from the material, as long as the author of the original work is cited properly.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <sec>
+          <title>Background:</title>
+          <p>The aim of the present study was to evaluate the effectiveness of human ovarian vitrification protocol followed with <italic>in vitro</italic> culture at the morphological and molecular levels.</p>
+        </sec>
+        <sec>
+          <title>Methods:</title>
+          <p>Ovarian tissues were obtained from 10 normal transsexual women and cut into small pieces and were divided into non-vitrified and vitrified groups and some of the tissues fragments in both groups were randomly cultured for two weeks. The morphological study using hematoxylin and eosin and Masson’s trichrome staining was done. The analysis of mean follicular density, 17-β estradiol (E2) and anti mullerian hormone (AMH), and real-time RT-PCR was down for the evaluation of expression of genes related to folliculogenesis. Data were compared by paired-samples and independent-samples T test. Values of p&lt;0.05 were considered statistically significant.</p>
+        </sec>
+        <sec>
+          <title>Results:</title>
+          <p>The proportion of normal follicles did not show significant difference between vitrified and non-vitrified groups before and after culture but these rates and the mean follicle density significantly decreased in both cultured tissues (p&lt;0.05). The expression of genes was similar in vitrified and non-vitrified groups but in cultured tissues the expression of GDF9 and FSHR genes increased and the expression of FIGLA and KIT-L genes decreased (p&lt;0.05). An increase in E2 and AMH concentration was observed after 14 days of culture in both groups.</p>
+        </sec>
+        <sec>
+          <title>Conclusion:</title>
+          <p>In conclusion, the present study indicated that the follicular development and gene expression in vitrified ovarian tissue was not altered before and after <italic>in vitro</italic> culture, thus this method could be useful for fertility preservation; however, additional studies are needed to improve the culture condition.</p>
+        </sec>
+      </abstract>
+      <kwd-group>
+        <kwd>17 beta- Estradiol</kwd>
+        <kwd>Anti- mullerian hormone</kwd>
+        <kwd>Gene expression</kwd>
+        <kwd>Vitrification</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>At present, there are some reliable options for preserving fertility in cancer patients (<xref rid="B1" ref-type="bibr">1</xref>). Dysfunction of gonads occurs due to the toxic effects of chemotherapy and radiotherapy. However, some of these methods, such as ovarian tissue cryopreservation are still considered experimental (<xref rid="B2" ref-type="bibr">2</xref>–<xref rid="B5" ref-type="bibr">5</xref>).</p>
+      <p>Cryopreservation of human ovarian tissue was done at first in 1996 by Hovatta et al., and at now it is performed by slow freezing and vitrification methods (<xref rid="B6" ref-type="bibr">6</xref>). This methods are considered complex because of the nature of human ovarian tissue which consists of different cell types. More attempts have focused on improving ovarian tissue cryopreservation by vitrification (<xref rid="B7" ref-type="bibr">7</xref>–<xref rid="B10" ref-type="bibr">10</xref>). It is an ultra-rapid cooling process that produces a glass-like solidification of cells by high concentration of cryoprotectants.</p>
+      <p>The effects of vitrification on the morphology, ultrastructure and function of human ovarian tissue showed conflicting results (<xref rid="B8" ref-type="bibr">8</xref>–<xref rid="B12" ref-type="bibr">12</xref>). Also, at the molecular level, there were limited investigations to evaluate the gene expression of human ovarian tissue just after vitrification and warming procedure (<xref rid="B13" ref-type="bibr">13</xref>–<xref rid="B15" ref-type="bibr">15</xref>). Recently, Shams et al. demonstrated that after vitrification/warming of human ovarian tissue using dimethylsulphoxide (DMSO) and ethylene glycol (EG), the expression of gene related to folliculogenesis did not change (<xref rid="B13" ref-type="bibr">13</xref>). Isachenko showed the expression of glyceraldehyde 3-phosphate dehydrogenase (GAPDH) gene in vitrified ovarian tissue was reduced (<xref rid="B14" ref-type="bibr">14</xref>). Abdollahi et al. showed that the expression of some genes involved in apoptosis have changed after vitrification and warming of human ovarian tissue (<xref rid="B15" ref-type="bibr">15</xref>).</p>
+      <p><italic>In vitro</italic> culture of ovarian tissue following the cryopreservation is an alternative method for follicular maturation and also for assessment of safety of cryopreservation technique (<xref rid="B15" ref-type="bibr">15</xref>–<xref rid="B17" ref-type="bibr">17</xref>).</p>
+      <p>During <italic>in vitro</italic> culture of ovarian tissue, the follicles are in connection with stromal cells that provide the factors for initiation of growing of follicles (<xref rid="B18" ref-type="bibr">18</xref>), although by tissue culture, the normal structure of follicles within the tissue is maintained. Several genes are expressed and they controlled the development of follicles from primordial to ovulatory stage (<xref rid="B19" ref-type="bibr">19</xref>–<xref rid="B21" ref-type="bibr">21</xref>). Factor in Germ Line alpha (FIGLA) is expressed by oocytes in primordial follicles and it has an important regulatory role in the expression of the zona pellucid (ZP) glycoprotein and the formation of primordial follicles (<xref rid="B22" ref-type="bibr">22</xref>). The mice with homozygous mutation in FIGLA genes are unfertile because of defects in the formation of ZP1, ZP2 and ZP3 (<xref rid="B23" ref-type="bibr">23</xref>).</p>
+      <p>Growth differentiation factor-9 (GDF9) is a family member of transforming growth factor-ß (TGFβ) and is expressed by oocytes at a primary follicle stage and controls of gene expression in granulosa cells. The mice with mutation in GDF9 have arrest in the primary follicle development (<xref rid="B24" ref-type="bibr">24</xref>, <xref rid="B25" ref-type="bibr">25</xref>).</p>
+      <p>Kit ligand (KIT-L) is expressed by granulosa cells and induced proliferation of theca cells and transition of follicle from primordial to primary stage (<xref rid="B26" ref-type="bibr">26</xref>). It also increases the mRNA level of several growth factors such as hepatocyte growth factor and keratinocyte growth factor in theca cells (<xref rid="B27" ref-type="bibr">27</xref>).</p>
+      <p>The follicle stimulating hormone receptor (FSHR) expression is required for differentiation of granulosa cells and follicular maturation (<xref rid="B28" ref-type="bibr">28</xref>). Oktay et al. demonstrated that the FSHR gene was not expressed in any of primordial follicles, while was shown in all of secondary follicles (<xref rid="B29" ref-type="bibr">29</xref>).</p>
+      <p>According to our knowledge, there was very limited information regarding evaluation of expression of genes related to follicular development after <italic>in vitro</italic> culture of cryopreserved human ovarian tissue. Recently, Wang et al. (2016) demonstrated that vitrification down-regulated the mRNA levels of ZP3, CYP11A and anti mullerian hormone (AMH) after short term <italic>in vitro</italic> culture of isolated follicles derived from cryopreserved human ovarian tissue (<xref rid="B30" ref-type="bibr">30</xref>).</p>
+      <p><italic>In vitro</italic> culture studies of human ovarian tissue is the best insight into the effects of vitrification/warming procedure on the expression of genes related to folliculogenesis, thus the aim of the present study was to evaluate the effectiveness of human ovarian vitrification protocol using ethylene glycol based solution followed by <italic>in vitro</italic> culture at the morphological and molecular levels by assessments of the follicular survival and density and the expression of genes related to follicular development. The function of ovarian tissue was evaluated by the level of 17-β estradiol (E2) and AMH.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Methods</title>
+      <p>All reagents and materials of this research were obtained from Sigma-Alderich (Germany) except mentioned otherwise.</p>
+      <sec sec-type="methods">
+        <title>Experimental design:</title>
+        <p>In this study, in order to assess the effect of vitrification and <italic>in vitro</italic> culture of human ovarian tissue on follicular survival and the growth and expression of some genes related to follicular development, the ovarian fragments were divided into two non-vitrified and vitrified groups and some of the tissues fragments in both groups were randomly cultured for two weeks. The following assessments were done for non-cultured and cultured tissues as the same. The morphology of tissues was evaluated using hematoxylin and eosin (H&amp;E) and Masson’s Trichrome (MTC) staining. The expression of genes related to folliculogenesis (FIGLA, KIT-L, GDF9 and FSHR) was evaluated using real-time RT- PCR before and after two weeks of <italic>in vitro</italic> culture period. The E2 and AMH assay was done in collected culture media in the beginning and end of the culture period.</p>
+      </sec>
+      <sec>
+        <title>Ovarian tissue collection:</title>
+        <p>An informed consent was collected from 10 normal transsexual women (female to male) aged 18–35 years old (median 26.1) under a protocol approved by the Ethics Committee of the Faculty of Medical Science of Tarbiat Modares University (Ref. No. 52/883). The ovarian tissue samples during laparoscopic surgery were obtained and then were transferred to the laboratory within 1–2 <italic>hr</italic> with sterile 50 <italic>ml</italic> tubes containing 30–50 <italic>ml</italic> pre-warmed and equilibrated Leibovitz’s L-15 medium supplemented with 10 <italic>mg/ml</italic> human serum albumin (HSA), 100 <italic>IU/ml</italic> penicillin and 100 <italic>μg/ml</italic> streptomycin. The ovarian cortical tissues were cut into small pieces (approximately 2×1×1 <italic>mm</italic>) under a sterile condition. The tissue taken from each woman was randomly divided into vitrified and non-vitrified groups (n=272 fragments in total).</p>
+      </sec>
+      <sec>
+        <title>Vitrification protocol:</title>
+        <p>The ovarian cortical fragments were vitrified according to the protocol described earlier by Salehnia et al. with some modifications (<xref rid="B31" ref-type="bibr">31</xref>). Vitrification solution named EFS 40% containing 40% ethylene glycol (<italic>v/v</italic>), 30% ficoll 70 (<italic>w/v</italic>), and 1 <italic>M</italic> sucrose was supplemented with 0.21% HSA. The human ovarian tissues were equilibrated in three changes of vitrification solutions for 5 <italic>min</italic>, and then they were placed into cryovials containing 100 <italic>μl</italic> vitrification solution. The cryovials were put on the nitrogen vapor phase for 30 <italic>s</italic>, immersed and stored in liquid nitrogen until assessment after one month.</p>
+      </sec>
+      <sec>
+        <title>Warming of vitrified tissue:</title>
+        <p>The fragments were warmed by immersing the cryovials in 37°<italic>C</italic> water bath with gentle agitation until melting the samples. Then, they were washed serially in 1, 0.5, 0.25 <italic>M</italic> sucrose and phosphate buffer I (PBI) containing 10 <italic>mg/ml</italic> human serum albumin at room temperature for 5 <italic>min</italic>. The samples were equilibrated in α–minimum essential medium (α-MEM) culture media for 30 <italic>min</italic>. In vitrified group (n=136 fragments in total), 68 fragments (from 10 women) were considered as non-cultured tissues. Among these tissues, 50 fragments were fixed in Bouin’s solution for histological evaluation, and 18 fragments (from 6 women) were stored at −80°<italic>C</italic> for molecular assessments. The 68 remaining vitrified fragments (from 10 women) were cultured <italic>in vitro</italic> for two weeks. The non-vitrified samples were also considered for histological and molecular assessments, in the same as vitrified group.</p>
+      </sec>
+      <sec>
+        <title>Ovarian tissue culture:</title>
+        <p>Non-vitrified and vitrified tissue fragments were cultured (n=136 fragments in total) individually in 96-well V-bottomed culture plates for 2 weeks in 300 <italic>μl</italic> of α-MEM supplemented with 5 <italic>mg/ml</italic> HSA, 0.1 <italic>mg/ml</italic> penicillin G, 0.1 <italic>mg/ml</italic> streptomycin, 10 <italic>μg/ml</italic> insulin transferrin selenium (ITS), 0.5 <italic>IU/ml</italic> human recombinant follicle stimulating hormone (rFSH) at 37°<italic>C</italic> in humidified air with 5% CO<sub>2</sub>.</p>
+        <p>At 48 <italic>hr</italic> intervals, the half of culture media (150 <italic>μl</italic>) was removed and replaced with fresh medium. The collected media were stored at −20°<italic>C</italic> for subsequent E2 and AMH hormonal analysis. After 2 weeks, the cultured tissues (100 fragments from 10 women in both groups) were fixed in Bouin’s solution for histological evaluation and the others were stored at −80°<italic>C</italic> for subsequent molecular assessment.</p>
+      </sec>
+      <sec>
+        <title>Tissue evaluation:</title>
+        <p>After fixation of tissue fragments, they were dehydrated in ascending concentrations of ethanol (70–100%) and embedded in paraffin wax. Five micrometer thickness serial sections were cut and the sections were mounted on glass slides and stained with H&amp;E. Then each section was examined for follicular counting.</p>
+        <p>Another set of serial sections was stained with MTC staining and observed under light microscope for evaluation of stromal tissue (<xref rid="B32" ref-type="bibr">32</xref>).</p>
+      </sec>
+      <sec>
+        <title>Follicules counting:</title>
+        <p>The follicles were counted at different developmental stages field by field under ×10 objective lense of the light microscope according to the classification described by Gougeon (<xref rid="B33" ref-type="bibr">33</xref>). To avoid counting the follicles more than once, only those with an obvious nucleus of oocytes were counted.</p>
+        <p>The follicles containing a single layer of flattened granulosa cells were considered as primordial, those having cuboidal granulosa cells in a single layer identified as primary and those having two or more layers of granulosa cells identified as growing follicles (those having two or more layers of granulosa cells). Atretic follicles had oocyte with a pyknotic nucleus of oocyte and granulosa cells and shrunken ooplasm.</p>
+      </sec>
+      <sec>
+        <title>Assessment of mean ovarian follicle density per mm<sup>3</sup>:</title>
+        <p>The photomicrographs of each tissue section were prepared and imported into Image J software (National Institutes of Health, Bethesda). Then the area of each section was measured in units of pixels and converted to millimeters based on the conversion determined by measuring the image of the calibrated millimeter. Tissue volume was calculated as the sum of the area in <italic>mm</italic><sup>2</sup> of all tissue sections analyzed per patient, multiplied by 0.005 <italic>mm</italic> (the thickness of each section) to give a value in <italic>mm</italic><sup>3</sup>. The number of follicles in each histological fragment was categorized according to their stage of development as previously described (<xref rid="B33" ref-type="bibr">33</xref>). Then, mean follicle density was determined by dividing the total number of follicles per patient by the volume of tissue analyzed and expressing this value as follicles per cubic millimeter.</p>
+      </sec>
+      <sec>
+        <title>RNA extraction and cDNA synthesis:</title>
+        <p>Total RNA was extracted from non-vitrified and vitrified groups before and after culture, using Trizol reagent (Invitrogen, USA) according to the manufacturer’s instructions. The RNA samples were treated with DNase to remove any genomic DNA contamination prior to proceeding with the cDNA synthesis. Then, the RNA concentration was determined by spectrophotometry and adjusted to a concentration of 250 <italic>ng/ml</italic>. Finally, 1000 <italic>ng</italic> of the extracted RNA was used for cDNA synthesis by the commercial Kit (Thermo Scientific, EU) according to the manufacturer’s instructions. Using Oligo dT, RNA was reverse transcribed by Maloney murine leukemia virus reverse transcriptase. The cDNA synthesis reaction was performed at 42°<italic>C</italic> for 60 <italic>min</italic> and terminated the reaction by heating at 70°<italic>C</italic> for 5 <italic>min</italic>, and the obtained cDNA was stored at −80°<italic>C</italic> until utilized.</p>
+      </sec>
+      <sec>
+        <title>Real-time RT-PCR:</title>
+        <p>The primers (<xref ref-type="table" rid="T1">Table 1</xref>) for realtime RT-PCR were newly designed using Gen Bank (<ext-link ext-link-type="uri" xlink:href="http://.ncbi.nlm.nih.gov">http://.ncbi.nlm.nih.gov</ext-link>) and online software (primer3), synthesized by Generary Biotech co (China).</p>
+        <table-wrap id="T1" position="float">
+          <label>Table 1.</label>
+          <caption>
+            <p>The characteristics of primers used for real-time RT-PCR assays</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>Accession number</bold>
+                </th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">
+                  <bold>Target gene</bold>
+                </th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">
+                  <bold>Primer sequence</bold>
+                </th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">
+                  <bold>Product size (<italic>bp</italic>)</bold>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>NM_001101.3</bold>
+                </td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">β-actin</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">Forward: 5′ –TCAGAGCAAGAGAGGCATCC- 3′<break/>Reverse: 5′ –GGTCATCTTCTCACGGTTGG- 3′</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">187</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>NM_001004311.3</bold>
+                </td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">Figla</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">Forward: 5′ –TCGTCCACTGAAAACCTCCAG- 3′<break/>Reverse: 5′ –TTCTTATCCGCTCACGCTCC- 3′</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">76</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>NM_000899.4</bold>
+                </td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">Kit ligand</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">Forward: 5′ –AATCCTCTCGTCAAAACTGAAGG- 3′<break/>Reverse: 5′ –CCATCTCGCTTATCCAACACTGA- 3′</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">163</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>NM_001288828.2</bold>
+                </td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">Gdf9</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">Forward: 5′ – GAAGTGGGCTGACTGGGTG - 3′<break/>Reverse: 5′ – TGCAAAGCTCTGGAGTCTGG - 3′</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">166</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>NM_181446.2</bold>
+                </td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">Fshr</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">Forward: 5′ –CTGGCAGAAGAGAATGAGTCC- 3′<break/>Reverse: 5′ –TGAGGATGTTGTACCCGATGATA- 3′</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">157</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>After extraction of total RNA and cDNA synthesis, one-step RT-PCR was performed on the Applied Biosystems (UK) real-time thermal cycler according to Quanti Tect SYBR Green RT-PCR kit (Applied Biosystems, UK, Lot No:1201416). Real-time thermal condition included holding step at 95°<italic>C</italic> for 5 <italic>min</italic>, cycling step at 95°<italic>C</italic> for 15 <italic>s</italic>, 60°<italic>C</italic> for 30 <italic>s</italic> and it was continued by a melt curve step at 95°<italic>C</italic> for 15 <italic>s</italic>, 60°<italic>C</italic> for 1 <italic>min</italic>, and 95°<italic>C</italic> for 15 <italic>s</italic>. Then, relative quantification of target genes was determined using the Pfaffle method (<xref rid="B34" ref-type="bibr">34</xref>). These experiments were repeated at least three times.</p>
+      </sec>
+      <sec>
+        <title>Hormonal assay:</title>
+        <p>To evaluate the endocrine function of ovarian tissue, the concentration of E2 and AMH were measured in the collected media derived from cultured ovarian fragments on day 2 and 14 of culture period. The levels of E2 were measured by a Microplate Enzyme Immunoassay kit (Monobind, USA, sensitivity=6.5 <italic>pg/ml</italic>) and AMH by an Enzyme-Linked Immunosorbent Assay (Ultra-sensitive AMH/MIS, USA, sensitivity= 4.4±0.9 <italic>pg/ml</italic>).</p>
+      </sec>
+      <sec sec-type="methods">
+        <title>Statistical analysis:</title>
+        <p>Statistical analysis was carried out using the SPSS 19.0 software. Quantitative variables were expressed as mean±SEM. The results of follicular counting, E2 and AMH concentration and real-time RT-PCR data were compared by paired-samples and independent-samples T test. Values of p≤0.05 were considered statistically significant.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <sec>
+        <title>Histological evaluation:</title>
+        <p>The morphology of non-cultured and cultured ovarian cortical sections in both vitrified and non-vitrified groups is shown in <xref ref-type="fig" rid="F1">figures 1</xref> and <xref ref-type="fig" rid="F2">2</xref>. The morphology of follicles and stromal cells in vitrified tissues was similar to non-vitrified group. The oocytes were in close contact with the surrounding granulosa cells. No pyknotic nuclei or any sign of shrinkage or swelling were seen in granulosa cells.</p>
+        <fig id="F1" position="float">
+          <label>Figure 1.</label>
+          <caption>
+            <p>Light microscopic images of human ovarian cortical tissue after hematoxylin and eosin (A and B) and Masson Trichrome (C and D) staining before <italic>in vitro</italic> culture. A and C: non-vitrified group; B and D: vitrified group. The normal morphology of primary follicles was indicated in A, B and D</p>
+          </caption>
+          <graphic xlink:href="JRI-17-162-g001"/>
+        </fig>
+        <fig id="F2" position="float">
+          <label>Figure 2.</label>
+          <caption>
+            <p>Light microscopic images of human ovarian cortical tissue after hematoxylin and eosin (A and B) and Masson Trichrome (C and D) staining after <italic>in vitro</italic> culture. A and C: non-vitrified group; Band D: vitrified group. The primary follicle has normal morphology in A, B and D and degenerating secondary follicle was indicated in C</p>
+          </caption>
+          <graphic xlink:href="JRI-17-162-g002"/>
+        </fig>
+        <p>The light microscopic photomicrographs obtained by Masson’s Trichrome staining showed that ovarian stromal tissue after vitrification was similar to that of non-vitrified one (<xref ref-type="fig" rid="F1">Figure 1</xref> and <xref ref-type="fig" rid="F2">2</xref>).</p>
+      </sec>
+      <sec>
+        <title>The percentage of normal follicle before in vitro culture of ovarian tissue:</title>
+        <p>A total of 885 follicles were counted and analyzed in both vitrified and non-vitrified fragments (443 follicles in the non-vitrified fragments and 450 follicles in the vitrified fragments). Overall, 89.22% of the follicles in non-vitrified group and 84.60% in vitrified group showed normal morphology after warming (<xref ref-type="table" rid="T2">Table 2</xref>). In non-vitrified group, the percentage of primordial, primary and secondary follicles were 68.64%, 28.69% and 3.62% and these rates in vitrified group were 67.82%, 29.44% and 2.70%, respectively (<xref ref-type="table" rid="T2">Table 2</xref>). There was no significant difference in the percentage of normal follicles at different developmental stages between two groups.</p>
+        <table-wrap id="T2" position="float">
+          <label>Table 2.</label>
+          <caption>
+            <p>The number of different follicles at developmental stages in all groups of study</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>Groups</bold>
+                </th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">
+                  <bold>Total follicles</bold>
+                </th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">
+                  <bold>Normal F. (Mean%±SE)</bold>
+                </th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">
+                  <bold>Degenerated F. (Mean%±SE)</bold>
+                </th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">
+                  <bold>Various primordial F. (Mean%±SE)</bold>
+                </th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">
+                  <bold>Primary F. (Mean%±SE)</bold>
+                </th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">
+                  <bold>Growing F. (Mean%±SE)</bold>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>Non –vitrified</bold>
+                </td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">443</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">383(89.22±4.5)</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">60(10.76±1.52)</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">263(68.64±1.60)</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">110(28.69±1.72)</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">10(3.62±0.66)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>Vitrified</bold>
+                </td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">450</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">378(84.60±4.01)</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">72(15.38±2.30)</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">258(67.82±3.71)</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">112(29.44±3.51)</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">8(2.70±1.20)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>Cultured non-vitrified</bold>
+                </td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">366</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">305(83.25±2.23)<xref ref-type="table-fn" rid="TFN1"><sup>a</sup></xref></td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">61(16.73±0.23)<xref ref-type="table-fn" rid="TFN1"><sup>a</sup></xref></td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">78(25.33±1.40)<xref ref-type="table-fn" rid="TFN1"><sup>a</sup></xref></td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">180(58.89±0.75)<xref ref-type="table-fn" rid="TFN1"><sup>a</sup></xref></td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">47(15.76±1.55)<xref ref-type="table-fn" rid="TFN1"><sup>a</sup></xref></td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>Cultured Vitrified</bold>
+                </td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">347</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">269(77.29±1.40)<xref ref-type="table-fn" rid="TFN2"><sup>b</sup></xref></td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">78(22.70±0.40)<xref ref-type="table-fn" rid="TFN2"><sup>b</sup></xref></td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">71(26.79±1.22)<xref ref-type="table-fn" rid="TFN2"><sup>b</sup></xref></td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">156(58.24±0.67)<xref ref-type="table-fn" rid="TFN2"><sup>b</sup></xref></td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">42(15.54±1.34)<xref ref-type="table-fn" rid="TFN2"><sup>b</sup></xref></td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn id="TFN1">
+              <label>a:</label>
+              <p>Significant differences between cultured non-vitrified and non-vitrified group in the same column (p&lt;0.05)</p>
+            </fn>
+            <fn id="TFN2">
+              <label>b:</label>
+              <p>Significant differences between cultured vitrified and vitrified group in the same column (p&lt;0.05)</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Normal follicles assessment after in vitro culture of ovarian tissue:</title>
+        <p>After 14 days of <italic>in vitro</italic> culture, the percentage of the morphological normal follicles at different developmental stages in non-vitrified and vitrified groups were compared and summarized in <xref ref-type="table" rid="T2">table 2</xref>. Overall, 83.25% of the follicles in non-vitrified group and 77.29% in vitrified group had normal morphology. In non-vitrified ovarian tissue, the percentages of primordial, primary and secondary follicle were 25.33%, 58.89% and 15.76%, respectively. These rates in the vitrified group were 26.19%, 58.24% and 15.54%, respectively. There was no significant difference in the percentage of normal follicles at different developmental stages between these two groups at the end of culture period.</p>
+        <p>In both the <italic>in vitro</italic> cultured groups, the percentage of normal follicles significantly decreased in comparison with non-cultured groups (p&lt;0.05). However, the percentage of secondary follicles increased in both cultured tissues groups in comparison to their respected non-cultured groups (p&lt;0.05).</p>
+      </sec>
+      <sec>
+        <title>The follicular density in ovarian biopsies:</title>
+        <p>The follicular densities in non-vitrified and vitrified groups before culturing were 26.59 and 25.54 follicles per <italic>mm</italic><sup>3</sup> and after two weeks of <italic>in vitro</italic> culture, the follicular densities significantly decreased to 22.98 and 20.80 follicles per mm<sup>3</sup> respectively (p&lt;0.05). There was no significant difference between non-vitrified and vitrified groups.</p>
+      </sec>
+      <sec>
+        <title>The growing index in ovarian biopsies:</title>
+        <p>The ratio of primary and secondary follicles to primordial follicles was considered as the growing index and in non-vitrified and vitrified groups before culturing, these indexes were 0.47 and 0.46 and after two weeks of <italic>in vitro</italic> culture, they were 2.94 and 2.81 respectively. There was no significant difference between non-vitrified and vitrified groups but these indexes significantly increased in both cultured tissues than their non-cultured respective groups (p&lt;0.05).</p>
+      </sec>
+      <sec>
+        <title>Gene expression in ovarian tissue:</title>
+        <p>As the results demonstrated (<xref ref-type="table" rid="T3">Table 3</xref>), among the studied genes, the ratios of expression of GDF-9, FIGLA, KIT-L and FSHR genes to β-actin gene in non-vitrified group before culturing were 24.5×10<sup>−4</sup>, 65×10<sup>−4</sup>, 61×10<sup>−4</sup>, 17.8×10<sup>−4</sup> and in vitrified group were 22.8×10<sup>−4</sup>, 60×10<sup>−4</sup>, 58×10<sup>−4</sup>, 15.8×10<sup>−4</sup>, respectively. In non-vitrified group after <italic>in vitro</italic> culture, the ratio expression of previous genes were 171×10<sup>−4</sup>, 35×10<sup>−4</sup>, 37×10<sup>−4</sup>, 28×10<sup>−4</sup> and in the vitrified group were 169×10<sup>−4</sup>, 34.5×10<sup>−4</sup>, 34.3×10<sup>−4</sup>, 25×10<sup>−4</sup>, respectively. There was no significant difference between the expression of all examined genes in vitrified and non-vitrified groups. However, in both cultured tissues in comparison with non-cultured tissues, the level of GDF-9 and FSHR mRNA significantly increased and the level of FIGLA and KIT-L mRNA significantly decreased (p&lt;0.05).</p>
+        <table-wrap id="T3" position="float">
+          <label>Table 3.</label>
+          <caption>
+            <p>The relative expression ratio of GDF-9, FIGLA, KIT-Land FSHR to β-actin in non-vitrified and vitrified human ovarian</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>Gene</bold>
+                </th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">
+                  <bold>Non-vitrified</bold>
+                </th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">
+                  <bold>Vitrified</bold>
+                </th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">
+                  <bold>Cultured non-vitrified</bold>
+                </th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">
+                  <bold>Cultured vitrified</bold>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>GDF-9</bold>
+                </td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">24.5×10<sup>−4</sup></td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">22.80×10<sup>−4</sup></td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">18.3×10<sup>−4
+</sup><bold><xref ref-type="table-fn" rid="TFN3"><sup>a</sup></xref></bold></td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">18×10<sup>−4
+</sup><bold><xref ref-type="table-fn" rid="TFN3"><sup>a</sup></xref></bold></td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>FIGLA</bold>
+                </td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">65×10<sup>−4</sup></td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">60×10<sup>−4</sup></td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">34×10<sup>−4
+</sup><bold><xref ref-type="table-fn" rid="TFN3"><sup>a</sup></xref></bold></td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">33.4×10<sup>−4
+</sup><bold><xref ref-type="table-fn" rid="TFN3"><sup>a</sup></xref></bold></td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>KIT-L</bold>
+                </td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">61×10<sup>−4</sup></td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">58×10<sup>−4</sup></td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">32.9×10<sup>−4
+</sup><bold><xref ref-type="table-fn" rid="TFN3"><sup>a</sup></xref></bold></td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">29.7×10<sup>−4
+</sup><bold><xref ref-type="table-fn" rid="TFN3"><sup>a</sup></xref></bold></td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>FSHR</bold>
+                </td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">17.8×10<sup>−4</sup></td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">15.8×10<sup>−4</sup></td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">28.4×10<sup>−4
+</sup><bold><xref ref-type="table-fn" rid="TFN3"><sup>a</sup></xref></bold></td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">25.7×10<sup>−4
+</sup><bold><xref ref-type="table-fn" rid="TFN3"><sup>a</sup></xref></bold></td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn id="TFN3">
+              <label>a:</label>
+              <p>Significant differences with non-cultured group in the same group (p&lt;0.05)</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Hormone assay:</title>
+        <p>The concentrations of E2 in collected media at the beginning and end of culture period were shown and compared in <xref ref-type="table" rid="T4">table 4</xref> in studied groups. A significant increase in E2 concentration was observed in both cultured groups (51.86±0.63 and 47±1.15 <italic>pg/ml</italic>) in comparison to day 2 of culture (32.5±0.76 <italic>pg/ml</italic> and 31.53± 0.85 <italic>pg/ml</italic>), respectively (<italic>p</italic>&lt;0.05). There was no significant difference between vitrified and non-vitrified groups in this regard.</p>
+        <table-wrap id="T4" position="float">
+          <label>Table 4.</label>
+          <caption>
+            <p>The concentration of 17-β estradiol and anti mullerian hormones (AMH) in supernatants of non-vitrified and vitrified groups during two weeks of <italic>in vitro</italic> culture (<italic>pg/ml</italic>)</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>Hormone</bold>
+                </th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">
+                  <bold>Non-vitrified</bold>
+                </th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">
+                  <bold>Vitrified</bold>
+                </th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">
+                  <bold>Cultured non-vitrified</bold>
+                </th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">
+                  <bold>Cultured vitrified</bold>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>17-β stradiol</bold>
+                </td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">32.5±0.76</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">31.53±0.85</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">251.86±0.52</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">247±0.57<sup><xref ref-type="table-fn" rid="TFN4">*</xref></sup></td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>AMH</bold>
+                </td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0.15±0.0057</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0.15±0.0057</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0.160±0.0057<sup><xref ref-type="table-fn" rid="TFN4">*</xref></sup></td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0.158±0.0057<sup><xref ref-type="table-fn" rid="TFN4">*</xref></sup></td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn id="TFN4">
+              <label>*</label>
+              <p>Significant difference with day 2 (p&lt;0.05)</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>An increase in AMH level was observed after 14 days of <italic>in vitro</italic> culture in both non-vitrified and vitrified groups (0.160±0.01 and 0.158±0.01 <italic>pg/ml</italic>) respectively in comparison with day 2 of culture (0.15 <italic>pg/ml</italic>). There was no significant difference between vitrified and non-vitrified groups in this regard.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>In the present study, morphological observation showed that the normality rate of follicles is similar in vitrified and non-vitrified groups not only before culture but also after culturing period. In addition, our results demonstrated that the vitrified samples have follicular development such as non-vitrified tissue. Optimization of vitrification method for human ovarian tissue using cryoprotectants with low toxicity effects is an important subject in the field of cryobiology. In several studies, it was shown that ethylene glycol is a permeable cryoprotectant and had the best results in terms of survival of tissue (<xref rid="B35" ref-type="bibr">35</xref>–<xref rid="B38" ref-type="bibr">38</xref>). The adequacy of the EFS40 which mainly composed of ethylene glycol in the preservation of follicles has been shown in various studies (<xref rid="B9" ref-type="bibr">9</xref>, <xref rid="B31" ref-type="bibr">31</xref>, <xref rid="B36" ref-type="bibr">36</xref>, <xref rid="B38" ref-type="bibr">38</xref>).</p>
+      <p>From another point of view, our morphological observations using MTC staining showed that the stromal tissues were preserved normally in vitrified tissue similar to the non-vitrified samples. It is concluded that the cryoprotectants solution which was used in this study had no harmful effects on the integrity of stromal tissue and the stromal cells and tissue were well preserved. Similar to our results, Fabbri et al. (<xref rid="B39" ref-type="bibr">39</xref>) showed that after vitrification/warming, the stromal compartment maintained morphological and ultra-structural features similar to the fresh tissue.</p>
+      <p>The stromal cells play an important role in the proliferation and differentiation of the granulosa cells so their preservation during cryopreservation procedure is critical. The interaction between stromal and follicular cells and the integrity of these components for normal ovarian function is important (<xref rid="B40" ref-type="bibr">40</xref>).</p>
+      <p>Moreover, in other parts of the present study, it was demonstrated that the proportion of normal follicles did not significantly decline after two weeks of <italic>in vitro</italic> culture in comparison with the non-cultured tissue. In addition, the growing index increased in both cultured groups. It seems that the culture media which have been used in this study could sufficiently support the activation and development of primordial follicles. Different <italic>in vitro</italic> culture systems were introduced for follicular development and these systems have showed different results (<xref rid="B41" ref-type="bibr">41</xref>–<xref rid="B44" ref-type="bibr">44</xref>). However, the supplementation of culture media with PTEN inhibitor could activate the follicular development in the present study. Similar reports showed that PTEN inhibitor affects human ovarian follicle development by promoting the initiation of follicle growth and development to the secondary stage (<xref rid="B45" ref-type="bibr">45</xref>–<xref rid="B48" ref-type="bibr">48</xref>).</p>
+      <p>Our molecular analysis by real time RT-PCR showed that the profile of gene expression related to development of follicles was similar in vitrified and non-vitrified ovarian tissue and also during two weeks of <italic>in vitro</italic> culture, this pattern was not changed in comparison with non-vitrified group. This observation is parallel to data obtained from developmental potential of vitrified samples than non-vitrified ones. It is concluded that vitrification of human ovarian tissue using EFS40 solution either has no remarkable effect on the morphology and follicular development and on the expression of developmental genes related to primordial, primary and secondary follicles during <italic>in vitro</italic> culture. In addition, at the end of <italic>in vitro</italic> culture period, the expression of GDF9 and FSHR increased and the expression of FIGLA and KIT-L genes was reduced in comparison with non-cultured samples. As mentioned before, the expression of FIGLA and KIT-L genes is related to primordial follicles and GDF9 and FSHR genes correspond to primary and secondary follicles, thus this data revealed an increase in the number of growing follicles from primordial to primary and secondary stages.</p>
+      <p>In addition, studies on the effects of long-term culture period on the gene expression of vitrified human ovarian tissue were limited.</p>
+      <p>The level of E2 as a marker for ovarian function during <italic>in vitro</italic> culture was analyzed and our results showed that an increase in the level of E2 at the end of culture period in comparison with the beginning of culture is correlated with the increase in the proportion of growing follicles during culturing period. The estradiol hormone was produced mainly by the granulosa cells; however, the stromal cells could contribute to steroid production (<xref rid="B49" ref-type="bibr">49</xref>).</p>
+      <p>For the first time, the level of AMH was measured in collected media at the beginning and end of <italic>in vitro</italic> culture to show if this hormone could be a suitable indicator for demonstration of follicular development and reserve within the cultured tissue or not. However, the level of this hormone showed the slight changes during <italic>in vitro</italic> culture and this data may be related to small number of pre-antral and small antral follicles within cultured ovarian tissue because AMH is expressed in granulosa cells of growing follicles in the ovary and the high level of AMH expression is related to granulosa cells of pre-antral and small antral follicles (<xref rid="B50" ref-type="bibr">50</xref>–<xref rid="B52" ref-type="bibr">52</xref>).</p>
+      <p>In another part of this study, the changes in the follicular density of human ovarian tissue were evaluated during <italic>in vitro</italic> culture in comparison with non-cultured groups. The results revealed that the decline in the follicular density was observed in both vitrified and non-vitrified samples. This reduction may be due to the insufficient culture condition to provide essential factors for survival and development of follicles. Other suggestion is that ischemic damages or other types of cell death may take place. Thus, additional studies for improvement of <italic>in vitro</italic> culture condition are needed.</p>
+    </sec>
+    <sec sec-type="conclusion">
+      <title>Conclusion</title>
+      <p>In conclusion, the present study indicated that the follicular development and gene expression in vitrified ovarian tissue were not altered before and after <italic>in vitro</italic> culture, thus this method could be useful for fertility preservation; however, additional studies are needed to improve the culture condition.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgement</title>
+      <p>This study was part of the Anatomy Act of Tarbiat Modarres University and is completed with the financial support of the university.</p>
+    </ack>
+    <fn-group>
+      <fn>
+        <p>
+          <bold>Conflict of Interest</bold>
+        </p>
+        <p>There is no conflict of interest.</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <label>1.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Loren</surname><given-names>AW</given-names></name><name><surname>Mangu</surname><given-names>PB</given-names></name><name><surname>Beck</surname><given-names>LN</given-names></name><name><surname>Brennan</surname><given-names>L</given-names></name><name><surname>Magdalinski</surname><given-names>AJ</given-names></name><name><surname>Partridge</surname><given-names>AH</given-names></name><etal/></person-group>
+<article-title>Fertility preservation for patients with cancer: American Society of Clinical Oncology clinical practice guideline update</article-title>. <source>J Clin Oncol</source>. <year>2013</year>;<volume>31</volume>(<issue>19</issue>):<fpage>2500</fpage>–<lpage>10</lpage>.<pub-id pub-id-type="pmid">23715580</pub-id></mixed-citation>
+      </ref>
+      <ref id="B2">
+        <label>2.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Skaznik-Wikiel</surname><given-names>ME</given-names></name><name><surname>Gilbert</surname><given-names>SB</given-names></name><name><surname>Meacham</surname><given-names>RB</given-names></name><name><surname>Kondapalli</surname><given-names>LA.</given-names></name></person-group>
+<article-title>Fertility Preservation Options for Men and Women With Cancer</article-title>. <source>Rev Urol</source>. <year>2015</year>;<volume>17</volume>(<issue>4</issue>): <fpage>211</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="pmid">26839518</pub-id></mixed-citation>
+      </ref>
+      <ref id="B3">
+        <label>3.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Andersen</surname><given-names>CY</given-names></name><name><surname>Kristensen</surname><given-names>SG</given-names></name><name><surname>Greve</surname><given-names>T</given-names></name><name><surname>Schmidt K</surname><given-names>T.</given-names></name></person-group>
+<article-title>Cryopreservation of ovarian tissue for fertility preservation in young female oncological patients</article-title>. <source>Future Oncol</source>. <year>2012</year>;<volume>8</volume>(<issue>5</issue>):<fpage>595</fpage>–<lpage>608</lpage>.<pub-id pub-id-type="pmid">22646773</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <label>4.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Grynberg</surname><given-names>M</given-names></name><name><surname>Poulain</surname><given-names>M</given-names></name><name><surname>Sebag-Peyrelevade</surname><given-names>S</given-names></name><name><surname>le Parco</surname><given-names>S</given-names></name><name><surname>Fanchin</surname><given-names>R</given-names></name><name><surname>Frydman</surname><given-names>N.</given-names></name></person-group>
+<article-title>Ovarian tissue and follicle transplantation as an option for fertility preservation</article-title>. <source>Fertil Steril</source>. <year>2012</year>;<volume>97</volume>(<issue>6</issue>):<fpage>1260</fpage>–<lpage>8</lpage>.<pub-id pub-id-type="pmid">22656306</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <label>5.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jeong</surname><given-names>K</given-names></name><name><surname>Aslan</surname><given-names>E</given-names></name><name><surname>Ozkaya</surname><given-names>E</given-names></name><name><surname>Sonmezer</surname><given-names>M</given-names></name><name><surname>Oktay</surname><given-names>K.</given-names></name></person-group>
+<article-title>Ovarian cryopreservation</article-title>. <source>Minerva Med</source>. <year>2012</year>; <volume>103</volume>(<issue>1</issue>):<fpage>37</fpage>–<lpage>46</lpage>.<pub-id pub-id-type="pmid">22278067</pub-id></mixed-citation>
+      </ref>
+      <ref id="B6">
+        <label>6.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hovatta</surname><given-names>O</given-names></name><name><surname>Silye</surname><given-names>R</given-names></name><name><surname>Krausz</surname><given-names>T</given-names></name><name><surname>Abir</surname><given-names>R</given-names></name><name><surname>Margara</surname><given-names>R</given-names></name><name><surname>Trew</surname><given-names>G</given-names></name><etal/></person-group>
+<article-title>Cryopreservation of human ovarian tissue using dimethylsulphoxide and propanediol-sucrose as cryoprotectants</article-title>. <source>Hum Reprod</source>. <year>1996</year>;<volume>11</volume> (<issue>6</issue>):<fpage>1268</fpage>–<lpage>72</lpage>.<pub-id pub-id-type="pmid">8671438</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <label>7.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gandolfi</surname><given-names>F</given-names></name><name><surname>Paffoni</surname><given-names>A</given-names></name><name><surname>Papasso Brambilla</surname><given-names>E</given-names></name><name><surname>Bonetti</surname><given-names>S</given-names></name><name><surname>Brevini</surname><given-names>TA</given-names></name><name><surname>Ragni</surname><given-names>G.</given-names></name></person-group>
+<article-title>Efficiency of equilibrium cooling and vitrification procedures for the cryopreservation of ovarian tissue: comparative analysis between human and animal models</article-title>. <source>Fertil Steril</source>. <year>2006</year>;<volume>85</volume>
+<issue>Suppl 1</issue>:<fpage>1150</fpage>–<lpage>6</lpage>.<pub-id pub-id-type="pmid">16616087</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <label>8.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sheikhi</surname><given-names>M</given-names></name><name><surname>Hultenby</surname><given-names>K</given-names></name><name><surname>Niklasson</surname><given-names>B</given-names></name><name><surname>Lundqvist</surname><given-names>M</given-names></name><name><surname>Hovatta</surname><given-names>O.</given-names></name></person-group>
+<article-title>Clinical grade vitrification of human ovarian tissue: an ultrastructural analysis of follicles and stroma in vitrified tissue</article-title>. <source>Hum Reprod</source>. <year>2011</year>;<volume>26</volume> (<issue>3</issue>):<fpage>594</fpage>–<lpage>603</lpage>.<pub-id pub-id-type="pmid">21217141</pub-id></mixed-citation>
+      </ref>
+      <ref id="B9">
+        <label>9.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Amorim</surname><given-names>CA</given-names></name><name><surname>David</surname><given-names>A</given-names></name><name><surname>Van Langendonckt</surname><given-names>A</given-names></name><name><surname>Dolmans</surname><given-names>MM</given-names></name><name><surname>Donnez</surname><given-names>J.</given-names></name></person-group>
+<article-title>Vitrification of human ovarian tissue: effect of different solutions and procedures</article-title>. <source>Fertil Steril</source>. <year>2011</year>;<volume>95</volume>(<issue>3</issue>):<fpage>1094</fpage>–<lpage>7</lpage>.<pub-id pub-id-type="pmid">21168134</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <label>10.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Salehnia</surname><given-names>M</given-names></name><name><surname>Sheikhi</surname><given-names>M</given-names></name><name><surname>Pourbeiranvand</surname><given-names>S</given-names></name><name><surname>Lundqvist</surname><given-names>M.</given-names></name></person-group>
+<article-title>Apoptosis of human ovarian tissue is not increased by either vitrification or rapid cooling</article-title>. <source>Reprod Biomed Online</source>. <year>2012</year>;<volume>25</volume>(<issue>5</issue>):<fpage>492</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="pmid">22999557</pub-id></mixed-citation>
+      </ref>
+      <ref id="B11">
+        <label>11.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bandeira</surname><given-names>FT</given-names></name><name><surname>Carvalho</surname><given-names>AA</given-names></name><name><surname>Castro</surname><given-names>SV</given-names></name><name><surname>Lima</surname><given-names>LF</given-names></name><name><surname>Viana</surname><given-names>DA</given-names></name><name><surname>Evangelista</surname><given-names>JS</given-names></name><etal/></person-group>
+<article-title>Two methods of vitrification followed by in vitro culture of the ovine ovary: evaluation of the follicular development and ovarian extracellular matrix</article-title>. <source>Reprod Domest Anim</source>. <year>2015</year>;<volume>50</volume>(<issue>2</issue>):<fpage>177</fpage>–<lpage>85</lpage>.<pub-id pub-id-type="pmid">25545956</pub-id></mixed-citation>
+      </ref>
+      <ref id="B12">
+        <label>12.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Youm</surname><given-names>HW</given-names></name><name><surname>Lee</surname><given-names>JR</given-names></name><name><surname>Lee</surname><given-names>J</given-names></name><name><surname>Jee</surname><given-names>BC</given-names></name><name><surname>Suh</surname><given-names>CS</given-names></name><name><surname>Kim</surname><given-names>SH.</given-names></name></person-group>
+<article-title>Optimal vitrification protocol for mouse ovarian tissue cryopreservation: effect of cryoprotective agents and in vitro culture on vitrified-warmed ovarian tissue survival</article-title>. <source>Hum Reprod</source>. <year>2014</year>;<volume>29</volume>(<issue>4</issue>): <fpage>720</fpage>–<lpage>30</lpage>.<pub-id pub-id-type="pmid">24365801</pub-id></mixed-citation>
+      </ref>
+      <ref id="B13">
+        <label>13.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shams Mofarahe</surname><given-names>Z</given-names></name><name><surname>Ghaffari Novin</surname><given-names>M</given-names></name><name><surname>Jafarabadi</surname><given-names>M</given-names></name><name><surname>Salehnia</surname><given-names>M</given-names></name><name><surname>Noroozian</surname><given-names>M</given-names></name><name><surname>Ghorbanmehr</surname><given-names>N.</given-names></name></person-group>
+<article-title>Effect of Human Ovarian Tissue Vitrification/Warming on the Expression of Genes Related to Folliculogenesis</article-title>. <source>Iran Biomed J</source>. <year>2015</year>;<volume>19</volume>(<issue>4</issue>):<fpage>220</fpage>–<lpage>5</lpage>.<pub-id pub-id-type="pmid">26175108</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <label>14.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Isachenko</surname><given-names>V</given-names></name><name><surname>Lapidus</surname><given-names>I</given-names></name><name><surname>Isachenko</surname><given-names>E</given-names></name><name><surname>Krivokharchenko</surname><given-names>A</given-names></name><name><surname>Kreienberg</surname><given-names>R</given-names></name><name><surname>Woriedh</surname><given-names>M</given-names></name><etal/></person-group>
+<article-title>Human ovarian tissue vitrification versus conventional freezing: morphological, endocrinological, and molecular biological evaluation</article-title>. <source>Reproduction</source>. <year>2009</year>; <volume>138</volume>(<issue>2</issue>):<fpage>319</fpage>–<lpage>27</lpage>.<pub-id pub-id-type="pmid">19439559</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <label>15.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Abdollahi</surname><given-names>M</given-names></name><name><surname>Salehnia</surname><given-names>M</given-names></name><name><surname>Salehpour</surname><given-names>S</given-names></name><name><surname>Ghorbanmehr</surname><given-names>N.</given-names></name></person-group>
+<article-title>Human ovarian tissue vitrification/warming has minor effect on the expression of apoptosis-related genes</article-title>. <source>Iran Biomed J</source>. <year>2013</year>;<volume>17</volume>(<issue>4</issue>):<fpage>179</fpage>–<lpage>86</lpage>.<pub-id pub-id-type="pmid">23999713</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <label>16.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>X</given-names></name><name><surname>Catt</surname><given-names>S</given-names></name><name><surname>Pangestu</surname><given-names>M</given-names></name><name><surname>Temple-Smith</surname><given-names>P.</given-names></name></person-group>
+<article-title>Successful in vitro culture of pre-antral follicles derived from vitrified murine ovarian tissue: oocyte maturation, fertilization, and live births</article-title>. <source>Reproduction</source>. <year>2011</year>;<volume>141</volume>(<issue>2</issue>):<fpage>183</fpage>–<lpage>91</lpage>.<pub-id pub-id-type="pmid">21075829</pub-id></mixed-citation>
+      </ref>
+      <ref id="B17">
+        <label>17.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Khosravi</surname><given-names>F</given-names></name><name><surname>Reid</surname><given-names>RL</given-names></name><name><surname>Moini</surname><given-names>A</given-names></name><name><surname>Abolhassani</surname><given-names>F</given-names></name><name><surname>Valojerdi</surname><given-names>MR</given-names></name><name><surname>Kan</surname><given-names>FW.</given-names></name></person-group>
+<article-title>In vitro development of human primordial follicles to preantral stage after vitrification</article-title>. <source>J Assist Reprod Genet</source>. <year>2013</year>;<volume>30</volume>(<issue>11</issue>): <fpage>1397</fpage>–<lpage>406</lpage>.<pub-id pub-id-type="pmid">24254400</pub-id></mixed-citation>
+      </ref>
+      <ref id="B18">
+        <label>18.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liu</surname><given-names>J</given-names></name><name><surname>Van Der Elst</surname><given-names>J</given-names></name><name><surname>Van Den Broecke</surname><given-names>R</given-names></name><name><surname>Dumortier</surname><given-names>F</given-names></name><name><surname>Dhont</surname><given-names>M.</given-names></name></person-group>
+<article-title>Maturation of mouse primordial follicles by combination of grafting and in vitro culture</article-title>. <source>Biol Reprod</source>. <year>2000</year>;<volume>62</volume>(<issue>5</issue>):<fpage>1218</fpage>–<lpage>23</lpage>.<pub-id pub-id-type="pmid">10775169</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <label>19.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McGee</surname><given-names>EA</given-names></name><name><surname>Hsueh</surname><given-names>AJ.</given-names></name></person-group>
+<article-title>Initial and cyclic recruitment of ovarian follicles</article-title>. <source>Endocr Rev</source>. <year>2000</year>;<volume>21</volume>(<issue>2</issue>): <fpage>200</fpage>–<lpage>14</lpage>.<pub-id pub-id-type="pmid">10782364</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <label>20.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Edson</surname><given-names>MA</given-names></name><name><surname>Nagaraja</surname><given-names>AK</given-names></name><name><surname>Matzuk</surname><given-names>MM.</given-names></name></person-group>
+<article-title>The mammalian ovary from genesis to revelation</article-title>. <source>Endocr Rev</source>. <year>2009</year>;<volume>30</volume>(<issue>6</issue>):<fpage>624</fpage>–<lpage>712</lpage>.<pub-id pub-id-type="pmid">19776209</pub-id></mixed-citation>
+      </ref>
+      <ref id="B21">
+        <label>21.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Adhikari</surname><given-names>D</given-names></name><name><surname>Liu</surname><given-names>K.</given-names></name></person-group>
+<article-title>Molecular mechanisms underlying the activation of mammalian primordial follicles</article-title>. <source>Endocr Rev</source>. <year>2009</year>;<volume>30</volume>(<issue>5</issue>):<fpage>438</fpage>–<lpage>64</lpage>.<pub-id pub-id-type="pmid">19589950</pub-id></mixed-citation>
+      </ref>
+      <ref id="B22">
+        <label>22.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Johnson</surname><given-names>J</given-names></name><name><surname>Canning</surname><given-names>J</given-names></name><name><surname>Kaneko</surname><given-names>T</given-names></name><name><surname>Pru</surname><given-names>JK</given-names></name><name><surname>Tilly</surname><given-names>JL.</given-names></name></person-group>
+<article-title>Germline stem cells and follicular renewal in the postnatal mammalian ovary</article-title>. <source>Nature</source>. <year>2004</year>;<volume>428</volume> (<issue>6979</issue>):<fpage>145</fpage>–<lpage>50</lpage>.<pub-id pub-id-type="pmid">15014492</pub-id></mixed-citation>
+      </ref>
+      <ref id="B23">
+        <label>23.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lin</surname><given-names>RS</given-names></name><name><surname>Jimenez-Movilla</surname><given-names>M</given-names></name><name><surname>Dean</surname><given-names>J.</given-names></name></person-group>
+<article-title>Figla-Cre transgenic mice expressing myristoylated EGFP in germ cells provide a model for investigating perinatal oocyte dynamics</article-title>. <source>PLoS One</source>. <year>2014</year>;<volume>9</volume>(<issue>1</issue>): <fpage>e84477</fpage>.<pub-id pub-id-type="pmid">24400092</pub-id></mixed-citation>
+      </ref>
+      <ref id="B24">
+        <label>24.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McNatty</surname><given-names>KP</given-names></name><name><surname>Juengel</surname><given-names>JL</given-names></name><name><surname>Reader</surname><given-names>KL</given-names></name><name><surname>Lun</surname><given-names>S</given-names></name><name><surname>Myllymaa</surname><given-names>S</given-names></name><name><surname>Lawrence</surname><given-names>SB</given-names></name><etal/></person-group>
+<article-title>Bone morphogenetic protein 15 and growth differentiation factor 9 co-operate to regulate granulosa cell function</article-title>. <source>Reproduction</source>. <year>2005</year>;<volume>129</volume>(<issue>4</issue>):<fpage>473</fpage>–<lpage>80</lpage>.<pub-id pub-id-type="pmid">15798022</pub-id></mixed-citation>
+      </ref>
+      <ref id="B25">
+        <label>25.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Oron</surname><given-names>G</given-names></name><name><surname>Fisch</surname><given-names>B</given-names></name><name><surname>Ao</surname><given-names>A</given-names></name><name><surname>Zhang</surname><given-names>XY</given-names></name><name><surname>Farhi</surname><given-names>J</given-names></name><name><surname>Ben-Haroush</surname><given-names>A</given-names></name><etal/></person-group>
+<article-title>Expression of growth-differentiating factor 9 and its type 1 receptor in human ovaries</article-title>. <source>Reprod Biomed Online</source>. <year>2010</year>;<volume>21</volume>(<issue>1</issue>):<fpage>109</fpage>–<lpage>17</lpage>.<pub-id pub-id-type="pmid">20427239</pub-id></mixed-citation>
+      </ref>
+      <ref id="B26">
+        <label>26.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Carlsson</surname><given-names>IB</given-names></name><name><surname>Laitinen</surname><given-names>MP</given-names></name><name><surname>Scott</surname><given-names>JE</given-names></name><name><surname>Louhio</surname><given-names>H</given-names></name><name><surname>Velentzis</surname><given-names>L</given-names></name><name><surname>Tuuri</surname><given-names>T</given-names></name><etal/></person-group>
+<article-title>Kit ligand and c-Kit are expressed during early human ovarian follicular development and their interaction is required for the survival of follicles in long-term culture</article-title>. <source>Reproduction</source>. <year>2006</year>;<volume>131</volume>(<issue>4</issue>):<fpage>641</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="pmid">16595715</pub-id></mixed-citation>
+      </ref>
+      <ref id="B27">
+        <label>27.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tuck</surname><given-names>AR</given-names></name><name><surname>Robker</surname><given-names>RL</given-names></name><name><surname>Norman</surname><given-names>RJ</given-names></name><name><surname>Tilley</surname><given-names>WD</given-names></name><name><surname>Hickey</surname><given-names>TE.</given-names></name></person-group>
+<article-title>Expression and localisation of c-kit and KITL in the adult human ovary</article-title>. <source>J Ovarian Res</source>. <year>2015</year>;<volume>8</volume>:<fpage>31</fpage>.<pub-id pub-id-type="pmid">26008799</pub-id></mixed-citation>
+      </ref>
+      <ref id="B28">
+        <label>28.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Anjali</surname><given-names>G</given-names></name><name><surname>Kaur</surname><given-names>S</given-names></name><name><surname>Lakra</surname><given-names>R</given-names></name><name><surname>Taneja</surname><given-names>J</given-names></name><name><surname>Kalsey</surname><given-names>GS</given-names></name><name><surname>Nagendra</surname><given-names>A</given-names></name><etal/></person-group>
+<article-title>FSH stimulates IRS-2 expression in human granulosa cells through cAMP/SP1, an inoperative FSH action in PCOS patients</article-title>. <source>Cell Signal</source>. <year>2015</year>;<volume>27</volume>(<issue>12</issue>):<fpage>2452</fpage>–<lpage>66</lpage>.<pub-id pub-id-type="pmid">26388164</pub-id></mixed-citation>
+      </ref>
+      <ref id="B29">
+        <label>29.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Oktay</surname><given-names>K</given-names></name><name><surname>Briggs</surname><given-names>D</given-names></name><name><surname>Gosden</surname><given-names>RG.</given-names></name></person-group>
+<article-title>Ontogeny of follicle-stimulating hormone receptor gene expression in isolated human ovarian follicles</article-title>. <source>J Clin Endocrinol Metab</source>. <year>1997</year>;<volume>82</volume>(<issue>11</issue>):<fpage>3748</fpage>–<lpage>51</lpage>.<pub-id pub-id-type="pmid">9360535</pub-id></mixed-citation>
+      </ref>
+      <ref id="B30">
+        <label>30.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>TR</given-names></name><name><surname>Yan</surname><given-names>J</given-names></name><name><surname>Lu</surname><given-names>CL</given-names></name><name><surname>Xia</surname><given-names>X</given-names></name><name><surname>Yin</surname><given-names>TL</given-names></name><name><surname>Zhi</surname><given-names>X</given-names></name><etal/></person-group>
+<article-title>Human single follicle growth in vitro from cryopreserved ovarian tissue after slow freezing or vitrification</article-title>. <source>Hum Reprod</source>. <year>2016</year>;<volume>31</volume>(<issue>4</issue>):<fpage>763</fpage>–<lpage>73</lpage>.<pub-id pub-id-type="pmid">26851603</pub-id></mixed-citation>
+      </ref>
+      <ref id="B31">
+        <label>31.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Salehnia</surname><given-names>M</given-names></name><name><surname>Abbasian Moghadam</surname><given-names>E</given-names></name><name><surname>Rezazadeh Velojerdi</surname><given-names>M.</given-names></name></person-group>
+<article-title>Ultrastructure of follicles after vitrification of mouse ovarian tissue</article-title>. <source>Fertil Steril</source>. <year>2002</year>; <volume>78</volume>(<issue>3</issue>):<fpage>644</fpage>–<lpage>5</lpage>.<pub-id pub-id-type="pmid">12215351</pub-id></mixed-citation>
+      </ref>
+      <ref id="B32">
+        <label>32.</label>
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Drury</surname><given-names>RAB</given-names></name><name><surname>Wallington</surname><given-names>EA.</given-names></name></person-group>
+<source>Carleton’s histological technique</source>. <edition>5th ed.</edition>
+<publisher-loc>UK</publisher-loc>: <publisher-name>Oxford University Press</publisher-name>; <year>1980</year> p. <fpage>183</fpage>–<lpage>5</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B33">
+        <label>33.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gougeon</surname><given-names>A.</given-names></name></person-group>
+<article-title>Regulation of ovarian follicular development in primates: facts and hypotheses</article-title>. <source>Endocr Rev</source>. <year>1996</year>;<volume>17</volume>(<issue>2</issue>):<fpage>121</fpage>–<lpage>55</lpage>.<pub-id pub-id-type="pmid">8706629</pub-id></mixed-citation>
+      </ref>
+      <ref id="B34">
+        <label>34.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pfaffl</surname><given-names>MW.</given-names></name></person-group>
+<article-title>A new mathematical model for relative quantification in real-time RT-PCR</article-title>. <source>Nucleic Acids Res</source>. <year>2001</year>;<volume>29</volume>(<issue>9</issue>):<fpage>e45</fpage>.<pub-id pub-id-type="pmid">11328886</pub-id></mixed-citation>
+      </ref>
+      <ref id="B35">
+        <label>35.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sheikhi</surname><given-names>M</given-names></name><name><surname>Hultenby</surname><given-names>K</given-names></name><name><surname>Niklasson</surname><given-names>B</given-names></name><name><surname>Lundqvist</surname><given-names>M</given-names></name><name><surname>Hovatta</surname><given-names>O.</given-names></name></person-group>
+<article-title>Preservation of human ovarian follicles within tissue frozen by vitrification in a xeno-free closed system using only ethylene glycol as a permeating cryoprotectant</article-title>. <source>Fertil Steril</source>. <year>2013</year>; <volume>100</volume>(<issue>1</issue>):<fpage>170</fpage>–<lpage>7</lpage>.<pub-id pub-id-type="pmid">23566598</pub-id></mixed-citation>
+      </ref>
+      <ref id="B36">
+        <label>36.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zeng</surname><given-names>YC</given-names></name><name><surname>Tang</surname><given-names>HR</given-names></name><name><surname>Zeng</surname><given-names>LP</given-names></name><name><surname>Chen</surname><given-names>Y</given-names></name><name><surname>Wang</surname><given-names>GP</given-names></name><name><surname>Wu</surname><given-names>RF.</given-names></name></person-group>
+<article-title>Assessment of the effect of different vitrification solutions on human ovarian tissue after short-term xenotransplantation onto the chick embryo chorioallantoic membrane</article-title>. <source>Mol Reprod Dev</source>. <year>2016</year>;<volume>83</volume>(<issue>4</issue>):<fpage>359</fpage>–<lpage>69</lpage>.<pub-id pub-id-type="pmid">26924442</pub-id></mixed-citation>
+      </ref>
+      <ref id="B37">
+        <label>37.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sanfilippo</surname><given-names>S</given-names></name><name><surname>Canis</surname><given-names>M</given-names></name><name><surname>Smitz</surname><given-names>J</given-names></name><name><surname>Sion</surname><given-names>B</given-names></name><name><surname>Darcha</surname><given-names>C</given-names></name><name><surname>Janny</surname><given-names>L</given-names></name><etal/></person-group>
+<article-title>Vitrification of human ovarian tissue: a practical and relevant alternative to slow freezing</article-title>. <source>Reprod Biol Endocrinol</source>. <year>2015</year>;<volume>13</volume>:<fpage>67</fpage>.<pub-id pub-id-type="pmid">26109179</pub-id></mixed-citation>
+      </ref>
+      <ref id="B38">
+        <label>38.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tian</surname><given-names>T</given-names></name><name><surname>Zhao</surname><given-names>G</given-names></name><name><surname>Han</surname><given-names>D</given-names></name><name><surname>Zhu</surname><given-names>K</given-names></name><name><surname>Chen</surname><given-names>D</given-names></name><name><surname>Zhang</surname><given-names>Z</given-names></name><etal/></person-group>
+<article-title>Effects of vitrification cryopreservation on follicular morphology and stress relaxation behaviors of human ovarian tissues: sucrose versus trehalose as the non-permeable protective agent</article-title>. <source>Hum Reprod</source>. <year>2015</year>;<volume>30</volume>(<issue>4</issue>):<fpage>877</fpage>–<lpage>83</lpage>.<pub-id pub-id-type="pmid">25662812</pub-id></mixed-citation>
+      </ref>
+      <ref id="B39">
+        <label>39.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fabbri</surname><given-names>R</given-names></name><name><surname>Vicenti</surname><given-names>R</given-names></name><name><surname>Macciocca</surname><given-names>M</given-names></name><name><surname>Pasquinelli</surname><given-names>G</given-names></name><name><surname>Paradisi</surname><given-names>R</given-names></name><name><surname>Battaglia</surname><given-names>C</given-names></name><etal/></person-group>
+<article-title>Good preservation of stromal cells and no apoptosis in human ovarian tissue after vitrification</article-title>. <source>Biomed Res Int</source>. <year>2014</year>; <volume>2014</volume>:<fpage>673537</fpage>.<pub-id pub-id-type="pmid">24804230</pub-id></mixed-citation>
+      </ref>
+      <ref id="B40">
+        <label>40.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Orisaka</surname><given-names>M</given-names></name><name><surname>Tajima</surname><given-names>K</given-names></name><name><surname>Tsang</surname><given-names>BK</given-names></name><name><surname>Kotsuji</surname><given-names>F.</given-names></name></person-group>
+<article-title>Oocyte-granulosa-theca cell interactions during preantral follicular development</article-title>. <source>J Ovarian Res</source>. <year>2009</year>; <volume>2</volume>(<issue>1</issue>):<fpage>9</fpage>.<pub-id pub-id-type="pmid">19589134</pub-id></mixed-citation>
+      </ref>
+      <ref id="B41">
+        <label>41.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Isachenko</surname><given-names>V</given-names></name><name><surname>Montag</surname><given-names>M</given-names></name><name><surname>Isachenko</surname><given-names>E</given-names></name><name><surname>van der Ven</surname><given-names>K</given-names></name><name><surname>Dorn</surname><given-names>C</given-names></name><name><surname>Roesing</surname><given-names>B</given-names></name><etal/></person-group>
+<article-title>Effective method for in-vitro culture of cryopreserved human ovarian tissue</article-title>. <source>Reprod Biomed Online</source>. <year>2006</year>;<volume>13</volume>(<issue>2</issue>):<fpage>228</fpage>–<lpage>34</lpage>.<pub-id pub-id-type="pmid">16895638</pub-id></mixed-citation>
+      </ref>
+      <ref id="B42">
+        <label>42.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Telfer</surname><given-names>EE</given-names></name><name><surname>McLaughlin</surname><given-names>M</given-names></name><name><surname>Ding</surname><given-names>C</given-names></name><name><surname>Thong</surname><given-names>KJ.</given-names></name></person-group>
+<article-title>A two-step serum-free culture system supports development of human oocytes from primordial follicles in the presence of activin</article-title>. <source>Hum Reprod</source>. <year>2008</year>;<volume>23</volume> (<issue>5</issue>):<fpage>1151</fpage>–<lpage>8</lpage>.<pub-id pub-id-type="pmid">18326514</pub-id></mixed-citation>
+      </ref>
+      <ref id="B43">
+        <label>43.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hovatta</surname><given-names>O</given-names></name><name><surname>Wright</surname><given-names>C</given-names></name><name><surname>Krausz</surname><given-names>T</given-names></name><name><surname>Hardy</surname><given-names>K</given-names></name><name><surname>Winston</surname><given-names>RM.</given-names></name></person-group>
+<article-title>Human primordial, primary and secondary ovarian follicles in long-term culture: effect of partial isolation</article-title>. <source>Hum Reprod</source>. <year>1999</year>;<volume>14</volume>(<issue>10</issue>):<fpage>2519</fpage>–<lpage>24</lpage>.<pub-id pub-id-type="pmid">10527981</pub-id></mixed-citation>
+      </ref>
+      <ref id="B44">
+        <label>44.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hovatta</surname><given-names>O.</given-names></name></person-group>
+<article-title>Cryopreservation and culture of human primordial and primary ovarian follicles</article-title>. <source>Mol Cell Endocrinol</source>. <year>2000</year>;<volume>169</volume>(<issue>1–2</issue>):<fpage>95</fpage>–<lpage>7</lpage>.<pub-id pub-id-type="pmid">11155962</pub-id></mixed-citation>
+      </ref>
+      <ref id="B45">
+        <label>45.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McLaughlin</surname><given-names>M</given-names></name><name><surname>Kinnell</surname><given-names>HL</given-names></name><name><surname>Anderson</surname><given-names>RA</given-names></name><name><surname>Telfer</surname><given-names>EE.</given-names></name></person-group>
+<article-title>Inhibition of phosphatase and tensin homologue (PTEN) in human ovary in vitro results in increased activation of primordial follicles but compromises development of growing follicles</article-title>. <source>Mol Hum Reprod</source>. <year>2014</year>;<volume>20</volume>(<issue>8</issue>):<fpage>736</fpage>–<lpage>44</lpage>.<pub-id pub-id-type="pmid">24830779</pub-id></mixed-citation>
+      </ref>
+      <ref id="B46">
+        <label>46.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Morohaku</surname><given-names>K</given-names></name><name><surname>Hoshino</surname><given-names>Y</given-names></name><name><surname>Sasada</surname><given-names>H</given-names></name><name><surname>Sato</surname><given-names>E.</given-names></name></person-group>
+<article-title>Incorporation of phosphatase inhibitor in culture prompts growth initiation of isolated non-growing oocytes</article-title>. <source>PLoS One</source>. <year>2013</year>;<volume>8</volume>(<issue>11</issue>):<fpage>e77533</fpage>.<pub-id pub-id-type="pmid">24223714</pub-id></mixed-citation>
+      </ref>
+      <ref id="B47">
+        <label>47.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Smitz</surname><given-names>JE</given-names></name><name><surname>Cortvrindt</surname><given-names>RG.</given-names></name></person-group>
+<article-title>The earliest stages of folliculogenesis in vitro</article-title>. <source>Reproduction</source>. <year>2002</year>;<volume>123</volume> (<issue>2</issue>):<fpage>185</fpage>–<lpage>202</lpage>.<pub-id pub-id-type="pmid">11866686</pub-id></mixed-citation>
+      </ref>
+      <ref id="B48">
+        <label>48.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>J</given-names></name><name><surname>Kawamura</surname><given-names>K</given-names></name><name><surname>Cheng</surname><given-names>Y</given-names></name><name><surname>Liu</surname><given-names>S</given-names></name><name><surname>Klein</surname><given-names>C</given-names></name><name><surname>Liu</surname><given-names>S</given-names></name><etal/></person-group>
+<article-title>Activation of dormant ovarian follicles to generate mature eggs</article-title>. <source>Proc Natl Acad Sci USA</source>. <year>2010</year>;<volume>107</volume>(<issue>22</issue>):<fpage>10280</fpage>–<lpage>4</lpage>.<pub-id pub-id-type="pmid">20479243</pub-id></mixed-citation>
+      </ref>
+      <ref id="B49">
+        <label>49.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schmidt</surname><given-names>KL</given-names></name><name><surname>Byskov</surname><given-names>AG</given-names></name><name><surname>Nyboe Andersen</surname><given-names>A</given-names></name><name><surname>Müller</surname><given-names>J</given-names></name><name><surname>Yding Andersen</surname><given-names>C.</given-names></name></person-group>
+<article-title>Density and distribution of primordial follicles in single pieces of cortex from 21 patients and in individual pieces of cortex from three entire human ovaries</article-title>. <source>Hum Reprod</source>. <year>2003</year>;<volume>18</volume>(<issue>6</issue>):<fpage>1158</fpage>–<lpage>64</lpage>.<pub-id pub-id-type="pmid">12773440</pub-id></mixed-citation>
+      </ref>
+      <ref id="B50">
+        <label>50.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Carlsson</surname><given-names>IB</given-names></name><name><surname>Scott</surname><given-names>JE</given-names></name><name><surname>Visser</surname><given-names>JA</given-names></name><name><surname>Ritvos</surname><given-names>O</given-names></name><name><surname>Themmen</surname><given-names>AP</given-names></name><name><surname>Hovatta</surname><given-names>O.</given-names></name></person-group>
+<article-title>Anti-Müllerian hormone in hibits initiation of growth of human primordial ovarian follicles in vitro</article-title>. <source>Hum Reprod</source>. <year>2006</year>;<volume>21</volume>(<issue>9</issue>): <fpage>2223</fpage>–<lpage>7</lpage>.<pub-id pub-id-type="pmid">16720622</pub-id></mixed-citation>
+      </ref>
+      <ref id="B51">
+        <label>51.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>La Marca</surname><given-names>A</given-names></name><name><surname>Broekmans</surname><given-names>FJ</given-names></name><name><surname>Volpe</surname><given-names>A</given-names></name><name><surname>Fauser</surname><given-names>BC</given-names></name><name><surname>Macklon</surname><given-names>NS.</given-names></name></person-group>
+<article-title>Anti-Mullerian hormone (AMH): what do we still need to know?</article-title>
+<source>Hum Reprod</source>. <year>2009</year>;<volume>24</volume>(<issue>9</issue>):<fpage>2264</fpage>–<lpage>75</lpage>.<pub-id pub-id-type="pmid">19520713</pub-id></mixed-citation>
+      </ref>
+      <ref id="B52">
+        <label>52.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>van Disseldorp</surname><given-names>J</given-names></name><name><surname>Lambalk</surname><given-names>CB</given-names></name><name><surname>Kwee</surname><given-names>J</given-names></name><name><surname>Looman</surname><given-names>CW</given-names></name><name><surname>Eijkemans</surname><given-names>MJ</given-names></name><name><surname>Fauser</surname><given-names>BC</given-names></name><etal/></person-group>
+<article-title>Comparison of inter- and intra-cycle variability of anti-Mullerian hormone and antral follicle counts</article-title>. <source>Hum Reprod</source>. <year>2010</year>;<volume>25</volume>(<issue>1</issue>):<fpage>221</fpage>–<lpage>7</lpage>.<pub-id pub-id-type="pmid">19840990</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record>

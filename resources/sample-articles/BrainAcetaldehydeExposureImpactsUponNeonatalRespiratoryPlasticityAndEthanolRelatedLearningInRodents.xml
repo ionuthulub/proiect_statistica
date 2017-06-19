@@ -1,0 +1,769 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5359529</identifier><datestamp>2017-04-04</datestamp><setSpec>frontbehavneuro</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Behav Neurosci</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Behav Neurosci</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Behav. Neurosci.</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Behavioral Neuroscience</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1662-5153</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5359529</article-id>
+      <article-id pub-id-type="pmcid">PMC5359529</article-id>
+      <article-id pub-id-type="pmc-uid">5359529</article-id>
+      <article-id pub-id-type="doi">10.3389/fnbeh.2017.00039</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Neuroscience</subject>
+          <subj-group>
+            <subject>Original Research</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Brain Acetaldehyde Exposure Impacts upon Neonatal Respiratory Plasticity and Ethanol-Related Learning in Rodents</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Acevedo</surname>
+            <given-names>María B.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn001">
+            <sup>*</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/377149/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>D'Aloisio</surname>
+            <given-names>Génesis</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/401303/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Haymal</surname>
+            <given-names>Olga B.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/401310/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Molina</surname>
+            <given-names>Juan C.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn002">
+            <sup>*</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/400617/overview"/>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <sup>1</sup>
+        <institution>Laboratorio de Alcohol, Ontogenia y Aprendizaje, Instituto de Investigación Médica Mercedes y Martín Ferreyra, Consejo Nacional de Investigaciones Científicas y Técnicas (INIMEC-CONICET), Universidad Nacional de Córdoba</institution>
+        <country>Córdoba, Argentina</country>
+      </aff>
+      <aff id="aff2">
+        <sup>2</sup>
+        <institution>Experimental Psychobiology Chair, Department of Psychology, Universidad Nacional de Córdoba</institution>
+        <country>Córdoba, Argentina</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <p>Edited by: Merce Correa, Jaume I University, Spain</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Reviewed by: M. Yanina Pepino, Washington University School of Medicine, USA; Inmaculada Cubero, University of Almería, Spain</p>
+        </fn>
+        <corresp id="fn001">*Correspondence: María B. Acevedo <email xlink:type="simple">sallycabooh@gmail.com</email></corresp>
+        <corresp id="fn002">Juan C. Molina <email xlink:type="simple">juancmolina2003@hotmail.com.ar</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>3</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2017</year>
+      </pub-date>
+      <volume>11</volume>
+      <elocation-id>39</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>28</day>
+          <month>12</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>23</day>
+          <month>2</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2017 Acevedo, D'Aloisio, Haymal and Molina.</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <copyright-holder>Acevedo, D'Aloisio, Haymal and Molina</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Prior studies indicate that neonates are very sensitive to ethanol's positive reinforcing effects and to its depressant effects upon breathing. Acetaldehyde (ACD) appears to play a major role in terms of modulating early reinforcing effects of the drug. Yet, there is no pre-existing literature relative to the incidence of this metabolite upon respiratory plasticity. The present study analyzed physiological and behavioral effects of early central administrations of ethanol, acetaldehyde or vehicle. Respiration rates (breaths/min) were registered at post-natal days (PDs) 2 and 4 (post-administration time: 5, 60, or 120 min). At PD5, all pups were placed in a context (plethysmograph) where they had previously experienced the effects of central administrations and breathing patterns were recorded. Following this test, pups were evaluated using and operant conditioning procedure where ethanol or saccharin served as positive reinforcers. Body temperatures were also registered prior to drug administrations as well as at the beginning and the end of each specific evaluation. Across days, breathing responses were high at the beginning of the evaluation session and progressively declined as a function of the passage of time. At PDs 2 and 4, shortly after central administration (5 min), ACD exerted a significant depression upon respiration frequencies. At PD5, non-intoxicated pups with a prior history of ACD central administrations, exhibited a marked increase in respiratory frequencies; a result that probably indicates a conditioned compensatory response. When operant testing procedures were conducted, prior ethanol or ACD central administrations were found to reduce the reinforcing effects of ethanol. This was not the case when saccharin was employed as a reinforcer. As a whole, the results indicate a significant role of central ACD upon respiratory plasticity of the neonate and upon ethanol's reinforcing effects; phenomena that affect the physiological integrity of the immature organism and its subsequent affinity for ethanol operationalized through self-administration procedures.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>neonates</kwd>
+        <kwd>ethanol</kwd>
+        <kwd>acetaldehyde</kwd>
+        <kwd>breathing</kwd>
+        <kwd>operant learning</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source id="cn001">Consejo Nacional de Investigaciones Científicas y Técnicas<named-content content-type="fundref-id">10.13039/501100002923</named-content></funding-source>
+          <award-id rid="cn001">PIP 11220110100763</award-id>
+        </award-group>
+        <award-group>
+          <funding-source id="cn002">Agencia Nacional de Promoción Científica y Tecnológica<named-content content-type="fundref-id">10.13039/501100003074</named-content></funding-source>
+          <award-id rid="cn002">PICT 2011-0999</award-id>
+          <award-id rid="cn002">PICT 2014-1606</award-id>
+        </award-group>
+      </funding-group>
+      <counts>
+        <fig-count count="4"/>
+        <table-count count="1"/>
+        <equation-count count="0"/>
+        <ref-count count="80"/>
+        <page-count count="12"/>
+        <word-count count="10341"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="s1">
+      <title>Introduction</title>
+      <p>Low doses of ethanol (0.11 g/kg/h), combined or not with a tocolytic agent (ritodrine), have been employed to reduce the incidence of human preterm births. Under these clinical conditions, in approximately 80% of the patients, uterine contractions were suppressed and a significant number of preterm births were prevented (Schrock et al., <xref rid="B70" ref-type="bibr">1989</xref>). According to this study no adverse effects of ethanol were observed. Yet, the obstetric use of ethanol, depending upon factors such as dose, frequency of exposure and fetal stage of development has been questioned due to a variety of disruptive physiological effects of the drug upon the fetus. Hypothermia, acidosis, hypercapnia, bradycardia, hypoglycemia, apneas and hypoxia are likely to occur in the developing organism exposed to ethanol (Abel, <xref rid="B4" ref-type="bibr">1981</xref>; Duxbury, <xref rid="B31" ref-type="bibr">2001</xref>; Abate et al., <xref rid="B1" ref-type="bibr">2004</xref>). When considering the central nervous system, there are also numerous studies confirming disruptions caused by relatively infrequent and small doses of the drug upon a variety of parameters. Rat fetuses exposed to low ethanol doses (blood ethanol concentration ≤ 30 mg%) show impairments in spatial learning accompanied by alterations in hippocampal glutamate-dependent synaptic neurotransmission (Savage et al., <xref rid="B69" ref-type="bibr">2002</xref>). In rhesus monkeys, moderate maternal ethanol consumption (0.6 g/kg ethanol daily) during midgestation to late gestation, induces heightened dopaminergic function (Wise, <xref rid="B76" ref-type="bibr">2002</xref>). During a stage in the development of the mouse characterized by a brain growth spurt, similar to the one observed during the third gestational trimester in humans (Dobbing and Sands, <xref rid="B24" ref-type="bibr">1973</xref>, <xref rid="B25" ref-type="bibr">1979</xref>), a single ethanol dose (0.63 g/kg) yielding relatively low peak blood ethanol levels (57 mg%) is sufficient to trigger a significant neuroapoptosis response (Young and Olney, <xref rid="B79" ref-type="bibr">2006</xref>).</p>
+      <p>Preclinical and clinical studies have indicated that relatively low ethanol doses during pregnancy are sufficient to trigger fetal sensory and learning capabilities with an impact upon later patterns of chemosensory recognition of the drug, ethanol odor and taste preference (Faas et al., <xref rid="B34" ref-type="bibr">2000</xref>, <xref rid="B33" ref-type="bibr">2015</xref>; Abate et al., <xref rid="B2" ref-type="bibr">2008</xref>) and sensitivity to the drug's positive reinforcing effects (Nizhnikov et al., <xref rid="B59" ref-type="bibr">2006</xref>). Fetal experience with ethanol generates conditioned responses derived from the association between the drug's odor and taste and its motivational properties (Abate et al., <xref rid="B3" ref-type="bibr">2001</xref>; Spear and Molina, <xref rid="B71" ref-type="bibr">2005</xref>; Molina et al., <xref rid="B55" ref-type="bibr">2007</xref>; Cullere et al., <xref rid="B21" ref-type="bibr">2015</xref>). These phenomena predispose the organism to heightened seeking and intake patterns of the drug during infancy and adolescence (Dominguez et al., <xref rid="B27" ref-type="bibr">1998</xref>; Foltran et al., <xref rid="B36" ref-type="bibr">2011</xref>; Fabio et al., <xref rid="B35" ref-type="bibr">2013</xref>; Acevedo et al., <xref rid="B5" ref-type="bibr">2017</xref>). Epidemiological studies have validated the significant association existing between fetal ethanol exposure and subsequent predisposition to seek and consume the drug (Baer et al., <xref rid="B10" ref-type="bibr">1998</xref>, <xref rid="B11" ref-type="bibr">2003</xref>; Griesler and Kandel, <xref rid="B38" ref-type="bibr">1998</xref>; Yates et al., <xref rid="B78" ref-type="bibr">1998</xref>; Alati et al., <xref rid="B6" ref-type="bibr">2006</xref>).</p>
+      <p>Acetaldehyde (ACD), ethanol's principal metabolite, mainly and rapidly forms in the perinatal brain via the oxidative process of the catalase system. The activity of this enzymatic system is significantly higher during early ontogeny relative to adolescence and adulthood (Del Maestro and McDonald, <xref rid="B22" ref-type="bibr">1987</xref>; Gill et al., <xref rid="B37" ref-type="bibr">1992</xref>; Hamby-Mason et al., <xref rid="B41" ref-type="bibr">1997</xref>). When considering ethanol's reinforcing effects, ACD formation in the brain plays a critical role (Wall et al., <xref rid="B74" ref-type="bibr">1992</xref>; Hahn et al., <xref rid="B39" ref-type="bibr">2006</xref>). In newborn rats, intracisternal administration of relatively low doses of ethanol (100 mg%) or of ACD (0.35 μmol) promote appetitive conditioning (Nizhnikov et al., <xref rid="B58" ref-type="bibr">2007</xref>; March et al., <xref rid="B47" ref-type="bibr">2013a</xref>,<xref rid="B49" ref-type="bibr">b</xref>). Furthermore, when considering either peripheral or central administration of ethanol, the establishment of early appetitive memories are blocked when sequestering brain ACD via the use of d-penicilamine (Pautassi et al., <xref rid="B61" ref-type="bibr">2011</xref>; March et al., <xref rid="B47" ref-type="bibr">2013a</xref>,<xref rid="B49" ref-type="bibr">b</xref>) or when inhibiting the catalase system through sodium azide (Nizhnikov et al., <xref rid="B58" ref-type="bibr">2007</xref>).</p>
+      <p>Ethanol consumption during pregnancy has also been found to endanger the wellbeing of the fetus and the neonate due to its detrimental effects upon the respiratory system and its plasticity; a phenomenon that has stimulated research efforts based on the fact that fetal alcohol exposure is a risk factor for Sudden Infant Death Syndrome (Burd et al., <xref rid="B15" ref-type="bibr">2004</xref>; O'Leary et al., <xref rid="B60" ref-type="bibr">2013</xref>). In human and ewes, the depressant effects of the drug upon fetal breathing movements (FBMs) have been well documented (Vojcek et al., <xref rid="B73" ref-type="bibr">1988</xref>; Brien and Smith, <xref rid="B13" ref-type="bibr">1991</xref>) and there is evidence that maternal human consumption of only two glasses of wine during late gestation significantly suppresses fetal breathing activity (Brien and Smith, <xref rid="B13" ref-type="bibr">1991</xref>; Dillner et al., <xref rid="B23" ref-type="bibr">1996</xref>). In rats, chronic ethanol exposure during pregnancy, reduces brainstem-dependent respiratory rhythmic activity in the progeny and sensitizes juveniles to the depressant effects of acute ethanol upon phrenic and hypoglossal nerve activity (Dubois et al., <xref rid="B29" ref-type="bibr">2006</xref>). Analogous effects in rats have been recently reported utilizing moderate levels of ethanol exposure during the last days of pregnancy or during the first days of post-natal life (Cullere et al., <xref rid="B21" ref-type="bibr">2015</xref>; Macchione et al., <xref rid="B46" ref-type="bibr">2016</xref>; Acevedo et al., <xref rid="B5" ref-type="bibr">2017</xref>). These stages in development, in terms of brain developmental patterns, are equivalent to the 2nd and 3rd human gestational trimester; respectively (Dobbing and Sands, <xref rid="B24" ref-type="bibr">1973</xref>, <xref rid="B25" ref-type="bibr">1979</xref>). Indeed, we have reported that maternal intragastric (i.g.) administration of ethanol (2.0 g/kg) during gestational days (GDs) 17–20 is sufficient to sensitize the progeny to the drug's depressant effects upon respiratory rates and exacerbate the presence of apneic episodes; disruptions that occur without affecting different pulmonary morphometric parameters (Cullere et al., <xref rid="B21" ref-type="bibr">2015</xref>). This sensitization process has also been observed when neonates [post-natal days (PDs) 3, 5, and 7] were peripherically administered with ethanol (i.g.: 2.0 g/kg). Furthermore, in both studies, it was observed that the explicit association between ethanol's sensory attributes and the depressant consequences of the drug resulted in conditioned isodirectional breathing responses (Macchione et al., <xref rid="B46" ref-type="bibr">2016</xref>).</p>
+      <p>After systematically reviewing the pre-existing literature concerning ethanol's central effects upon breathing patterns of the perinate, we were unable to find specific literature related with possible contributions of ACD. Despite this observation, it should be noted that respiratory plasticity is linked with thermoregulatory disruptions. Indeed, prenatal or neonatal hypothermia can cause respiratory arrests (Duxbury, <xref rid="B31" ref-type="bibr">2001</xref>). Among the multiple physiological consequences of ACD is the modulation of the thermoregulatory system. In mice, peripheral administration of ACD causes hypothermia (Closon et al., <xref rid="B17" ref-type="bibr">2009</xref>). Nevertheless, there is certain degree of contradiction relative to the prior statement. It has been observed that in rats the inhibition of the central catalase system following ethanol administration seems not to play a significant role in the induction of hypothermia (Aragon et al., <xref rid="B7" ref-type="bibr">1991</xref>).</p>
+      <p>The first goal of the present study was based on the preceding observations: (i) the absence of specific literature related with the central role of ethanol or its first metabolite (ACD) in terms of disruptive effects upon early respiratory plasticity and (ii) a possible association existing between ethanol and/or ACD central effects leading to thermoregulatory alterations that may impact upon breathing responsiveness. To address these phenomena in perinatal rats, it was decided to employ similar central ethanol (100 mg%) and ACD (0.35 μmol) doses that have been observed to exert analogous motivational effects (Nizhnikov et al., <xref rid="B58" ref-type="bibr">2007</xref>; March et al., <xref rid="B47" ref-type="bibr">2013a</xref>,<xref rid="B49" ref-type="bibr">b</xref>). A second goal was to further analyze if central pre-exposure to the drug or its metabolite modulate subsequent seeking behavior of ethanol as a reinforcer in an operant task specifically developed for perinatal or infant rats (Arias et al., <xref rid="B8" ref-type="bibr">2007</xref>; Bordner et al., <xref rid="B12" ref-type="bibr">2008</xref>; March et al., <xref rid="B48" ref-type="bibr">2009</xref>; Miranda-Morales et al., <xref rid="B52" ref-type="bibr">2014</xref>). These goals were sequentially examined. As a first step, during PDs 2 and 4, pups were intracisternally administered with either ethanol, ACD or a phosphate buffer as a control solution and respiration rates were recorded at different post-administration times. At PD5, all pups were re-exposed to the respiratory testing chamber without receiving any specific drug. This particular strategy obeys to the fact that prior experiments have indicated that early respiratory plasticity is also dependent upon exteroceptive ambient cues originally associated with breathing pattern changes. Following this testing procedure, pups were evaluated in terms of operant responding regulated by either an ethanol solution or a sweet reinforcer (saccharin). The inclusion of this last reinforcer obeyed to the need to control for unspecific learning alterations derived from the preceding central drug administration experiences. Body temperatures, before and after each specific drug treatment or evaluation procedure, were recorded.</p>
+    </sec>
+    <sec sec-type="materials and methods" id="s2">
+      <title>Materials and methods</title>
+      <sec>
+        <title>Subjects</title>
+        <p>A total of 146 Wistar neonate rats, representative of 17 litters, were employed. Rats were born and reared at the vivarium of the Instituto de Investigación Médica Mercedes y Martin Ferreyra (INIMEC-CONICET-UNC, Argentina). The colony room was illuminated on a 12 h light/dark cycle (lights on: 08:00–20:00) at an ambient temperature and humidity of 22 ± 1°C and 45%, respectively. Births were daily examined and the day of parturition was considered post-natal day 0 (PD0). At PD1 each litter was randomly culled to 10 pups (5 males and 5 females, whenever possible). Throughout days pups were kept with their dams in standard cages that contained water and food <italic>ad libitum</italic> (ACA Nutrición, Buenos Aires, Argentina).</p>
+        <p>All experimental treatments were in accordance with the Guide for Care and Use of Laboratory Animals (National Research Council, <xref rid="B57" ref-type="bibr">1996</xref>) and were approved by the Institutional Animal Care and Use Committee of our institution (CICUAL-INIMEC-CONICET-UNC). To reduce confounds between litter and treatment effects (Holson and Pearce, <xref rid="B44" ref-type="bibr">1992</xref>) no more than one male and one female per litter were assigned to a given experimental condition.</p>
+      </sec>
+      <sec>
+        <title>General experimental procedures</title>
+        <p>During PDs 2 and 4, pups were removed from their maternal cages and placed in similar cages partially filled with clean corncob. Ambient temperature was kept at 31–33°C via heating pads placed beneath the cages. Pups were centrally administered with a buffer solution, ethanol or ACD (see below) and tested in a plethysmograph at post-administration time 5, 60, or 120 min. Respiratory frequencies were assessed during 5 consecutive minutes. At PD5 pups representative of each prior treatment were removed from their maternal cages and kept in pairs under the same holding conditions as in the previous experimental days. Fifteen minutes later, respiratory evaluations were performed. Following these physiological recordings, pups were subjected to a minor surgical procedure in order to implant an intraoral cannula that served to conduct operant conditioning procedures defined by saccharin or ethanol reinforcement. Body temperatures were recorded before and after each specific physiological or behavioral evaluation.</p>
+      </sec>
+      <sec>
+        <title>Central drug administration procedures</title>
+        <p>Ethanol (100 mg%), acetaldehyde (0.35 μmol) and phosphate buffer (PB 0.1M) were administered with a 30 gauge hypodermic needle attached to a 20-cm length of polyethylene-10 tubing (PE-10 Clay Adams, Parsippany, New Yersey, USA) connected to a 50 μl gastight syringe (Hamilton, Reno Nevada, USA). Fluids (1 μl) were slowly injected (5–8 s) into the foramen magnum between the occipital bone and the first cervical vertebra, with the needle tip placed 1.5 mm depth in the cisterna magna (IC). PB 0.1M served as vehicle for ethanol and acetaldehyde solutions. The needle was kept in position for 10 s. The appearance of a small quantity of cerebrospinal fluid served to indicate the successful placement of the administrations. Similar procedures have been previously utilized in different studies (Varlinskaya et al., <xref rid="B72" ref-type="bibr">1996</xref>; Petrov et al., <xref rid="B65" ref-type="bibr">1998</xref>; Nizhnikov et al., <xref rid="B59" ref-type="bibr">2006</xref>, <xref rid="B58" ref-type="bibr">2007</xref>; March et al., <xref rid="B47" ref-type="bibr">2013a</xref>,<xref rid="B49" ref-type="bibr">b</xref>).</p>
+      </sec>
+      <sec>
+        <title>Determination of breathing frequencies</title>
+        <p>Breathing frequencies were determinated through a whole body plethysmograph (Model 10G equipped with the software “Breath Medidor de Respiración,” Itcom, Argentina). The apparatus was built to record breathing patterns of small organisms weighing between 6 and 28 g. It consists of two identical transparent and hermetic Plexiglas chambers (5 × 10 × 5 cm), that are interconnected via a polyurethane hose system. The hose system allows injection and extraction of equivalent amounts of air in both chambers in order to maintain constant and equivalent pressures. One of the chambers is used as a testing device while the other serves as a reference box in terms of flow/air pressure. The plethysmograph records air pressure/flow rate differences between the testing and reference chambers. These differences activate a pressure sensor (AWM2100 Honeywell) with the capability of recording one complete breathing event every 1 × 10<sup>−7</sup> s. The plethysmograph records the breathing response every 1.5 s. These scores are transformed to mean breaths per minute.</p>
+        <p>For each session, unrestrained awake pups were introduced into the chambers and the lids were closed. One minute after that pups were individually placed inside the chamber, respiratory responses were measured during 10 consecutive minutes. The minute of delay at the beginning of the test was used to allow air pressure stabilization in the chamber.</p>
+        <p>An air conditioner kept the room temperature at 22 ± 1°C during experimental sessions. The temperature was kept at 31–33°C (similar to their maternal nest thermal condition) inside the plethysmograph chamber through heating pads placed beneath the apparatus (Julien et al., <xref rid="B45" ref-type="bibr">2010</xref>). The overall procedure has been previously used to evaluate breathing disruptions as a function of pre- and post-natal ethanol exposure (Cullere et al., <xref rid="B21" ref-type="bibr">2015</xref>; Macchione et al., <xref rid="B46" ref-type="bibr">2016</xref>; Acevedo et al., <xref rid="B5" ref-type="bibr">2017</xref>).</p>
+      </sec>
+      <sec>
+        <title>Body temperature measurements</title>
+        <p>Body temperatures were non-invasively registered through a thermal infrared imaging camera (“Flir Exx Series,” Boston FLIR System, Inc.). The temperature corresponding to the nape of the neck of each subject served as the dependent variable. Thermal measurements were taken before and after each plethysmograph recording (PDs 2, 4, and 5) as well as prior and following each operant conditioning test (PD 5).</p>
+      </sec>
+      <sec>
+        <title>Apparatus and operant conditioning test</title>
+        <p>At PD5, and following breathing evaluations, pups were removed from their maternal cages and were intraorally implanted with a cannula (PE-10) that allowed liquid infusions (Hall, <xref rid="B40" ref-type="bibr">1979</xref>; Dominguez et al., <xref rid="B26" ref-type="bibr">1996</xref>; Abate et al., <xref rid="B3" ref-type="bibr">2001</xref>; Cheslock et al., <xref rid="B16" ref-type="bibr">2001</xref>; Arias et al., <xref rid="B8" ref-type="bibr">2007</xref>; Bordner et al., <xref rid="B12" ref-type="bibr">2008</xref>; Miranda-Morales et al., <xref rid="B52" ref-type="bibr">2014</xref>). They remained pair-housed in holding cages for 3 h until operant procedures took place. Before commencement of the evaluation, animals were anogenitally stimulated with a cotton swab to promote urination and defecation, weighed to the nearest 0.01 g. They were then fastened inside a disposable respirator mask (3M dust, fume and mist respirator 8801 P2) through a restrictor vest, expandable enough, to allow free movements of the head and limbs. The respiration mask was tilted at 40 degrees from the floor surface supported with a cardboard box (see Arias et al., <xref rid="B8" ref-type="bibr">2007</xref> for further procedural details).</p>
+        <p>All procedures took place at a constant temperature (31–33°C) via the use of heating pads. A 40–50-cm section of polyethylene-50 tubing (PE-50 Clay Adams, Parsippany, New Yersey, USA) was connected to the end of oral cannula (PE-10) and to a 5 ml syringe (Becton Dickinson, Rutherford, NJ) with a 23-gauge needle that was filled with a specific solution and mounted in an infusion pump (KD Scientific, Model 200, Holliston, MA). The pump was set to deliver 1 μl of fluid in 1 s directly into the intraoral cavity of a given “Paired” pup and its corresponding “Yoked” control (see description below). Once evaluations begun, pups were able to gain access to intraoral infusions of 0.1% w/v saccharin or 3% v/v ethanol solution (Porta Hnos, Córdoba, Argentina; vehicle: tap water).</p>
+        <p>To this end, two same-sex and same drug-treatment pups from a single litter with similar body weights were placed in front of a touch-sensitive copper sensor (5 cm length × 1 cm width × 45 cm 1 mm thickness). The sensor was 1 cm away from their mouths and perpendicular to the floor while they remained hold inside the mask. Each time the animal touched the sensor a red light bulb lit signaling a physical contact, which resulted in an infusion pump pulse.</p>
+        <p>The apparatus was set to work with two subjects at a time: a Paired animal receiving infusions in a fixed ratio (FR) 1 schedule and a Yoked control receiving infusions in accordance to its corresponding paired pup. Each evaluation lasted 15 min. During these sessions pups received a given solution (ethanol or saccharin reinforcers) contingent upon their operant behavior (i.e., sensor contact). All pups received 4 priming pulses at the beginning of the training session, 60, 120, and 180 s. These pulses were administered independently of motor activity patterns in order to introduce the pup with the reinforcer and to minimally stimulate head and body movements. The number of sensor contacts of each Paired subject and its corresponding Yoked control were recorded. Similar procedures have been employed when analyzing early operant leaning regulated by positive reinforcers such as milk, sucrose and ethanol (Arias et al., <xref rid="B8" ref-type="bibr">2007</xref>; Bordner et al., <xref rid="B12" ref-type="bibr">2008</xref>; March et al., <xref rid="B48" ref-type="bibr">2009</xref>; Miranda-Morales et al., <xref rid="B52" ref-type="bibr">2014</xref>).</p>
+      </sec>
+      <sec>
+        <title>Experimental design and data analysis</title>
+        <p>Body weights were analyzed using a four-way mixed analysis of variance (ANOVA). Drug treatment at PDs 2 and 4 (PB 0.1 M, ACD 0.35 μmol or ethanol 100 mg%), sex (male or female) and post-administration time (5, 60, or 120 min) served as between-group factors. Days of assessment (PDs 2, 4, and 5) served as the within-measure factor. A five-way mixed ANOVA was performed to analyze mean respiration rates at PDs 2-4 where drug treatment, sex and post-administration time served as the independent factors, while days of assessment and minutes corresponding to each specific evaluations (minutes: 1–5) represented repeated measures. At PD5 breathing patterns were analyzed through a between-within ANOVA defined by the same independent factors and repeated measures.</p>
+        <p>Thermoregulatory processes were analyzed using a five- or four-way mixed ANOVA (PDs 2, 4, and 5; respectively) where drug treatment, sex, post-administration time served as between factors while post-natal days and time of temperature recordings (before and after plethysmograph assessments) were considered as within-group variables.</p>
+        <p>Relative to the operant task, the total number of sensor contacts was considered the dependent variable. Separate ANOVAs were conducted to analyze operant performance when either saccharin or ethanol served as reinforcers. More specifically, a two-way mixed ANOVA was utilized. This inferential analysis was defined by prior drug treatments the between-group factor and conditioning status (Paired or Yoked) as the within-group factor.</p>
+        <p>Preliminary analysis relative to operant performance indicated no significant main or interaction effects when considering sex as a factor. Therefore, data were collapsed across sex for all the remaining analyses. The absence of sex effects has also been observed in prior studies when employing a variety of reinforcers in operant conditioning tasks during early ontogeny (Bordner et al., <xref rid="B12" ref-type="bibr">2008</xref>; March et al., <xref rid="B48" ref-type="bibr">2009</xref>; Miranda-Morales et al., <xref rid="B50" ref-type="bibr">2010</xref>, <xref rid="B51" ref-type="bibr">2012a</xref>,<xref rid="B53" ref-type="bibr">b</xref>, <xref rid="B52" ref-type="bibr">2014</xref>).</p>
+        <p>The loci of significant main effects were further analyzed with Ducan's <italic>post-hoc</italic> tests. A rejection criterion of <italic>p</italic> &lt; 0.05 was adopted for all statistical analyses in the present study. According to the nature of the dependent variables under consideration, tests were performed using between or within error terms. Since there is no unambiguous choice of appropriate error term for <italic>post-hoc</italic> comparisons involving between- and within-group significant interactions (Winer, <xref rid="B75" ref-type="bibr">1991</xref>), orthogonal planned comparisons were conducted when such interactions were obtained. All the statistical analyses were performed using the STATISTICA 8.0 software.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="s3">
+      <title>Results</title>
+      <sec>
+        <title>Body weights across days (PDs 2, 4, and 5)</title>
+        <p>Data corresponding to body weights across days was analyzed via a between-within ANOVA (drug treatment at PDs 2 and 4 × post-administration time × post-natal days × sex). As expected body weights progressively increased as a function of age; <italic>F</italic><sub>(2, 250)</sub> = 3,897.01, <italic>p</italic> &lt; 0.0001. Duncan's <italic>post-hoc</italic> tests showed that pups at PD4 exhibited significantly greater body weights than those previously recorded during PD2. At PD5, weight values were significantly higher than those observed at PD4 (means ± standard errors of the means for each day were as follows: PD2, 7.25 ± 0.06 g; PD4, 10.08 ± 0.07 g and PD5, 11.41 ± 0.09 g. Body weights did not differ as a function of the other factors under consideration.</p>
+      </sec>
+      <sec>
+        <title>Breathing frequencies during drug pretreatment (PDs 2 and 4) and test (PD5)</title>
+        <p>Figure <xref ref-type="fig" rid="F1">1</xref> illustrates average breathing responses corresponding to PDs 2 and 4 as a function of post-administration time (5, 60, or 120 min) and across minutes of evaluation. Respiration rates were not significantly different across days. The between-within ANOVA [drug treatment (PB 0.1 M, ACD 0.35 μmol or ethanol 100 mg%) × sex (female or male) × post-administration time (5, 60, or 120 min) × days of assessment (PDs 2 and 4) × minutes of evaluation (1–5)] indicated significant main effects of sex <italic>F</italic><sub>(1, 125)</sub> = 5.90, <italic>p</italic> = 0.0158; post-administration time <italic>F</italic><sub>(2, 125)</sub> = 12.27, <italic>p</italic> &lt; 0.0001; minutes of evaluation <italic>F</italic><sub>(4, 500)</sub> = 118.49, <italic>p</italic> &lt; 0.0001 as well as significant interactions between post-administration time and minutes of evaluation <italic>F</italic><sub>(8, 500)</sub> = 7.48, <italic>p</italic> &lt; 0.0001. Drug treatment was also found to significantly interact with post-administration time and minutes of evaluation; <italic>F</italic><sub>(16, 500)</sub> = 2.13, <italic>p</italic> = 0.0063.</p>
+        <fig id="F1" position="float">
+          <label>Figure 1</label>
+          <caption>
+            <p><bold>Breathing rates (breaths/min) as a function of post-administration time (5, 60, or 120 min) and minutes of evaluation</bold>. Data have been collapsed across sex, postnatal days and drug treatment. <sup>###</sup> Indicates significant differences between breathing scores at post-administration time 5 min relative to scores attained at post-administration time 60 and 120 min. <sup>***</sup> Indicates significant differences between respiratory rates at minute 1 relative to the remaining minutes of evaluation; <italic>p</italic> &lt; 0.0001. <sup>&amp;<italic>&amp;&amp;</italic></sup> Indicates significant differences between minute 2 and minute 5; <italic>p</italic> &lt; 0.0001. Vertical lines indicate standard errors of the means (SEMs).</p>
+          </caption>
+          <graphic xlink:href="fnbeh-11-00039-g0001"/>
+        </fig>
+        <p>According to Duncan's <italic>post-hoc</italic> tests, breathing frequencies were significantly higher in male than female pups (181.30 ± 2.99 and 170.91 ± 3.01 breaths/min; respectively). Relative to the significant main effects of post-administration time, minutes of evaluation, and its significant interaction at PDs 2 and 4; <italic>post-hoc</italic> tests showed that breathing responses were significantly lower at post-administration time 5 min relative to the scores attained at 60 and 120 min. It is likely that the stress related with the intracisternal administration of the drugs, affected breathing rates shortly after performing these procedures. At 60 and 120 min, respiratory frequencies were similar to those reported in previous experiments where a given vehicle (e.g., water) was intragastrically administered 30 min prior to the evaluation (Macchione et al., <xref rid="B46" ref-type="bibr">2016</xref>; Acevedo et al., <xref rid="B5" ref-type="bibr">2017</xref>).</p>
+        <p>Within each test, respiration rates decreased as a function of the progression of the test; a phenomenon probably indicative of habituation to the context. This progressive depression was particularly observed in the group of animals evaluated at 60 and 120 min. When the evaluation was conducted 5 min after drug administration pups exhibited heightened respiratory rates during the initial minute of the test relative to the remaining minutes. This interaction has been depicted in Figure <xref ref-type="fig" rid="F1">1</xref>.</p>
+        <p>With regard to the triple interaction involving drug treatment, post-administration time and minutes of evaluation, planned comparisons indicated significant differences in respiration rates between PB-treated and ACD-treated pups during the first minute of evaluation (Figure <xref ref-type="fig" rid="F2">2</xref>). This effect was only observed 5 min after administering the drug. At this point in time, ethanol-treated animals showed intermediate respiratory frequencies relative to PB- and ACD-treated pups.</p>
+        <fig id="F2" position="float">
+          <label>Figure 2</label>
+          <caption>
+            <p><bold>Respiration frequencies (breaths/min) at PDs 2 and 4 as a function of drug treatment (PB, ACD or Ethanol), post-administration time (5, 60, or 120 min) and minutes of evaluation (1–5)</bold>. Data have been collapsed across sex and postnatal days. <sup>*</sup> Indicates a significant difference between PB-treated and ACD-treated pups (post-administration time: 5 min.; minute of evaluation: 1 min); <italic>p</italic> &lt; 0.05. Vertical lines indicate standard errors of the means (SEMs).</p>
+          </caption>
+          <graphic xlink:href="fnbeh-11-00039-g0002"/>
+        </fig>
+        <p>At PD 5, the corresponding between-within ANOVA (drug treatment at PDs 2 and 4 × sex × post-administration time × minutes of evaluation) showed that breaths per minute significantly varied as a function of drug treatment [<italic>F</italic><sub>(2, 128)</sub> = 4.37, <italic>p</italic> = 0.0146], minutes of evaluation [<italic>F</italic><sub>(4, 512)</sub> = 110.95, <italic>p</italic> &lt; 0.0001] and the following two-way interaction: drug treatment × minutes of evaluation [<italic>F</italic><sub>(8, 512)</sub> = 1.99, <italic>p</italic> = 0.0447].</p>
+        <p>Once, again breathing responses progressively decreased as a function of the passage of time. Moreover, the group of animals previously treated with acetaldehyde during PDs 2 and 4 exhibited significantly higher breathing frequencies relative to the control group (PB). This significant difference was observed at minutes 2, 3, 4, and 5. Breathing scores of ethanol-treated pups did not significantly differ from PB- or ACD-treated subjects throughout the evaluation. This interaction has been depicted in Figure <xref ref-type="fig" rid="F3">3</xref>. As can be observed ACD-treated pups exhibited during PD5 breathing patterns which were opposite to those recorded at PDs 2 and 4 at the earliest post-administration time (5 min). When tested without being administered with acetaldehyde (PD5) breathing frequencies were significantly higher than in controls while under the effects of the drug (PDs 2 and 4), respiration rates were significantly lower.</p>
+        <fig id="F3" position="float">
+          <label>Figure 3</label>
+          <caption>
+            <p><bold>Breathing rates (breaths/min) as a function of drug treatment (PB, ACD, or Ethanol) and minutes of evaluation at PD 5</bold>. <sup>*</sup> Indicates significant differences between ACD pups and pups pre-exposed to PB administrations. Vertical lines indicate standard errors of the means (SEMs).</p>
+          </caption>
+          <graphic xlink:href="fnbeh-11-00039-g0003"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Thermal responsiveness during drug treatment (PDs 2 and 4) and test (PD 5)</title>
+        <p>As stated, body temperatures of pups treated with PB 0.1M, ACD 0.35 μmol or ethanol 100 mg% were recorded immediately before and after being exposed to the plethysmograph at PDs 2 and 4 as well as at PD5 (see Table <xref ref-type="table" rid="T1">1</xref>). The corresponding between-within ANOVA (drug treatment × sex × post-administration time × days of assessment x moment of recording) during PDs 2 and 4 only indicated a significant main effect of post-administration time; <italic>F</italic><sub>(2, 117)</sub> = 92.26, <italic>p</italic> &lt; 0.0001. Thermal temperatures soon after drug treatment (5 min) were significantly lower (33.91 ± 0.12°C) than those observed at post-administration times 60 and 120 min (35.96 ± 0.11 and 35.62 ± 0.12°C; respectively) Apparently, a stress-related factor derived form intracerebral administrations was responsible for the significant decrease in body temperature in pups tested 5 mins after the injection. At PD 5 (drug treatment × sex × post-administration time × moment of recording) no significant differences emerged when considering the main factors and the interactions between them. Notice that at this age pups were not IC administered. A similar lack of main significant effects or interactions was observed when processing body temperatures before and after the operant task.</p>
+        <table-wrap id="T1" position="float">
+          <label>Table 1</label>
+          <caption>
+            <p><bold>Pup's body temperatures across days as a function of drug treatment and post-administration time</bold>.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Drug treatment at PDs 2 and 4</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>Post-administration Time (min)</bold>
+                </th>
+                <th valign="top" align="center" colspan="6" style="border-bottom: thin solid #000000;" rowspan="1">
+                  <bold>Body temperature (°C)</bold>
+                </th>
+              </tr>
+              <tr>
+                <th rowspan="1" colspan="1"/>
+                <th rowspan="1" colspan="1"/>
+                <th valign="top" align="center" colspan="2" style="border-bottom: thin solid #000000;" rowspan="1">
+                  <bold>PD2</bold>
+                </th>
+                <th valign="top" align="center" colspan="2" style="border-bottom: thin solid #000000;" rowspan="1">
+                  <bold>PD4</bold>
+                </th>
+                <th valign="top" align="center" colspan="2" style="border-bottom: thin solid #000000;" rowspan="1">
+                  <bold>PD5</bold>
+                </th>
+              </tr>
+              <tr>
+                <th rowspan="1" colspan="1"/>
+                <th rowspan="1" colspan="1"/>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>Before</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>After</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>Before</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>After</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>Before</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>After</bold>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Phosphate buffer (PB 0.1M)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">34.23 ± 0.31</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">34.12 ± 0.29</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">33.96 ± 0.27</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">34.05 ± 0.28</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">34.99 ± 0.27</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">34.77 ± 0.28</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">60</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">35.73 ± 0.30</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">36.01 ± 0.28</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">35.81 ± 0.26</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">35.66 ± 0.27</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">34.91 ± 0.24</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">35.06 ± 0.25</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">120</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">35.67 ± 0.31</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">35.86 ± 0.29</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">35.56 ± 0.27</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">35.40 ± 0.28</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">34.66 ± 0.26</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">34.58 ± 0.27</td>
+              </tr>
+              <tr style="border-top: thin solid #000000;">
+                <td valign="top" align="left" rowspan="1" colspan="1">Acetaldehyde (0.35 μmol)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">33.83 ± 0.28</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">34.12 ± 0.26</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">33.71 ± 0.25</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">33.83 ± 0.25</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">34.72 ± 0.24</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">34.57 ± 0.24</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">60</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">36.23 ± 0.27</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">36.35 ± 0.25</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">35.98 ± 0.23</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">35.83 ± 0.24</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">35.12 ± 0.23</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">34.38 ± 0.24</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">120</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">35.68 ± 0.29</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">35.36 ± 0.27</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">36.04 ± 0.26</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">35.49 ± 0.26</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">34.64 ± 0.23</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">34.96 ± 0.24</td>
+              </tr>
+              <tr style="border-top: thin solid #000000;">
+                <td valign="top" align="left" rowspan="1" colspan="1">Ethanol (100 mg%)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">33.83 ± 0.30</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">34.12 ± 0.28</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">33.42 ± 0.27</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">33.63 ± 0.28</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">34.43 ± 0.26</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">34.17 ± 0.26</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">60</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">36.21 ± 0.26</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">36.07 ± 0.25</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">35.70 ± 0.23</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">35.87 ± 0.24</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">35.18 ± 0.23</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">34.65 ± 0.24</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">120</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">35.76 ± 0.30</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">35.53 ± 0.28</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">35.78 ± 0.26</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">35.28 ± 0.27</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">34.57 ± 0.25</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">34.39 ± 0.25</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p><italic>Values are expressed as means ± SEMs. Body temperatures at PDs 2 and 4, recorded immediately after intracisternal administrations (5 min), were significantly lower than those registered at 60 or 120 min</italic>.</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Operant conditioning at PD5</title>
+        <p>Figure <xref ref-type="fig" rid="F4">4</xref> depicts the total number of sensor contacts in Paired and Yoked groups reinforced with either intraorally administered saccharin or ethanol. Separate ANOVAs were conducted to analyze learning patterns dependent upon either saccharin (0.1%) or ethanol (3%) reinforcement. In each case, tree-way mixed ANOVAs were used. This analyses were defined by drug treatment as the between factor and conditioning (Paired or Yoked) as well as minutes of evaluation as within factors.</p>
+        <fig id="F4" position="float">
+          <label>Figure 4</label>
+          <caption>
+            <p><bold>Sensor contacts at PD5 when pups were reinforced with saccharin or ethanol</bold>. When saccharin was employed a main significant effect of conditioning (Paired vs. Yoked) was observed. <sup>###</sup> Indicates the significantly higher level of responding of Paired pups when compared to Yoked controls; <italic>p</italic> &lt; 0.0001. When ethanol served as a reinforcer, only Paired pups pre-exposed to PB exhibited significantly higher levels of sensor contacts when compared with the corresponding Yoked controls (<sup>*</sup>); <italic>p</italic> &lt; 0.05. Vertical lines indicate standard errors of the means (SEMs).</p>
+          </caption>
+          <graphic xlink:href="fnbeh-11-00039-g0004"/>
+        </fig>
+        <p>When saccharin was employed as a reinforcer, the ANOVA indicated that conditioning exerted a significant main effect [<italic>F</italic><sub>(1, 28)</sub> = 34.82, <italic>p</italic> &lt; 0.0001]. As can be observed in Figure <xref ref-type="fig" rid="F4">4</xref>, all Paired groups, independently from prior drug experience, showed higher operant responsiveness relative to the corresponding Yoked controls. This result is analogous to those reported when employing saccharin in older infants (Miranda-Morales et al., <xref rid="B52" ref-type="bibr">2014</xref>) or when neonates are reinforced with milk (Arias et al., <xref rid="B8" ref-type="bibr">2007</xref>; Bordner et al., <xref rid="B12" ref-type="bibr">2008</xref>). It is interesting to note that prior drug exposure appears not to affect the learning capability of the organisms nor its overall activity. Relative to the activity rate, Yoked controls pretreated with buffer, ethanol or acetaldehyde showed similar levels of spontaneous sensor contacts.</p>
+        <p>When ethanol was employed as a reinforcer not all Paired groups differed from the corresponding Yoked controls. The ANOVA revealed a significant main effect of conditioning and a significant interaction between this factor and drug treatment [<italic>F</italic><sub>(1, 32)</sub> = 21.75, <italic>p</italic> &lt; 0.0001 and <italic>F</italic><sub>(2, 32)</sub> = 3.51, <italic>p</italic> = 0.0419; respectively]. Planned comparisons indicated that only Paired pups treated with a PB control solution had higher sensor contacts that their corresponding Yoked controls. Pretreatment with ethanol or its metabolite appeared to decrease the reinforcement capability of ethanol. Once again, this effect cannot be attributed to motor activity differences across drug pretreatments that can contribute to the probability of sensor contacts. Relative to this issue, all Yoked groups has similar levels of activity.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="s4">
+      <title>Discussion</title>
+      <p>As stated (see Introduction section) the present study pursued two main goals: (i) the analysis of central ethanol and ACD effects in terms of disruptive effects upon early respiratory plasticity and possible association existing between ethanol and/or ACD central effects leading to thermoregulatory alterations in neonatal rats, and (ii) the analysis of central pre-exposure to the ethanol or its metabolite effect on subsequent seeking behavior of ethanol as a reinforcer in an operant task in neonate rats (Arias et al., <xref rid="B8" ref-type="bibr">2007</xref>; Bordner et al., <xref rid="B12" ref-type="bibr">2008</xref>; March et al., <xref rid="B48" ref-type="bibr">2009</xref>; Miranda-Morales et al., <xref rid="B52" ref-type="bibr">2014</xref>).</p>
+      <p>Ethanol and ACD doses were chosen according to previous literature indicating analogous effects at least when considering the motivational properties of these drugs (Nizhnikov et al., <xref rid="B59" ref-type="bibr">2006</xref>, <xref rid="B58" ref-type="bibr">2007</xref>; March et al., <xref rid="B47" ref-type="bibr">2013a</xref>,<xref rid="B49" ref-type="bibr">b</xref>). When doing so, during PDs 2 and 4, neonates exhibited a respiratory depression when administered with ACD and tested only 5 min after drug administration. This effect was clear at the beginning of the testing procedure (minute 1) relative to control pups administered with PB. Pups treated with ethanol exhibited intermediate values relative to the above mentioned groups. These effects were observed despite the fact that at this post-administration time, respiration rates were very low across groups (see Figure <xref ref-type="fig" rid="F2">2</xref>). Preliminary pilot studies performed with untreated animals confirmed that the mere handling of the neonates is enough to alter respiratory frequencies when evaluations are temporally close to this manipulation. The values obtained in these untreated pups were found to be almost identical to the PB controls here utilized.</p>
+      <p>It was also observed that respiratory frequencies increased at 60 and 120 min post-administration time (Figure <xref ref-type="fig" rid="F1">1</xref>) and neither ethanol nor ACD exerted depressant effects relative to controls. Relative to ACD, these null results may indicate that further pharmacokinetic processes (e.g., ACD conversion into acetate) partially or completely reduce brain concentrations of the metabolite (Quertemont and Didone, <xref rid="B67" ref-type="bibr">2006</xref>; Zimatkin et al., <xref rid="B80" ref-type="bibr">2006</xref>; Hipolito et al., <xref rid="B42" ref-type="bibr">2007</xref>). The fact that ethanol was never found to produce significant respiratory decrements may be related with the dose here employed. Under the present experimental circumstances, it is not possible to determine whether the 100 mg% dose is sufficient to negatively act upon respiratory plasticity or generate, via oxidative processes, ACD levels capable of disrupting breathing patterns. Relative to this dose-related problem, and as previously stated, it is interesting to note that pups tested shortly after receiving brain ethanol administration, exhibited a trend toward a reduction in breathing frequencies relative to controls but not as profound as the group treated with ACD (Figure <xref ref-type="fig" rid="F2">2</xref>).</p>
+      <p>At PD5, pups were re-exposed to the testing chamber without receiving any explicit drug treatment. ACD pretreated neonates were found to show heightened respiratory frequencies relative to the remaining groups (Figure <xref ref-type="fig" rid="F3">3</xref>). We cannot discard the possibility that prior administrations of the metabolite disrupted the respiratory system causing hyperventilation. Nevertheless, a second hypothesis seems plausible. The effect at PD5 (high respiration rates) was opposite relative to the one observed at PDs 2 and 4 (low respiration rates). This apparent contradiction is in agreement with the establishment of learned tolerance to drugs of abuse where conditioned stimuli elicit neurally-mediated homeostatic responses that serve to reduce a specific perturbation (Woods and Ramsay, <xref rid="B77" ref-type="bibr">2000</xref>). Some studies have shown that ambient cues associated with the depressant effects of ethanol appear to modulate the effects of the drug upon respiratory plasticity (Cullere et al., <xref rid="B21" ref-type="bibr">2015</xref>; Macchione et al., <xref rid="B46" ref-type="bibr">2016</xref>; Acevedo et al., <xref rid="B5" ref-type="bibr">2017</xref>). This modulation is related with classical conditioning learning where ambient cues such as the testing environment or a specific odorant (e.g., ethanol odor perceived in the amniotic fluid or as an ambient odor) are associated with the unconditioned effect of the drug. Similar learning processes have been observed in 2-day-old mice when olfactory cues associated with maternal care resulted in heightened conditioned respiratory responses (Durand et al., <xref rid="B30" ref-type="bibr">2003</xref>). When utilizing peripheral ethanol in developing rats, conditioned responses are <italic>isodirectional</italic> relative to the depressant effects upon respiration. In accordance with the systematic review of Eikelboom and Stewart (<xref rid="B32" ref-type="bibr">1982</xref>), physiological disruptions mediated by the central nervous system are associated with conditioned stimuli which later elicit <italic>compensatory</italic> conditioned reactivity. If the drug acts on afferent pathways of the brain, the associative process results in isodirectional conditioned responses. In agreement with their analysis and predictions based on specific feedback mechanisms, cues associated with respiratory depressions caused by peripheral (i.g.) ethanol administrations, latter elicit isodirectional learned responses (Macchione et al., <xref rid="B46" ref-type="bibr">2016</xref>). As observed in the present experiment, contextual cues associated with central-nervous-system-mediated respiratory depressions caused by ACD, cause the opposite (probably compensatory) effect.</p>
+      <p>As previously stated (see Introduction), thermoregulatory disruptions can determine or modulate respiratory depressions. When considering neonatal thermal responsiveness at PDs 2 and 4, it was clear that soon after intracisternal administrations (5 min), body temperatures were low when compared to those recorded at post-administrations time 60 or 120 min (Table <xref ref-type="table" rid="T1">1</xref>). Stress-related effects of the administration procedure or even the temperature of the solutions injected into the cisterna magna are factors which can account for this phenomenon. As mentioned, at the earlier post-administration time (5 min) we also observed very low breathing frequencies; a result which argues in favor of the modulatory effects of thermoregulation upon breathing. Yet, drug treatment affected breathing but not thermal responsiveness; a result that argues in favor of early breathing disruptions caused by ACD independently from thermal alterations. At PD5, when tests were performed without any prior administration procedure, temperatures were similar across all groups but as stated, ACD pre-exposed neonates exhibited heightened respiratory rates. Once again, this phenomenon favors the hypothesis that ACD respiratory effects across the experiment were not related with temperature variations. Nevertheless, when taken into account that the administration procedure does affect thermoregulation and that all breathing tests were performed in chambers maintained at 31–32°C, a possible association between thermal and breathing disruptions should not be completely overruled.</p>
+      <p>The second major goal of the study attempted to elucidate whether prior exposure to central ethanol or ACD impacts upon operant conditioning processes where ethanol or saccharin serve as positive intraoral reinforcers. The results obtained with saccharin confirmed the rapid learning capability of neonates that has been reported when utilizing alternative sweet reinforcer or milk (Arias et al., <xref rid="B8" ref-type="bibr">2007</xref>; Bordner et al., <xref rid="B12" ref-type="bibr">2008</xref>; March et al., <xref rid="B48" ref-type="bibr">2009</xref>). Independently of prior drug condition, pups exposed to the explicit contingency between sensor contacts and saccharin intraoral administration (Paired groups), exhibited relative to Yoked controls, a significantly higher number of responses. This pattern of results was not observed when ethanol served as a reinforcer. Once again, Paired pups pre-exposed to the buffer control solution significantly differed from the corresponding Yoked control group. As in previous studies, neonates without any specific prior drug experience rapidly learn to self-administer an ethanol solution (Bordner et al., <xref rid="B12" ref-type="bibr">2008</xref>; March et al., <xref rid="B48" ref-type="bibr">2009</xref>). This was not the case when neonates were centrally administered with ethanol or ACD (PDs 2 and 4) prior to the assessment of response-stimulus learning associations (PD5). When using these drugs Paired pups did not differ from Yoked controls. Furthermore, Paired pups with a prior history of ACD administrations differed from Paired pups pretreated with the buffer solution. As in the case of respiratory frequencies, Paired subjects pre-exposed to central ethanol, exhibited intermediate levels of responding relative to the two remaining drug-related Paired conditions (ACD or PB).</p>
+      <p>The results obtained with saccharin indicate that neither ethanol nor ACD pre-exposure altered learning capabilities of the neonates. Therefore, the absence of operant conditioning observed in Paired pups reinforced with ethanol that were previously treated with ethanol or ACD, argues against deleterious effects of these drugs upon the learning process itself. Two hypotheses appear pertinent when addressing the lack of significant learning in Paired subjects pre-exposed to ethanol or ACD and subsequently reinforced with ethanol. Both of them are based on the direct action of ACD in the central nervous system and the biotransformation of ethanol into its principal metabolite via the central catalase system. Favoring the possibility of rapid ethanol metabolism in the neonatal brain is the fact that catalase concentrations in the brain of the newborn rat are approximately eight times higher than in adult animals (Del Maestro and McDonald, <xref rid="B22" ref-type="bibr">1987</xref>). The first hypothesis is related with prior findings concerning altered motor neonatal activity induced by central ACD administration. March et al. (<xref rid="B47" ref-type="bibr">2013a</xref>) reported that a single neonatal central administration of ACD (0.52 μmol) exerts a sedative effect upon motor activity. Hence, it is difficult to discard the possibility that sequential administrations of lower ACD doses (0.35 μmol) or of ethanol (100 mg%) into the brain, sensitizes the organism to later sedative of effects of ethanol administered during the operant conditioning task. Nevertheless, this hypothesis is not supported by the following observations. When focusing on the motor activity of Yoked controls (i.e., number of spontaneous sensor contacts) that also received ethanol as a function of the activity of the corresponding Paired neonates, no specific effects of prior drug treatment were detected. The second observation arguing against the motor-related hypothesis is that March et al. (<xref rid="B47" ref-type="bibr">2013a</xref>) also found that late prenatal exposure to ethanol generates tolerance rather than sensitization to the depressant of ACD. As stated, this metabolite is likely to be formed due to brain metabolic processes when neonates were exposed to ethanol during the operant task. Yet, when considering both ethanol and ACD pre-exposure effects upon operant performance, we cannot completely discard an alternative possibility of sensitization effects related with anxiogenic or antianxiety effects of both drugs. The arousal state involved in the acquisition of the operant response could be affected by either of these effects. Infants are sensitive to ethanol's antianxiety effects (Pautassi et al., <xref rid="B63" ref-type="bibr">2007</xref>) but there is still no empirical evidence supporting a sensitization effect as a function of prior ethanol treatment during early development. On the contrary, in neonates, exposure to moderate or high ethanol doses seem to potentiate later states of anxiety (Brolese et al., <xref rid="B14" ref-type="bibr">2014</xref>; Baculis et al., <xref rid="B9" ref-type="bibr">2015</xref>). In adults, when considering centrally administered ACD, inhibition of the catalase system or when sequestering this metabolite, the results argue in favor of anxiogenic rather than antianxiety effects (Correa et al., <xref rid="B18" ref-type="bibr">2008</xref>). Taken these considerations into account, sensitization to ethanol's or ACD's anti-anxiety effects does not seem to adequately account for the described disruptions in operant learning processes. The possibility of sensitization to anxiogenic effects of early ethanol or ACD central administration should not be discarded. The second hypothesis is related with the consequences of drug pre-exposure upon subsequent ethanol's motivational properties. Only one conditioning trial has been utilized when central ethanol or ACD are observed to exert positive reinforcing effects in neonates (Nizhnikov et al., <xref rid="B58" ref-type="bibr">2007</xref>; March et al., <xref rid="B47" ref-type="bibr">2013a</xref>,<xref rid="B49" ref-type="bibr">b</xref>). So far we ignore if increasing the number of doses results in the recruitment of aversive properties of these psychopharmacological agents or maximizes the possibility of an unconditioned stimulus pre-exposure effect that later competes with the contingency existing between operant responses and ethanol reinforcement. In either case, subsequent ethanol positive reinforcing effects are likely to be devalued. Most importantly, it is necessary to consider that during PDs 2 and 4, these drugs were intracisternally administered. This procedure, the additional handling of the neonate and the isolation from the mother can be viewed as significant aversive stressors (Molina et al., <xref rid="B56" ref-type="bibr">2000</xref>; Hofer et al., <xref rid="B43" ref-type="bibr">2002</xref>; Pautassi et al., <xref rid="B63" ref-type="bibr">2007</xref>). Hence, during these days the effects of the drugs were contingent with aversive events; an association that may compete with subsequent reinforcing effects of ethanol or its metabolite. Notice that whenever pre-exposure to ethanol has resulted in early sensitization to the reinforcing effects of the drug (Nizhnikov et al., <xref rid="B59" ref-type="bibr">2006</xref>; Pautassi et al., <xref rid="B62" ref-type="bibr">2012</xref>), the initial drug experience occurred during late prenatal life via maternal ethanol administration and without any explicit manipulation of the fetus or its natural environment. In support of the present hypothesis, studies have demonstrated that early in ontogeny, the rat is capable of associating different motivational effects of ethanol (positive reinforcing, aversive or anxiolytic) with aversive and appetitive stimuli such as citric acid and sucrose; respectively. As a result of the nature of the associations, the effects of the drug or of the alternative stimuli are reduced or potentiated (Molina et al., <xref rid="B54" ref-type="bibr">1996</xref>; Pautassi et al., <xref rid="B64" ref-type="bibr">2006</xref>; Cullere et al., <xref rid="B20" ref-type="bibr">2014</xref>). The proposed hypothesis may also apply when considering the heightened respiratory rates (PD5) observed in neonates pre-exposed to acetaldehyde. The interoceptive effects of the metabolite (PDs 2 and 4) were experienced in a distinct context (plethysmograph chamber) immediately following intracisternal administration of the drug and while pups were isolated from the mother. At test (PD5), these pups were again placed in the context and as stated, they exhibited a significant increase in breathing frequencies. This physiological reaction, under the framework of the present hypothesis, may represent an anticipatory physiological response linked with prior experiences involving the context, the interoceptive effects of acetaldehyde and different stressors. Obviously, this hypothesis requires further investigation.</p>
+      <p>Beyond these considerations, the results of this study argue in favor of centrally mediated respiratory and motivational effects of acetaldehyde during a stage in development comparable to the 3rd human gestational trimester. To our knowledge this is the first study indicating a significant role of the metabolite upon early respiratory plasticity. This phenomenon logically requires further investigation particularly when considering the negative effects of ethanol upon the developing respiratory network (Abel, <xref rid="B4" ref-type="bibr">1981</xref>; Dubois et al., <xref rid="B28" ref-type="bibr">2013</xref>). In conjunction with recently conducted studies in rat fetuses and neonates (Cullere et al., <xref rid="B21" ref-type="bibr">2015</xref>; Macchione et al., <xref rid="B46" ref-type="bibr">2016</xref>; Acevedo et al., <xref rid="B5" ref-type="bibr">2017</xref>), the present results confirm that disruptions of the developing respiratory network are attained even when employing moderate levels of exposure to ethanol, or in the present case, to acetaldehyde. Breathing depressions associated with hypoxemia and bradycardia represent a risk factor in terms of hypoxic ischemic effects upon the developing human brain (Pillekamp et al., <xref rid="B66" ref-type="bibr">2007</xref>). As mentioned, fetal alcohol exposure also represents a risk factor for Sudden Infant Death Syndrome (Burd et al., <xref rid="B15" ref-type="bibr">2004</xref>; O'Leary et al., <xref rid="B60" ref-type="bibr">2013</xref>), a phenomenon that has driven scientific attention toward the effects of the drug upon respiratory plasticity. Hence, when considering breathing disruptions involved in hypoxic ischemic consequences upon the brain and the need to better understand factors that can potentially predispose to a devastating pathology such as the Sudden Infant Death Syndrome, the role of acetaldehyde, following ethanol exposure, deserves further scientific attention. Finally, the present study also indicates that centrally administered acetaldehyde impacts upon later ethanol self-administration patterns operationalized through operant conditioning procedures. From a general perspective, these results validate the notions that the metabolite is a neuroactive agent capable of mediating ethanol's motivational properties (Quertemont et al., <xref rid="B68" ref-type="bibr">2005</xref>; Correa et al., <xref rid="B19" ref-type="bibr">2012</xref>) and that it plays a significant role during early ontogeny in terms of structuring ethanol affinity (March et al., <xref rid="B47" ref-type="bibr">2013a</xref>).</p>
+    </sec>
+    <sec id="s5">
+      <title>Author contributions</title>
+      <p>All authors (MA, GD, OH and JM) meet the following criteria: -contributed to the conception or design of the work, -contributed to the analysis and interpretation of data, -participated in the writing and revision of the draft, and -agree to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.</p>
+    </sec>
+    <sec id="s6">
+      <title>Funding</title>
+      <p>This work was supported by grants from Agencia Nacional de Promoción Científica y Tecnológica (FONCyT, PICT 2011-0999 and PICT 2014-1606), SECyT and CONICET PIP 11220110100763 awarded to JM;.</p>
+      <sec>
+        <title>Conflict of interest statement</title>
+        <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Abate</surname><given-names>P.</given-names></name><name><surname>Pepino</surname><given-names>M. Y.</given-names></name><name><surname>Spear</surname><given-names>N. E.</given-names></name><name><surname>Molina</surname><given-names>J. C.</given-names></name></person-group> (<year>2004</year>). <article-title>Fetal learning with ethanol: correlations between maternal hypothermia during pregnancy and neonatal responsiveness to chemosensory cues of the drug</article-title>. <source>Alcohol. Clin. Exp. Res.</source>
+<volume>28</volume>, <fpage>805</fpage>–<lpage>815</lpage>. <pub-id pub-id-type="doi">10.1097/01.ALC.0000125354.15808.24</pub-id><?supplied-pmid 15166658?><pub-id pub-id-type="pmid">15166658</pub-id></mixed-citation>
+      </ref>
+      <ref id="B2">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Abate</surname><given-names>P.</given-names></name><name><surname>Pueta</surname><given-names>M.</given-names></name><name><surname>Spear</surname><given-names>N. E.</given-names></name><name><surname>Molina</surname><given-names>J. C.</given-names></name></person-group> (<year>2008</year>). <article-title>Fetal learning about ethanol and later ethanol responsiveness: evidence against “safe” amounts of prenatal exposure</article-title>. <source>Exp. Biol. Med.</source>
+<volume>233</volume>, <fpage>139</fpage>–<lpage>154</lpage>. <pub-id pub-id-type="doi">10.3181/0703-MR-69</pub-id><?supplied-pmid 18222969?><pub-id pub-id-type="pmid">18222969</pub-id></mixed-citation>
+      </ref>
+      <ref id="B3">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Abate</surname><given-names>P.</given-names></name><name><surname>Spear</surname><given-names>N. E.</given-names></name><name><surname>Molina</surname><given-names>J. C.</given-names></name></person-group> (<year>2001</year>). <article-title>Fetal and infantile alcohol-mediated associative learning in the rat</article-title>. <source>Alcohol. Clin. Exp. Res.</source>
+<volume>25</volume>, <fpage>989</fpage>–<lpage>998</lpage>. <pub-id pub-id-type="doi">10.1111/j.1530-0277.2001.tb02307.x</pub-id><?supplied-pmid 11505023?><pub-id pub-id-type="pmid">11505023</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Abel</surname><given-names>E. L.</given-names></name></person-group> (<year>1981</year>). <article-title>A critical evaluation of the obstetric use of alcohol in preterm labor</article-title>. <source>Drug Alcohol Depend.</source>
+<volume>7</volume>, <fpage>367</fpage>–<lpage>378</lpage>. <pub-id pub-id-type="doi">10.1016/0376-8716(81)90051-X</pub-id><?supplied-pmid 7274006?><pub-id pub-id-type="pmid">7274006</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Acevedo</surname><given-names>M. B.</given-names></name><name><surname>Macchione</surname><given-names>A. F.</given-names></name><name><surname>Anunziata</surname><given-names>F.</given-names></name><name><surname>Haymal</surname><given-names>O. B.</given-names></name><name><surname>Molina</surname><given-names>J. C.</given-names></name></person-group> (<year>2017</year>). <article-title>Neonatal experiences with ethanol intoxication modify respiratory and thermoregulatory plasticity and affect subsequent ethanol intake in rats</article-title>. <source>Dev. Psychobiol.</source>
+<volume>59</volume>, <fpage>48</fpage>–<lpage>59</lpage>. <pub-id pub-id-type="doi">10.1002/dev.21466</pub-id><?supplied-pmid 27540704?><pub-id pub-id-type="pmid">27540704</pub-id></mixed-citation>
+      </ref>
+      <ref id="B6">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Alati</surname><given-names>R.</given-names></name><name><surname>Al Mamun</surname><given-names>A.</given-names></name><name><surname>Williams</surname><given-names>G. M.</given-names></name><name><surname>O'Callaghan</surname><given-names>M.</given-names></name><name><surname>Najman</surname><given-names>J. M.</given-names></name><name><surname>Bor</surname><given-names>W.</given-names></name></person-group> (<year>2006</year>). <article-title><italic>In utero</italic> alcohol exposure and prediction of alcohol disorders in early adulthood: a birth cohort study</article-title>. <source>Arch. Gen. Psychiatry</source>
+<volume>63</volume>, <fpage>1009</fpage>–<lpage>1016</lpage>. <pub-id pub-id-type="doi">10.1001/archpsyc.63.9.1009</pub-id><?supplied-pmid 16953003?><pub-id pub-id-type="pmid">16953003</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Aragon</surname><given-names>C. M.</given-names></name><name><surname>Stotland</surname><given-names>L. M.</given-names></name><name><surname>Amit</surname><given-names>Z.</given-names></name></person-group> (<year>1991</year>). <article-title>Studies on ethanol-brain catalase interaction: evidence for central ethanol oxidation</article-title>. <source>Alcohol. Clin. Exp. Res.</source>
+<volume>15</volume>, <fpage>165</fpage>–<lpage>169</lpage>. <pub-id pub-id-type="doi">10.1111/j.1530-0277.1991.tb01848.x</pub-id><?supplied-pmid 2058789?><pub-id pub-id-type="pmid">2058789</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Arias</surname><given-names>C.</given-names></name><name><surname>Spear</surname><given-names>N. E.</given-names></name><name><surname>Molina</surname><given-names>J. C.</given-names></name><name><surname>Molina</surname><given-names>A.</given-names></name><name><surname>Molina</surname><given-names>J. C.</given-names></name></person-group> (<year>2007</year>). <article-title>Rapid acquisition of operant conditioning in 5-day-old rat pups: a new technique articulating suckling-related motor activity and milk reinforcement</article-title>. <source>Dev. Psychobiol.</source>
+<volume>49</volume>, <fpage>576</fpage>–<lpage>588</lpage>. <pub-id pub-id-type="doi">10.1002/dev.20236</pub-id><?supplied-pmid 17680606?><pub-id pub-id-type="pmid">17680606</pub-id></mixed-citation>
+      </ref>
+      <ref id="B9">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Baculis</surname><given-names>B. C.</given-names></name><name><surname>Diaz</surname><given-names>M. R.</given-names></name><name><surname>Valenzuela</surname><given-names>C. F.</given-names></name></person-group> (<year>2015</year>). <article-title>Third trimester-equivalent ethanol exposure increases anxiety-like behavior and glutamatergic transmission in the basolateral amygdala</article-title>. <source>Pharmacol. Biochem. Behav.</source>
+<volume>137</volume>, <fpage>78</fpage>–<lpage>85</lpage>. <pub-id pub-id-type="doi">10.1016/j.pbb.2015.08.009</pub-id><?supplied-pmid 26284742?><pub-id pub-id-type="pmid">26284742</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Baer</surname><given-names>J. S.</given-names></name><name><surname>Barr</surname><given-names>H. M.</given-names></name><name><surname>Bookstein</surname><given-names>F. L.</given-names></name><name><surname>Sampson</surname><given-names>P. D.</given-names></name><name><surname>Streissguth</surname><given-names>A. P.</given-names></name></person-group> (<year>1998</year>). <article-title>Prenatal alcohol exposure and family history of alcoholism in the etiology of adolescent alcohol problems</article-title>. <source>J. Stud. Alcohol</source>
+<volume>59</volume>, <fpage>533</fpage>–<lpage>543</lpage>. <pub-id pub-id-type="doi">10.15288/jsa.1998.59.533</pub-id><?supplied-pmid 9718105?><pub-id pub-id-type="pmid">9718105</pub-id></mixed-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Baer</surname><given-names>J. S.</given-names></name><name><surname>Sampson</surname><given-names>P. D.</given-names></name><name><surname>Barr</surname><given-names>H. M.</given-names></name><name><surname>Connor</surname><given-names>P. D.</given-names></name><name><surname>Streissguth</surname><given-names>A. P.</given-names></name></person-group> (<year>2003</year>). <article-title>A 21-year longitudinal analysis of the effects of prenatal alcohol exposure on young adult drinking</article-title>. <source>Arch. Gen. Psychiatry</source>
+<volume>60</volume>, <fpage>377</fpage>–<lpage>385</lpage>. <pub-id pub-id-type="doi">10.1001/archpsyc.60.4.377</pub-id><?supplied-pmid 12695315?><pub-id pub-id-type="pmid">12695315</pub-id></mixed-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bordner</surname><given-names>K. A.</given-names></name><name><surname>Molina</surname><given-names>J. C.</given-names></name><name><surname>Spear</surname><given-names>N. E.</given-names></name></person-group> (<year>2008</year>). <article-title>Analysis of ethanol reinforcement in 1-day-old rats: assessment through a brief and novel operant procedure</article-title>. <source>Alcohol. Clin. Exp. Res.</source>
+<volume>32</volume>, <fpage>580</fpage>–<lpage>592</lpage>. <pub-id pub-id-type="doi">10.1111/j.1530-0277.2007.00609.x</pub-id><?supplied-pmid 18366451?><pub-id pub-id-type="pmid">18366451</pub-id></mixed-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brien</surname><given-names>J. F.</given-names></name><name><surname>Smith</surname><given-names>G. N.</given-names></name></person-group> (<year>1991</year>). <article-title>Effects of alcohol (ethanol) on the fetus</article-title>. <source>J. Dev. Physiol.</source>
+<volume>15</volume>, <fpage>21</fpage>–<lpage>32</lpage>. <?supplied-pmid 1875037?><pub-id pub-id-type="pmid">1875037</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brolese</surname><given-names>G.</given-names></name><name><surname>Lunardi</surname><given-names>P.</given-names></name><name><surname>Broetto</surname><given-names>N.</given-names></name><name><surname>Engelke</surname><given-names>D. S.</given-names></name><name><surname>Lirio</surname><given-names>F.</given-names></name><name><surname>Batassini</surname><given-names>C.</given-names></name><etal/></person-group>. (<year>2014</year>). <article-title>Moderate prenatal alcohol exposure alters behavior and neuroglial parameters in adolescent rats</article-title>. <source>Behav. Brain Res.</source>
+<volume>269</volume>, <fpage>175</fpage>–<lpage>184</lpage>. <pub-id pub-id-type="doi">10.1016/j.bbr.2014.04.023</pub-id><?supplied-pmid 24786333?><pub-id pub-id-type="pmid">24786333</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Burd</surname><given-names>L.</given-names></name><name><surname>Klug</surname><given-names>M.</given-names></name><name><surname>Martsolf</surname><given-names>J.</given-names></name></person-group> (<year>2004</year>). <article-title>Increased sibling mortality in children with fetal alcohol syndrome</article-title>. <source>Addict. Biol.</source>
+<volume>9</volume>, <fpage>179</fpage>–<lpage>186</lpage>. discussion: 187–178. <pub-id pub-id-type="doi">10.1080/13556210410001717088</pub-id><?supplied-pmid 15223547?><pub-id pub-id-type="pmid">15223547</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cheslock</surname><given-names>S. J.</given-names></name><name><surname>Varlinskaya</surname><given-names>E. I.</given-names></name><name><surname>Petrov</surname><given-names>E. S.</given-names></name><name><surname>Silveri</surname><given-names>M. M.</given-names></name><name><surname>Spear</surname><given-names>L. P.</given-names></name><name><surname>Spear</surname><given-names>N. E.</given-names></name></person-group> (<year>2001</year>). <article-title>Ethanol as a reinforcer in the newborn's first suckling experience</article-title>. <source>Alcohol. Clin. Exp. Res.</source>
+<volume>25</volume>, <fpage>391</fpage>–<lpage>402</lpage>. <pub-id pub-id-type="doi">10.1111/j.1530-0277.2001.tb02226.x</pub-id><?supplied-pmid 11290850?><pub-id pub-id-type="pmid">11290850</pub-id></mixed-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Closon</surname><given-names>C.</given-names></name><name><surname>Didone</surname><given-names>V.</given-names></name><name><surname>Tirelli</surname><given-names>E.</given-names></name><name><surname>Quertemont</surname><given-names>E.</given-names></name></person-group> (<year>2009</year>). <article-title>Acetaldehyde and the hypothermic effects of ethanol in mice</article-title>. <source>Alcohol. Clin. Exp. Res.</source>
+<volume>33</volume>, <fpage>2005</fpage>–<lpage>2014</lpage>. <pub-id pub-id-type="doi">10.1111/j.1530-0277.2009.01039.x</pub-id><?supplied-pmid 19719790?><pub-id pub-id-type="pmid">19719790</pub-id></mixed-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Correa</surname><given-names>M.</given-names></name><name><surname>Manrique</surname><given-names>H. M.</given-names></name><name><surname>Font</surname><given-names>L.</given-names></name><name><surname>Escrig</surname><given-names>M. A.</given-names></name><name><surname>Aragon</surname><given-names>C. M.</given-names></name></person-group> (<year>2008</year>). <article-title>Reduction in the anxiolytic effects of ethanol by centrally formed acetaldehyde: the role of catalase inhibitors and acetaldehyde-sequestering agents</article-title>. <source>Psychopharmacology</source>
+<volume>200</volume>, <fpage>455</fpage>–<lpage>464</lpage>. <pub-id pub-id-type="doi">10.1007/s00213-008-1219-3</pub-id><?supplied-pmid 18587667?><pub-id pub-id-type="pmid">18587667</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Correa</surname><given-names>M.</given-names></name><name><surname>Salamone</surname><given-names>J. D.</given-names></name><name><surname>Segovia</surname><given-names>K. N.</given-names></name><name><surname>Pardo</surname><given-names>M.</given-names></name><name><surname>Longoni</surname><given-names>R.</given-names></name><name><surname>Spina</surname><given-names>L.</given-names></name><etal/></person-group>. (<year>2012</year>). <article-title>Piecing together the puzzle of acetaldehyde as a neuroactive agent</article-title>. <source>Neurosci. Biobehav. Rev.</source>
+<volume>36</volume>, <fpage>404</fpage>–<lpage>430</lpage>. <pub-id pub-id-type="doi">10.1016/j.neubiorev.2011.07.009</pub-id><?supplied-pmid 21824493?><pub-id pub-id-type="pmid">21824493</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cullere</surname><given-names>M. E.</given-names></name><name><surname>Spear</surname><given-names>N. E.</given-names></name><name><surname>Molina</surname><given-names>J. C.</given-names></name></person-group> (<year>2014</year>). <article-title>Prenatal ethanol increases sucrose reinforcement, an effect strengthened by postnatal association of ethanol and sucrose</article-title>. <source>Alcohol</source>
+<volume>48</volume>, <fpage>25</fpage>–<lpage>33</lpage>. <pub-id pub-id-type="doi">10.1016/j.alcohol.2013.11.003</pub-id><?supplied-pmid 24398347?><pub-id pub-id-type="pmid">24398347</pub-id></mixed-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cullere</surname><given-names>M.</given-names></name><name><surname>Macchione</surname><given-names>A. F.</given-names></name><name><surname>Haymal</surname><given-names>B.</given-names></name><name><surname>Paradelo</surname><given-names>M.</given-names></name><name><surname>Langer</surname><given-names>M. D.</given-names></name><name><surname>Spear</surname><given-names>N. E.</given-names></name><etal/></person-group>. (<year>2015</year>). <article-title>Neonatal sensitization to ethanol-induced breathing disruptions as a function of late prenatal exposure to the drug in the rat: modulatory effects of ethanol's chemosensory cues</article-title>. <source>Physiol. Behav.</source>
+<volume>139</volume>, <fpage>412</fpage>–<lpage>422</lpage>. <pub-id pub-id-type="doi">10.1016/j.physbeh.2014.10.017</pub-id><?supplied-pmid 25447327?><pub-id pub-id-type="pmid">25447327</pub-id></mixed-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Del Maestro</surname><given-names>R.</given-names></name><name><surname>McDonald</surname><given-names>W.</given-names></name></person-group> (<year>1987</year>). <article-title>Distribution of superoxide dismutase, glutathione peroxidase and catalase in developing rat brain</article-title>. <source>Mech. Ageing Dev.</source>
+<volume>41</volume>, <fpage>29</fpage>–<lpage>38</lpage>. <pub-id pub-id-type="doi">10.1016/0047-6374(87)90051-0</pub-id><?supplied-pmid 3431167?><pub-id pub-id-type="pmid">3431167</pub-id></mixed-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dillner</surname><given-names>L.</given-names></name><name><surname>Josefson</surname><given-names>D.</given-names></name><name><surname>Karcher</surname><given-names>H.</given-names></name><name><surname>Sheldon</surname><given-names>T.</given-names></name><name><surname>Dorozynski</surname><given-names>A.</given-names></name><name><surname>Zinn</surname><given-names>C.</given-names></name></person-group> (<year>1996</year>). <article-title>Alcohol–pushing the limits</article-title>. <source>BMJ</source>
+<volume>312</volume>, <fpage>7</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1136/bmj.312.7022.7</pub-id><?supplied-pmid 8555891?><pub-id pub-id-type="pmid">8555891</pub-id></mixed-citation>
+      </ref>
+      <ref id="B24">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dobbing</surname><given-names>J.</given-names></name><name><surname>Sands</surname><given-names>J.</given-names></name></person-group> (<year>1973</year>). <article-title>Quantitative growth and development of human brain</article-title>. <source>Arch. Dis. Child.</source>
+<volume>48</volume>, <fpage>757</fpage>–<lpage>767</lpage>. <pub-id pub-id-type="doi">10.1136/adc.48.10.757</pub-id><?supplied-pmid 4796010?><pub-id pub-id-type="pmid">4796010</pub-id></mixed-citation>
+      </ref>
+      <ref id="B25">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dobbing</surname><given-names>J.</given-names></name><name><surname>Sands</surname><given-names>J.</given-names></name></person-group> (<year>1979</year>). <article-title>Comparative aspects of the brain growth spurt</article-title>. <source>Early Hum. Dev.</source>
+<volume>3</volume>, <fpage>79</fpage>–<lpage>83</lpage>. <pub-id pub-id-type="doi">10.1016/0378-3782(79)90022-7</pub-id><?supplied-pmid 118862?><pub-id pub-id-type="pmid">118862</pub-id></mixed-citation>
+      </ref>
+      <ref id="B26">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dominguez</surname><given-names>H. D.</given-names></name><name><surname>Lopez</surname><given-names>M. F.</given-names></name><name><surname>Chotro</surname><given-names>M. G.</given-names></name><name><surname>Molina</surname><given-names>J. C.</given-names></name></person-group> (<year>1996</year>). <article-title>Perinatal responsiveness to alcohol's chemosensory cues as a function of prenatal alcohol administration during gestational days 17-20 in the rat</article-title>. <source>Neurobiol. Learn. Mem.</source>
+<volume>65</volume>, <fpage>103</fpage>–<lpage>112</lpage>. <pub-id pub-id-type="doi">10.1006/nlme.1996.0012</pub-id><?supplied-pmid 8833099?><pub-id pub-id-type="pmid">8833099</pub-id></mixed-citation>
+      </ref>
+      <ref id="B27">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dominguez</surname><given-names>H. D.</given-names></name><name><surname>Lopez</surname><given-names>M. F.</given-names></name><name><surname>Molina</surname><given-names>J. C.</given-names></name></person-group> (<year>1998</year>). <article-title>Neonatal responsiveness to alcohol odor and infant alcohol intake as a function of alcohol experience during late gestation</article-title>. <source>Alcohol</source>
+<volume>16</volume>, <fpage>109</fpage>–<lpage>117</lpage>. <pub-id pub-id-type="doi">10.1016/S0741-8329(97)00169-9</pub-id><?supplied-pmid 9665312?><pub-id pub-id-type="pmid">9665312</pub-id></mixed-citation>
+      </ref>
+      <ref id="B28">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dubois</surname><given-names>C. J.</given-names></name><name><surname>Kervern</surname><given-names>M.</given-names></name><name><surname>Naassila</surname><given-names>M.</given-names></name><name><surname>Pierrefiche</surname><given-names>O.</given-names></name></person-group> (<year>2013</year>). <article-title>Chronic ethanol exposure during development: disturbances of breathing and adaptation</article-title>. <source>Respir. Physiol. Neurobiol.</source>
+<volume>189</volume>, <fpage>250</fpage>–<lpage>260</lpage>. <pub-id pub-id-type="doi">10.1016/j.resp.2013.06.015</pub-id><?supplied-pmid 23811193?><pub-id pub-id-type="pmid">23811193</pub-id></mixed-citation>
+      </ref>
+      <ref id="B29">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dubois</surname><given-names>C. J.</given-names></name><name><surname>Naassila</surname><given-names>M.</given-names></name><name><surname>Daoust</surname><given-names>M.</given-names></name><name><surname>Pierrefiche</surname><given-names>O.</given-names></name></person-group> (<year>2006</year>). <article-title>Early chronic ethanol exposure in rats disturbs respiratory network activity and increases sensitivity to ethanol</article-title>. <source>J. Physiol.</source>
+<volume>576</volume>(<issue>Pt 1</issue>), <fpage>297</fpage>–<lpage>307</lpage>. <pub-id pub-id-type="doi">10.1113/jphysiol.2006.111138</pub-id><?supplied-pmid 16857714?><pub-id pub-id-type="pmid">16857714</pub-id></mixed-citation>
+      </ref>
+      <ref id="B30">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Durand</surname><given-names>E.</given-names></name><name><surname>Dauger</surname><given-names>S.</given-names></name><name><surname>Vardon</surname><given-names>G.</given-names></name><name><surname>Gressens</surname><given-names>P.</given-names></name><name><surname>Gaultier</surname><given-names>C.</given-names></name><name><surname>De Schonen</surname><given-names>S.</given-names></name><etal/></person-group>. (<year>2003</year>). <article-title>Classical conditioning of breathing pattern after two acquisition trials in 2-day-old mice</article-title>. <source>J. Appl. Physiol. (1985)</source>
+<volume>94</volume>, <fpage>812</fpage>–<lpage>818</lpage>. <pub-id pub-id-type="doi">10.1152/japplphysiol.00488.2002</pub-id><?supplied-pmid 12391118?><pub-id pub-id-type="pmid">12391118</pub-id></mixed-citation>
+      </ref>
+      <ref id="B31">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Duxbury</surname><given-names>M.</given-names></name></person-group> (<year>2001</year>). <article-title>El papel de la enfermera en neonatología</article-title>, in <source>Neonatología: Fisiopatología y Manejo del Recién Nacido</source>, eds <person-group person-group-type="editor"><name><surname>Avery</surname><given-names>G.</given-names></name><name><surname>Flechter Hardcover</surname><given-names>M. A.</given-names></name></person-group> (<publisher-loc>Buenos Aires</publisher-loc>: <publisher-name>Editorial Médica Panamericana S.A</publisher-name>), <fpage>75</fpage>–<lpage>115</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B32">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Eikelboom</surname><given-names>R.</given-names></name><name><surname>Stewart</surname><given-names>J.</given-names></name></person-group> (<year>1982</year>). <article-title>Conditioning of drug-induced physiological responses</article-title>. <source>Psychol. Rev.</source>
+<volume>89</volume>, <fpage>507</fpage>–<lpage>528</lpage>. <pub-id pub-id-type="doi">10.1037/0033-295X.89.5.507</pub-id><?supplied-pmid 7178331?><pub-id pub-id-type="pmid">7178331</pub-id></mixed-citation>
+      </ref>
+      <ref id="B33">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Faas</surname><given-names>A. E.</given-names></name><name><surname>March</surname><given-names>S. M.</given-names></name><name><surname>Moya</surname><given-names>P. R.</given-names></name><name><surname>Molina</surname><given-names>J. C.</given-names></name></person-group> (<year>2015</year>). <article-title>Alcohol odor elicits appetitive facial expressions in human neonates prenatally exposed to the drug</article-title>. <source>Physiol. Behav.</source>
+<volume>148</volume>, <fpage>78</fpage>–<lpage>86</lpage>. <pub-id pub-id-type="doi">10.1016/j.physbeh.2015.02.031</pub-id><?supplied-pmid 25707382?><pub-id pub-id-type="pmid">25707382</pub-id></mixed-citation>
+      </ref>
+      <ref id="B34">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Faas</surname><given-names>A. E.</given-names></name><name><surname>Sponton</surname><given-names>E. D.</given-names></name><name><surname>Moya</surname><given-names>P. R.</given-names></name><name><surname>Molina</surname><given-names>J. C.</given-names></name></person-group> (<year>2000</year>). <article-title>Differential responsiveness to alcohol odor in human neonates: effects of maternal consumption during gestation</article-title>. <source>Alcohol</source>
+<volume>22</volume>, <fpage>7</fpage>–<lpage>17</lpage>. <pub-id pub-id-type="doi">10.1016/S0741-8329(00)00103-8</pub-id><?supplied-pmid 11109023?><pub-id pub-id-type="pmid">11109023</pub-id></mixed-citation>
+      </ref>
+      <ref id="B35">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fabio</surname><given-names>M. C.</given-names></name><name><surname>March</surname><given-names>S. M.</given-names></name><name><surname>Molina</surname><given-names>J. C.</given-names></name><name><surname>Nizhnikov</surname><given-names>M. E.</given-names></name><name><surname>Spear</surname><given-names>N. E.</given-names></name><name><surname>Pautassi</surname><given-names>R. M.</given-names></name></person-group> (<year>2013</year>). <article-title>Prenatal ethanol exposure increases ethanol intake and reduces c-Fos expression in infralimbic cortex of adolescent rats</article-title>. <source>Pharmacol. Biochem. Behav.</source>
+<volume>103</volume>, <fpage>842</fpage>–<lpage>852</lpage>. <pub-id pub-id-type="doi">10.1016/j.pbb.2012.12.009</pub-id><?supplied-pmid 23266368?><pub-id pub-id-type="pmid">23266368</pub-id></mixed-citation>
+      </ref>
+      <ref id="B36">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Foltran</surname><given-names>F.</given-names></name><name><surname>Gregori</surname><given-names>D.</given-names></name><name><surname>Franchin</surname><given-names>L.</given-names></name><name><surname>Verduci</surname><given-names>E.</given-names></name><name><surname>Giovannini</surname><given-names>M.</given-names></name></person-group> (<year>2011</year>). <article-title>Effect of alcohol consumption in prenatal life, childhood, and adolescence on child development</article-title>. <source>Nutr. Rev.</source>
+<volume>69</volume>, <fpage>642</fpage>–<lpage>659</lpage>. <pub-id pub-id-type="doi">10.1111/j.1753-4887.2011.00417.x</pub-id><?supplied-pmid 22029831?><pub-id pub-id-type="pmid">22029831</pub-id></mixed-citation>
+      </ref>
+      <ref id="B37">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gill</surname><given-names>K.</given-names></name><name><surname>Menez</surname><given-names>J. F.</given-names></name><name><surname>Lucas</surname><given-names>D.</given-names></name><name><surname>Deitrich</surname><given-names>R. A.</given-names></name></person-group> (<year>1992</year>). <article-title>Enzymatic production of acetaldehyde from ethanol in rat brain tissue</article-title>. <source>Alcohol. Clin. Exp. Res.</source>
+<volume>16</volume>, <fpage>910</fpage>–<lpage>915</lpage>. <pub-id pub-id-type="doi">10.1111/j.1530-0277.1992.tb01892.x</pub-id><?supplied-pmid 1443429?><pub-id pub-id-type="pmid">1443429</pub-id></mixed-citation>
+      </ref>
+      <ref id="B38">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Griesler</surname><given-names>P. C.</given-names></name><name><surname>Kandel</surname><given-names>D. B.</given-names></name></person-group> (<year>1998</year>). <article-title>The impact of maternal drinking during and after pregnancy on the drinking of adolescent offspring</article-title>. <source>J. Stud. Alcohol</source>
+<volume>59</volume>, <fpage>292</fpage>–<lpage>304</lpage>. <pub-id pub-id-type="doi">10.15288/jsa.1998.59.292</pub-id><?supplied-pmid 9598710?><pub-id pub-id-type="pmid">9598710</pub-id></mixed-citation>
+      </ref>
+      <ref id="B39">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hahn</surname><given-names>C. Y.</given-names></name><name><surname>Huang</surname><given-names>S. Y.</given-names></name><name><surname>Ko</surname><given-names>H. C.</given-names></name><name><surname>Hsieh</surname><given-names>C. H.</given-names></name><name><surname>Lee</surname><given-names>I. H.</given-names></name><name><surname>Yeh</surname><given-names>T. L.</given-names></name><etal/></person-group>. (<year>2006</year>). <article-title>Acetaldehyde involvement in positive and negative alcohol expectancies in han Chinese persons with alcoholism</article-title>. <source>Arch. Gen. Psychiatry</source>
+<volume>63</volume>, <fpage>817</fpage>–<lpage>823</lpage>. <pub-id pub-id-type="doi">10.1001/archpsyc.63.7.817</pub-id><?supplied-pmid 16818871?><pub-id pub-id-type="pmid">16818871</pub-id></mixed-citation>
+      </ref>
+      <ref id="B40">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hall</surname><given-names>W. G.</given-names></name></person-group> (<year>1979</year>). <article-title>Feeding and behavioral activation in infant rats</article-title>. <source>Science</source>
+<volume>205</volume>, <fpage>206</fpage>–<lpage>209</lpage>. <pub-id pub-id-type="doi">10.1126/science.451591</pub-id><?supplied-pmid 451591?><pub-id pub-id-type="pmid">451591</pub-id></mixed-citation>
+      </ref>
+      <ref id="B41">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hamby-Mason</surname><given-names>R.</given-names></name><name><surname>Chen</surname><given-names>J. J.</given-names></name><name><surname>Schenker</surname><given-names>S.</given-names></name><name><surname>Perez</surname><given-names>A.</given-names></name><name><surname>Henderson</surname><given-names>G. I.</given-names></name></person-group> (<year>1997</year>). <article-title>Catalase mediates acetaldehyde formation from ethanol in fetal and neonatal rat brain</article-title>. <source>Alcohol. Clin. Exp. Res.</source>
+<volume>21</volume>, <fpage>1063</fpage>–<lpage>1072</lpage>. <pub-id pub-id-type="doi">10.1111/j.1530-0277.1997.tb04255.x</pub-id><?supplied-pmid 9309319?><pub-id pub-id-type="pmid">9309319</pub-id></mixed-citation>
+      </ref>
+      <ref id="B42">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hipolito</surname><given-names>L.</given-names></name><name><surname>Sanchez</surname><given-names>M. J.</given-names></name><name><surname>Polache</surname><given-names>A.</given-names></name><name><surname>Granero</surname><given-names>L.</given-names></name></person-group> (<year>2007</year>). <article-title>Brain metabolism of ethanol and alcoholism: an update</article-title>. <source>Curr. Drug Metab.</source>
+<volume>8</volume>, <fpage>716</fpage>–<lpage>727</lpage>. <pub-id pub-id-type="doi">10.2174/138920007782109797</pub-id><?supplied-pmid 17979660?><pub-id pub-id-type="pmid">17979660</pub-id></mixed-citation>
+      </ref>
+      <ref id="B43">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hofer</surname><given-names>M. A.</given-names></name><name><surname>Shair</surname><given-names>H. N.</given-names></name><name><surname>Brunelli</surname><given-names>S. A.</given-names></name></person-group> (<year>2002</year>). <article-title>Ultrasonic vocalizations in rat and mouse pups</article-title>. <source>Curr. Protoc. Neurosci.</source> Chapter 8:Unit 8.14. <pub-id pub-id-type="doi">10.1002/0471142301.ns0814s17</pub-id><?supplied-pmid 18428567?><pub-id pub-id-type="pmid">18428567</pub-id></mixed-citation>
+      </ref>
+      <ref id="B44">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Holson</surname><given-names>R. R.</given-names></name><name><surname>Pearce</surname><given-names>B.</given-names></name></person-group> (<year>1992</year>). <article-title>Principles and pitfalls in the analysis of prenatal treatment effects in multiparous species</article-title>. <source>Neurotoxicol. Teratol.</source>
+<volume>14</volume>, <fpage>221</fpage>–<lpage>228</lpage>. <pub-id pub-id-type="doi">10.1016/0892-0362(92)90020-B</pub-id><?supplied-pmid 1635542?><pub-id pub-id-type="pmid">1635542</pub-id></mixed-citation>
+      </ref>
+      <ref id="B45">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Julien</surname><given-names>C. A.</given-names></name><name><surname>Joseph</surname><given-names>V.</given-names></name><name><surname>Bairam</surname><given-names>A.</given-names></name></person-group> (<year>2010</year>). <article-title>Caffeine reduces apnea frequency and enhances ventilatory long-term facilitation in rat pups raised in chronic intermittent hypoxia</article-title>. <source>Pediatr. Res.</source>
+<volume>68</volume>, <fpage>105</fpage>–<lpage>111</lpage>. <pub-id pub-id-type="doi">10.1203/PDR.0b013e3181e5bc78</pub-id><?supplied-pmid 20453714?><pub-id pub-id-type="pmid">20453714</pub-id></mixed-citation>
+      </ref>
+      <ref id="B46">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Macchione</surname><given-names>A. F.</given-names></name><name><surname>Anunziata</surname><given-names>F.</given-names></name><name><surname>Cullere</surname><given-names>M. E.</given-names></name><name><surname>Haymal</surname><given-names>B. O.</given-names></name><name><surname>Spear</surname><given-names>N.</given-names></name><name><surname>Abate</surname><given-names>P.</given-names></name><etal/></person-group>. (<year>2016</year>). <article-title>Conditioned breathing depression during neonatal life as a function of associating ethanol odor and the drug's intoxicating effects</article-title>. <source>Dev. Psychobiol.</source>
+<volume>58</volume>, <fpage>670</fpage>–<lpage>686</lpage>. <pub-id pub-id-type="doi">10.1002/dev.21398</pub-id><?supplied-pmid 27255447?><pub-id pub-id-type="pmid">27255447</pub-id></mixed-citation>
+      </ref>
+      <ref id="B47">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>March</surname><given-names>S. M.</given-names></name><name><surname>Abate</surname><given-names>P.</given-names></name><name><surname>Molina</surname><given-names>J. C.</given-names></name></person-group> (<year>2013a</year>). <article-title>Acetaldehyde involvement in ethanol's postabsortive effects during early ontogeny</article-title>. <source>Front. Behav. Neurosci.</source>
+<volume>7</volume>:<fpage>70</fpage>. <pub-id pub-id-type="doi">10.3389/fnbeh.2013.00070</pub-id><?supplied-pmid 23801947?><pub-id pub-id-type="pmid">23801947</pub-id></mixed-citation>
+      </ref>
+      <ref id="B48">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>March</surname><given-names>S. M.</given-names></name><name><surname>Abate</surname><given-names>P.</given-names></name><name><surname>Spear</surname><given-names>N. E.</given-names></name><name><surname>Molina</surname><given-names>J. C.</given-names></name></person-group> (<year>2009</year>). <article-title>Fetal exposure to moderate ethanol doses: heightened operant responsiveness elicited by ethanol-related reinforcers</article-title>. <source>Alcohol. Clin. Exp. Res.</source>
+<volume>33</volume>, <fpage>1981</fpage>–<lpage>1993</lpage>. <pub-id pub-id-type="doi">10.1111/j.1530-0277.2009.01037.x</pub-id><?supplied-pmid 19719792?><pub-id pub-id-type="pmid">19719792</pub-id></mixed-citation>
+      </ref>
+      <ref id="B49">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>March</surname><given-names>S. M.</given-names></name><name><surname>Abate</surname><given-names>P.</given-names></name><name><surname>Spear</surname><given-names>N. E.</given-names></name><name><surname>Molina</surname><given-names>J. C.</given-names></name></person-group> (<year>2013b</year>). <article-title>The role of acetaldehyde in ethanol reinforcement assessed by Pavlovian conditioning in newborn rats</article-title>. <source>Psychopharmacology</source>
+<volume>226</volume>, <fpage>491</fpage>–<lpage>499</lpage>. <pub-id pub-id-type="doi">10.1007/s00213-012-2920-9</pub-id><?supplied-pmid 23196716?><pub-id pub-id-type="pmid">23196716</pub-id></mixed-citation>
+      </ref>
+      <ref id="B50">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Miranda-Morales</surname><given-names>R. S.</given-names></name><name><surname>Molina</surname><given-names>J. C.</given-names></name><name><surname>Spear</surname><given-names>N. E.</given-names></name><name><surname>Abate</surname><given-names>P.</given-names></name></person-group> (<year>2010</year>). <article-title>Participation of the endogenous opioid system in the acquisition of a prenatal ethanol-related memory: effects on neonatal and preweanling responsiveness to ethanol</article-title>. <source>Physiol. Behav.</source>
+<volume>101</volume>, <fpage>153</fpage>–<lpage>160</lpage>. <pub-id pub-id-type="doi">10.1016/j.physbeh.2010.04.033</pub-id><?supplied-pmid 20451537?><pub-id pub-id-type="pmid">20451537</pub-id></mixed-citation>
+      </ref>
+      <ref id="B51">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Miranda-Morales</surname><given-names>R. S.</given-names></name><name><surname>Molina</surname><given-names>J. C.</given-names></name><name><surname>Spear</surname><given-names>N. E.</given-names></name><name><surname>Abate</surname><given-names>P.</given-names></name></person-group> (<year>2012a</year>). <article-title>Naloxone attenuation of ethanol-reinforced operant responding in infant rats in a re-exposure paradigm</article-title>. <source>Psychopharmacology</source>
+<volume>219</volume>, <fpage>235</fpage>–<lpage>246</lpage>. <pub-id pub-id-type="doi">10.1007/s00213-011-2402-5</pub-id><?supplied-pmid 21750896?><pub-id pub-id-type="pmid">21750896</pub-id></mixed-citation>
+      </ref>
+      <ref id="B52">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Miranda-Morales</surname><given-names>R. S.</given-names></name><name><surname>Nizhnikov</surname><given-names>M. E.</given-names></name><name><surname>Spear</surname><given-names>N. E.</given-names></name></person-group> (<year>2014</year>). <article-title>Prenatal exposure to ethanol during late gestation facilitates operant self-administration of the drug in 5-day-old rats</article-title>. <source>Alcohol</source>
+<volume>48</volume>, <fpage>19</fpage>–<lpage>23</lpage>. <pub-id pub-id-type="doi">10.1016/j.alcohol.2013.11.001</pub-id><?supplied-pmid 24355072?><pub-id pub-id-type="pmid">24355072</pub-id></mixed-citation>
+      </ref>
+      <ref id="B53">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Miranda-Morales</surname><given-names>R. S.</given-names></name><name><surname>Spear</surname><given-names>N. E.</given-names></name><name><surname>Nizhnikov</surname><given-names>M. E.</given-names></name><name><surname>Molina</surname><given-names>J. C.</given-names></name><name><surname>Abate</surname><given-names>P.</given-names></name></person-group> (<year>2012b</year>). <article-title>Role of mu, delta and kappa opioid receptors in ethanol-reinforced operant responding in infant rats</article-title>. <source>Behav. Brain Res.</source>
+<volume>234</volume>, <fpage>267</fpage>–<lpage>277</lpage>. <pub-id pub-id-type="doi">10.1016/j.bbr.2012.07.002</pub-id><?supplied-pmid 22789403?><pub-id pub-id-type="pmid">22789403</pub-id></mixed-citation>
+      </ref>
+      <ref id="B54">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Molina</surname><given-names>J. C.</given-names></name><name><surname>Bannoura</surname><given-names>M. D.</given-names></name><name><surname>Chotro</surname><given-names>M. G.</given-names></name><name><surname>McKinzie</surname><given-names>D. L.</given-names></name><name><surname>Arnold</surname><given-names>H. M.</given-names></name><name><surname>Spear</surname><given-names>N. E.</given-names></name></person-group> (<year>1996</year>). <article-title>Alcohol-mediated tactile conditioned aversions in infant rats: devaluation of conditioning through alcohol-sucrose associations</article-title>. <source>Neurobiol. Learn. Mem.</source>
+<volume>66</volume>, <fpage>121</fpage>–<lpage>132</lpage>. <pub-id pub-id-type="doi">10.1006/nlme.1996.0053</pub-id><?supplied-pmid 8946405?><pub-id pub-id-type="pmid">8946405</pub-id></mixed-citation>
+      </ref>
+      <ref id="B55">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Molina</surname><given-names>J. C.</given-names></name><name><surname>Pautassi</surname><given-names>R. M.</given-names></name><name><surname>Truxell</surname><given-names>E.</given-names></name><name><surname>Spear</surname><given-names>N.</given-names></name></person-group> (<year>2007</year>). <article-title>Differential motivational properties of ethanol during early ontogeny as a function of dose and postadministration time</article-title>. <source>Alcohol</source>
+<volume>41</volume>, <fpage>41</fpage>–<lpage>55</lpage>. <pub-id pub-id-type="doi">10.1016/j.alcohol.2007.01.005</pub-id><?supplied-pmid 17452298?><pub-id pub-id-type="pmid">17452298</pub-id></mixed-citation>
+      </ref>
+      <ref id="B56">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Molina</surname><given-names>J. C.</given-names></name><name><surname>Pepino</surname><given-names>M. Y.</given-names></name><name><surname>Johnson</surname><given-names>J.</given-names></name><name><surname>Spear</surname><given-names>N. E.</given-names></name></person-group> (<year>2000</year>). <article-title>The infant rat learns about alcohol through interaction with an intoxicated mother</article-title>. <source>Alcohol. Clin. Exp. Res.</source>
+<volume>24</volume>, <fpage>428</fpage>–<lpage>437</lpage>. <pub-id pub-id-type="doi">10.1111/j.1530-0277.2000.tb02009.x</pub-id><?supplied-pmid 10798578?><pub-id pub-id-type="pmid">10798578</pub-id></mixed-citation>
+      </ref>
+      <ref id="B57">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><collab>National Research Council</collab></person-group> (<year>1996</year>). <source>Guide for the Care and Use of Laboratory Animals</source>. <publisher-loc>Washington, DC</publisher-loc>: <publisher-name>National Academy Press</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="B58">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nizhnikov</surname><given-names>M. E.</given-names></name><name><surname>Molina</surname><given-names>J. C.</given-names></name><name><surname>Spear</surname><given-names>N. E.</given-names></name></person-group> (<year>2007</year>). <article-title>Central reinforcing effects of ethanol are blocked by catalase inhibition</article-title>. <source>Alcohol</source>
+<volume>41</volume>, <fpage>525</fpage>–<lpage>534</lpage>. <pub-id pub-id-type="doi">10.1016/j.alcohol.2007.08.006</pub-id><?supplied-pmid 17980789?><pub-id pub-id-type="pmid">17980789</pub-id></mixed-citation>
+      </ref>
+      <ref id="B59">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nizhnikov</surname><given-names>M. E.</given-names></name><name><surname>Varlinskaya</surname><given-names>E. I.</given-names></name><name><surname>Spear</surname><given-names>N. E.</given-names></name></person-group> (<year>2006</year>). <article-title>Reinforcing effects of central ethanol injections in newborn rat pups</article-title>. <source>Alcohol. Clin. Exp. Res.</source>
+<volume>30</volume>, <fpage>2089</fpage>–<lpage>2096</lpage>. <pub-id pub-id-type="doi">10.1111/j.1530-0277.2006.00253.x</pub-id><?supplied-pmid 17117974?><pub-id pub-id-type="pmid">17117974</pub-id></mixed-citation>
+      </ref>
+      <ref id="B60">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>O'Leary</surname><given-names>C. M.</given-names></name><name><surname>Jacoby</surname><given-names>P. J.</given-names></name><name><surname>Bartu</surname><given-names>A.</given-names></name><name><surname>D'Antoine</surname><given-names>H.</given-names></name><name><surname>Bower</surname><given-names>C.</given-names></name></person-group> (<year>2013</year>). <article-title>Maternal alcohol use and sudden infant death syndrome and infant mortality excluding SIDS</article-title>. <source>Pediatrics</source>
+<volume>131</volume>, <fpage>e770</fpage>–<lpage>e778</lpage>. <pub-id pub-id-type="doi">10.1542/peds.2012-1907</pub-id><?supplied-pmid 23439895?><pub-id pub-id-type="pmid">23439895</pub-id></mixed-citation>
+      </ref>
+      <ref id="B61">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pautassi</surname><given-names>R. M.</given-names></name><name><surname>Nizhnikov</surname><given-names>M. E.</given-names></name><name><surname>Fabio</surname><given-names>M. C.</given-names></name><name><surname>Spear</surname><given-names>N. E.</given-names></name></person-group> (<year>2011</year>). <article-title>An acetaldehyde-sequestering agent inhibits appetitive reinforcement and behavioral stimulation induced by ethanol in preweanling rats</article-title>. <source>Pharmacol. Biochem. Behav.</source>
+<volume>97</volume>, <fpage>462</fpage>–<lpage>469</lpage>. <pub-id pub-id-type="doi">10.1016/j.pbb.2010.10.005</pub-id><?supplied-pmid 20951160?><pub-id pub-id-type="pmid">20951160</pub-id></mixed-citation>
+      </ref>
+      <ref id="B62">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pautassi</surname><given-names>R. M.</given-names></name><name><surname>Nizhnikov</surname><given-names>M. E.</given-names></name><name><surname>Spear</surname><given-names>N. E.</given-names></name><name><surname>Molina</surname><given-names>J. C.</given-names></name></person-group> (<year>2012</year>). <article-title>Prenatal ethanol exposure leads to greater ethanol-induced appetitive reinforcement</article-title>. <source>Alcohol</source>
+<volume>46</volume>, <fpage>585</fpage>–<lpage>593</lpage>. <pub-id pub-id-type="doi">10.1016/j.alcohol.2012.05.004</pub-id><?supplied-pmid 22698870?><pub-id pub-id-type="pmid">22698870</pub-id></mixed-citation>
+      </ref>
+      <ref id="B63">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pautassi</surname><given-names>R. M.</given-names></name><name><surname>Nizhnikov</surname><given-names>M.</given-names></name><name><surname>Molina</surname><given-names>J. C.</given-names></name><name><surname>Boehm</surname><given-names>S. L.</given-names><suffix>II.</suffix></name><name><surname>Spear</surname><given-names>N.</given-names></name></person-group> (<year>2007</year>). <article-title>Differential effects of ethanol and midazolam upon the devaluation of an aversive memory in infant rats</article-title>. <source>Alcohol</source>
+<volume>41</volume>, <fpage>421</fpage>–<lpage>431</lpage>. <pub-id pub-id-type="doi">10.1016/j.alcohol.2007.05.001</pub-id><?supplied-pmid 17936511?><pub-id pub-id-type="pmid">17936511</pub-id></mixed-citation>
+      </ref>
+      <ref id="B64">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pautassi</surname><given-names>R. M.</given-names></name><name><surname>Sanders</surname><given-names>S.</given-names></name><name><surname>Miller</surname><given-names>S.</given-names></name><name><surname>Spear</surname><given-names>N.</given-names></name><name><surname>Molina</surname><given-names>J. C.</given-names></name></person-group> (<year>2006</year>). <article-title>Early ethanol's anxiolytic effects assessed through an unconditional stimulus revaluation procedure</article-title>. <source>Alcohol. Clin. Exp. Res.</source>
+<volume>30</volume>, <fpage>448</fpage>–<lpage>459</lpage>. <pub-id pub-id-type="doi">10.1111/j.1530-0277.2006.00049.x</pub-id><?supplied-pmid 16499485?><pub-id pub-id-type="pmid">16499485</pub-id></mixed-citation>
+      </ref>
+      <ref id="B65">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Petrov</surname><given-names>E. S.</given-names></name><name><surname>Varlinskaya</surname><given-names>E. I.</given-names></name><name><surname>Becker</surname><given-names>L. A.</given-names></name><name><surname>Smotherman</surname><given-names>W. P.</given-names></name></person-group> (<year>1998</year>). <article-title>Endogenous mu opioid systems and suckling in the neonatal rat</article-title>. <source>Physiol. Behav.</source>
+<volume>65</volume>, <fpage>591</fpage>–<lpage>599</lpage>. <pub-id pub-id-type="doi">10.1016/S0031-9384(98)00228-5</pub-id><?supplied-pmid 9877428?><pub-id pub-id-type="pmid">9877428</pub-id></mixed-citation>
+      </ref>
+      <ref id="B66">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pillekamp</surname><given-names>F.</given-names></name><name><surname>Hermann</surname><given-names>C.</given-names></name><name><surname>Keller</surname><given-names>T.</given-names></name><name><surname>von Gontard</surname><given-names>A.</given-names></name><name><surname>Kribs</surname><given-names>A.</given-names></name><name><surname>Roth</surname><given-names>B.</given-names></name></person-group> (<year>2007</year>). <article-title>Factors influencing apnea and bradycardia of prematurity - implications for neurodevelopment</article-title>. <source>Neonatology</source>
+<volume>91</volume>, <fpage>155</fpage>–<lpage>161</lpage>. <pub-id pub-id-type="doi">10.1159/000097446</pub-id><?supplied-pmid 17377399?><pub-id pub-id-type="pmid">17377399</pub-id></mixed-citation>
+      </ref>
+      <ref id="B67">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Quertemont</surname><given-names>E.</given-names></name><name><surname>Didone</surname><given-names>V.</given-names></name></person-group> (<year>2006</year>). <article-title>Role of acetaldehyde in mediating the pharmacological and behavioral effects of alcohol</article-title>. <source>Alcohol Res. Health</source>
+<volume>29</volume>, <fpage>258</fpage>–<lpage>265</lpage>. <?supplied-pmid 17718404?><pub-id pub-id-type="pmid">17718404</pub-id></mixed-citation>
+      </ref>
+      <ref id="B68">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Quertemont</surname><given-names>E.</given-names></name><name><surname>Grant</surname><given-names>K. A.</given-names></name><name><surname>Correa</surname><given-names>M.</given-names></name><name><surname>Arizzi</surname><given-names>M. N.</given-names></name><name><surname>Salamone</surname><given-names>J. D.</given-names></name><name><surname>Tambour</surname><given-names>S.</given-names></name><etal/></person-group>. (<year>2005</year>). <article-title>The role of acetaldehyde in the central effects of ethanol</article-title>. <source>Alcohol. Clin. Exp. Res.</source>
+<volume>29</volume>, <fpage>221</fpage>–<lpage>234</lpage>. <pub-id pub-id-type="doi">10.1097/01.ALC.0000156185.39073.D2</pub-id><?supplied-pmid 15714045?><pub-id pub-id-type="pmid">15714045</pub-id></mixed-citation>
+      </ref>
+      <ref id="B69">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Savage</surname><given-names>D. D.</given-names></name><name><surname>Becher</surname><given-names>M.</given-names></name><name><surname>de la Torre</surname><given-names>A. J.</given-names></name><name><surname>Sutherland</surname><given-names>R. J.</given-names></name></person-group> (<year>2002</year>). <article-title>Dose-dependent effects of prenatal ethanol exposure on synaptic plasticity and learning in mature offspring</article-title>. <source>Alcohol. Clin. Exp. Res.</source>
+<volume>26</volume>, <fpage>1752</fpage>–<lpage>1758</lpage>. <pub-id pub-id-type="doi">10.1111/j.1530-0277.2002.tb02480.x</pub-id><?supplied-pmid 12436066?><pub-id pub-id-type="pmid">12436066</pub-id></mixed-citation>
+      </ref>
+      <ref id="B70">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schrock</surname><given-names>A.</given-names></name><name><surname>Fidi</surname><given-names>C.</given-names></name><name><surname>Low</surname><given-names>M.</given-names></name><name><surname>Baumgarten</surname><given-names>K.</given-names></name></person-group> (<year>1989</year>). <article-title>Low-dose ethanol for inhibition of preterm uterine activity</article-title>. <source>Am. J. Perinatol.</source>
+<volume>6</volume>, <fpage>191</fpage>–<lpage>195</lpage>. <pub-id pub-id-type="doi">10.1055/s-2007-999574</pub-id><?supplied-pmid 2712916?><pub-id pub-id-type="pmid">2712916</pub-id></mixed-citation>
+      </ref>
+      <ref id="B71">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Spear</surname><given-names>N. E.</given-names></name><name><surname>Molina</surname><given-names>J. C.</given-names></name></person-group> (<year>2005</year>). <article-title>Fetal or infantile exposure to ethanol promotes ethanol ingestion in adolescence and adulthood: a theoretical review</article-title>. <source>Alcohol. Clin. Exp. Res.</source>
+<volume>29</volume>, <fpage>909</fpage>–<lpage>929</lpage>. <pub-id pub-id-type="doi">10.1097/01.ALC.0000171046.78556.66</pub-id><?supplied-pmid 15976517?><pub-id pub-id-type="pmid">15976517</pub-id></mixed-citation>
+      </ref>
+      <ref id="B72">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Varlinskaya</surname><given-names>E. I.</given-names></name><name><surname>Petrov</surname><given-names>E. S.</given-names></name><name><surname>Smotherman</surname><given-names>W. P.</given-names></name></person-group> (<year>1996</year>). <article-title>Classical conditioning in the fetal rat: reinforcing properties of dynorphin A (1-13)</article-title>. <source>Behav. Neurosci.</source>
+<volume>110</volume>, <fpage>154</fpage>–<lpage>167</lpage>. <pub-id pub-id-type="doi">10.1037/0735-7044.110.1.154</pub-id><?supplied-pmid 8652064?><pub-id pub-id-type="pmid">8652064</pub-id></mixed-citation>
+      </ref>
+      <ref id="B73">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vojcek</surname><given-names>L.</given-names></name><name><surname>Lampe</surname><given-names>L. G.</given-names></name><name><surname>Princzkel</surname><given-names>E.</given-names></name><name><surname>Turnbull</surname><given-names>A. C.</given-names></name></person-group> (<year>1988</year>). <article-title>Effects of ethanol infusion on foetal EEG and breathing movements</article-title>. <source>Acta Physiol. Hung.</source>
+<volume>71</volume>, <fpage>511</fpage>–<lpage>515</lpage>. <?supplied-pmid 3207039?><pub-id pub-id-type="pmid">3207039</pub-id></mixed-citation>
+      </ref>
+      <ref id="B74">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wall</surname><given-names>T. L.</given-names></name><name><surname>Thomasson</surname><given-names>H. R.</given-names></name><name><surname>Schuckit</surname><given-names>M. A.</given-names></name><name><surname>Ehlers</surname><given-names>C. L.</given-names></name></person-group> (<year>1992</year>). <article-title>Subjective feelings of alcohol intoxication in Asians with genetic variations of ALDH2 alleles</article-title>. <source>Alcohol. Clin. Exp. Res.</source>
+<volume>16</volume>, <fpage>991</fpage>–<lpage>995</lpage>. <pub-id pub-id-type="doi">10.1111/j.1530-0277.1992.tb01907.x</pub-id><?supplied-pmid 1443441?><pub-id pub-id-type="pmid">1443441</pub-id></mixed-citation>
+      </ref>
+      <ref id="B75">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Winer</surname><given-names>B. J.</given-names></name></person-group> (<year>1991</year>). <source>Statistical Principles in Experimental Design, 2nd Edn</source>. <publisher-loc>New York, NY</publisher-loc>: <publisher-name>McGraw-Hill</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="B76">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wise</surname><given-names>R. A.</given-names></name></person-group> (<year>2002</year>). <article-title>Brain reward circuitry: insights from unsensed incentives</article-title>. <source>Neuron</source>
+<volume>36</volume>, <fpage>229</fpage>–<lpage>240</lpage>. <pub-id pub-id-type="doi">10.1016/S0896-6273(02)00965-0</pub-id><?supplied-pmid 12383779?><pub-id pub-id-type="pmid">12383779</pub-id></mixed-citation>
+      </ref>
+      <ref id="B77">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Woods</surname><given-names>S. C.</given-names></name><name><surname>Ramsay</surname><given-names>D. S.</given-names></name></person-group> (<year>2000</year>). <article-title>Pavlovian influences over food and drug intake</article-title>. <source>Behav. Brain Res.</source>
+<volume>110</volume>, <fpage>175</fpage>–<lpage>182</lpage>. <pub-id pub-id-type="doi">10.1016/S0166-4328(99)00194-1</pub-id><?supplied-pmid 10802313?><pub-id pub-id-type="pmid">10802313</pub-id></mixed-citation>
+      </ref>
+      <ref id="B78">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yates</surname><given-names>W. R.</given-names></name><name><surname>Cadoret</surname><given-names>R. J.</given-names></name><name><surname>Troughton</surname><given-names>E. P.</given-names></name><name><surname>Stewart</surname><given-names>M.</given-names></name><name><surname>Giunta</surname><given-names>T. S.</given-names></name></person-group> (<year>1998</year>). <article-title>Effect of fetal alcohol exposure on adult symptoms of nicotine, alcohol, and drug dependence</article-title>. <source>Alcohol. Clin. Exp. Res.</source>
+<volume>22</volume>, <fpage>914</fpage>–<lpage>920</lpage>. <pub-id pub-id-type="doi">10.1111/j.1530-0277.1998.tb03889.x</pub-id><?supplied-pmid 9660322?><pub-id pub-id-type="pmid">9660322</pub-id></mixed-citation>
+      </ref>
+      <ref id="B79">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Young</surname><given-names>C.</given-names></name><name><surname>Olney</surname><given-names>J. W.</given-names></name></person-group> (<year>2006</year>). <article-title>Neuroapoptosis in the infant mouse brain triggered by a transient small increase in blood alcohol concentration</article-title>. <source>Neurobiol. Dis.</source>
+<volume>22</volume>, <fpage>548</fpage>–<lpage>554</lpage>. <pub-id pub-id-type="doi">10.1016/j.nbd.2005.12.015</pub-id><?supplied-pmid 16459096?><pub-id pub-id-type="pmid">16459096</pub-id></mixed-citation>
+      </ref>
+      <ref id="B80">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zimatkin</surname><given-names>S. M.</given-names></name><name><surname>Pronko</surname><given-names>S. P.</given-names></name><name><surname>Vasiliou</surname><given-names>V.</given-names></name><name><surname>Gonzalez</surname><given-names>F. J.</given-names></name><name><surname>Deitrich</surname><given-names>R. A.</given-names></name></person-group> (<year>2006</year>). <article-title>Enzymatic mechanisms of ethanol oxidation in the brain</article-title>. <source>Alcohol. Clin. Exp. Res.</source>
+<volume>30</volume>, <fpage>1500</fpage>–<lpage>1505</lpage>. <pub-id pub-id-type="doi">10.1111/j.1530-0277.2006.00181.x</pub-id><?supplied-pmid 16930212?><pub-id pub-id-type="pmid">16930212</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record>

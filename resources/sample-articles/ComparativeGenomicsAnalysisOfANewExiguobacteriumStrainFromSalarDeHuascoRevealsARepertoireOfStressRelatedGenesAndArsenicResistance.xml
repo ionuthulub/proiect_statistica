@@ -1,0 +1,1480 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5360010</identifier><datestamp>2017-04-04</datestamp><setSpec>frontmicrobio</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Microbiol</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Microbiol</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Microbiol.</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Microbiology</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1664-302X</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5360010</article-id>
+      <article-id pub-id-type="pmcid">PMC5360010</article-id>
+      <article-id pub-id-type="pmc-uid">5360010</article-id>
+      <article-id pub-id-type="doi">10.3389/fmicb.2017.00456</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Microbiology</subject>
+          <subj-group>
+            <subject>Original Research</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Comparative Genomics Analysis of a New <italic>Exiguobacterium</italic> Strain from Salar de Huasco Reveals a Repertoire of Stress-Related Genes and Arsenic Resistance</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Castro-Severyn</surname>
+            <given-names>Juan</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn002">
+            <sup>†</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/344778/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Remonsellez</surname>
+            <given-names>Francisco</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn002">
+            <sup>†</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/362659/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Valenzuela</surname>
+            <given-names>Sandro L.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/306332/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Salinas</surname>
+            <given-names>Cesar</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/408929/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fortt</surname>
+            <given-names>Jonathan</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/361868/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Aguilar</surname>
+            <given-names>Pablo</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff4">
+            <sup>4</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/314141/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pardo-Esté</surname>
+            <given-names>Coral</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/359347/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dorador</surname>
+            <given-names>Cristina</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff4">
+            <sup>4</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff5">
+            <sup>5</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/144520/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Quatrini</surname>
+            <given-names>Raquel</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff6">
+            <sup>6</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/29631/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Molina</surname>
+            <given-names>Franck</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff7">
+            <sup>7</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Aguayo</surname>
+            <given-names>Daniel</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff8">
+            <sup>8</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Castro-Nallar</surname>
+            <given-names>Eduardo</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn001">
+            <sup>*</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/306807/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Saavedra</surname>
+            <given-names>Claudia P.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn001">
+            <sup>*</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/361645/overview"/>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <sup>1</sup>
+        <institution>Laboratorio de Microbiología Molecular, Departamento de Ciencias Biológicas, Facultad de Ciencias Biológicas, Universidad Andres Bello</institution>
+        <country>Santiago, Chile</country>
+      </aff>
+      <aff id="aff2">
+        <sup>2</sup>
+        <institution>Centro de Bioinformática y Biología Integrativa, Facultad de Ciencias Biológicas, Universidad Andrés Bello</institution>
+        <country>Santiago, Chile</country>
+      </aff>
+      <aff id="aff3">
+        <sup>3</sup>
+        <institution>Laboratorio de Tecnologías de Membranas, Biotecnología y Medio Ambiente, Departamento de Ingeniería Química, Facultad de Ingeniería y Ciencias Geológicas, Universidad Católica del Norte</institution>
+        <country>Antofagasta, Chile</country>
+      </aff>
+      <aff id="aff4">
+        <sup>4</sup>
+        <institution>Laboratorio de Complejidad Microbiana y Ecología Funcional, Instituto Antofagasta and Departamento de Biotecnología, Facultad de Ciencias del Mar y Recursos Biológicos, Universidad de Antofagasta</institution>
+        <country>Antofagasta, Chile</country>
+      </aff>
+      <aff id="aff5">
+        <sup>5</sup>
+        <institution>Centre for Biotechnology and Bioengineering</institution>
+        <country>Antofagasta, Chile</country>
+      </aff>
+      <aff id="aff6">
+        <sup>6</sup>
+        <institution>Laboratorio de Ecofisiología Microbiana, Fundación Ciencia and Vida</institution>
+        <country>Santiago, Chile</country>
+      </aff>
+      <aff id="aff7">
+        <sup>7</sup>
+        <institution>Sys2Diag CNRS/Bio-Rad UMR3145</institution>
+        <country>Montpellier, France</country>
+      </aff>
+      <aff id="aff8">
+        <sup>8</sup>
+        <institution>Centro Interdisciplinario de Neurociencia de Valparaíso, Facultad de Ciencias, Universidad de Valparaíso</institution>
+        <country>Valparaíso, Chile</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <p>Edited by: <italic>Martin G. Klotz, Queens College (CUNY), USA</italic></p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Reviewed by: <italic>Adrian Gustavo Turjanski, University of Buenos Aires, Argentina; Tatiana A. Vishnivetskaya, University of Tennessee, Knoxville, USA</italic></p>
+        </fn>
+        <corresp id="fn001">*Correspondence: <italic>Eduardo Castro-Nallar, <email xlink:type="simple">eduardo.castro@unab.cl</email> Claudia P. Saavedra, <email xlink:type="simple">csaavedra@unab.cl</email></italic></corresp>
+        <fn fn-type="other" id="fn002">
+          <p>
+            <sup>†</sup>
+            <italic>These authors have contributed equally to this work.</italic>
+          </p>
+        </fn>
+        <fn fn-type="other" id="fn003">
+          <p>This article was submitted to Evolutionary and Genomic Microbiology, a section of the journal Frontiers in Microbiology</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>3</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2017</year>
+      </pub-date>
+      <volume>8</volume>
+      <elocation-id>456</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>09</day>
+          <month>8</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>06</day>
+          <month>3</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2017 Castro-Severyn, Remonsellez, Valenzuela, Salinas, Fortt, Aguilar, Pardo-Esté, Dorador, Quatrini, Molina, Aguayo, Castro-Nallar and Saavedra.</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <copyright-holder>Castro-Severyn, Remonsellez, Valenzuela, Salinas, Fortt, Aguilar, Pardo-Esté, Dorador, Quatrini, Molina, Aguayo, Castro-Nallar and Saavedra</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The Atacama Desert hosts diverse ecosystems including salt flats and shallow Andean lakes. Several heavy metals are found in the Atacama Desert, and microorganisms growing in this environment show varying levels of resistance/tolerance to copper, tellurium, and arsenic, among others. Herein, we report the genome sequence and comparative genomic analysis of a new <italic>Exiguobacterium</italic> strain, sp. SH31, isolated from an altiplanic shallow athalassohaline lake. <italic>Exiguobacterium</italic> sp. SH31 belongs to the phylogenetic Group II and its closest relative is <italic>Exiguobacterium</italic> sp. S17, isolated from the Argentinian Altiplano (95% average nucleotide identity). Strain SH31 encodes a wide repertoire of proteins required for cadmium, copper, mercury, tellurium, chromium, and arsenic resistance. Of the 34 <italic>Exiguobacterium</italic> genomes that were inspected, only isolates SH31 and S17 encode the arsenic efflux pump Acr3. Strain SH31 was able to grow in up to 10 mM arsenite and 100 mM arsenate, indicating that it is arsenic resistant. Further, expression of the <italic>ars</italic> operon and <italic>acr3</italic> was strongly induced in response to both toxics, suggesting that the arsenic efflux pump Acr3 mediates arsenic resistance in <italic>Exiguobacterium</italic> sp. SH31.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>
+          <italic>Exiguobacterium</italic>
+        </kwd>
+        <kwd>polyextremophile</kwd>
+        <kwd>stress</kwd>
+        <kwd>comparative genomics</kwd>
+        <kwd>Chilean Altiplano</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source id="cn001">ComisiÃ³n Nacional de InvestigaciÃ³n CientÃ-fica y TecnolÃ³gica<named-content content-type="fundref-id">10.13039/501100002848</named-content></funding-source>
+          <award-id rid="cn001">FONDECYT 1160315</award-id>
+        </award-group>
+      </funding-group>
+      <counts>
+        <fig-count count="5"/>
+        <table-count count="2"/>
+        <equation-count count="0"/>
+        <ref-count count="112"/>
+        <page-count count="14"/>
+        <word-count count="0"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Introduction</title>
+      <p>Extremophiles are microorganisms from all three domains of life (Bacteria, Archaea and Eukarya) that grow in the most hostile environments found on Earth, where they must withstand conditions including extreme pH, temperature, salinity, pressure, UV radiation, and the presence of heavy metals or toxic compounds. In some cases, extremophiles face more than one extreme condition simultaneously, and are called polyextremophiles (<xref rid="B88" ref-type="bibr">Seufferheld et al., 2008</xref>; <xref rid="B14" ref-type="bibr">Bowers et al., 2009</xref>; <xref rid="B38" ref-type="bibr">Farías et al., 2013</xref>; <xref rid="B59" ref-type="bibr">Kurth et al., 2015</xref>). To survive under extreme conditions, microbes finely tune gene expression, modulating the levels of proteins implicated in the response to stress (<xref rid="B35" ref-type="bibr">Duché et al., 2002</xref>). Since their discovery, extremophiles have attracted researchers because of their unique physiology, ability to adapt to different environments, and for their potential use in biotechnology (<xref rid="B83" ref-type="bibr">Rothschild and Mancinelli, 2001</xref>).</p>
+      <p>The Andean Plateau region in West Central South America, the Altiplano, hosts a rich microbial diversity and remains an untapped resource for understanding the genetic diversity and distribution of polyextremophiles (<xref rid="B20" ref-type="bibr">Catalán et al., 2006</xref>). High-altitude Andean Lakes (HAALs) are exposed to some of the highest levels of solar radiation on Earth (<xref rid="B4" ref-type="bibr">Albarracín et al., 2015</xref>). Further, water bodies found in the Altiplano (i.e., shallow lakes, ponds, streams, etc.) are highly diverse, showing different chemical compositions, temperatures, evaporation rates, and depths, among other conditions. Together, these factors drive the changing community structure of rich polyextreme microbiota that populates these lakes (<xref rid="B64" ref-type="bibr">Márquez-García et al., 2009</xref>; <xref rid="B34" ref-type="bibr">Dorador et al., 2013</xref>; <xref rid="B24" ref-type="bibr">Cordero et al., 2014</xref>). Despite these harsh conditions, almost 500 strains of prokaryotes (archaea, cyanobacteria and eubacteria) and lower eukaryotes (fungi and yeast) have been isolated from bacterioplankton, benthos, microbial mats, and soils surrounding HAALs (<xref rid="B28" ref-type="bibr">Dib et al., 2008</xref>; <xref rid="B40" ref-type="bibr">Flores et al., 2009</xref>; <xref rid="B72" ref-type="bibr">Ordoñez et al., 2009</xref>; <xref rid="B27" ref-type="bibr">Di Capua et al., 2011</xref>; <xref rid="B62" ref-type="bibr">Lynch et al., 2012</xref>; <xref rid="B15" ref-type="bibr">Bull and Asenjo, 2013</xref>; <xref rid="B16" ref-type="bibr">Bull et al., 2016</xref>). Microbial communities that evolved in HAALs tolerate a wide range of chemical and physical stresses, including wide fluctuations in temperature, low nutrient levels, alkalinity, and hypersalinity (up to 30%). Further, high concentrations of heavy metals and metalloids, especially arsenic (up to 200 ppm), are found in HAALs, primarily because of the geological foundation (<xref rid="B39" ref-type="bibr">Fernandez-Zenoff et al., 2006</xref>; <xref rid="B111" ref-type="bibr">Zenoff et al., 2006</xref>; <xref rid="B29" ref-type="bibr">Dib et al., 2009</xref>; <xref rid="B37" ref-type="bibr">Farias et al., 2009</xref>; <xref rid="B5" ref-type="bibr">Albarracín et al., 2012</xref>).</p>
+      <p>Salar de Huasco is a saline wetland located at 3,800 m above sea level in the Chilean Altiplano (-20.303436, -68.880918) and is considered an athalassohaline system. It exhibits typical conditions of the Altiplano: low temperatures (mean annual temperature &lt;5°C), low atmospheric pressure, high solar radiation (up to 72 Wm<sup>-2</sup> UVA radiation: <xref rid="B44" ref-type="bibr">Hernández et al., 2016</xref>), negative water balance, and variable salinity ranging from freshwater to saturated salt waters. Despite these conditions, communities composed of microbial groups from all major branches of the microbial tree of life, including <italic>Proteobacteria, Cyanobacteria, Bacteroidetes</italic>, and <italic>Archaea</italic>, thrive and grow in water bodies of the Salar de Huasco (<xref rid="B30" ref-type="bibr">Dorador et al., 2008a</xref>,<xref rid="B33" ref-type="bibr">b</xref>, <xref rid="B31" ref-type="bibr">2009</xref>, <xref rid="B32" ref-type="bibr">2010</xref>, <xref rid="B34" ref-type="bibr">2013</xref>; <xref rid="B1" ref-type="bibr">Aguilar et al., 2016</xref>; <xref rid="B67" ref-type="bibr">Molina et al., 2016</xref>). It has been proposed that this exceptional microbial diversity results from species diversification, caused by the adaptation of microorganisms to the constantly changing environment (<xref rid="B3" ref-type="bibr">Albarracín et al., 2016</xref>). Consequently, Salar de Huasco represents a potential reservoir of undescribed microbial diversity that could serve to study and identify novel mechanisms of stress resistance.</p>
+      <p>The <italic>Exiguobacterium</italic> genus (<xref rid="B22" ref-type="bibr">Collins et al., 1983</xref>) includes psychrotrophic, mesophilic, and moderate thermophilic species with variable morphologies (ovoid, rods, double rods, and chains) that grow in a wide range of habitats, including cold and hot environments with temperatures ranging from -12 to 55°C (<xref rid="B99" ref-type="bibr">Vishnivetskaya and Kathariou, 2005</xref>; <xref rid="B102" ref-type="bibr">Vishnivetskaya et al., 2007</xref>). Taxonomic and phylogenetic classification of the genus by 16S rRNA gene sequence analysis shows that <italic>Exiguobacterium</italic> forms two distinct groups: Group I includes strains isolated from cold or low temperature environments, and Group II from hot springs or slightly alkaline and marine environments (<xref rid="B100" ref-type="bibr">Vishnivetskaya et al., 2009</xref>). One exception is <italic>Exiguobacterium</italic> sp. GIC31, which belongs to group II, but was isolated from a glacier in Greenland (<xref rid="B98" ref-type="bibr">Vishnivetskaya et al., 2014</xref>).</p>
+      <p>Members of the <italic>Exiguobacterium</italic> genus display traits that could be of biotechnological interest, e.g., bioremediation and agriculture applications. For example, strains Z8 and 2Sz can neutralize highly alkaline industry wastewater and remove pesticides, respectively (<xref rid="B61" ref-type="bibr">Lopez et al., 2005</xref>; <xref rid="B58" ref-type="bibr">Kumar et al., 2006</xref>); strain WK6 reduces arsenate to arsenite (<xref rid="B7" ref-type="bibr">Anderson and Cook, 2004</xref>), and other strains reduce chrome and mercury in a wide range of temperatures, pH, and salt concentrations (<xref rid="B76" ref-type="bibr">Pattanapipitpaisal et al., 2002</xref>; <xref rid="B77" ref-type="bibr">Petrova et al., 2002</xref>; <xref rid="B71" ref-type="bibr">Okeke, 2008</xref>); <italic>Exiguobacterium oxidotolerans</italic> T-2-2T shows high catalase activity in response to H<sub>2</sub>O<sub>2</sub> as a function of the growth phase and oxygen levels, which could be used to remove peroxides used in the bleaching industry (<xref rid="B92" ref-type="bibr">Takebe et al., 2007</xref>); <italic>Exiguobacterium</italic> sp. S17, isolated from Laguna Socompa in the Argentinian altiplanic desert, tolerates high arsenic concentrations (<xref rid="B11" ref-type="bibr">Belfiore et al., 2013</xref>; <xref rid="B74" ref-type="bibr">Ordoñez et al., 2013</xref>). Further, members of the <italic>Exiguobacterium</italic> genus are a source of enzymes that exhibit a broad range of thermal stability (<xref rid="B96" ref-type="bibr">Usuda et al., 1998</xref>; <xref rid="B90" ref-type="bibr">Suga and Koyama, 2000</xref>; <xref rid="B47" ref-type="bibr">Hwang et al., 2005</xref>; <xref rid="B43" ref-type="bibr">Hara et al., 2007</xref>; <xref rid="B51" ref-type="bibr">Kasana and Yadav, 2007</xref>).</p>
+      <p>In the present study, we aimed to understand the phylogenetic placement and to identify genetic determinants required for the response to stress in a new psychro-halotolerant strain isolated from Salar de Huasco, <italic>Exiguobacterium</italic> sp. SH31. We investigated whether <italic>Exiguobacterium</italic> sp. SH31 belongs to Group II, and to what extent species from this genus share functional features based on the group to which they belong. Additionally, we searched the genomes of <italic>Exiguobacterium</italic> sp. SH31 and other species for the presence of genes encoding proteins known to be involved in stress and metal resistance, e.g., arsenic, copper, cadmium, and oxidative and UV stress. Finally, we show that <italic>Exiguobacterium</italic> SH31 is resistant to arsenic, which might be mediated, at least in part, by the Acr3 arsenic efflux pump.</p>
+    </sec>
+    <sec sec-type="materials|methods" id="s1">
+      <title>Materials and Methods</title>
+      <sec>
+        <title>Bacterial Growth Conditions and DNA Extraction</title>
+        <p><italic>Exiguobacterium</italic> sp. SH31 was isolated from Salar de Huasco, an altiplanic shallow saline wetland in the Atacama Desert, Chile, located between -20.303436, -68.880918 at an altitude of 3,800 m. Salinity of the sampling point was 12.3% NaCl, with 20.6 mS/cm of conductivity, pH 8.8 and 8°C at the sampling point. Strain SH31 was grown for 48 h at room temperature (∼25°C) with shaking at 120 rpm in 1 L of YP culture media (2 g/L yeast extract, 5 g/L Peptone and 25 g/L NaCl), with a 10% v/v inoculum. DNA extraction was performed with the AxyPrep Bacterial Genomic DNA miniprep kit (AXYGEN) following the manufacturer’s instructions. DNA quantity and quality was determined spectrophotometrically (OD<sub>260/280</sub> ratio).</p>
+      </sec>
+      <sec>
+        <title>DNA Hybridization Assay</title>
+        <p>To assess the relatedness of <italic>Exiguobacterium</italic> SH31 to the type strain <italic>Exiguobacterium aurantiacum</italic> DSM 6208<sup>T</sup>, we performed a hybridization assay in 2 X SSC + 5% formamide medium at 69°C. We evaluated the results per the recommendations of the <italic>ad hoc</italic> committee for the definition of bacterial species (threshold value of 70% DNA–DNA similarity; <xref rid="B103" ref-type="bibr">Wayne et al., 1987</xref>). The assay was performed at the Leibniz Institute DSMZ – German Collection of Microorganisms and Cell Cultures<sup><xref ref-type="fn" rid="fn01">1</xref></sup>.</p>
+      </sec>
+      <sec>
+        <title>Sequencing and Assembly</title>
+        <p>Purified genomic DNA was used to construct two different types of sequencing libraries, namely a single-end (prepared from 500 ng of fragmented DNA (nebulization)) and a mate paired-end (prepared with 5 μg of DNA fragmented by hydroshear), using the GS FLX Titanium Rapid Library, GS FLX Titanium Rapid Library prep Paired-End Adaptors, and FastStart PCR System kits, following the manufacturer’s recommendations (average fragments size was between 500 and 900 bp). An equimolar mix was then sequenced using the Roche 454 FLX platform. SFF files were separated into two FASTQ files, one for each library type, using sff_extract utility from seq_crumbs<sup><xref ref-type="fn" rid="fn02">2</xref></sup>. Single-end reads were trimmed at &lt;Q17 and all the resulting reads of &lt;70 bp were discarded. Reads longer than the targeted length (500 bp) were clipped at the 3′ end so that only reads &lt;500 bp were used. Mate paired-end reads were separated into two groups, corresponding to each sequenced end of the fragment (5′ and 3′ ends reads of the sequenced fragment) and both groups were saved as backward sense reads. Trimming was performed as described for single-end reads. Only those paired reads that conserved their mates were employed for the assembly. The final number of reads obtained after this procedure was 81.675 single-end and 61.226 mate paired-reads (approximately 11X and 4X depth coverage respectively), with a read length average of 200 bp after trimming internal adapters. Assembly was performed using both mate paired and single-end reads as in the Celera genome assembler version 7.0 (<xref rid="B68" ref-type="bibr">Myers et al., 2000</xref>); unitigger BOG, unitigger error ratio 0.03, with the final parameter values by default. The final assembly included 120 contigs with a length of 3,031,801 bp. The Whole Genome Shotgun project has been deposited at DDBJ/ENA/GenBank under the accession LYTG00000000. The version described in this paper is LYTG01000000 (Bioproject <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="PRJNA319980">PRJNA319980</ext-link>).</p>
+      </sec>
+      <sec>
+        <title><italic>Exiguobacterium</italic> Genomic Dataset</title>
+        <p>All available genome sequences used in the analyses have been deposited in GenBank as of December 2015 (Accession numbers in Supplementary Table <xref ref-type="supplementary-material" rid="SM1">S1</xref>), including a status of complete, scaffolds, or contigs. The resulting 33 genomes were organized into 18 described species plus 15 not classified at the species level. All the genome sequences (including the new <italic>Exiguobacterium</italic> sp. Strain SH31 from this study), were re-annotated using a combination of <italic>ab initio</italic> and similarity methods as implemented in Prokka version 1.10 (<xref rid="B86" ref-type="bibr">Seemann, 2014</xref>) and NCBI Prokaryotic Genome Annotation Pipeline (<xref rid="B94" ref-type="bibr">Tatusova et al., 2016</xref>). Some genomes were also annotated using the following databases: Gene3d 3.5.0, HAMAP 201511.02, PANTHER 10.0, PFam 28.0, PIRSF 3.01, PRINTS 42.0, ProDom 2006.1, prosite 20.113, SignalP 4.0, Smart 6.2, SuperFamily 1.75, TigerFam 15.0, and TMHMM 2.0, as implemented in InterProScan.5.16-55.0 (<xref rid="B50" ref-type="bibr">Jones et al., 2014</xref>; <xref rid="B66" ref-type="bibr">Mitchell et al., 2014</xref>).</p>
+      </sec>
+      <sec>
+        <title>Circular sp. SH31 Genome Map Generation</title>
+        <p>The plotMyGBK<sup><xref ref-type="fn" rid="fn03">3</xref></sup> pipeline was used to generate a circular map of the <italic>Exiguobacterium sp.</italic> SH31genome. The plotMyGBK is written in Python and extracts contigs from a.gbk file using the SeqlO module generating a.faa file that is then used to search for genes on the conserved domains database (CDD) through RPS-blast using an <italic>e-value</italic> of 1E<sup>-2</sup> to avoid false positives. Then, genes were classified according to the Clusters of Orthologous Groups (COG) nomenclature (<xref rid="B63" ref-type="bibr">Marchler-Bauer et al., 2003</xref>). Finally, COG annotations were used to plot genes, GC content, GC skew, tRNA and rRNA positions, using the OmicCircos v 1.8.1. R package<sup><xref ref-type="fn" rid="fn04">4</xref></sup> (<xref rid="B45" ref-type="bibr">Hu et al., 2015</xref>).</p>
+      </sec>
+      <sec>
+        <title>Orthologous Gene Search</title>
+        <p>Bi-directional best hit searches using Blast was used to infer homology between reference genes from Swiss-prot and the predicted genes from our <italic>Exiguobacterium</italic> dataset (<xref rid="B6" ref-type="bibr">Altschul et al., 1990</xref>). A minimum <italic>e-value</italic> of 1E<sup>-05</sup> and a query coverage filter of 85% was used to avoid partial alignments. This strategy was used to compare stress-response genes and genes involved in metal/metalloid resistance/tolerance.</p>
+      </sec>
+      <sec>
+        <title>Phylogenetic Analysis</title>
+        <p>Thirty phylogenetic gene markers implemented in AMPHORA2 were used (<italic>dnaG, frr, infC, nusA, pgk, pyrG, rplA, rplB, rplC, rplD, rplE, rplF, rplK, rplL, rplN, rplP, rplS, rplT, rpmA, rpoB, rpsB, rpsC, rpsE, rpsI, rpsJ, rpsK, rpsM, rpsS, smpB</italic>, and <italic>tsf)</italic> from the data set (<xref rid="B107" ref-type="bibr">Wu and Scott, 2012</xref>). All nucleotide sequences were translation aligned using MAFFT (<xref rid="B52" ref-type="bibr">Katoh and Standley, 2013</xref>) as implemented in Geneious v 7.1.9 software (<xref rid="B53" ref-type="bibr">Kearse et al., 2012</xref>). The alignments were then concatenated using Seqotron version 1.0.1 (<xref rid="B41" ref-type="bibr">Fourment and Holmes, 2016</xref>). A distribution of probable trees using Bayesian Inference as implemented in MrBayes 3.2.5 was used. Two separate runs of 20 million generations were executed (four chains each run; sampling every 1000 generations; nst = 6, nucmodel = 4by4, rates = gamma ngammacat = 4). Then, the tree distributions were summarized as the Maximum a Posteriori estimate removing the first 5 thousand trees as implemented in SumTrees from DendroPy 4.1.0 (<xref rid="B91" ref-type="bibr">Sukumaran and Holder, 2010</xref>). The phylogeny and stress-response gene matrix was plotted using the R package ggtree v 1.0.21 (<xref rid="B109" ref-type="bibr">Yu et al., 2016</xref>).</p>
+      </sec>
+      <sec>
+        <title>Average Nucleotide Identity Analysis</title>
+        <p>Genome-wide nucleotide identity trends were explored in the genome dataset by estimating all-against-all pairwise Average Nucleotide Identity (ANI). The ANIm approach that uses MUMmer (NUCmer) was used to align the input sequences as implemented in pyANI (<xref rid="B60" ref-type="bibr">Kurtz et al., 2004</xref><sup><xref ref-type="fn" rid="fn05">5</xref></sup>). The average between any given pair was used as the final value. Heat maps were generated using pheatmap V 1.0.8 R package (<xref rid="B54" ref-type="bibr">Kolde, 2015</xref>). Genomic clusters were defined using hierarchical clustering (method: average) based on a 75% ANI threshold, which represents a conservative boundary for genus/species level classification (<xref rid="B79" ref-type="bibr">Qin et al., 2014</xref>).</p>
+      </sec>
+      <sec>
+        <title>Pan Genome Analysis</title>
+        <p>Protein-coding gene families were defined as gene clusters with at least 70% sequence identity using three different methods (COG triangle, orthoMCL and bidirectional best-hit) as implemented in GET_HOMOLOGUES v 2.0 (<xref rid="B23" ref-type="bibr">Contreras-Moreira and Vinuesa, 2013</xref>). The core genome was defined as the set of genes present in at least 95% of the genomes. Likewise, the accessory genome set was defined as genes present in less than 95% of genomes. This analysis was performed at two levels: the complete 34 genome dataset, and on each of the ANI 75% clusters. To gain insights into the functional potential of the accessory genome, the core genome was subtracted from each of the 34 genomes and annotated the remaining genes using Gene Ontology (GO) terms (<xref rid="B9" ref-type="bibr">Ashburner et al., 2000</xref>). All plots were generated in the ggplot2 R package (<xref rid="B105" ref-type="bibr">Wickham, 2009</xref>).</p>
+      </sec>
+      <sec>
+        <title>Functional Analysis of the Core and Accessory Genomes</title>
+        <p>The core and accessory genomes were separated for each of the six 75% ANI clusters, and GO terms were assigned to both sets. Gene locus tags were used to map GO terms from the Pfam entries (supplied by InterProScan5 annotated file) for each genome. GO terms for each gene cluster was converted to their parent GO terms at the second level on a GO graph (go-basic.obo obtained from <ext-link ext-link-type="uri" xlink:href="http://geneontology.org/page/download-ontology">http://geneontology.org/page/download-ontology</ext-link>) (<xref rid="B95" ref-type="bibr">The Gene Ontology Consortium, 2015</xref>). Statistically significant functional terms between core and accessory genomes were determined by applying the Mann–Whitney–Wilcoxon test (<italic>p-value</italic> &lt;0.05). Results were also plotted with the ggplot2 R package (<xref rid="B105" ref-type="bibr">Wickham, 2009</xref>).</p>
+      </sec>
+      <sec>
+        <title>Growth Curves, Minimum Inhibitory Concentration (MIC), and Expression of Arsenic Resistance Genes</title>
+        <p>Growth curve assays were performed to determine the ability of <italic>Exiguobacterium</italic> SH31 to grow at different concentrations of arsenite (AsIII) and arsenate (AsV). Briefly, a liquid culture of <italic>Exiguobacterium</italic> SH31 grown to an OD<sub>600</sub> = 0.4 (LB medium) was diluted by adding liquid media supplemented with different concentrations of arsenic species: AsIII (NaAsO<sub>2</sub>; 4, 6, 10 mM) and AsV (Na<sub>2</sub>HAsO<sub>4</sub>; 25, 50, 100 mM) until reaching an OD<sub>600</sub> ≈ 0.004. Growth (25°C) was monitored in a microplate reader (TECAN Infinite 200 PRO Nanoquant) at 600 nm every 60 min over a 48-h period. MIC was determined from a bacterial culture grown in LB medium (OD<sub>600</sub> ≈ 0.004) by taking a 190 μL aliquot and diluting it with solutions of AsIII and AsV to final concentrations of 1–15 mM and 5–500 mM, respectively (200 μL final volume). Then, samples were incubated at 25°C for 72 h with constant agitation, and the OD<sub>600</sub> was measured in a TECAN Infinite 200 PRO Nanoquant.</p>
+        <p>Finally, to determine the relative expression of genes known to be involved in arsenic resistance and present in <italic>Exiguobacterium</italic> SH31, the transcript levels of <italic>arsB, arsR, arsC</italic> and <italic>acr3</italic>, were quantified by qRT-PCR. <italic>Exiguobacterium</italic> SH31 was grown in LB medium at 25°C with constant agitation until reaching an OD<sub>600</sub> of 0.4. The culture was divided into three fractions: control, 3 mM NaAsO<sub>2</sub>, and 20 mM Na<sub>2</sub>HAsO<sub>4</sub>, and incubated for 20 min. RNA extraction was carried out using the Phenol/Chloroform method and RNA integrity was monitored using 1% agarose electrophoresis. cDNA was synthesized using the M-MLV Reverse Transcriptase kit (Promega) and Random Primer oligonucleotides hexamers (Invitrogen<sup>TM</sup>). The PCR reaction was carried out as follows: 10 min at 95°C followed by 40 amplification cycles (95°C × 30 s, 58°C × 30 s; 72°C × 30 s), and a final step of 95°C × 15 s; 25°C × 1 s; 70°C × 15 s and 95°C × 1 s) using primers specific for each gene (Primers in Supplementary Table <xref ref-type="supplementary-material" rid="SM2">S2</xref>). Transcript levels were quantified using the Brilliant II SYBR Green QPCR Master mix kit (Agilent Technologies) on a Stratagene Mx3000P thermal cycler. Relative expression was normalized using 16S rRNA gene expression levels (<xref rid="B78" ref-type="bibr">Pfaffl, 2001</xref>).</p>
+      </sec>
+      <sec>
+        <title>Modeling and Alignment of ACR3</title>
+        <p>Structural modeling and visualization of Acr3 from strains SH31 and S17 strains was performed using iterative threading assembly refinement (I-TASSER software) (<xref rid="B108" ref-type="bibr">Yang et al., 2015</xref>).</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Results</title>
+      <p>Strain SH31 showed a 99% similarity at the 16S rRNA gene sequence with <italic>Exiguobacterium aurantiacum</italic> DSM 6208 (type strain) and <italic>Exiguobacterium</italic> sp. S17 (Argentinian Altiplano), and was classified as a member of the <italic>Exiguobacterium</italic> genus. However, an <italic>in vitro</italic> DNA–DNA hybridization assay revealed that SH31 does not belong to the same species than <italic>E. aurantiacum</italic> DSM 6208 (39.5% similarity; threshold is 70% for species; <xref rid="B103" ref-type="bibr">Wayne et al., 1987</xref>; <xref rid="B42" ref-type="bibr">Goris et al., 2007</xref>).</p>
+      <sec>
+        <title>Genome Assembly and Nucleotide Identity Analysis</title>
+        <p><italic>Exiguobacterium</italic> genomes range from 2.8 to 3.3 Mb in length with an average GC content of 46–53%. The genome of <italic>Exiguobacterium</italic> sp. strain SH31 resulted in 120 contigs totaling 3.03 Mb in length with a GC content of 51.6%. In agreement with what was found in other isolates, 2992 coding sequences (CDS; including 902 hypothetical proteins), 23 ribosomal RNA (rRNA) genes, and 49 transference RNA (tRNA) genes were identified in strain SH31. Most of the CDS found in <italic>Exiguobacterium</italic> sp. strain SH31 were annotated using the COG system (2,079 genes annotated; <bold>Figure <xref ref-type="fig" rid="F1">1A</xref></bold>).</p>
+        <fig id="F1" position="float">
+          <label>FIGURE 1</label>
+          <caption>
+            <p><bold>(A)</bold> Circular map of the <italic>Exiguobacterium sp</italic>. SH31 draft genome (3031801 bases, 3214 genes, 23 rRNA and 51 tRNA). Gene functions were annotated based on COG categories: (A) RNA processing and modification 0.01%; (B) Chromatin structure and dynamics 0.03%; (C) Energy production and conversion 4.5%; (D) Cell cycle control, cell division, chromosome partitioning 1.9%; (E) Amino acid transport and metabolism 10.3%; (F) Nucleotide transport and metabolism 1.6%; (G) Carbohydrate transport and metabolism 5.6%; (H) Coenzyme transport and metabolism 3.6%; (I) Lipid transport and metabolism 1.4%; (J) Translation, ribosomal structure and biogenesis 3.3%; (K) Transcription 4.8%; (L) Replication, recombination and repair 3.9%; (M) Cell wall/membrane/envelope biogenesis 4.3%; (N) Cell motility 1.3%; (O) Posttranslational modification, protein turnover, chaperones 4.4%; (P) Inorganic ion transport and metabolism 12.6%; (Q) Secondary metabolites biosynthesis, transport and catabolism 2.5%; (R) General function prediction only 19.3%; (S) Unknown function 3.4%; (T) Signal transduction mechanisms 7.1%; (U) Intracellular trafficking, secretion, and vesicular transport 0.9%; (V) Defense mechanisms 3.3%; (W) Extracellular structures 0.0%; (Y) Nuclear structure 0.0%; (Z) Cytoskeleton 0.02%. <bold>(B)</bold> Average Nucleotide Identity of 34 <italic>Exiguobacterium</italic> isolates. <italic>Exiguobacterium</italic> sp. SH31 is very distinct and is most similar to isolate <italic>Exiguobacterium</italic> S17.</p>
+          </caption>
+          <graphic xlink:href="fmicb-08-00456-g001"/>
+        </fig>
+        <p>To understand the overall genetic similarity of strain SH31 with members of the <italic>Exiguobacterium</italic> genus, an ANI analysis was conducted (<xref rid="B55" ref-type="bibr">Konstantinidis and Tiedje, 2005a</xref>,<xref rid="B56" ref-type="bibr">b</xref>; <xref rid="B42" ref-type="bibr">Goris et al., 2007</xref>; <xref rid="B81" ref-type="bibr">Richter and Rosselló-Mora, 2009</xref>) against other 33 publicly available <italic>Exiguobacterium</italic> genomes (Supplementary Table <xref ref-type="supplementary-material" rid="SM1">S1</xref>). The analysis revealed distinct genomic clusters and that strain S17 was the most similar isolate to SH31 with a 95% ANI (<bold>Figure <xref ref-type="fig" rid="F1">1B</xref></bold>), suggesting that they belong to the same species, according to the classification defined by <xref rid="B42" ref-type="bibr">Goris et al. (2007)</xref>. Strain S17 was isolated from a stromatolite sample of Lake Socompa in the Argentinian Altiplano (-24.525681, -68.207912), an environment with similar conditions to Salar de Huasco (<xref rid="B18" ref-type="bibr">Cabrol et al., 2007</xref>; <xref rid="B72" ref-type="bibr">Ordoñez et al., 2009</xref>; <xref rid="B4" ref-type="bibr">Albarracín et al., 2015</xref>). In general, as previously reported (<xref rid="B100" ref-type="bibr">Vishnivetskaya et al., 2009</xref>), isolates tended to cluster by habitat, i.e., strains isolated from cold environments were more similar to each other than to strains isolated from marine/alkaline/temperate environments, and vice versa. Using the proposed boundaries for species delimitation, i.e., 95% ANI (<xref rid="B97" ref-type="bibr">Varghese et al., 2015</xref>), 21 clusters were recognized. Because at a 95% ANI clusters were mostly composed of singletons, we used a more conservative estimate for species/genus boundary. Using a 75% ANI cut-off value, six clusters were obtained: <bold>cluster I</bold> (12 isolates) <italic>E.</italic> strain MH3, <italic>E. indicum</italic> RSA11, <italic>E. enclensis</italic> NIO-1103, <italic>E.</italic> strain OS-77, <italic>E.</italic> strain leaf 187, <italic>E. acetylicum</italic> DSM 20416, <italic>E.</italic> strain ZWU0009, <italic>E. indicum</italic> RSA42, <italic>E. acetylicum</italic> ZBG2, <italic>E.</italic> strain BCM-KP, <italic>E.</italic> strain RIT341, and <italic>E.</italic> strain leaf 196; <bold>cluster II</bold> (4 isolates) <italic>E. marinum</italic> DSM 16307, <italic>E.</italic> strain NG55, <italic>E.</italic> strain AT1b, and <italic>E.</italic> strain JLM-2; <bold>cluster III</bold> (7 isolates) <italic>E. oxidotolerans</italic> JCM 12280, <italic>E. antarcticum</italic> DSM 14480, <italic>E. antarcticum</italic> B7, <italic>E. undae</italic> DSM 14481, <italic>E. undae</italic> 190-11, <italic>E. sibiricum</italic> 7-3, and <italic>E. sibiricum</italic> 255-15; <bold>cluster IV</bold> (5 isolates) <italic>E. aurantiacum</italic> DSM 6208, <italic>E.</italic> strain 8-11-1, <italic>E.</italic> strain ZOR0005, <italic>E. alkaliphilum</italic> 12/1, and <italic>E.</italic> strain AB2; <bold>cluster V</bold> (2 isolates) <italic>E.</italic> strain SH31 and <italic>E.</italic> strain S17; <bold>cluster VI</bold> (4 isolates) <italic>E. mexicanum</italic> HUD, <italic>E. pavilionensis</italic> N139, <italic>E. pavilionensis</italic> RW-2, and <italic>E.</italic> strain GIC31.</p>
+        <p>Because <italic>Exiguobacterium</italic> sp. SH31 thrives in an environment where it is exposed to multiple stress conditions including UV radiation, high salinity, and high temperature, among others, we hypothesized that its genome encoded known genetic determinants required for stress resistance/tolerance. Using BLAST searches against SwissProt protein sets for known stress related-genes, we found that strain SH31 possesses several genes encoding proteins related to the response or adaptation to oxidative stress detoxification (<italic>katA, katE, sodA, gpo, ahpC, ahpF, ohrR</italic>); DNA repair systems (<italic>uvrABC, mutLS, mutM, ruvAB, rec</italic> systems, <italic>ssb, lexA</italic>); photolyases (<italic>phrB, cry</italic>-DASH); photoprotective pigments (<italic>car, crt</italic> systems); osmotic stress (<italic>opu</italic> systems, <italic>putP, gltA, glnA, proC</italic>); heat shock (<italic>dnaJK, groLS, htpG, hrcA</italic>); cold shock (<italic>csp</italic>); capsule biosynthesis (<italic>capAD, pgaB, pgaC</italic>); and resistance to toxic compounds such as antibiotics (<italic>marR, liaRS</italic>) and heavy metals (arsenic <italic>arsA, arsB</italic>; cadmium <italic>cadA, cadC</italic>; copper <italic>copA, csoR</italic>; mercury <italic>merA, merB, merR</italic>; tellurium <italic>tehB, terC</italic>; chromium <italic>chrR, srpC</italic>). In agreement with the ANI analysis, strain SH31 shared many of these determinants with its closest relative, strain S17, including the <italic>acr3</italic> gene that encodes an accessory or secondary arsenic efflux pump (see <xref rid="B73" ref-type="bibr">Ordoñez et al., 2015</xref>).</p>
+      </sec>
+      <sec>
+        <title>Phylogenetic Analysis of <italic>Exiguobacterium</italic> sp. Strain SH31</title>
+        <p>We further investigated if members of the <italic>Exiguobacterium</italic> genus showed a similar pattern as in the ANI analysis, but under a phylogenetic framework. To avoid the detrimental effects of horizontally transferred genes in phylogenetic inference, 30 genes related to ribosome and replication were selected to infer the phylogenetic relationships of the group (Bayesian Inference, partitioned analysis; see Materials and Methods). Interestingly, the topology of the tree mirrors the classification proposed by <xref rid="B100" ref-type="bibr">Vishnivetskaya et al. (2009)</xref> and is consistent with the ANI results (<bold>Figure <xref ref-type="fig" rid="F2">2</xref></bold>; column 1 and 2). Some species seem to be monophyletic (<italic>E. undae; E. antarcticum; E. sibiricum</italic>), while others do not form monophyletic groups (<italic>E. indicum; E. acetylicum</italic>), suggesting that more extensive sampling and clearer taxonomic classification schemes are needed.</p>
+        <fig id="F2" position="float">
+          <label>FIGURE 2</label>
+          <caption>
+            <p><bold>Multi-locus phylogenetic analysis of 34 <italic>Exiguobacterium</italic> isolates.</bold> Tree: Mid-point rooted phylogeny of <italic>Exiguobacterium</italic> recovers Group I and II phylogenetic groups. Note that <italic>Exiguobacterium</italic> sp. SH31 is part of Group II. <italic>Matrix</italic>: Distribution and copy number of stress-related genes among <italic>Exiguobacterium</italic> genomes. The first two columns indicate <xref rid="B100" ref-type="bibr">Vishnivetskaya et al., 2009</xref> groupings and 75% ANI clustering, respectively. Stress-related genes are color-coded by copy number.</p>
+          </caption>
+          <graphic xlink:href="fmicb-08-00456-g002"/>
+        </fig>
+        <p>A previous work investigated the genomes of several <italic>Exiguobacterium</italic> strains to determine if there could be group-specific genes by using southernblot hybridization and <italic>Exiguobacterium sibiricum</italic> 255-15 as the reference strain. Group II does not contain the selected genes or may contain them with &lt;70% identity (<xref rid="B100" ref-type="bibr">Vishnivetskaya et al., 2009</xref>). Given the current availability of genome sequences, we set out to confirm if the group pattern found by <xref rid="B100" ref-type="bibr">Vishnivetskaya et al. (2009)</xref> was also present in our dataset. Using a bidirectional blast hit approach, 15 of the 16 genes described by <xref rid="B100" ref-type="bibr">Vishnivetskaya et al. (2009)</xref> were found to be present in both groups. This finding was confirmed by annotating those genes using the InterProScan5 suite, with similar results. The only gene found exclusively in one group was <italic>flgM</italic> (<bold>Table <xref ref-type="table" rid="T1">1</xref></bold>).</p>
+        <table-wrap id="T1" position="float">
+          <label>Table 1</label>
+          <caption>
+            <p>Genes used as conservative markers of the two distinctive <italic>Exiguobacterium</italic> groups by <xref rid="B100" ref-type="bibr">Vishnivetskaya et al. (2009)</xref>.</p>
+          </caption>
+          <table frame="hsides" rules="groups" cellspacing="5" cellpadding="5">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">Function</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">Gene ID<sup>∗</sup></th>
+                <th valign="top" align="center" rowspan="1" colspan="1">Genes</th>
+                <th valign="top" align="center" colspan="4" rowspan="1">Detectable homologous<hr/></th>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <th valign="top" align="center" colspan="2" rowspan="1">
+                  <xref rid="B100" ref-type="bibr">Vishnivetskaya et al., 2009</xref>
+                  <hr/>
+                </th>
+                <th valign="top" align="center" colspan="2" rowspan="1">This work<hr/></th>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1"/>
+                <th valign="top" align="center" rowspan="1" colspan="1">Group I</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">Group II</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">Group I</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">Group II</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Replication and repair</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">Exig_0006</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <italic>gyrA</italic>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">Exig_0005</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <italic>gyrB</italic>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">Exig_2932</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <italic>srmB/csh</italic>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">Exig_3033</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <italic>dnaB</italic>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Transcription</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">Exig_2463</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <italic>flgM</italic>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">Exig_0137</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">Anti-sigma factor</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">Exig_0136</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <italic>rpoE</italic>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Translation and biogenesis</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">Exig_0119</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <italic>infA</italic>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">Exig_1837</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <italic>infB</italic>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">Exig_0047</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">RNA-binding S4</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">Exig_2427</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">Sigma54 S30EA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Posttranslational modification,</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">Exig_2147</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <italic>tig</italic>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">chaperones</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">Exig_0781</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <italic>dnaK</italic>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">Exig_2768</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <italic>groL</italic>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Signal transduction</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">Exig_0364</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <italic>uspA</italic>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Lipid metabolism</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">Exig_2596</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <italic>desA</italic>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <attrib>
+              <italic><sup>∗</sup>Gene IDs are given as defined in <ext-link ext-link-type="uri" xlink:href="http://genome.ornl.gov/microbial/exig/">http://genome.ornl.gov/microbial/exig/</ext-link>.</italic>
+            </attrib>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>Using the same bidirectional BLAST-based approach and validation with InterProScan5, the genomes of all 34 <italic>Exiguobacterium</italic> strains were searched for the presence of stress-response genes. The analysis showed that there are differences between the two groups (<bold>Figure <xref ref-type="fig" rid="F2">2</xref></bold>; matrix), which were observed in <italic>katE, ohrA</italic> and <italic>gpo</italic> (oxidative stress compound detoxification), <italic>carD</italic> and <italic>crtB</italic> (pigment biosynthesis), <italic>capA</italic> (capsule biosynthesis), <italic>glnA</italic> (osmoadaptation), <italic>csp</italic> (cold shock), <italic>mutS</italic> and <italic>ruvB</italic> (DNA repair) genes. The copy number of stress-response genes correlated with the environmental conditions from where each strain was isolated, e.g., <italic>E. oxydotolerans</italic> genome encodes proteins required for the response to oxidative stress and <italic>E. antarcticum</italic> and <italic>E. sibiricum</italic> for cold shock. A full list of stress-response genes analyzed and their copy numbers is found in Supplementary Table <xref ref-type="supplementary-material" rid="SM3">S3</xref>.</p>
+      </sec>
+      <sec>
+        <title>Pan Genome and Gene Ontology Analysis</title>
+        <p>As the strains used for the analyses come from disparate environments (Supplementary Table <xref ref-type="supplementary-material" rid="SM1">S1</xref>), we evaluated whether the core and accessory genome varied in size and biological function (by GO). <italic>Exiguobacterium</italic> genomes are highly divergent (<bold>Figure <xref ref-type="fig" rid="F1">1B</xref></bold>), and hence, a pan genome analysis was conducted (at 70% identity; pan genome size = 7716). The analysis showed that the core genome is composed of 1,798 genes (23.3%) and the accessory genome of 5,918 genes (76.7%). The pan genome size and functional composition was also evaluated according to clusters defined at 75% ANI. Overall, pan genome size ranged from 22 to 50%, was consistent between groups, and increased according to the number of genomes within a cluster (<bold>Table <xref ref-type="table" rid="T2">2</xref></bold>). Cluster V, which only includes the genomes of strains S17 and SH31, had the largest accessory genome sampled so far in the genus, explaining the increased genome size of strains in this cluster. These results highlight the high degree of variability in gene content among strains from the <italic>Exiguobacterium</italic> genus, and suggest that a more thorough sampling of the Altiplano region would likely yield novel gene families.</p>
+        <table-wrap id="T2" position="float">
+          <label>Table 2</label>
+          <caption>
+            <p>Pan genome results of the six <italic>Exiguobacterium</italic> strains clusters.</p>
+          </caption>
+          <table frame="hsides" rules="groups" cellspacing="5" cellpadding="5">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">Cluster</th>
+                <th valign="top" align="center" rowspan="1" colspan="1"># Strains</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">Pan genome</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">Core genome<sup>∗</sup></th>
+                <th valign="top" align="center" rowspan="1" colspan="1">Accessory genome<sup>∗</sup></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">I</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">12</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4684</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2722 (58,1%)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1962 (41,9%)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">II</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3557</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2754 (77,4%)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">803 (22,6%)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">III</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">7</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4310</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2615 (60,7%)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1695 (39,3%)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">IV</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3649</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2604 (71,4%)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1045 (28,6%)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">V</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3632</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2466 (67,8%)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1166 (32,2%)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">VI</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3658</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2814 (76,9%)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">844 (23,1%)</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <attrib>
+              <italic>Asterisks indicate the number of gene families (percentage of core or accessory genes on the pan genome of each cluster).</italic>
+            </attrib>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>To further investigate the composition of the accessory genome, we interrogated gene distribution according to GO categories. Accessory genes related to the GO categories Binding and Catalytic Activity were more abundant within the accessory genome, while other functions such as Antioxidant Activity, Biological Regulation, and Cell Part were homogeneously distributed (Supplementary Figure <xref ref-type="supplementary-material" rid="SM5">S1A</xref>). Interestingly, the genomes of cluster V (strains SH31 and S17) showed a higher proportion of genes belonging to GO categories such as Catalytic activity, Cell part, Membrane, Metabolic process, Structural molecule activity, and Cellular process (Supplementary Figure <xref ref-type="supplementary-material" rid="SM5">S1B</xref>).</p>
+      </sec>
+      <sec>
+        <title>Metal/Metalloid Response Genes in <italic>Exiguobacterium</italic> Genomes</title>
+        <p>The genomes of all 34 strains were searched for the presence and patterns of metal/metalloid response genes, and whether their distribution matched the phylogenetic and ANI classifications. The analysis revealed the presence of several genes involved in metal/metalloid response, of which most were related to cobalt, zinc, cadmium, copper, mercury, tellurium, chromium, and arsenic resistance (Supplementary Table <xref ref-type="supplementary-material" rid="SM4">S4</xref>). Previous studies showed that strain S17 is resistant to arsenic (<xref rid="B11" ref-type="bibr">Belfiore et al., 2013</xref>; <xref rid="B73" ref-type="bibr">Ordoñez et al., 2015</xref>) and that it encodes a secondary arsenic efflux pump, named Acr3. Because SH31 and S17 are closely related, we investigated if strain SH31 and other members of the <italic>Exiguobacterium</italic> genus also encoded the genetic determinants required for arsenic resistance, including <italic>acr3</italic>. For this purpose, strain S17 was used as a reference. Based on the presence and identity of the genes and operon organization, two distinct patterns were observed. In most cases, these patterns matched the two phylogenetic groups described before, with the exception of <italic>E. marinum</italic> DSM 16307 from group II and <italic>E. indicum</italic> RSA42, <italic>E. antarcticum</italic> DSM 14480, and <italic>E. undae</italic> 190-11 from group I (<bold>Figure <xref ref-type="fig" rid="F3">3</xref></bold>). The <italic>acr3</italic> (arsenite efflux pump) gene is less frequent in <italic>Exiguobacterium</italic> genomes and was only found in strains S17 and SH31, showing an identity of 94%.</p>
+        <fig id="F3" position="float">
+          <label>FIGURE 3</label>
+          <caption>
+            <p><bold>Arsenic resistance genes in sequenced <italic>Exiguobacterium</italic> strains Genetic organization of the genes colored by function.</bold>
+<italic>arsR</italic> arsenical resistance operon repressor; <italic>arsD</italic> arsenical resistance operon <italic>trans</italic>-acting repressor; <italic>arsA</italic> arsenical pump-driving ATPase; Fe–S putative iron sulfur protein; <italic>arsB</italic> arsenical pump membrane protein; <italic>arsC</italic> arsenate reductase; <italic>acr3</italic> arsenite efflux pump. Heat scale shows identity percentage of all strains sequence, using as reference the <italic>Exiguobacterium</italic> S17 genes. The first two columns indicate <xref rid="B100" ref-type="bibr">Vishnivetskaya et al. (2009)</xref> groupings and 75% ANI clustering, respectively.</p>
+          </caption>
+          <graphic xlink:href="fmicb-08-00456-g003"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Arsenic Resistance and Expression of Genes Required for Arsenic Detoxification</title>
+        <p>To determine if the presence of genes required for arsenic detoxification in strain SH31 correlated with increased arsenic resistance, we conducted growth curves with different As (III) and As (V) concentrations (<bold>Figure <xref ref-type="fig" rid="F4">4</xref></bold>) and determined the MIC for each compound. Strain SH31 was able to grow in media containing up to 10 mM As (III) and 100 mM As(V), indicating that it is resistant to arsenic. A similar result was observed for strain S17.</p>
+        <fig id="F4" position="float">
+          <label>FIGURE 4</label>
+          <caption>
+            <p><bold>Arsenic resistance of strain SH31.</bold> Strain SH31 was grown in LB medium supplemented with different concentrations of As (III) <bold>(A)</bold> and As (V) <bold>(B)</bold>. OD<sub>600</sub> readings were recorded every hour during 48 h. The results represent the mean of three experiments. Growth in media without arsenic was used as a control.</p>
+          </caption>
+          <graphic xlink:href="fmicb-08-00456-g004"/>
+        </fig>
+        <p>The high arsenic resistance of strain S17 has been explained in part by the presence of the <italic>acr3</italic> gene (<xref rid="B73" ref-type="bibr">Ordoñez et al., 2015</xref>). A structural analysis showed that Acr3 from strains SH31 and S17 have an amino acid sequence identity of 94% and that key amino acids are conserved between both proteins. For example, residues Arg264, Asp109, and Glu294 are part of the core transmembrane segment and together with Cys107 could be required for As (III) binding. However, some variations were observed at different sections of the protein, (locus_02597-SP17) i.e., residues H92Y, R187Q, A311D, S34V, and S164A. We speculate that S34V, and S164A could be regulated by serine kinases (Supplementary Figure <xref ref-type="supplementary-material" rid="SM6">S2</xref>).</p>
+        <p>To gain insights into the mechanism of arsenic resistance, strain SH31 was grown to mid-exponential growth phase, challenged with 3 mM As (III) or 20 mM As (V), and the transcript levels of genes required for arsenic resistance were quantified by qRT-PCR (<bold>Figure <xref ref-type="fig" rid="F5">5</xref></bold>) and compared to the levels in untreated cells (control). The expression of <italic>arsB</italic>, encoding a membrane efflux transporter, increased in the presence of both As (III) and As (V), although in the later case a greater increase was observed (200 fold). Previous studies found a similar trend and showed that As (V) exposure resulted in higher transcript and protein levels of ArsB than with As (III) (<xref rid="B21" ref-type="bibr">Cleiss-Arnold et al., 2010</xref>; <xref rid="B11" ref-type="bibr">Belfiore et al., 2013</xref>; <xref rid="B8" ref-type="bibr">Andres and Bertin, 2016</xref>). No significant differences in the transcript levels of <italic>arsC</italic>, encoding arsenate reductase, were observed after As (V) exposure. Conversely, after As (III) exposure, <italic>arsC</italic> expression was strongly repressed. Previous studies reported that <italic>arsC</italic> is part of the <italic>ars</italic> operon in most bacteria (<xref rid="B75" ref-type="bibr">Páez-Espino et al., 2009</xref>; <xref rid="B57" ref-type="bibr">Kruger et al., 2013</xref>; <xref rid="B8" ref-type="bibr">Andres and Bertin, 2016</xref>); however, in the <italic>Exiguobacterium</italic> genus, <italic>arsC</italic> is not within the context of an operon (<bold>Figure <xref ref-type="fig" rid="F3">3</xref></bold>). The expression of <italic>arsR</italic>, encoding the negative regulator of the <italic>ars</italic> operon, increased after As (III) exposure. As ArsR directly detects As (III) (<xref rid="B89" ref-type="bibr">Slyemi and Bonnefoy, 2012</xref>), this suggests that in strain SH31 As (III) exposure results in increased expression of the <italic>ars</italic> operon by decreasing the levels of ArsR.</p>
+        <fig id="F5" position="float">
+          <label>FIGURE 5</label>
+          <caption>
+            <p><bold>Expression of genes required for arsenic resistance in <italic>Exiguobacterium</italic> sp. SH31 in response to As(III) and As(V) exposure.</bold> Expression of the 16S rRNA gene was used as a normalizer. <sup>∗∗∗</sup><italic>p</italic> &lt; 0.001.</p>
+          </caption>
+          <graphic xlink:href="fmicb-08-00456-g005"/>
+        </fig>
+        <p>The expression of <italic>acr3</italic> increased after As (V), but not As (III) exposure, in strain SH31. Interestingly, it was proposed that <italic>acr3</italic> expression is constitutive in strain S17 and does not change in response to arsenic (<xref rid="B73" ref-type="bibr">Ordoñez et al., 2015</xref>). This suggests that the expression of genes required for arsenic resistance could be different in both strains, although we cannot rule out that the observed result is caused by different experimental conditions between the studies.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Discussion</title>
+      <p>The Chilean Altiplano harbors a series of ‘extreme’ environmental conditions that configures a specific and unique microbiota (e.g., <xref rid="B34" ref-type="bibr">Dorador et al., 2013</xref>; <xref rid="B3" ref-type="bibr">Albarracín et al., 2016</xref>). <italic>Exiguobacterium</italic> is a frequently isolated from different environments including other saline wetlands (e.g., Cuatro Ciénagas: <xref rid="B80" ref-type="bibr">Rebollar et al., 2012</xref>), where it has been determined that genetic differentiation of <italic>Exiguobacterium</italic> are defined by the ecology of diverse habitats.</p>
+      <p>Members of the <italic>Exiguobacterium</italic> genus carry a number of stress-related genetic determinants, including metal/metalloid resistance genes, which largely correlate with the phylogenetic structure (<bold>Figure <xref ref-type="fig" rid="F2">2</xref></bold>). In particular, <italic>Exiguobacterium</italic> SH31 (Group II) encodes proteins required for arsenic resistance, including Acr3, which has only been described in <italic>Exiguobacterium</italic> S17 (<xref rid="B73" ref-type="bibr">Ordoñez et al., 2015</xref>) (<bold>Figures <xref ref-type="fig" rid="F3">3</xref></bold>, <bold><xref ref-type="fig" rid="F5">5</xref></bold>). We also found that the accessory genome of <italic>Exiguobacterium</italic> is large, and that the presence of genes involved in interactions with the environment (e.g., catalytic activity, binding, metabolic process) is variable (Supplementary Figure <xref ref-type="supplementary-material" rid="SM5">S1</xref>). Altogether, these results suggest that the <italic>Exiguobacterium</italic> genus is cosmopolitan, diverse, and possibly ancient, with a broad repertoire of genetic elements that allow them to efficiently adapt to local environmental conditions (<bold>Figure <xref ref-type="fig" rid="F2">2</xref></bold>).</p>
+      <p><italic>Exiguobacterium</italic> strains showed variability in the GO categories related to adaptation, such as catalytic activity, transporter activity, nucleic acid binding, transcription factor activity, metabolic process, etc. Conversely, less variability was observed in the GO categories related to fundamental cellular functions, e.g., structural molecule activity, membrane constituents, macromolecular complex, cell parts, and biological regulation. In agreement with our findings, <xref rid="B110" ref-type="bibr">Yumoto et al. (2004)</xref> reported that <italic>E. oxidotolerans</italic> JCM 12280 differed from other closely related strains in their physiological and biochemical characteristics, e.g., growth temperature range, acid production from several substrates and enzymatic activities. Our analyses support these results, showing that <italic>E. oxidotolerans</italic> JCM 12280 appears to be distinct based on its phylogenetic position, ANI similarity, and stress-response gene repertoire.</p>
+      <p>In agreement with the high levels of radiation that it must withstand in its environment (<xref rid="B44" ref-type="bibr">Hernández et al., 2016</xref>; <xref rid="B67" ref-type="bibr">Molina et al., 2016</xref>), the genome of strain SH31 comprises several genes encoding proteins required for UV radiation resistance, including the <italic>uvr, mut, rec</italic> and <italic>ruv</italic> systems; the <italic>ssb, lexA, phrB</italic> and <italic>cry-DASH</italic> genes, photoprotective pigments and those required for detoxifying oxidative stress (<xref rid="B59" ref-type="bibr">Kurth et al., 2015</xref>). Surprisingly, strain SH31 did not show any highly relevant distinctive features. For example, previous studies found four copies of <italic>ssb</italic> in the genome of strain S17 (<xref rid="B74" ref-type="bibr">Ordoñez et al., 2013</xref>, <xref rid="B73" ref-type="bibr">2015</xref>). In <italic>Deinococcus radiodurans</italic>, the presence of high copy numbers of <italic>ssb</italic> was proposed to be responsible for its superior radioresistance and DNA repair efficiency (<xref rid="B36" ref-type="bibr">Eggington et al., 2004</xref>; <xref rid="B25" ref-type="bibr">Cox and Battista, 2005</xref>; <xref rid="B70" ref-type="bibr">Norais et al., 2009</xref>). Long read sequencing technologies such as PacBio or Oxford Nanopores could aid in determining with certainty whether SH31 has experienced the duplication of gene families involved in stress response.</p>
+      <p>Some <italic>Exiguobacterium</italic> strains are resistant to NaCl and heavy metals such as Pb, Cu, and Hg (<xref rid="B77" ref-type="bibr">Petrova et al., 2002</xref>; <xref rid="B12" ref-type="bibr">Bian et al., 2011</xref>). In particular, <italic>Exiguobacterium</italic> isolated from permafrost sediments in Russia and Canada that contained 0.001 – 2.9% of mercury carried the <italic>mer</italic> operon (<xref rid="B77" ref-type="bibr">Petrova et al., 2002</xref>). Our results show that all of the <italic>Exiguobacterium</italic> strains included in the analyses have the <italic>merA</italic> gene, but that only 6 strains had additional genes of the operon (Supplementary Table <xref ref-type="supplementary-material" rid="SM4">S4</xref>). The <italic>mer</italic> operon can be located in the chromosome, plasmids, or transposons, and has been studied as a mechanism of horizontal dissemination that confers a broad spectrum of mercury resistance among <italic>Bacillus</italic> and related species (<xref rid="B13" ref-type="bibr">Bogdanova et al., 2001</xref>). Other strains such as ZM-2, isolated from agricultural soils irrigated with tannery effluents in India, resist up to 12.4 mM of potassium chromate (<xref rid="B2" ref-type="bibr">Alam and Malik, 2008</xref>), and some isolates tolerate up to 1.5 mM and reduce 0.75 mM of Cr(VI) (<xref rid="B85" ref-type="bibr">Sarangi and Krishnan, 2008</xref>). Additionally, some <italic>Exiguobacterium</italic> isolates are able to reduce Cr(VI) anaerobically in a large range of temperatures, pH and salt concentrations (<xref rid="B76" ref-type="bibr">Pattanapipitpaisal et al., 2002</xref>; <xref rid="B71" ref-type="bibr">Okeke, 2008</xref>). Our comparative genomics approach confirms that all 34 <italic>Exiguobacterium</italic> strains possess the genes encoding proteins required for chromate reduction and efflux, namely <italic>chrR</italic> and <italic>srpC</italic>, respectively, which could be responsible for chromate resistance in this genus.</p>
+      <p><italic>Exiguobacterium</italic> sp. SH31 is more closely related to the arsenic resistant strain S17 (<xref rid="B11" ref-type="bibr">Belfiore et al., 2013</xref>). The high arsenic resistance of strain S17 has been explained by an increased number of genes encoding proteins required to detoxify this toxic compound and by the presence of the <italic>acr3</italic> gene, which confers increased arsenite and arsenate resistance (10 and 150 mM, respectively; <xref rid="B11" ref-type="bibr">Belfiore et al., 2013</xref>; <xref rid="B73" ref-type="bibr">Ordoñez et al., 2015</xref>). In agreement, strain SH31 is also arsenic resistant, which could be explained by the presence of several proteins required for its detoxification, including Acr3.</p>
+      <p>In the post-genomic era, high-throughput technologies have enabled researchers with the power to interrogate genomes from the dark matter of the microbial tree of life (<xref rid="B106" ref-type="bibr">Wu et al., 2009</xref>). Yet, the traditional use of morphology, phenotype, biochemical traits, and single-gene inferences to classify microorganisms implies that our current understanding of what constitutes a species or genus is imperfect (<xref rid="B46" ref-type="bibr">Hugenholtz et al., 2016</xref>). Herein, we show that using an extreme cut-off of 75% ANI in a relatively small dataset yielded as many as six clusters in an otherwise unified genus. While comparative genomics studies of polyextremohiles are needed to understand their distribution, evolutionary history, and biotechnological potential, thorough sampling designs, metagenomics-based studies, and functional assays such as those based on metabolomics, transcriptomics, and proteomics, will enable researchers to develop a systems level understanding of the patterns and processes leading to molecular adaptation.</p>
+    </sec>
+    <sec>
+      <title>Author Contributions</title>
+      <p>JF, PA, CD, and FR performed field work, processed samples and sequenced data; JC-S, EC-N, and CPS conceived and designed the study; JC-S, FR, and CS performed the experiments; JC-S, SV, DA, and EC-N analyzed data; RQ, FM, EC-N, CD, FR, and CPS contributed with reagents/materials/analysis tools; JC-S, CP-E, EC-N, FR, and CPS wrote the paper. All authors read and approved the final manuscript.</p>
+    </sec>
+    <sec>
+      <title>Conflict of Interest Statement</title>
+      <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn fn-type="financial-disclosure">
+        <p><bold>Funding.</bold> This research was sponsored by CONICYT (Comisión Nacional para la Investigación Científica y Tecnológica) grants: CPS was funded by CONICYT FONDECYT 1160315 and Universidad Andrés Bello UNAB DI-786-15/R grant; FR was funded by CONICYT FONDECYT 11100414; EC-N was funded by CONICYT 2014 PAI 82140008 and FONDECYT 11160905; CD was funded by FONDECYT 1110953 and 1140179; JC-S and CP-E were founded by 2015 CONICYT National Doctoral Fellowship. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p>
+      </fn>
+    </fn-group>
+    <ack>
+      <p>EC-N would like to thank the George Washington University’s high-performance computing facility, Colonial One, for providing data storage, support, and computing power for genomic analyses (<ext-link ext-link-type="uri" xlink:href="https://colonialone.gwu.edu/">colonialone.gwu.edu/</ext-link>). The authors would like to thank Eduardo H. Morales for critical reading and editing of the manuscript.</p>
+    </ack>
+    <fn-group>
+      <fn id="fn01">
+        <label>1</label>
+        <p>
+          <ext-link ext-link-type="uri" xlink:href="http://www.dsmz.de">www.dsmz.de</ext-link>
+        </p>
+      </fn>
+      <fn id="fn02">
+        <label>2</label>
+        <p>
+          <ext-link ext-link-type="uri" xlink:href="http://bioinf.comav.upv.es/seq_crumbs/index.html">http://bioinf.comav.upv.es/seq_crumbs/index.html</ext-link>
+        </p>
+      </fn>
+      <fn id="fn03">
+        <label>3</label>
+        <p>
+          <ext-link ext-link-type="uri" xlink:href="https://github.com/microgenomics/plotMyGBK">https://github.com/microgenomics/plotMyGBK</ext-link>
+        </p>
+      </fn>
+      <fn id="fn04">
+        <label>4</label>
+        <p>
+          <ext-link ext-link-type="uri" xlink:href="http://bioconductor.org/packages/release/bioc/html/OmicCircos.html">http://bioconductor.org/packages/release/bioc/html/OmicCircos.html</ext-link>
+        </p>
+      </fn>
+      <fn id="fn05">
+        <label>5</label>
+        <p>
+          <ext-link ext-link-type="uri" xlink:href="https://github.com/widdowquinn/pyani">https://github.com/widdowquinn/pyani</ext-link>
+        </p>
+      </fn>
+    </fn-group>
+    <sec sec-type="supplementary material">
+      <title>Supplementary Material</title>
+      <p>The Supplementary Material for this article can be found online at: <ext-link ext-link-type="uri" xlink:href="http://journal.frontiersin.org/article/10.3389/fmicb.2017.00456/full#supplementary-material">http://journal.frontiersin.org/article/10.3389/fmicb.2017.00456/full#supplementary-material</ext-link></p>
+      <supplementary-material content-type="local-data" id="SM1">
+        <media xlink:href="Table_1.XLSX">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM2">
+        <media xlink:href="Table_2.xlsx">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM3">
+        <media xlink:href="Table_3.xlsx">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM4">
+        <media xlink:href="Table_4.xlsx">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM5">
+        <media xlink:href="Image_1.PDF">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM6">
+        <media xlink:href="Image_2.PDF">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Aguilar</surname><given-names>P.</given-names></name><name><surname>Acosta</surname><given-names>E.</given-names></name><name><surname>Dorador</surname><given-names>C. Y.</given-names></name><name><surname>Sommaruga</surname><given-names>R.</given-names></name></person-group> (<year>2016</year>). <article-title>Large differences in bacterial community composition among three nearby extreme waterbodies of the high Andean plateau.</article-title>
+<source><italic>Front. Microbiol.</italic></source>
+<volume>7</volume>:<issue>976</issue>
+<pub-id pub-id-type="doi">10.3389/fmicb.2016.00976</pub-id></mixed-citation>
+      </ref>
+      <ref id="B2">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Alam</surname><given-names>M.</given-names></name><name><surname>Malik</surname><given-names>A.</given-names></name></person-group> (<year>2008</year>). <article-title>Chromate resistance, transport and bioreduction by <italic>Exiguobacterium</italic> sp. ZM-2 isolated from agricultural soil irrigated with tannery effluent.</article-title>
+<source><italic>J. Basic Microbiol.</italic></source>
+<volume>48</volume>
+<fpage>416</fpage>–<lpage>420</lpage>. <pub-id pub-id-type="doi">10.1002/jobm.200800046</pub-id><pub-id pub-id-type="pmid">18759228</pub-id></mixed-citation>
+      </ref>
+      <ref id="B3">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Albarracín</surname><given-names>V.</given-names></name><name><surname>Gärtner</surname><given-names>W.</given-names></name><name><surname>Farias</surname><given-names>M. E.</given-names></name></person-group> (<year>2016</year>). <article-title>Forged under the sun: life and art of extremophiles from Andean Lakes.</article-title>
+<source><italic>Photochem. Photobiol.</italic></source>
+<volume>1</volume>
+<fpage>14</fpage>–<lpage>28</lpage>. <pub-id pub-id-type="doi">10.1111/php.12555</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Albarracín</surname><given-names>V.</given-names></name><name><surname>Kurth</surname><given-names>D.</given-names></name><name><surname>Ordoñez</surname><given-names>O.</given-names></name><name><surname>Belfiore</surname><given-names>C.</given-names></name><name><surname>Luccini</surname><given-names>E.</given-names></name><name><surname>Salum</surname><given-names>G.</given-names></name><etal/></person-group> (<year>2015</year>). <article-title>High-up: a remote reservoir of microbial extremophiles in central Andean wetlands.</article-title>
+<source><italic>Front. Microbiol.</italic></source>
+<volume>6</volume>:<issue>1404</issue>
+<pub-id pub-id-type="doi">10.3389/fmicb.2015.01404</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Albarracín</surname><given-names>V.</given-names></name><name><surname>Pathak</surname><given-names>G.</given-names></name><name><surname>Douki</surname><given-names>T.</given-names></name><name><surname>Cadet</surname><given-names>J.</given-names></name><name><surname>Borsarelli</surname><given-names>C.</given-names></name><name><surname>Gärtner</surname><given-names>W.</given-names></name><etal/></person-group> (<year>2012</year>). <article-title>Extremophilic <italic>Acinetobacter</italic> strains from high-altitude lakes in Argentinean Puna: remarkable UV-B resistance and efficient DNA damage repair.</article-title>
+<source><italic>Orig. Life Evol. Biosph.</italic></source>
+<volume>42</volume>
+<fpage>201</fpage>–<lpage>221</lpage>. <pub-id pub-id-type="doi">10.1007/s11084-012-9276-3</pub-id><pub-id pub-id-type="pmid">22644565</pub-id></mixed-citation>
+      </ref>
+      <ref id="B6">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Altschul</surname><given-names>S.</given-names></name><name><surname>Gish</surname><given-names>W.</given-names></name><name><surname>Miller</surname><given-names>W.</given-names></name><name><surname>Myers</surname><given-names>E.</given-names></name><name><surname>Lipman</surname><given-names>D.</given-names></name></person-group> (<year>1990</year>). <article-title>Basic local alignment search tool.</article-title>
+<source><italic>J. Mol. Biol.</italic></source>
+<volume>215</volume>
+<fpage>403</fpage>–<lpage>410</lpage>. <pub-id pub-id-type="doi">10.1016/S0022-2836(05)80360-2</pub-id><pub-id pub-id-type="pmid">2231712</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Anderson</surname><given-names>C. R.</given-names></name><name><surname>Cook</surname><given-names>G. M.</given-names></name></person-group> (<year>2004</year>). <article-title>Isolation and characterization of arsenate-reducing bacteria from arsenic-contaminated sites in New Zealand.</article-title>
+<source><italic>Curr. Microbiol.</italic></source>
+<volume>48</volume>
+<fpage>341</fpage>–<lpage>347</lpage>. <pub-id pub-id-type="doi">10.1007/s00284-003-4205-3</pub-id><pub-id pub-id-type="pmid">15060729</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Andres</surname><given-names>J.</given-names></name><name><surname>Bertin</surname><given-names>P.</given-names></name></person-group> (<year>2016</year>). <article-title>The microbial genomics of arsenic.</article-title>
+<source><italic>FEMS Microbiol. Rev.</italic></source>
+<volume>40</volume>
+<fpage>299</fpage>–<lpage>322</lpage>. <pub-id pub-id-type="doi">10.1093/femsre/fuv050</pub-id><pub-id pub-id-type="pmid">26790947</pub-id></mixed-citation>
+      </ref>
+      <ref id="B9">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ashburner</surname><given-names>M.</given-names></name><name><surname>Ball</surname><given-names>C.</given-names></name><name><surname>Blake</surname><given-names>J.</given-names></name><name><surname>Botstein</surname><given-names>D.</given-names></name><name><surname>Butler</surname><given-names>H.</given-names></name><name><surname>Cherry</surname><given-names>J.</given-names></name><etal/></person-group> (<year>2000</year>). <article-title>Gene ontology: tool for the unification of biology.</article-title>
+<source><italic>Nat. Genet.</italic></source>
+<volume>25</volume>
+<fpage>25</fpage>–<lpage>29</lpage>.<pub-id pub-id-type="doi">10.1038/7556</pub-id><pub-id pub-id-type="pmid">10802651</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bai</surname><given-names>Y.</given-names></name><name><surname>Müller</surname><given-names>D. B.</given-names></name><name><surname>Srinivas</surname><given-names>G.</given-names></name><name><surname>Garrido-Oter</surname><given-names>R.</given-names></name><name><surname>Potthoff</surname><given-names>E.</given-names></name><name><surname>Rott</surname><given-names>M.</given-names></name><etal/></person-group> (<year>2015</year>). <article-title>Functional overlap of the <italic>Arabidopsis</italic> leaf and root microbiota.</article-title>
+<source><italic>Nature</italic></source>
+<volume>528</volume>
+<fpage>364</fpage>–<lpage>369</lpage>. <pub-id pub-id-type="doi">10.1038/nature16192</pub-id><pub-id pub-id-type="pmid">26633631</pub-id></mixed-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Belfiore</surname><given-names>C.</given-names></name><name><surname>Ordoñez</surname><given-names>O.</given-names></name><name><surname>Farías</surname><given-names>M. E.</given-names></name></person-group> (<year>2013</year>). <article-title>Proteomic approach of adaptive response to arsenic stress in <italic>Exiguobacterium</italic> sp. S17, an extremophile strain isolated from a high-altitude Andean Lake stromatolite.</article-title>
+<source><italic>Extremophiles</italic></source>
+<volume>17</volume>
+<fpage>421</fpage>–<lpage>431</lpage>. <pub-id pub-id-type="doi">10.1007/s00792-013-0523-y</pub-id><pub-id pub-id-type="pmid">23525943</pub-id></mixed-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bian</surname><given-names>G.</given-names></name><name><surname>Zhang</surname><given-names>Y.</given-names></name><name><surname>Qin</surname><given-names>S.</given-names></name><name><surname>Xing</surname><given-names>K.</given-names></name><name><surname>Xie</surname><given-names>H.</given-names></name><name><surname>Jiang</surname><given-names>J.</given-names></name></person-group> (<year>2011</year>). <article-title>Isolation and biodiversity of heavy metal tolerant endophytic bacteria from halotolerant plant species located in coastal shoal of Nantong.</article-title>
+<source><italic>Wei Sheng Wu Xue Bao</italic></source>
+<volume>51</volume>
+<fpage>1538</fpage>–<lpage>1547</lpage>.<pub-id pub-id-type="pmid">22260052</pub-id></mixed-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bogdanova</surname><given-names>E.</given-names></name><name><surname>Minakhin</surname><given-names>L.</given-names></name><name><surname>Bass</surname><given-names>I.</given-names></name><name><surname>Volodin</surname><given-names>A.</given-names></name><name><surname>Hobman</surname><given-names>J.</given-names></name><name><surname>Nikiforov</surname><given-names>V.</given-names></name></person-group> (<year>2001</year>). <article-title>Class II broad-spectrum mercury resistance transposons in gram-positive bacteria from natural environments.</article-title>
+<source><italic>Res. Microbiol.</italic></source>
+<volume>152</volume>
+<fpage>503</fpage>–<lpage>514</lpage>.<pub-id pub-id-type="doi">10.1016/S0921-2508(01)01224-4</pub-id><pub-id pub-id-type="pmid">11446519</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bowers</surname><given-names>K.</given-names></name><name><surname>Mesbah</surname><given-names>N.</given-names></name><name><surname>Wiegel</surname><given-names>J.</given-names></name></person-group> (<year>2009</year>). <article-title>Biodiversity of poly-extremophilic Bacteria: does combining the extremes of high salt, alkaline pH and elevated temperature approach a physico-chemical boundary for life?</article-title>
+<source><italic>Saline Systems</italic></source>
+<volume>5</volume>:<issue>9</issue>
+<pub-id pub-id-type="doi">10.1186/1746-1448-5-9</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bull</surname><given-names>A.</given-names></name><name><surname>Asenjo</surname><given-names>J.</given-names></name></person-group> (<year>2013</year>). <article-title>Microbiology of hyper-arid environments: recent insights from the Atacama Desert. Chile.</article-title>
+<source><italic>Antonie Van Leeuwenhoek</italic></source>
+<volume>103</volume>
+<fpage>1173</fpage>–<lpage>1179</lpage>. <pub-id pub-id-type="doi">10.1007/s10482-013-9911-7</pub-id><pub-id pub-id-type="pmid">23564162</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bull</surname><given-names>A. T.</given-names></name><name><surname>Asenjo</surname><given-names>J.</given-names></name><name><surname>Goodfellow</surname><given-names>M. Y.</given-names></name><name><surname>Gómez-Silva</surname><given-names>B.</given-names></name></person-group> (<year>2016</year>). <article-title>The Atacama Desert: technical resources and the growing importance of novel microbial diversity.</article-title>
+<source><italic>Annu. Rev. Microbiol.</italic></source>
+<volume>70</volume>
+<fpage>215</fpage>–<lpage>234</lpage>. <pub-id pub-id-type="doi">10.1146/annurev-micro-102215-095236</pub-id><pub-id pub-id-type="pmid">27607552</pub-id></mixed-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cabria</surname><given-names>G.</given-names></name><name><surname>Argayosa</surname><given-names>V.</given-names></name><name><surname>Lazaro</surname><given-names>J.</given-names></name><name><surname>Argayosa</surname><given-names>A.</given-names></name><name><surname>Arcilla</surname><given-names>C.</given-names></name></person-group> (<year>2014</year>). <article-title>Draft genome sequence of haloalkaliphilic <italic>Exiguobacterium</italic> sp. strain AB2 from Manleluag Ophiolitic Spring. Philippines.</article-title>
+<source><italic>Genome Announc.</italic></source>
+<volume>2</volume>:<issue>e00840</issue>-14.<pub-id pub-id-type="doi">10.1128/genomeA.00840-14</pub-id></mixed-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cabrol</surname><given-names>N.</given-names></name><name><surname>Wettergreen</surname><given-names>D.</given-names></name><name><surname>Warren-Rhodes</surname><given-names>K.</given-names></name><name><surname>Grin</surname><given-names>E.</given-names></name><name><surname>Moersch</surname><given-names>J.</given-names></name><name><surname>Diaz</surname><given-names>G.</given-names></name><etal/></person-group> (<year>2007</year>). <article-title>Life in the Atacama: searching for life with rovers (science overview).</article-title>
+<source><italic>J. Geophys. Res. Biogeosci.</italic></source>
+<volume>112</volume> G04S02. <pub-id pub-id-type="doi">10.1029/2006JG000298</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Carneiro</surname><given-names>A.</given-names></name><name><surname>Ramos</surname><given-names>R.</given-names></name><name><surname>Dall’Agnol</surname><given-names>H.</given-names></name><name><surname>Pinto</surname><given-names>A.</given-names></name><name><surname>de Castro Soares</surname><given-names>S.</given-names></name><name><surname>Santos</surname><given-names>A.</given-names></name><etal/></person-group> (<year>2012</year>). <article-title>Genome sequence of <italic>Exiguobacterium antarcticum</italic> B7, isolated from a biofilm in Ginger Lake, King George Island, Antarctica.</article-title>
+<source><italic>J. Bacteriol.</italic></source>
+<volume>194</volume>
+<fpage>6689</fpage>–<lpage>6690</lpage>. <pub-id pub-id-type="doi">10.1128/JB.01791-12</pub-id><pub-id pub-id-type="pmid">23144424</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Catalán</surname><given-names>J.</given-names></name><name><surname>Camarero</surname><given-names>L.</given-names></name><name><surname>Felip</surname><given-names>M.</given-names></name><name><surname>Pla</surname><given-names>S.</given-names></name><name><surname>Ventura</surname><given-names>M.</given-names></name><name><surname>Buchaca</surname><given-names>T.</given-names></name><etal/></person-group> (<year>2006</year>). <article-title>High mountain lakes: extreme habitats and witnesses of environmental change.</article-title>
+<source><italic>Limnetica</italic></source>
+<volume>25</volume>
+<fpage>551</fpage>–<lpage>584</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cleiss-Arnold</surname><given-names>J.</given-names></name><name><surname>Koechler</surname><given-names>S.</given-names></name><name><surname>Proux</surname><given-names>C.</given-names></name><name><surname>Fardeau</surname><given-names>M.</given-names></name><name><surname>Dillies</surname><given-names>M.</given-names></name><name><surname>Coppee</surname><given-names>J.</given-names></name><etal/></person-group> (<year>2010</year>). <article-title>Temporal transcriptomic response during arsenic stress in <italic>Herminiimonas arsenicoxydans</italic>.</article-title>
+<source><italic>BMC Genomics</italic></source>
+<volume>11</volume>:<issue>709</issue>
+<pub-id pub-id-type="doi">10.1186/1471-2164-11-709</pub-id></mixed-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Collins</surname><given-names>M.</given-names></name><name><surname>Lund</surname><given-names>B.</given-names></name><name><surname>Farrow</surname><given-names>J.</given-names></name><name><surname>Schleifer</surname><given-names>K.</given-names></name></person-group> (<year>1983</year>). <article-title>Chemotaxonomic study of an alkalophilic bacterium, <italic>Exiguobacterium aurantiacum</italic> gen. nov., sp. nov.</article-title>
+<source><italic>J. Gen. Microbiol.</italic></source>
+<volume>129</volume>
+<fpage>2037</fpage>–<lpage>2042</lpage>. <pub-id pub-id-type="doi">10.1099/00221287-129-7-2037</pub-id></mixed-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Contreras-Moreira</surname><given-names>B.</given-names></name><name><surname>Vinuesa</surname><given-names>P.</given-names></name></person-group> (<year>2013</year>). <article-title>GET_HOMOLOGUES, a versatile software package for scalable and robust microbial pangenome analysis.</article-title>
+<source><italic>Appl. Environ. Microbiol.</italic></source>
+<volume>79</volume>
+<fpage>7696</fpage>–<lpage>7701</lpage>. <pub-id pub-id-type="doi">10.1128/AEM.02411-13</pub-id><pub-id pub-id-type="pmid">24096415</pub-id></mixed-citation>
+      </ref>
+      <ref id="B24">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cordero</surname><given-names>R.</given-names></name><name><surname>Seckmeyer</surname><given-names>G.</given-names></name><name><surname>Damiani</surname><given-names>A.</given-names></name><name><surname>Riechelmann</surname><given-names>S.</given-names></name><name><surname>Rayas</surname><given-names>J.</given-names></name><name><surname>Labbe</surname><given-names>F.</given-names></name><etal/></person-group> (<year>2014</year>). <article-title>The world’s highest levels of surface UV.</article-title>
+<source><italic>Photochem. Photobiol. Sci.</italic></source>
+<volume>13</volume>
+<fpage>70</fpage>–<lpage>81</lpage>. <pub-id pub-id-type="doi">10.1039/c3pp50221j</pub-id><pub-id pub-id-type="pmid">24202188</pub-id></mixed-citation>
+      </ref>
+      <ref id="B25">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cox</surname><given-names>M.</given-names></name><name><surname>Battista</surname><given-names>J.</given-names></name></person-group> (<year>2005</year>). <article-title><italic>Deinococcus radiodurans</italic> - the consummate survivor.</article-title>
+<source><italic>Nat. Rev. Microbiol.</italic></source>
+<volume>3</volume>
+<fpage>882</fpage>–<lpage>892</lpage>. <pub-id pub-id-type="doi">10.1038/nrmicro1264</pub-id><pub-id pub-id-type="pmid">16261171</pub-id></mixed-citation>
+      </ref>
+      <ref id="B26">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dastager</surname><given-names>S.</given-names></name><name><surname>Mawlankar</surname><given-names>R.</given-names></name><name><surname>Sonalkar</surname><given-names>V.</given-names></name><name><surname>Thorat</surname><given-names>M.</given-names></name><name><surname>Mual</surname><given-names>P.</given-names></name><name><surname>Verma</surname><given-names>A.</given-names></name><etal/></person-group> (<year>2015</year>). <article-title><italic>Exiguobacterium enclense</italic> sp. nov., isolated from sediment.</article-title>
+<source><italic>Int. J. Syst. Evol. Microbiol.</italic></source>
+<volume>65</volume>
+<fpage>1611</fpage>–<lpage>1616</lpage>. <pub-id pub-id-type="doi">10.1099/ijs.0.000149</pub-id><pub-id pub-id-type="pmid">25716950</pub-id></mixed-citation>
+      </ref>
+      <ref id="B27">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Di Capua</surname><given-names>C.</given-names></name><name><surname>Bortolotti</surname><given-names>A.</given-names></name><name><surname>Farías</surname><given-names>M. E.</given-names></name><name><surname>Cortez</surname><given-names>N.</given-names></name></person-group> (<year>2011</year>). <article-title>UV-resistant <italic>Acinetobacter</italic> sp. isolates from Andean wetlands display high catalase activity.</article-title>
+<source><italic>FEMS Microbiol. Lett.</italic></source>
+<volume>317</volume>
+<fpage>181</fpage>–<lpage>189</lpage>. <pub-id pub-id-type="doi">10.1111/j.1574-6968.2011.02231.x</pub-id><pub-id pub-id-type="pmid">21276048</pub-id></mixed-citation>
+      </ref>
+      <ref id="B28">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dib</surname><given-names>J.</given-names></name><name><surname>Motok</surname><given-names>J.</given-names></name><name><surname>Zenoff</surname><given-names>V.</given-names></name><name><surname>Ordonez</surname><given-names>O.</given-names></name><name><surname>Farias</surname><given-names>M. E.</given-names></name></person-group> (<year>2008</year>). <article-title>Occurrence of resistance to antibiotics, UV-B, and arsenic in bacteria isolated from extreme environments in high-altitude (above 4400 m) andean wetlands.</article-title>
+<source><italic>Curr. Microbiol.</italic></source>
+<volume>56</volume>
+<fpage>510</fpage>–<lpage>517</lpage>. <pub-id pub-id-type="doi">10.1007/s00284-008-9103-2</pub-id><pub-id pub-id-type="pmid">18330637</pub-id></mixed-citation>
+      </ref>
+      <ref id="B29">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dib</surname><given-names>J.</given-names></name><name><surname>Weiss</surname><given-names>A.</given-names></name><name><surname>Neumann</surname><given-names>A.</given-names></name><name><surname>Ordoñez</surname><given-names>O.</given-names></name><name><surname>Estévez</surname><given-names>M.</given-names></name><name><surname>Farías</surname><given-names>M. E.</given-names></name></person-group> (<year>2009</year>). <article-title>Isolation of bacteria from remote high altitude Andean lakes able to grow in the presence of antibiotics.</article-title>
+<source><italic>Recent Pat. Antiinfect. Drug Discov.</italic></source>
+<volume>4</volume>
+<fpage>66</fpage>–<lpage>76</lpage>. <pub-id pub-id-type="doi">10.2174/157489109787236300</pub-id><pub-id pub-id-type="pmid">19149698</pub-id></mixed-citation>
+      </ref>
+      <ref id="B30">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dorador</surname><given-names>C.</given-names></name><name><surname>Busekow</surname><given-names>A.</given-names></name><name><surname>Vila</surname><given-names>I.</given-names></name><name><surname>Imhoff</surname><given-names>J.</given-names></name><name><surname>Witzel</surname><given-names>K. P.</given-names></name></person-group> (<year>2008a</year>). <article-title>Molecular analysis of enrichment cultures of ammonia oxidizers from the Salar de Huasco, a high altitude saline wetland in northern Chile.</article-title>
+<source><italic>Extremophiles</italic></source>
+<volume>12</volume>
+<fpage>405</fpage>–<lpage>414</lpage>. <pub-id pub-id-type="doi">10.1007/s00792-008-0146-x</pub-id><pub-id pub-id-type="pmid">18305895</pub-id></mixed-citation>
+      </ref>
+      <ref id="B31">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dorador</surname><given-names>C.</given-names></name><name><surname>Meneses</surname><given-names>D.</given-names></name><name><surname>Urtuvia</surname><given-names>V.</given-names></name><name><surname>Demergasso</surname><given-names>C.</given-names></name><name><surname>Vila</surname><given-names>I.</given-names></name><name><surname>Witzel</surname><given-names>K. P.</given-names></name><etal/></person-group> (<year>2009</year>). <article-title>Diversity of Bacteroidetes in high altitude saline evaporitic basins in northern Chile.</article-title>
+<source><italic>J. Geophys. Res.</italic></source>
+<volume>114</volume> G00D05. <pub-id pub-id-type="doi">10.1029/2008JG000837</pub-id></mixed-citation>
+      </ref>
+      <ref id="B32">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dorador</surname><given-names>C.</given-names></name><name><surname>Remonsellez</surname><given-names>F.</given-names></name><name><surname>Vila</surname><given-names>I.</given-names></name><name><surname>Imhoff</surname><given-names>J. F.</given-names></name><name><surname>Witzel</surname><given-names>K. P.</given-names></name></person-group> (<year>2010</year>). <article-title>Unique clusters of Archaea in Salar de Huasco, an athalassohaline evaporitic basin of the Chilean Altiplano.</article-title>
+<source><italic>FEMS Microbiol. Ecol.</italic></source>
+<volume>73</volume>
+<fpage>291</fpage>–<lpage>302</lpage>. <pub-id pub-id-type="doi">10.1111/j.1574-6941.2010.00891.x</pub-id><pub-id pub-id-type="pmid">20491927</pub-id></mixed-citation>
+      </ref>
+      <ref id="B33">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dorador</surname><given-names>C.</given-names></name><name><surname>Vila</surname><given-names>I.</given-names></name><name><surname>Imhoff</surname><given-names>J. F.</given-names></name><name><surname>Witzel</surname><given-names>K. P.</given-names></name></person-group> (<year>2008b</year>). <article-title>Cyanobacterial diversity in Salar de Huasco, a high altitude saline wetland in northern Chile: an example of geographical dispersion?</article-title>
+<source><italic>FEMS Microbiol. Ecol.</italic></source>
+<volume>64</volume>
+<fpage>419</fpage>–<lpage>432</lpage>. <pub-id pub-id-type="doi">10.1111/j.1574-6941.2008.00483.x</pub-id><pub-id pub-id-type="pmid">18410357</pub-id></mixed-citation>
+      </ref>
+      <ref id="B34">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dorador</surname><given-names>C.</given-names></name><name><surname>Vila</surname><given-names>I.</given-names></name><name><surname>Witzel</surname><given-names>K. P.</given-names></name><name><surname>Imhoff</surname><given-names>J. F.</given-names></name></person-group> (<year>2013</year>). <article-title>Bacterial and archaeal diversity in high altitude wetlands of the Chilean Altiplano.</article-title>
+<source><italic>Fundam. Appl. Limnol.</italic></source>
+<volume>182</volume>
+<fpage>135</fpage>–<lpage>159</lpage>. <pub-id pub-id-type="doi">10.1127/1863-9135/2013/0393</pub-id></mixed-citation>
+      </ref>
+      <ref id="B35">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Duché</surname><given-names>O.</given-names></name><name><surname>Trémoulet</surname><given-names>F.</given-names></name><name><surname>Glaser</surname><given-names>P.</given-names></name><name><surname>Labadie</surname><given-names>J.</given-names></name></person-group> (<year>2002</year>). <article-title>Salt stress proteins induced in <italic>Listeria monocytogenes</italic>.</article-title>
+<source><italic>Appl. Environ. Microbiol.</italic></source>
+<volume>68</volume>
+<fpage>1491</fpage>–<lpage>1498</lpage>. <pub-id pub-id-type="doi">10.1128/AEM.68.4.1491-1498.2002</pub-id><pub-id pub-id-type="pmid">11916660</pub-id></mixed-citation>
+      </ref>
+      <ref id="B36">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Eggington</surname><given-names>J.</given-names></name><name><surname>Haruta</surname><given-names>N.</given-names></name><name><surname>Wood</surname><given-names>E.</given-names></name><name><surname>Cox</surname><given-names>M.</given-names></name></person-group> (<year>2004</year>). <article-title>The single-stranded DNA-binding protein of <italic>Deinococcus radiodurans</italic>.</article-title>
+<source><italic>BMC Microbiol.</italic></source>
+<volume>4</volume>:<issue>2</issue><pub-id pub-id-type="doi">10.1186/1471-2180-4-2</pub-id></mixed-citation>
+      </ref>
+      <ref id="B37">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Farias</surname><given-names>M.</given-names></name><name><surname>Fernandez-Zenoff</surname><given-names>V.</given-names></name><name><surname>Flores</surname><given-names>R.</given-names></name><name><surname>Ordonez</surname><given-names>O.</given-names></name><name><surname>Estevez</surname><given-names>C.</given-names></name></person-group> (<year>2009</year>). <article-title>Impact of solar radiation on bacterioplankton in Laguna Vilama, a hypersaline Andean lake (4650 m).</article-title>
+<source><italic>J. Geophys. Res.</italic></source>
+<volume>114</volume>
+<issue>G00D04</issue>
+<pub-id pub-id-type="doi">10.1029/2008JG000784</pub-id></mixed-citation>
+      </ref>
+      <ref id="B38">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Farías</surname><given-names>M. E.</given-names></name><name><surname>Rascovan</surname><given-names>N.</given-names></name><name><surname>Toneatti</surname><given-names>D. M.</given-names></name><name><surname>Albarracín</surname><given-names>V. H.</given-names></name><name><surname>Flores</surname><given-names>M. R.</given-names></name><name><surname>Poiré</surname><given-names>D. G.</given-names></name><etal/></person-group> (<year>2013</year>). The discovery of stromatolites developing at 3570 m above sea level in a high-altitude volcanic lake Socompa, Argentinean Andes.<source><italic>PLoS ONE</italic></source>
+<volume>8</volume>:<issue>e53497</issue>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0053497</pub-id></mixed-citation>
+      </ref>
+      <ref id="B39">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fernandez-Zenoff</surname><given-names>V.</given-names></name><name><surname>Sineriz</surname><given-names>F.</given-names></name><name><surname>Farias</surname><given-names>M. E.</given-names></name></person-group> (<year>2006</year>). <article-title>Diverse responses to UV-B radiation and repair mechanisms of bacteria isolated from high-altitude aquatic environments.</article-title>
+<source><italic>Appl. Environ. Microbiol.</italic></source>
+<volume>72</volume>
+<fpage>7857</fpage>–<lpage>7863</lpage>. <pub-id pub-id-type="doi">10.1128/AEM.01333-06</pub-id><pub-id pub-id-type="pmid">17056692</pub-id></mixed-citation>
+      </ref>
+      <ref id="B40">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Flores</surname><given-names>M.</given-names></name><name><surname>Ordoñez</surname><given-names>O.</given-names></name><name><surname>Farías</surname><given-names>M. E.</given-names></name></person-group> (<year>2009</year>). <article-title>Isolation of UV-B resistant bacteria from two high altitude Andean lakes (4,400 m) with saline and non saline conditions.</article-title>
+<source><italic>J. Gen. Appl. Microbiol.</italic></source>
+<volume>55</volume>
+<fpage>447</fpage>–<lpage>458</lpage>. <pub-id pub-id-type="doi">10.2323/jgam.55.447</pub-id><pub-id pub-id-type="pmid">20118609</pub-id></mixed-citation>
+      </ref>
+      <ref id="B41">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fourment</surname><given-names>M.</given-names></name><name><surname>Holmes</surname><given-names>E. C.</given-names></name></person-group> (<year>2016</year>). <article-title>Seqotron: a user-friendly sequence editor for Mac OS X.</article-title>
+<source><italic>BMC Res. Notes</italic></source>
+<volume>9</volume>:<issue>106</issue>
+<pub-id pub-id-type="doi">10.1186/s13104-016-1927-4</pub-id></mixed-citation>
+      </ref>
+      <ref id="B42">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Goris</surname><given-names>J.</given-names></name><name><surname>Konstantinidis</surname><given-names>K.</given-names></name><name><surname>Klappenbach</surname><given-names>J.</given-names></name><name><surname>Coenye</surname><given-names>T.</given-names></name><name><surname>Vandamme</surname><given-names>P.</given-names></name><name><surname>Tiedje</surname><given-names>J. M.</given-names></name></person-group> (<year>2007</year>). <article-title>DNA-DNA hybridization values and their relationship to whole-genome sequence similarities.</article-title>
+<source><italic>Int. J. Syst. Evol. Microbiol.</italic></source>
+<volume>57</volume>
+<fpage>81</fpage>–<lpage>91</lpage>. <pub-id pub-id-type="doi">10.1099/ijs.0.64483-0</pub-id><pub-id pub-id-type="pmid">17220447</pub-id></mixed-citation>
+      </ref>
+      <ref id="B43">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hara</surname><given-names>I.</given-names></name><name><surname>Ichise</surname><given-names>N.</given-names></name><name><surname>Kojima</surname><given-names>K.</given-names></name><name><surname>Kondo</surname><given-names>H.</given-names></name><name><surname>Ohgiya</surname><given-names>S.</given-names></name><name><surname>Matsuyama</surname><given-names>H.</given-names></name><etal/></person-group> (<year>2007</year>). <article-title>Relationship between the size of the bottleneck 15 angstrom from iron in the main channel and the reactivity of catalase corresponding to the molecular size of substrates.</article-title>
+<source><italic>Biochemistry</italic></source>
+<volume>46</volume>
+<fpage>11</fpage>–<lpage>22</lpage>. <pub-id pub-id-type="doi">10.1021/bi061519w</pub-id><pub-id pub-id-type="pmid">17198371</pub-id></mixed-citation>
+      </ref>
+      <ref id="B44">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hernández</surname><given-names>K.</given-names></name><name><surname>Yannicelli</surname><given-names>B.</given-names></name><name><surname>Olsen</surname><given-names>L.</given-names></name><name><surname>Dorador</surname><given-names>C.</given-names></name><name><surname>Menschel</surname><given-names>E.</given-names></name><name><surname>Molina</surname><given-names>V.</given-names></name><etal/></person-group> (<year>2016</year>). <article-title>Microbial activity response to solar radiation across contrasting environmental conditions in Salar de Huasco, Northern Chilean Altiplano.</article-title>
+<source><italic>Front. Microbiol.</italic></source>
+<volume>7</volume>:<issue>1857</issue>
+<pub-id pub-id-type="doi">10.3389/fmicb.2016.01857</pub-id></mixed-citation>
+      </ref>
+      <ref id="B45">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hu</surname><given-names>Y.</given-names></name><name><surname>Yan</surname><given-names>C.</given-names></name><name><surname>Hsu</surname><given-names>C.</given-names></name><name><surname>Chen</surname><given-names>Q.</given-names></name><name><surname>Niu</surname><given-names>K.</given-names></name><name><surname>Komatsoulis</surname><given-names>G.</given-names></name><etal/></person-group> (<year>2015</year>). <article-title>OmicCircos: a simple-to-use R package for the circular visualization of multidimensional omics data.</article-title>
+<source><italic>Cancer Inform.</italic></source>
+<volume>13</volume>
+<fpage>13</fpage>–<lpage>20</lpage>. <pub-id pub-id-type="doi">10.4137/CIN.S13495</pub-id></mixed-citation>
+      </ref>
+      <ref id="B46">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hugenholtz</surname><given-names>P.</given-names></name><name><surname>Skarshewski</surname><given-names>A.</given-names></name><name><surname>Parks</surname><given-names>D.</given-names></name></person-group> (<year>2016</year>). <article-title>Genome-based microbial taxonomy coming of age.</article-title>
+<source><italic>Cold Spring Harb. Perspect. Biol.</italic></source>
+<volume>8</volume>:<issue>a018085</issue><pub-id pub-id-type="doi">10.1101/cshperspect.a018085</pub-id></mixed-citation>
+      </ref>
+      <ref id="B47">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hwang</surname><given-names>B. Y.</given-names></name><name><surname>Kim</surname><given-names>J. H.</given-names></name><name><surname>Kim</surname><given-names>J.</given-names></name><name><surname>Kim</surname><given-names>B. G.</given-names></name></person-group> (<year>2005</year>). <article-title>Screening of <italic>Exigubacterium acetylicum</italic> from soil samples showing enantioselective and alkalitolerant esterase activity.</article-title>
+<source><italic>Biotechnol. Bioprocess Eng.</italic></source>
+<volume>10</volume>
+<fpage>367</fpage>–<lpage>371</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B48">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hyson</surname><given-names>P.</given-names></name><name><surname>Shapiro</surname><given-names>J.</given-names></name><name><surname>Wien</surname><given-names>M. W.</given-names></name></person-group> (<year>2015</year>). <article-title>Draft genome sequence of <italic>Exiguobacterium</italic> sp. strain BMC-KP, an environmental isolate from Bryn Mawr, Pennsylvania.</article-title>
+<source><italic>Genome Announc.</italic></source>
+<volume>3</volume>:<issue>e01164</issue>-15. <pub-id pub-id-type="doi">10.1128/genomeA.01164-1115</pub-id></mixed-citation>
+      </ref>
+      <ref id="B49">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jiang</surname><given-names>X.</given-names></name><name><surname>Xue</surname><given-names>Y.</given-names></name><name><surname>Wang</surname><given-names>L.</given-names></name><name><surname>Yu</surname><given-names>B.</given-names></name><name><surname>Ma</surname><given-names>Y.</given-names></name></person-group> (<year>2013</year>). <article-title>Genome sequence of a novel polymer-grade l-lactate-producing alkaliphile, <italic>Exiguobacterium</italic> sp. strain 8-11-1.</article-title>
+<source><italic>Genome Announc.</italic></source>
+<volume>1</volume>:<issue>e00616-13</issue>
+<pub-id pub-id-type="doi">10.1128/genomeA.00616-13</pub-id></mixed-citation>
+      </ref>
+      <ref id="B50">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jones</surname><given-names>P.</given-names></name><name><surname>Binns</surname><given-names>D.</given-names></name><name><surname>Chang</surname><given-names>H.</given-names></name><name><surname>Fraser</surname><given-names>M.</given-names></name><name><surname>Li</surname><given-names>W.</given-names></name><name><surname>McAnulla</surname><given-names>C.</given-names></name><etal/></person-group> (<year>2014</year>). <article-title>InterProScan 5: genome-scale protein function classification.</article-title>
+<source><italic>Bioinformatics</italic></source>
+<volume>30</volume>
+<fpage>1236</fpage>–<lpage>1240</lpage>. <pub-id pub-id-type="doi">10.1093/bioinformatics/btu031</pub-id><pub-id pub-id-type="pmid">24451626</pub-id></mixed-citation>
+      </ref>
+      <ref id="B51">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kasana</surname><given-names>R. C.</given-names></name><name><surname>Yadav</surname><given-names>S. K.</given-names></name></person-group> (<year>2007</year>). <article-title>Isolation of a psychrotrophic <italic>Exiguobacterium</italic> sp. SKPB5 (MTCC 7803) and characterization of its alkaline protease.</article-title>
+<source><italic>Curr. Microbiol.</italic></source>
+<volume>54</volume>
+<fpage>224</fpage>–<lpage>229</lpage>. <pub-id pub-id-type="doi">10.1007/s00284-006-0402-1</pub-id><pub-id pub-id-type="pmid">17294327</pub-id></mixed-citation>
+      </ref>
+      <ref id="B52">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Katoh</surname><given-names>K.</given-names></name><name><surname>Standley</surname><given-names>D. M.</given-names></name></person-group> (<year>2013</year>). <article-title>MAFFT multiple sequence alignment software version 7: improvements in performance and usability.</article-title>
+<source><italic>Mol. Biol. Evol.</italic></source>
+<volume>30</volume>
+<fpage>772</fpage>–<lpage>780</lpage>. <pub-id pub-id-type="doi">10.1093/molbev/mst010</pub-id><pub-id pub-id-type="pmid">23329690</pub-id></mixed-citation>
+      </ref>
+      <ref id="B53">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kearse</surname><given-names>M.</given-names></name><name><surname>Moir</surname><given-names>R.</given-names></name><name><surname>Wilson</surname><given-names>A.</given-names></name><name><surname>Stones-Havas</surname><given-names>S.</given-names></name><name><surname>Cheung</surname><given-names>M.</given-names></name><name><surname>Sturrock</surname><given-names>S.</given-names></name><etal/></person-group> (<year>2012</year>). <article-title>Geneious basic: an integrated and extendable desktop software platform for the organization and analysis of sequence data.</article-title>
+<source><italic>Bioinformatics</italic></source>
+<volume>28</volume>
+<fpage>1647</fpage>–<lpage>1649</lpage>. <pub-id pub-id-type="doi">10.1093/bioinformatics/bts199</pub-id><pub-id pub-id-type="pmid">22543367</pub-id></mixed-citation>
+      </ref>
+      <ref id="B54">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kolde</surname><given-names>R.</given-names></name></person-group> (<year>2015</year>). <source><italic>pheatmap: Pretty Heatmaps. R Package Version</italic> 1.0.8</source>. <comment>Available at: <ext-link ext-link-type="uri" xlink:href="https://CRAN.R-project.org/package=pheatmap">https://CRAN.R-project.org/package=pheatmap</ext-link></comment></mixed-citation>
+      </ref>
+      <ref id="B55">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Konstantinidis</surname><given-names>K. T.</given-names></name><name><surname>Tiedje</surname><given-names>J. M.</given-names></name></person-group> (<year>2005a</year>). <article-title>Towards a genome-based taxonomy for prokaryotes.</article-title>
+<source><italic>J. Bacteriol.</italic></source>
+<volume>187</volume>
+<fpage>6258</fpage>–<lpage>6264</lpage>. <pub-id pub-id-type="doi">10.1128/JB.187.18.6258-6264.2005</pub-id><pub-id pub-id-type="pmid">16159757</pub-id></mixed-citation>
+      </ref>
+      <ref id="B56">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Konstantinidis</surname><given-names>K. T.</given-names></name><name><surname>Tiedje</surname><given-names>J. M.</given-names></name></person-group> (<year>2005b</year>). <article-title>Genomic insights that advance the species definition for prokaryotes.</article-title>
+<source><italic>Proc. Natl. Acad. Sci. U.S.A.</italic></source>
+<volume>102</volume>
+<fpage>2567</fpage>–<lpage>2572</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0409727102</pub-id><pub-id pub-id-type="pmid">15701695</pub-id></mixed-citation>
+      </ref>
+      <ref id="B57">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kruger</surname><given-names>M.</given-names></name><name><surname>Bertin</surname><given-names>P. N.</given-names></name><name><surname>Heipieper</surname><given-names>H.</given-names></name><name><surname>Arsene-Ploetze</surname><given-names>F.</given-names></name></person-group> (<year>2013</year>). <article-title>Bacterial metabolism of environmental arsenic—mechanisms and biotechnological applications.</article-title>
+<source><italic>Appl. Microbiol. Biotechnol.</italic></source>
+<volume>97</volume>
+<fpage>3827</fpage>–<lpage>3841</lpage>. <pub-id pub-id-type="doi">10.1007/s00253-013-4838-5</pub-id><pub-id pub-id-type="pmid">23546422</pub-id></mixed-citation>
+      </ref>
+      <ref id="B58">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Kumar</surname><given-names>A.</given-names></name><name><surname>Singh</surname><given-names>V.</given-names></name><name><surname>Kumar</surname><given-names>R.</given-names></name></person-group> (<year>2006</year>). <article-title>“Characterization of an alkaliphile, <italic>Exiguobacterium</italic> sp. and it’s application in bioremediation”, in</article-title>
+<source><italic>Proceedings of the International Conference on Extremophiles</italic></source>
+<publisher-loc>Brest-France</publisher-loc>
+<volume>115</volume>.</mixed-citation>
+      </ref>
+      <ref id="B59">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kurth</surname><given-names>D.</given-names></name><name><surname>Belfiore</surname><given-names>C.</given-names></name><name><surname>Gorriti</surname><given-names>M.</given-names></name><name><surname>Cortez</surname><given-names>N.</given-names></name><name><surname>Farias</surname><given-names>M. E.</given-names></name><name><surname>Albarracín</surname><given-names>V. H.</given-names></name></person-group> (<year>2015</year>). <article-title>Genomic and proteomic evidences unravel the UV-resistome of the poly-extremophile <italic>Acinetobacter</italic> sp. Ver3.</article-title>
+<source><italic>Front. Microbiol.</italic></source>
+<volume>6</volume>:<issue>328</issue><pub-id pub-id-type="doi">10.3389/fmicb.2015.00328</pub-id></mixed-citation>
+      </ref>
+      <ref id="B60">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kurtz</surname><given-names>S.</given-names></name><name><surname>Phillippy</surname><given-names>A.</given-names></name><name><surname>Delcher</surname><given-names>A.</given-names></name><name><surname>Smoot</surname><given-names>M.</given-names></name><name><surname>Shumway</surname><given-names>M.</given-names></name><name><surname>Antonescu</surname><given-names>C.</given-names></name><etal/></person-group> (<year>2004</year>). <article-title>Versatile and open software for comparing large genomes.</article-title>
+<source><italic>Genome Biol.</italic></source>
+<volume>5</volume>:<issue>R12</issue>
+<pub-id pub-id-type="doi">10.1186/gb-2004-5-2-r12</pub-id></mixed-citation>
+      </ref>
+      <ref id="B61">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lopez</surname><given-names>L.</given-names></name><name><surname>Pozo</surname><given-names>C.</given-names></name><name><surname>Rodelas</surname><given-names>B.</given-names></name><name><surname>Calvo</surname><given-names>C.</given-names></name><name><surname>Juarez</surname><given-names>B.</given-names></name><name><surname>Martinez-Toledo</surname><given-names>M.</given-names></name><etal/></person-group> (<year>2005</year>). <article-title>Identification of bacteria isolated from an oligotrophic lake with pesticide removal capacities.</article-title>
+<source><italic>Ecotoxicology</italic></source>
+<volume>14</volume>
+<fpage>299</fpage>–<lpage>312</lpage>. <pub-id pub-id-type="doi">10.1007/s10646-003-6367-y</pub-id><pub-id pub-id-type="pmid">15943106</pub-id></mixed-citation>
+      </ref>
+      <ref id="B62">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lynch</surname><given-names>R.</given-names></name><name><surname>King</surname><given-names>A.</given-names></name><name><surname>Farías</surname><given-names>M. E.</given-names></name><name><surname>Sowell</surname><given-names>P.</given-names></name><name><surname>Vitry</surname><given-names>C.</given-names></name><name><surname>Schmidt</surname><given-names>S. K.</given-names></name></person-group> (<year>2012</year>). <article-title>The potential for microbial life in the highest-elevation (&gt; 6000 masl) mineral soils of the Atacama region.</article-title>
+<source><italic>J. Geophys. Res. Atmos.</italic></source>
+<volume>117</volume>
+<issue>G02028</issue>
+<pub-id pub-id-type="doi">10.1029/2012JG001961</pub-id></mixed-citation>
+      </ref>
+      <ref id="B63">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Marchler-Bauer</surname><given-names>A.</given-names></name><name><surname>Anderson</surname><given-names>J. B.</given-names></name><name><surname>DeWeese-Scott</surname><given-names>C.</given-names></name><name><surname>Fedorova</surname><given-names>N. D.</given-names></name><name><surname>Geer</surname><given-names>L. Y.</given-names></name><name><surname>He</surname><given-names>S.</given-names></name><etal/></person-group> (<year>2003</year>). <article-title>CDD: a curated Entrez database of conserved domain alignments.</article-title>
+<source><italic>Nucleic Acids Res.</italic></source>
+<volume>31</volume>
+<fpage>383</fpage>–<lpage>387</lpage>. <pub-id pub-id-type="doi">10.1093/nar/gkg087</pub-id><pub-id pub-id-type="pmid">12520028</pub-id></mixed-citation>
+      </ref>
+      <ref id="B64">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Márquez-García</surname><given-names>M.</given-names></name><name><surname>Vila</surname><given-names>I.</given-names></name><name><surname>Hinojosa</surname><given-names>L. F.</given-names></name><name><surname>Mendez</surname><given-names>M. A.</given-names></name><name><surname>Carvajal</surname><given-names>J.</given-names></name><name><surname>Sabando</surname><given-names>M. C.</given-names></name></person-group> (<year>2009</year>). <article-title>Distribution and seasonal fluctuations in the aquatic biodiversity of the southern Altiplano.</article-title>
+<source><italic>Limnologica</italic></source>
+<volume>39</volume>
+<fpage>314</fpage>–<lpage>318</lpage>. <pub-id pub-id-type="doi">10.1016/j.limno.2009.06.007</pub-id></mixed-citation>
+      </ref>
+      <ref id="B65">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Midha</surname><given-names>S.</given-names></name><name><surname>Bansal</surname><given-names>K.</given-names></name><name><surname>Sharma</surname><given-names>S.</given-names></name><name><surname>Kumar</surname><given-names>N.</given-names></name><name><surname>Patil</surname><given-names>P.</given-names></name><name><surname>Chaudhry</surname><given-names>V.</given-names></name><etal/></person-group> (<year>2015</year>). <article-title>Genomic resource of rice seed associated bacteria.</article-title>
+<source><italic>Front. Microbiol.</italic></source>
+<volume>6</volume>:<issue>1551</issue>
+<pub-id pub-id-type="doi">10.3389/fmicb.2015.01551</pub-id></mixed-citation>
+      </ref>
+      <ref id="B66">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mitchell</surname><given-names>A.</given-names></name><name><surname>Chang</surname><given-names>H.</given-names></name><name><surname>Daugherty</surname><given-names>L.</given-names></name><name><surname>Fraser</surname><given-names>M.</given-names></name><name><surname>Hunter</surname><given-names>S.</given-names></name><name><surname>Lopez</surname><given-names>R.</given-names></name><etal/></person-group> (<year>2014</year>). <article-title>The InterPro protein families database: the classification resource after 15 years.</article-title>
+<source><italic>Nucleic Acids Res.</italic></source>
+<volume>43</volume>
+<fpage>D213</fpage>–<lpage>D221</lpage>. <pub-id pub-id-type="doi">10.1093/nar/gku1243</pub-id><pub-id pub-id-type="pmid">25428371</pub-id></mixed-citation>
+      </ref>
+      <ref id="B67">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Molina</surname><given-names>V.</given-names></name><name><surname>Hernández</surname><given-names>K.</given-names></name><name><surname>Dorador</surname><given-names>C.</given-names></name><name><surname>Eissler</surname><given-names>Y.</given-names></name><name><surname>Hengst</surname><given-names>M.</given-names></name><name><surname>Pérez</surname><given-names>V.</given-names></name><etal/></person-group> (<year>2016</year>). <article-title>Bacterial active community cycling in response to solar radiation and their influence on nutrient changes in a high-altitude wetland.</article-title>
+<source><italic>Front. Microbiol.</italic></source>
+<volume>7</volume>:<issue>1823</issue>
+<pub-id pub-id-type="doi">10.3389/fmicb.2016.01823</pub-id></mixed-citation>
+      </ref>
+      <ref id="B68">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Myers</surname><given-names>E.</given-names></name><name><surname>Sutton</surname><given-names>G.</given-names></name><name><surname>Delcher</surname><given-names>A.</given-names></name><name><surname>Dew</surname><given-names>I.</given-names></name><name><surname>Fasulo</surname><given-names>D.</given-names></name><name><surname>Flanigan</surname><given-names>M.</given-names></name><etal/></person-group> (<year>2000</year>). <article-title>A whole-genome assembly of <italic>Drosophila</italic>.</article-title>
+<source><italic>Science</italic></source>
+<volume>287</volume>
+<fpage>2196</fpage>–<lpage>2204</lpage>. <pub-id pub-id-type="doi">10.1126/science.287.5461.2196</pub-id><pub-id pub-id-type="pmid">10731133</pub-id></mixed-citation>
+      </ref>
+      <ref id="B69">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nonaka</surname><given-names>K.</given-names></name><name><surname>Yoon</surname><given-names>K.</given-names></name><name><surname>Ogo</surname><given-names>S.</given-names></name></person-group> (<year>2014</year>). <article-title>Biochemical characterization of psychrophilic Mn-superoxide dismutase from newly isolated <italic>Exiguobacterium</italic> sp. OS-77.</article-title>
+<source><italic>Extremophiles</italic></source>
+<volume>18</volume>
+<fpage>363</fpage>–<lpage>373</lpage>. <pub-id pub-id-type="doi">10.1007/s00792-013-0621-x</pub-id><pub-id pub-id-type="pmid">24414928</pub-id></mixed-citation>
+      </ref>
+      <ref id="B70">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Norais</surname><given-names>C.</given-names></name><name><surname>Chitteni-Pattu</surname><given-names>S.</given-names></name><name><surname>Wood</surname><given-names>E.</given-names></name><name><surname>Inman</surname><given-names>R.</given-names></name><name><surname>Cox</surname><given-names>M.</given-names></name></person-group> (<year>2009</year>). <article-title>DdrB protein, an alternative <italic>Deinococcus radiodurans</italic> SSB induced by ionizing radiation.</article-title>
+<source><italic>J. Biol. Chem.</italic></source>
+<volume>284</volume>
+<fpage>21402</fpage>–<lpage>21411</lpage>. <pub-id pub-id-type="doi">10.1074/jbc.M109.010454</pub-id><pub-id pub-id-type="pmid">19515845</pub-id></mixed-citation>
+      </ref>
+      <ref id="B71">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Okeke</surname><given-names>B. C.</given-names></name></person-group> (<year>2008</year>). <article-title>Bioremoval of hexavalent chromium from water by a salt tolerant bacterium, <italic>Exiguobacterium</italic> sp. GS1.</article-title>
+<source><italic>J. Ind. Microbiol. Biotechnol.</italic></source>
+<volume>35</volume>
+<fpage>1571</fpage>–<lpage>1579</lpage>. <pub-id pub-id-type="doi">10.1007/s10295-008-0399-5</pub-id><pub-id pub-id-type="pmid">18663504</pub-id></mixed-citation>
+      </ref>
+      <ref id="B72">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ordoñez</surname><given-names>O.</given-names></name><name><surname>Flores</surname><given-names>M.</given-names></name><name><surname>Dib</surname><given-names>J.</given-names></name><name><surname>Paz</surname><given-names>A.</given-names></name><name><surname>Farias</surname><given-names>M. E.</given-names></name></person-group> (<year>2009</year>). <article-title>Extremophile culture collection from Andean lakes: extreme pristine environments that host a wide diversity of microorganisms with tolerance to UV radiation.</article-title>
+<source><italic>Microb. Ecol.</italic></source>
+<volume>58</volume>
+<fpage>461</fpage>–<lpage>473</lpage>. <pub-id pub-id-type="doi">10.1007/s00248-009-9527-7</pub-id><pub-id pub-id-type="pmid">19495855</pub-id></mixed-citation>
+      </ref>
+      <ref id="B73">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ordoñez</surname><given-names>O.</given-names></name><name><surname>Lanzarotti</surname><given-names>E.</given-names></name><name><surname>Kurth</surname><given-names>D.</given-names></name><name><surname>Cortez</surname><given-names>N.</given-names></name><name><surname>Farias</surname><given-names>M. E.</given-names></name><name><surname>Turjanski</surname><given-names>A. G.</given-names></name></person-group> (<year>2015</year>). <article-title>Genome comparison of two <italic>Exiguobacterium</italic> strains from high altitudeandean lakes with different arsenic resistance: identification and 3Dmodeling of the Acr3 efflux pump.</article-title>
+<source><italic>Front. Environ. Sci.</italic></source>
+<volume>3</volume>:<issue>50</issue>
+<pub-id pub-id-type="doi">10.3389/fenvs.2015.00050</pub-id></mixed-citation>
+      </ref>
+      <ref id="B74">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ordoñez</surname><given-names>O.</given-names></name><name><surname>Lanzarotti</surname><given-names>E.</given-names></name><name><surname>Kurth</surname><given-names>D.</given-names></name><name><surname>Gorriti</surname><given-names>M.</given-names></name><name><surname>Revale</surname><given-names>S.</given-names></name><name><surname>Cortez</surname><given-names>N.</given-names></name><etal/></person-group> (<year>2013</year>). <article-title>Draft genome sequence of the polyextremophilic <italic>Exiguobacterium</italic> sp. strain S17, isolated from hyperarsenic lakes in the Argentinian Puna.</article-title>
+<source><italic>Genome Announc.</italic></source>
+<volume>1</volume>:<issue>e00480-13</issue>
+<pub-id pub-id-type="doi">10.1128/genomeA.00480-13</pub-id></mixed-citation>
+      </ref>
+      <ref id="B75">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Páez-Espino</surname><given-names>D.</given-names></name><name><surname>Tamames</surname><given-names>J.</given-names></name><name><surname>de Lorenzo</surname><given-names>V.</given-names></name><name><surname>Cánovas</surname><given-names>D.</given-names></name></person-group> (<year>2009</year>). <article-title>Microbial responses to environmental arsenic.</article-title>
+<source><italic>Biometals</italic></source>
+<volume>22</volume>
+<fpage>117</fpage>–<lpage>130</lpage>. <pub-id pub-id-type="doi">10.1007/s10534-008-9195-y</pub-id><pub-id pub-id-type="pmid">19130261</pub-id></mixed-citation>
+      </ref>
+      <ref id="B76">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pattanapipitpaisal</surname><given-names>P.</given-names></name><name><surname>Mabbett</surname><given-names>A.</given-names></name><name><surname>Finlay</surname><given-names>J.</given-names></name><name><surname>Beswick</surname><given-names>A.</given-names></name><name><surname>Paterson-Beedle</surname><given-names>M.</given-names></name><name><surname>Essa</surname><given-names>A.</given-names></name><etal/></person-group> (<year>2002</year>). <article-title>Reduction of Cr (VI) and bioaccumulation of chromium by gram positive and gram negative microorganisms not previously exposed to Cr-stress.</article-title>
+<source><italic>Environ. Technol.</italic></source>
+<volume>23</volume>
+<fpage>731</fpage>–<lpage>745</lpage>. <pub-id pub-id-type="doi">10.1080/09593332308618367</pub-id><pub-id pub-id-type="pmid">12164635</pub-id></mixed-citation>
+      </ref>
+      <ref id="B77">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Petrova</surname><given-names>M.</given-names></name><name><surname>Mindlin</surname><given-names>S.</given-names></name><name><surname>Gorlenko</surname><given-names>Z.</given-names></name><name><surname>Kalyaeva</surname><given-names>E.</given-names></name><name><surname>Soina</surname><given-names>V.</given-names></name><name><surname>Bogdanova</surname><given-names>E. S.</given-names></name></person-group> (<year>2002</year>). <article-title>Mercury-resistant bacteria from permafrost sediments and prospects for their use in comparative studies of mercury resistance determinants.</article-title>
+<source><italic>Russ. J. Genet.</italic></source>
+<volume>38</volume>
+<fpage>1330</fpage>–<lpage>1334</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B78">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pfaffl</surname><given-names>M. W.</given-names></name></person-group> (<year>2001</year>). <article-title>A new mathematical model for relative quantification in real-time RT–PCR.</article-title>
+<source><italic>Nucleic Acids Res.</italic></source>
+<volume>29</volume>:<issue>e45</issue>.</mixed-citation>
+      </ref>
+      <ref id="B79">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Qin</surname><given-names>Q.</given-names></name><name><surname>Xie</surname><given-names>B.</given-names></name><name><surname>Zhang</surname><given-names>X.</given-names></name><name><surname>Chen</surname><given-names>X.</given-names></name><name><surname>Zhou</surname><given-names>B.</given-names></name><name><surname>Zhou</surname><given-names>J.</given-names></name><etal/></person-group> (<year>2014</year>). <article-title>A proposed genus boundary for the prokaryotes based on genomic insights.</article-title>
+<source><italic>J. Bacteriol.</italic></source>
+<volume>196</volume>
+<fpage>2210</fpage>–<lpage>2215</lpage>. <pub-id pub-id-type="doi">10.1128/JB.01688-14</pub-id><pub-id pub-id-type="pmid">24706738</pub-id></mixed-citation>
+      </ref>
+      <ref id="B80">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rebollar</surname><given-names>E. A.</given-names></name><name><surname>Avitia</surname><given-names>M.</given-names></name><name><surname>Eguiarte</surname><given-names>L.</given-names></name><name><surname>González-González</surname><given-names>A.</given-names></name><name><surname>Mora</surname><given-names>L.</given-names></name><name><surname>Bonilla-Rosso</surname><given-names>G. Y.</given-names></name><etal/></person-group> (<year>2012</year>). <article-title>Water–sediment niche differentiation in ancient marine lineages of <italic>Exiguobacterium</italic> endemic to the Cuatro Cienegas Basin.</article-title>
+<source><italic>Environ. Microbiol.</italic></source>
+<volume>14</volume>
+<fpage>2323</fpage>–<lpage>2333</lpage>. <pub-id pub-id-type="doi">10.1111/j.1462-2920.2012.02784.x</pub-id><pub-id pub-id-type="pmid">22639906</pub-id></mixed-citation>
+      </ref>
+      <ref id="B81">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Richter</surname><given-names>M.</given-names></name><name><surname>Rosselló-Mora</surname><given-names>R.</given-names></name></person-group> (<year>2009</year>). <article-title>Shifting the genomic gold standard for the prokaryotic species definition.</article-title>
+<source><italic>Proc. Natl. Acad. Sci. U.S.A.</italic></source>
+<volume>106</volume>
+<fpage>19126</fpage>–<lpage>19131</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0906412106</pub-id><pub-id pub-id-type="pmid">19855009</pub-id></mixed-citation>
+      </ref>
+      <ref id="B82">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rodrigues</surname><given-names>D.</given-names></name><name><surname>Goris</surname><given-names>J.</given-names></name><name><surname>Vishnivetskaya</surname><given-names>T.</given-names></name><name><surname>Gilichinsky</surname><given-names>D.</given-names></name><name><surname>Thomashow</surname><given-names>M. F.</given-names></name><name><surname>Tiedje</surname><given-names>J. M.</given-names></name></person-group> (<year>2006</year>). <article-title>Characterization of <italic>Exiguobacterium</italic> isolates from the Siberian permafrost. Description of <italic>Exiguobacterium sibiricum</italic> sp. nov.</article-title>
+<source><italic>Extremophiles</italic></source>
+<volume>10</volume>
+<fpage>285</fpage>–<lpage>294</lpage>. <pub-id pub-id-type="doi">10.1007/s00792-005-0497-5</pub-id><pub-id pub-id-type="pmid">16489412</pub-id></mixed-citation>
+      </ref>
+      <ref id="B83">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rothschild</surname><given-names>L. J.</given-names></name><name><surname>Mancinelli</surname><given-names>R. L.</given-names></name></person-group> (<year>2001</year>). <article-title>Life in extreme environments.</article-title>
+<source><italic>Nature</italic></source>
+<volume>409</volume>
+<fpage>1092</fpage>–<lpage>1101</lpage>. <pub-id pub-id-type="doi">10.1038/35059215</pub-id><pub-id pub-id-type="pmid">11234023</pub-id></mixed-citation>
+      </ref>
+      <ref id="B84">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rout</surname><given-names>S.</given-names></name><name><surname>Rai</surname><given-names>A.</given-names></name><name><surname>Humphreys</surname><given-names>P. N.</given-names></name></person-group> (<year>2015</year>). <article-title>Draft genome sequence of alkaliphilic <italic>Exiguobacterium</italic> sp. strain HUD, isolated from a polymicrobial consortia.</article-title>
+<source><italic>Genome Announc.</italic></source>
+<volume>3</volume>:<issue>e01451</issue>-14. <pub-id pub-id-type="doi">10.1128/genomeA.01451-14</pub-id></mixed-citation>
+      </ref>
+      <ref id="B85">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sarangi</surname><given-names>A.</given-names></name><name><surname>Krishnan</surname><given-names>C.</given-names></name></person-group> (<year>2008</year>). <article-title>Comparison of in vitro Cr (VI) reduction by CFEs of chromate resistant bacteria isolated from chromate contaminated soil.</article-title>
+<source><italic>Bioresour. Technol.</italic></source>
+<volume>99</volume>
+<fpage>4130</fpage>–<lpage>4137</lpage>. <pub-id pub-id-type="doi">10.1016/j.biortech.2007.08.059</pub-id><pub-id pub-id-type="pmid">17920879</pub-id></mixed-citation>
+      </ref>
+      <ref id="B86">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Seemann</surname><given-names>T.</given-names></name></person-group> (<year>2014</year>). <article-title>Prokka: rapid prokaryotic genome annotation.</article-title>
+<source><italic>Bioinformatics</italic></source>
+<volume>30</volume>
+<fpage>2068</fpage>–<lpage>2069</lpage>. <pub-id pub-id-type="doi">10.1093/bioinformatics/btu153</pub-id><pub-id pub-id-type="pmid">24642063</pub-id></mixed-citation>
+      </ref>
+      <ref id="B87">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Semova</surname><given-names>I.</given-names></name><name><surname>Carten</surname><given-names>J. D.</given-names></name><name><surname>Stombaugh</surname><given-names>J.</given-names></name><name><surname>Mackey</surname><given-names>L.</given-names></name><name><surname>Knight</surname><given-names>R.</given-names></name><name><surname>Farber</surname><given-names>S.</given-names></name><etal/></person-group> (<year>2012</year>). <article-title>Microbiota regulate intestinal absorption and metabolism of fatty acids in the zebrafish.</article-title>
+<source><italic>Cell Host Microbe</italic></source>
+<volume>12</volume>
+<fpage>277</fpage>–<lpage>288</lpage>. <pub-id pub-id-type="doi">10.1016/j.chom.2012.08.003</pub-id><pub-id pub-id-type="pmid">22980325</pub-id></mixed-citation>
+      </ref>
+      <ref id="B88">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Seufferheld</surname><given-names>M. J.</given-names></name><name><surname>Alvarez</surname><given-names>H. M.</given-names></name><name><surname>Farias</surname><given-names>M. E.</given-names></name></person-group> (<year>2008</year>). <article-title>Role of polyphosphates in microbial adaptation to extreme environments.</article-title>
+<source><italic>Appl. Environ. Microbiol.</italic></source>
+<volume>74</volume>
+<fpage>5867</fpage>–<lpage>5874</lpage>. <pub-id pub-id-type="doi">10.1128/AEM.00501-08</pub-id><pub-id pub-id-type="pmid">18708516</pub-id></mixed-citation>
+      </ref>
+      <ref id="B89">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Slyemi</surname><given-names>D.</given-names></name><name><surname>Bonnefoy</surname><given-names>V.</given-names></name></person-group> (<year>2012</year>). <article-title>How prokaryotes deal with arsenic.</article-title>
+<source><italic>Environ. Microbiol. Rep.</italic></source>
+<volume>4</volume>
+<fpage>571</fpage>–<lpage>586</lpage>. <pub-id pub-id-type="doi">10.1111/j.1758-2229.2011.00300.x</pub-id><pub-id pub-id-type="pmid">23760928</pub-id></mixed-citation>
+      </ref>
+      <ref id="B90">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Suga</surname><given-names>S.</given-names></name><name><surname>Koyama</surname><given-names>N.</given-names></name></person-group> (<year>2000</year>). <article-title>Purification and properties of a novel azide-sensitive ATPase of <italic>Exiguobacterium aurantiacum</italic>.</article-title>
+<source><italic>Arch. Microbiol.</italic></source>
+<volume>173</volume>
+<fpage>200</fpage>–<lpage>205</lpage>. <pub-id pub-id-type="doi">10.1007/s002039900129</pub-id><pub-id pub-id-type="pmid">10763752</pub-id></mixed-citation>
+      </ref>
+      <ref id="B91">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sukumaran</surname><given-names>J.</given-names></name><name><surname>Holder</surname><given-names>M.</given-names></name></person-group> (<year>2010</year>). <article-title>DendroPy: a python library for phylogenetic computing.</article-title>
+<source><italic>Bioinformatics</italic></source>
+<volume>26</volume>
+<fpage>1569</fpage>–<lpage>1571</lpage>. <pub-id pub-id-type="doi">10.1093/bioinformatics/btq228</pub-id><pub-id pub-id-type="pmid">20421198</pub-id></mixed-citation>
+      </ref>
+      <ref id="B92">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Takebe</surname><given-names>F.</given-names></name><name><surname>Hara</surname><given-names>I.</given-names></name><name><surname>Matsuyama</surname><given-names>H.</given-names></name><name><surname>Yumoto</surname><given-names>I.</given-names></name></person-group> (<year>2007</year>). <article-title>Effect of H2O2 under low- and high-aeration-level conditions on growth and catalase activity in <italic>Exiguobacterium oxidotolerans</italic> T-2-2T.</article-title>
+<source><italic>J. Biosci. Bioeng.</italic></source>
+<volume>104</volume>
+<fpage>464</fpage>–<lpage>469</lpage>. <pub-id pub-id-type="doi">10.1263/jbb.104.464</pub-id><pub-id pub-id-type="pmid">18215632</pub-id></mixed-citation>
+      </ref>
+      <ref id="B93">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tang</surname><given-names>J.</given-names></name><name><surname>Zhang</surname><given-names>Y.</given-names></name><name><surname>Meng</surname><given-names>H.</given-names></name><name><surname>Xue</surname><given-names>Z.</given-names></name><name><surname>Ma</surname><given-names>J.</given-names></name></person-group> (<year>2013</year>). <article-title>Complete genome sequence of <italic>Exiguobacterium</italic> sp. strain MH3, isolated from rhizosphere of <italic>Lemna minor</italic>.</article-title>
+<source><italic>Genome Announc.</italic></source>
+<volume>1</volume>:<issue>e01059-13</issue>
+<pub-id pub-id-type="doi">10.1128/genomeA.01059-13</pub-id></mixed-citation>
+      </ref>
+      <ref id="B94">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tatusova</surname><given-names>T.</given-names></name><name><surname>DiCuccio</surname><given-names>M.</given-names></name><name><surname>Badretdin</surname><given-names>A.</given-names></name><name><surname>Chetvernin</surname><given-names>V.</given-names></name><name><surname>Nawrocki</surname><given-names>E.</given-names></name><name><surname>Zaslavsky</surname><given-names>L.</given-names></name><etal/></person-group> (<year>2016</year>). <article-title>NCBI prokaryotic genome annotation pipeline.</article-title>
+<source><italic>Nucleic Acids Res.</italic></source>
+<volume>1</volume>
+<fpage>1</fpage>–<lpage>11</lpage>. <pub-id pub-id-type="doi">10.1093/nar/gkw569</pub-id></mixed-citation>
+      </ref>
+      <ref id="B95">
+        <mixed-citation publication-type="journal"><collab>The Gene Ontology Consortium</collab> (<year>2015</year>). <article-title>Gene ontology consortium: going forward.</article-title>
+<source><italic>Nucleic acids Res.</italic></source>
+<volume>43</volume>
+<fpage>D1049</fpage>–<lpage>D1056</lpage>. <pub-id pub-id-type="doi">10.1093/nar/gku1179</pub-id><pub-id pub-id-type="pmid">25428369</pub-id></mixed-citation>
+      </ref>
+      <ref id="B96">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Usuda</surname><given-names>Y.</given-names></name><name><surname>Kawasaki</surname><given-names>H.</given-names></name><name><surname>Shimaoka</surname><given-names>M.</given-names></name><name><surname>Utagawa</surname><given-names>T.</given-names></name></person-group> (<year>1998</year>). <article-title>Molecular characterization of guanosine kinase gene from a facultative alkalophile, <italic>Exiguobacterium aurantiacum</italic> ATCC 35652.</article-title>
+<source><italic>Biochim. Biophys. Acta</italic></source>
+<volume>1442</volume>
+<fpage>373</fpage>–<lpage>379</lpage>. <pub-id pub-id-type="doi">10.1016/s0167-4781(98)00166-3</pub-id><pub-id pub-id-type="pmid">9804993</pub-id></mixed-citation>
+      </ref>
+      <ref id="B97">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Varghese</surname><given-names>N.</given-names></name><name><surname>Mukherjee</surname><given-names>S.</given-names></name><name><surname>Ivanova</surname><given-names>N.</given-names></name><name><surname>Konstantinidis</surname><given-names>K.</given-names></name><name><surname>Mavrommatis</surname><given-names>K.</given-names></name><name><surname>Kyrpides</surname><given-names>N. C.</given-names></name><etal/></person-group> (<year>2015</year>). <article-title>Microbial species delineation using whole genome sequences.</article-title>
+<source><italic>Nucleic Acids Res.</italic></source>
+<volume>43</volume>
+<fpage>6761</fpage>–<lpage>6771</lpage>. <pub-id pub-id-type="doi">10.1093/nar/gkv657</pub-id><pub-id pub-id-type="pmid">26150420</pub-id></mixed-citation>
+      </ref>
+      <ref id="B98">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vishnivetskaya</surname><given-names>T. A.</given-names></name><name><surname>Chauhan</surname><given-names>A.</given-names></name><name><surname>Layton</surname><given-names>A.</given-names></name><name><surname>Pfiffner</surname><given-names>S.</given-names></name><name><surname>Huntemann</surname><given-names>M.</given-names></name><name><surname>Copeland</surname><given-names>A.</given-names></name><etal/></person-group> (<year>2014</year>). <article-title>Draft genome sequences of 10 strains of the genus <italic>Exiguobacterium</italic>.</article-title>
+<source><italic>Genome Announc.</italic></source>
+<volume>2</volume>:<issue>e01058-14</issue>
+<pub-id pub-id-type="doi">10.1128/genomeA.01058-14</pub-id></mixed-citation>
+      </ref>
+      <ref id="B99">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vishnivetskaya</surname><given-names>T. A.</given-names></name><name><surname>Kathariou</surname><given-names>S.</given-names></name></person-group> (<year>2005</year>). <article-title>Putative transposases conserved in <italic>Exiguobacterium</italic> isolates from ancient Siberian permafrost and from contemporary surface habitats.</article-title>
+<source><italic>Appl. Environ. Microbiol.</italic></source>
+<volume>71</volume>
+<fpage>6954</fpage>–<lpage>6962</lpage>.<pub-id pub-id-type="doi">10.1128/AEM.71.11.6954-6962.2005</pub-id><pub-id pub-id-type="pmid">16269730</pub-id></mixed-citation>
+      </ref>
+      <ref id="B100">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vishnivetskaya</surname><given-names>T. A.</given-names></name><name><surname>Kathariou</surname><given-names>S.</given-names></name><name><surname>Tiedje</surname><given-names>J. M.</given-names></name></person-group> (<year>2009</year>). <article-title>The <italic>Exiguobacterium</italic> genus: biodiversity and biogeography.</article-title>
+<source><italic>Extremophiles</italic></source>
+<volume>13</volume>
+<fpage>541</fpage>–<lpage>555</lpage>. <pub-id pub-id-type="doi">10.1007/s00792-009-0243-5</pub-id><pub-id pub-id-type="pmid">19381755</pub-id></mixed-citation>
+      </ref>
+      <ref id="B101">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vishnivetskaya</surname><given-names>T. A.</given-names></name><name><surname>Lucas</surname><given-names>S.</given-names></name><name><surname>Copeland</surname><given-names>A.</given-names></name><name><surname>Lapidus</surname><given-names>A.</given-names></name><name><surname>Glavina del Rio</surname><given-names>T.</given-names></name><name><surname>Dalin</surname><given-names>E.</given-names></name><etal/></person-group> (<year>2011</year>). <article-title>Complete genome sequence of the Thermophilic Bacterium <italic>Exiguobacterium</italic> sp. AT1b.</article-title>
+<source><italic>J. Bacteriol.</italic></source>
+<volume>193</volume>
+<fpage>2880</fpage>–<lpage>2881</lpage>.<pub-id pub-id-type="doi">10.1128/JB.00303-11</pub-id><pub-id pub-id-type="pmid">21460088</pub-id></mixed-citation>
+      </ref>
+      <ref id="B102">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vishnivetskaya</surname><given-names>T. A.</given-names></name><name><surname>Siletzky</surname><given-names>R.</given-names></name><name><surname>Jefferies</surname><given-names>N.</given-names></name><name><surname>Tiedje</surname><given-names>J. M.</given-names></name><name><surname>Kathariou</surname><given-names>S.</given-names></name></person-group> (<year>2007</year>). <article-title>Effect of low temperature and culture media on the growth and freeze-thawing tolerance of <italic>Exiguobacterium</italic> strains.</article-title>
+<source><italic>Cryobiology</italic></source>
+<volume>54</volume>
+<fpage>234</fpage>–<lpage>240</lpage>.<pub-id pub-id-type="doi">10.1016/j.crybiol.2007.01.008</pub-id><pub-id pub-id-type="pmid">17382311</pub-id></mixed-citation>
+      </ref>
+      <ref id="B103">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wayne</surname><given-names>L.</given-names></name><name><surname>Brenner</surname><given-names>D.</given-names></name><name><surname>Colwell</surname><given-names>R.</given-names></name><name><surname>Grimont</surname><given-names>P.</given-names></name><name><surname>Kandler</surname><given-names>O.</given-names></name><name><surname>Krichevsky</surname><given-names>M.</given-names></name><etal/></person-group> (<year>1987</year>). <article-title>Report of the ad hoc committee on reconciliation of approaches to bacterial systematics.</article-title>
+<source><italic>Int. J. Syst. Bacteriol.</italic></source>
+<volume>37</volume>
+<fpage>463</fpage>–<lpage>464</lpage>. <pub-id pub-id-type="doi">10.1099/00207713-37-4-463</pub-id></mixed-citation>
+      </ref>
+      <ref id="B104">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>White</surname><given-names>R.</given-names></name><name><surname>Grassa</surname><given-names>C.</given-names></name><name><surname>Suttle</surname><given-names>C. A.</given-names></name></person-group> (<year>2013</year>). <article-title>Draft genome sequence of <italic>Exiguobacterium pavilionensis</italic> strain RW-2, with wide thermal, salinity, and pH tolerance, isolated from modern freshwater microbialites.</article-title>
+<source><italic>Genome Announc.</italic></source>
+<volume>1</volume>:<issue>e00597-13</issue>
+<pub-id pub-id-type="doi">10.1128/genomeA.00597-13</pub-id></mixed-citation>
+      </ref>
+      <ref id="B105">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Wickham</surname><given-names>H.</given-names></name></person-group> (<year>2009</year>). <source><italic>ggplot2: Elegant Graphics for Data Analysis</italic>.</source>
+<publisher-loc>New York, NY</publisher-loc>: <publisher-name>Springer-Verlag</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="B106">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wu</surname><given-names>D.</given-names></name><name><surname>Hugenholtz</surname><given-names>P.</given-names></name><name><surname>Mavromatis</surname><given-names>K.</given-names></name><name><surname>Pukall</surname><given-names>R.</given-names></name><name><surname>Dalin</surname><given-names>E.</given-names></name><name><surname>Ivanova</surname><given-names>N.</given-names></name><etal/></person-group> (<year>2009</year>). <article-title>A phylogeny-driven genomic encyclopaedia of Bacteria and Archaea.</article-title>
+<source><italic>Nature</italic></source>
+<volume>462</volume>
+<fpage>1056</fpage>–<lpage>1060</lpage>. <pub-id pub-id-type="doi">10.1038/nature08656</pub-id><pub-id pub-id-type="pmid">20033048</pub-id></mixed-citation>
+      </ref>
+      <ref id="B107">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wu</surname><given-names>M.</given-names></name><name><surname>Scott</surname><given-names>A. J.</given-names></name></person-group> (<year>2012</year>). <article-title>Phylogenomic analysis of bacterial and archaeal sequences with AMPHORA2.</article-title>
+<source><italic>Bioinformatics</italic></source>
+<volume>28</volume>
+<fpage>1033</fpage>–<lpage>1034</lpage>. <pub-id pub-id-type="doi">10.1093/bioinformatics/bts079</pub-id><pub-id pub-id-type="pmid">22332237</pub-id></mixed-citation>
+      </ref>
+      <ref id="B108">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yang</surname><given-names>J.</given-names></name><name><surname>Yan</surname><given-names>R.</given-names></name><name><surname>Roy</surname><given-names>A.</given-names></name><name><surname>Xu</surname><given-names>D.</given-names></name><name><surname>Poisson</surname><given-names>J.</given-names></name><name><surname>Zhang</surname><given-names>Y.</given-names></name></person-group> (<year>2015</year>). <article-title>The I-TASSER Suite: protein structure and function prediction.</article-title>
+<source><italic>Nat. Methods</italic></source>
+<volume>12</volume>
+<fpage>7</fpage>–<lpage>8</lpage>.<pub-id pub-id-type="doi">10.1038/nmeth.3213</pub-id><pub-id pub-id-type="pmid">25549265</pub-id></mixed-citation>
+      </ref>
+      <ref id="B109">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yu</surname><given-names>G.</given-names></name><name><surname>Smith</surname><given-names>D.</given-names></name><name><surname>Zhu</surname><given-names>H.</given-names></name><name><surname>Guan</surname><given-names>Y.</given-names></name><name><surname>Lam</surname><given-names>T.</given-names></name></person-group> (<year>2016</year>). <article-title>ggtree: an R package for visualization and annotation of phylogenetic trees with their covariates and other associated data.</article-title>
+<source><italic>Methods Ecol. Evol.</italic></source>
+<volume>8</volume>
+<fpage>28</fpage>–<lpage>36</lpage>. <pub-id pub-id-type="doi">10.1111/2041-210X.12628</pub-id></mixed-citation>
+      </ref>
+      <ref id="B110">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yumoto</surname><given-names>I.</given-names></name><name><surname>Hishinuma-Narisawa</surname><given-names>M.</given-names></name><name><surname>Hirota</surname><given-names>K.</given-names></name><name><surname>Shingyo</surname><given-names>T.</given-names></name><name><surname>Takebe</surname><given-names>F.</given-names></name><name><surname>Nodasaka</surname><given-names>Y.</given-names></name><etal/></person-group> (<year>2004</year>). <article-title><italic>Exiguobacterium oxidotolerans</italic> sp. nov., a novel alkaliphile exhibiting high catalase activity.</article-title>
+<source><italic>Int. J. Syst. Evol. Microbiol.</italic></source>
+<volume>54</volume>
+<fpage>2013</fpage>–<lpage>2017</lpage>. <pub-id pub-id-type="doi">10.1099/ijs.0.63129-0</pub-id><pub-id pub-id-type="pmid">15545426</pub-id></mixed-citation>
+      </ref>
+      <ref id="B111">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zenoff</surname><given-names>V.</given-names></name><name><surname>Heredia</surname><given-names>J.</given-names></name><name><surname>Ferrero</surname><given-names>M.</given-names></name><name><surname>Sineriz</surname><given-names>F.</given-names></name><name><surname>Farias</surname><given-names>M.</given-names></name></person-group> (<year>2006</year>). <article-title>Diverse UV-B resistance of culturable bacterial community from high-altitude wetland water.</article-title>
+<source><italic>Curr. Microbiol.</italic></source>
+<volume>52</volume>
+<fpage>359</fpage>–<lpage>362</lpage>. <pub-id pub-id-type="doi">10.1007/s00284-005-0241-5</pub-id><pub-id pub-id-type="pmid">16604419</pub-id></mixed-citation>
+      </ref>
+      <ref id="B112">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhang</surname><given-names>D.</given-names></name><name><surname>Liu</surname><given-names>Y.</given-names></name><name><surname>Huo</surname><given-names>Y.</given-names></name><name><surname>Xu</surname><given-names>X.</given-names></name><name><surname>Li</surname><given-names>X.</given-names></name></person-group> (<year>2015</year>). <article-title>Draft genome sequence of Thermophilic <italic>Exiguobacterium</italic> sp. strain JLM-2, isolated from deep-sea ferromanganese nodules.</article-title>
+<source><italic>Genome Announc.</italic></source>
+<volume>3</volume>:<issue>e00794-15</issue>
+<pub-id pub-id-type="doi">10.1128/genomeA.00794-15</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record>

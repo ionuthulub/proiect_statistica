@@ -1,0 +1,563 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5359854</identifier><datestamp>2017-04-04</datestamp><setSpec>jri</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Reprod Infertil</journal-id>
+      <journal-id journal-id-type="iso-abbrev">J Reprod Infertil</journal-id>
+      <journal-id journal-id-type="publisher-id">JRI</journal-id>
+      <journal-id journal-id-type="pmc">JRI</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Reproduction &amp; Infertility</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">2228-5482</issn>
+      <issn pub-type="epub">2251-676X</issn>
+      <publisher>
+        <publisher-name>Avicenna Research Institute</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5359854</article-id>
+      <article-id pub-id-type="pmcid">PMC5359854</article-id>
+      <article-id pub-id-type="pmc-uid">5359854</article-id>
+      <article-id pub-id-type="publisher-id">jri-17-172</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Original Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Leptin Improves Sperm Cryopreservation via Antioxidant Defense</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fontoura</surname>
+            <given-names>Paula</given-names>
+          </name>
+          <xref ref-type="aff" rid="AFF1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mello</surname>
+            <given-names>Mariana Duque</given-names>
+          </name>
+          <xref ref-type="aff" rid="AFF2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gallo-Sá</surname>
+            <given-names>Paulo</given-names>
+          </name>
+          <xref ref-type="aff" rid="AFF2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Erthal-Martins</surname>
+            <given-names>Maria Cecília</given-names>
+          </name>
+          <xref ref-type="aff" rid="AFF2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cardoso</surname>
+            <given-names>Maria Cecília Almeida</given-names>
+          </name>
+          <xref ref-type="aff" rid="AFF2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ramos</surname>
+            <given-names>Cristiane</given-names>
+          </name>
+          <xref ref-type="aff" rid="AFF1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="C1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <aff id="AFF1"><label>1-</label> University Hospital Pedro Ernesto, State University of Rio de Janeiro, Rio de Janeiro, Brazil</aff>
+        <aff id="AFF2"><label>2-</label> Vida Centro de Fertilildade da Rede D’Or Clinic, Rio de Janeiro, Brazil</aff>
+      </contrib-group>
+      <author-notes>
+        <corresp id="C1"><label>*</label><italic>Corresponding Author:</italic> Cristiane da Fonte Ramos, University Hospital Pedro Ernesto, State University of Rio de Janeiro, Street 28 de setembro, 77 -Vila Isabel, Rio de Janeiro, RJ, Brazil, Zip Code: 20551-030, <italic>E-mail:</italic><email>cristiane@pesquisador.cnpq.br</email>; <email>cramos_uerj@yahoo.com.br</email></corresp>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <season>Jan-Mar</season>
+        <year>2017</year>
+      </pub-date>
+      <volume>18</volume>
+      <issue>1</issue>
+      <fpage>172</fpage>
+      <lpage>178</lpage>
+      <history>
+        <date date-type="received">
+          <day>09</day>
+          <month>4</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>12</day>
+          <month>7</month>
+          <year>2016</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright© 2017, Avicenna Research Institute.</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <license>
+          <license-p>This work is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License which allows users to read, copy, distribute and make derivative works for non-commercial purposes from the material, as long as the author of the original work is cited properly.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <sec>
+          <title>Background:</title>
+          <p>Leptin and its receptor are present in spermatozoa; however, the role of leptin in sperm function is still controversial. Our present study aimed at demonstrating the effect of cryopreservation on sperm DNA fragmentation (DNAf) and investigating the possible effects of sperm capacitation techniques and leptin <italic>in vitro</italic> incubation on frozen-thawed sperm DNAf and oxidative stress.</p>
+        </sec>
+        <sec>
+          <title>Methods:</title>
+          <p>Samples of 45 normospermic men attending for infertility investigation at Vida Centro de Fertilidade, Rio de Janeiro, Brazil, were frozen and thawed with or without capacitation and leptin incubation prior to freezing. Sperm DNA fragmentation was evaluated by Sperm Chromatin Dispersion Assay before and after cryopreservation and oxidative stress parameters were measured by spectrophotometry with and without leptin incubation. Statistical analysis was performed using paired t test to compare DNAf between groups before and after freeze-thaw cycle, to compare groups before and after capacitation and leptin incubation and oxidative measurements before and after leptin incubation. Statistical significance was considered when p≤0.05.</p>
+        </sec>
+        <sec>
+          <title>Results:</title>
+          <p>Our results revealed a significant post-thaw rise in sperm DNAf compared with fresh samples (p=0.0003). Sperm DNAf was significantly reduced when sperm capacitation was performed before freezing, when compared to those frozen with no previous capacitation (p=0.01). The addition of leptin to capacitated sperm before freezing reduced DNAf (p&lt;0.0001) and enhanced superoxide dismutase (p=0.001) and glutathione peroxidase (p=0.02) antioxidant enzymes activity.</p>
+        </sec>
+        <sec>
+          <title>Conclusion:</title>
+          <p>The addition of leptin to capacitated sperm can improve sperm DNA quality following cryopreservation, possibly by inducing the activity of certain antioxidant enzymes.</p>
+        </sec>
+      </abstract>
+      <kwd-group>
+        <kwd>DNA fragmentation</kwd>
+        <kwd>Freeze-thaw cycle</kwd>
+        <kwd>Leptin</kwd>
+        <kwd>Oxidative stress</kwd>
+        <kwd>Sperm</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Cryopreservation of gametes and embryos has a wide importance among assisted reproductive techniques. Taken into account the spermatozoa, cryopreservation has several applications, such as seminal storage prior to prostate and vasectomy surgeries, before chemotherapy and radiotherapy treatments, prior to fertility treatments and for donor sperm banking (<xref rid="B1" ref-type="bibr">1</xref>). However, sperm freezing and thawing processes lead to intracellular ice crystals formation which causes organelles and cell membrane rupture (<xref rid="B1" ref-type="bibr">1</xref>), modifies the structure and integrity of plasma membranes (<xref rid="B2" ref-type="bibr">2</xref>), and alters mitochondrial membrane potential and release of reactive oxygen species (ROS) (<xref rid="B3" ref-type="bibr">3</xref>). In addition, cryopreservation has been shown to diminish the antioxidant activity of the spermatozoa making them more susceptible to ROS damage (<xref rid="B4" ref-type="bibr">4</xref>).</p>
+      <p>Oxidative stress occurs when excessive ROS generation overcomes the ROS scavenging ability of spermatozoa. Spermatozoa and seminal plasma contain antioxidant enzymes such as superoxide dismutase (SOD), catalase and glutathione peroxidase (GPx), although its lack of cytoplasm leads to a decrease of antioxidant defense. Moreover, spermatozoa are particularly more susceptible to lipid peroxidation because of the high proportion of polyunsaturated fatty acid in their membranes (<xref rid="B5" ref-type="bibr">5</xref>, <xref rid="B6" ref-type="bibr">6</xref>). Deleterious effects of oxidative stress can result in several structural alterations of spermatozoa, such as protein fragmentation, lipid peroxidation and DNA fragmentation (DNAf) (<xref rid="B7" ref-type="bibr">7</xref>). Increase in DNAf is related to reduced implantation and pregnancy rates and increased recurrent pregnancy loss (<xref rid="B8" ref-type="bibr">8</xref>, <xref rid="B9" ref-type="bibr">9</xref>). In order to minimize deleterious effects of cryopreservation, some studies have focused on testing antioxidants action on sperm cryopreservation (<xref rid="B10" ref-type="bibr">10</xref>, <xref rid="B11" ref-type="bibr">11</xref>). Zhang et al. observed a protective effect of L-carnitine, leading to a significant improvement in post-thawed sperm parameters, including DNAf levels (<xref rid="B10" ref-type="bibr">10</xref>). Mata-Campuzano et al. also observed a reduction of lipid peroxidation and DNAf following antioxidant supplementation of spermatozoa during cryopreservation (<xref rid="B11" ref-type="bibr">11</xref>).</p>
+      <p>Leptin, a peptide hormone mainly secreted by adipose tissue, is widely known by its functions related to obesity, appetite and food intake inhibition and energy expenditure. However, it has been shown to have roles in diverse physiologic systems, including reproductive system (<xref rid="B12" ref-type="bibr">12</xref>). Although presence of leptin and its receptor has been demonstrated in spermatozoa (<xref rid="B13" ref-type="bibr">13</xref>–<xref rid="B15" ref-type="bibr">15</xref>), its role on spermatogenesis and sperm still needs to be clarified. Literature has some controversial results concerning sperm parameters after leptin <italic>in vitro</italic> incubation (<xref rid="B13" ref-type="bibr">13</xref>, <xref rid="B16" ref-type="bibr">16</xref>). Lampiao and Du Plessis (2008) found an increase in total and progressive motility, in acrosome reaction and nitric oxide (NO) production after leptin incubation. In contrast, the study by Li et al. (2008) demonstrated no significant effects of leptin incubation on motility, and percentage of capacitated and acrosome reacted sperm after leptin incubation (<xref rid="B13" ref-type="bibr">13</xref>). Additionally, studies have suggested that leptin has a role in oxidative stress (<xref rid="B17" ref-type="bibr">17</xref>, <xref rid="B18" ref-type="bibr">18</xref>) which is still controversial. Zheng et al. demonstrated that leptin increased sod activity in cardiomyocytes (<xref rid="B19" ref-type="bibr">19</xref>), while Yamagishi et al. observed a leptin-induced lipid oxidation in endothelial cells (<xref rid="B20" ref-type="bibr">20</xref>). However, leptin role in oxidative stress and sperm cryopreservation remains unclear.</p>
+      <p>Our present study aimed at demonstrating the effect of cryopreservation on sperm DNAf and investigating the possible effects of sperm capacitation and leptin incubation on frozen-thawed sperm DNAf and oxidative stress.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Methods</title>
+      <sec sec-type="methods|subjects">
+        <title>Patients and semen analysis:</title>
+        <p>Semen samples were collected from 45 normospermic patients aged 28–45 years (35.3±4.8) from November 2014 to June 2015, by masturbation after 2 to 3 days of ejaculatory abstinence attending for male infertility investigation at Vida Centro de Fertilidade da Rede D’Or in Rio de Janeiro, Brazil. Samples were collected into sterile vials and were left to be liquefied at 37°<italic>C</italic> for 30 <italic>min</italic>. Semen samples were analyzed according to WHO criteria (2010) for concentration (≥15×10<sup>6</sup>
+<italic>sperm/ml</italic>) and motility (≥32% progressive motility or 40% total motility) and according to Kruger’s criteria for morphology (≥4% normal morphology). The evaluation of concentration, motility and morphology were performed using Neubauer chamber, Makler chamber and Spermac staining (Sermacstain<sup>TM</sup> Sperm Morphology kit, FertiPro; Belgium), respectively. The criteria for exclusion from the study were urogenital infection, varicocele, hydrocele, use of drugs and medications and other diseases such as diabetes mellitus, obesity and malnutrition. The study was approved by the Ethics Committee of University Hospital Pedro Ernesto (CEP/HUPE 432.202) and all patients provided written informed consent.</p>
+      </sec>
+      <sec sec-type="methods">
+        <title>Experimental design:</title>
+        <p>In order to achieve the goal of this study, an experiment was initially done comparing fresh raw (FR) and frozen-thawed raw (F-T) semen samples from 15 patients to evaluate the effect of cryopreservation on DNAf. Based on the results observed, a second experiment was done using frozen-thawed raw (F-T) and capacitated (F-Tcap) semen samples from other 15 patients. In order to evaluate if leptin had some additional effect on the DNAf and oxidative stress of capacitated samples, a new experiment was performed using other 15 semen samples of previously capacitated frozen-thawed treated (F-TcapL) or not treated (F-Tcap) ones with leptin.</p>
+      </sec>
+      <sec>
+        <title>Sperm freeze-thaw cycle:</title>
+        <p>Samples were placed with 1:2 cryoprotectants (SpermFreeze; Vitrolife; Sweden) on cryovials and frozen in vapor liquid nitrogen for 30 <italic>min</italic>, followed by liquid nitrogen immersion. Samples remained in liquid nitrogen for two months when analysis was performed. For sperm thawing, cryovials were taken from liquid nitrogen and immediately immersed in water bath at 37°<italic>C</italic> for 5 <italic>min</italic>.</p>
+      </sec>
+      <sec>
+        <title>Sperm capacitation:</title>
+        <p>For sperm capacitation, samples were centrifuged at 180 <italic>g</italic> for 20 <italic>min</italic> using 2-layered density gradient centrifugation (DGC) solutions of 45% and 90% (SpermGrad; Vitrolife; Sweden). The supernatant was then removed and the pellet was washed in 1.5 <italic>ml</italic> human tubal fluid medium (HTF HEPES; Irvine Scientific; United States) supplemented with 10% SPS (SPS; Irvine Scientific; United States) at 180 <italic>g</italic> for 10 <italic>min</italic>. The supernatant was discarded and 1 <italic>ml</italic> of medium was gently layered on the pellet. Then, the tube was inclined at an angle of 45 degrees and incubated at 37°<italic>C</italic> for 1 <italic>hr</italic>. The upper interface was aspirated to obtain the motile fraction, which was divided in aliquots for leptin incubation.</p>
+      </sec>
+      <sec>
+        <title>Leptin incubation:</title>
+        <p>Capacitated samples were incubated with 10 <italic>ng</italic> leptin at 37°<italic>C</italic> and 6% CO<sub>2</sub> overnight, before freezing. The leptin dose was used based on previous studies (
+<xref rid="B13" ref-type="bibr">13</xref>, <xref rid="B15" ref-type="bibr">15</xref>, <xref rid="B16" ref-type="bibr">16</xref>).</p>
+      </sec>
+      <sec>
+        <title>Sperm DNA fragmentation assay:</title>
+        <p>Sperm DNA integrity was assessed using SCD assay (Halosperm kit). Semen samples were diluted using 1:1 concentration in melt agarose microgel and placed in pretreated slides. Denaturing solution was used to denature nuclear DNA protein. Sperm were lysed and dispersed a large or medium DNA halo in non-fragmented sperm cells and a small or none DNA halo in fragmented sperm cells. At least 300 spermatozoa per sample were examined at 1000x magnification by oil immersion. The cut-off of SCD test is 30% (<xref rid="B21" ref-type="bibr">21</xref>). DNAf was performed to compare FR versus F-T; F-T versus F-Tcap; F-Tcap versus F-TcapL.</p>
+      </sec>
+      <sec>
+        <title>Oxidative stress</title>
+        <p>Pro-oxidant mechanisms were evaluated in F-Tcap and F-TcapL.</p>
+        <list list-type="simple">
+          <list-item>
+            <p>- Lipid peroxidation was evaluated through measurement of thiobarbituric acid reactive substances (TBARS) at 532 <italic>nm</italic> using a spectrophotometer (<xref rid="B22" ref-type="bibr">22</xref>).</p>
+          </list-item>
+          <list-item>
+            <p>- Protein oxidation: This method is based on reaction of 5,5′-dithiobis-2-nitrobenzoic acid (DTNB) with sulfhydryl (SH) group, which was measured at 412 <italic>nm</italic> using a spectrophotometer (<xref rid="B23" ref-type="bibr">23</xref>).</p>
+          </list-item>
+        </list>
+        <p>Antioxidant mechanisms were evaluated in F-Tcap and F-TcapL.</p>
+        <list list-type="simple">
+          <list-item>
+            <p>- Superoxide dismutase (SOD): In this method, adrenaline undergoes oxidation by anion superoxide action, which is inhibited by SOD activity. This oxidation generates adrenochrome, which is measured at 480 <italic>nm</italic> with a spectrophotometer (<xref rid="B24" ref-type="bibr">24</xref>).</p>
+          </list-item>
+          <list-item>
+            <p>- Catalase: Catalase activity was measured by H<sub>2</sub>O<sub>2</sub> quantification at 240 <italic>nm</italic> with a spectrophotometer (240 <italic>nm</italic>) (<xref rid="B25" ref-type="bibr">25</xref>).</p>
+          </list-item>
+          <list-item>
+            <p>- Glutathione peroxidase (GPx): GPx activity was determined through decay rate of reduced nicotinamide adenine dinucleotide phosphate (NADPH) at 340 <italic>nm</italic> with a spectrophotometer (<xref rid="B26" ref-type="bibr">26</xref>).</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec sec-type="methods">
+        <title>Statistical analysis:</title>
+        <p>Statistical analysis was performed using Graphpad Prism version 6.0 software. Data are represented as mean and standard error. D’Agostino-Pearson was used to test normality of samples distribution. Paired t test was used to compare DNAf between groups before and after freeze-thaw cycle, to compare groups before and after capacitation and leptin incubation and oxidative measurements before and after leptin incubation. Statistical significance was considered when p≤0.05.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <sec>
+        <title>Sperm DNAf:</title>
+        <p>There was a significant increase in sperm DNAf evaluation after freeze-thaw cycle compared to evaluation with the same fresh raw sample (FR=17.6±1.7, F-T=36.2±3.5; p=0.0003; <xref ref-type="fig" rid="F1">figure 1A</xref>). Besides that, this increase occurred in such a way that 53.3% of the samples classified as fragmented (above 30%) after freeze-thaw cycle were found to be non-fragmented (under 30%) in the fresh raw evaluation.</p>
+        <fig id="F1" position="float">
+          <label>Figure 1.</label>
+          <caption>
+            <p>Percentage of sperm DNAf in fresh raw (FR) and frozen-thawed (F-T) samples. Horizontal line corresponds to cutoff value of the test; n=15 (Figure 1A). Percentage of sperm DNA fragmentation in capacitated (F-TCap) and non-capacitated (F-T) samples before freeze-thaw cycle; n=15 (Figure 1B) and capacitated samples with (F-TCapL) or without (F-TCap) leptin addition before freeze-thaw cycle; n=15 (Figure 1C). Data are represented as mean and standard error</p>
+          </caption>
+          <graphic xlink:href="JRI-17-172-g001"/>
+        </fig>
+        <p>Sperm DNAf was significantly reduced when sperm capacitation was performed before freezing samples, when compared to those frozen with no previous capacitation (raw). (F-T=37.4±4.0, F-Tcap=19.7±5.3; p=0.01; <xref ref-type="fig" rid="F1">figure 1B</xref>). Leptin addition to culture media in capacitated samples, before sperm freezing increased this reduction (F-Tcap=19.3±2.8, F-TcapL=9.5±2.0; p&lt;0.0001; <xref ref-type="fig" rid="F1">figure 1C</xref>) in sperm DNAf.</p>
+      </sec>
+      <sec>
+        <title>Pro-oxidant mechanisms:</title>
+        <p>Leptin addition to capacitated spermatozoa before freezing had no effect on lipid peroxidation (F-Tcap=0.04±0.004, F-TcapL=0.03±0.002; p=0.6; <xref ref-type="table" rid="T1">table 1</xref>) and protein oxidation (F-Tcap=4.1±0.1, F-TcapL=4.0±0.1; p= 0.2; <xref ref-type="table" rid="T1">table 1</xref>).</p>
+        <table-wrap id="T1" position="float">
+          <label>Table 1.</label>
+          <caption>
+            <p>Oxidative damage measured by lipid peroxidation (TBARS), protein oxidation (SH) in capacitated spermatozoa with (F-TCapL) and without (F-TCap) leptin incubation before freezing. Antioxidant activity measured by superoxide dismutase (SOD), catalase (CAT) and glutathione peroxidase (GPx) in capacitated spermatozoa with (F-TCapL) and without (F-TCap) leptin incubation before freezing. Data are represented as mean and standard error; n=15</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>Oxidative stress parameter</bold>
+                </th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">
+                  <bold>F-Tcap</bold>
+                </th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">
+                  <bold>F-TcapL</bold>
+                </th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">
+                  <bold>p-value</bold>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>TBARS</bold>
+                </td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0.04±0.004</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0.03±0.002</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0.6</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>SH</bold>
+                </td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">4.1±0.1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">4.0±0.1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0.2</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>SOD</bold>
+                </td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">82.4±6.9</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">100.8±6.2</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0.001</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>CAT</bold>
+                </td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0.02±0.006</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0.02±0.007</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0.9</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>GPx</bold>
+                </td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">88.8±9.8</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">110.7±8.7</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0.02</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Antioxidant activity:</title>
+        <p>There was a significant increase in antioxidant activity of SOD (F-Tcap= 82.4±6.9, F-TcapL=100.8±6.2; p=0.001; <xref ref-type="table" rid="T1">table 1</xref>) and GPx (88.8±9.8, F-TcapL=110.7±8.7; p=0.02; <xref ref-type="table" rid="T1">table 1</xref>) when comparing samples with and without leptin addition. However, catalase activity did not differ between groups (F-Tcap=0.02±0.006, F-TcapL=0.02±0.007; p=0.9; <xref ref-type="table" rid="T1">table 1</xref>).</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>While cryo-induced damage to motility, viability, morphology and fertility capacity is already well documented, the possible DNA damage following sperm freezing is still not confirmed. There appears to be some contradictions concerning whether or not freezing can affect and the extent of the effect on sperm DNAf (<xref rid="B4" ref-type="bibr">4</xref>, <xref rid="B27" ref-type="bibr">27</xref>). Some authors reported a significant increase on sperm DNA fragmentation caused by cryopreservation (<xref rid="B28" ref-type="bibr">28</xref>, <xref rid="B29" ref-type="bibr">29</xref>), while others suggest there is no harm to DNA integrity (<xref rid="B30" ref-type="bibr">30</xref>, <xref rid="B31" ref-type="bibr">31</xref>). This controversy could be explained by several factors: 1) patients selection; in the study of Ozkavukcu et al. (2008) (<xref rid="B32" ref-type="bibr">32</xref>), 30% of the patients were smokers and it is known that smoking can alter DNA fragmentation (<xref rid="B33" ref-type="bibr">33</xref>); 2) different sperm capacitation techniques before freezing, <italic>i.e</italic> some studies used raw semen (<xref rid="B34" ref-type="bibr">34</xref>), others have isolated sperm by washing (<xref rid="B35" ref-type="bibr">35</xref>) or DGC (<xref rid="B36" ref-type="bibr">36</xref>); 3) different cryoprotectors were used in the studies; 4) different freezing and thawing protocols; 5) and the use of different techniques to measure sperm DNAf. In our study, a rise in DNAf after sperm freeze-thaw cycle was observed corroborating some previous studies. In order to decrease the variability in the present study, only patients who had no diseases, or used no medication were evaluated. Besides, only normospermic patients according to WHO criteria were included in the study since sperm of infertile men are less resistant to freezing process, showing poor results concerning sperm DNAf, compared to fertile men (<xref rid="B4" ref-type="bibr">4</xref>, <xref rid="B37" ref-type="bibr">37</xref>). In this study, raw semen was used for comparison between before freezing and post-thaw DNAf, taking into account that raw semen has a strong antioxidant defense that could protect sperm against oxidative stress during cryopreservation, which in turn, could induce an increase on DNAf (<xref rid="B38" ref-type="bibr">38</xref>, <xref rid="B39" ref-type="bibr">39</xref>). The present results can be explained by previous evidence that the process of freezing and thawing can lead to ice crystals formation, provoking plasma membrane disruption, organelle and nuclear membrane, reaching cell DNA (<xref rid="B1" ref-type="bibr">1</xref>, <xref rid="B4" ref-type="bibr">4</xref>). The mechanism by which these alterations occur is still unknown. However, a possible reason for this cryo-induced injury could be oxidative stress (<xref rid="B40" ref-type="bibr">40</xref>) and the activation of apoptotic cascades (<xref rid="B41" ref-type="bibr">41</xref>).</p>
+      <p>There is still controversy in literature regarding sperm capacitation previous to cryopreservation. Some studies observed better DNAf results by addition of cryoprotectors directly to raw semen, supporting the idea that seminal plasma protects spermatozoa during freeze-thaw cycle, once it is rich in antioxidant enzymes (<xref rid="B38" ref-type="bibr">38</xref>, <xref rid="B39" ref-type="bibr">39</xref>). Other researchers support that seminal plasma needs to be removed before freezing, otherwise it can damage sperm motility and vitality after thawing (<xref rid="B42" ref-type="bibr">42</xref>, <xref rid="B43" ref-type="bibr">43</xref>). Also, sperm DNAf rates were compared using raw semen for cryopreservation and capacitated samples. Our results showed that sperm preparation previous to cryopreservation had reduced sperm DNAf rates. For sperm capacitation, DGC was performed, followed by sperm wash and pellet swim-up. The likely reason why better results were obtained concerning sperm DNAf of capacitated sperm before freezing can be raised on the hypothesis that the morphologically abnormal sperm are more susceptible to DNA damage during the freezing process than sperm with normal morphology (<xref rid="B37" ref-type="bibr">37</xref>). Additionally, head abnormalities and irregular chromatin organization may have altered membrane physical properties and thereby have altered tolerance to cold stress (<xref rid="B37" ref-type="bibr">37</xref>). By selecting a subpopulation of spermatozoa through sperm capacitation before freezing, a better quality sample can be obtained after thawing. This procedure allows selecting high quality spermatozoa and the removal of seminal plasma which contains germ cells, not viable, apoptotic and other components that can cause oxidative damage and apoptosis during freeze and thaw procedures (<xref rid="B43" ref-type="bibr">43</xref>).</p>
+      <p>Several studies have been searching for mechanisms to attenuate deleterious effects caused by cryopreservation (<xref rid="B10" ref-type="bibr">10</xref>, <xref rid="B11" ref-type="bibr">11</xref>). Some of these attempt for a better sperm preparation before freezing, some for an ideal freeze and thaw protocol and others for better cryoprotector agents. As it is known that oxidative stress is one of the most detrimental factors during cryopreservation, recent studies have been reaching for cryoprotective substances which could minimize this damage (<xref rid="B44" ref-type="bibr">44</xref>).</p>
+      <p>Due to its exclusive structural composition, such as lack of cytoplasm, which leads to decrease of antioxidant defense and a high proportion of polyunsaturated fatty acid in their membranes, making it more susceptible to lipid peroxidation, sperm became more vulnerable to ROS actions (<xref rid="B5" ref-type="bibr">5</xref>, <xref rid="B6" ref-type="bibr">6</xref>). Deleterious effects of oxidative stress can result in several structural alterations of spermatozoa, such as protein fragmentation, lipid peroxidation and membrane and DNAf (<xref rid="B7" ref-type="bibr">7</xref>). This was the first study to focus on the possible cryoprotective effect of leptin on spermatozoa.</p>
+      <p>Our results showed that leptin incubation with capacitated spermatozoa before cryopreservation could lead to increase in antioxidant enzymes SOD and GPx, but not catalase. The major cellular enzymatic antioxidants are SOD, catalase and GPx. However, catalase is known to be very effective in high-level oxidative stress and especially important in case of limited glutathione content or reduced GPx activity (<xref rid="B45" ref-type="bibr">45</xref>).</p>
+      <p>A likely mechanism by which leptin can act against oxidative stress is by dissipating the excess energy via thermogenic mechanism and thus, preventing the development of excessive mitochondrial membrane potential (<xref rid="B18" ref-type="bibr">18</xref>). In another study, Zheng et al. demonstrated that leptin had anti-apoptotic effects on cardiomyocytes by increasing SOD activity. Leptin signaling could induce SOD2 gene expression and directly activate SOD2 promoter in cardiomyocytes (<xref rid="B19" ref-type="bibr">19</xref>). Interestingly, this effect was specific for SOD2 which is mitochondria-located, whereas the cytoplasm-located SOD1 remained unchanged following leptin treatment. In our study, leptin did not change pro-oxidant mechanisms. Leptin does not inhibit ROS formation directly. The reduction of oxidative stress is likely to be due to a rise of antioxidant enzymes activity. Controversially, leptin has shown to induce lipid oxidation in endothelial cells, leading to increased mitochondrial potential and consequent elevation of mitochondrial production of ROS (<xref rid="B20" ref-type="bibr">20</xref>). In the present study, leptin also potentiated DNAf reduction in frozen-thawed capacitated samples in relation to sperm capacitation. It can be speculated that the reduction of DNAf after leptin incubation could be explained by increased antioxidant defense, minimizing deleterious effects of oxidative stress during freezing and thawing processes.</p>
+      <p>In summary, our results show that leptin has a cryoprotective effect and if added to the sample before freezing could reduce deleterious effect of cryopreservation. However, it remains unclear if the addition of this hormone could add value to <italic>in vitro</italic> fertilization techniques.</p>
+    </sec>
+    <sec sec-type="conclusion">
+      <title>Conclusion</title>
+      <p>Sperm DNAf increased after freeze-thaw cycle compared to evaluation with the same fresh raw sample. Sperm capacitation and leptin addition to culture media showed a cryoprotective effect on spermatozoa by reducing DNAf and increasing antioxidant enzymes activity. However, leptin did not inhibit ROS formation directly. The addition of leptin to capacitated sperm samples before freezing could possibly reduce deleterious effects of cryopreservation.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgement</title>
+      <p>The National Council for Scientific and Technological Development (CNPq) and Rio de Janeiro Foundation for Research Support (FAPERJ)</p>
+    </ack>
+    <fn-group>
+      <fn>
+        <p>
+          <bold>Conflict of Interest</bold>
+        </p>
+        <p>Authors declare no conflict of interest.</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <label>1.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Petyim</surname><given-names>S</given-names></name><name><surname>Neungton</surname><given-names>C</given-names></name><name><surname>Thanaboonyawat</surname><given-names>I</given-names></name><name><surname>Laokirkkiat</surname><given-names>P</given-names></name><name><surname>Choavaratana</surname><given-names>R.</given-names></name></person-group>
+<article-title>Sperm preparation before freezing improves sperm motility and reduces apoptosis in post-freezing-thawing sperm compared with post-thawing sperm preparation</article-title>. <source>J Assist Reprod Genet</source>. <year>2014</year>;<volume>31</volume>(<issue>12</issue>):<fpage>1673</fpage>–<lpage>80</lpage>.<pub-id pub-id-type="pmid">25212531</pub-id></mixed-citation>
+      </ref>
+      <ref id="B2">
+        <label>2.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sieme</surname><given-names>H</given-names></name><name><surname>Oldenhof</surname><given-names>H</given-names></name><name><surname>Wolkers</surname><given-names>WF.</given-names></name></person-group>
+<article-title>Sperm membrane behaviour during cooling and cryopreservation</article-title>. <source>Reprod Domest Anim</source>. <year>2015</year>;<volume>50</volume>
+<issue>Suppl 3</issue>:<fpage>20</fpage>–<lpage>6</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B3">
+        <label>3.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yeste</surname><given-names>M</given-names></name><name><surname>Estrada</surname><given-names>E</given-names></name><name><surname>Rocha</surname><given-names>LG</given-names></name><name><surname>Marin</surname><given-names>H</given-names></name><name><surname>Rodriguez-Gil</surname><given-names>JE</given-names></name><name><surname>Miro</surname><given-names>J.</given-names></name></person-group>
+<article-title>Cryotolerance of stallion spermatozoa is related to ROS production and mitochondrial membrane potential rather than to the integrity of sperm nucleus</article-title>. <source>Andrology</source>. <year>2015</year>;<volume>3</volume>(<issue>2</issue>):<fpage>395</fpage>–<lpage>407</lpage>.<pub-id pub-id-type="pmid">25294093</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <label>4.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Di Santo</surname><given-names>M</given-names></name><name><surname>Tarozzi</surname><given-names>N</given-names></name><name><surname>Nadalini</surname><given-names>M</given-names></name><name><surname>Borini</surname><given-names>A.</given-names></name></person-group>
+<article-title>Human Sperm Cryopreservation: Update on Techniques, Effect on DNA Integrity, and Implications for ART</article-title>. <source>Adv Urol</source>. <year>2012</year>;<volume>2012</volume>:<fpage>854837</fpage>.<pub-id pub-id-type="pmid">22194740</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <label>5.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Aitken</surname><given-names>RJ</given-names></name><name><surname>Baker</surname><given-names>MA</given-names></name><name><surname>De Iuliis</surname><given-names>GN</given-names></name><name><surname>Nixon</surname><given-names>B.</given-names></name></person-group>
+<article-title>New insights into sperm physiology and pathology</article-title>. <source>Handb Exp Pharmacol</source>. <year>2010</year>;(<issue>198</issue>):<fpage>99</fpage>–<lpage>115</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B6">
+        <label>6.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Helfenstein</surname><given-names>F</given-names></name><name><surname>Losdat</surname><given-names>S</given-names></name><name><surname>Moller</surname><given-names>AP</given-names></name><name><surname>Blount</surname><given-names>JD</given-names></name><name><surname>Richner</surname><given-names>H.</given-names></name></person-group>
+<article-title>Sperm of colourful males are better protected against oxidative stress</article-title>. <source>Ecol Lett</source>. <year>2010</year>;<volume>13</volume> (<issue>2</issue>):<fpage>213</fpage>–<lpage>22</lpage>.<pub-id pub-id-type="pmid">20059524</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <label>7.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cocuzza</surname><given-names>M</given-names></name><name><surname>Sikka</surname><given-names>SC</given-names></name><name><surname>Athayde</surname><given-names>KS</given-names></name><name><surname>Agarwal</surname><given-names>A.</given-names></name></person-group>
+<article-title>Clinical relevance of oxidative stress and sperm chromatin damage in male infertility: an evidence based analysis</article-title>. <source>Int Braz J Urol</source>. <year>2007</year>;<volume>33</volume>(<issue>5</issue>):<fpage>603</fpage>–<lpage>21</lpage>.<pub-id pub-id-type="pmid">17980058</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <label>8.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sakkas</surname><given-names>D</given-names></name><name><surname>Alvarez</surname><given-names>JG.</given-names></name></person-group>
+<article-title>Sperm DNA fragmentation: mechanisms of origin, impact on reproductive outcome, and analysis</article-title>. <source>Fertil Steril</source>. <year>2010</year>;<volume>93</volume>(<issue>4</issue>):<fpage>1027</fpage>–<lpage>36</lpage>.<pub-id pub-id-type="pmid">20080235</pub-id></mixed-citation>
+      </ref>
+      <ref id="B9">
+        <label>9.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhao</surname><given-names>J</given-names></name><name><surname>Zhang</surname><given-names>Q</given-names></name><name><surname>Wang</surname><given-names>Y</given-names></name><name><surname>Li</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Whether sperm deoxyribonucleic acid fragmentation has an effect on pregnancy and miscarriage after in vitro fertilization/intracytoplasmic sperm injection: a systematic review and meta-analysis</article-title>. <source>Fertil Steril</source>. <year>2014</year>;<volume>102</volume>(<issue>4</issue>): <fpage>998</fpage>–<lpage>1005</lpage>.<pub-id pub-id-type="pmid">25190048</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <label>10.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhang</surname><given-names>W</given-names></name><name><surname>Li</surname><given-names>F</given-names></name><name><surname>Cao</surname><given-names>H</given-names></name><name><surname>Li</surname><given-names>C</given-names></name><name><surname>Du</surname><given-names>C</given-names></name><name><surname>Yao</surname><given-names>L</given-names></name><etal/></person-group>
+<article-title>Protective effects of l-carnitine on astheno- and normozoospermic human semen samples during cryopreservation</article-title>. <source>Zygote</source>. <year>2016</year>;<volume>24</volume>(<issue>2</issue>):<fpage>293</fpage>–<lpage>300</lpage>.<pub-id pub-id-type="pmid">26081351</pub-id></mixed-citation>
+      </ref>
+      <ref id="B11">
+        <label>11.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mata-Campuzano</surname><given-names>M</given-names></name><name><surname>Alvarez-Rodriguez</surname><given-names>M</given-names></name><name><surname>Alvarez</surname><given-names>M</given-names></name><name><surname>Tamayo-Canul</surname><given-names>J</given-names></name><name><surname>Anel</surname><given-names>L</given-names></name><name><surname>de Paz</surname><given-names>P</given-names></name><etal/></person-group>
+<article-title>Post-thawing quality and incubation resilience of cryopreserved ram spermatozoa are affected by antioxidant supplementation and choice of extender</article-title>. <source>Theriogenology</source>. <year>2015</year>;<volume>83</volume>(<issue>4</issue>):<fpage>520</fpage>–<lpage>8</lpage>.<pub-id pub-id-type="pmid">25499089</pub-id></mixed-citation>
+      </ref>
+      <ref id="B12">
+        <label>12.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Garcia-Galiano</surname><given-names>D</given-names></name><name><surname>Allen</surname><given-names>SJ</given-names></name><name><surname>Elias</surname><given-names>CF.</given-names></name></person-group>
+<article-title>Role of the adipocyte-derived hormone leptin in reproductive control</article-title>. <source>Horm Mol Biol Clin Investig</source>. <year>2014</year>;<volume>19</volume>(<issue>3</issue>): <fpage>141</fpage>–<lpage>9</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B13">
+        <label>13.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>HW</given-names></name><name><surname>Chiu</surname><given-names>PC</given-names></name><name><surname>Cheung</surname><given-names>MP</given-names></name><name><surname>Yeung</surname><given-names>WS</given-names></name><name><surname>O</surname><given-names>WS.</given-names></name></person-group>
+<article-title>Effect of leptin on motility, capacitation and acrosome reaction of human spermatozoa</article-title>. <source>Int J Androl</source>. <year>2009</year>;<volume>32</volume>(<issue>6</issue>):<fpage>687</fpage>–<lpage>94</lpage>.<pub-id pub-id-type="pmid">19076257</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <label>14.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jope</surname><given-names>T</given-names></name><name><surname>Lammert</surname><given-names>A</given-names></name><name><surname>Kratzsch</surname><given-names>J</given-names></name><name><surname>Paasch</surname><given-names>U</given-names></name><name><surname>Glander</surname><given-names>HJ.</given-names></name></person-group>
+<article-title>Leptin and leptin receptor in human seminal plasma and in human spermatozoa</article-title>. <source>Int J Androl</source>. <year>2003</year>;<volume>26</volume>(<issue>6</issue>):<fpage>335</fpage>–<lpage>41</lpage>.<pub-id pub-id-type="pmid">14636218</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <label>15.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Aquila</surname><given-names>S</given-names></name><name><surname>Giordano</surname><given-names>F</given-names></name><name><surname>Guido</surname><given-names>C</given-names></name><name><surname>Rago</surname><given-names>V</given-names></name><name><surname>Carpino</surname><given-names>A.</given-names></name></person-group>
+<article-title>Nitric oxide involvement in the acrosome reaction triggered by leptin in pig sperm</article-title>. <source>Reprod Biol Endocrinol</source>. <year>2011</year>;<volume>9</volume>:<fpage>133</fpage>.<pub-id pub-id-type="pmid">21970701</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <label>16.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lampiao</surname><given-names>F</given-names></name><name><surname>du Plessis</surname><given-names>SS.</given-names></name></person-group>
+<article-title>Insulin and leptin enhance human sperm motility, acrosome reaction and nitric oxide production</article-title>. <source>Asian J Androl</source>. <year>2008</year>; <volume>10</volume>(<issue>5</issue>):<fpage>799</fpage>–<lpage>807</lpage>.<pub-id pub-id-type="pmid">18645684</pub-id></mixed-citation>
+      </ref>
+      <ref id="B17">
+        <label>17.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Haron</surname><given-names>MN</given-names></name><name><surname>D’Souza</surname><given-names>UJ</given-names></name><name><surname>Jaafar</surname><given-names>H</given-names></name><name><surname>Zakaria</surname><given-names>R</given-names></name><name><surname>Singh</surname><given-names>HJ.</given-names></name></person-group>
+<article-title>Exogenous leptin administration decreases sperm count and increases the fraction of abnormal sperm in adult rats</article-title>. <source>Fertil Steril</source>. <year>2010</year>; <volume>93</volume>(<issue>1</issue>):<fpage>322</fpage>–<lpage>4</lpage>.<pub-id pub-id-type="pmid">19709655</pub-id></mixed-citation>
+      </ref>
+      <ref id="B18">
+        <label>18.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Solinas</surname><given-names>G.</given-names></name></person-group>
+<article-title>Leptin signalling coordinates lipid oxidation with thermogenesis and defence against oxidative stress</article-title>. <source>Clin Exp Pharmacol Physiol</source>. <year>2010</year>; <volume>37</volume>(<issue>10</issue>):<fpage>953</fpage>–<lpage>4</lpage>.<pub-id pub-id-type="pmid">20626418</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <label>19.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zheng</surname><given-names>J</given-names></name><name><surname>Fang</surname><given-names>J</given-names></name><name><surname>Yin</surname><given-names>YJ</given-names></name><name><surname>Wang</surname><given-names>XC</given-names></name><name><surname>Ren</surname><given-names>AJ</given-names></name><name><surname>Bai</surname><given-names>J</given-names></name><etal/></person-group>
+<article-title>Leptin protects cardiomyocytes from serum-deprivation-induced apoptosis by increasing anti-oxidant defence</article-title>. <source>Clin Exp Pharmacol Physiol</source>. <year>2010</year>;<volume>37</volume>(<issue>10</issue>):<fpage>955</fpage>–<lpage>62</lpage>.<pub-id pub-id-type="pmid">20557321</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <label>20.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yamagishi</surname><given-names>SI</given-names></name><name><surname>Edelstein</surname><given-names>D</given-names></name><name><surname>Du</surname><given-names>XL</given-names></name><name><surname>Kaneda</surname><given-names>Y</given-names></name><name><surname>Guzman</surname><given-names>M</given-names></name><name><surname>Brownlee</surname><given-names>M.</given-names></name></person-group>
+<article-title>Leptin induces mitochondrial superoxide production and monocyte chemoattractant protein-1 expression in aortic endothelial cells by increasing fatty acid oxidation via protein kinase A</article-title>. <source>J Biol Chem</source>. <year>2001</year>;<volume>276</volume>(<issue>27</issue>): <fpage>25096</fpage>–<lpage>100</lpage>.<pub-id pub-id-type="pmid">11342529</pub-id></mixed-citation>
+      </ref>
+      <ref id="B21">
+        <label>21.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Feijo</surname><given-names>CM</given-names></name><name><surname>Esteves</surname><given-names>SC.</given-names></name></person-group>
+<article-title>Diagnostic accuracy of sperm chromatin dispersion test to evaluate sperm deoxyribonucleic acid damage in men with unexplained infertility</article-title>. <source>Fertil Steril</source>. <year>2014</year>;<volume>101</volume>(<issue>1</issue>):<fpage>58</fpage>–<lpage>63</lpage>.<pub-id pub-id-type="pmid">24140035</pub-id></mixed-citation>
+      </ref>
+      <ref id="B22">
+        <label>22.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Draper</surname><given-names>HH</given-names></name><name><surname>Hadley</surname><given-names>M.</given-names></name></person-group>
+<article-title>Malondialdehyde determination as index of lipid peroxidation</article-title>. <source>Methods Enzymol</source>. <year>1990</year>;<volume>18</volume><issue>6</issue>:<fpage>421</fpage>–<lpage>31</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B23">
+        <label>23.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ellman</surname><given-names>GL.</given-names></name></person-group>
+<article-title>Tissue sulfhydryl groups</article-title>. <source>Arch Biochem Biophys</source>. <year>1959</year>;<volume>82</volume>(<issue>1</issue>):<fpage>70</fpage>–<lpage>7</lpage>.<pub-id pub-id-type="pmid">13650640</pub-id></mixed-citation>
+      </ref>
+      <ref id="B24">
+        <label>24.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bannister</surname><given-names>JV</given-names></name><name><surname>Calabrese</surname><given-names>L.</given-names></name></person-group>
+<article-title>Assays for superoxide dismutase</article-title>. <source>Methods Biochem Anal</source>. <year>1987</year>;<volume>3</volume><issue>2</issue>:<fpage>279</fpage>–<lpage>312</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B25">
+        <label>25.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Aebi</surname><given-names>H.</given-names></name></person-group>
+<article-title>Catalase in vitro</article-title>. <source>Methods Enzymol</source>. <year>1984</year>;<volume>10</volume><issue>5</issue>:<fpage>121</fpage>–<lpage>6</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B26">
+        <label>26.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Flohe</surname><given-names>L</given-names></name><name><surname>Gunzler</surname><given-names>WA.</given-names></name></person-group>
+<article-title>Assays of glutathione peroxidase</article-title>. <source>Methods Enzymol</source>. <year>1984</year>;<volume>10</volume><issue>5</issue>:<fpage>114</fpage>–<lpage>21</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B27">
+        <label>27.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Paoli</surname><given-names>D</given-names></name><name><surname>Lombardo</surname><given-names>F</given-names></name><name><surname>Lenzi</surname><given-names>A</given-names></name><name><surname>Gandini</surname><given-names>L.</given-names></name></person-group>
+<article-title>Sperm cryopreservation: effects on chromatin structure</article-title>. <source>Adv Exp Med Biol</source>. <year>2014</year>;<volume>79</volume><issue>1</issue>:<fpage>137</fpage>–<lpage>50</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B28">
+        <label>28.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sharma</surname><given-names>R</given-names></name><name><surname>Kattoor</surname><given-names>AJ</given-names></name><name><surname>Ghulmiyyah</surname><given-names>J</given-names></name><name><surname>Agarwal</surname><given-names>A.</given-names></name></person-group>
+<article-title>Effect of sperm storage and selection techniques on sperm parameters</article-title>. <source>Syst Biol Reprod Med</source>. <year>2015</year>;<volume>61</volume> (<issue>1</issue>):<fpage>1</fpage>–<lpage>12</lpage>.<pub-id pub-id-type="pmid">25354153</pub-id></mixed-citation>
+      </ref>
+      <ref id="B29">
+        <label>29.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Meamar</surname><given-names>M</given-names></name><name><surname>Zribi</surname><given-names>N</given-names></name><name><surname>Cambi</surname><given-names>M</given-names></name><name><surname>Tamburrino</surname><given-names>L</given-names></name><name><surname>Marchiani</surname><given-names>S</given-names></name><name><surname>Filimberti</surname><given-names>E</given-names></name><etal/></person-group>
+<article-title>Sperm DNA fragmentation induced by cryopreservation: new insights and effect of a natural extract from Opuntia ficus-indica</article-title>. <source>Fertil Steril</source>. <year>2012</year>;<volume>98</volume>(<issue>2</issue>):<fpage>326</fpage>–<lpage>33</lpage>.<pub-id pub-id-type="pmid">22633258</pub-id></mixed-citation>
+      </ref>
+      <ref id="B30">
+        <label>30.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tataru</surname><given-names>DA</given-names></name><name><surname>Markova</surname><given-names>EV</given-names></name><name><surname>Osadchuk</surname><given-names>LV</given-names></name><name><surname>Sheina</surname><given-names>EV</given-names></name><name><surname>Svetlakov</surname><given-names>AV.</given-names></name></person-group>
+<article-title>[The optimal conditions of storage of spermatozoa for analysis of DNA fragmentation]</article-title>. <source>Klin Lab Diagn</source>. <year>2015</year>;<volume>60</volume>(<issue>4</issue>):<fpage>52</fpage>–<lpage>6</lpage>. Russian.</mixed-citation>
+      </ref>
+      <ref id="B31">
+        <label>31.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vutyavanich</surname><given-names>T</given-names></name><name><surname>Piromlertamorn</surname><given-names>W</given-names></name><name><surname>Nunta</surname><given-names>S.</given-names></name></person-group>
+<article-title>Rapid freezing versus slow programmable freezing of human spermatozoa</article-title>. <source>Fertil Steril</source>. <year>2010</year>;<volume>93</volume>(<issue>6</issue>):<fpage>1921</fpage>–<lpage>8</lpage>.<pub-id pub-id-type="pmid">19243759</pub-id></mixed-citation>
+      </ref>
+      <ref id="B32">
+        <label>32.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ozkavukcu</surname><given-names>S</given-names></name><name><surname>Erdemli</surname><given-names>E</given-names></name><name><surname>Isik</surname><given-names>A</given-names></name><name><surname>Oztuna</surname><given-names>D</given-names></name><name><surname>Karahuseyinoglu</surname><given-names>S.</given-names></name></person-group>
+<article-title>Effects of cryopreservation on sperm parameters and ultrastructural morphology of human spermatozoa</article-title>. <source>J Assist Reprod Genet</source>. <year>2008</year>;<volume>25</volume> (<issue>8</issue>):<fpage>403</fpage>–<lpage>11</lpage>.<pub-id pub-id-type="pmid">18704674</pub-id></mixed-citation>
+      </ref>
+      <ref id="B33">
+        <label>33.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Basu</surname><given-names>S</given-names></name><name><surname>Pant</surname><given-names>M</given-names></name><name><surname>Rachana</surname><given-names>R.</given-names></name></person-group>
+<article-title>Protective effect of Salacia oblonga against tobacco smoke-induced DNA damage and cellular changes in pancreatic β-cells</article-title>. <source>Pharm Biol</source>. <year>2016</year>;<volume>54</volume>(<issue>3</issue>):<fpage>458</fpage>–<lpage>64</lpage>.<pub-id pub-id-type="pmid">25973644</pub-id></mixed-citation>
+      </ref>
+      <ref id="B34">
+        <label>34.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Olaciregui</surname><given-names>M</given-names></name><name><surname>Luno</surname><given-names>V</given-names></name><name><surname>Gonzalez</surname><given-names>N</given-names></name><name><surname>De Blas</surname><given-names>I</given-names></name><name><surname>Gil</surname><given-names>L.</given-names></name></person-group>
+<article-title>Freeze-dried dog sperm: Dynamics of DNA integrity</article-title>. <source>Cryobiology</source>. <year>2015</year>;<volume>71</volume>(<issue>2</issue>):<fpage>286</fpage>–<lpage>90</lpage>.<pub-id pub-id-type="pmid">26247315</pub-id></mixed-citation>
+      </ref>
+      <ref id="B35">
+        <label>35.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Khodayari Naeini</surname><given-names>Z</given-names></name><name><surname>Hassani Bafrani</surname><given-names>H</given-names></name><name><surname>Nikzad</surname><given-names>H.</given-names></name></person-group>
+<article-title>Evaluation of ebselen supplementation on cryopreservation medium in human semen</article-title>. <source>Iran J Reprod Med</source>. <year>2014</year>;<volume>12</volume>(<issue>4</issue>):<fpage>249</fpage>–<lpage>56</lpage>.<pub-id pub-id-type="pmid">24976819</pub-id></mixed-citation>
+      </ref>
+      <ref id="B36">
+        <label>36.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ghorbani</surname><given-names>M</given-names></name><name><surname>Amiri</surname><given-names>I</given-names></name><name><surname>Khodadadi</surname><given-names>I</given-names></name><name><surname>Fattahi</surname><given-names>A</given-names></name><name><surname>Atabakhsh</surname><given-names>M</given-names></name><name><surname>Tavilani</surname><given-names>H.</given-names></name></person-group>
+<article-title>Influence of BHT inclusion on post-thaw attributes of human semen</article-title>. <source>Syst Biol Reprod Med</source>. <year>2015</year>;<volume>61</volume>(<issue>1</issue>):<fpage>57</fpage>–<lpage>61</lpage>.<pub-id pub-id-type="pmid">25285571</pub-id></mixed-citation>
+      </ref>
+      <ref id="B37">
+        <label>37.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kalthur</surname><given-names>G</given-names></name><name><surname>Adiga</surname><given-names>SK</given-names></name><name><surname>Upadhya</surname><given-names>D</given-names></name><name><surname>Rao</surname><given-names>S</given-names></name><name><surname>Kumar</surname><given-names>P.</given-names></name></person-group>
+<article-title>Effect of cryopreservation on sperm DNA integrity in patients with teratospermia</article-title>. <source>Fertil Steril</source>. <year>2008</year>;<volume>89</volume>(<issue>6</issue>):<fpage>1723</fpage>–<lpage>7</lpage>.<pub-id pub-id-type="pmid">17953963</pub-id></mixed-citation>
+      </ref>
+      <ref id="B38">
+        <label>38.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Saritha</surname><given-names>KR</given-names></name><name><surname>Bongso</surname><given-names>A.</given-names></name></person-group>
+<article-title>Comparative evaluation of fresh and washed human sperm cryopreserved in vapor and liquid phases of liquid nitrogen</article-title>. <source>J Androl</source>. <year>2001</year>;<volume>22</volume>(<issue>5</issue>):<fpage>857</fpage>–<lpage>62</lpage>.<pub-id pub-id-type="pmid">11545300</pub-id></mixed-citation>
+      </ref>
+      <ref id="B39">
+        <label>39.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Martínez-Soto</surname><given-names>JC</given-names></name><name><surname>Landeras</surname><given-names>J</given-names></name><name><surname>Gadea</surname><given-names>J.</given-names></name></person-group>
+<article-title>Spermatozoa and seminal plasma fatty acids as predictors of cryopreservation success</article-title>. <source>Andrology</source>. <year>2013</year>;<volume>1</volume>(<issue>3</issue>): <fpage>365</fpage>–<lpage>75</lpage>.<pub-id pub-id-type="pmid">23596043</pub-id></mixed-citation>
+      </ref>
+      <ref id="B40">
+        <label>40.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Thomson</surname><given-names>LK</given-names></name><name><surname>Fleming</surname><given-names>SD</given-names></name><name><surname>Aitken</surname><given-names>RJ</given-names></name><name><surname>De Iuliis</surname><given-names>GN</given-names></name><name><surname>Zieschang</surname><given-names>JA</given-names></name><name><surname>Clark</surname><given-names>AM.</given-names></name></person-group>
+<article-title>Cryopreservation-induced human sperm DNA damage is predominantly mediated by oxidative stress rather than apoptosis</article-title>. <source>Hum Reprod</source>. <year>2009</year>;<volume>24</volume>(<issue>9</issue>):<fpage>2061</fpage>–<lpage>70</lpage>.<pub-id pub-id-type="pmid">19525298</pub-id></mixed-citation>
+      </ref>
+      <ref id="B41">
+        <label>41.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zribi</surname><given-names>N</given-names></name><name><surname>Feki Chakroun</surname><given-names>N</given-names></name><name><surname>El Euch</surname><given-names>H</given-names></name><name><surname>Gargouri</surname><given-names>J</given-names></name><name><surname>Bahloul</surname><given-names>A</given-names></name><name><surname>Ammar Keskes</surname><given-names>L.</given-names></name></person-group>
+<article-title>Effects of cryopreservation on human sperm deoxyribonucleic acid integrity</article-title>. <source>Fertil Steril</source>. <year>2010</year>;<volume>93</volume>(<issue>1</issue>):<fpage>159</fpage>–<lpage>66</lpage>.<pub-id pub-id-type="pmid">19027111</pub-id></mixed-citation>
+      </ref>
+      <ref id="B42">
+        <label>42.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zorn</surname><given-names>B</given-names></name><name><surname>Ihan</surname><given-names>A</given-names></name><name><surname>Kopitar</surname><given-names>AN</given-names></name><name><surname>Kolbezen</surname><given-names>M</given-names></name><name><surname>Sesek-Briski</surname><given-names>A</given-names></name><name><surname>Meden-Vrtovec</surname><given-names>H.</given-names></name></person-group>
+<article-title>Changes in sperm apoptotic markers as related to seminal leukocytes and elastase</article-title>. <source>Reprod Biomed Online</source>. <year>2010</year>;<volume>21</volume>(<issue>1</issue>): <fpage>84</fpage>–<lpage>92</lpage>.<pub-id pub-id-type="pmid">20462795</pub-id></mixed-citation>
+      </ref>
+      <ref id="B43">
+        <label>43.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brugnon</surname><given-names>F</given-names></name><name><surname>Ouchchane</surname><given-names>L</given-names></name><name><surname>Pons-Rejraji</surname><given-names>H</given-names></name><name><surname>Artonne</surname><given-names>C</given-names></name><name><surname>Farigoule</surname><given-names>M</given-names></name><name><surname>Janny</surname><given-names>L.</given-names></name></person-group>
+<article-title>Density gradient centrifugation prior to cryopreservation and hypotaurine supplementation improve post-thaw quality of sperm from infertile men with oligoasthenoterato-zoospermia</article-title>. <source>Hum Reprod</source>. <year>2013</year>;<volume>28</volume>(<issue>8</issue>):<fpage>2045</fpage>–<lpage>57</lpage>.<pub-id pub-id-type="pmid">23760160</pub-id></mixed-citation>
+      </ref>
+      <ref id="B44">
+        <label>44.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bateni</surname><given-names>Z</given-names></name><name><surname>Azadi</surname><given-names>L</given-names></name><name><surname>Tavalaee</surname><given-names>M</given-names></name><name><surname>Kiani-Esfahani</surname><given-names>A</given-names></name><name><surname>Fazilati</surname><given-names>M</given-names></name><name><surname>Nasr-Esfahani</surname><given-names>MH.</given-names></name></person-group>
+<article-title>Addition of Tempol in semen cryopreservation medium improves the post-thaw sperm function</article-title>. <source>Syst Biol Reprod Med</source>. <year>2014</year>;<volume>60</volume>(<issue>4</issue>):<fpage>245</fpage>–<lpage>50</lpage>.<pub-id pub-id-type="pmid">24702585</pub-id></mixed-citation>
+      </ref>
+      <ref id="B45">
+        <label>45.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Paravicini</surname><given-names>TM</given-names></name><name><surname>Touyz</surname><given-names>RM.</given-names></name></person-group>
+<article-title>NADPH oxidases, reactive oxygen species, and hypertension: clinical implications and therapeutic possibilities</article-title>. <source>Diabetes Care</source>. <year>2008</year>;<volume>31</volume>
+<issue>Suppl 2</issue>:<fpage>S170</fpage>–<lpage>80</lpage>.<pub-id pub-id-type="pmid">18227481</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record>

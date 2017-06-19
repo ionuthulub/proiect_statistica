@@ -1,0 +1,815 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5359548</identifier><datestamp>2017-04-04</datestamp><setSpec>frontneurology</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Neurol</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Neurol</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Neurol.</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Neurology</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1664-2295</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5359548</article-id>
+      <article-id pub-id-type="pmcid">PMC5359548</article-id>
+      <article-id pub-id-type="pmc-uid">5359548</article-id>
+      <article-id pub-id-type="doi">10.3389/fneur.2017.00094</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Neuroscience</subject>
+          <subj-group>
+            <subject>Original Research</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Dysphagia in Amyotrophic Lateral Sclerosis: Impact on Patient Behavior, Diet Adaptation, and Riluzole Management</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Onesti</surname>
+            <given-names>Emanuela</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://frontiersin.org/people/u/305446"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Schettino</surname>
+            <given-names>Ilenia</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gori</surname>
+            <given-names>Maria Cristina</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://frontiersin.org/people/u/214437"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Frasca</surname>
+            <given-names>Vittorio</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://frontiersin.org/people/u/420776"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ceccanti</surname>
+            <given-names>Marco</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://frontiersin.org/people/u/305438"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cambieri</surname>
+            <given-names>Chiara</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://frontiersin.org/people/u/385578"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ruoppolo</surname>
+            <given-names>Giovanni</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://frontiersin.org/people/u/367789"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Inghilleri</surname>
+            <given-names>Maurizio</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">*</xref>
+          <uri xlink:type="simple" xlink:href="http://frontiersin.org/people/u/117285"/>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1"><sup>1</sup><institution>Rare Neuromuscular Diseases Centre, Department of Neurology and Psychiatry, Sapienza University</institution>, <addr-line>Rome</addr-line>, <country>Italy</country></aff>
+      <aff id="aff2"><sup>2</sup><institution>Department of Sensorial Organs, Otorhinolaryngology Section, Sapienza University</institution>, <addr-line>Rome</addr-line>, <country>Italy</country></aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <p>Edited by: Ghazala Hayat, Saint Louis University, USA</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Reviewed by: James Gilchrist, Southern Illinois University School of Medicine, USA; Holli A. Horak, University of Arizona, USA</p>
+        </fn>
+        <corresp content-type="corresp" id="cor1">*Correspondence: Maurizio Inghilleri, <email>maurizio.inghilleri@uniroma1.it</email></corresp>
+        <fn fn-type="other" id="fn002">
+          <p>Specialty section: This article was submitted to Neuromuscular Diseases, a section of the journal Frontiers in Neurology</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>3</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2017</year>
+      </pub-date>
+      <volume>8</volume>
+      <elocation-id>94</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>28</day>
+          <month>12</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>27</day>
+          <month>2</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2017 Onesti, Schettino, Gori, Frasca, Ceccanti, Cambieri, Ruoppolo and Inghilleri.</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <copyright-holder>Onesti, Schettino, Gori, Frasca, Ceccanti, Cambieri, Ruoppolo and Inghilleri</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>This retrospective study aimed to investigate the clinical features associated with deteriorated swallow in amyotrophic lateral sclerosis (ALS) patients with spinal and bulbar onset, describe the modification of diet and liquid intake, and assess the impact of dysphagia on the use of riluzole. One hundred forty-five patients were observed periodically every 3–6 months. They underwent routinely fiberoptic endoscopic evaluation of swallowing (FEES) and spirometry; dysphagia severity was classified according to the Penetration Aspiration Scale and the Pooling score (<italic>P</italic>-score) integrated with other parameters such as sensation, collaboration, and age (P-SCA score). During a mean follow-up period of about 2 years, the percentage of ALS patients suffering from dysphagia increased to 85 (rising from 35 to 73% in patients with spinal onset and from 95 to 98% in those with bulbar onset). Also, 8% of patients with dysphagia by FEES did not perceive the disorder. The frequency of normal and semi-solid diets decreased over time, while that of pureed diets and percutaneous endoscopic gastrostomy (PEG) prescription increased. Forty-four percent of dysphagic patients refused thickeners or PEG. A significant difference was observed in the mortality rate between patients untreated with riluzole and patients treated with riluzole oral suspension (<italic>p</italic> &lt; 0.05). Disease duration mainly impacted on the frequency of dysphagia in spinal onset patients, appearing very early in those with bulbar onset. Riluzole oral suspension would allow the safe administration in dysphagic ALS patients to avoid tablet crushing and consequent dispersion in food, common practices that are inconsistent with the safe and effective use of the drug.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>amyotrophic lateral sclerosis</kwd>
+        <kwd>dysphagia</kwd>
+        <kwd>riluzole</kwd>
+        <kwd>swallow</kwd>
+        <kwd>diet</kwd>
+      </kwd-group>
+      <counts>
+        <fig-count count="4"/>
+        <table-count count="3"/>
+        <equation-count count="0"/>
+        <ref-count count="35"/>
+        <page-count count="8"/>
+        <word-count count="5283"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="introduction" id="S1">
+      <title>Introduction</title>
+      <p>Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disease characterized by a progressive loss of motor neurons that leads to paralysis and death within 2–5 years from the time of diagnosis (<xref rid="B1" ref-type="bibr">1</xref>). Generally, death occurs because of respiratory failure, aspiration pneumonia, malnutrition, and dehydration (<xref rid="B2" ref-type="bibr">2</xref>).</p>
+      <p>About one-third of ALS patients show a bulbar onset with dysphagia and dysarthria. Yet, independent of the clinical onset, dysphagia emerges in more than 80% of patients during the advanced phases of the disease (<xref rid="B3" ref-type="bibr">3</xref>). In ALS, dysphagia is related to tongue atrophy, dysfunction in the closure of the soft palate and of the larynx due to the nuclear or supranuclear lesion of the cranial nerves, IX, X, and XII, and diaphragm dysfunction (<xref rid="B4" ref-type="bibr">4</xref>). A prompt assessment of the swallowing function is crucial to organize proper interventions and prevent rapid clinical deterioration (<xref rid="B5" ref-type="bibr">5</xref>). Irrespective of the poor prognosis of ALS, adequate adjustment of the diet and adoption of postural compensation maneuvers to preserve oral feeding could postpone the need for percutaneous endoscopic gastrostomy (PEG) (<xref rid="B6" ref-type="bibr">6</xref>, <xref rid="B7" ref-type="bibr">7</xref>). Fiberoptic endoscopic evaluation of swallowing (FEES) and videofluoroscopic swallowing study are both considered the gold standard to evaluate dysphagia (<xref rid="B8" ref-type="bibr">8</xref>). However, the endoscopic assessment allows a direct examination of the laryngeal adductor reflex (LAR) and can be repeated as often as necessary due to absence of radiation exposure.</p>
+      <p>Several methods have been suggested for the treatment of oropharyngeal dysphagia in adults to prevent airway aspiration during feeding (<xref rid="B9" ref-type="bibr">9</xref>, <xref rid="B10" ref-type="bibr">10</xref>). The guidelines for the management of ALS recommend PEG when the weight loss exceeds 10% of the baseline value and the forced vital capacity (FVC) decreases below 50% of the predicted level (<xref rid="B11" ref-type="bibr">11</xref>).</p>
+      <p>Physiological swallowing is a crucial parameter also for the proper intake of drugs, and dysphagia can seriously compromise their effect. To date, only riluzole has been approved for the treatment of ALS, even if its clinical usefulness remains controversial (<xref rid="B12" ref-type="bibr">12</xref>). Moreover, since 2015, a new oral liquid formulation of riluzole has become available in Italy (Teglutik, Italfarmaco S.p.A.) (<xref rid="B13" ref-type="bibr">13</xref>).</p>
+      <p>Actually, there are no data describing the behavior adopted by the patients because of dysphagia, the impact of swallowing management programs in prolonging survival and in delaying the use of tracheostomy and mechanical ventilation, and the use of riluzole in dysphagic ALS patients.</p>
+      <p>The primary aim of the present study was to describe the different clinical features associated with dysphagia in ALS patients with spinal and bulbar onset. Furthermore, we aimed to investigate the impact of dysphagia on diet and riluzole intake, analyze the risk of dysphagia in patients unable to recognize disease symptoms, and evaluate the effect of riluzole taken in an uncommon way on survival.</p>
+    </sec>
+    <sec sec-type="materials|methods" id="S2">
+      <title>Materials and Methods</title>
+      <sec id="S2-1">
+        <title>Study Design and Patients</title>
+        <p>Since 2005, an ALS registry has been set up at the Rare Neuromuscular Diseases Center of Umberto I Hospital, University of Rome “Sapienza.” All consecutive patients with a probable or confirmed ALS diagnosis were included in the registry. Diagnosis of ALS was based on the El Escorial revised criteria (<xref rid="B14" ref-type="bibr">14</xref>, <xref rid="B15" ref-type="bibr">15</xref>). According to the most recent guidelines, patients underwent visits every 3–6 months, receiving regular support from a multidisciplinary care team (<xref rid="B16" ref-type="bibr">16</xref>).</p>
+        <p>In December 2015, we retrospectively conducted an audit of the registry to collect dysphagia data in ALS patients who underwent visits every 3–6 months to analyze dysphagia onset and severity, patient disability, diet modification, and riluzole management. Patients were included in this retrospective study if they had at least three clinical evaluations comprehensive of swallowing assessment (FEES and LAR study) at each visit. Patients with concomitant disorders able to induce dysphagia were excluded.</p>
+        <p>Participants were divided into two subgroups, bulbar and spinal ALS, according to the clinical onset of disease. These were further classified into dysphagic/non-dysphagic and treated/untreated with riluzole. We defined patients as having a “poor prognosis” when death or survival with tracheostomy occurred during the observational period.</p>
+        <p>This study was performed according to the Declaration of Helsinki. The authorization to the processing of personal data carried out for scientific research purposes or the written consent for alive patients was provided by all participants.</p>
+      </sec>
+      <sec id="S2-2">
+        <title>Clinical Assessments</title>
+        <p>At each visit, the following assessments were performed: (i) FEES to evaluate the swallowing function plus completion of the Penetration Aspiration Scale (PAS) and Pooling score (<italic>P</italic>-score); (ii) spirometry to test the respiratory function; and (iii) ALS Functional Rating Scale Revised (ALSFRS-R) to evaluate the functional impairment in ALS.</p>
+        <p>Fiberoptic endoscopic evaluation of swallowing and LAR, performed by an experienced phoniatrician according to the Langmore protocol (1999), evaluate objectively the swallowing function. A 3.7-mm-diameter flexible fiber-optic rhinolaryngoscope (Storz 11101) was used. The endoscopic evaluation was performed by checking details of pharyngeal and laryngeal surfaces, the competence of the velopharyngeal closure, the morphology, motility, and sensitivity of the larynx, LAR, and secretion residues. The swallowing test consisted in the administration of increasing volumes (i.e., 5, 10, and 20 ml) of puree consistency (351–1,750 mPa s) and liquids.</p>
+        <p>Penetration Aspiration Scale grades the severity of swallowing dysfunction according to aspiration events (<xref rid="B17" ref-type="bibr">17</xref>). It is an 8-point scale quantifying penetration and aspiration in order to clarify the depth of airway invasion. ALS patients were considered dysphagic when the score was &gt;1.</p>
+        <p>The <italic>P</italic>-score assesses the ability to control residue/bolus pooling (<xref rid="B18" ref-type="bibr">18</xref>). It takes into account (i) site, as identified by anatomical landmarks; (ii) amount, as determined in a semiquantitative fashion by the amount of pooling materials; (iii) management, i.e., the ability of the patient to clear the residue (cough, clearing, gurgling, dry swallow). The <italic>P</italic>-score may be integrated with other parameters of clinical assessment: sensation of the pharynx, patient collaboration, and age (P-SCA score) (<xref rid="B19" ref-type="bibr">19</xref>) (Table <xref ref-type="table" rid="T1">1</xref>). Both scores express, as a numerical value, a continuum of severity that may indicate the absence of signs of dysphagia, mild, moderate, and severe dysphagia (3–4 = minimum score, corresponding to no dysphagia; 5–8 = low score, mild dysphagia; 9–12 = middle score, moderate dysphagia; 13–16 = high score, severe dysphagia).</p>
+        <table-wrap id="T1" position="float">
+          <label>Table 1</label>
+          <caption>
+            <p><bold>The Pooling score (<italic>P</italic>-score) integrated with parameters as sensation, collaboration, and age (P-SCA score) [by Farneti et al. (8)]</bold>.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">Pooling</th>
+                <th valign="top" align="left" rowspan="1" colspan="1">Endoscopic landmarks</th>
+                <th valign="top" align="left" rowspan="1" colspan="1">Score</th>
+                <th valign="top" align="center" colspan="3" rowspan="1">Bedside parameters<hr/></th>
+              </tr>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1"/>
+                <th valign="top" align="left" rowspan="1" colspan="1"/>
+                <th valign="top" align="left" rowspan="1" colspan="1"/>
+                <th valign="top" align="left" rowspan="1" colspan="1">Sensation</th>
+                <th valign="top" align="left" rowspan="1" colspan="1">Collaboration</th>
+                <th valign="top" align="left" rowspan="1" colspan="1">Age (years)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="top" rowspan="7" colspan="1">Site</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Vallecula</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">1</td>
+                <td align="left" valign="top" rowspan="4" colspan="1"/>
+                <td align="left" valign="top" rowspan="4" colspan="1"/>
+                <td align="left" valign="top" rowspan="4" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Marginal zone</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">1</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Pyriform sinus</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">2</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Vestibule/vocal cords</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">3</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="2" colspan="1">Lower vocal cords</td>
+                <td align="left" valign="top" rowspan="2" colspan="1">4</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Presence = −1</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Presence = −1</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">1 (&lt;65)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Absence = 1</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Absence = 1</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">2 (65–75)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Coating</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">1</td>
+                <td align="left" valign="top" rowspan="6" colspan="1"/>
+                <td align="left" valign="top" rowspan="6" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">3 (&gt;75)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="2" colspan="1">Amount</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Minimum</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">2</td>
+                <td align="left" valign="top" rowspan="5" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Maximum</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">3</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="3" colspan="1">Management</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">&lt;2</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">2</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">2–5</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">3</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">&gt;5</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">4</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Score</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1"><italic>P</italic>: 4–11</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+                <td align="left" valign="top" rowspan="1" colspan="1">P-SCA: 3–16</td>
+                <td align="left" valign="top" rowspan="1" colspan="1"/>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>The ALSFRS-R is a validated measure of functional impairment in ALS (<xref rid="B20" ref-type="bibr">20</xref>). It is a questionnaire-based functional scale, containing 12 items rated from 0 (complete dependence for that function) to 4 (normal function), divided into 3 sub scores (bulbar 12, spinal 24, and respiratory 12), with normal function defined by a score of 48.</p>
+        <p>Spirometry was carried out with participants in the sitting position wearing a nose clip, asked to blow into the mouthpiece of a spirometer (Winspiro PRO 5.8) as forcefully and quickly as possible and to continue blowing until all of the air was expelled from lungs. FVC (liters) and forced expiratory volume in first second (liters per second) were analyzed. The highest values were used in the analysis. The FVC values were expressed as percentages.</p>
+        <p>The onset of dysphagic symptoms was reported by patients. The ability to swallow solid food and liquids was assessed by means of anamnestic and clinical criteria. All dietary advice, prescription of PEG, non-invasive ventilation (NIV), changes in pharmacological treatments, use of thickening agents, and adopted diet were collected. Specifically, the patient diet was categorized as described hereinafter: a normal diet without restrictions, a soft diet (&gt;10<sup>12</sup> Pa s), a pudding diet (1,750–4,000 mPa s), and a pureed diet (351).</p>
+        <p>The intake of liquid was defined as follows: normal, postural (tucked chin), density 1 (syrup-nectar, 51–350 mPa s; it can be drunk with a straw or a cup, leaves a thin veneer on the back of the spoon), and density 2 (cream, 351–1,750 mPa s; it cannot be drunk with a straw; it can be drunk from a cup; it leaves a thin veneer on the back of the spoon).</p>
+        <p>The ability to swallow the whole riluzole tablet has been collected within the description of riluzole modification (crushing/swallow with food) in case of inability to swallow.</p>
+        <p>Patient survival has been calculated from the time of diagnosis until the date of death.</p>
+      </sec>
+      <sec id="S2-3">
+        <title>Statistical Analysis</title>
+        <p>Descriptive statistics, which summarizes data as percentages, was used. The Student’s <italic>T</italic> distribution was used to evaluate the baseline differences between dysphagic/non-dysphagic patients. The Chi-square test, with Yates’ correction if necessary, was used to compare qualitative values. Analysis of variance (ANOVA) for repeated measures assessed the differences, which were presented as percentage and 95% confidence interval. Statistically significant ANOVA was confirmed by <italic>post hoc</italic> Fisher analysis. Overall survival was analyzed using the Kaplan–Meier method, and <italic>P</italic> values were calculated using the log-rank test and Wilcoxon test. The level of significance was set at 0.05. The data of three assessments (i.e., initial, intermediate, and final visit) were used to measure disease evolution. The survival analysis was performed using Cox Regression.</p>
+        <p>Generalized linear mixed logit regression models were used to examine the association between death and other variables (age at onset, type of ALS, PAS, and P-SCA scores).</p>
+      </sec>
+    </sec>
+    <sec id="S3">
+      <title>Results</title>
+      <p>One hundred and forty five ALS patients (90 males and 55 females) met the inclusion criteria. They were followed for at least 9 months from baseline (mean duration of the clinical follow-up was 20.0 ± 18.3 months; range: 9–110). Mean age at onset was 62.2 ± 11.7 years. The disease duration at the first visit was 15.8 ± 12.7 months (range: 1–78). Fifty-seven patients (39%) had bulbar onset, while 88 patients (61%) had a spinal onset (Table <xref ref-type="table" rid="T2">2</xref>).</p>
+      <table-wrap id="T2" position="float">
+        <label>Table 2</label>
+        <caption>
+          <p><bold>Demographic and clinical characteristics of amyotrophic lateral sclerosis (ALS) patients with or without dysphagia at the start and at the end of follow-up</bold>.</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <th valign="top" align="left" rowspan="2" colspan="1">Variable</th>
+              <th valign="top" align="center" colspan="3" rowspan="1">At the start of follow-up<hr/></th>
+              <th valign="top" align="center" colspan="3" rowspan="1">At the end of follow-up<hr/></th>
+            </tr>
+            <tr>
+              <th valign="top" align="center" rowspan="1" colspan="1">Dysphagic pts</th>
+              <th valign="top" align="center" rowspan="1" colspan="1">Non-dysphagic pts</th>
+              <th valign="top" align="center" rowspan="1" colspan="1">
+                <italic>p</italic>
+              </th>
+              <th valign="top" align="center" rowspan="1" colspan="1">Dysphagic pts</th>
+              <th valign="top" align="center" rowspan="1" colspan="1">Non-dysphagic pts</th>
+              <th valign="top" align="center" rowspan="1" colspan="1">
+                <italic>p</italic>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">ALS patients <italic>N</italic> (%)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">
+                <bold>85 (58.6)</bold>
+              </td>
+              <td align="center" valign="top" rowspan="1" colspan="1">
+                <bold>60 (41.4)</bold>
+              </td>
+              <td align="center" valign="top" rowspan="1" colspan="1"/>
+              <td align="center" valign="top" rowspan="1" colspan="1">
+                <bold>120 (82.8)</bold>
+              </td>
+              <td align="center" valign="top" rowspan="1" colspan="1">
+                <bold>25 (17.2)</bold>
+              </td>
+              <td align="center" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Clinical onset <italic>N</italic> (%)</td>
+              <td align="center" valign="top" colspan="6" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1"> Bulbar</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">54 (63.5)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">3 (5.0)</td>
+              <td align="center" valign="top" rowspan="2" colspan="1">0.001</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">56 (46.7)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">1 (4.0)</td>
+              <td align="center" valign="top" rowspan="2" colspan="1">0.001</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1"> Spinal</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">31 (36.5)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">57 (95.0)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">64 (53.3)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">24 (96.0)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Age (years) at onset mean (SD)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">64.0 (12.3)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">59.6</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">0.02</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">63.2 (11.9)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">57.4 (9.2)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">0.02</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Sex <italic>N</italic> (%)</td>
+              <td align="center" valign="top" colspan="6" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1"> Male</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">45 (52.9)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">45 (75.0)</td>
+              <td align="center" valign="top" rowspan="2" colspan="1">0.007</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">75 (62.5)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">15 (60.0)</td>
+              <td align="center" valign="top" rowspan="2" colspan="1">ns</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1"> Female</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">40 (47.1)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">15 (25.0)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">45 (37.5)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">10 (40.0)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Delay of ALS diagnosis (months) mean (SD)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">14.2 (10.7)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">18.0 (14.8)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">ns</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">36.1 (23.5)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">35.6 (22.0)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">ns</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Penetration Aspiration Scale mean (SD)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">2.4 (1.5)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">1.0 (−)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">0.001</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">4.0 (2.0)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">1.0 (0.2)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">0.001</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">P-SCA score mean (SD)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">6.9 (1.8)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">3.1 (0.2)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">0.001</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">9.6 (3.0)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">3.4 (0.8)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">0.001</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">ALS Functional Rating Scale Revised mean (SD)</td>
+              <td align="center" valign="top" colspan="6" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1"> Total</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">38.3 (7.5)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">42.0 (5.4)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">0.001</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">27.1 (8.8)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">36.6 (8.4)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">0.001</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1"> Bulbar</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">8.6 (2.6)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">11.6 (0.7)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">0.001</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">6.8 (3.5)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">11.4 (1.6)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">0.001</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1"> Spinal</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">18.8 (6.4)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">18.8 (5.1)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">ns</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">10.9 (7.0)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">14.4 (6.6)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">0.02</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1"> Respiratory</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">11.0 (1.3)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">11.6 (0.9)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">0.002</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">9.4 (2.2)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">10.9 (2.2)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">0.002</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Forced vital capacity mean (SD)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">63.8 (21.9)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">85.2 (17.9)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">0.001</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">37.3 (31.5)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">60.0 (29.4)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">0.001</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Laryngeal adductor reflex <italic>N</italic> (%)</td>
+              <td align="center" valign="top" colspan="6" rowspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1"> Present</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">52 (61.2)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">58 (96.6)</td>
+              <td align="center" valign="top" rowspan="3" colspan="1">0.001</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">48 (40.0)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">22 (88.0)</td>
+              <td align="center" valign="top" rowspan="3" colspan="1">0.001</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1"> Poor</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">25 (29.4)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">1 (1.7)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">30 (25.0)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">2 (8.0)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1"> Absent</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">8 (9.4)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">1 (1.7)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">42 (35.0)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">1 (4.0)</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <p><italic>Data are expressed as mean (±SD) or frequencies [N = number (% = percentage value)]</italic>.</p>
+        </table-wrap-foot>
+      </table-wrap>
+      <p>At the beginning and at the end of the follow-up period, dysphagia was present in 58.6% (85/145) and 82.8% (120/145) of patients, respectively, with higher frequency in bulbar than in spinal patients (Figure <xref ref-type="fig" rid="F1">1</xref>). A delayed diagnosis of 14.2 and 18 months was found in dysphagic and non-dysphagic patients, respectively. Abnormal LAR and lower final FVC (<italic>F</italic> = 53.23, η<sup>2</sup> = 0.27, <italic>p</italic> = 0.001) were more frequent among patients with bulbar onset. As expected in a progressive disease, a gradual significant worsening in PAS score during the follow-up period was observed (Figure <xref ref-type="fig" rid="F2">2</xref>). Six patients (8%) with dysphagia found by FEES did not perceive the disorder (Figure <xref ref-type="fig" rid="F3">3</xref>).</p>
+      <fig id="F1" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p><bold>Incidence of dysphagia in the whole amyotrophic lateral sclerosis population and according to spinal or bulbar onset at the beginning and the end of follow-up</bold>.</p>
+        </caption>
+        <graphic xlink:href="fneur-08-00094-g001"/>
+      </fig>
+      <fig id="F2" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p><bold>Change in Penetration Aspiration Scale (PAS) score during the follow-up period in spinal and bulbar patients</bold>. Current effect: <italic>F</italic>(2.284) = 15.210, <italic>p</italic> = 0.001. Vertical bars denote 0.95 confidence intervals.</p>
+        </caption>
+        <graphic xlink:href="fneur-08-00094-g002"/>
+      </fig>
+      <fig id="F3" position="float">
+        <label>Figure 3</label>
+        <caption>
+          <p><bold>The fiberoptic endoscopic evaluation of swallowing of one amyotrophic lateral sclerosis patient who did not perceive the objectified disorder but with abundant hypopharyngeal residues</bold>.</p>
+        </caption>
+        <graphic xlink:href="fneur-08-00094-g003"/>
+      </fig>
+      <p>Fifty-four patients died (35% bulbar, 65% spinal) during the follow-up, while nine patients survived positioning tracheostomy. At the end of follow-up, disease duration was lower in bulbar onset patients than in those with spinal onset.</p>
+      <p>Sixty-three patients were deemed to have a poor prognosis (54 patients plus 9 who underwent tracheostomy). They showed a significant lower FVC (32.7 + 27.3 vs. 47.7 + 34.2, <italic>p</italic> = 0.004) in comparison to patients who survived. Fifty-five (87%) patients were dysphagic, and 25% of them refused the suggested thickening agents.</p>
+      <p>Percutaneous endoscopic gastrostomy was applied 30.6 ± 19.8 months after the onset of symptoms. Also, 29% of patients with PEG died, showing, however, a longer mean disease duration (38.0 ± 21.0 months) when PEG was positioned earlier (28.7 ± 22.4 months).</p>
+      <sec id="S3-1">
+        <title>Diet Assessment</title>
+        <p>At the beginning of the observation period 63 patients were on a normal diet, 64 on a soft diet, 13 on a pudding diet, and 5 on a puree diet. No patient used thickening agents or needed PEG. At the end of the follow-up, the following diets were adopted: normal in 24 patients, soft in 45 patients, pudding in 35 patients, and puree in 11 patients; 30 patients underwent a PEG. Bulbar dysphagic patients were given foods with modified consistency and underwent PEG more frequently than those with spinal onset (<italic>p</italic> = 0.01).</p>
+        <p>A detailed description of liquid intake is reported in Table <xref ref-type="table" rid="T3">3</xref>. Only 56% (30/54) of patients used the suggested thickening agents. In particular, 49% of dysphagic patients with spinal onset refused the proposed thickeners, while only 15% with bulbar onset refused them (<italic>p</italic> = 0.001 for the difference between bulbar and spinal ALS patients). Fifteen patients (62%) who refused the proposed thickeners died, while three survived after placing PEG.</p>
+        <table-wrap id="T3" position="float">
+          <label>Table 3</label>
+          <caption>
+            <p><bold>Description of the liquid intake in dysphagic patients (entire population and subgrouped by onset)</bold>.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">Intake</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">All dysphagic patients (<italic>N</italic> = 120)</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">Spinal onset dysphagic patients (<italic>N</italic> = 64)</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">Bulbar onset dysphagic patients (<italic>N</italic> = 56)</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <italic>p</italic>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Normal</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">8 (7)</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">7 (11)</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">1 (2)</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">ns</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Postural</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">31 (26)</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">20 (31)</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">11 (20)</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">ns</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Syrup/nectar</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">13 (11)</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">12 (19)</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">1(2)</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0.007</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Cream</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">43 (36)</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">22 (34)</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">21 (37)</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">ns</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Percutaneous endoscopic gastrostomy</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">25 (20)</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">3 (5)</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">22 (39)</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0.0001</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p><italic>Data are expressed as frequencies [numbers (%)]</italic>.</p>
+            <p><italic>Normal; postural, tuck chin; density 1, syrup (nectar) 51–350 mPa s can be drunk with a straw or a cup if recommended; it leaves a thin veneer on the back of the spoon; and density 2, cream 351–1,750 mPa s cannot be drunk with a straw; it can be drunk from a cup; leaves a thin veneer on the back of the spoon</italic>.</p>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>Only 75% of patients with poor or absent LAR used thickeners, diets with modified consistence, or PEG. Twelve (63%) of the patients who refused the proposed thickeners died.</p>
+      </sec>
+      <sec id="S3-2">
+        <title>Riluzole Management</title>
+        <p>At the end of the follow-up period, 95 patients were on riluzole, while 50 patients did not take the drug because of excessive sedation, increase of levels of transaminases, or patient refusal. Among the treated patients, 80 had dysphagia. They took the drug as follows: 51 patients used whole tablets (45 with water, 3 with fruit juice, 2 with yogurt, and 1 with fruit or bread), 20 crushed the tablets (7 with a spoon and 13 with a hackneyed tablets), and 9 assumed the oral suspension (Teglutik<sup>®</sup>, available on the market since March 2013) (Figure <xref ref-type="fig" rid="F4">4</xref>).</p>
+        <fig id="F4" position="float">
+          <label>Figure 4</label>
+          <caption>
+            <p><bold>Administration of riluzole in amyotrophic lateral sclerosis (ALS) patients according to dysphagia</bold>.</p>
+          </caption>
+          <graphic xlink:href="fneur-08-00094-g004"/>
+        </fig>
+        <p>Among the 20 patients crushing riluzole tablets, 17 mixed them with water (16 through PEG, 1 to swallow), 1 mixed with tea, 1 with fruit, and 1 with a thickening solution.</p>
+        <p>The use of riluzole did not impact on survival either in dysphagic or in non-dysphagic patients (Gehan’s Wilcoxon test = 0.07; <italic>p</italic> = 0.93). In dysphagic patients, no difference in the time of death was observed between patients with bulbar and spinal onset (Gehan’s: Wilcoxon test = −1.23; <italic>p</italic> = 0.21).</p>
+        <p>Forty-eight percent of patients untreated with riluzole died, compared to 45% of those treated with whole tablets, 35% with crushed riluzole, and 22% with riluzole oral suspension. A significant difference in terms of mortality was found between patients untreated with riluzole and those treated with riluzole oral suspension (<italic>p</italic> &lt; 0.05).</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="S4">
+      <title>Discussion</title>
+      <p>In this study, we evaluated the clinical features associated with dysphagia in ALS patients and their impact on riluzole and food management.</p>
+      <p>Our data are consistent with the literature: at the beginning of the disease, dysphagia was prevalent in patients with bulbar onset, and the duration of the disease affected mostly the frequency of dysphagia in spinal patients (<xref rid="B21" ref-type="bibr">21</xref>). Swallowing problems are often underestimated in ALS patients due to the progressive adaptation to slow deterioration of bulbar function, and the patient does not always recognize the disorder, leading to serious consequences and decreased survival. Dysphagia needs to be treated early and regularly to prevent complications, particularly in patients who do not initially perceive the disorder. This ensures adequate therapy through prevention of food aspiration and support of oral alimentation (<italic>via</italic> compensatory postures and dietary modifications), postponing PEG (<xref rid="B22" ref-type="bibr">22</xref>, <xref rid="B23" ref-type="bibr">23</xref>). In the present study, 8% of spinal patients presenting with signs of dysphagia by FEES did not report the disorder as symptomatic. These findings emphasize the importance of performing a periodic objective swallowing evaluation in all ALS patients. Strategies to prevent malnutrition have a positive impact also on survival and quality of life (<xref rid="B24" ref-type="bibr">24</xref>, <xref rid="B25" ref-type="bibr">25</xref>).</p>
+      <p>Recently, an important role has also been attributed to laryngeal sensitivity in the assessment of neurogenic oropharyngeal dysphagia (<xref rid="B26" ref-type="bibr">26</xref>). Laryngeal sensitivity is crucial for maintaining safe swallowing, thus avoiding silent aspiration. Until now, pharyngo-laryngeal sensitivity has received limited attention in patients with ALS, mainly because of the belief that ALS spares sensory function (<xref rid="B27" ref-type="bibr">27</xref>). In our study, FEES and PAS were able to objectively assess changes in the swallowing function over time, and this was particularly relevant in spinal patients, where the dysphagia may not even be recognized.</p>
+      <p>In patients with silent dysphagia, early detection is critical to avoid complications such as pneumonia. The management of oropharyngeal secretion and the efficacy of cleaning mechanisms, such as coughing and throat clearing, can be assessed simply and directly by FEES (<xref rid="B28" ref-type="bibr">28</xref>). Moreover, it can be performed at the bedside, thus facilitating the examination of severely motor-impaired, bedridden, or uncooperative patients. The AAN practice parameters and European ALS Consortium suggests that nutrition education and management is the standard of care and recommends regular nutrition evaluation every 3 months in ALS patients (<xref rid="B29" ref-type="bibr">29</xref>). Treatment of dysphagia is based on swallowing techniques, which improve the patient swallowing abilities thus reducing aspiration risks, and on diet change to adapt the consistency of foods and liquids to the patient specific impairment (<xref rid="B30" ref-type="bibr">30</xref>). The multidisciplinary approach has improved the overall care of ALS patients. Nonetheless, otolaryngologists are often not included in ALS management until a tracheostomy is considered. In our series, 44% of dysphagic patients, above all dysphagic patients with spinal onset, refused requested thickeners or PEG, and 25% of them had an impaired LAR. Paradoxically, we noted that patients who accepted thickening agents worsened more frequently compared to patients who refused them (67 vs. 47%). An accurate analysis of data, however, showed that non-compliant patients had a low level of disability and a better lung capacity. This suggests that any person who considers himself really ill makes everything possible to survive.</p>
+      <p>Seventy percent of patients who used PEG survived, and these data confirm that early recognition of dysphagia and of different grades of aspiration into the airways allows to identify patients who need PEG early on (<xref rid="B29" ref-type="bibr">29</xref>, <xref rid="B31" ref-type="bibr">31</xref>, <xref rid="B32" ref-type="bibr">32</xref>).</p>
+      <p>According to the literature, patients who were not treated with riluzole died more frequently compared to those receiving the drug, even if a significant difference was noted only for patients treated with oral suspension of riluzole (<xref rid="B33" ref-type="bibr">33</xref>). Since swallowing a pill is particularly problematic in these patients, the riluzole tablet is often crushed and dispensed with food. Both practices are not in line with riluzole label instruction, and no data are available about the efficacy and safety of crushed riluzole tablets. It is also important to remember that riluzole has anesthetic effects, as it partially blocks sodium channels, and it is usually administered in coated tablets to avoid oral paresthesia (<xref rid="B34" ref-type="bibr">34</xref>, <xref rid="B35" ref-type="bibr">35</xref>). Considering the possible larynx sensory deficit in dysphagic ALS patients, the practice of crushing riluzole tablets could impair the swallowing ability, therefore increasing the risk of aspiration. Moreover, this potential anesthetic effect could be prolonged if riluzole is dispersed in food, given the long time required by ALS patients to finish a meal. A comparative study between whole, crushed, and oral suspension of riluzole on a large number of ALS patients may help to understand the possible conditioning effect of different absorption of riluzole. Actually, the oral suspension of riluzole allows patients who suffer from dysphagia to receive the only approved ALS treatment in a way that does not alter the drug and is in line with the riluzole dosing instructions. Moreover, the viscosity of riluzole oral suspension is 300–700 cP (European Teglutik Patent No. 2405890B1), therefore similar to nectar and honey, allowing to minimize the risk of aspiration.</p>
+      <p>In conclusion, dysphagia is a very common symptom in ALS patients. The disease duration influences the occurrence of dysphagia especially in patients with spinal onset, appearing instead very early in patients with bulbar onset. Patients adapt food consistency according to the worsening of dysphagia, and they also alter riluzole tablet to swallow the drug. The pureed diets and PEG prescription increased over time, even if a high percentage of patients refused requested thickeners or PEG, despite LAR impairment. The oral suspension of riluzole would allow the safe administration of the drug in ALS patients with dysphagia without the need to crush the tablet or disperse it in food, practices that are inconsistent with their safe and effective use. An early and periodic nutrition assessment and therapeutic intervention is necessary to adequately modify the consistency of the diet and the proper use of thickening agents or PEG.</p>
+    </sec>
+    <sec id="S5">
+      <title>Author Contributions</title>
+      <p>EO and MI: design of the study, interpretation of the data, preparation, and approval of the manuscript. EO, GR, IS, MG, and MI: analysis and interpretation of the data, preparation, review, and approval of the manuscript. IS, VF, MC, and CC: collection and interpretation of the data as well as review and approval of the manuscript.</p>
+    </sec>
+    <sec id="S6">
+      <title>Conflict of Interest Statement</title>
+      <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>The authors gratefully thank all ALS patients who made this study possible.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <label>1</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kiernan</surname><given-names>MC</given-names></name><name><surname>Vucic</surname><given-names>S</given-names></name><name><surname>Cheah</surname><given-names>BC</given-names></name><name><surname>Turner</surname><given-names>MR</given-names></name><name><surname>Eisen</surname><given-names>A</given-names></name><name><surname>Hardiman</surname><given-names>O</given-names></name><etal/></person-group>
+<article-title>Amyotrophic lateral sclerosis</article-title>. <source>Lancet</source> (<year>2011</year>) <volume>377</volume>(<issue>9769</issue>):<fpage>942</fpage>–<lpage>55</lpage>.<pub-id pub-id-type="doi">10.1016/S0140-6736(10)61156-7</pub-id><?supplied-pmid 21296405?><pub-id pub-id-type="pmid">21296405</pub-id></mixed-citation>
+      </ref>
+      <ref id="B2">
+        <label>2</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Czaplinski</surname><given-names>A</given-names></name><name><surname>Yen</surname><given-names>AA</given-names></name><name><surname>Simpson</surname><given-names>EP</given-names></name><name><surname>Appel</surname><given-names>SH</given-names></name></person-group>. <article-title>Predictability of disease progression in amyotrophic lateral sclerosis</article-title>. <source>Muscle Nerve</source> (<year>2006</year>) <volume>34</volume>:<fpage>702</fpage>–<lpage>8</lpage>.<pub-id pub-id-type="doi">10.1002/mus.20658</pub-id><?supplied-pmid 16967489?><pub-id pub-id-type="pmid">16967489</pub-id></mixed-citation>
+      </ref>
+      <ref id="B3">
+        <label>3</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Muscaritoli</surname><given-names>M</given-names></name><name><surname>Kushta</surname><given-names>I</given-names></name><name><surname>Molfino</surname><given-names>A</given-names></name><name><surname>Inghilleri</surname><given-names>M</given-names></name><name><surname>Sabatelli</surname><given-names>M</given-names></name><name><surname>Rossi Fanelli</surname><given-names>F</given-names></name></person-group>. <article-title>Nutritional and metabolic support in patients with amyotrophic lateral sclerosis</article-title>. <source>Nutrition</source> (<year>2012</year>) <volume>28</volume>(<issue>10</issue>):<fpage>959</fpage>–<lpage>66</lpage>.<pub-id pub-id-type="doi">10.1016/j.nut.2012.01.011</pub-id><?supplied-pmid 22677356?><pub-id pub-id-type="pmid">22677356</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <label>4</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Luchesi</surname><given-names>KF</given-names></name><name><surname>Kitamura</surname><given-names>S</given-names></name><name><surname>Mourão</surname><given-names>LF</given-names></name></person-group>. <article-title>Management of dysphagia in Parkinson’s disease and amyotrophic lateral sclerosis</article-title>. <source>Codas</source> (<year>2013</year>) <volume>25</volume>(<issue>4</issue>):<fpage>358</fpage>–<lpage>64</lpage>.<pub-id pub-id-type="doi">10.1590/S2317-17822013000400010</pub-id><?supplied-pmid 24408486?><pub-id pub-id-type="pmid">24408486</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <label>5</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kühnlein</surname><given-names>P</given-names></name><name><surname>Gdynia</surname><given-names>HJ</given-names></name><name><surname>Sperfeld</surname><given-names>AD</given-names></name><name><surname>Lindner-Pfleghar</surname><given-names>B</given-names></name><name><surname>Ludolph</surname><given-names>AC</given-names></name><name><surname>Prosiegel</surname><given-names>M</given-names></name><etal/></person-group>
+<article-title>Diagnosis and treatment of bulbar symptoms in amyotrophic lateral sclerosis</article-title>. <source>Nat Clin Pract Neurol</source> (<year>2008</year>) <volume>4</volume>:<fpage>366</fpage>–<lpage>74</lpage>.<pub-id pub-id-type="doi">10.1038/ncpneuro0853</pub-id><pub-id pub-id-type="pmid">18560390</pub-id></mixed-citation>
+      </ref>
+      <ref id="B6">
+        <label>6</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rocha</surname><given-names>JA</given-names></name><name><surname>Reis</surname><given-names>C</given-names></name><name><surname>Simões</surname><given-names>F</given-names></name><name><surname>Fonseca</surname><given-names>J</given-names></name><name><surname>Mendes Ribeiro</surname><given-names>J</given-names></name></person-group>. <article-title>Diagnostic investigation and multidisciplinary management in motor neuron disease</article-title>. <source>J Neurol</source> (<year>2005</year>) <volume>252</volume>:<fpage>1435</fpage>–<lpage>47</lpage>.<pub-id pub-id-type="doi">10.1007/s00415-005-0007-9</pub-id><?supplied-pmid 16362828?><pub-id pub-id-type="pmid">16362828</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <label>7</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Thibodeaux</surname><given-names>LS</given-names></name><name><surname>Gutierrez</surname><given-names>A</given-names></name></person-group>. <article-title>Management of symptoms in amyotrophic lateral sclerosis</article-title>. <source>Curr Treat Options Neurol</source> (<year>2008</year>) <volume>10</volume>:<fpage>77</fpage>–<lpage>85</lpage>.<pub-id pub-id-type="doi">10.1007/s11940-008-0009-x</pub-id><?supplied-pmid 18334130?><pub-id pub-id-type="pmid">18334130</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <label>8</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Farneti</surname><given-names>D</given-names></name></person-group>
+<article-title>The instrumental gold standard: fees</article-title>. <source>J Gastroenterol Hepatol Res</source> (<year>2014</year>) <volume>3</volume>(<issue>10</issue>):<fpage>1281</fpage>–<lpage>91</lpage>.<pub-id pub-id-type="doi">10.6051/j.issn.2224-3992.2014.03.408-6</pub-id></mixed-citation>
+      </ref>
+      <ref id="B9">
+        <label>9</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rasley</surname><given-names>A</given-names></name><name><surname>Logemann</surname><given-names>JA</given-names></name><name><surname>Kahrilas</surname><given-names>PJ</given-names></name><name><surname>Rademaker</surname><given-names>AW</given-names></name><name><surname>Pauloski</surname><given-names>BR</given-names></name><name><surname>Dodds</surname><given-names>WJ</given-names></name></person-group>. <article-title>Prevention of barium aspiration during videofluoroscopic swallowing studies: value of change in posture</article-title>. <source>AJR Am J Roentgenol</source> (<year>1993</year>) <volume>160</volume>:<fpage>1005</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="doi">10.2214/ajr.160.5.8470567</pub-id><?supplied-pmid 8470567?><pub-id pub-id-type="pmid">8470567</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <label>10</label>
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Logemann</surname><given-names>JA</given-names></name></person-group>
+<source>Evaluation and Treatment of Swallowing Disorders</source>. <edition>2nd ed</edition>
+<publisher-loc>Austin, TX</publisher-loc>: <publisher-name>Pro-Ed</publisher-name> (<year>1998</year>).</mixed-citation>
+      </ref>
+      <ref id="B11">
+        <label>11</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Spataro</surname><given-names>R</given-names></name><name><surname>Ficano</surname><given-names>L</given-names></name><name><surname>Piccoli</surname><given-names>F</given-names></name><name><surname>La Bella</surname><given-names>V</given-names></name></person-group>. <article-title>Percutaneous endoscopic gastrostomy in amyotrophic lateral sclerosis: effect on survival</article-title>. <source>J Neurol Sci</source> (<year>2011</year>) <volume>304</volume>(<issue>12</issue>):<fpage>44</fpage>–<lpage>8</lpage>.<pub-id pub-id-type="doi">10.1016/j.jns.2011.02.016</pub-id><?supplied-pmid 21371720?><pub-id pub-id-type="pmid">21371720</pub-id></mixed-citation>
+      </ref>
+      <ref id="B12">
+        <label>12</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Miller</surname><given-names>RG</given-names></name><name><surname>Mitchell</surname><given-names>JD</given-names></name><name><surname>Moore</surname><given-names>DH</given-names></name></person-group>
+<article-title>Riluzole for amyotrophic lateral sclerosis (ALS)/motor neuron disease (MND)</article-title>. <source>Cochrane Database Syst Rev</source> (<year>2012</year>) <volume>3</volume>:<fpage>CD001447</fpage><pub-id pub-id-type="doi">10.1002/14651858.CD001447</pub-id></mixed-citation>
+      </ref>
+      <ref id="B13">
+        <label>13</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Keating</surname><given-names>GM</given-names></name></person-group>
+<article-title>Riluzole oral suspension in amyotrophic lateral sclerosis: a guide to its use</article-title>. <source>Drug Ther Perspect</source> (<year>2016</year>) <volume>32</volume>:<fpage>282</fpage>–<lpage>6</lpage>.<pub-id pub-id-type="doi">10.1007/s40267-016-0312-7</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <label>14</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brooks</surname><given-names>BR</given-names></name><name><surname>Miller</surname><given-names>RG</given-names></name><name><surname>Swash</surname><given-names>M</given-names></name><name><surname>Munsat</surname><given-names>TL</given-names></name><collab>World Federation of Neurology Research Group on Motor Neuron Diseases</collab></person-group>
+<article-title>El Escorial revisited: revised criteria for the diagnosis of amyotrophic lateral sclerosis</article-title>. <source>Amyotroph Lateral Scler Other Motor Neuron Disord</source> (<year>2000</year>) <volume>1</volume>:<fpage>293</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="doi">10.1080/146608200300079536</pub-id><pub-id pub-id-type="pmid">11464847</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <label>15</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>De Carvalho</surname><given-names>M</given-names></name><name><surname>Dengler</surname><given-names>R</given-names></name><name><surname>Eisen</surname><given-names>A</given-names></name><name><surname>England</surname><given-names>JD</given-names></name><name><surname>Kaji</surname><given-names>R</given-names></name><name><surname>Kimura</surname><given-names>J</given-names></name><etal/></person-group>
+<article-title>Electrodiagnostic criteria for diagnosis of ALS</article-title>. <source>Clin Neurophysiol</source> (<year>2008</year>) <volume>119</volume>:<fpage>497</fpage>–<lpage>503</lpage>.<pub-id pub-id-type="doi">10.1016/j.clinph.2007.09.143</pub-id><?supplied-pmid 18164242?><pub-id pub-id-type="pmid">18164242</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <label>16</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><collab>EFNS Task Force on Diagnosis and Management of Amyotrophic Lateral Sclerosis</collab><name><surname>Andersen</surname><given-names>PM</given-names></name><name><surname>Abrahams</surname><given-names>S</given-names></name><name><surname>Borasio</surname><given-names>GD</given-names></name><name><surname>de Carvalho</surname><given-names>M</given-names></name><name><surname>Chio</surname><given-names>A</given-names></name><etal/></person-group>
+<article-title>EFNS guidelines on the clinical management of amyotrophic lateral sclerosis (MALS) – revised report of an EFNS task force</article-title>. <source>Eur J Neurol</source> (<year>2012</year>) <volume>19</volume>(<issue>3</issue>):<fpage>360</fpage>–<lpage>75</lpage>.<pub-id pub-id-type="doi">10.1111/j.1468-1331.2011.03501.x</pub-id><pub-id pub-id-type="pmid">21914052</pub-id></mixed-citation>
+      </ref>
+      <ref id="B17">
+        <label>17</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rosenbek</surname><given-names>JC</given-names></name><name><surname>Robbins</surname><given-names>JA</given-names></name><name><surname>Roecker</surname><given-names>EB</given-names></name><name><surname>Coyle</surname><given-names>JL</given-names></name><name><surname>Wood</surname><given-names>JL</given-names></name></person-group>
+<article-title>A penetration-aspiration scale</article-title>. <source>Dysphagia</source> (<year>1996</year>) <volume>11</volume>:<fpage>93</fpage>–<lpage>8</lpage>.<pub-id pub-id-type="doi">10.1007/BF00417897</pub-id><pub-id pub-id-type="pmid">8721066</pub-id></mixed-citation>
+      </ref>
+      <ref id="B18">
+        <label>18</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Farneti</surname><given-names>D</given-names></name></person-group>. <article-title>Pooling score: an endoscopic model for evaluating severity of dysphagia</article-title>. <source>Acta Otorhinolaryngol Ital</source> (<year>2008</year>) <volume>28</volume>:<fpage>135</fpage>–<lpage>40</lpage>.<?supplied-pmid 18646575?><pub-id pub-id-type="pmid">18646575</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <label>19</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Farneti</surname><given-names>D</given-names></name><name><surname>Fattori</surname><given-names>B</given-names></name><name><surname>Nacci</surname><given-names>A</given-names></name><name><surname>Mancini</surname><given-names>V</given-names></name><name><surname>Simonelli</surname><given-names>M</given-names></name><name><surname>Ruoppolo</surname><given-names>G</given-names></name><etal/></person-group>
+<article-title>The pooling-score (P-score): inter- and intra-rater reliability in endoscopic assessment of the severity of dysphagia</article-title>. <source>Acta Otorhinolaryngol Ital</source> (<year>2014</year>) <volume>34</volume>:<fpage>105</fpage>–<lpage>10</lpage>.<?supplied-pmid 24843220?><pub-id pub-id-type="pmid">24843220</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <label>20</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cedarbaum</surname><given-names>JM</given-names></name><name><surname>Stambler</surname><given-names>N</given-names></name><name><surname>Malta</surname><given-names>E</given-names></name><name><surname>Fuller</surname><given-names>C</given-names></name><name><surname>Hilt</surname><given-names>D</given-names></name><name><surname>Thurmond</surname><given-names>B</given-names></name><etal/></person-group>
+<article-title>The ALSFRS-R: a revised ALS functional rating scale that incorporates the assessments of respiratory function. BDNF ALS study group (phase III)</article-title>. <source>J Neurol Sci</source> (<year>1999</year>) <volume>169</volume>:<fpage>13</fpage>–<lpage>21</lpage>.<pub-id pub-id-type="doi">10.1016/S0022-510X(99)00210-5</pub-id><pub-id pub-id-type="pmid">10540002</pub-id></mixed-citation>
+      </ref>
+      <ref id="B21">
+        <label>21</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tamburrini</surname><given-names>S</given-names></name><name><surname>Solazzo</surname><given-names>A</given-names></name><name><surname>Sagnelli</surname><given-names>A</given-names></name><name><surname>Del Vecchio</surname><given-names>L</given-names></name><name><surname>Reginelli</surname><given-names>A</given-names></name><name><surname>Monsorro</surname><given-names>M</given-names></name><etal/></person-group>
+<article-title>Amyotrophic lateral sclerosis: sonographic evaluation of dysphagia</article-title>. <source>Radiol Med</source> (<year>2010</year>) <volume>115</volume>:<fpage>784</fpage>–<lpage>93</lpage>.<pub-id pub-id-type="doi">10.1007/s11547-010-0523-2</pub-id><?supplied-pmid 20174881?><pub-id pub-id-type="pmid">20174881</pub-id></mixed-citation>
+      </ref>
+      <ref id="B22">
+        <label>22</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tomik</surname><given-names>J</given-names></name><name><surname>Tomik</surname><given-names>B</given-names></name><name><surname>Skladzien</surname><given-names>J</given-names></name><name><surname>Gajec</surname><given-names>S</given-names></name><name><surname>Strek</surname><given-names>P</given-names></name><name><surname>Oles</surname><given-names>K</given-names></name><etal/></person-group>
+<article-title>Analysis of oropharyngeal phase of swallowing in patients with amyotrophic lateral sclerosis</article-title>. <source>Przegl Lek</source> (<year>2009</year>) <volume>66</volume>:<fpage>905</fpage>–<lpage>8</lpage>.<pub-id pub-id-type="pmid">20297626</pub-id></mixed-citation>
+      </ref>
+      <ref id="B23">
+        <label>23</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Del Aguila</surname><given-names>MA</given-names></name><name><surname>Longstreth</surname><given-names>WT</given-names><suffix>Jr</suffix></name><name><surname>McGuire</surname><given-names>V</given-names></name><name><surname>Koepsell</surname><given-names>TD</given-names></name><name><surname>van Belle</surname><given-names>G</given-names></name></person-group>. <article-title>Prognosis in amyotrophic lateral sclerosis: a population-based study</article-title>. <source>Neurology</source> (<year>2003</year>) <volume>60</volume>(<issue>5</issue>):<fpage>813</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="doi">10.1212/01.WNL.0000049472.47709.3B</pub-id><?supplied-pmid 12629239?><pub-id pub-id-type="pmid">12629239</pub-id></mixed-citation>
+      </ref>
+      <ref id="B24">
+        <label>24</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zoccolella</surname><given-names>S</given-names></name><name><surname>Beghi</surname><given-names>E</given-names></name><name><surname>Palagano</surname><given-names>G</given-names></name><name><surname>Fraddosio</surname><given-names>A</given-names></name><name><surname>Guerra</surname><given-names>V</given-names></name><name><surname>Samarelli</surname><given-names>V</given-names></name><etal/></person-group>
+<article-title>Analysis of survival and prognostic factors in amyotrophic lateral sclerosis: a population based study</article-title>. <source>J Neurol Neurosurg Psychiatry</source> (<year>2008</year>) <volume>79</volume>(<issue>1</issue>):<fpage>33</fpage>–<lpage>7</lpage>.<pub-id pub-id-type="doi">10.1136/jnnp.2007.118018</pub-id><?supplied-pmid 17550991?><pub-id pub-id-type="pmid">17550991</pub-id></mixed-citation>
+      </ref>
+      <ref id="B25">
+        <label>25</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mitsumoto</surname><given-names>H</given-names></name><name><surname>Rabkin</surname><given-names>J</given-names></name></person-group>
+<article-title>Palliative care for patients with amyotrophic lateral sclerosis: “prepare for the worst and hope for the best”</article-title>. <source>JAMA</source> (<year>2007</year>) <volume>298</volume>(<issue>2</issue>):<fpage>207</fpage>–<lpage>16</lpage>.<pub-id pub-id-type="doi">10.1001/jama.298.2.207</pub-id><pub-id pub-id-type="pmid">17622602</pub-id></mixed-citation>
+      </ref>
+      <ref id="B26">
+        <label>26</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ruoppolo</surname><given-names>G</given-names></name><name><surname>Schettino</surname><given-names>I</given-names></name><name><surname>Biasiotta</surname><given-names>A</given-names></name><name><surname>Roma</surname><given-names>R</given-names></name><name><surname>Greco</surname><given-names>A</given-names></name><name><surname>Soldo</surname><given-names>P</given-names></name><etal/></person-group>
+<article-title>Afferent nerve ending density in the human laryngeal mucosa: potential implications on endoscopic evaluation of laryngeal sensitivity</article-title>. <source>Dysphagia</source> (<year>2015</year>) <volume>30</volume>(<issue>2</issue>):<fpage>139</fpage>–<lpage>44</lpage>.<pub-id pub-id-type="doi">10.1007/s00455-014-9589-7</pub-id><?supplied-pmid 25519304?><pub-id pub-id-type="pmid">25519304</pub-id></mixed-citation>
+      </ref>
+      <ref id="B27">
+        <label>27</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ruoppolo</surname><given-names>G</given-names></name><name><surname>Schettino</surname><given-names>I</given-names></name><name><surname>Frasca</surname><given-names>V</given-names></name><name><surname>Giacomelli</surname><given-names>E</given-names></name><name><surname>Prosperini</surname><given-names>L</given-names></name><name><surname>Cambieri</surname><given-names>C</given-names></name><etal/></person-group>
+<article-title>Dysphagia in amyotrophic lateral sclerosis: prevalence and clinical findings</article-title>. <source>Acta Neurol Scand</source> (<year>2013</year>) <volume>128</volume>(<issue>6</issue>):<fpage>397</fpage>–<lpage>401</lpage>.<pub-id pub-id-type="doi">10.1111/ane.12136</pub-id><pub-id pub-id-type="pmid">23668293</pub-id></mixed-citation>
+      </ref>
+      <ref id="B28">
+        <label>28</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Langmore</surname><given-names>SE</given-names></name></person-group>
+<article-title>Evaluation of oropharyngeal dysphagia: which diagnostic tool is superior?</article-title>
+<source>Curr Opin Otolaryngol Head Neck Surg</source> (<year>2003</year>) <volume>11</volume>(<issue>6</issue>):<fpage>485</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="doi">10.1097/00020840-200312000-00014</pub-id><pub-id pub-id-type="pmid">14631184</pub-id></mixed-citation>
+      </ref>
+      <ref id="B29">
+        <label>29</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Miller</surname><given-names>R</given-names></name><name><surname>Jackson</surname><given-names>C</given-names></name><name><surname>Kasarskis</surname><given-names>E</given-names></name><name><surname>England</surname><given-names>JD</given-names></name><name><surname>Forshew</surname><given-names>D</given-names></name><name><surname>Johnston</surname><given-names>W</given-names></name><etal/></person-group>
+<article-title>Practice parameter update: the care of the patient with amyotrophic lateral sclerosis: drug, nutritional, and respiratory therapies (an evidence-based review): report of the quality standards subcommittee of the American Academy of Neurology</article-title>. <source>Neurology</source> (<year>2009</year>) <volume>73</volume>(<issue>15</issue>):<fpage>1218</fpage>–<lpage>26</lpage>.<pub-id pub-id-type="doi">10.1212/WNL.0b013e3181bc0141</pub-id><?supplied-pmid 19822872?><pub-id pub-id-type="pmid">19822872</pub-id></mixed-citation>
+      </ref>
+      <ref id="B30">
+        <label>30</label>
+        <mixed-citation publication-type="book"><collab>National Dysphagia Diet Task Force</collab>. <source>National Dysphagia Diet: Standardization for Optimal Care</source>. <publisher-loc>Chicago, IL</publisher-loc>: <publisher-name>American Dietetic Association</publisher-name> (<year>2002</year>).</mixed-citation>
+      </ref>
+      <ref id="B31">
+        <label>31</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dorst</surname><given-names>J</given-names></name><name><surname>Dupuis</surname><given-names>L</given-names></name><name><surname>Petri</surname><given-names>S</given-names></name><name><surname>Kollewe</surname><given-names>K</given-names></name><name><surname>Abdulla</surname><given-names>S</given-names></name><name><surname>Wolf</surname><given-names>J</given-names></name><etal/></person-group>
+<article-title>Percutaneous endoscopic gastrostomy in amyotrophic lateral sclerosis: a prospective observational study</article-title>. <source>J Neurol</source> (<year>2015</year>) <volume>262</volume>(<issue>4</issue>):<fpage>849</fpage>–<lpage>58</lpage>.<pub-id pub-id-type="doi">10.1007/s00415-015-7646-2</pub-id><?supplied-pmid 25618254?><pub-id pub-id-type="pmid">25618254</pub-id></mixed-citation>
+      </ref>
+      <ref id="B32">
+        <label>32</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Russ</surname><given-names>KB</given-names></name><name><surname>Phillips</surname><given-names>MC</given-names></name><name><surname>Mel Wilcox</surname><given-names>C</given-names></name><name><surname>Peter</surname><given-names>S</given-names></name></person-group>
+<article-title>Percutaneous endoscopic gastrostomy in amyotrophic lateral sclerosis</article-title>. <source>Am J Med Sci</source> (<year>2015</year>) <volume>350</volume>(<issue>2</issue>):<fpage>95</fpage>–<lpage>7</lpage>.<pub-id pub-id-type="doi">10.1097/MAJ.0000000000000517</pub-id><pub-id pub-id-type="pmid">26135224</pub-id></mixed-citation>
+      </ref>
+      <ref id="B33">
+        <label>33</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chen</surname><given-names>L</given-names></name><name><surname>Liu</surname><given-names>X</given-names></name><name><surname>Tang</surname><given-names>L</given-names></name><name><surname>Zhang</surname><given-names>N</given-names></name><name><surname>Fan</surname><given-names>D</given-names></name></person-group>. <article-title>Long-term use of riluzole could improve the prognosis of sporadic amyotrophic lateral sclerosis patients: a real-world cohort study in China</article-title>. <source>Front Aging Neurosci</source> (<year>2016</year>) <volume>24</volume>(<issue>8</issue>):<fpage>246</fpage>.<pub-id pub-id-type="doi">10.3389/fnagi.2016.00246</pub-id><?supplied-pmid 27822184?><pub-id pub-id-type="pmid">27822184</pub-id></mixed-citation>
+      </ref>
+      <ref id="B34">
+        <label>34</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Benoit</surname><given-names>E</given-names></name><name><surname>Escande</surname><given-names>D</given-names></name></person-group>. <article-title>Riluzole specifically blocks inactivated Na channels in myelinated nerve fibre</article-title>. <source>Pflugers Arch</source> (<year>1991</year>) <volume>419</volume>(<issue>6</issue>):<fpage>603</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="doi">10.1007/BF00370302</pub-id><?supplied-pmid 1664937?><pub-id pub-id-type="pmid">1664937</pub-id></mixed-citation>
+      </ref>
+      <ref id="B35">
+        <label>35</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Deflorio</surname><given-names>C</given-names></name><name><surname>Onesti</surname><given-names>E</given-names></name><name><surname>Lauro</surname><given-names>C</given-names></name><name><surname>Tartaglia</surname><given-names>G</given-names></name><name><surname>Giovannelli</surname><given-names>A</given-names></name><name><surname>Limatola</surname><given-names>C</given-names></name><etal/></person-group>
+<article-title>Partial block by riluzole of muscle sodium channels in myotubes from amyotrophic lateral sclerosis patients</article-title>. <source>Neurol Res Int</source> (<year>2014</year>) <volume>2014</volume>:<fpage>946073</fpage>.<pub-id pub-id-type="doi">10.1155/2014/946073</pub-id><?supplied-pmid 25548669?><pub-id pub-id-type="pmid">25548669</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record>

@@ -1,0 +1,669 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5359858</identifier><datestamp>2017-04-04</datestamp><setSpec>jri</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Reprod Infertil</journal-id>
+      <journal-id journal-id-type="iso-abbrev">J Reprod Infertil</journal-id>
+      <journal-id journal-id-type="publisher-id">JRI</journal-id>
+      <journal-id journal-id-type="pmc">JRI</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Reproduction &amp; Infertility</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">2228-5482</issn>
+      <issn pub-type="epub">2251-676X</issn>
+      <publisher>
+        <publisher-name>Avicenna Research Institute</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5359858</article-id>
+      <article-id pub-id-type="pmcid">PMC5359858</article-id>
+      <article-id pub-id-type="pmc-uid">5359858</article-id>
+      <article-id pub-id-type="publisher-id">jri-17-197</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>New Approach</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Loop Mediated Isothermal Amplification (LAMP) for Embryo Sex Determination in Pregnant Women at Eight Weeks of Pregnancy</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Almasi</surname>
+            <given-names>Mohammad Amin</given-names>
+          </name>
+          <xref ref-type="corresp" rid="C1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Almasi</surname>
+            <given-names>Galavizh</given-names>
+          </name>
+        </contrib>
+        <aff id="AFF1">- Young Researchers and Elites Club, North Tehran Branch, Islamic Azad University, Tehran, Iran</aff>
+      </contrib-group>
+      <author-notes>
+        <corresp id="C1"><label>*</label><italic>Corresponding Author:</italic> Mohammad Amin Almasi, Young Researchers and Elites Club, North Tehran Branch, Islamic Azad University, Tehran, Iran <italic>E-mail:</italic><email>aminalmasi63@gmail.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <season>Jan-Mar</season>
+        <year>2017</year>
+      </pub-date>
+      <volume>18</volume>
+      <issue>1</issue>
+      <fpage>197</fpage>
+      <lpage>204</lpage>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>7</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>08</day>
+          <month>11</month>
+          <year>2016</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright© 2017, Avicenna Research Institute.</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <license>
+          <license-p>This work is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License which allows users to read, copy, distribute and make derivative works for non-commercial purposes from the material, as long as the author of the original work is cited properly.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <sec>
+          <title>Background:</title>
+          <p>In human, SRY (sex-determining region of the Y chromosome) is the major gene for the testis-determining factor which is found in normal XY males and in the rare XX males, and it is absent in normal XX females and many XY females. There are several methods which can indicate a male genotype by the presence of the amplified product of SRY gene. The aim of this study was to identify the SRY gene for embryo sex determination in human during pregnancy using loop mediated isothermal amplification (LAMP) method.</p>
+        </sec>
+        <sec>
+          <title>Methods:</title>
+          <p>A total of 15 blood samples from pregnant women at eight weeks of pregnancy were collected, and Plasma DNA was extracted. LAMP assay was performed using DNA obtained for detection of SRY gene. Furthermore, colorimetric LAMP assay for rapid and easy detection of SRY gene was developed.</p>
+        </sec>
+        <sec>
+          <title>Results:</title>
+          <p>LAMP results revealed that the positive reaction was highly specific only with samples containing XY chromosomes, while no amplification was found in samples containing XX chromosomes. A total of 15 blood samples from pregnant women were seven male embryos (46.6%) and eight female embryos (53.4%). All used visual components in the colorimetric assay could successfully make a clear distinction between positive and negative ones.</p>
+        </sec>
+        <sec>
+          <title>Conclusion:</title>
+          <p>The LAMP assay developed in this study is a valuable tool capable of monitoring the purity and detection of SRY gene for sex determination.</p>
+        </sec>
+      </abstract>
+      <kwd-group>
+        <kwd>Detection dyes</kwd>
+        <kwd>Embryo sexing</kwd>
+        <kwd>LAMP assay</kwd>
+        <kwd>Pregnancy</kwd>
+        <kwd>Sex determination analysis</kwd>
+        <kwd>SRY gene</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Molecular mechanisms of sex determination involve a growing network of genes, a large number, which are transcription factors. The transcription factors so far are identified as having a major role in sex determination (<xref rid="B1" ref-type="bibr">1</xref>). In humans, the gene for the testis-determining factor resides on the short arm of the Y chromosome. Individuals who are born with the short arm but not the long arm of the Y chromosome are male, while individuals born with the long arm of the Y chromosome but not the short arm are female (<xref rid="B2" ref-type="bibr">2</xref>). By analyzing the DNA of rare XX men and XY women, the position of the testis-determining gene has been narrowed down to a 35,000-base-pair region of the Y chromosome located near the tip of the short arm (<xref rid="B3" ref-type="bibr">3</xref>). In this region, a male-specific DNA sequence was found that could encode a peptide of 223 amino acids. This peptide is probably a transcription factor, since it contains a DNA-binding domain called the HMG (high-mobility group) box (<xref rid="B4" ref-type="bibr">4</xref>, <xref rid="B5" ref-type="bibr">5</xref>). This domain is found in several transcription factors and non-histone chromatin proteins, and it induces bending in the region of DNA to which it binds (<xref rid="B6" ref-type="bibr">6</xref>). This gene is called SRY (sex-determining region of the Y chromosome), and there is extensive evidence that it is indeed the gene that encodes the human testis-determining factor (<xref rid="B7" ref-type="bibr">7</xref>–<xref rid="B10" ref-type="bibr">10</xref>).</p>
+      <p>Methods for sex determination using PCR for amplification of SRY gene have also been reported (<xref rid="B11" ref-type="bibr">11</xref>, <xref rid="B12" ref-type="bibr">12</xref>). These methods can indicate a male genotype by the presence of the amplified product of SRY gene. Nonetheless, the need for trained staff, operating space, equipment, and reagents has impeded its usefulness (<xref rid="B13" ref-type="bibr">13</xref>). Hence, there has been an increasing demand for simple and cost-effective molecular tests. Loop mediated isothermal amplification (LAMP), a novel nucleic acid amplification method that relies on an auto-cycling strand displacement DNA synthesis, is performed by Bst DNA polymerase (<xref rid="B14" ref-type="bibr">14</xref>–<xref rid="B17" ref-type="bibr">17</xref>). Four or six primers that identify six or eight distinct regions are used in this method. It is operated under a constant temperature (60 to 65°<italic>C</italic>), and it eliminates the need for specialized thermal cycler equipment (<xref rid="B18" ref-type="bibr">18</xref>–<xref rid="B23" ref-type="bibr">23</xref>). An important advantage of LAMP is its ability to amplify specific sequences of DNA under isothermal conditions (<xref rid="B24" ref-type="bibr">24</xref>, <xref rid="B25" ref-type="bibr">25</xref>). Detection of amplification product can be determined via turbidity caused by an increasing quantity of the magnesium pyrophosphate precipitate in solution (<xref rid="B26" ref-type="bibr">26</xref>–<xref rid="B36" ref-type="bibr">36</xref>). LAMP positive amplicons have been confirmed by adding a number of fluorescent dsDNA intercalating dye including ethidium bromide and SYBR<sup>®</sup> Premix Ex Taq<sup>TM</sup> II after the reaction is completed or metal indicators such as magnesium sulphate (MgSO<sub>4</sub>), calcium chloride (CaCl<sub>2</sub>), SYBR Green I, propidium iodide, GeneFinder<sup>TM</sup>, calcein, hydroxynaphthol blue (HNB), phenol red and Gel-Red<sup>TM</sup> prior to the reaction, allowing observation with the naked eye (<xref rid="B37" ref-type="bibr">37</xref>–<xref rid="B40" ref-type="bibr">40</xref>). The purpose of this study was to establish a rapid, sensitive, specific, and easy method to detect SRY gene using a visualized detection system.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Methods</title>
+      <sec>
+        <title>Sample collection and plasma DNA extraction:</title>
+        <p>A total of 15 blood samples from pregnant women at eight weeks of pregnancy were collected. Another set of blood samples from non-pregnant women and men were also obtained using them as plasma negative and positive controls for the study, respectively. Fresh blood samples were drawn into Vacutainer EDTA tubes (BD Cat. 366643) immediately and were centrifuged at 3000 <italic>rpm</italic> for 10 <italic>min</italic> in a refrigerated centrifuge; their plasma fractions were collected and stored at −80°<italic>C</italic> for further analysis. Plasma DNA was extracted using QIAamp Circulating Nucleic Acid Kit (Qiagen, Cat. 55114) by following manufacturer’s protocol. Briefly, 2 <italic>ml</italic> of plasma was mixed with 200 <italic>μl</italic> proteinase K, 2.4 <italic>ml</italic> on ACL buffer by pulse-vortexing for 1 <italic>min</italic> in a 50 <italic>ml</italic> conical tube. Then the mixture was incubated in a 60°<italic>C</italic> water bath for 30 <italic>min</italic>. Then, 3.6 <italic>ml</italic> ACB buffer was added to the sample lysate and mixed by pulse-vortexing for 1 <italic>min</italic>, incubated for 5 <italic>min</italic> on ice and applied to the QIAamp mini column. Following the multiple wash and centrifugation steps, columns were incubated for 10 <italic>min</italic> at 56°<italic>C</italic> and DNA was eluted with 100 <italic>μl</italic> of AVE buffer and stored at −20°<italic>C</italic> for further analyses. The extraction quality of nucleic acid was confirmed by 1.5% agarose gel electrophoresis. The nucleic acid was stained with ethidium bromide. The purity of DNA was estimated by measuring the absorbance values at 260 <italic>nm</italic> and 280 <italic>nm</italic> using UV-Vis spectrophotometer (Shimadzu UV-1700, Japan).</p>
+      </sec>
+      <sec>
+        <title>Amplification of SRY gene using LAMP:</title>
+        <p>By means of the Primer Explorer V.4 software (specific for LAMP), specific primers were designed based on SRY genes (GenBank accession JQ811934.1) (<xref ref-type="table" rid="T1">Table 1</xref>). <xref ref-type="fig" rid="F1">Figure 1A</xref> shows the schematic position of LAMP primers within SRY gene. A basic set of four primers was needed, including FIP (Forward Inner Primer), BIP (Backward Inner Primer), F3 (Forward Outer Primer), and B3 (Backward Outer Primer) to identify six distinct regions on the target DNA. To accelerate the LAMP reaction, two additional primers, <italic>i.e</italic>., LF (Loop Forward Primer) and LB (Loop Backward Primer) were also used. FIP consisted of the complementary sequence of F1, a T-T-T-T linker, and F2. BIP consisted of B1c, a T-T-T-T linker, and the complementary sequence of B2c. Primers F3 and B3 were located outside F2 and B2 regions, while loop primers LF and LB were located between F2 and F1 and between B1 and B2, respectively (<xref rid="B13" ref-type="bibr">13</xref>–<xref rid="B16" ref-type="bibr">16</xref>). Finally, the primers were tested for similarities with other sequences available in the GenBank databases using the BLASTN algorithm. LAMP assay was separately performed in a total volume of 25 <italic>μl</italic> using DNA obtained in a way described before, using designed primers in pregnant women, non-pregnant women (negative control) and men (positive control) samples. Initially, DNA was added to 23 <italic>μl</italic> of LAMP mixture to provide a final concentration of 20 <italic>mM</italic> supplied buffer (Thermopol buffer containing 50 <italic>mM</italic> Tris-HCl, pH=8.8, 10 <italic>mM</italic> KCl, 10 (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>
+<italic>mM</italic>, 0.1% Triton X100), 2 <italic>mM</italic> Betaine (Sigma-Aldrich, USA), 1 <italic>mM</italic> MgSO<sub>4</sub>, 10 <italic>mM</italic> dNTP, 0.2 <italic>μM</italic> of primer F3 and B3, 0.4 <italic>μM</italic> of primer LF and LB, 0.8 <italic>μM</italic> of primer FIP and BIP and 8 <italic>U</italic> of Bst DNA polymerase (New England Biolabs, UK). Tubes were then incubated at 63°<italic>C</italic> for 60 <italic>min</italic> in water bath. An agarose gel electrophoresis system (optional, 1.5%) under UV illumination could be also employed to visualize positive reaction.</p>
+        <fig id="F1" position="float">
+          <label>Figure 1.</label>
+          <caption>
+            <p>A: Schematic representation of position primers used in LAMP assay; B: Quantity assessment of isolated DNA by spectrophotometric</p>
+          </caption>
+          <graphic xlink:href="JRI-17-197-g001"/>
+        </fig>
+        <table-wrap id="T1" position="float">
+          <label>Table 1.</label>
+          <caption>
+            <p>Oligonucleotide primers used for LAMP assay</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>Name</bold>
+                </th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">
+                  <bold>Length</bold>
+                </th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">
+                  <bold>Sequence (5–3)</bold>
+                </th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">
+                  <bold>Length of product</bold>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>F3</bold>
+                </td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">18 nt</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">AACGTCCAGGATAGAGTG</td>
+                <td rowspan="6" align="center" valign="middle" colspan="1">Fragment with different sizes</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>B3</bold>
+                </td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">18 nt</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">AGCATCTTCGCCTTCCGA</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>FIB (F1c+F2)</bold>
+                </td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">44 nt</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ATCTCTGAGTTTCGCATTCTTTTTAACGCATTCATCGTGTGGTC</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>BIP (B1c+B2)</bold>
+                </td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">44 nt</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">TGGGATACCAGTGGAAAATGTTTTTCTCTCTGTGCATGGCCTGT</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>LF</bold>
+                </td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">22 nt</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">TCTAGAGCCATCTTGCGCCTCT</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>LB</bold>
+                </td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">22 nt</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">CCGAAAAATGGCCATTCTTCCA</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Visual detection and confirmation of LAMP products (colorimetric assay):</title>
+        <p>The validations of positive LAMP reactions were justified by means of eight staining approaches. In doing so, several dyes were added to the LAMP reaction as described previously (<xref rid="B40" ref-type="bibr">40</xref>). Prior to amplification, 2 <italic>μl</italic> magnesium sulphate (8 <italic>mM</italic> MgSO<sub>4</sub>), 1 <italic>μl</italic> of GeneFinder<sup>TM</sup> (diluted to 1:10 with 6×loading buffer) (Biov. Bio. China), 1 <italic>μl</italic> of SYBR Green I (diluted to 1:10 with 6×loading buffer) (Invitrogen, Australia), 1 <italic>μl</italic> of the hydroxynaphthol blue dye (HNB) (3 <italic>mM</italic>, Lemongreen, Shanghai, China), 1 <italic>μl</italic> of phenol red (diluted to 1:10 with 6×loading buffer) (Sigma-Aldrich Chemie GmbH) or 1 <italic>μl</italic> of the GelRed<sup>TM</sup> dye (Biotum, India) were separately added from a stock solution to the master mix. After amplification, 0.5 <italic>μl</italic> ethidium bromide (Sigma) and 2 <italic>μl</italic> SYBR<sup>®</sup> Premix Ex Taq<sup>TM</sup> II (Perfect Real-time, Takara Bio Co., Ltd., RR081A) were added to LAMP reaction separately. The tubes containing MgSO<sub>4</sub>, GeneFinder<sup>TM</sup>, SYBR Green I, HNB and phenol red dyes were easily monitored for color change by simply looking at them in daylight, while the ones containing GelRed<sup>TM</sup>, ethidium bromide and SYBR<sup>®</sup> Premix Ex Taq<sup>TM</sup> II were examined under UV light (302 <italic>nm</italic>) after a short vortex.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <sec>
+        <title>DNA isolation:</title>
+        <p>DNA must be purified from cellular material in such a manner to prevent degradation. The absorbance ratios (A260/A280) of DNA samples were found to be in range of 1.68–1.73, indicating the purity of DNA (<xref ref-type="fig" rid="F1">Figure 1B</xref>).</p>
+      </sec>
+      <sec>
+        <title>LAMP assay:</title>
+        <p>The initial optimization of the assay was conducted using a set of four basic primers, and optimal concentrations were determined. The reaction mixture was incubated at temperatures ranging from 60 to 65°<italic>C</italic>. The optimal temperature was found to be 63°<italic>C</italic> for 60 <italic>min</italic>. Values and concentrations of other components of the reaction were optimized. After detection of LAMP by gel electrophoresis, the smeared bands of amplified product indicated the positive reaction (<xref ref-type="fig" rid="F2">Figure 2A</xref>). Our results revealed the positive reaction was highly specific only with fresh blood samples containing XY chromosomes, while no amplification was found in blood samples containing XX chromosomes. Our new LAMP protocol could successfully identify positive samples and positive control. LAMP amplicons were electrophoresed and a large number of fragments (a ladder like pattern) were eventually visualized. As shown in <xref ref-type="fig" rid="F2">figure 2A</xref> typical ladder pattern of the amplified LAMP products with agarose gel electrophoresis was only observed for the positive samples and positive control. The LAMP assay showed no detectable amplification of other samples, including the negative control and negative samples. A total of 15 blood samples from pregnant women were seven male embryos (46.6%) and eight female embryos (53.4%). The authenticity of the results by the follow up was performed after delivery and finally the diagnosis of gender in 15 pregnant women was determined by plasma LAMP method.</p>
+        <fig id="F2" position="float">
+          <label>Figure 2.</label>
+          <caption>
+            <p>A: Gel electrophoresis pattern of LAMP amplicons on 1.5% agarose gel; B: Details of eight different visualization methods to analyze LAMP products. Lane M: DNA size marker (100 <italic>bp</italic>), lanes and tubes 1–7: positive samples, lanes and tubes 8–15: negative samples, lane and tube N: non-pregnant women sample (negative sample) and, lane and tube P: men sample (positive control)</p>
+          </caption>
+          <graphic xlink:href="JRI-17-197-g002"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Colorimetric assay:</title>
+        <p>LAMP amplicons could be detected with the naked eye by adding different visual dyes followed by color changing in the solutions. In this regard, all used visual components could successfully make a clear distinction between positive and negative ones (<xref ref-type="fig" rid="F2">Figure 2B</xref>). It is noticeable that positive results by MgSO<sub>4</sub>, Gene-Finder<sup>TM</sup>, SYBR Green I, HNB, phenol red, Gel-Red<sup>TM</sup>, ethidium bromide and SYBR<sup>®</sup> Premix Ex Taq<sup>TM</sup> II were turbidity, green, green, sky blue, red, orange, yellow and green, respectively.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>The LAMP method, generally, had the following advantages over the other methods such as easy detection, high sensitivity, high efficiency, simple manipulation, safety, low cost and being user friendly. In reality, except for section one which takes equal time (see “Material and Methods” section), LAMP overall requires just 60 <italic>min</italic> to accomplish (as the least demanding detection method) (<xref rid="B13" ref-type="bibr">13</xref>–<xref rid="B21" ref-type="bibr">21</xref>). This, in turn, would simplify the detection procedure and result in saving significant time needed for separating the amplified products on the gel and analyzing the data which are commonly used in other PCR-based methods, including nested PCR, reverse transcription PCR, multiplex PCR and immunocapture PCR (<xref rid="B29" ref-type="bibr">29</xref>–<xref rid="B39" ref-type="bibr">39</xref>). Such visual methods not only involve some expensive instruments but also during a period of time, exposure to the UV light (because it is harmful to the eyes, even watching for a short period would irritate the eyes and cause symptoms similar to conjunctivitis) as well as ethidium bromide could induce a number of serious negative effects on researchers who use these methods (<xref rid="B13" ref-type="bibr">13</xref>). More surprisingly, in LAMP amplified products can be easily visualized by means of different in-tube color indicators with no essential requirement of additional staining systems; thus, toxic staining materials would be significantly avoided (<xref rid="B39" ref-type="bibr">39</xref>). Simple, cost effective and user friendly equipped labs with some molecular instruments as well as trained personnel are prerequisites to perform PCR assays (<xref rid="B35" ref-type="bibr">35</xref>). On the contrary, LAMP can be easily accomplished just in a water bath or temperature block with no need of thermocycler and gel electrophoresis as the same results were recorded by other researchers (<xref rid="B29" ref-type="bibr">29</xref>–<xref rid="B40" ref-type="bibr">40</xref>). Likewise, exclusive of the primer designing process which is somehow complicated and sensitive, other phases are simply applicable. On the other hand, the presence of LAMP positive amplicons proved to be confirmed by adding a number of fluorescent or metal dyes to the reaction tubes, allowing observation with the naked eye (<xref rid="B24" ref-type="bibr">24</xref>–<xref rid="B37" ref-type="bibr">37</xref>). In the current study, therefore, LAMP amplified products were confirmed by adding all aforementioned visual systems (see “Methods” section), either prior to or after the reaction along with forming diverse color patterns depending upon the chemical characteristics of the applied chemical substances as dye. According to our results, despite the precise detection of positive LAMP products using all dyes, some were significantly superior when the time of stability, cost and the safety were taken into consideration (<xref ref-type="table" rid="T2">Table 2</xref>). For instance, regardless of its reasonable color change stability (≥2 weeks), when employing ethidium bromide, a UV transilluminator must be available; both of them are toxic, resulting in deleterious consequences on human health and the environment (<xref rid="B25" ref-type="bibr">25</xref>–<xref rid="B30" ref-type="bibr">30</xref>). More interestingly, in some cases, just a little fluorescent emission could be observed in negative tubes, presumably arising from the presence of primers and/or DNA templates, leading to an increase in false-positive results (<xref rid="B30" ref-type="bibr">30</xref>–<xref rid="B35" ref-type="bibr">35</xref>). Alternative to such problems, the first metal dye called magnesium sulphate was utilized, but just an ephemeral color change (<italic>i.e</italic>. turbidity; no more than a few seconds) was observed as the same result was reported (<xref rid="B31" ref-type="bibr">31</xref>–<xref rid="B39" ref-type="bibr">39</xref>). Even though short stability of the color change probably cannot be a significant problem as long as just a few numbers of suspicious samples are used, during assessment of a great quantity of infected samples, most of the time, inaccurate results will be accordingly achieved (<xref rid="B29" ref-type="bibr">29</xref>–<xref rid="B35" ref-type="bibr">35</xref>). The method, nevertheless, could be thereby attributed as a reliable visual observation approach since on the one hand, it is exploited prior to the reaction and on the other hand, there is no need for toxic devices. Anyway, to provide a situation to increase time stability, the second fluorescent dye SYBR<sup>®</sup> Premix Ex Taq<sup>TM</sup> II was employed, leading to a clear green color pattern. Notably, regardless of observing a significant growth on time stability (about 1–3 days), the method not only requires UV transilluminator but also its stability is more negatively sensitive (in daylight). Indeed, since the dye must be added after the amplification as it requires opening of the tubes, the occurrence of cross-contamination risk will be accordingly enhanced (<xref rid="B28" ref-type="bibr">28</xref>–<xref rid="B35" ref-type="bibr">35</xref>). To avoid such contaminations, using separate rooms can be a solution for LAMP setup and analysis. More recently, it has also been pointed out that the visualized LAMP assay demands a high concentration of SYBR Green I, which will hamper the LAMP reaction if it is added before LAMP reaction, so the close-tube LAMP detection based on SYBR Green I might be difficult (<xref rid="B32" ref-type="bibr">32</xref>–<xref rid="B38" ref-type="bibr">38</xref>). To abbreviate the contamination hazard and also increase color stability, as a result, two additional metal indicators (<italic>i.e</italic>. HNB and GeneFinder<sup>TM</sup>) known as close-tube LAMP detection were lastly used. Interestingly, among several different visual dyes to accurately detect LAMP products, both HNB and GeneFinder<sup>TM</sup> could produce long stable color change and brightness in a close tube-based approach to prevent cross-contamination risk as the best alternatives (35, 37, 40). Two additional metal indicators (phenol red and GelRed<sup>TM</sup>) were added before LAMP reaction but UV transilluminator was required. Meanwhile, the visual inspection of LAMP products by means of HNB and GeneFinder<sup>TM</sup> metal dyes was seen as advantageous as there was no need for electrophoresis and subsequent staining with carcinogenic ethidium bromide (<xref rid="B40" ref-type="bibr">40</xref>). Lastly, the color brightness and stability of both HNB and GeneFinder<sup>TM</sup> in the solutions with positive/negative reactions remained constant after 2 weeks of exposure to ambient light, whereas turbidity caused by precipitation of MgSO<sub>4</sub> or SYBR<sup>®</sup> Premix Ex Taq<sup>TM</sup> II was stable for only 5–10 <italic>s</italic> and 1–3 days, respectively, which were in agreement with the results reported by previous researchers (<xref rid="B35" ref-type="bibr">35</xref>, <xref rid="B37" ref-type="bibr">37</xref>, <xref rid="B39" ref-type="bibr">39</xref>). However, the results obtained here represent those achievable in the research laboratory setting, and it is uncertain whether these results also apply to actual specimens compared with other LAMP assays (<xref ref-type="table" rid="T3">Table 3</xref>).</p>
+      <table-wrap id="T2" position="float">
+        <label>Table 2.</label>
+        <caption>
+          <p>Comparison of colorimetric assays for detection of SRY gene</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <th align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>Visual system</bold>
+              </th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>Detection method</bold>
+              </th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>Safety</bold>
+              </th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>Positive reaction</bold>
+              </th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>Negative sample</bold>
+              </th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>Apply UV ray</bold>
+              </th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>Stability</bold>
+              </th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>Cross contamination</bold>
+              </th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>Use time</bold>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>Magnesium Sulfate (MgSO<sub>4</sub>)</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Visual</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Turbidity</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">No turbidity</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">5–10 <italic>s</italic></td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Prior to amplification</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>GeneFinder</bold>
+                <sup>
+                  <underline>TM</underline>
+                </sup>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Visual</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Green</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Orange</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">2–3 weeks</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Prior to amplification</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>SYBR Green I</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Visual</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Green</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Orange</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">2–3 weeks</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Prior to amplification</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>Hydroxynaphthol blue (HNB)</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Visual</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Sky blue</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Violet</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">2–3 weeks</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Prior to amplification</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>Phenol red</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Visual</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Red</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Orange</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">1 week</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Prior to amplification</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>Ethidium bromide</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Visual</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Yellow</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">No color</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">2 weeks</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">After amplification</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1"><bold>SYBR Premix Ex Taq</bold><sup><underline>TM</underline></sup>
+<bold>II</bold></td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Visual</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Green</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">No color</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">1–3 days</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">After amplification</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>GelRedTM</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Visual</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Orange</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">No color</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">2 weeks</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Prior to amplification</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <table-wrap id="T3" position="float">
+        <label>Table 3.</label>
+        <caption>
+          <p>Comparison of different LAMP assays</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <th align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>Assay</bold>
+              </th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>Detection method</bold>
+              </th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>Safety</bold>
+              </th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>Apply UV ray</bold>
+              </th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>Apply detect instruments</bold>
+              </th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>Cost</bold>
+              </th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>User friendly</bold>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>LAMP with gel detection</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Gel electrophoresis</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">High</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">High</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>Colorimetric LAMP without UV</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Visual</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Very low</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Very high</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>Colorimetric LAMP with UV</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Visual</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">High</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">high</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </sec>
+    <sec sec-type="conclusion">
+      <title>Conclusion</title>
+      <p>In conclusion, sex determination using detection of SRY gene by LAMP method in fresh human blood shows the smear and/or ladder band only in male blood samples, but not in female samples. The LAMP assay developed in this study is a valuable tool capable of helping in monitoring the purity and identification of SRY gene for sex determination. LAMP method, all in all, had the following advantages over the other mentioned procedures: (I) no requirement for expensive and sophisticated tools in amplification and detection; (II) no post-amplification treatment of the amplicons; (III) a flexible and easy detection approach, by detecting with naked eyes using diverse visual dyes; (IV) high sensitivity; (V) high efficiency; (VI) safety; and (VII) being user friendly. This robust assay is quick, sensitive and specific enough to be applied for gene detection.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>This study was funded by Young Researchers and Elites Club, North Tehran Branch, Islamic Azad University, Tehran, Iran.</p>
+    </ack>
+    <fn-group>
+      <fn>
+        <p>
+          <bold>Conflict of Interest</bold>
+        </p>
+        <p>The authors have no conflict of interest. This study was supported by Islamic Azad University, North Tehran Branch.</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <label>1.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Murakami</surname><given-names>H</given-names></name><name><surname>Yamamoto</surname><given-names>Y</given-names></name><name><surname>Yoshitome</surname><given-names>K</given-names></name><name><surname>Ono</surname><given-names>T</given-names></name><name><surname>Okamoto</surname><given-names>O</given-names></name><name><surname>Shigeta</surname><given-names>Y</given-names></name><etal/></person-group>
+<article-title>Forensic study of sex determination using PCR on teeth samples</article-title>. <source>Acta Med Okayama</source>. <year>2000</year>;<volume>54</volume>(<issue>1</issue>):<fpage>21</fpage>–<lpage>32</lpage>.<pub-id pub-id-type="pmid">10709619</pub-id></mixed-citation>
+      </ref>
+      <ref id="B2">
+        <label>2.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Assumpção</surname><given-names>JG</given-names></name><name><surname>Benedetti</surname><given-names>CE</given-names></name><name><surname>Maciel-Guerra</surname><given-names>AT</given-names></name><name><surname>Guerra</surname><given-names>G</given-names><suffix>Jr</suffix></name><name><surname>Baptista</surname><given-names>MT</given-names></name><name><surname>Scolfaro</surname><given-names>MR</given-names></name><etal/></person-group>
+<article-title>Novel mutations affecting SRY DNA-binding activity: the HMG box N65H associated with 46, XY pure gonadal digenesis and the familial non-HMG box R30I associated with variable phenotypes</article-title>. <source>J Mol Med (Berl)</source>. <year>2002</year>;<volume>80</volume>(<issue>12</issue>):<fpage>782</fpage>–<lpage>90</lpage>.<pub-id pub-id-type="pmid">12483463</pub-id></mixed-citation>
+      </ref>
+      <ref id="B3">
+        <label>3.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gimelli</surname><given-names>G</given-names></name><name><surname>Gimelli</surname><given-names>S</given-names></name><name><surname>Dimasi</surname><given-names>N</given-names></name><name><surname>Bocciardi</surname><given-names>R</given-names></name><name><surname>Di Battista</surname><given-names>E</given-names></name><name><surname>Pramparo</surname><given-names>T</given-names></name><etal/></person-group>
+<article-title>Identification and molecular modelling of a novel familial mutation in the SRY gene implicated in the pure gonadal dysgenesis</article-title>. <source>Eur J Hum Genet</source>. <year>2007</year>;<volume>15</volume>(<issue>1</issue>):<fpage>76</fpage>–<lpage>80</lpage>.<pub-id pub-id-type="pmid">17063144</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <label>4.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kellermayer</surname><given-names>R</given-names></name><name><surname>Halvax</surname><given-names>L</given-names></name><name><surname>Czakó</surname><given-names>M</given-names></name><name><surname>Shahid</surname><given-names>M</given-names></name><name><surname>Dhillon</surname><given-names>VS</given-names></name><name><surname>Husain</surname><given-names>SA</given-names></name><etal/></person-group>
+<article-title>A novel frame shift mutation in the HMG box of the SRY gene in a patient with complete 46, XY pure gonadal dysgenesis</article-title>. <source>Diagn Mol Pathol</source>. <year>2005</year>;<volume>14</volume>(<issue>3</issue>):<fpage>159</fpage>–<lpage>63</lpage>.<pub-id pub-id-type="pmid">16106197</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <label>5.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>King</surname><given-names>TF</given-names></name><name><surname>Conway</surname><given-names>GS.</given-names></name></person-group>
+<article-title>Swyer syndrome</article-title>. <source>Curr Opin Endocrinol Diabetes Obes</source>. <year>2014</year>;<volume>21</volume>(<issue>6</issue>):<fpage>504</fpage>–<lpage>10</lpage>.<pub-id pub-id-type="pmid">25314337</pub-id></mixed-citation>
+      </ref>
+      <ref id="B6">
+        <label>6.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Phillips</surname><given-names>NB</given-names></name><name><surname>Jancso-Radek</surname><given-names>A</given-names></name><name><surname>Ittah</surname><given-names>V</given-names></name><name><surname>Singh</surname><given-names>R</given-names></name><name><surname>Chan</surname><given-names>G</given-names></name><name><surname>Haas</surname><given-names>E</given-names></name><etal/></person-group>
+<article-title>SRY and human sex determination: the basic tail of the HMG box functions as a kinetic clamp to augment DNA bending</article-title>. <source>J Mol Biol</source>. <year>2006</year>; <volume>358</volume>(<issue>1</issue>):<fpage>172</fpage>–<lpage>92</lpage>.<pub-id pub-id-type="pmid">16504207</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <label>7.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Racca</surname><given-names>JD</given-names></name><name><surname>Chen</surname><given-names>YS</given-names></name><name><surname>Maloy</surname><given-names>JD</given-names></name><name><surname>Wickramasinghe</surname><given-names>N</given-names></name><name><surname>Phillips</surname><given-names>NB</given-names></name><name><surname>Weiss</surname><given-names>MA.</given-names></name></person-group>
+<article-title>Structure-function relationships in human testis-determining factor SRY: an aromatic buttress underlies the specific DNA-bending surface of a high mobility group (HMG) box</article-title>. <source>J Biol Chem</source>. <year>2014</year>;<volume>289</volume>(<issue>47</issue>):<fpage>32410</fpage>–<lpage>29</lpage>.<pub-id pub-id-type="pmid">25258310</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <label>8.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rizvi</surname><given-names>AA.</given-names></name></person-group>
+<article-title>46, XX man with SRY gene translocation: cytogenetic characteristics, clinical features and management</article-title>. <source>Am J Med Sci</source>. <year>2006</year>;<volume>335</volume>(<issue>4</issue>):<fpage>307</fpage>–<lpage>9</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B9">
+        <label>9.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shahid</surname><given-names>M</given-names></name><name><surname>Dhillion</surname><given-names>VS</given-names></name><name><surname>Jain</surname><given-names>N</given-names></name><name><surname>Hedau</surname><given-names>S</given-names></name><name><surname>Diwakar</surname><given-names>S</given-names></name><name><surname>Sachdeva</surname><given-names>P</given-names></name><etal/></person-group>
+<article-title>Two new novel point mutations localized upstream and downstream of the HMG box region of the SRY gene in three Indian 46,XY females with sex reversal and gonadal tumour formation</article-title>. <source>Mol Hum Reprod</source>. <year>2004</year>;<volume>10</volume>(<issue>7</issue>):<fpage>521</fpage>–<lpage>6</lpage>.<pub-id pub-id-type="pmid">15155818</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <label>10.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Waters</surname><given-names>PD</given-names></name><name><surname>Wallis</surname><given-names>MC</given-names></name><name><surname>Marshall Graves</surname><given-names>JA.</given-names></name></person-group>
+<article-title>Mammalian sex--Origin and evolution of the Y chromosome and SRY</article-title>. <source>Semin Cell Dev Biol</source>. <year>2007</year>;<volume>18</volume>(<issue>3</issue>): <fpage>389</fpage>–<lpage>400</lpage>.<pub-id pub-id-type="pmid">17400006</pub-id></mixed-citation>
+      </ref>
+      <ref id="B11">
+        <label>11.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Santos</surname><given-names>FR</given-names></name><name><surname>Pandya</surname><given-names>A</given-names></name><name><surname>Tyler-Smith</surname><given-names>C.</given-names></name></person-group>
+<article-title>Reliability of DNA-based sex tests</article-title>. <source>Nat Genet</source>. <year>1998</year>;<volume>18</volume>(<issue>2</issue>):<fpage>103</fpage>.<pub-id pub-id-type="pmid">9462733</pub-id></mixed-citation>
+      </ref>
+      <ref id="B12">
+        <label>12.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Thangaraj</surname><given-names>K</given-names></name><name><surname>Reddy</surname><given-names>AG</given-names></name><name><surname>Singh</surname><given-names>L.</given-names></name></person-group>
+<article-title>Is the amelogenin gene reliable for gender identification in forensic casework and prenatal diagnosis?</article-title>
+<source>Int J Legal Med</source>. <year>2002</year>;<volume>116</volume>(<issue>2</issue>):<fpage>121</fpage>–<lpage>3</lpage>.<pub-id pub-id-type="pmid">12056520</pub-id></mixed-citation>
+      </ref>
+      <ref id="B13">
+        <label>13.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Notomi</surname><given-names>T</given-names></name><name><surname>Okayama</surname><given-names>H</given-names></name><name><surname>Masubuchi</surname><given-names>H</given-names></name><name><surname>Yonekawa</surname><given-names>T</given-names></name><name><surname>Watanabe</surname><given-names>K</given-names></name><name><surname>Amino</surname><given-names>N</given-names></name><etal/></person-group>
+<article-title>Loop-mediated isothermal amplification of DNA</article-title>. <source>Nucleic Acids Res</source>. <year>2000</year>;<volume>28</volume>(<issue>12</issue>):<fpage>E63</fpage>.<pub-id pub-id-type="pmid">10871386</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <label>14.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hirayama</surname><given-names>H</given-names></name><name><surname>Katagiri</surname><given-names>S</given-names></name><name><surname>Kageyama</surname><given-names>S</given-names></name><name><surname>Minamihashi</surname><given-names>A</given-names></name><name><surname>Moriyasu</surname><given-names>S</given-names></name><name><surname>Sawai</surname><given-names>K</given-names></name><etal/></person-group>
+<article-title>Rapid sex chromosomal chimerism analysis in heterosexual twin female calves by Loop-mediated Isothermal Amplification</article-title>. <source>Anim Reprod Sci</source>. <year>2007</year>;<volume>101</volume>(<issue>1–2</issue>):<fpage>38</fpage>–<lpage>44</lpage>.<pub-id pub-id-type="pmid">17011732</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <label>15.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhang</surname><given-names>ZP</given-names></name><name><surname>Zhang</surname><given-names>Y</given-names></name><name><surname>Liu</surname><given-names>JP</given-names></name><name><surname>Zhang</surname><given-names>JT</given-names></name><name><surname>An</surname><given-names>ZX</given-names></name><name><surname>Quan</surname><given-names>FS</given-names></name><etal/></person-group>
+<article-title>Codeposition of dNTPs detection for rapid LAMP-based sexing of bovine embryos</article-title>. <source>Reprod Domest Anim</source>. <year>2009</year>;<volume>44</volume>(<issue>1</issue>):<fpage>116</fpage>–<lpage>21</lpage>.<pub-id pub-id-type="pmid">19019067</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <label>16.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chan</surname><given-names>KW</given-names></name><name><surname>Liu</surname><given-names>PC</given-names></name><name><surname>Yang</surname><given-names>WC</given-names></name><name><surname>Kuo</surname><given-names>J</given-names></name><name><surname>Chang</surname><given-names>CL</given-names></name><name><surname>Wang</surname><given-names>CY.</given-names></name></person-group>
+<article-title>A novel loop-mediated isothermal amplification approach for sex identification of Columbidae birds</article-title>. <source>Theriogenology</source>. <year>2012</year>;<volume>78</volume>(<issue>6</issue>):<fpage>1329</fpage>–<lpage>38</lpage>.<pub-id pub-id-type="pmid">22898019</pub-id></mixed-citation>
+      </ref>
+      <ref id="B17">
+        <label>17.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kanchanaphum</surname><given-names>P</given-names></name><name><surname>Sarataphan</surname><given-names>T</given-names></name><name><surname>Thirasan</surname><given-names>W</given-names></name><name><surname>Anatasomboon</surname><given-names>G.</given-names></name></person-group>
+<article-title>Development of Loop mediated isothermal amplification (LAMP) of SRY gene in human blood samples for sex determination</article-title>. <source>Rangsit J Arts Sci</source>. <year>2013</year>;<volume>3</volume>(<issue>2</issue>):<fpage>129</fpage>–<lpage>35</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B18">
+        <label>18.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Iwamoto</surname><given-names>T</given-names></name><name><surname>Sonobe</surname><given-names>T</given-names></name><name><surname>Hayashi</surname><given-names>K.</given-names></name></person-group>
+<article-title>Loop-mediated isothermal amplification for direct detection of Mycobacterium tuberculosis complex, M. avium, and M. intracellulare in sputum samples</article-title>. <source>J Clin Microbiol</source>. <year>2003</year>;<volume>41</volume>(<issue>6</issue>):<fpage>2616</fpage>–<lpage>22</lpage>.<pub-id pub-id-type="pmid">12791888</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <label>19.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mori</surname><given-names>Y</given-names></name><name><surname>Notomi</surname><given-names>T.</given-names></name></person-group>
+<article-title>Loop-mediated isothermal amplification (LAMP): a rapid, accurate, and cost-effective diagnostic method for infectious diseases</article-title>. <source>J Infect Chemother</source>. <year>2009</year>;<volume>15</volume>(<issue>2</issue>):<fpage>62</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="pmid">19396514</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <label>20.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hadersdorfer</surname><given-names>J</given-names></name><name><surname>Neumuller</surname><given-names>M</given-names></name><name><surname>Treutter</surname><given-names>D</given-names></name><name><surname>Fischer</surname><given-names>T.</given-names></name></person-group>
+<article-title>Fast and reliable detection of Plum pox virus in woody host plants using the Blue LAMP protocol</article-title>. <source>Ann Appl Biol</source>. <year>2011</year>;<volume>159</volume>(<issue>3</issue>):<fpage>456</fpage>–<lpage>66</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B21">
+        <label>21.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cardoso</surname><given-names>TC</given-names></name><name><surname>Ferrari</surname><given-names>HF</given-names></name><name><surname>Bregano</surname><given-names>LC</given-names></name><name><surname>Silva-Frade</surname><given-names>C</given-names></name><name><surname>Rosa</surname><given-names>AC</given-names></name><name><surname>Andrade</surname><given-names>AL.</given-names></name></person-group>
+<article-title>Visual detection of turkey coronavirus RNA in tissues and feces by reverse-transcription loop-mediated isothermal amplification (RT-LAMP) with hydroxynaphthol blue dye</article-title>. <source>Mol Cell Probes</source>. <year>2010</year>;<volume>24</volume>(<issue>6</issue>):<fpage>415</fpage>–<lpage>7</lpage>.<pub-id pub-id-type="pmid">20732411</pub-id></mixed-citation>
+      </ref>
+      <ref id="B22">
+        <label>22.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Goto</surname><given-names>M</given-names></name><name><surname>Honda</surname><given-names>E</given-names></name><name><surname>Ogura</surname><given-names>A</given-names></name><name><surname>Nomoto</surname><given-names>A</given-names></name><name><surname>Hanaki</surname><given-names>K.</given-names></name></person-group>
+<article-title>Colorimetric detection of loopmediated isothermal amplification reaction by using hydroxyl naphthol blue</article-title>. <source>Biotechniques</source>. <year>2009</year>;<volume>46</volume>(<issue>3</issue>):<fpage>167</fpage>–<lpage>72</lpage>.<pub-id pub-id-type="pmid">19317660</pub-id></mixed-citation>
+      </ref>
+      <ref id="B23">
+        <label>23.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fu</surname><given-names>S</given-names></name><name><surname>Qu</surname><given-names>G</given-names></name><name><surname>Guo</surname><given-names>S</given-names></name><name><surname>Ma</surname><given-names>L</given-names></name><name><surname>Zhang</surname><given-names>N</given-names></name><name><surname>Zhang</surname><given-names>S</given-names></name><etal/></person-group>
+<article-title>Applications of loop-mediated isothermal DNA amplification</article-title>. <source>Appl Biochem Biotechnol</source>. <year>2011</year>;<volume>163</volume> (<issue>7</issue>):<fpage>845</fpage>–<lpage>50</lpage>.<pub-id pub-id-type="pmid">20844984</pub-id></mixed-citation>
+      </ref>
+      <ref id="B24">
+        <label>24.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Almasi</surname><given-names>MA</given-names></name><name><surname>Jafary</surname><given-names>H</given-names></name><name><surname>Moradi</surname><given-names>A</given-names></name><name><surname>Zand</surname><given-names>N</given-names></name><name><surname>Ojaghkandi</surname><given-names>MA</given-names></name><name><surname>Aghaei</surname><given-names>S.</given-names></name></person-group>
+<article-title>Detection of coat protein gene of the Potato Leafroll Virus by reverse transcription loop-mediated isothermal amplification</article-title>. <source>J Plant Pathol Microbiol</source>. <year>2013</year>;<volume>4</volume>(<issue>1</issue>):<fpage>156</fpage>.</mixed-citation>
+      </ref>
+      <ref id="B25">
+        <label>25.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Moradi</surname><given-names>A</given-names></name><name><surname>Nasiri</surname><given-names>J</given-names></name><name><surname>Abdollahi</surname><given-names>H</given-names></name><name><surname>Almasi</surname><given-names>MA.</given-names></name></person-group>
+<article-title>Development and evaluation of a loopmediated isothermal amplification assay for detection of Erwinia amylovora based on chromosomal DNA</article-title>. <source>Eur J Plant Pathol</source>. <year>2012</year>;<volume>133</volume>(<issue>3</issue>):<fpage>609</fpage>–<lpage>20</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B26">
+        <label>26.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Parida</surname><given-names>M</given-names></name><name><surname>Shukla</surname><given-names>J</given-names></name><name><surname>Sharma</surname><given-names>S</given-names></name><name><surname>Ranghia Santhosh</surname><given-names>S</given-names></name><name><surname>Ravi</surname><given-names>V</given-names></name><name><surname>Mani</surname><given-names>R</given-names></name><etal/></person-group>
+<article-title>Development and evaluation of reverse transcription loop-mediated isothermal amplification assay for rapid and real-time detection of the swine-origin influenza A H1N1 virus</article-title>. <source>J Mol Diagn</source>. <year>2011</year>;<volume>13</volume>(<issue>1</issue>):<fpage>100</fpage>–<lpage>7</lpage>.<pub-id pub-id-type="pmid">21227400</pub-id></mixed-citation>
+      </ref>
+      <ref id="B27">
+        <label>27.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tomita</surname><given-names>N</given-names></name><name><surname>Mori</surname><given-names>Y</given-names></name><name><surname>Kanda</surname><given-names>H</given-names></name><name><surname>Notomi</surname><given-names>T.</given-names></name></person-group>
+<article-title>Loop-mediated isothermal amplification (LAMP) of gene sequences and simple visual detection of products</article-title>. <source>Nat Protoc</source>. <year>2008</year>;<volume>3</volume>(<issue>5</issue>):<fpage>877</fpage>–<lpage>82</lpage>.<pub-id pub-id-type="pmid">18451795</pub-id></mixed-citation>
+      </ref>
+      <ref id="B28">
+        <label>28.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tsai</surname><given-names>SM</given-names></name><name><surname>Chan</surname><given-names>KW</given-names></name><name><surname>Hsu</surname><given-names>WL</given-names></name><name><surname>Chang</surname><given-names>TJ</given-names></name><name><surname>Wong</surname><given-names>ML</given-names></name><name><surname>Wang</surname><given-names>CY.</given-names></name></person-group>
+<article-title>Development of a loop-mediated isothermal amplification for rapid detection of orf virus</article-title>. <source>J Virol Methods</source>. <year>2009</year>;<volume>157</volume>(<issue>2</issue>):<fpage>200</fpage>–<lpage>4</lpage>.<pub-id pub-id-type="pmid">19186192</pub-id></mixed-citation>
+      </ref>
+      <ref id="B29">
+        <label>29.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ahmadi</surname><given-names>S</given-names></name><name><surname>Almasi</surname><given-names>MA</given-names></name><name><surname>Fatehi</surname><given-names>F</given-names></name><name><surname>Struik</surname><given-names>PC</given-names></name><name><surname>Moradi</surname><given-names>A.</given-names></name></person-group>
+<article-title>Visual detection of potato leafroll virus by one-step reverse transcription loop-mediated isothermal amplification of DNA with hydroxynaphthol blue dye</article-title>. <source>J phytopathol</source>. <year>2012</year>;<volume>161</volume>(<issue>2</issue>):<fpage>120</fpage>–<lpage>4</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B30">
+        <label>30.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dukes</surname><given-names>JP</given-names></name><name><surname>King</surname><given-names>DP</given-names></name><name><surname>Alexandersen</surname><given-names>S.</given-names></name></person-group>
+<article-title>Novels reverse transcription loop-mediated isothermal amplification for rapid detection of foot-and-mouth disease virus</article-title>. <source>Arch Virol</source>. <year>2006</year>;<volume>151</volume>(<issue>6</issue>):<fpage>1093</fpage>–<lpage>106</lpage>.<pub-id pub-id-type="pmid">16453084</pub-id></mixed-citation>
+      </ref>
+      <ref id="B31">
+        <label>31.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Almasi</surname><given-names>MA</given-names></name><name><surname>Hosseyni-Dehabadi</surname><given-names>SM</given-names></name><name><surname>Aghapour-Ojaghkandi</surname><given-names>M.</given-names></name></person-group>
+<article-title>Comparison and evaluation of three diagnostic methods for detection of Beet Curly Top Virus in sugar beet using different visualizing systems</article-title>. <source>Appl Biochem Biotechnol</source>. <year>2014</year>;<volume>173</volume>(<issue>7</issue>): <fpage>1836</fpage>–<lpage>48</lpage>.<pub-id pub-id-type="pmid">24894659</pub-id></mixed-citation>
+      </ref>
+      <ref id="B32">
+        <label>32.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Almasi</surname><given-names>MA</given-names></name><name><surname>Moradi</surname><given-names>A</given-names></name><name><surname>Nasiri</surname><given-names>J</given-names></name><name><surname>Karami</surname><given-names>S</given-names></name><name><surname>Nasiri</surname><given-names>M.</given-names></name></person-group>
+<article-title>Assessment of performance ability of three diagnostic methods for detection of Potato Leafroll Virus (PLRV) using different visualizing systems</article-title>. <source>Appl Biochem Biotechnol</source>. <year>2012</year>;<volume>168</volume>(<issue>4</issue>):<fpage>770</fpage>–<lpage>84</lpage>.<pub-id pub-id-type="pmid">22907514</pub-id></mixed-citation>
+      </ref>
+      <ref id="B33">
+        <label>33.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Almasi</surname><given-names>MA</given-names></name><name><surname>Dehabadi</surname><given-names>SH</given-names></name><name><surname>Eftekhari</surname><given-names>Z.</given-names></name></person-group>
+<article-title>Immunocapture loop mediated isothermal amplification for rapid detection of Tomato Yellow Leaf curl Virus (TYLCV) without DNA extraction</article-title>. <source>J Plant Pathol Microbiol</source>. <year>2013</year>;<volume>4</volume>(<issue>7</issue>):<fpage>185</fpage>.</mixed-citation>
+      </ref>
+      <ref id="B34">
+        <label>34.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Almasi</surname><given-names>MA</given-names></name><name><surname>Hosseini</surname><given-names>SMD</given-names></name><name><surname>Moradi</surname><given-names>A</given-names></name><name><surname>Eftekhari</surname><given-names>Z</given-names></name><name><surname>Ojaghkandi</surname><given-names>MA</given-names></name><name><surname>Aghaei</surname><given-names>S.</given-names></name></person-group>
+<article-title>Development and application of loop-mediatred Isothermal amplification assay for rapid detection of fusarium oxysporum f. sp. Lycopersici</article-title>. <source>J Plant Pathol Microbiol</source>. <year>2013</year>;<volume>4</volume>(<issue>5</issue>):<fpage>177</fpage>.</mixed-citation>
+      </ref>
+      <ref id="B35">
+        <label>35.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Moradi</surname><given-names>A</given-names></name><name><surname>Almasi</surname><given-names>MA</given-names></name><name><surname>Jafary</surname><given-names>H</given-names></name><name><surname>Mercado-Blanco</surname><given-names>J.</given-names></name></person-group>
+<article-title>A novel and rapid loop-mediated isothermal amplification assay for the specific detection of Verticillium dahlia</article-title>. <source>J Appl Microbiol</source>. <year>2014</year>;<volume>116</volume>(<issue>4</issue>):<fpage>942</fpage>–<lpage>54</lpage>.<pub-id pub-id-type="pmid">24329885</pub-id></mixed-citation>
+      </ref>
+      <ref id="B36">
+        <label>36.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fukuta</surname><given-names>S</given-names></name><name><surname>Iida</surname><given-names>T</given-names></name><name><surname>Mizukami</surname><given-names>Y</given-names></name><name><surname>Ishida</surname><given-names>A</given-names></name><name><surname>Ueda</surname><given-names>J</given-names></name><name><surname>Kanbe</surname><given-names>M</given-names></name><etal/></person-group>
+<article-title>Detection of Japanese yam mosaic virus by RT-LAMP</article-title>. <source>Arch Virol</source>. <year>2003</year>;<volume>148</volume>(<issue>9</issue>): <fpage>1713</fpage>–<lpage>20</lpage>.<pub-id pub-id-type="pmid">14505084</pub-id></mixed-citation>
+      </ref>
+      <ref id="B37">
+        <label>37.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Almasi</surname><given-names>MA</given-names></name><name><surname>Erfan manesh</surname><given-names>M</given-names></name><name><surname>Jafary</surname><given-names>H</given-names></name><name><surname>Dehabadi</surname><given-names>SM.</given-names></name></person-group>
+<article-title>Visual detection of Potato Leafroll virus by one-step reverse transcription loop-mediated isothermal amplification of DNA with the genefinder<sup>TM</sup> dye</article-title>. <source>J Virol Methods</source>. <year>2013</year>;<volume>192</volume>(<issue>1–2</issue>):<fpage>51</fpage>–<lpage>4</lpage>.<pub-id pub-id-type="pmid">23680094</pub-id></mixed-citation>
+      </ref>
+      <ref id="B38">
+        <label>38.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Almasi</surname><given-names>MA</given-names></name><name><surname>Ojaghkandi</surname><given-names>MA</given-names></name><name><surname>Hemmatabadi</surname><given-names>A</given-names></name><name><surname>Hamidi</surname><given-names>F</given-names></name><name><surname>Aghaei</surname><given-names>S.</given-names></name></person-group>
+<article-title>Development of colorimetric loop-mediated isothermal amplification assay for rapid detection of the Tomato Yellow Leaf Curl Virus</article-title>. <source>J Plant Pathol Microbiol</source>. <year>2013</year>;<volume>4</volume>(<issue>1</issue>):<fpage>153</fpage>.</mixed-citation>
+      </ref>
+      <ref id="B39">
+        <label>39.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Almasi</surname><given-names>MA</given-names></name><name><surname>Aghapour-ojaghkandi</surname><given-names>M</given-names></name><name><surname>Bagheri</surname><given-names>K</given-names></name><name><surname>Ghazvini</surname><given-names>M</given-names></name><name><surname>Hosseyni-dehabadi</surname><given-names>SM.</given-names></name></person-group>
+<article-title>Comparison and evaluation of two diagnostic methods for detection of npt II and GUS genes in Nicotiana tabacum</article-title>. <source>Appl Biochem Biotechnol</source>. <year>2015</year>;<volume>175</volume>(<issue>8</issue>): <fpage>3599</fpage>–<lpage>616</lpage>.<pub-id pub-id-type="pmid">25820356</pub-id></mixed-citation>
+      </ref>
+      <ref id="B40">
+        <label>40.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Almasi</surname><given-names>M.</given-names></name></person-group>
+<article-title>Establishment and application of a reverse transcription loop-mediated isothermal amplification assay for detection of grapevine Fanleaf Virus</article-title>. <source>Mol Biol</source>. <year>2016</year>;<volume>5</volume>(<issue>1</issue>):<fpage>149</fpage>.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record>

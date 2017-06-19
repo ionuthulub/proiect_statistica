@@ -1,0 +1,510 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5360097</identifier><datestamp>2017-04-04</datestamp><setSpec>sicotj</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="case-report">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">SICOT J</journal-id>
+      <journal-id journal-id-type="iso-abbrev">SICOT J</journal-id>
+      <journal-id journal-id-type="publisher-id">sicotj</journal-id>
+      <journal-title-group>
+        <journal-title>SICOT-J</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2426-8887</issn>
+      <publisher>
+        <publisher-name>EDP Sciences</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5360097</article-id>
+      <article-id pub-id-type="pmcid">PMC5360097</article-id>
+      <article-id pub-id-type="pmc-uid">5360097</article-id>
+      <article-id pub-id-type="pmid">28322717</article-id>
+      <article-id pub-id-type="doi">10.1051/sicotj/2017014</article-id>
+      <article-id pub-id-type="publisher-id">sicotj160108</article-id>
+      <article-id pub-id-type="other">10.1051/sicotj/2017014</article-id>
+      <article-categories>
+        <subj-group subj-group-type="section">
+          <subject>Knee</subject>
+        </subj-group>
+        <subj-group subj-group-type="topic">
+          <subject>Special Issue: "Deformity correction, limb lengthening and reconstruction" Guest Editor: Y. ElBatrawy</subject>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+          <subject>Surgical Technique</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Lengthening and deformity correction about the knee using a magnetic internal lengthening nail</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fragomen</surname>
+            <given-names>Austin T.</given-names>
+          </name>
+          <xref ref-type="aff" rid="AFF1">1</xref>
+          <xref ref-type="corresp" rid="FN1">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rozbruch</surname>
+            <given-names>S. Robert</given-names>
+          </name>
+          <xref ref-type="aff" rid="AFF1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="AFF1">
+        <label>1</label>
+        <addr-line>
+Limb Lengthening and Complex Reconstruction Service, Hospital for Special Surgery, Weill Medical College of Cornell University New York NY
+10021 USA
+</addr-line>
+      </aff>
+      <author-notes>
+        <corresp id="FN1"><label>*</label>Corresponding author: <email>fragomena@hss.edu</email>; <email>afragomen@gmail.com</email></corresp>
+      </author-notes>
+      <pub-date date-type="collection" publication-format="electronic">
+        <year>2017</year>
+      </pub-date>
+      <pub-date date-type="pub" publication-format="electronic">
+        <day>22</day>
+        <month>3</month>
+        <year>2017</year>
+      </pub-date>
+      <volume>3</volume>
+      <issue-id pub-id-type="publisher-id">sicotj/2017/01</issue-id>
+      <elocation-id>25</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>9</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>13</day>
+          <month>2</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© The Authors, published by EDP Sciences, 2017</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <copyright-holder>The Authors</copyright-holder>
+        <license license-type="open-access">
+          <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+<italic>Introduction</italic>: The introduction of the internal lengthening nail (ILN) has changed the treatment of complex malalignment and shortening about the knee. Acute correction of the deformity and gradual lengthening through this osteotomy site has greatly simplified postoperative recovery. This manuscript is a review of the techniques that are currently being used in surgery.</p>
+        <p>
+<italic>Methods</italic>: The article is broken into two sections: distal femur osteotomy and tibia osteotomy. Each is addressed separately since they have different personalities. Also included are topics of particular interest that surface in ongoing conferences regarding the ILN. This work is a mix of expert opinion and best practice supported by peer reviewed publications on the topic.</p>
+        <p>
+<italic>Results</italic>: Most published series demonstrate excellent results with the ILN. Certain precautions are reiterated including avoiding mechanical failure, need for a percutaneous osteotomy, need for over-reaming, and the need for blocking screws.</p>
+        <p>
+<italic>Discussion</italic>: Current controversies will be brought to light and discussed. The reader should find this aspect particularly helpful in navigating this rapidly evolving field.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Internal lengthening nail</kwd>
+        <kwd>Limb deformity</kwd>
+        <kwd>Limb lengthening</kwd>
+        <kwd>Distraction</kwd>
+        <kwd>Malalignment</kwd>
+      </kwd-group>
+      <counts>
+        <fig-count count="15"/>
+        <table-count count="0"/>
+        <equation-count count="0"/>
+        <ref-count count="27"/>
+        <page-count count="10"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="S1">
+      <title>Introduction</title>
+      <p>The introduction of the internal lengthening nail (ILN) has revolutionized how deformity surgeons approach the treatment of complex malalignment and shortening about the knee. Where once external fixation was required to manage simultaneous deformity with lengthening, internal fixation has utilized the tactic of acutely correcting the malalignment and gradually lengthening through this osteotomy site [<xref rid="R1" ref-type="bibr">1</xref>]. Some studies have even shown that the regenerate heals faster (a lower consolidation index) with ILN when compared with external fixation [<xref rid="R2" ref-type="bibr">2</xref>, <xref rid="R3" ref-type="bibr">3</xref>]. Certain technical considerations are important to the success of this newer approach including well-placed blocking screws and the intraoperative use of external fixation to control the bony reduction during reaming. This review article aims to present successful strategies for deformity correction and lengthening through the distal femur and proximal tibia.</p>
+    </sec>
+    <sec id="S2">
+      <title>Methods: femur</title>
+      <sec id="S3">
+        <title>Retrograde femoral nailing: surgical technique</title>
+        <p>The retrograde approach to the femur offers excellent control over distal femoral deformity. The distal femur is an ideal location for osteotomy due to its reliable bone formation during distraction osteogenesis. The challenge of the distal femur lies in its width which allows for the reamer and intramedullary (IM) nail to move in many possible directions. In order to secure a path for the nail to pass, blocking screws have been implemented. Well-placed blocking screws ensure that the reamer and IM nail will head in the proper direction both correcting the acute deformity and preventing lengthening-induced deformity. This concept of lengthening-induced deformity is well known to deformity surgeons with experience using external fixators but may not be so obvious to other orthopedic surgeons attempting deformity correction and lengthening with the IM nail. For retrograde nailing with a distal femoral osteotomy the distal bone fragment can be expected to flex during lengthening. This requires that a blocking screw be placed posterior to the nail at the time of the index surgery in anticipation of the impending deformity [<xref rid="R3" ref-type="bibr">3</xref>]. The mechanical axis will deviate laterally during lengthening at an expected quantity of 1 mm of translation per 1 cm of lengthening [<xref rid="R4" ref-type="bibr">4</xref>]. This circumstance is of particular relevance for lengthenings of 8 cm where 8 mm of lateral translation can occur. This scenario is less common in the setting of periarticular deformity correction, where average lengthening is 3 cm, and more common in the practice of stature lengthening, which is not the focus of this paper. With regard to stature lengthening, where an antegrade approach is typically used, an interesting phenomenon occurs: the nail and femur tend to bend into a few degrees of varus. This varus deflection counteracts the lateralization of the mechanical axis. Therefore, in more aggressive lengthenings, the use of an antegrade technique will typically keep the mechanical axis neutral. For a retrograde lengthening, the mechanical axis would need to be shifted the appropriate number of millimeters medially during planning to anticipate the valgus deviation. This will add a small amount of varus correction acutely to the correction. The reverse planning technique can be used as well [<xref rid="R5" ref-type="bibr">5</xref>].</p>
+      </sec>
+      <sec id="S4">
+        <title>Location of the deformity</title>
+        <p>The location of the deformity in the distal femur is important to determine. This technique is best suited for meta-diaphyseal deformities [<xref rid="R6" ref-type="bibr">6</xref>, <xref rid="R7" ref-type="bibr">7</xref>]. A far distal deformity requiring a very “low” osteotomy may be better treated with a plate. An ILN can be inserted proximally to address rotation and shortening (<xref ref-type="fig" rid="F1">Figures 1a</xref>–<xref ref-type="fig" rid="F1">1c</xref>).</p>
+        <p>
+<fig id="F1" orientation="portrait" position="float"><label>Figure 1.</label><caption><p>(a) This preop lateral radiograph shows a 13° flexion deformity of the distal femur. (b) Postop lateral shows a correction of the apex anterior deformity through an posterior opening wedge osteotomy stabilized with a plate and a proximal femoral lengthening with an ILN. (c) This far distal osteotomy would be difficult to control with an intramedullary implant.</p></caption><alternatives><graphic xlink:href="sicotj-3-25-fig1"/><graphic specific-use="thumbnail" xlink:href="sicotj-3-25-fig1_small"/></alternatives></fig>
+</p>
+        <p>Surgical steps:<list list-type="order"><list-item><p>Preoperative planning: There are many ways to plan for the deformity correction and lengthening [<xref rid="R5" ref-type="bibr">5</xref>, <xref rid="R8" ref-type="bibr">8</xref>]. Whatever technique is used will require two considerations: first, the existing deformity needs to be measured. Second, the expected lateral deviation of the mechanical axis that occurs during lengthening [<xref rid="R4" ref-type="bibr">4</xref>] needs to be considered. Then an osteotomy site is picked, translation is accounted for, blocking screw position is planned, and nail length and width are selected (<xref ref-type="fig" rid="F2">Figures 2a</xref>–<xref ref-type="fig" rid="F2">2c</xref>) [<xref rid="R8" ref-type="bibr">8</xref>].</p><p>
+<fig id="F2" orientation="portrait" position="float"><label>Figure 2.</label><caption><p>(a) This 51 inch AP radiograph allows for deformity planning with correction of varus and shortening. The mechanical axis planning is used to determine the magnitude and location of the deformity. (b) The red lines show the planned path of the ILN that will ensure correction of mechanical axis. The lines also show the length of the nail. (c) The white lines are placed to designate the path of the nail, and the circles are used to mark the location of the blocking screws. These radiographic plans are brought into the OR for comparison with intraop fluoroscopy shots.</p></caption><alternatives><graphic xlink:href="sicotj-3-25-fig2"/><graphic specific-use="thumbnail" xlink:href="sicotj-3-25-fig2_small"/></alternatives></fig>
+</p></list-item><list-item><p>Osteotomy site: The osteotomy site that was selected on the preoperative plan is located on the femur under fluoroscopy. A 10 mm incision is made in the lateral thigh at this level and taken through the iliotibial (IT) band. The incision can be extended for an IT band release. We release the IT band routinely for correction of valgus and lengthening and for large lengthenings (over 4 cm). A drill is then inserted with a protective sleeve, and multiple drill holes are created in one plane. This creates vent holes during reaming and marks the osteotomy site to help with blocking screw placement.</p></list-item><list-item><p>Blocking screws: When correcting coronal plane deformity blocking screws are inserted. The position of the screw needs to be decided as a part of the preoperative planning and replicated in the OR. For valgus deformity a blocking screw is placed lateral to the proposed path of the ILN (<xref ref-type="fig" rid="F3">Figure 3a</xref>). For varus deformity the blocking screw is placed medial to the path of the nail (<xref ref-type="fig" rid="F3">Figure 3b</xref>). An additional screw can be placed in the proximal fragment as well for optimal control. A blocking screw needs to be placed posterior to the path of the ILN (<xref ref-type="fig" rid="F3">Figures 3c</xref> and <xref ref-type="fig" rid="F3">3d</xref>).</p><p>
+<fig id="F3" orientation="portrait" position="float"><label>Figure 3.</label><caption><p>(a) This illustration shows the suggested position of the blocking screws for correction of a valgus deformity. The screws centered around the osteotomy are more typically used leaving the peripheral screws as an option. (b) The same planning can be used for correction of a varus deformity. The overlay of the hands is showing a principle called the “reverse rule of thumbs” whereby the bone is grabbed with the thumb and index fingers of both hands and a correction simulated. The blocking screws should be placed opposite the location of the thumb and index fingers. (c) In the sagittal plane, the blocking screws are inserted posterior to the ILN at the osteotomy site. The distal screw is the most important, but the proximal screw can also be used for a shorter nail. The peripheral screws are seldom needed. (d). This fluoroscopy shot shows ideal posterior blocking screw placement: close to the osteotomy site and lying against the ILN (arrow).</p></caption><alternatives><graphic xlink:href="sicotj-3-25-fig3"/><graphic specific-use="thumbnail" xlink:href="sicotj-3-25-fig3_small"/></alternatives></fig>
+</p></list-item><list-item><p>Half pins: A half pin is inserted into the distal femur using cannulated technique. A K-wire is inserted posterior to the path of the IM nail and checked using C-arm. The wire is then over-drilled with a cannulated drill bit through a small incision. The solid half pin (5–6 mm) is then inserted (<xref ref-type="fig" rid="F4">Figure 4</xref>). A second half pin is inserted in the proximal femur, proximal to the tip of the ILN. Rotation should be accounted for in this step for later correction.</p><p>
+<fig id="F4" orientation="portrait" position="float"><label>Figure 4.</label><caption><p>A 6 mm half pin is seen in the typical location posterior to the path of the ILN.</p></caption><alternatives><graphic xlink:href="sicotj-3-25-fig4"/><graphic specific-use="thumbnail" xlink:href="sicotj-3-25-fig4_small"/></alternatives></fig>
+</p></list-item><list-item><p>Distal fragment: The knee is flexed, and the distal femur is prepared through an arthrotomy either through or medial to the patellar tendon. A 2.4 mm K-wire is drilled in the center of the notch under AP and lateral fluoroscopy until it reaches the osteotomy site. The ACL 12 mm reamer is then inserted over the guide wire up to the osteotomy site taking care not to damage the patellar cartilage.</p></list-item><list-item><p>Osteotomy: The osteotomy is then performed with an osteotome through the previous drill hole incision under fluoroscopy. The reduction is performed with translation and rotational correction. The external fixator can then be placed to hold this reduction (<xref ref-type="fig" rid="F5">Figure 5</xref>).</p><p>
+<fig id="F5" orientation="portrait" position="float"><label>Figure 5.</label><caption><p>A simple pin-to-bar frame is used to hold the reduction of the osteotomy.</p></caption><alternatives><graphic xlink:href="sicotj-3-25-fig5"/><graphic specific-use="thumbnail" xlink:href="sicotj-3-25-fig5_small"/></alternatives></fig>
+</p></list-item><list-item><p>Reaming: Sequential reaming is then performed 1.5–2 mm over the nail diameter. There are different teachings on the correct way to prepare the canal. This will be further discussed.</p></list-item><list-item><p>ILN insertion: The external fixator is removed. The nail should slide into the canal without too much resistance. A mallet can be used, but if aggressive tapping is needed then we suggest removing the nail and reaming an additional 0.5–1.0 mm. The distal locking is then performed with the targeting device (<xref ref-type="fig" rid="F6">Figure 6</xref>). The rotation and alignment are checked and adjusted with the half pins. The proximal screws are inserted with a free hand technique.</p><p>
+<fig id="F6" orientation="portrait" position="float"><label>Figure 6.</label><caption><p>The AP fluoroscopy shot shows the distal femur after successful distal interlocking with the varus deformity corrected. The peri-osteotomy blocking screws are positioned to prevent varus deviation during lengthening. The external half pin is also seen in the field.</p></caption><alternatives><graphic xlink:href="sicotj-3-25-fig6"/><graphic specific-use="thumbnail" xlink:href="sicotj-3-25-fig6_small"/></alternatives></fig>
+</p></list-item><list-item><p>Follow-up: Lengthening begins after a latency period and proceeds at approximately 1 mm per day. The patient is followed at regular intervals with radiographs checking for regenerate quality and joint contractures (<xref ref-type="fig" rid="F7">Figures 7a</xref> and <xref ref-type="fig" rid="F7">7b</xref>).</p><p>
+<fig id="F7" orientation="portrait" position="float"><label>Figure 7.</label><caption><p>(a) The lengthening is complete and the limb length is checked. The regenerate bone is filling in but is still plastic enough to allow for fine-tuning of the length. The long-standing X-ray can be affected by hip and knee joint muscle contractures yielding a false length measurement. This needs to be considered before over-lengthening the limb. (b) The final alignment and length are checked after ILN removal.</p></caption><alternatives><graphic xlink:href="sicotj-3-25-fig7"/><graphic specific-use="thumbnail" xlink:href="sicotj-3-25-fig7_small"/></alternatives></fig>
+</p></list-item></list>
+</p>
+      </sec>
+    </sec>
+    <sec id="S5">
+      <title>Results: femur</title>
+      <sec id="S6">
+        <title>Effect of acute deformity correction on the growth of the regenerate</title>
+        <p>An acute correction of the femur coronal plane deformity (average 7°, maximum 15–20°) will not impact the ability of regenerate bone to form through a distal femoral osteotomy [<xref rid="R2" ref-type="bibr">2</xref>, <xref rid="R3" ref-type="bibr">3</xref>, <xref rid="R6" ref-type="bibr">6</xref>, <xref rid="R7" ref-type="bibr">7</xref>, <xref rid="R9" ref-type="bibr">9</xref>–<xref rid="R11" ref-type="bibr">11</xref>]. At the 2016 Limb Lengthening and Reconstruction Society (LLRS) an abstract was presented reviewing a series of 27 patients all treated with simultaneous distal femoral deformity correction and lengthening with an ILN. In this cohort there were no nonunions after an acute correction of an average of 8° of deformity and gradual lengthening of an average of 3 cm of lengthening [<xref rid="R12" ref-type="bibr">12</xref>].</p>
+      </sec>
+      <sec id="S7">
+        <title>Rate of lengthening</title>
+        <p>As a general rule G.A. Ilizarov taught the world that bony distraction achieved optimal osteogenesis when performed at a rate of 1 mm per day split into at least four separate adjustments of 0.25 mm per day. With the precision interlocking (IL) nails available, rate can be strictly controlled. In our practice, distraction needs to be started four days after surgery at the accelerated rate of 1.32 mm per day (0.33 mm four times daily) for four days and then slowed to a rate of 0.99 mm per day (0.33 mm three times daily). Rate is then further fine-tuned based on regenerate formation observed during the postop period. We have not experienced any implant-related premature consolidation or nonunion in the femur using this formula (one premature consolidation occurred due to a non-compliant patient) [<xref rid="R13" ref-type="bibr">13</xref>]. Singh et al. [<xref rid="R14" ref-type="bibr">14</xref>] reported excellent results starting lengthening post operative day (POD) 3 at 1 mm/day. Other authors have used a more classic rate of 1 mm per day following seven days of latency, however, in their series the external magnet was unresponsive and they had difficulty achieving the final goal and had premature consolidation. These problems may have been related to excess “drag” at the distraction site created by too slow a lengthening rate [<xref rid="R15" ref-type="bibr">15</xref>].</p>
+      </sec>
+      <sec id="S8">
+        <title>Minimally invasive osteotomy</title>
+        <p>The role of minimally invasive osteotomy is believed to be paramount to the success of acute deformity correction followed by distraction. The creation of drill holes at the osteotomy site followed by reaming leads to the deposition of endosteal autograft at the osteotomy site. This pre-grafting is noticeable on the intraop radiographs (<xref ref-type="fig" rid="F8">Figure 8</xref>). Osteotomy is then achieved without ever visualizing the bone. The osteotome is directed by feel and by fluoroscopy. It is possible that the success of acute correction is in part due to the minimally invasive nature of this osteotomy [<xref rid="R6" ref-type="bibr">6</xref>, <xref rid="R11" ref-type="bibr">11</xref>–<xref rid="R13" ref-type="bibr">13</xref>, <xref rid="R15" ref-type="bibr">15</xref>–<xref rid="R17" ref-type="bibr">17</xref>]. An open osteotomy may drain the site of the autograft and ruin the regeneration potential. Therefore, the excellent results achieved with this combination of techniques cannot be assigned to any one variable and deserve further study to determine the impact of each variable on the end product. One series reported 4/10 nonunions which may be due to a distraction rhythm of 0.5 mm BID or due to use of the reamer-irrigator-aspirator or due to a more open osteotomy technique [<xref rid="R18" ref-type="bibr">18</xref>].</p>
+        <p>
+<fig id="F8" orientation="portrait" position="float"><label>Figure 8.</label><caption><p>This intraop fluoroscopy frame shows a radio-opaque blush at the lateral aspect of the osteotomy site (arrow).</p></caption><alternatives><graphic xlink:href="sicotj-3-25-fig8"/><graphic specific-use="thumbnail" xlink:href="sicotj-3-25-fig8_small"/></alternatives></fig>
+</p>
+      </sec>
+      <sec id="S9">
+        <title>Pain control</title>
+        <p>The United States is exiting an era of heavy narcotic prescribing by launching an initiative to drastically cut down on opioids. The field of limb deformity surgery in the US has relied greatly on prolonged narcotic use for the duration of the lengthening process and often the entire time that external fixator is on the patient. Based on promising results in pediatric patients [<xref rid="R19" ref-type="bibr">19</xref>], adult surgeons are moving toward the aggressive use of acetaminophen and non-steroidal anti-inflammatories (NSAIDs) with minimal narcotic backup [<xref rid="R20" ref-type="bibr">20</xref>]. There is concern that the use of NSAIDs may slow the healing requiring a different rate of distraction. Alternatively, the use of narcotics may have negatively affected the regenerate formation [<xref rid="R21" ref-type="bibr">21</xref>] and abandoning them could positively affect the bone formation going forward. The results of this paradigm shift will be seen in the coming months.</p>
+      </sec>
+      <sec id="S10">
+        <title>Intraoperative external fixation</title>
+        <p>The use of external fixation during this surgery is helpful for maintaining the deformity correction during the reaming process. Since the ILN will follow the path of the reamer we believe it is best to create that path with the bony deformity reduced and stabilized. The half pins also offer rigid control of the bone fragments. This helps to rotate the osteotomy to ensure it is complete, translate the bone fragments to achieve the desired reduction, and control the final rotation prior to interlocking. Some surgeons feel that the half pins and the external fixator are not necessary [<xref rid="R6" ref-type="bibr">6</xref>], however, they ensure a smooth procedure with reliable results [<xref rid="R17" ref-type="bibr">17</xref>]. One study showed that larger half pin size was associated with a more accurate correction of the mechanical axis [<xref rid="R12" ref-type="bibr">12</xref>].</p>
+      </sec>
+      <sec id="S11">
+        <title>Rigid vs. flexible reaming</title>
+        <p>The decision of whether to ream the femoral canal using rigid reamers or flexible reamers has been debated extensively. The advantage of rigid reaming is that the sagittal curve of the femur is minimized allowing for less over-reaming of the canal. This in turn gives the ILN a tighter fit with less potential for malalignment at the time of insertion or during the lengthening process [<xref rid="R6" ref-type="bibr">6</xref>, <xref rid="R11" ref-type="bibr">11</xref>]. If performed correctly the rigid reamer can preferentially remove posterior cortical bone which some surgeons feel is important [<xref rid="R22" ref-type="bibr">22</xref>]. There are several advantages to flexible reaming. It is more convenient since it does not require special reamers. Rigid reamers have the potential to notch the anterior cortex putting the femur at greater risk for fracture [<xref rid="R16" ref-type="bibr">16</xref>], a problem unlikely to happen with flexible reamers. Over-reaming with flexible reamers has not been a problem with excellent alignment and healing obtained [<xref rid="R13" ref-type="bibr">13</xref>, <xref rid="R17" ref-type="bibr">17</xref>].</p>
+      </sec>
+      <sec id="S12">
+        <title>Distal curved vs. straight ILN</title>
+        <p>The ILN comes with both curved and straight distal options. There has been little discussion as to the advantages of each. There may be an increased tendency to create a procurvatum deformity when using the curved nail [<xref rid="R22" ref-type="bibr">22</xref>]. In cases where the surgeon wants to correct a procurvatum deformity at the osteotomy site, a curved nail can be rotated 180° to extend the osteotomy site. We have found that the straight entry ILN will often contact the posterior cortex obviating the need for a blocking screw (<xref ref-type="fig" rid="F9">Figures 9a</xref> and <xref ref-type="fig" rid="F9">9b</xref>).</p>
+        <p>
+<fig id="F9" orientation="portrait" position="float"><label>Figure 9.</label><caption><p>(a) The intraop fluoroscopy image shows contact of the posterior cortex of the distal fragment with the ILN at the osteotomy site (arrow). (b) After 5 cm of lengthening the distal fragment has not been able to flex due to the cortical abutment (arrow).</p></caption><alternatives><graphic xlink:href="sicotj-3-25-fig9"/><graphic specific-use="thumbnail" xlink:href="sicotj-3-25-fig9_small"/></alternatives></fig>
+</p>
+      </sec>
+    </sec>
+    <sec id="S13">
+      <title>Methods: tibia</title>
+      <sec id="S14">
+        <title>Tibial nailing: surgical technique</title>
+        <p>Acute deformity correction of the tibia followed by distraction with an ILN is gaining popularity. Tibial nailing is more challenging than retrograde femoral nailing with regard to alignment control. The entry point of the tibial nail is difficult to pinpoint due to the need to flex the knee with subsequent poor AP fluoroscopic imaging. The suprapatellar approach to tibial preparation may help with alignment precision [<xref rid="R23" ref-type="bibr">23</xref>] although this has never been studied in deformity patients. Proximal tibia osteotomy, much like proximal tibial fractures, often requires the use of blocking screws and external fixation. The posterior blocking screw is critical in preventing flexion of the osteotomy. Coronal plane blocking screws also ensure that the nail stays central on the AP view.</p>
+        <p>Surgical steps:<list list-type="order"><list-item><p>Preoperative planning: The tibia does not deviate from the mechanical axis during lengthening making planning straightforward. An osteotomy site is picked, translation is accounted for, blocking screw position is planned, and nail length and width are selected (<xref ref-type="fig" rid="F10">Figures 10a</xref> and <xref ref-type="fig" rid="F10">10b</xref>). Nail width is often quite limited in the isthmus requiring either a thinner nail or a shorter nail.</p><p>
+<fig id="F10" orientation="portrait" position="float"><label>Figure 10.</label><caption><p>(a) The 51 inch standing film shows a diaphyseal valgus deformity and limb length discrepancy. (b) The path of the ILN is planned with the osteotomy site at the intersection of the red lines.</p></caption><alternatives><graphic xlink:href="sicotj-3-25-fig10"/><graphic specific-use="thumbnail" xlink:href="sicotj-3-25-fig10_small"/></alternatives></fig>
+</p></list-item><list-item><p>Osteotomy site: The osteotomy site that was selected on the preoperative plan is located on the tibia under fluoroscopy. A 10 mm incision is made in proximal leg. A drill is then inserted with a protective sleeve, and multiple drill holes are created in one plane. This creates vent holes during reaming and marks the osteotomy site to help with blocking screw placement.</p></list-item><list-item><p>Blocking screws: When correcting coronal plane deformity, blocking screws are inserted. The position of the screw needs to be decided as a part of the preoperative planning. The distance of the screws from the osteotomy site and cortex should be replicated in the OR. For valgus deformity a blocking screw is placed lateral to the proposed path of the ILN (<xref ref-type="fig" rid="F11">Figure 11a</xref>). For varus deformity the blocking screw is placed medial to the path of the nail. An additional screw can be placed in the distal fragment as well for optimal control. The most critical blocking screw is placed posterior to the path of the IM nail in the proximal fragment. This will ensure the nail is not inserted in flexion and will prevent flexion from developing during lengthening (<xref ref-type="fig" rid="F11">Figures 11b</xref> and <xref ref-type="fig" rid="F11">11c</xref>).</p><p>
+<fig id="F11" orientation="portrait" position="float"><label>Figure 11.</label><caption><p>(a) This shows a different patient’s X-rays. The valgus correction is maintained by placing blocking screws in the concavity of the deformity (lateral aspect). Peripheral blocking screws can be used as well. (b) The sagittal plane requires at least one blocking screw in the proximal fragment near the osteotomy (the screw shown at the entry site of the ILN is theoretical and is never used). (c) This lateral film shows a well-placed posterior blocking screw (arrow).</p></caption><alternatives><graphic xlink:href="sicotj-3-25-fig11"/><graphic specific-use="thumbnail" xlink:href="sicotj-3-25-fig11_small"/></alternatives></fig>
+</p></list-item><list-item><p>Half pins: A half pin is inserted into the proximal tibia using cannulated technique. A K-wire is inserted posterior to the path of the IM nail usually superior and anterior to the fibular head and checked using C-arm. The wire is then over-drilled with a cannulated drill bit through a small incision. The solid half pin (5–6 mm) is then inserted. A second half pin is inserted in the distal tibia, distal to the tip of the ILN. Rotation should be accounted for in this step for later correction (<xref ref-type="fig" rid="F12">Figure 12</xref>).</p><p>
+<fig id="F12" orientation="portrait" position="float"><label>Figure 12.</label><caption><p>In this unrelated case, the external fixator helps to maintain the reduction of the deformity correction after osteotomy during reaming. A suprapatellar approach was used in this case.</p></caption><alternatives><graphic xlink:href="sicotj-3-25-fig12"/><graphic specific-use="thumbnail" xlink:href="sicotj-3-25-fig12_small"/></alternatives></fig>
+</p></list-item><list-item><p>Distal syndesmotic screw: The distal syndesmotic screw is placed to protect the ankle during distraction. We recommend a 4.5 mm fully threaded solid cortical screw.</p></list-item><list-item><p>Fibular osteotomy: The fibula is cut percutaneously by pre-drilling with a K-wire and then using an osteotome (<xref ref-type="fig" rid="F13">Figure 13</xref>).</p><p>
+<fig id="F13" orientation="portrait" position="float"><label>Figure 13.</label><caption><p>The osteotome is inserted through a limited incision under fluoroscopy.</p></caption><alternatives><graphic xlink:href="sicotj-3-25-fig13"/><graphic specific-use="thumbnail" xlink:href="sicotj-3-25-fig13_small"/></alternatives></fig>
+</p></list-item><list-item><p>Proximal fragment: The knee is flexed, and the proximal tibia is prepared through an arthrotomy either through or near the patellar tendon. A suprapatellar approach can also be used. A 2.4 mm K-wire is drilled under AP and Lateral fluoroscopy until it reaches the osteotomy site. The ACL 12 mm reamer is then inserted over the guide wire up to the osteotomy site.</p></list-item><list-item><p>Osteoplasty: The osteotomy is then performed with an osteotome through the previous drill hole incision under fluoroscopy. The reduction is performed with translation and rotational correction. The external fixator can then be secured to hold this reduction.</p></list-item><list-item><p>Reaming: Sequential reaming is then performed over-reaming the canal by 1.5–2 mm.</p></list-item><list-item><p>ILN insertion. The external fixator is loosened. The nail should slide into the canal without too much resistance. A mallet can be used, but if aggressive tapping is needed then we suggest removing the nail and reaming an additional 0.5–1.0 mm. The proximal locking is then performed with the targeting device. The rotation and alignment are checked and adjusted with the half pins. The distal interlock screws are inserted with a free hand technique.</p></list-item><list-item><p>Proximal syndesmotic screw: The proximal screw is placed using a cannulated technique. A guide wire is placed through the fibular head from lateral to medial. It is over-drilled and then a solid screw is inserted to prevent migration of the fibula during lengthening (<xref ref-type="fig" rid="F14">Figure 14</xref>).</p><p>
+<fig id="F14" orientation="portrait" position="float"><label>Figure 14.</label><caption><p>In this unrelated case, the proximal syndesmotic screw also served as the posterior blocking screw (arrow).</p></caption><alternatives><graphic xlink:href="sicotj-3-25-fig14"/><graphic specific-use="thumbnail" xlink:href="sicotj-3-25-fig14_small"/></alternatives></fig>
+</p></list-item><list-item><p>Fasciotomy: It is routine to perform a percutaneous fasciotomy of the anterior compartment when acutely correcting a tibial deformity to prevent compartment syndrome [<xref rid="R18" ref-type="bibr">18</xref>].</p></list-item><list-item><p>Follow-up: Lengthening begins after a latency period and proceeds at approximately 0.75 mm per day. The patient is followed at regular intervals with radiographs checking for regenerate quality and joint contractures (<xref ref-type="fig" rid="F15">Figures 15a</xref> and <xref ref-type="fig" rid="F15">15b</xref>).</p><p>
+<fig id="F15" orientation="portrait" position="float"><label>Figure 15.</label><caption><p>(a) The X-rays shown in <xref ref-type="fig" rid="F15">Figures 15a</xref> and <xref ref-type="fig" rid="F15">15b</xref> are a continuation of the patient presented in <xref ref-type="fig" rid="F10">Figures 10a</xref> and <xref ref-type="fig" rid="F10">10b</xref>. The end of distraction long-standing radiograph shows equal limb length and ideal alignment. (b) A lateral radiograph shows interval healing of the regenerate and ideal sagittal alignment.</p></caption><alternatives><graphic xlink:href="sicotj-3-25-fig15"/><graphic specific-use="thumbnail" xlink:href="sicotj-3-25-fig15_small"/></alternatives></fig>
+</p></list-item></list>
+</p>
+      </sec>
+    </sec>
+    <sec id="S15">
+      <title>Results: tibia</title>
+      <sec id="S16">
+        <title>Prophylactic peroneal nerve decompression</title>
+        <p>It is clear that tibial lengthening places tension on the common peroneal nerve and can cause nerve damage [<xref rid="R24" ref-type="bibr">24</xref>, <xref rid="R25" ref-type="bibr">25</xref>]. Special consideration is given to the correction of valgus or rotational deformities in conjunction with lengthening. These realignment procedures will further stretch the peroneal nerve and therefore, require a peroneal nerve release. This is done at the beginning of the surgery under tourniquet. For varus deformity correction with lengthening the peroneal nerve release is not standard. For larger lengthening goals (stature lengthening or greater than 27% increase in tibial length) the release should be strongly considered [<xref rid="R26" ref-type="bibr">26</xref>]. In all cases of tibia lengthening the common peroneal nerve is at risk for injury, and nerve function needs to be closely monitored postoperatively during the lengthening process [<xref rid="R27" ref-type="bibr">27</xref>].</p>
+      </sec>
+      <sec id="S17">
+        <title>Will acute deformity correction affect the growth of the regenerate?</title>
+        <p>This topic is not as well studied as in the femoral counterpart. Acute deformity correction of in the tibia may affect the quality of the regenerate, as measured by the consolidation index and circumferential healing, greater than the effect seen in the femur. The consolidation index (CI) for femoral lengthening has been excellent, averaging 24–32 days/cm [<xref rid="R9" ref-type="bibr">9</xref>, <xref rid="R11" ref-type="bibr">11</xref>, <xref rid="R14" ref-type="bibr">14</xref>, <xref rid="R16" ref-type="bibr">16</xref>] (faster than that seen with external fixation lengthening). These studies include very few tibia cases obscuring our ability to compare CI among tibia lengthening cases. The protocol we use for the tibial lengthening is slower than for femoral lengthening. The latency is seven days after which the tibia is lengthened at a rate of 1 mm per day split into four 0.25 mm lengthening sessions. This is done for four days and then slowed to 0.25 mm three times per day. This slower lengthening schedule has been helpful in protecting the osteotomy site’s ability to heal.</p>
+      </sec>
+      <sec id="S18">
+        <title>Tibial bone healing</title>
+        <p>The tibial consolidation rate is significantly slower than that of the femur using ILN [<xref rid="R11" ref-type="bibr">11</xref>]. The situation is further complicated by the asymmetric healing of the different tibial cortices. The deficiency is typically in the anterior portion of the regenerate. Responding to the deficient regenerate is complicated since a slower rate of distraction will help the anterior cortex while placing the posterior cortex at risk for premature consolidation. Most surgeons will avoid consolidation in favor of the posterior cortical healing. Surgical treatment is varied depending on the severity of the anterior defect but can include observation, percutaneous drilling, and injection of bone marrow aspirate concentrate, exchange nailing, open bone grafting, or a combination.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="S19">
+      <title>Discussion</title>
+      <p>The ILN is a great advancement in the area of limb deformity and lengthening, particularly in the femur. Surgeons are still learning the capabilities and shortcomings of these devices. The quality of the available implants continues to improve. The tibia continues to challenge surgeons’ abilities to control deformity and bone formation during lengthening and remains an area where external fixation is incredibly useful.</p>
+    </sec>
+    <sec id="S20">
+      <title>Conflict of interest</title>
+      <p>Author ATF received no funding or financial benefit related to this work. Author ATF does function as a consultant for NuVasive, Smith &amp; Nephew, and Synthes. Author SRR received no funding or financial benefit related to this work. Author SRR does function as a consultant for NuVasive, Smith &amp; Nephew, and Stryker.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="R1">
+        <label>1</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Landge</surname>
+<given-names>V</given-names></string-name>, <string-name><surname>Shabtai</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Gesheff</surname>
+<given-names>Specht SC</given-names></string-name>, <string-name><surname>Herzenberg</surname>
+<given-names>JE</given-names></string-name> (<year>2015</year>) <article-title>Patient satisfaction after limb lengthening with internal and external devices</article-title>. <source>J Surg Orthop Adv</source>
+<volume>24</volume>(<issue>3</issue>), <fpage>174</fpage>–<lpage>179</lpage>.<pub-id pub-id-type="pmid">26688988</pub-id></mixed-citation>
+      </ref>
+      <ref id="R2">
+        <label>2</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Karakoyun</surname>
+<given-names>O</given-names></string-name>, <string-name><surname>Kucukkaya</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Erol</surname>
+<given-names>MF</given-names></string-name> (<year>2015</year>) <article-title>Does lengthening after acute correction negatively affect bone healing during distraction osteogenesis?</article-title>
+<source>Acta Orthop Traumatol Turc</source>
+<volume>49</volume>(<issue>4</issue>), <fpage>405</fpage>–<lpage>409</lpage>.<pub-id pub-id-type="pmid">26312468</pub-id></mixed-citation>
+      </ref>
+      <ref id="R3">
+        <label>3</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Horn</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Grimsrud</surname>
+<given-names>O</given-names></string-name>, <string-name><surname>Dagsgard</surname>
+<given-names>A</given-names></string-name>, <etal>et al.</etal> (<year>2015</year>) <article-title>Femoral lengthening with a motorized intramedullary nail</article-title>. <source>Acta Orthop</source>
+<volume>86</volume>(<issue>2</issue>), <fpage>248</fpage>–<lpage>256</lpage>.<pub-id pub-id-type="pmid">25191936</pub-id></mixed-citation>
+      </ref>
+      <ref id="R4">
+        <label>4</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Burghardt</surname>
+<given-names>RD</given-names></string-name>, <string-name><surname>Paley</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Specht</surname>
+<given-names>SC</given-names></string-name>, <string-name><surname>Herzenberg</surname>
+<given-names>JE</given-names></string-name> (<year>2012</year>) <article-title>The effect on mechanical axis deviation of femoral lengthening with an intramedullary telescopic nail</article-title>. <source>J Bone Joint Surg Br</source>
+<volume>94</volume>(<issue>9</issue>), <fpage>1241</fpage>–<lpage>1245</lpage>.<pub-id pub-id-type="pmid">22933497</pub-id></mixed-citation>
+      </ref>
+      <ref id="R5">
+        <label>5</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Baumgart</surname>
+<given-names>R</given-names></string-name> (<year>2009</year>) <article-title>The reverse planning method for lengthening of the lower limb using a straight intramedullary nail with or without deformity correction. A new method</article-title>. <source>Oper Orthop Traumatol</source>
+<volume>21</volume>(<issue>2</issue>), <fpage>221</fpage>–<lpage>233</lpage>.<pub-id pub-id-type="pmid">19685230</pub-id></mixed-citation>
+      </ref>
+      <ref id="R6">
+        <label>6</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Baumgart</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Betz</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Schweiberer</surname>
+<given-names>L</given-names></string-name> (<year>1997</year>) <article-title>A fully implantable motorized intramedullary nail for limb lengthening and bone transport</article-title>. <source>Clin Orthop</source>
+<volume>343</volume>, <fpage>135</fpage>–<lpage>143</lpage>.</mixed-citation>
+      </ref>
+      <ref id="R7">
+        <label>7</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Accadbled</surname>
+<given-names>F</given-names></string-name>, <string-name><surname>Pailhé</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Cavaignac</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Sales de Gauzy</surname>
+<given-names>J</given-names></string-name> (<year>2016</year>) <article-title>Bone lengthening using the Fitbone(®) motorized intramedullary nail: the first experience in France</article-title>. <source>Orthop Traumatol Surg Res</source>
+<volume>102</volume>(<issue>2</issue>), <fpage>217</fpage>–<lpage>222</lpage>.<pub-id pub-id-type="pmid">26874445</pub-id></mixed-citation>
+      </ref>
+      <ref id="R8">
+        <label>8</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Fragomen</surname>
+<given-names>AT</given-names></string-name>, <string-name><surname>Rozbruch</surname>
+<given-names>SR</given-names></string-name> (<year>2016</year>) <article-title>Lengthening of the femur with a remote controlled magnetic intramedullary nail: Retrograde technique</article-title>. <source>JBJS Essent Surg Tech</source>
+<volume>6</volume>(<issue>2</issue>), <fpage>e20</fpage>.</mixed-citation>
+      </ref>
+      <ref id="R9">
+        <label>9</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Al-Sayyad</surname>
+<given-names>MJ</given-names></string-name> (<year>2012</year>) <article-title>Lower limb lengthening and deformity correction using the Fitbone motorized nail system in the adolescent patient</article-title>. <source>J Pediatr Orthop B</source>
+<volume>21</volume>(<issue>2</issue>), <fpage>131</fpage>–<lpage>136</lpage>.<pub-id pub-id-type="pmid">22301429</pub-id></mixed-citation>
+      </ref>
+      <ref id="R10">
+        <label>10</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Dinçyürek</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Kocaoğlu</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Eralp</surname>
+<given-names>IL</given-names></string-name>, <string-name><surname>Bilen</surname>
+<given-names>FE</given-names></string-name>, <string-name><surname>Dikmen</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Eren</surname>
+<given-names>I</given-names></string-name> (<year>2012</year>) <article-title>Functional results of lower extremity lengthening by motorized intramedullary nails</article-title>. <source>Acta Orthop Traumatol Turc</source>
+<volume>46</volume>(<issue>1</issue>), <fpage>42</fpage>–<lpage>49</lpage>.<pub-id pub-id-type="pmid">22441451</pub-id></mixed-citation>
+      </ref>
+      <ref id="R11">
+        <label>11</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Krieg</surname>
+<given-names>AH</given-names></string-name>, <string-name><surname>Lenze</surname>
+<given-names>U</given-names></string-name>, <string-name><surname>Speth</surname>
+<given-names>BM</given-names></string-name>, <string-name><surname>Hasler</surname>
+<given-names>CC</given-names></string-name> (<year>2011</year>) <article-title>Intramedullary leg lengthening with a motorized nail</article-title>. <source>Acta Orthop</source>
+<volume>82</volume>(<issue>3</issue>), <fpage>344</fpage>–<lpage>350</lpage>.<pub-id pub-id-type="pmid">21561309</pub-id></mixed-citation>
+      </ref>
+      <ref id="R12">
+        <label>12</label>
+        <mixed-citation publication-type="confproc">
+<string-name><surname>Iobst</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Rozbruch</surname>
+<given-names>SR</given-names></string-name>, <string-name><surname>Nelson</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Fragomen</surname>
+<given-names>AT</given-names></string-name> (<year>2016</year>) <article-title>Simultaneous acute femoral deformity correction and gradual limb lengthening using the retrograde precice femoral nail: technique and clinical results</article-title>. <conf-name>Presented at the 25th Annual Scientific Meeting of the Limb Lengthening and Reconstruction Society: ASAMI North America</conf-name>, <conf-loc>Charleston, SC</conf-loc>, <conf-date>July 23</conf-date>.</mixed-citation>
+      </ref>
+      <ref id="R13">
+        <label>13</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Kirane</surname>
+<given-names>YM</given-names></string-name>, <string-name><surname>Fragomen</surname>
+<given-names>AT</given-names></string-name>, <string-name><surname>Rozbruch</surname>
+<given-names>SR</given-names></string-name> (<year>2014</year>) <article-title>Precision of the Precice internal bone lengthening nail</article-title>. <source>Clin Orthop Relat Res</source>, <volume>472</volume>(<issue>12</issue>), <fpage>3869</fpage>–<lpage>3878</lpage>.<pub-id pub-id-type="pmid">24682741</pub-id></mixed-citation>
+      </ref>
+      <ref id="R14">
+        <label>14</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Singh</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Lahiri</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Igbal</surname>
+<given-names>M</given-names></string-name> (<year>2006</year>) <article-title>The results of limb lengthening by callus distraction using an extending intramedullary nail (Fitbone) in non-traumatic disorders</article-title>. <source>J Bone Joint Surg Br</source>
+<volume>88</volume>(<issue>7</issue>), <fpage>938</fpage>–<lpage>942</lpage>.<pub-id pub-id-type="pmid">16799000</pub-id></mixed-citation>
+      </ref>
+      <ref id="R15">
+        <label>15</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Schiedel</surname>
+<given-names>FM</given-names></string-name>, <string-name><surname>Vogt</surname>
+<given-names>B</given-names></string-name>, <string-name><surname>Schuhknecht</surname>
+<given-names>B</given-names></string-name>, <etal>et al.</etal> (<year>2014</year>) <article-title>How precise is the Precice comparted to the ISKD in intramedullary limb lengthening? Reliability and safety in 26 procedures</article-title>. <source>Acta Orthop</source>
+<volume>85</volume>(<issue>3</issue>), <fpage>293</fpage>–<lpage>298</lpage>.<pub-id pub-id-type="pmid">24758320</pub-id></mixed-citation>
+      </ref>
+      <ref id="R16">
+        <label>16</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Kucukkaya</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Karakoyun</surname>
+<given-names>O</given-names></string-name>, <string-name><surname>Sokucu</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Soydan</surname>
+<given-names>R</given-names></string-name> (<year>2015</year>) <article-title>Femoral lengthening a deformity correction using the Fitbone motorized lengthening nail</article-title>. <source>J Orthop Sci</source>
+<volume>20</volume>(<issue>1</issue>), <fpage>149</fpage>–<lpage>154</lpage>.<pub-id pub-id-type="pmid">25326815</pub-id></mixed-citation>
+      </ref>
+      <ref id="R17">
+        <label>17</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Rozbruch</surname>
+<given-names>SR</given-names></string-name>, <string-name><surname>Birch</surname>
+<given-names>JG</given-names></string-name>, <string-name><surname>Dahl</surname>
+<given-names>MT</given-names></string-name>, <string-name><surname>Herzenberg</surname>
+<given-names>JE</given-names></string-name> (<year>2014</year>) <article-title>Motorized intramedullary nail for management of limb length discrepancy and deformity</article-title>. <source>L Am Acad Orthop Surg</source>
+<volume>22</volume>(<issue>7</issue>), <fpage>403</fpage>–<lpage>409</lpage>.</mixed-citation>
+      </ref>
+      <ref id="R18">
+        <label>18</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Tiefenboeck</surname>
+<given-names>TM</given-names></string-name>, <string-name><surname>Zak</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Bukaty</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Wozasek</surname>
+<given-names>GE</given-names></string-name> (<year>2016</year>) <article-title>Pitfalls in automatic limb lengthening – first results with an intramedullary lengthening device</article-title>. <source>Orthop Traumatol Surg Res</source>
+<volume>102</volume>, <fpage>851</fpage>–<lpage>855</lpage>.<pub-id pub-id-type="pmid">27527249</pub-id></mixed-citation>
+      </ref>
+      <ref id="R19">
+        <label>19</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Kay</surname>
+<given-names>RM</given-names></string-name>, <string-name><surname>Leathers</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Directo</surname>
+<given-names>MP</given-names></string-name>, <string-name><surname>Myung</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Skaggs</surname>
+<given-names>DL</given-names></string-name> (<year>2011</year>) <article-title>Perioperative ketorolac use in children undergoing lower extremity osteotomies</article-title>. <source>J Pediatr Orthop</source>
+<volume>31</volume>(<issue>7</issue>), <fpage>783</fpage>–<lpage>786</lpage>.<pub-id pub-id-type="pmid">21926877</pub-id></mixed-citation>
+      </ref>
+      <ref id="R20">
+        <label>20</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Dodwell</surname>
+<given-names>ER</given-names></string-name>, <string-name><surname>Latorre</surname>
+<given-names>JG</given-names></string-name>, <string-name><surname>Parisini</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Zwettler</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Chandra</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Mulpuri</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Snyder</surname>
+<given-names>B</given-names></string-name> (<year>2010</year>) <article-title>NSAID exposure and risk of nonunion: a meta-anaylsis of case-control and cohort studies</article-title>. <source>Calcif Tissue Int</source>
+<volume>87</volume>(<issue>3</issue>), <fpage>193</fpage>–<lpage>202</lpage>.<pub-id pub-id-type="pmid">20552333</pub-id></mixed-citation>
+      </ref>
+      <ref id="R21">
+        <label>21</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Chrastil</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Sampson</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Jones</surname>
+<given-names>KB</given-names></string-name>, <string-name><surname>Higgins</surname>
+<given-names>TF</given-names></string-name> (<year>2013</year>) <article-title>Postoperative opioid administration inhibits bone healing in an animal model</article-title>. <source>Clin Orthop Relat Res</source>
+<volume>471</volume>(<issue>12</issue>), <fpage>4076</fpage>–<lpage>4081</lpage>.<pub-id pub-id-type="pmid">23955193</pub-id></mixed-citation>
+      </ref>
+      <ref id="R22">
+        <label>22</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Kucukkaya</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Karakoyun</surname>
+<given-names>O</given-names></string-name>, <string-name><surname>Erol</surname>
+<given-names>MF</given-names></string-name> (<year>2016</year>) <article-title>The importance of reaming the posterior femoral cortex before inserting lengthening nails calculation of the amount of reaming</article-title>. <source>J Orthop Surg Res</source>
+<volume>11</volume>, <fpage>11</fpage>.<pub-id pub-id-type="pmid">26772540</pub-id></mixed-citation>
+      </ref>
+      <ref id="R23">
+        <label>23</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Sanders</surname>
+<given-names>RW</given-names></string-name>, <string-name><surname>DiPasquale</surname>
+<given-names>TG</given-names></string-name>, <string-name><surname>Jordan</surname>
+<given-names>CJ</given-names></string-name>, <string-name><surname>Arrington</surname>
+<given-names>JA</given-names></string-name>, <string-name><surname>Sagi</surname>
+<given-names>HC</given-names></string-name> (<year>2014</year>) <article-title>Semiextended intramedullary nailing of the tibia using a suprapatellar approach: radiographic results and clinical outcomes at a minimum of 12 months follow up</article-title>. <source>J Orthop Trauma</source>
+<volume>28</volume>(<issue>Suppl 8</issue>), <fpage>S29</fpage>–<lpage>S39</lpage>.</mixed-citation>
+      </ref>
+      <ref id="R24">
+        <label>24</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Simpson</surname>
+<given-names>AH</given-names></string-name>, <string-name><surname>Halliday</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Hamilton</surname>
+<given-names>DF</given-names></string-name>, <etal>et al.</etal> (<year>2013</year>) <article-title>Limb lengthening and peripheral nerve function – factors associated with deterioration of conduction</article-title>. <source>Acta Orthop</source>
+<volume>84</volume>(<issue>6</issue>), <fpage>579</fpage>–<lpage>584</lpage>.<pub-id pub-id-type="pmid">24171677</pub-id></mixed-citation>
+      </ref>
+      <ref id="R25">
+        <label>25</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Nogueira</surname>
+<given-names>MP</given-names></string-name>, <string-name><surname>Paley</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Bhave</surname>
+<given-names>A</given-names></string-name>, <etal>et al.</etal> (<year>2003</year>) <article-title>Nerve lesions associated with limb lengthening</article-title>. <source>J Bone Joint Surg Am</source>
+<volume>85-A</volume>(<issue>8</issue>), <fpage>1502</fpage>–<lpage>1510</lpage>.<pub-id pub-id-type="pmid">12925630</pub-id></mixed-citation>
+      </ref>
+      <ref id="R26">
+        <label>26</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Galardi</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Comi</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Lozza</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Marchettini</surname>
+<given-names>P</given-names></string-name>, <string-name><surname>Novarino</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Facchini</surname>
+<given-names>R</given-names></string-name> (<year>1990</year>) <article-title>Peripheral nerve damage during limb lengthening. Neurophysiology in five cases of bilateral tibial lengthening</article-title>. <source>J Bone Joint Surg (Br)</source>
+<volume>72</volume>(<issue>1</issue>), <fpage>121</fpage>–<lpage>124</lpage>.<pub-id pub-id-type="pmid">2298769</pub-id></mixed-citation>
+      </ref>
+      <ref id="R27">
+        <label>27</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Simpson</surname>
+<given-names>AH</given-names></string-name>, <string-name><surname>Halliday</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Hamilton</surname>
+<given-names>DF</given-names></string-name>, <string-name><surname>Smith</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Mills</surname>
+<given-names>K</given-names></string-name> (<year>2013</year>) <article-title>Limb lengthening and peripheral nerve function-factors associated with deterioration of conduction</article-title>. <source>Acta Orthop</source>
+<volume>84</volume>(<issue>6</issue>), <fpage>579</fpage>–<lpage>584</lpage>.<pub-id pub-id-type="pmid">24171677</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+    <notes>
+      <boxed-text position="float" orientation="portrait">
+        <p>
+<bold>Cite this article as:</bold> Fragomen AT &amp; Rozbruch SR (2017) Lengthening and deformity correction about the knee using a magnetic internal lengthening nail. SICOT J, <bold>3</bold>, 25</p>
+      </boxed-text>
+    </notes>
+  </back>
+</article>
+
+</metadata></record>

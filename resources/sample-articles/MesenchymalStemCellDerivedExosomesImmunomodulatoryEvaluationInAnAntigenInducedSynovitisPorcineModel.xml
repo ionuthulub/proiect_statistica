@@ -1,0 +1,839 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5359696</identifier><datestamp>2017-04-04</datestamp><setSpec>fvets</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Vet Sci</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Vet Sci</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Vet. Sci.</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Veterinary Science</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2297-1769</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5359696</article-id>
+      <article-id pub-id-type="pmcid">PMC5359696</article-id>
+      <article-id pub-id-type="pmc-uid">5359696</article-id>
+      <article-id pub-id-type="doi">10.3389/fvets.2017.00039</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Veterinary Science</subject>
+          <subj-group>
+            <subject>Original Research</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Mesenchymal Stem Cell-Derived Exosomes: Immunomodulatory Evaluation in an Antigen-Induced Synovitis Porcine Model</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Casado</surname>
+            <given-names>Javier G.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://frontiersin.org/people/u/84942"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Blázquez</surname>
+            <given-names>Rebeca</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">*</xref>
+          <uri xlink:type="simple" xlink:href="http://frontiersin.org/people/u/191128"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Vela</surname>
+            <given-names>Francisco Javier</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://frontiersin.org/people/u/379900"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Álvarez</surname>
+            <given-names>Verónica</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://frontiersin.org/people/u/191125"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tarazona</surname>
+            <given-names>Raquel</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://frontiersin.org/people/u/169130"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sánchez-Margallo</surname>
+            <given-names>Francisco Miguel</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://frontiersin.org/people/u/56922"/>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1"><sup>1</sup><institution>Stem Cell Therapy Unit, “Jesús Usón” Minimally Invasive Surgery Centre</institution>, <addr-line>Cáceres</addr-line>, <country>Spain</country></aff>
+      <aff id="aff2"><sup>2</sup><institution>Immunology Unit, Department of Physiology, University of Extremadura</institution>, <addr-line>Cáceres</addr-line>, <country>Spain</country></aff>
+      <aff id="aff3"><sup>3</sup><institution>CIBER de Enfermedades Cardiovasculares</institution>, <addr-line>Cáceres</addr-line>, <country>Spain</country></aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <p>Edited by: Fausto Cremonesi, University of Milan, Italy</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Reviewed by: Anna Lange-Consiglio, University of Milan, Italy; Lauren Virginia Schnabel, North Carolina State University, USA; Ali Mobasheri, University of Surrey, UK</p>
+        </fn>
+        <corresp content-type="corresp" id="cor1">*Correspondence: Rebeca Blázquez, <email>rblazquez@ccmijesususon.com</email></corresp>
+        <fn fn-type="other" id="fn002">
+          <p>Specialty section: This article was submitted to Veterinary Regenerative Medicine, a section of the journal Frontiers in Veterinary Science</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>3</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2017</year>
+      </pub-date>
+      <volume>4</volume>
+      <elocation-id>39</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>02</day>
+          <month>12</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>06</day>
+          <month>3</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2017 Casado, Blázquez, Vela, Álvarez, Tarazona and Sánchez-Margallo.</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <copyright-holder>Casado, Blázquez, Vela, Álvarez, Tarazona and Sánchez-Margallo</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Synovitis is an inflammatory process associated with pain, disability, and discomfort, which is usually treated with anti-inflammatory drugs or biological agents. Mesenchymal stem cells (MSCs) have been also successfully used in the treatment of inflammatory-related diseases such as synovitis or arthritis. In the last years, the exosomes derived from MSCs have become a promising tool for the treatment of inflammatory-related diseases and their therapeutic effect is thought to be mediated (at least in part) by their immunomodulatory potential. In this work, we aimed to evaluate the anti-inflammatory effect of these exosomes in an antigen-induced synovitis animal model. To our knowledge, this is the first report where exosomes derived from MSCs have been evaluated in an animal model of synovitis. Our results demonstrated a decrease of synovial lymphocytes together with a downregulation of TNF-α transcripts in those exosome-treated joints. These results support the immunomodulatory effect of these exosomes and point out that they may represent a promising therapeutic option for the treatment of synovitis.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>exosomes</kwd>
+        <kwd>mesenchymal stem cells</kwd>
+        <kwd>synovitis</kwd>
+        <kwd>immunomodulation</kwd>
+        <kwd>inflammation</kwd>
+      </kwd-group>
+      <counts>
+        <fig-count count="4"/>
+        <table-count count="2"/>
+        <equation-count count="0"/>
+        <ref-count count="73"/>
+        <page-count count="10"/>
+        <word-count count="7727"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="introduction" id="S1">
+      <title>Introduction</title>
+      <p>Osteoarticular disorders are the major cause of disability in western countries causing pain, discomfort, disability, and affecting the quality of life of millions of people. Osteoarticular disorders are usually linked to joint inflammation and accompanied by redness, swelling, and pain. This local inflammation is provoked by different causes such as trauma, injuries, microorganism infections, or autoimmune disorders such as rheumatoid arthritis. The inflammation of the synovium around a joint, also called synovitis, is frequently observed in the early phase of osteoarthritis (<xref rid="B1" ref-type="bibr">1</xref>) and in clinically active rheumatoid arthritis patients (<xref rid="B2" ref-type="bibr">2</xref>). One of the consequences of persistent synovitis is the cartilage matrix degradation (<xref rid="B3" ref-type="bibr">3</xref>, <xref rid="B4" ref-type="bibr">4</xref>) and alterations in chondrocyte function. Moreover, synovitis causes hypoxia and acidity in synovial fluid (SF) and subchondral bone (<xref rid="B5" ref-type="bibr">5</xref>) and enhances angiogenesis (<xref rid="B6" ref-type="bibr">6</xref>).</p>
+      <p>The treatments to reduce pain and swelling for transient synovitis includes anti-inflammatory agents such as non-steroidal anti-inflammatory drugs (NSAIDs) and/or corticosteroids (<xref rid="B7" ref-type="bibr">7</xref>). Non-pharmacological treatments such as hip aspiration (<xref rid="B8" ref-type="bibr">8</xref>) as well as rest, ice, compression, and elevation are extremely helpful and effective in the treatment of synovitis (<xref rid="B9" ref-type="bibr">9</xref>). Additionally, intrasynovial injections of biologically based therapies such as platelet-rich plasma (<xref rid="B10" ref-type="bibr">10</xref>) and autologous conditioned serum (<xref rid="B11" ref-type="bibr">11</xref>) have been found to be very effective.</p>
+      <p>Local or systemic administration of mesenchymal stem cell (MSC)-based therapies has recently emerged as a promising therapeutic approach for the treatment of inflammatory-related diseases (<xref rid="B12" ref-type="bibr">12</xref>). These cells have an immunomodulatory potential on cells of both the innate and adaptive immune system and recent clinical trials have demonstrated very promising results for the treatment of osteoarticular diseases (<xref rid="B13" ref-type="bibr">13</xref>, <xref rid="B14" ref-type="bibr">14</xref>). In the case of synovitis, the therapeutic use of MSCs has also been evaluated in veterinary medicine, specifically in horses with intra-articular injections of xenogeneic, allogeneic, and autologous MSCs (<xref rid="B15" ref-type="bibr">15</xref>). Moreover, in a recent randomized and blinded study using a LPS-induced synovitis model, equine allogeneic umbilical cord blood-derived mesenchymal stromal cells could reduce the nucleated cell counts in SF (<xref rid="B16" ref-type="bibr">16</xref>).</p>
+      <p>Accumulative evidences have established that the effect of MSC transplantation is thought to be mediated, in part, by a paracrine effect. In this sense, the use of exosomes derived from MSCs (hereinafter referred exo-MSCs) has become a promising tool for the treatment of inflammatory-related diseases (<xref rid="B17" ref-type="bibr">17</xref>–<xref rid="B19" ref-type="bibr">19</xref>).</p>
+      <p>Exosomes are small membranous vesicles secreted by most cell types. These vesicles participate in cell–cell communication and their content consists on RNA, lipids, and proteins. Some of these proteins (i.e., CD9, CD63, or CD81) are ubiquitously expressed, but depending on the cell source, cell type-specific proteins can be found being responsible of their functionality (<xref rid="B20" ref-type="bibr">20</xref>). The proteins, lipids, and RNA expression of exosomes from different cells and organisms are extensively described in ExoCarta database (<xref rid="B21" ref-type="bibr">21</xref>). Previous studies from our group have reported that exo-MSCs exerted an immunomodulatory potential against <italic>in vitro</italic> activated T cells (<xref rid="B22" ref-type="bibr">22</xref>). Additionally, several evidences have shown that exo-MSCs could play active roles in promoting angiogenesis (<xref rid="B23" ref-type="bibr">23</xref>), antiapoptotic effect (<xref rid="B24" ref-type="bibr">24</xref>, <xref rid="B25" ref-type="bibr">25</xref>) as well as in cell proliferation (<xref rid="B26" ref-type="bibr">26</xref>).</p>
+      <p>In the last years, the therapeutic potential of exo-MSCs has been demonstrated in disease-specific animal models. Very promising results have been obtained in small animal models for the treatment of cardiovascular diseases where exo-MSCs showed a reduction of myocardial ischemia/reperfusion injury (<xref rid="B27" ref-type="bibr">27</xref>). In renal fibrosis, where the microRNA-let7c secreted by the exosomes attenuated renal fibrosis (<xref rid="B28" ref-type="bibr">28</xref>). In wound healing, where released exosomes promoted angiogenesis (<xref rid="B29" ref-type="bibr">29</xref>). In necrotizing enterocolitis, where exosomes from bone marrow-derived stem cells protected the intestines (<xref rid="B30" ref-type="bibr">30</xref>). In acute lung injury, where the exosomes maintain the functional phenotype of the parent cell (<xref rid="B31" ref-type="bibr">31</xref>). In postischemic neurological impairment, where extracellular vesicles induce long-term neuroprotection, neuroregeneration, and neurological recovery (<xref rid="B32" ref-type="bibr">32</xref>). Finally, it is important to note that, although the therapeutic effect of exo-MSCs has been widely studied in small animals, only a few studies have evaluated their therapeutic effect in large animal models (<xref rid="B33" ref-type="bibr">33</xref>, <xref rid="B34" ref-type="bibr">34</xref>).</p>
+      <p>In summary, although the therapeutic effect of MSCs in osteoarticular diseases is widely accepted, the hypothetical beneficial effect of exo-MSCs in joint inflammation has not been evaluated. This paper aimed to evaluate the immunomodulatory effect of exo-MSCs in a clinically relevant animal model of antigen-induced synovitis. The analysis of leukocytes, lymphocytes, and inflammatory cytokines in SF revealed a potential therapeutic effect of exo-MSCs in the setting of inflammatory and osteoarticular disorders.</p>
+    </sec>
+    <sec sec-type="materials|methods" id="S2">
+      <title>Materials and Methods</title>
+      <sec id="S2-1">
+        <title>Animals and Ethical Issues</title>
+        <p>Eight large white pigs were housed in the animal facility at the Minimally Invasive Surgery Center and used for all experimental procedures. Animals aged 3 months and weighed 25–35 kg at the beginning of the study were used. All experimental protocols were approved by the Committee on the Ethics of Animal Experiments of Minimally Invasive Surgery Center and fully complied with recommendations outlined by the local government (Junta de Extremadura) and by the Directive 2010/63/EU of the European Parliament on the protection of animals used for scientific purposes.</p>
+      </sec>
+      <sec id="S2-2">
+        <title>Immunization Protocol and Antigen-Induced Synovitis</title>
+        <p>For animal immunizations, a solution with 20 mg/ml of BSA (Sigma-Aldrich, St. Louis, MO, USA) was prepared and passed through a 0.2-μm sterilized microfilter. An equal volume of Freund Complete Adjuvant (Sigma-Aldrich, St. Louis, MO, USA) was mixed with the BSA solution and emulsified. The immunization was performed by subcutaneous injections of this emulsion. A total of 0.4 ml/kg was injected on days 0, 14, and 21. On day 28, a total of 0.5 ml of SF was aspirated from carpal joints. Intra-articular injections of BSA (0.5 ml at 20 mg/ml) were bilaterally performed to induce an antigen-mediated immune response. The left carpal joints were used as control (BSA co-administered with PBS) and the right carpal joints were used for exosome-based treatments (BSA co-administered with exosomes). The exosomes were used at the concentration of 500 μg protein/injection in a total volume of 500 μl.</p>
+      </sec>
+      <sec id="S2-3">
+        <title>Anesthetics Procedures</title>
+        <p>Every procedure was performed under anesthesia. For blood sampling and subcutaneous BSA injections, anesthesia was induced by intramuscular injection of 10 mg/kg ketamine hydrochloride and 0.02 mg/kg dexmedetomidine hydrochloride. The animals were recovered with 0.02 mg/kg atipamezole hydrochloride. For SF sampling, anesthesia was induced by the same procedure together with an intravenous bolus injection of 2 mg/kg propofol and 3 mg/kg of tramadol. According to ethical and animal welfare concerns, all the animals received analgesic treatment with a solution of buprenorphine hydrochloride at 0.3 mg/ml and 0.03 ml/kg for 7 days after intra-articular injection.</p>
+      </sec>
+      <sec id="S2-4">
+        <title>Quantification of Anti-BSA Antibodies by ELISA</title>
+        <p>In order to quantify the anti-BSA IgG titers on immunized animals, an ELISA test was performed on plasma samples at days 0, 7, 14, 21, and 28. Microplate coating was performed by an overnight incubation with BSA at 20 μg/ml. The coating solution was washed twice with 200 μl of PBS/Tween-20 (0.05%, 7.4 pH). In order to prevent the non-specific binding of the antibodies, the remaining protein-binding sites were blocked by adding 200 μl of BSA and incubated at 4°C for 2 h. The microplate was washed four times with 200 μl PBS/Tween-20. Plasma samples were diluted 1:200 with PBS and 100 μl of this dilution was added to each well. The plate was incubated at 4°C for 2 h. After washing four times with PBS/Tween-20, 100 μl of 1/5,000 diluted horseradish peroxidase-conjugated secondary antibody (Rabbit Anti-Pig IgG, Thermo Fisher Scientific, Waltham, MA, USA) was added to each well and the plate was incubated at 4°C for 2 h. Finally, the plate was washed four times and 100 μl of 3,3′,5,5′-Tetramethylbenzidine (Sigma-Aldrich) was added to each well. Then, 2 min later, 100 μl of 1M HCl was added to stop the reaction. Absorbance was measured at 450 nm on a Synergy Mx spectrophotometer (BioTech Industries, Newton, NC, USA) and quantified related to the baseline.</p>
+      </sec>
+      <sec id="S2-5">
+        <title>Isolation and Expansion of Porcine Bone Marrow-Derived MSCs</title>
+        <p>Bone marrow-derived MSCs were harvested from the iliac crest from anesthetized large white pigs. The mononuclear cells were isolated by centrifugation over Histopaque-1077 (Sigma, St. Louis, MO, USA). Mononuclear cells were recovered and washed twice with PBS. Finally, mononuclear cells were re-suspended in DMEM containing 10% FBS (Sigma), 5 μl/ml fungizone, and 1% Penicillin/streptomycin (Lonza BioWhittaker™, Basel, Switzerland). Cells were seeded onto tissue culture flasks and expanded at 37°C and 5% CO<sub>2</sub>. Following 48 h of culture, the non-adherent cells were removed. Adhered cells were passaged at 80–90% confluence by trypsinization (0.25% trypsin solution) and seeded to a new culture at a density of 5,000 cells/cm<sup>2</sup>. Culture medium was changed every 3–4 days.</p>
+        <p>The porcine MSCs were phenotypically and functionally characterized by flow cytometry and <italic>in vitro</italic> differentiation assays. Cells were positive for CD29, CD44, CD90, CD105, and SLA-I and negative for CD45 and SLA-II. They also showed their ability to differentiate toward adipogenic, osteogenic, and chondrogenic lineages (<xref rid="B35" ref-type="bibr">35</xref>).</p>
+      </sec>
+      <sec id="S2-6">
+        <title>Isolation, Purification, and Characterization of MSC-Derived Exosomes</title>
+        <p>The MSCs-derived exosomes (exo-MSCs) were obtained from porcine bone marrow-derived MSCs cultured in 175 cm<sup>2</sup> flasks. When cells reached a confluence of 80%, culture medium (DMEM containing 10% FBS) was replaced by exosome isolation medium (DMEM containing 1% insulin-transferrin-selenium). The supernatants were collected every 3–4 days. To eliminate dead cells and debris, the supernatants were centrifuged at 1,000 × <italic>g</italic> for 10 min and 5,000 × <italic>g</italic> for 20 min at 4°C. About 15 ml of these supernatants were ultra-filtered through 3 kDa MWCO Amicon<sup>®</sup> Ultra devices (Merck-Millipore, MA, USA). Samples were spun at 4,000 × <italic>g</italic> for 60 min and 200–300 μl of concentrated supernatant was collected and stored at −20°C. Prior to <italic>in vivo</italic> experiments, the proteins were quantified by Bradford assays, a very common method to indirectly quantify exosomes (<xref rid="B36" ref-type="bibr">36</xref>–<xref rid="B39" ref-type="bibr">39</xref>). The concentration and size of the particles were measured by nanoparticle tracking analysis (NanoSight Ltd., Amesbury, UK) that relates the rate of Brownian motion to particle size. Results were analyzed using the software package version 2.2. Triplicate samples were diluted 1:10 in sterile-filtered PBS and analyzed. The mean size of isolated vesicles ranged from 150 to 200 nm (Figure <xref ref-type="supplementary-material" rid="SM1">S1</xref>A in Supplementary Material).</p>
+        <p>For flow cytometric analysis by fluorescent activated cells sorting, exosomes were conjugated with latex beads as previously described (<xref rid="B40" ref-type="bibr">40</xref>). Briefly, 5 μg of exosomes were incubated with 10 μl of latex beads 15 min at room temperature. After, PBS was added to a final volume of 1 ml and samples were incubated overnight at 4°C. Finally, 110 μl of 1M glycine were added to each tube. After 30 min of incubation, samples were centrifuged, washed, and re-suspended in a final volume of 0.5 ml PBS/0.5% BSA. These exosomes-coated beads were incubated for 1 h at room temperature with appropriate concentrations of monoclonal antibodies (mAbs) in the presence of PBS containing 0.5% BSA. The exosomes-coated beads were stained with FITC-conjugated human mAbs against CD44 and CD90 (porcine cross-reactive) from Serotec (Kidlington, UK). After incubation with antibodies, the exosomes-coated beads were washed and re-suspended in PBS/0.5% BSA. The flow cytometric analysis was performed on a FACScalibur cytometer (BD Biosciences, San Jose, CA, USA) after acquisition of 10<sup>5</sup> events. Exosomes-coated beads were primarily selected using forward and side scatter characteristics and fluorescence was analyzed using CellQuest software (BD Biosciences). Isotype-matched negative control antibodies were used in all the experiments. Exo-MSCs showed a positive expression for both markers (Figure <xref ref-type="supplementary-material" rid="SM1">S1</xref>B in Supplementary Material).</p>
+        <p>Exo-MSCs were slowly thawed prior to allogeneic intra-articular injections and used at the concentration of 500 μg protein/injection in a total volume of 500 μl. The exo-MSCs doses were chosen by extrapolating from our previous <italic>in vitro</italic> results (<xref rid="B22" ref-type="bibr">22</xref>).</p>
+      </sec>
+      <sec id="S2-7">
+        <title>Hematological Analysis and Phenotypic Characterization of SF Lymphocytes</title>
+        <p>Synovial leukocytes were isolated from carpal joints just before intra-articular injections (at day 28) and 7 days after intra-articular injections (at day 35). A total of 0.5 ml of SF was aspirated and leukocytes were counted in an automatic hematology analyzer (Mindray BC-5300 Vet, Hamburg, Germany). The leukocytes were then isolated by centrifugation at 900 × <italic>g</italic> for 5 min and used for flow cytometry analysis or quantitative RT-PCR.</p>
+        <p>For flow cytometry, synovial leukocytes were stained with fluorescent-labeled mAbs against porcine CD3, CD4, CD8α, and CD16 (AbD Serotec, Kidlington, UK). The cytometric analysis was performed as follows: 2 × 10<sup>5</sup> cells were incubated for 30 min at 4°C with appropriate concentrations of mAbs. The cells were washed and re-suspended in PBS. The flow cytometric analysis was performed in a FACScalibur cytometer (BD Biosciences) after acquisition of 10<sup>5</sup> events. Cells were primarily selected using forward and side scatter characteristics and fluorescence was analyzed using CellQuest software (BD Biosciences, San Jose, CA, USA). Isotype-matched negative control antibodies were used in all the experiments.</p>
+      </sec>
+      <sec id="S2-8">
+        <title>Quantitative RT-PCR</title>
+        <p>Total RNA was isolated from SF samples. The cDNA was synthesized from 1 μg of total RNA in a reverse transcription reaction for 1 h at 37°C using Superscript III reverse transcriptase (Thermo Fisher Scientific, Waltham, MA, USA). The sequences of the PCR primers were designed with the NCBI Primer-BLAST tool (<uri xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/tools/primerblast/">www.ncbi.nlm.nih.gov/tools/primer-blast/</uri>). The primers used for gene expression studies in the porcine model are detailed in Table <xref ref-type="table" rid="T1">1</xref>.</p>
+        <table-wrap id="T1" position="float">
+          <label>Table 1</label>
+          <caption>
+            <p><bold>Sequences for the primers used in the quantitative qRT-PCR</bold>.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">Gene</th>
+                <th valign="top" align="left" rowspan="1" colspan="1">Primers sequences</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="top" rowspan="2" colspan="1">IL-1β</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">5′-GCACCTCTCAAGCAGAACAAAA-3′</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">5′-CCTCTGGGTATGGCTTTCCTT-3′</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="2" colspan="1">IL-4</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">5′-GTCTGCTTACTGGCATGTACCA-3′</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">5′-GCTCCATGCACGAGTTCTTTCT-3′</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="2" colspan="1">IL-6</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">5′-CCCCTAACCCCACCACAAAT-3′</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">5′-AAGGCTGCGCAGGATGAG-3′</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="2" colspan="1">IL-8</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">5′-GCCAACACAACTTCAATCAAATCTA-3′</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">5′-TGGGCATCCTGTGATTTCTCT-3′</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="2" colspan="1">IL-10</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">5′-CGGCGCTGTCATCAATTTCTG-3′</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">5′-CCCCTCTCTTGGAGCTTGCTA-3′</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="2" colspan="1">TNF-α</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">5′-TCCCCTGTCCATCCCTTTATT-3′</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">5′-CCAGCCCCTCATTCTCTTTCT-3′</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="2" colspan="1">TGF-β</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">5′-CCCAGAGTGGTTGTCCTTTGA-3′</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">5′-GCGGAGCGTGTTATCTTTGCT-3′</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="2" colspan="1">β-2 microglobulin</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">5′-ACTTTTCACACCGCTCCAGT-3′</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">5′-CGGATGGAACCCAGATACAT-3′</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>For transcriptional analysis, the RT-PCR products were quantified by the fluorescent method using the 2<sup>−ΔCt</sup> expression. To normalize gene expression, two constitutively expressed genes were included (β-actin and β-2 microglobulin) and the most stable one, which was β-2 microglobulin, was used as housekeeping.</p>
+      </sec>
+      <sec id="S2-9">
+        <title>Pressure Platform (PP) Gait Analysis</title>
+        <p>A 174.5 cm × 36.9 cm PP (Walkway™; Tekscan, South Boston, MA, USA), composed of individual sensors with a density of 1.4 sensor/cm<sup>2</sup> and 9,152 sensors in total, was used for the biomechanical evaluation. The sensors of the PP walkway were calibrated according to the manufacturer’s specifications. Also, 7 days after intra-articular injections of BSA co-administered with PBS or exosomes, different kinetic parameters such as stance time, swing time, stride time, vertical maximum force, and impulse were monitored in the animal model. Kinetic gait analysis was performed prior to experimental procedures, and all the measurements were normalized and considering the gain weight of individual pigs.</p>
+      </sec>
+      <sec id="S2-10">
+        <title>Statistical Analysis</title>
+        <p>Data were statistically analyzed using the Student’s <italic>t</italic>-test. The <italic>p</italic>-values ≤0.05 were considered statistically significant. All the statistical determinations were made using SPSS-21 software (SPSS, Chicago, IL, USA).</p>
+      </sec>
+    </sec>
+    <sec id="S3">
+      <title>Results</title>
+      <sec id="S3-1">
+        <title>Animal Model of Antigen-Induced Synovitis and Exosome-Based Therapy</title>
+        <p>An antigen-induced synovitis model was used to evaluate the therapeutic effect of exosome-based therapy. In our large animal model of synovitis, the BSA was intra-articularly injected to trigger an antigen-induced inflammation. The BSA was simultaneously co-administered with PBS or exo-MSCs. White blood cell (WBC) counts, differential cell counting, flow cytometry, gene expression of inflammatory cytokines, and kinetic parameters were evaluated at day 35. The immunization protocol and the monitoring of antigen-induced synovitis model are summarized in the Figure <xref ref-type="fig" rid="F1">1</xref>.</p>
+        <fig id="F1" position="float">
+          <label>Figure 1</label>
+          <caption>
+            <p><bold>Temporal scheme of the immunization protocol and monitoring</bold>. Subcutaneous BSA injections (black arrows), intra-articular injections of BSA or BSA co-administered with exo-mesenchymal stem cells (gray arrow), blood sampling (triangles), synovial fluid sampling (squares), and kinetic gait analysis (rhombus) are shown.</p>
+          </caption>
+          <graphic xlink:href="fvets-04-00039-g001"/>
+        </fig>
+        <p>Our results demonstrated that the BSA immunization protocol triggered a humoral response against BSA in this animal model, which is prerequisite to generate an antigen-induced synovitis. The anti-BSA IgG antibody titers were detected in all of the four animals and antibody concentrations significantly increased showing a maximum level at day 28 (Figure <xref ref-type="fig" rid="F2">2</xref>).</p>
+        <fig id="F2" position="float">
+          <label>Figure 2</label>
+          <caption>
+            <p><bold>Humoral response in the antigen-induced animal model of synovitis</bold>. Plasma samples were weekly collected and anti-BSA IgG levels were quantified by ELISA immunoassay. The lower boundary of the box indicates the 25th percentile and the upper boundary the 75th percentile. Bars above and below the box indicate the 90th and 10th percentiles. The line within the box marks the median (<italic>n</italic> = 4).</p>
+          </caption>
+          <graphic xlink:href="fvets-04-00039-g002"/>
+        </fig>
+      </sec>
+      <sec id="S3-2">
+        <title>SF Leukocytes and Differential Counts</title>
+        <p>On day 28, the BSA-immunized animals were anesthetized and a SF sample was aspirated to be used as basal reference for leukocyte counts. Once aspirated, the animals received an intra-articular injection of BSA to trigger a local inflammatory response. The BSA was co-administered with PBS (control joint) or with exo-MSCs. At day 7, after intra-articular injections, the SF from three animals was aspirated and analyzed by an automated hematological analyzer. As shown in Table <xref ref-type="table" rid="T2">2</xref>, those animals which received an intra-articular injection of BSA showed a significant increase in terms of WBC counts when compared to basal samples. However, no differences were found between those joints where BSA was co-administered with PBS and those where BSA was co-administered with exo-MSCs. Interestingly, the differential cell counting revealed a statistically significant decrease of lymphocytes when BSA stimulation was counteracted by exo-MSCs.</p>
+        <table-wrap id="T2" position="float">
+          <label>Table 2</label>
+          <caption>
+            <p><bold>White blood cell (WBC) counts, leukocyte distribution, and lymphocyte subsets on synovial fluids (SFs) from antigen-induced synovitis animal model</bold>.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="center" rowspan="1" colspan="1"/>
+                <th valign="top" align="center" rowspan="1" colspan="1"/>
+                <th valign="top" align="center" rowspan="1" colspan="1"/>
+                <th valign="top" align="center" rowspan="1" colspan="1">Basal</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">BSA</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">BSA + exo-mesenchymal stem cells (MSCs)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="top" rowspan="10" colspan="1">SF</td>
+                <td align="left" valign="top" rowspan="6" colspan="1">Leukocyte distribution</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">WBCs (×10<sup>3</sup>/μl)</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0.753 ± 1.123</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">
+                  <bold>2.348 ± 1.460<xref ref-type="table-fn" rid="tfn1"><sup>a</sup></xref></bold>
+                </td>
+                <td align="center" valign="top" rowspan="1" colspan="1">
+                  <bold>3.030 ± 2.360<xref ref-type="table-fn" rid="tfn1"><sup>a</sup></xref></bold>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Neutrophils (×10<sup>3</sup>/μl)</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">ND</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0.608 ± 0.076</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">1.776 ± 1.783</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Lymphocytes (×10<sup>3</sup>/μl)</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">ND</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">2.371 ± 0.370</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">
+                  <bold>0.992 ± 0.600<xref ref-type="table-fn" rid="tfn2"><sup>b</sup></xref></bold>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Monocytes (×10<sup>3</sup>/μl)</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">ND</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0.039 ± 0.067</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0.209 ± 0.182</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Eosinophils (×10<sup>3</sup>/μl)</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">ND</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0.202 ± 0.041</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0.287 ± 0.423</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">Basophils (×10<sup>3</sup>/μl)</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">ND</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0.150 ± 0.064</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0.049 ± 0.050</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="4" colspan="1">Fluorescent activated cells sorting analysis</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">CD4+ CD8α− T cells (×10<sup>3</sup>/μl)</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">ND</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0.171 ± 0.144</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0.114 ± 0.112</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">CD4− CD8α+ T cells (×10<sup>3</sup>/μl)</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">ND</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0.476 ± 0.390</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0.339 ± 0.291</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">CD16+/CD8α− cells (×10<sup>3</sup>/μl)</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">ND</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0.072 ± 0.045</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0.379 ± 0.565</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">CD16+/CD8α+ cells (×10<sup>3</sup>/μl)</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">ND</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0.151 ± 0.102</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0.140 ± 0.091</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p><italic>SF samples were collected at day 28 just before intra-articular injections (basal). The BSA (co-administered with PBS or exo-MSCs) was injected at day 28 and SFs were collected at day 35. Synovial leukocytes were analyzed by automated hematological analyzer (<italic>n</italic> = 3). To identify the lymphocyte subsets, SF lymphocytes were isolated and analyzed by flow cytometry. Values represent the mean ± SD</italic>.</p>
+            <p><italic>ND, non-detectable</italic>.</p>
+            <p><italic>Bold values indicate significant differences</italic>.</p>
+            <fn id="tfn1">
+              <p><italic><sup>a</sup>Statistically significant differences in a paired <italic>t</italic>-test when compared to basal level (<italic>p</italic> ≤ 0.05)</italic>.</p>
+            </fn>
+            <fn id="tfn2">
+              <p><italic><sup>b</sup>Statistically significant differences in a paired <italic>t</italic>-test when compared BSA and BSA + exo-MSCs (<italic>p</italic> ≤ 0.05)</italic>.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>Additionally, the SFs were centrifuged and synovial leukocytes were processed for flow cytometry analysis. The analysis of synovial lymphocytes was performed on CD4+/CD8α− T cells, CD4−/CD8α+ T cells, CD16+/CD8α− cells, and CD16+/CD8α+ cells. Our results did not show any significant difference when compared BSA co-administered with PBS and BSA co-administered with exo-MSCs (Table <xref ref-type="table" rid="T2">2</xref>).</p>
+      </sec>
+      <sec id="S3-3">
+        <title>Inflammatory Cytokines in SF</title>
+        <p>Once evaluated, the changes in the leukocyte counts as well as in the synovial lymphocytes, we aimed to evaluate the inflammatory environment by quantifying inflammatory cytokines by quantitative RT-PCR. Porcine-specific primers were designed to amplify IL-1β, IL-4, IL-6, IL-8, IL-10, TNFα, and TGF-β. As shown in Figure <xref ref-type="fig" rid="F3">3</xref>, the 2<sup>−ΔCt</sup> values were compared between SFs where BSA was co-administered with PBS and SFs where BSA was co-administered with exo-MSCs. No differences were found in 7 out of 8 cytokines; however, a significant decrease (<italic>p</italic> = 0.05) was found for TNF-α when BSA was co-administered with exo-MSCs.</p>
+        <fig id="F3" position="float">
+          <label>Figure 3</label>
+          <caption>
+            <p><bold>Gene expression of cytokines in synovial fluid (SF)</bold>. SF samples were collected 7 days after intra-articular injections and total RNA was isolated. The qRT-PCR products were quantified by the 2<sup>ΔCt</sup> method using β-2 microglobulin as a housekeeping gene. Graph represents the mean ± SD of three independently performed experiments (<italic>n</italic> = 4). *Statistically significant difference in a paired <italic>t</italic>-test (<italic>p</italic> ≤ 0.05).</p>
+          </caption>
+          <graphic xlink:href="fvets-04-00039-g003"/>
+        </fig>
+      </sec>
+      <sec id="S3-4">
+        <title>Kinetic Gait Parameters on Animal Model</title>
+        <p>The kinetic parameters were evaluated in a gait analysis system. This analysis allowed us the capture of kinetic, timing, and physical measurements. Different kinetic parameters such as stance time, swing time, stride time, vertical maximum force, and impulse were compared. As shown in Figure <xref ref-type="fig" rid="F4">4</xref>, a non-statistically significant trend to increase was found for the impulse in those joints where BSA was co-administered with exo-MSCs.</p>
+        <fig id="F4" position="float">
+          <label>Figure 4</label>
+          <caption>
+            <p><bold>Pressure platform (PP) gait analysis</bold>. Then, 7 days after intra-articular injections of BSA or BSA co-administered with exo-mesenchymal stem cells (MSCs), a PP gait analysis was performed to evaluate plantar pressure distributions. <bold>(A)</bold> A representative image of the gait analysis (LF, left forelimb; LH, left hind limb; RF, right forelimb; RH, right hind limb) is represented. <bold>(B)</bold> Impulses in forelimbs with intra-articular BSA co-administered with PBS or exo-MSCs (<italic>n</italic> = 4). The lower boundary of the box indicates the 25th percentile and the upper boundary the 75th percentile. Bars above and below the box indicate the 90th and 10th percentiles. The line within the box marks the median. Measurements compared in a paired <italic>t</italic>-test.</p>
+          </caption>
+          <graphic xlink:href="fvets-04-00039-g004"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="S4">
+      <title>Discussion</title>
+      <p>Synovitis is an inflammation of the synovial membrane, usually linked to osteoarthritis, rheumatoid arthritis or infections (<xref rid="B41" ref-type="bibr">41</xref>–<xref rid="B43" ref-type="bibr">43</xref>). It can be successfully treated with biologically based therapies such as platelet-rich plasma, or autologous conditioned serum (<xref rid="B44" ref-type="bibr">44</xref>, <xref rid="B45" ref-type="bibr">45</xref>), or NSAIDs such as Ibuprofen or Naproxen (<xref rid="B46" ref-type="bibr">46</xref>). The MSCs-based therapies diminish the inflammatory response itself (<xref rid="B12" ref-type="bibr">12</xref>) and the intra-articular administration of MSCs has been found to reduce the nucleated cell counts in SF (<xref rid="B47" ref-type="bibr">47</xref>). Many authors have hypothesized that cell-free therapies may be safer and affordable than cell-based therapies (<xref rid="B17" ref-type="bibr">17</xref>, <xref rid="B18" ref-type="bibr">18</xref>). In this sense, exo-MSCs have been considered as anti-inflammatory agents (<xref rid="B48" ref-type="bibr">48</xref>, <xref rid="B49" ref-type="bibr">49</xref>) and a therapeutic alternative to cell-based therapies (<xref rid="B50" ref-type="bibr">50</xref>, <xref rid="B51" ref-type="bibr">51</xref>).</p>
+      <p>The aim of this work was to evaluate the anti-inflammatory effect of exo-MSCs in a large animal model of synovitis. In this sense, our first sets of experiments were conducted to create an antigen-induced synovitis in a porcine model. This animal model has been immunologically characterized and our experience has demonstrated that it is particularly attractive in preclinical settings (<xref rid="B34" ref-type="bibr">34</xref>, <xref rid="B35" ref-type="bibr">35</xref>), especially to evaluate the safety, feasibility, and dosage pattern of new therapies for synovitis.</p>
+      <p>The exo-MSCs used in this study were characterized by nanoparticle tracking analysis and flow cytometry. The mean size of these exosomes was 167.3 ± 2.6 nm. Although this size is larger to classically defined exosomes, it has been found that, in aqueous solution, exosomes are surrounded by a surface charge that may be the responsible for this larger size (<xref rid="B52" ref-type="bibr">52</xref>). This phenomenon has been previously described for nanoparticle tracking analyzed exosomes (<xref rid="B53" ref-type="bibr">53</xref>). Moreover, and due to the lack of porcine antibodies for CD9, CD63, and CD81 (classically used for exosomes characterization), CD44 and CD90 surface markers have been used to identify MSCs-derived extracellular vesicles (<xref rid="B54" ref-type="bibr">54</xref>).</p>
+      <p>In our antigen-induced synovitis model, a subcutaneous pre-sensitization with BSA was required before the intra-articular injection of BSA. This pre-sensitization induced a potent humoral response, which was found to be as effective as previously described antigen-induced synovitis in rabbits and dogs (<xref rid="B55" ref-type="bibr">55</xref>, <xref rid="B56" ref-type="bibr">56</xref>). These BSA-presensitized animals received an intra-articular injection of BSA, which triggered a local inflammatory response with a significant increase of WBCs in SF. It is important to note that the WBC count is one of the most frequent tests in the analysis of SF. In this sense, human SFs with less than 200 cells/μl are classified as “normal” and those with less than 2,000 cells/μl are classified as “non-inflammatory.” In our antigen-induced synovitis model, those animals that received an intra-articular injection of BSA showed a WBC infiltration that can be classified as “inflammatory SF” (<xref rid="B41" ref-type="bibr">41</xref>).</p>
+      <p>Once demonstrated that intra-articular BSA triggered a local inflammatory reaction, we aimed to counteract this reaction by an intra-articular administration of exo-MSCs. As shown in the results section, no differences were found in terms of WBCs when exo-MSCs were co-administered with BSA. However, the differential cell count of leukocytes showed statistically significant differences in the lymphocyte counts being lower in those joints where BSA was co-administered with exo-MSCs. Based on that, here, we assume that exo-MSCs efficiently counteracted the antigen-driven T cell response and point out that these exosomes may represent a therapeutic strategy for the treatment of T cell-mediated diseases such as rheumatoid arthritis. These <italic>in vivo</italic> results are in agreement with <italic>in vitro</italic> results using stimulated T cells co-cultured with human exosomes from adipose-derived stem cells (<xref rid="B22" ref-type="bibr">22</xref>). In these studies, the effect of exo-MSCs on proliferative, differentiation, and functional behavior of T cells was significantly modified by exosomes.</p>
+      <p>Additionally, here, we hypothesized that exosomes may also inhibit or decrease the production of pro-inflammatory cytokines. In order to evaluate the inflammatory reaction after intra-articular BSA injections, a qRT-PCR analysis was performed for several cytokines (IL-1β, IL-4, TGF-β, IL-8, IL-10, TNF-α, and IL-6). This analysis revealed some differences in IL-1β, IL-8, and TNF-α after intra-articular injections of BSA (co-administered with PBS or with exo-MSCs).</p>
+      <p>The IL-1β is a critical mediator of osteoarthritis and the intra-articular injection of this recombinant cytokine has been used to induce a transient inflammatory response in an experimentally induced synovitis (<xref rid="B57" ref-type="bibr">57</xref>). In the case of IL-8, this chemokine participates to the inflammatory process in the early synovitis of rheumatoid arthritis (<xref rid="B58" ref-type="bibr">58</xref>), and similar to IL-1β, the intra-articular administration has been also used to induce acute synovitis in rabbits (<xref rid="B59" ref-type="bibr">59</xref>). Finally, the level of TNF-α in synovia has been correlated with pain and disease progression (<xref rid="B60" ref-type="bibr">60</xref>, <xref rid="B61" ref-type="bibr">61</xref>) and anti-TNF-α agents have been widely used for the treatment of active rheumatoid arthritis (<xref rid="B62" ref-type="bibr">62</xref>, <xref rid="B63" ref-type="bibr">63</xref>).</p>
+      <p>Based on the above-described relations between IL-1β, IL-8, TNF-α, and synovitis progression, we aimed to quantify their gene expression in SFs when exo-MSCs were co-administered in the joints. Uniquely, the TNF-α level was found to be statistically decreased by the co-administration of exo-MSCs. We suggest that this result is very relevant considering that TNF-α is a therapeutic target for the treatment of inflammatory diseases (<xref rid="B64" ref-type="bibr">64</xref>). Indeed, targeted treatments against synovitis and rheumatoid arthritis have been efficiently developed against this cytokine (<xref rid="B65" ref-type="bibr">65</xref>).</p>
+      <p>Regarding to the not statistically significant increase of IL-8 observed with exo-MSCs, it is important to note that this chemokine is abundantly secreted by MSCs from adipose tissue and bone marrow (<xref rid="B66" ref-type="bibr">66</xref>). More importantly, this chemokine has been found to be contained in exosomes derived from umbilical cord-MSCs (<xref rid="B67" ref-type="bibr">67</xref>) as well as in menstrual blood-MSCs (<xref rid="B68" ref-type="bibr">68</xref>). Based on these observations, we assume that the increase of IL-8 is the consequence of an exogenous administration of IL-8 linked to exo-MSCs. Additionally, taking into account that IL-8 is one of the most potent chemoattractant molecule for neutrophils (<xref rid="B69" ref-type="bibr">69</xref>), this may also explain the increase (although not significant) of infiltrated neutrophils in SFs treated with exo-MSCs.</p>
+      <p>It is important to note that the determination of the different cytokines in SF was firstly addressed with a multiplexed immunoassay by Luminex xMAP technology using the ProcartaPlex Porcine Cytokine and Chemokine Panel 1 (eBioscience, San Diego, CA, USA). The following cytokines were measured: IFNα, IFNγ, IL-1β, IL-4, IL-6, IL-8, IL-10, IL-12p40, and TNFα. The cytokine analysis demonstrated that, probably because of the detection limit of commercially available swine immune reagents or because the evaluation time point was too short for protein translation, eight out of nine cytokines were undetectable in SFs with this technique. Uniquely, the IL-12p40 could be detected in all the samples but no differences were found between groups.</p>
+      <p>Although this paper has not been focused on the biological mechanisms, which promote the decrease of TNF-α in the synovitis model, the bibliography has several references that support the association between exo-MSCs and TNF-α. As an example, recent studies have demonstrated that exosomes derived from human umbilical cord MSCs reduced the TNF-α release from CD3/CD28-stimulated PBLs (<xref rid="B70" ref-type="bibr">70</xref>). Moreover, exosomes from bone marrow-derived MSCs also suppressed the secretion of TNF-α from T cells (<xref rid="B71" ref-type="bibr">71</xref>). More recently, the immunomodulatory effect of these exosomes against TNF-α transcription was demonstrated <italic>in vivo</italic> in an experimental colitis model. In this animal model, the intravenous injection of exosomes from bone marrow-derived MSCs reduced the TNF-α in injured colon (<xref rid="B72" ref-type="bibr">72</xref>). Altogether, these <italic>in vitro</italic> and <italic>in vivo</italic> studies are in agreement with our results and support the immunomodulatory effect of these exosomes in the animal model.</p>
+      <p>Finally, this paper aimed to evaluate the therapeutic effect of exo-MSCs in a functional kinetic assessment. Apart from the analysis of synovial leukocyte subsets and inflammatory cytokines in the animal model, different kinetic parameters such as stance time, swing time, stride time, vertical maximum force, and impulse were monitored in the animal model by PP gait analysis (<xref rid="B73" ref-type="bibr">73</xref>). The quadruped gait analysis demonstrated that exo-MSCs co-administered with the BSA had a non-significant trend for the improvement of the impulse. This trend may indicate a pain reduction linked to the anti-inflammatory effect of exo-MSCs. Finally, it is important to note that the absence of statistical differences would not necessarily imply that the kinetic was unaffected; since the pressure gait was performed under analgesia due to ethical consideration and animal welfare guidelines. In the same way, due to ethical limitations, animals could only be evaluated at day 7 after treatment. In this sense, this study can be considered a preliminary approach and further studies will be performed to evaluate the changes in a long-term study, including the histological follow-up of the lesions as well as the cytokine quantification using immunoassays.</p>
+      <p>In conclusion, to our knowledge, this is the first report describing the use of exo-MSCs for the treatment of synovitis in a large animal model. The decrease of synovial lymphocytes, the downregulation of TNF-α transcripts, as well as the trend to improve the impulse in exosome-treated joints, point out that exosomes may represent a promising therapeutic option for the treatment of synovitis.</p>
+    </sec>
+    <sec id="S5">
+      <title>Author Contributions</title>
+      <p>RB, FS-M, and FJV equally contributed and should be regarded as co-first authors. FS-M, RT, and JGC conceived and designed the experiments. FJV, VA, and RB performed the experiments and analyzed the data. VA, FS-M, RT, and JGC wrote the manuscript.</p>
+    </sec>
+    <sec id="S6">
+      <title>Conflict of Interest Statement</title>
+      <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest. The reviewer AL-C and handling Editor declared their shared affiliation, and the handling Editor states that the process nevertheless met the standards of a fair and objective review.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>Technical and human support for qRT-PCR studies was provided by Facility of Bioscience Applied Techniques of SAIUEx (financed by UEX, Junta de Extremadura, MICINN, FEDER, and FSE). <italic>In vivo</italic> experiments were performed by the ICTS “Nanbiosis,” more specifically by the Unit 14 (Cell Therapy), Unit 22 (Animal housing), Unit 21 (Experimental Operating Rooms), and Unit 24 (Medical Imaging) at CCMIJU. <italic>In vitro</italic> experiments were performed by the ICTS “Nanbiosis,” more specifically by the Unit 14 at CCMIJU. Exosomes characterization was performed by the ICTS “Nanbiosis,” more specifically by the Unit 6 (Biomaterial processing and Nanostructuring Unit).</p>
+    </ack>
+    <sec id="S7">
+      <title>Funding</title>
+      <p>This work was supported in part by Consejería de Economía e Infraestructuras, Junta de Extremadura (TA13042 to JGC), one grant from Consejería de Economía e Infraestructuras, Junta de Extremadura cofinanced by FEDER to JGC (IB13123), and one grant from GobEx (Ayuda a grupos catalogados de la Junta de Extremadura, GR15175). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript. This work was awarded by the “Premio a la investigación traslacional en Traumatología y Ortopedia” from Fundación Real Academia de Medicina y Cirugía de Sevilla.</p>
+    </sec>
+    <sec id="S8" sec-type="supplementary-material">
+      <title>Supplementary Material</title>
+      <p>The Supplementary Material for this article can be found online at <uri xlink:type="simple" xlink:href="http://journal.frontiersin.org/article/10.3389/fvets.2017.00039/full#supplementary-material">http://journal.frontiersin.org/article/10.3389/fvets.2017.00039/full#supplementary-material</uri>.</p>
+      <supplementary-material content-type="local-data" id="SM1">
+        <label>Figure S1</label>
+        <caption>
+          <p><bold>Characterization of exo-MSCs</bold>. Panel <bold>(A)</bold> shows the frequency size distribution graph of exo-MSCs. The nanoparticle tracking analysis was performed on exosomes samples to quantify size distribution and particle concentration (<italic>n</italic> = 3). Error bars indicate ±1 SEM. Panel <bold>(B)</bold> shows the expression of CD44 and CD90 in exosomes-coated latex beads. Exosomes adhered to latex beads were analyzed by multicolor flow cytometry. Representative histograms of CD44 and CD90 expression are shown (filled histograms) together with their negative control (gray lined histograms).</p>
+        </caption>
+        <media xlink:href="Image_1.tif">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <label>1</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Scanzello</surname><given-names>CR</given-names></name><name><surname>Goldring</surname><given-names>SR</given-names></name></person-group>. <article-title>The role of synovitis in osteoarthritis pathogenesis</article-title>. <source>Bone</source> (<year>2012</year>) <volume>51</volume>:<fpage>249</fpage>–<lpage>57</lpage>.<pub-id pub-id-type="doi">10.1016/j.bone.2012.02.012</pub-id><?supplied-pmid 22387238?><pub-id pub-id-type="pmid">22387238</pub-id></mixed-citation>
+      </ref>
+      <ref id="B2">
+        <label>2</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Arend</surname><given-names>WP</given-names></name><name><surname>Firestein</surname><given-names>GS</given-names></name></person-group>. <article-title>Pre-rheumatoid arthritis: predisposition and transition to clinical synovitis</article-title>. <source>Nat Rev Rheumatol</source> (<year>2012</year>) <volume>8</volume>:<fpage>573</fpage>–<lpage>86</lpage>.<pub-id pub-id-type="doi">10.1038/nrrheum.2012.134</pub-id><?supplied-pmid 22907289?><pub-id pub-id-type="pmid">22907289</pub-id></mixed-citation>
+      </ref>
+      <ref id="B3">
+        <label>3</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McIlwraith</surname><given-names>CW</given-names></name></person-group>
+<article-title>Use of synovial fluid and serum biomarkers in equine bone and joint disease: a review</article-title>. <source>Equine Vet J</source> (<year>2005</year>) <volume>37</volume>:<fpage>473</fpage>–<lpage>82</lpage>.<pub-id pub-id-type="doi">10.2746/042516405774480102</pub-id><pub-id pub-id-type="pmid">16163952</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <label>4</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McIlwraith</surname><given-names>CW</given-names></name><name><surname>Frisbie</surname><given-names>DD</given-names></name><name><surname>Rodkey</surname><given-names>WG</given-names></name><name><surname>Kisiday</surname><given-names>JD</given-names></name><name><surname>Werpy</surname><given-names>NM</given-names></name><name><surname>Kawcak</surname><given-names>CE</given-names></name><etal/></person-group>
+<article-title>Evaluation of intra-articular mesenchymal stem cells to augment healing of microfractured chondral defects</article-title>. <source>Arthroscopy</source> (<year>2011</year>) <volume>27</volume>:<fpage>1552</fpage>–<lpage>61</lpage>.<pub-id pub-id-type="doi">10.1016/j.arthro.2011.06.002</pub-id><?supplied-pmid 21862278?><pub-id pub-id-type="pmid">21862278</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <label>5</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kofoed</surname><given-names>H</given-names></name></person-group>. <article-title>Synovitis causes hypoxia and acidity in synovial fluid and subchondral bone</article-title>. <source>Injury</source> (<year>1986</year>) <volume>17</volume>:<fpage>391</fpage>–<lpage>4</lpage>.<pub-id pub-id-type="doi">10.1016/0020-1383(86)90078-1</pub-id><?supplied-pmid 3102376?><pub-id pub-id-type="pmid">3102376</pub-id></mixed-citation>
+      </ref>
+      <ref id="B6">
+        <label>6</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Walsh</surname><given-names>DA</given-names></name></person-group>. <article-title>Angiogenesis in osteoarthritis and spondylosis: successful repair with undesirable outcomes</article-title>. <source>Curr Opin Rheumatol</source> (<year>2004</year>) <volume>16</volume>:<fpage>609</fpage>–<lpage>15</lpage>.<pub-id pub-id-type="doi">10.1097/01.bor.0000133662.60223.ee</pub-id><?supplied-pmid 15314503?><pub-id pub-id-type="pmid">15314503</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <label>7</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zayat</surname><given-names>AS</given-names></name><name><surname>Conaghan</surname><given-names>PG</given-names></name><name><surname>Sharif</surname><given-names>M</given-names></name><name><surname>Freeston</surname><given-names>JE</given-names></name><name><surname>Wenham</surname><given-names>C</given-names></name><name><surname>Hensor</surname><given-names>EMA</given-names></name><etal/></person-group>
+<article-title>Do non-steroidal anti-inflammatory drugs have a significant effect on detection and grading of ultrasound-detected synovitis in patients with rheumatoid arthritis? Results from a randomised study</article-title>. <source>Ann Rheum Dis</source> (<year>2011</year>) <volume>70</volume>:<fpage>1746</fpage>–<lpage>51</lpage>.<pub-id pub-id-type="doi">10.1136/annrheumdis-2011-200017</pub-id><?supplied-pmid 21803749?><pub-id pub-id-type="pmid">21803749</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <label>8</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liberman</surname><given-names>B</given-names></name><name><surname>Herman</surname><given-names>A</given-names></name><name><surname>Schindler</surname><given-names>A</given-names></name><name><surname>Sherr-Lurie</surname><given-names>N</given-names></name><name><surname>Ganel</surname><given-names>A</given-names></name><name><surname>Givon</surname><given-names>U</given-names></name></person-group>. <article-title>The value of hip aspiration in pediatric transient synovitis</article-title>. <source>J Pediatr Orthop</source> (<year>2013</year>) <volume>33</volume>:<fpage>124</fpage>–<lpage>7</lpage>.<pub-id pub-id-type="doi">10.1097/BPO.0b013e31827268b8</pub-id><?supplied-pmid 23389564?><pub-id pub-id-type="pmid">23389564</pub-id></mixed-citation>
+      </ref>
+      <ref id="B9">
+        <label>9</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Van den Bekerom</surname><given-names>MPJ</given-names></name><name><surname>Struijs</surname><given-names>PAA</given-names></name><name><surname>Blankevoort</surname><given-names>L</given-names></name><name><surname>Welling</surname><given-names>L</given-names></name><name><surname>van Dijk</surname><given-names>CN</given-names></name><name><surname>Kerkhoffs</surname><given-names>GM</given-names></name></person-group>. <article-title>What is the evidence for rest, ice, compression, and elevation therapy in the treatment of ankle sprains in adults?</article-title>
+<source>J Athl Train</source> (<year>2012</year>) <volume>47</volume>:<fpage>435</fpage>–<lpage>43</lpage>.<pub-id pub-id-type="doi">10.4085/1062-6050-47.4.14</pub-id><?supplied-pmid 22889660?><pub-id pub-id-type="pmid">22889660</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <label>10</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Xie</surname><given-names>X</given-names></name><name><surname>Zhang</surname><given-names>C</given-names></name><name><surname>Tuan</surname><given-names>RS</given-names></name></person-group>. <article-title>Biology of platelet-rich plasma and its clinical application in cartilage repair</article-title>. <source>Arthritis Res Ther</source> (<year>2014</year>) <volume>16</volume>:<fpage>204</fpage>.<pub-id pub-id-type="doi">10.1186/ar4493</pub-id><?supplied-pmid 25164150?><pub-id pub-id-type="pmid">25164150</pub-id></mixed-citation>
+      </ref>
+      <ref id="B11">
+        <label>11</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rutgers</surname><given-names>M</given-names></name><name><surname>Creemers</surname><given-names>LB</given-names></name><name><surname>Auw Yang</surname><given-names>KG</given-names></name><name><surname>Raijmakers</surname><given-names>NJH</given-names></name><name><surname>Dhert</surname><given-names>WJA</given-names></name><name><surname>Saris</surname><given-names>DBF</given-names></name></person-group>. <article-title>Osteoarthritis treatment using autologous conditioned serum after placebo</article-title>. <source>Acta Orthop</source> (<year>2015</year>) <volume>86</volume>:<fpage>114</fpage>–<lpage>8</lpage>.<pub-id pub-id-type="doi">10.3109/17453674.2014.950467</pub-id><?supplied-pmid 25140983?><pub-id pub-id-type="pmid">25140983</pub-id></mixed-citation>
+      </ref>
+      <ref id="B12">
+        <label>12</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>De Witte</surname><given-names>SFH</given-names></name><name><surname>Franquesa</surname><given-names>M</given-names></name><name><surname>Baan</surname><given-names>CC</given-names></name><name><surname>Hoogduijn</surname><given-names>MJ</given-names></name></person-group>
+<article-title>Toward development of iMesenchymal stem cells for immunomodulatory therapy</article-title>. <source>Front Immunol</source> (<year>2015</year>) <volume>6</volume>:<fpage>648</fpage><pub-id pub-id-type="doi">10.3389/fimmu.2015.00648</pub-id><pub-id pub-id-type="pmid">26779185</pub-id></mixed-citation>
+      </ref>
+      <ref id="B13">
+        <label>13</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jorgensen</surname><given-names>C</given-names></name><name><surname>Noël</surname><given-names>D</given-names></name></person-group>. <article-title>Mesenchymal stem cells in osteoarticular diseases</article-title>. <source>Regen Med</source> (<year>2011</year>) <volume>6</volume>:<fpage>44</fpage>–<lpage>51</lpage>.<pub-id pub-id-type="doi">10.2217/rme.11.80</pub-id><?supplied-pmid 21999261?><pub-id pub-id-type="pmid">21999261</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <label>14</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pers</surname><given-names>Y-M</given-names></name><name><surname>Jorgensen</surname><given-names>C</given-names></name></person-group>. <article-title>Adipose derived stem cells for regenerative therapy in osteoarticular diseases</article-title>. <source>Horm Mol Biol Clin Investig</source> (<year>2016</year>) <volume>28</volume>:<fpage>113</fpage>–<lpage>20</lpage>.<pub-id pub-id-type="doi">10.1515/hmbci-2016-0010</pub-id><?supplied-pmid 27092656?><pub-id pub-id-type="pmid">27092656</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <label>15</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pigott</surname><given-names>JH</given-names></name><name><surname>Ishihara</surname><given-names>A</given-names></name><name><surname>Wellman</surname><given-names>ML</given-names></name><name><surname>Russell</surname><given-names>DS</given-names></name><name><surname>Bertone</surname><given-names>AL</given-names></name></person-group>. <article-title>Investigation of the immune response to autologous, allogeneic, and xenogeneic mesenchymal stem cells after intra-articular injection in horses</article-title>. <source>Vet Immunol Immunopathol</source> (<year>2013</year>) <volume>156</volume>:<fpage>99</fpage>–<lpage>106</lpage>.<pub-id pub-id-type="doi">10.1016/j.vetimm.2013.09.003</pub-id><?supplied-pmid 24094688?><pub-id pub-id-type="pmid">24094688</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <label>16</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Williams</surname><given-names>AR</given-names></name><name><surname>Suncion</surname><given-names>VY</given-names></name><name><surname>McCall</surname><given-names>F</given-names></name><name><surname>Guerra</surname><given-names>D</given-names></name><name><surname>Mather</surname><given-names>J</given-names></name><name><surname>Zambrano</surname><given-names>JP</given-names></name><etal/></person-group>
+<article-title>Durable scar size reduction due to allogeneic mesenchymal stem cell therapy regulates whole-chamber remodeling</article-title>. <source>J Am Heart Assoc</source> (<year>2013</year>) <volume>2</volume>:<fpage>e000140</fpage>.<pub-id pub-id-type="doi">10.1161/JAHA.113.000140</pub-id><?supplied-pmid 23686370?><pub-id pub-id-type="pmid">23686370</pub-id></mixed-citation>
+      </ref>
+      <ref id="B17">
+        <label>17</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>De Jong</surname><given-names>OG</given-names></name><name><surname>Van Balkom</surname><given-names>BWM</given-names></name><name><surname>Schiffelers</surname><given-names>RM</given-names></name><name><surname>Bouten</surname><given-names>CVC</given-names></name><name><surname>Verhaar</surname><given-names>MC</given-names></name></person-group>. <article-title>Extracellular vesicles: potential roles in regenerative medicine</article-title>. <source>Front Immunol</source> (<year>2014</year>) <volume>5</volume>:<fpage>608</fpage>.<pub-id pub-id-type="doi">10.3389/fimmu.2014.00608</pub-id><?supplied-pmid 25520717?><pub-id pub-id-type="pmid">25520717</pub-id></mixed-citation>
+      </ref>
+      <ref id="B18">
+        <label>18</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhang</surname><given-names>B</given-names></name><name><surname>Yin</surname><given-names>Y</given-names></name><name><surname>Lai</surname><given-names>RC</given-names></name><name><surname>Lim</surname><given-names>SK</given-names></name></person-group>
+<article-title>Immunotherapeutic potential of extracellular vesicles</article-title>. <source>Front Immunol</source> (<year>2014</year>) <volume>5</volume>:<fpage>518</fpage><pub-id pub-id-type="doi">10.3389/fimmu.2014.00518</pub-id><pub-id pub-id-type="pmid">25374570</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <label>19</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Merino</surname><given-names>AM</given-names></name><name><surname>Hoogduijn</surname><given-names>MJ</given-names></name><name><surname>Borras</surname><given-names>FE</given-names></name><name><surname>Franquesa</surname><given-names>M</given-names></name></person-group>
+<article-title>Therapeutic potential of extracellular vesicles</article-title>. <source>Front Immunol</source> (<year>2014</year>) <volume>5</volume>:<fpage>658</fpage><pub-id pub-id-type="doi">10.3389/fimmu.2014.00658</pub-id><pub-id pub-id-type="pmid">25566267</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <label>20</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ludwig</surname><given-names>A</given-names></name><name><surname>Kordelas</surname><given-names>L</given-names></name><name><surname>Rebmann</surname><given-names>V</given-names></name><name><surname>Radtke</surname><given-names>S</given-names></name><name><surname>Felderhoff-Müser</surname><given-names>U</given-names></name><name><surname>Horn</surname><given-names>P</given-names></name><etal/></person-group>
+<article-title>Exosomes – from bench to bedside</article-title>. <source>Klin Pädiatr</source> (<year>2012</year>) <volume>224</volume>:<fpage>A6</fpage><pub-id pub-id-type="doi">10.1055/s-0032-1330775</pub-id></mixed-citation>
+      </ref>
+      <ref id="B21">
+        <label>21</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mathivanan</surname><given-names>S</given-names></name><name><surname>Simpson</surname><given-names>RJ</given-names></name></person-group>. <article-title>ExoCarta: a compendium of exosomal proteins and RNA</article-title>. <source>Proteomics</source> (<year>2009</year>) <volume>9</volume>:<fpage>4997</fpage>–<lpage>5000</lpage>.<pub-id pub-id-type="doi">10.1002/pmic.200900351</pub-id><?supplied-pmid 19810033?><pub-id pub-id-type="pmid">19810033</pub-id></mixed-citation>
+      </ref>
+      <ref id="B22">
+        <label>22</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Blazquez</surname><given-names>R</given-names></name><name><surname>Sanchez-Margallo</surname><given-names>FM</given-names></name><name><surname>de la Rosa</surname><given-names>O</given-names></name><name><surname>Dalemans</surname><given-names>W</given-names></name><name><surname>Alvarez</surname><given-names>V</given-names></name><name><surname>Tarazona</surname><given-names>R</given-names></name><etal/></person-group>
+<article-title>Immunomodulatory potential of human adipose mesenchymal stem cells derived exosomes on in vitro stimulated T cells</article-title>. <source>Front Immunol</source> (<year>2014</year>) <volume>5</volume>:<fpage>556</fpage>.<pub-id pub-id-type="doi">10.3389/fimmu.2014.00556</pub-id><?supplied-pmid 25414703?><pub-id pub-id-type="pmid">25414703</pub-id></mixed-citation>
+      </ref>
+      <ref id="B23">
+        <label>23</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Teng</surname><given-names>X</given-names></name><name><surname>Chen</surname><given-names>L</given-names></name><name><surname>Chen</surname><given-names>W</given-names></name><name><surname>Yang</surname><given-names>J</given-names></name><name><surname>Yang</surname><given-names>Z</given-names></name><name><surname>Shen</surname><given-names>Z</given-names></name></person-group>. <article-title>Mesenchymal stem cell-derived exosomes improve the microenvironment of infarcted myocardium contributing to angiogenesis and anti-inflammation</article-title>. <source>Cell Physiol Biochem</source> (<year>2015</year>) <volume>37</volume>:<fpage>2415</fpage>–<lpage>24</lpage>.<pub-id pub-id-type="doi">10.1159/000438594</pub-id><?supplied-pmid 26646808?><pub-id pub-id-type="pmid">26646808</pub-id></mixed-citation>
+      </ref>
+      <ref id="B24">
+        <label>24</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yu</surname><given-names>B</given-names></name><name><surname>Kim</surname><given-names>HW</given-names></name><name><surname>Gong</surname><given-names>M</given-names></name><name><surname>Wang</surname><given-names>J</given-names></name><name><surname>Millard</surname><given-names>RW</given-names></name><name><surname>Wang</surname><given-names>Y</given-names></name><etal/></person-group>
+<article-title>Exosomes secreted from GATA-4 overexpressing mesenchymal stem cells serve as a reservoir of anti-apoptotic microRNAs for cardioprotection</article-title>. <source>Int J Cardiol</source> (<year>2015</year>) <volume>182</volume>:<fpage>349</fpage>–<lpage>60</lpage>.<pub-id pub-id-type="doi">10.1016/j.ijcard.2014.12.043</pub-id><?supplied-pmid 25590961?><pub-id pub-id-type="pmid">25590961</pub-id></mixed-citation>
+      </ref>
+      <ref id="B25">
+        <label>25</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhou</surname><given-names>Y</given-names></name><name><surname>Xu</surname><given-names>H</given-names></name><name><surname>Xu</surname><given-names>W</given-names></name><name><surname>Wang</surname><given-names>B</given-names></name><name><surname>Wu</surname><given-names>H</given-names></name><name><surname>Tao</surname><given-names>Y</given-names></name><etal/></person-group>
+<article-title>Exosomes released by human umbilical cord mesenchymal stem cells protect against cisplatin-induced renal oxidative stress and apoptosis in vivo and in vitro</article-title>. <source>Stem Cell Res Ther</source> (<year>2013</year>) <volume>4</volume>:<fpage>34</fpage>.<pub-id pub-id-type="doi">10.1186/scrt194</pub-id><?supplied-pmid 23618405?><pub-id pub-id-type="pmid">23618405</pub-id></mixed-citation>
+      </ref>
+      <ref id="B26">
+        <label>26</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shabbir</surname><given-names>A</given-names></name><name><surname>Cox</surname><given-names>A</given-names></name><name><surname>Rodriguez-Menocal</surname><given-names>L</given-names></name><name><surname>Salgado</surname><given-names>M</given-names></name><name><surname>Van Badiavas</surname><given-names>E</given-names></name></person-group>. <article-title>Mesenchymal stem cell exosomes induce proliferation and migration of normal and chronic wound fibroblasts, and enhance angiogenesis in vitro</article-title>. <source>Stem Cells Dev</source> (<year>2015</year>) <volume>24</volume>:<fpage>1635</fpage>–<lpage>47</lpage>.<pub-id pub-id-type="doi">10.1089/scd.2014.0316</pub-id><?supplied-pmid 25867197?><pub-id pub-id-type="pmid">25867197</pub-id></mixed-citation>
+      </ref>
+      <ref id="B27">
+        <label>27</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lai</surname><given-names>RC</given-names></name><name><surname>Arslan</surname><given-names>F</given-names></name><name><surname>Lee</surname><given-names>MM</given-names></name><name><surname>Sze</surname><given-names>NSK</given-names></name><name><surname>Choo</surname><given-names>A</given-names></name><name><surname>Chen</surname><given-names>TS</given-names></name><etal/></person-group>
+<article-title>Exosome secreted by MSC reduces myocardial ischemia/reperfusion injury</article-title>. <source>Stem Cell Res</source> (<year>2010</year>) <volume>4</volume>:<fpage>214</fpage>–<lpage>22</lpage>.<pub-id pub-id-type="doi">10.1016/j.scr.2009.12.003</pub-id><?supplied-pmid 20138817?><pub-id pub-id-type="pmid">20138817</pub-id></mixed-citation>
+      </ref>
+      <ref id="B28">
+        <label>28</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>B</given-names></name><name><surname>Yao</surname><given-names>K</given-names></name><name><surname>Huuskes</surname><given-names>BM</given-names></name><name><surname>Shen</surname><given-names>H-H</given-names></name><name><surname>Zhuang</surname><given-names>J</given-names></name><name><surname>Godson</surname><given-names>C</given-names></name><etal/></person-group>
+<article-title>Mesenchymal stem cells deliver exogenous microRNA-let7c via exosomes to attenuate renal fibrosis</article-title>. <source>Mol Ther</source> (<year>2016</year>) <volume>24</volume>:<fpage>1290</fpage>–<lpage>301</lpage>.<pub-id pub-id-type="doi">10.1038/mt.2016.90</pub-id><?supplied-pmid 27203438?><pub-id pub-id-type="pmid">27203438</pub-id></mixed-citation>
+      </ref>
+      <ref id="B29">
+        <label>29</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yuan</surname><given-names>H</given-names></name><name><surname>Guan</surname><given-names>J</given-names></name><name><surname>Zhang</surname><given-names>J</given-names></name><name><surname>Zhang</surname><given-names>R</given-names></name><name><surname>Li</surname><given-names>M</given-names></name></person-group>. <article-title>Exosomes secreted by human urine-derived stem cells accelerate skin wound healing by promoting angiogenesis in rat</article-title>. <source>Cell Biol Int</source> (<year>2016</year>).<pub-id pub-id-type="doi">10.1002/cbin.10615</pub-id><?supplied-pmid 27098397?><pub-id pub-id-type="pmid">27098397</pub-id></mixed-citation>
+      </ref>
+      <ref id="B30">
+        <label>30</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rager</surname><given-names>TM</given-names></name><name><surname>Olson</surname><given-names>JK</given-names></name><name><surname>Zhou</surname><given-names>Y</given-names></name><name><surname>Wang</surname><given-names>Y</given-names></name><name><surname>Besner</surname><given-names>GE</given-names></name></person-group>. <article-title>Exosomes secreted from bone marrow-derived mesenchymal stem cells protect the intestines from experimental necrotizing enterocolitis</article-title>. <source>J Pediatr Surg</source> (<year>2016</year>) <volume>51</volume>:<fpage>942</fpage>–<lpage>7</lpage>.<pub-id pub-id-type="doi">10.1016/j.jpedsurg.2016.02.061</pub-id><?supplied-pmid 27015901?><pub-id pub-id-type="pmid">27015901</pub-id></mixed-citation>
+      </ref>
+      <ref id="B31">
+        <label>31</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Monsel</surname><given-names>A</given-names></name><name><surname>Zhu</surname><given-names>Y-G</given-names></name><name><surname>Gudapati</surname><given-names>V</given-names></name><name><surname>Lim</surname><given-names>H</given-names></name><name><surname>Lee</surname><given-names>JW</given-names></name></person-group>. <article-title>Mesenchymal stem cell derived secretome and extracellular vesicles for acute lung injury and other inflammatory lung diseases</article-title>. <source>Expert Opin Biol Ther</source> (<year>2016</year>) <volume>16</volume>:<fpage>859</fpage>–<lpage>71</lpage>.<pub-id pub-id-type="doi">10.1517/14712598.2016.1170804</pub-id><?supplied-pmid 27011289?><pub-id pub-id-type="pmid">27011289</pub-id></mixed-citation>
+      </ref>
+      <ref id="B32">
+        <label>32</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Doeppner</surname><given-names>TR</given-names></name><name><surname>Herz</surname><given-names>J</given-names></name><name><surname>Görgens</surname><given-names>A</given-names></name><name><surname>Schlechter</surname><given-names>J</given-names></name><name><surname>Ludwig</surname><given-names>A-K</given-names></name><name><surname>Radtke</surname><given-names>S</given-names></name><etal/></person-group>
+<article-title>Extracellular vesicles improve post-stroke neuroregeneration and prevent postischemic immunosuppression</article-title>. <source>Stem Cells Transl Med</source> (<year>2015</year>) <volume>4</volume>:<fpage>1131</fpage>–<lpage>43</lpage>.<pub-id pub-id-type="doi">10.5966/sctm.2015-0078</pub-id><?supplied-pmid 26339036?><pub-id pub-id-type="pmid">26339036</pub-id></mixed-citation>
+      </ref>
+      <ref id="B33">
+        <label>33</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ophelders</surname><given-names>DR</given-names></name><name><surname>Wolfs</surname><given-names>TG</given-names></name><name><surname>Jellema</surname><given-names>RK</given-names></name><name><surname>Zwanenburg</surname><given-names>A</given-names></name><name><surname>Andriessen</surname><given-names>P</given-names></name><name><surname>Delhaas</surname><given-names>T</given-names></name><etal/></person-group>
+<article-title>Mesenchymal stromal cell-derived extracellular vesicles protect the fetal brain after hypoxia-ischemia</article-title>. <source>Stem Cells Transl Med</source> (<year>2016</year>) <volume>5</volume>:<fpage>754</fpage>–<lpage>63</lpage>.<pub-id pub-id-type="doi">10.5966/sctm.2015-0197</pub-id><?supplied-pmid 27160705?><pub-id pub-id-type="pmid">27160705</pub-id></mixed-citation>
+      </ref>
+      <ref id="B34">
+        <label>34</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Álvarez</surname><given-names>V</given-names></name><name><surname>Sánchez-Margallo</surname><given-names>F-M</given-names></name><name><surname>Blázquez</surname><given-names>R</given-names></name><name><surname>Tarazona</surname><given-names>R</given-names></name><name><surname>Casado</surname><given-names>JG</given-names></name></person-group>
+<article-title>Comparison of mesenchymal stem cells and leukocytes from large white and Göttingen Minipigs: clues for stem cell-based immunomodulatory therapies</article-title>. <source>Vet Immunol Immunopathol</source> (<year>2016</year>) <volume>179</volume>:<fpage>63</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="doi">10.1016/j.vetimm.2016.08.002</pub-id><pub-id pub-id-type="pmid">27590427</pub-id></mixed-citation>
+      </ref>
+      <ref id="B35">
+        <label>35</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Casado</surname><given-names>JG</given-names></name><name><surname>Gomez-Mauricio</surname><given-names>G</given-names></name><name><surname>Alvarez</surname><given-names>V</given-names></name><name><surname>Mijares</surname><given-names>J</given-names></name><name><surname>Tarazona</surname><given-names>R</given-names></name><name><surname>Bernad</surname><given-names>A</given-names></name><etal/></person-group>
+<article-title>Comparative phenotypic and molecular characterization of porcine mesenchymal stem cells from different sources for translational studies in a large animal model</article-title>. <source>Vet Immunol Immunopathol</source> (<year>2012</year>) <volume>147</volume>:<fpage>104</fpage>–<lpage>12</lpage>.<pub-id pub-id-type="doi">10.1016/j.vetimm.2012.03.015</pub-id><pub-id pub-id-type="pmid">22521281</pub-id></mixed-citation>
+      </ref>
+      <ref id="B36">
+        <label>36</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>El-Andaloussi</surname><given-names>S</given-names></name><name><surname>Lee</surname><given-names>Y</given-names></name><name><surname>Lakhal-Littleton</surname><given-names>S</given-names></name><name><surname>Li</surname><given-names>J</given-names></name><name><surname>Seow</surname><given-names>Y</given-names></name><name><surname>Gardiner</surname><given-names>C</given-names></name><etal/></person-group>
+<article-title>Exosome-mediated delivery of siRNA in vitro and in vivo</article-title>. <source>Nat Protoc</source> (<year>2012</year>) <volume>7</volume>:<fpage>2112</fpage>–<lpage>26</lpage>.<pub-id pub-id-type="doi">10.1038/nprot.2012.131</pub-id><?supplied-pmid 23154783?><pub-id pub-id-type="pmid">23154783</pub-id></mixed-citation>
+      </ref>
+      <ref id="B37">
+        <label>37</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Roccaro</surname><given-names>AM</given-names></name><name><surname>Sacco</surname><given-names>A</given-names></name><name><surname>Maiso</surname><given-names>P</given-names></name><name><surname>Azab</surname><given-names>AK</given-names></name><name><surname>Tai</surname><given-names>Y-T</given-names></name><name><surname>Reagan</surname><given-names>M</given-names></name><etal/></person-group>
+<article-title>BM mesenchymal stromal cell-derived exosomes facilitate multiple myeloma progression</article-title>. <source>J Clin Invest</source> (<year>2013</year>) <volume>123</volume>:<fpage>1542</fpage>–<lpage>55</lpage>.<pub-id pub-id-type="doi">10.1172/JCI66517</pub-id><?supplied-pmid 23454749?><pub-id pub-id-type="pmid">23454749</pub-id></mixed-citation>
+      </ref>
+      <ref id="B38">
+        <label>38</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kruger</surname><given-names>S</given-names></name><name><surname>Abd Elmageed</surname><given-names>ZY</given-names></name><name><surname>Hawke</surname><given-names>DH</given-names></name><name><surname>Wörner</surname><given-names>PM</given-names></name><name><surname>Jansen</surname><given-names>DA</given-names></name><name><surname>Abdel-Mageed</surname><given-names>AB</given-names></name><etal/></person-group>
+<article-title>Molecular characterization of exosome-like vesicles from breast cancer cells</article-title>. <source>BMC Cancer</source> (<year>2014</year>) <volume>14</volume>:<fpage>44</fpage>.<pub-id pub-id-type="doi">10.1186/1471-2407-14-44</pub-id><?supplied-pmid 24468161?><pub-id pub-id-type="pmid">24468161</pub-id></mixed-citation>
+      </ref>
+      <ref id="B39">
+        <label>39</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>J</given-names></name><name><surname>Yao</surname><given-names>Y</given-names></name><name><surname>Wu</surname><given-names>J</given-names></name><name><surname>Li</surname><given-names>G</given-names></name></person-group>. <article-title>Identification and analysis of exosomes secreted from macrophages extracted by different methods</article-title>. <source>Int J Clin Exp Pathol</source> (<year>2015</year>) <volume>8</volume>:<fpage>6135</fpage>–<lpage>42</lpage>.<?supplied-pmid 26261491?><pub-id pub-id-type="pmid">26261491</pub-id></mixed-citation>
+      </ref>
+      <ref id="B40">
+        <label>40</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Théry</surname><given-names>C</given-names></name><name><surname>Amigorena</surname><given-names>S</given-names></name><name><surname>Raposo</surname><given-names>G</given-names></name><name><surname>Clayton</surname><given-names>A</given-names></name></person-group>. <article-title>Isolation and characterization of exosomes from cell culture supernatants and biological fluids</article-title>. <source>Curr Protoc Cell Biol</source> (<year>2006</year>) <volume>22</volume>:<fpage>1</fpage>–<lpage>29</lpage>.<pub-id pub-id-type="doi">10.1002/0471143030.cb0322s30</pub-id><?supplied-pmid 18228490?><pub-id pub-id-type="pmid">18228490</pub-id></mixed-citation>
+      </ref>
+      <ref id="B41">
+        <label>41</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>El-Gabalawy</surname><given-names>H</given-names></name></person-group>
+<article-title>The challenge of early synovitis: multiple pathways to a common clinical syndrome</article-title>. <source>Arthritis Res</source> (<year>1999</year>) <volume>1</volume>:<fpage>31</fpage>–<lpage>6</lpage>.<pub-id pub-id-type="doi">10.1186/ar8</pub-id><pub-id pub-id-type="pmid">11094411</pub-id></mixed-citation>
+      </ref>
+      <ref id="B42">
+        <label>42</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kastrissianakis</surname><given-names>K</given-names></name><name><surname>Beattie</surname><given-names>TF</given-names></name></person-group>. <article-title>Transient synovitis of the hip: more evidence for a viral aetiology</article-title>. <source>Eur J Emerg Med</source> (<year>2010</year>) <volume>17</volume>:<fpage>270</fpage>–<lpage>3</lpage>.<pub-id pub-id-type="doi">10.1097/MEJ.0b013e32832b1664</pub-id><?supplied-pmid 20523221?><pub-id pub-id-type="pmid">20523221</pub-id></mixed-citation>
+      </ref>
+      <ref id="B43">
+        <label>43</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Terao</surname><given-names>C</given-names></name><name><surname>Hashimoto</surname><given-names>M</given-names></name><name><surname>Yamamoto</surname><given-names>K</given-names></name><name><surname>Murakami</surname><given-names>K</given-names></name><name><surname>Ohmura</surname><given-names>K</given-names></name><name><surname>Nakashima</surname><given-names>R</given-names></name><etal/></person-group>
+<article-title>Three groups in the 28 joints for rheumatoid arthritis synovitis – analysis using more than 17,000 assessments in the KURAMA database</article-title>. <source>PLoS One</source> (<year>2013</year>) <volume>8</volume>:<fpage>e59341</fpage><pub-id pub-id-type="doi">10.1371/journal.pone.0059341</pub-id><pub-id pub-id-type="pmid">23555018</pub-id></mixed-citation>
+      </ref>
+      <ref id="B44">
+        <label>44</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Baltzer</surname><given-names>AWA</given-names></name><name><surname>Moser</surname><given-names>C</given-names></name><name><surname>Jansen</surname><given-names>SA</given-names></name><name><surname>Krauspe</surname><given-names>R</given-names></name></person-group>. <article-title>Autologous conditioned serum (Orthokine) is an effective treatment for knee osteoarthritis</article-title>. <source>Osteoarthritis Cartilage</source> (<year>2009</year>) <volume>17</volume>:<fpage>152</fpage>–<lpage>60</lpage>.<pub-id pub-id-type="doi">10.1016/j.joca.2008.06.014</pub-id><?supplied-pmid 18674932?><pub-id pub-id-type="pmid">18674932</pub-id></mixed-citation>
+      </ref>
+      <ref id="B45">
+        <label>45</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lippross</surname><given-names>S</given-names></name><name><surname>Moeller</surname><given-names>B</given-names></name><name><surname>Haas</surname><given-names>H</given-names></name><name><surname>Tohidnezhad</surname><given-names>M</given-names></name><name><surname>Steubesand</surname><given-names>N</given-names></name><name><surname>Wruck</surname><given-names>CJ</given-names></name><etal/></person-group>
+<article-title>Intraarticular injection of platelet-rich plasma reduces inflammation in a pig model of rheumatoid arthritis of the knee joint</article-title>. <source>Arthritis Rheum</source> (<year>2011</year>) <volume>63</volume>:<fpage>3344</fpage>–<lpage>53</lpage>.<pub-id pub-id-type="doi">10.1002/art.30547</pub-id><?supplied-pmid 21769848?><pub-id pub-id-type="pmid">21769848</pub-id></mixed-citation>
+      </ref>
+      <ref id="B46">
+        <label>46</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nouri</surname><given-names>A</given-names></name><name><surname>Walmsley</surname><given-names>D</given-names></name><name><surname>Pruszczynski</surname><given-names>B</given-names></name><name><surname>Synder</surname><given-names>M</given-names></name></person-group>
+<article-title>Transient synovitis of the hip: a comprehensive review</article-title>. <source>J Pediatr Orthop B</source> (<year>2014</year>) <volume>23</volume>:<fpage>32</fpage>–<lpage>6</lpage>.<pub-id pub-id-type="doi">10.1097/BPB.0b013e328363b5a3</pub-id><pub-id pub-id-type="pmid">23812087</pub-id></mixed-citation>
+      </ref>
+      <ref id="B47">
+        <label>47</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Williams</surname><given-names>LB</given-names></name><name><surname>Koenig</surname><given-names>JB</given-names></name><name><surname>Black</surname><given-names>B</given-names></name><name><surname>Gibson</surname><given-names>TWG</given-names></name><name><surname>Sharif</surname><given-names>S</given-names></name><name><surname>Koch</surname><given-names>TG</given-names></name></person-group>
+<article-title>Equine allogeneic umbilical cord blood derived mesenchymal stromal cells reduce synovial fluid nucleated cell count and induce mild self-limiting inflammation when evaluated in an LPS induced synovitis model</article-title>. <source>Equine Vet J</source> (<year>2015</year>) <volume>48</volume>:<fpage>619</fpage>–<lpage>25</lpage>.<pub-id pub-id-type="doi">10.1111/evj.12477</pub-id><pub-id pub-id-type="pmid">26114736</pub-id></mixed-citation>
+      </ref>
+      <ref id="B48">
+        <label>48</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yu</surname><given-names>B</given-names></name><name><surname>Zhang</surname><given-names>X</given-names></name><name><surname>Li</surname><given-names>X</given-names></name></person-group>
+<article-title>Exosomes derived from mesenchymal stem cells</article-title>. <source>Int J Mol Sci</source> (<year>2014</year>) <volume>15</volume>:<fpage>4142</fpage>–<lpage>57</lpage>.<pub-id pub-id-type="doi">10.3390/ijms15034142</pub-id><pub-id pub-id-type="pmid">24608926</pub-id></mixed-citation>
+      </ref>
+      <ref id="B49">
+        <label>49</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhang</surname><given-names>B</given-names></name><name><surname>Yin</surname><given-names>Y</given-names></name><name><surname>Lai</surname><given-names>RC</given-names></name><name><surname>Tan</surname><given-names>SS</given-names></name><name><surname>Choo</surname><given-names>ABH</given-names></name><name><surname>Lim</surname><given-names>SK</given-names></name></person-group>. <article-title>Mesenchymal stem cells secrete immunologically active exosomes</article-title>. <source>Stem Cells Dev</source> (<year>2014</year>) <volume>23</volume>:<fpage>1233</fpage>–<lpage>44</lpage>.<pub-id pub-id-type="doi">10.1089/scd.2013.0479</pub-id><?supplied-pmid 24367916?><pub-id pub-id-type="pmid">24367916</pub-id></mixed-citation>
+      </ref>
+      <ref id="B50">
+        <label>50</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Barile</surname><given-names>L</given-names></name><name><surname>Moccetti</surname><given-names>T</given-names></name><name><surname>Marbán</surname><given-names>E</given-names></name><name><surname>Vassalli</surname><given-names>G</given-names></name></person-group>
+<article-title>Roles of exosomes in cardioprotection</article-title>. <source>Eur Heart J</source> (<year>2016</year>) <fpage>ehw304</fpage><pub-id pub-id-type="doi">10.1093/eurheartj/ehw304</pub-id><pub-id pub-id-type="pmid">27443883</pub-id></mixed-citation>
+      </ref>
+      <ref id="B51">
+        <label>51</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ibrahim</surname><given-names>AG-E</given-names></name><name><surname>Cheng</surname><given-names>K</given-names></name><name><surname>Marbán</surname><given-names>E</given-names></name></person-group>. <article-title>Exosomes as critical agents of cardiac regeneration triggered by cell therapy</article-title>. <source>Stem Cell Reports</source> (<year>2014</year>) <volume>2</volume>:<fpage>606</fpage>–<lpage>19</lpage>.<pub-id pub-id-type="doi">10.1016/j.stemcr.2014.04.006</pub-id><?supplied-pmid 24936449?><pub-id pub-id-type="pmid">24936449</pub-id></mixed-citation>
+      </ref>
+      <ref id="B52">
+        <label>52</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chernyshev</surname><given-names>VS</given-names></name><name><surname>Rachamadugu</surname><given-names>R</given-names></name><name><surname>Tseng</surname><given-names>YH</given-names></name><name><surname>Belnap</surname><given-names>DM</given-names></name><name><surname>Jia</surname><given-names>Y</given-names></name><name><surname>Branch</surname><given-names>KJ</given-names></name><etal/></person-group>
+<article-title>Size and shape characterization of hydrated and desiccated exosomes</article-title>. <source>Anal Bioanal Chem</source> (<year>2015</year>) <volume>407</volume>:<fpage>3285</fpage>–<lpage>301</lpage>.<pub-id pub-id-type="doi">10.1007/s00216-015-8535-3</pub-id><?supplied-pmid 25821114?><pub-id pub-id-type="pmid">25821114</pub-id></mixed-citation>
+      </ref>
+      <ref id="B53">
+        <label>53</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gallet</surname><given-names>R</given-names></name><name><surname>Dawkins</surname><given-names>J</given-names></name><name><surname>Valle</surname><given-names>J</given-names></name><name><surname>Simsolo</surname><given-names>E</given-names></name><name><surname>de Couto</surname><given-names>G</given-names></name><name><surname>Middleton</surname><given-names>R</given-names></name><etal/></person-group>
+<article-title>Exosomes secreted by cardiosphere-derived cells reduce scarring, attenuate adverse remodelling, and improve function in acute and chronic porcine myocardial infarction</article-title>. <source>Eur Heart J</source> (<year>2017</year>) <volume>38</volume>(<issue>3</issue>):<fpage>201</fpage>–<lpage>11</lpage>.<pub-id pub-id-type="doi">10.1093/eurheartj/ehw240</pub-id><pub-id pub-id-type="pmid">28158410</pub-id></mixed-citation>
+      </ref>
+      <ref id="B54">
+        <label>54</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>L Ramos</surname><given-names>T</given-names></name><name><surname>Sánchez-Abarca</surname><given-names>LI</given-names></name><name><surname>Muntión</surname><given-names>S</given-names></name><name><surname>Preciado</surname><given-names>S</given-names></name><name><surname>Puig</surname><given-names>N</given-names></name><name><surname>López-Ruano</surname><given-names>G</given-names></name><etal/></person-group>
+<article-title>MSC surface markers (CD44, CD73, and CD90) can identify human MSC-derived extracellular vesicles by conventional flow cytometry</article-title>. <source>Cell Commun Signal</source> (<year>2016</year>) <volume>14</volume>:<fpage>2</fpage>.<pub-id pub-id-type="doi">10.1186/s12964-015-0124-8</pub-id><?supplied-pmid 26754424?><pub-id pub-id-type="pmid">26754424</pub-id></mixed-citation>
+      </ref>
+      <ref id="B55">
+        <label>55</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Goldlust</surname><given-names>MB</given-names></name><name><surname>Rich</surname><given-names>LC</given-names></name><name><surname>Brown</surname><given-names>WR</given-names></name></person-group>. <article-title>Immune synovitis in rabbits. Effects of differing schedules for intra-articular challenge with antigen</article-title>. <source>Am J Pathol</source> (<year>1978</year>) <volume>91</volume>:<fpage>329</fpage>–<lpage>44</lpage>.<?supplied-pmid 645828?><pub-id pub-id-type="pmid">645828</pub-id></mixed-citation>
+      </ref>
+      <ref id="B56">
+        <label>56</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ohashi</surname><given-names>F</given-names></name><name><surname>Shimada</surname><given-names>T</given-names></name><name><surname>Sakurai</surname><given-names>M</given-names></name><name><surname>Ishihara</surname><given-names>S</given-names></name><name><surname>Kuwamura</surname><given-names>M</given-names></name><name><surname>Yamate</surname><given-names>J</given-names></name><etal/></person-group>
+<article-title>The production of arthritis in beagles by an immunological reaction to bovine serum albumin</article-title>. <source>Exp Anim</source> (<year>1996</year>) <volume>45</volume>:<fpage>299</fpage>–<lpage>307</lpage>.<pub-id pub-id-type="doi">10.1538/expanim.45.299</pub-id><?supplied-pmid 8902492?><pub-id pub-id-type="pmid">8902492</pub-id></mixed-citation>
+      </ref>
+      <ref id="B57">
+        <label>57</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ross</surname><given-names>TN</given-names></name><name><surname>Kisiday</surname><given-names>JD</given-names></name><name><surname>Hess</surname><given-names>T</given-names></name><name><surname>McIlwraith</surname><given-names>CW</given-names></name></person-group>. <article-title>Evaluation of the inflammatory response in experimentally induced synovitis in the horse: a comparison of recombinant equine interleukin 1 beta and lipopolysaccharide</article-title>. <source>Osteoarthritis Cartilage</source> (<year>2012</year>) <volume>20</volume>:<fpage>1583</fpage>–<lpage>90</lpage>.<pub-id pub-id-type="doi">10.1016/j.joca.2012.08.008</pub-id><?supplied-pmid 22917743?><pub-id pub-id-type="pmid">22917743</pub-id></mixed-citation>
+      </ref>
+      <ref id="B58">
+        <label>58</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Takahashi</surname><given-names>Y</given-names></name><name><surname>Kasahara</surname><given-names>T</given-names></name><name><surname>Sawai</surname><given-names>T</given-names></name><name><surname>Rikimaru</surname><given-names>A</given-names></name><name><surname>Mukaida</surname><given-names>N</given-names></name><name><surname>Matsushima</surname><given-names>K</given-names></name><etal/></person-group>
+<article-title>The participation of IL-8 in the synovial lesions at an early stage of rheumatoid arthritis</article-title>. <source>Tohoku J Exp Med</source> (<year>1999</year>) <volume>188</volume>:<fpage>75</fpage>–<lpage>87</lpage>.<pub-id pub-id-type="doi">10.1620/tjem.188.75</pub-id><?supplied-pmid 10494903?><pub-id pub-id-type="pmid">10494903</pub-id></mixed-citation>
+      </ref>
+      <ref id="B59">
+        <label>59</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Endo</surname><given-names>H</given-names></name><name><surname>Akahoshi</surname><given-names>T</given-names></name><name><surname>Nishimura</surname><given-names>A</given-names></name><name><surname>Tonegawa</surname><given-names>M</given-names></name><name><surname>Takagishi</surname><given-names>K</given-names></name><name><surname>Kashiwazaki</surname><given-names>S</given-names></name><etal/></person-group>
+<article-title>Experimental arthritis induced by continuous infusion of IL-8 into rabbit knee joints</article-title>. <source>Clin Exp Immunol</source> (<year>1994</year>) <volume>96</volume>:<fpage>31</fpage>–<lpage>5</lpage>.<pub-id pub-id-type="doi">10.1111/j.1365-2249.1994.tb06225.x</pub-id><?supplied-pmid 7512008?><pub-id pub-id-type="pmid">7512008</pub-id></mixed-citation>
+      </ref>
+      <ref id="B60">
+        <label>60</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Güven</surname><given-names>O</given-names></name><name><surname>Tekin</surname><given-names>U</given-names></name><name><surname>Salmanoğlu</surname><given-names>B</given-names></name><name><surname>Kaymak</surname><given-names>E</given-names></name></person-group>. <article-title>Tumor necrosis factor-alpha levels in the synovial fluid of patients with temporomandibular joint internal derangement</article-title>. <source>J Craniomaxillofac Surg</source> (<year>2015</year>) <volume>43</volume>:<fpage>102</fpage>–<lpage>5</lpage>.<pub-id pub-id-type="doi">10.1016/j.jcms.2014.10.017</pub-id><?supplied-pmid 25465487?><pub-id pub-id-type="pmid">25465487</pub-id></mixed-citation>
+      </ref>
+      <ref id="B61">
+        <label>61</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Santos Savio</surname><given-names>A</given-names></name><name><surname>Machado Diaz</surname><given-names>AC</given-names></name><name><surname>Chico Capote</surname><given-names>A</given-names></name><name><surname>Miranda Navarro</surname><given-names>J</given-names></name><name><surname>Rodríguez Alvarez</surname><given-names>Y</given-names></name><name><surname>Bringas Pérez</surname><given-names>R</given-names></name><etal/></person-group>
+<article-title>Differential expression of pro-inflammatory cytokines IL-15Ralpha, IL-15, IL-6 and TNFalpha in synovial fluid from rheumatoid arthritis patients</article-title>. <source>BMC Musculoskelet Disord</source> (<year>2015</year>) <volume>16</volume>:<fpage>51</fpage>.<pub-id pub-id-type="doi">10.1186/s12891-015-0516-3</pub-id><?supplied-pmid 25879761?><pub-id pub-id-type="pmid">25879761</pub-id></mixed-citation>
+      </ref>
+      <ref id="B62">
+        <label>62</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bazzani</surname><given-names>C</given-names></name><name><surname>Filippini</surname><given-names>M</given-names></name><name><surname>Caporali</surname><given-names>R</given-names></name><name><surname>Bobbio-Pallavicini</surname><given-names>F</given-names></name><name><surname>Favalli</surname><given-names>EG</given-names></name><name><surname>Marchesoni</surname><given-names>A</given-names></name><etal/></person-group>
+<article-title>Anti-TNFalpha therapy in a cohort of rheumatoid arthritis patients: clinical outcomes</article-title>. <source>Autoimmun Rev</source> (<year>2009</year>) <volume>8</volume>:<fpage>260</fpage>–<lpage>5</lpage>.<pub-id pub-id-type="doi">10.1016/j.autrev.2008.11.001</pub-id><?supplied-pmid 19027090?><pub-id pub-id-type="pmid">19027090</pub-id></mixed-citation>
+      </ref>
+      <ref id="B63">
+        <label>63</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Reid</surname><given-names>A</given-names></name><name><surname>Brady</surname><given-names>A</given-names></name><name><surname>Blake</surname><given-names>C</given-names></name><name><surname>Mongey</surname><given-names>A-B</given-names></name><name><surname>Veale</surname><given-names>DJ</given-names></name><name><surname>FitzGerald</surname><given-names>O</given-names></name><etal/></person-group>
+<article-title>Randomised controlled trial examining the effect of exercise in people with rheumatoid arthritis taking anti-TNFα therapy medication</article-title>. <source>BMC Musculoskelet Disord</source> (<year>2011</year>) <volume>12</volume>:<fpage>11</fpage>.<pub-id pub-id-type="doi">10.1186/1471-2474-12-11</pub-id><?supplied-pmid 21232112?><pub-id pub-id-type="pmid">21232112</pub-id></mixed-citation>
+      </ref>
+      <ref id="B64">
+        <label>64</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Esposito</surname><given-names>E</given-names></name><name><surname>Cuzzocrea</surname><given-names>S</given-names></name></person-group>. <article-title>TNF-alpha as a therapeutic target in inflammatory diseases, ischemia-reperfusion injury and trauma</article-title>. <source>Curr Med Chem</source> (<year>2009</year>) <volume>16</volume>:<fpage>3152</fpage>–<lpage>67</lpage>.<pub-id pub-id-type="doi">10.2174/092986709788803024</pub-id><?supplied-pmid 19689289?><pub-id pub-id-type="pmid">19689289</pub-id></mixed-citation>
+      </ref>
+      <ref id="B65">
+        <label>65</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Boissier</surname><given-names>M-C</given-names></name><name><surname>Semerano</surname><given-names>L</given-names></name><name><surname>Challal</surname><given-names>S</given-names></name><name><surname>Saidenberg-Kermanac’h</surname><given-names>N</given-names></name><name><surname>Falgarone</surname><given-names>G</given-names></name></person-group>. <article-title>Rheumatoid arthritis: from autoimmunity to synovitis and joint destruction</article-title>. <source>J Autoimmun</source> (<year>2012</year>) <volume>39</volume>:<fpage>222</fpage>–<lpage>8</lpage>.<pub-id pub-id-type="doi">10.1016/j.jaut.2012.05.021</pub-id><?supplied-pmid 22704962?><pub-id pub-id-type="pmid">22704962</pub-id></mixed-citation>
+      </ref>
+      <ref id="B66">
+        <label>66</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kyurkchiev</surname><given-names>D</given-names></name><name><surname>Bochev</surname><given-names>I</given-names></name><name><surname>Ivanova-Todorova</surname><given-names>E</given-names></name><name><surname>Mourdjeva</surname><given-names>M</given-names></name><name><surname>Oreshkova</surname><given-names>T</given-names></name><name><surname>Belemezova</surname><given-names>K</given-names></name><etal/></person-group>
+<article-title>Secretion of immunoregulatory cytokines by mesenchymal stem cells</article-title>. <source>World J Stem Cells</source> (<year>2014</year>) <volume>6</volume>:<fpage>552</fpage>–<lpage>70</lpage>.<pub-id pub-id-type="doi">10.4252/wjsc.v6.i5.552</pub-id><pub-id pub-id-type="pmid">25426252</pub-id></mixed-citation>
+      </ref>
+      <ref id="B67">
+        <label>67</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhang</surname><given-names>B</given-names></name><name><surname>Shen</surname><given-names>L</given-names></name><name><surname>Shi</surname><given-names>H</given-names></name><name><surname>Pan</surname><given-names>Z</given-names></name><name><surname>Wu</surname><given-names>L</given-names></name><name><surname>Yan</surname><given-names>Y</given-names></name><etal/></person-group>
+<article-title>Exosomes from human umbilical cord mesenchymal stem cells: identification, purification, and biological characteristics</article-title>. <source>Stem Cells Int</source> (<year>2016</year>) <volume>2016</volume>:<fpage>1929536</fpage>.<pub-id pub-id-type="doi">10.1155/2016/1929536</pub-id><?supplied-pmid 28105054?><pub-id pub-id-type="pmid">28105054</pub-id></mixed-citation>
+      </ref>
+      <ref id="B68">
+        <label>68</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chen</surname><given-names>L</given-names></name><name><surname>Xiang</surname><given-names>B</given-names></name><name><surname>Wang</surname><given-names>X</given-names></name><name><surname>Xiang</surname><given-names>C</given-names></name></person-group>. <article-title>Exosomes derived from human menstrual blood-derived stem cells alleviate fulminant hepatic failure</article-title>. <source>Stem Cell Res Ther</source> (<year>2017</year>) <volume>8</volume>:<fpage>9</fpage>.<pub-id pub-id-type="doi">10.1186/s13287-016-0453-6</pub-id><?supplied-pmid 28115012?><pub-id pub-id-type="pmid">28115012</pub-id></mixed-citation>
+      </ref>
+      <ref id="B69">
+        <label>69</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>De Oliveira</surname><given-names>S</given-names></name><name><surname>Reyes-Aldasoro</surname><given-names>CC</given-names></name><name><surname>Candel</surname><given-names>S</given-names></name><name><surname>Renshaw</surname><given-names>SA</given-names></name><name><surname>Mulero</surname><given-names>V</given-names></name><name><surname>Calado</surname><given-names>A</given-names></name></person-group>. <article-title>Cxcl8 (IL-8) mediates neutrophil recruitment and behavior in the zebrafish inflammatory response</article-title>. <source>J Immunol</source> (<year>2013</year>) <volume>190</volume>:<fpage>4349</fpage>–<lpage>59</lpage>.<pub-id pub-id-type="doi">10.4049/jimmunol.1203266</pub-id><?supplied-pmid 23509368?><pub-id pub-id-type="pmid">23509368</pub-id></mixed-citation>
+      </ref>
+      <ref id="B70">
+        <label>70</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liu</surname><given-names>M</given-names></name><name><surname>Wang</surname><given-names>J</given-names></name><name><surname>Liu</surname><given-names>M</given-names></name><name><surname>Hu</surname><given-names>X</given-names></name><name><surname>Xu</surname><given-names>J</given-names></name></person-group>. <article-title>[Study of immunomodulatory function of exosomes derived from human umbilical cord mesenchymal stem cells]</article-title>. <source>Zhonghua Yi Xue Za Zhi</source> (<year>2015</year>) <volume>95</volume>:<fpage>2630</fpage>–<lpage>3</lpage>.<pub-id pub-id-type="doi">10.3760/cma.j.issn.0376-2491.2015.32.014</pub-id><?supplied-pmid 26711615?><pub-id pub-id-type="pmid">26711615</pub-id></mixed-citation>
+      </ref>
+      <ref id="B71">
+        <label>71</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chen</surname><given-names>W</given-names></name><name><surname>Huang</surname><given-names>Y</given-names></name><name><surname>Han</surname><given-names>J</given-names></name><name><surname>Yu</surname><given-names>L</given-names></name><name><surname>Li</surname><given-names>Y</given-names></name><name><surname>Lu</surname><given-names>Z</given-names></name><etal/></person-group>
+<article-title>Immunomodulatory effects of mesenchymal stromal cells-derived exosome</article-title>. <source>Immunol Res</source> (<year>2016</year>) <volume>64</volume>:<fpage>831</fpage>–<lpage>40</lpage>.<pub-id pub-id-type="doi">10.1007/s12026-016-8798-6</pub-id><?supplied-pmid 27115513?><pub-id pub-id-type="pmid">27115513</pub-id></mixed-citation>
+      </ref>
+      <ref id="B72">
+        <label>72</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yang</surname><given-names>J</given-names></name><name><surname>Liu</surname><given-names>X-X</given-names></name><name><surname>Fan</surname><given-names>H</given-names></name><name><surname>Tang</surname><given-names>Q</given-names></name><name><surname>Shou</surname><given-names>Z-X</given-names></name><name><surname>Zuo</surname><given-names>D-M</given-names></name><etal/></person-group>
+<article-title>Extracellular vesicles derived from bone marrow mesenchymal stem cells protect against experimental colitis via attenuating colon inflammation, oxidative stress and apoptosis</article-title>. <source>PLoS One</source> (<year>2015</year>) <volume>10</volume>:<fpage>e0140551</fpage>.<pub-id pub-id-type="doi">10.1371/journal.pone.0140551</pub-id><?supplied-pmid 26469068?><pub-id pub-id-type="pmid">26469068</pub-id></mixed-citation>
+      </ref>
+      <ref id="B73">
+        <label>73</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lascelles</surname><given-names>BDX</given-names></name><name><surname>Roe</surname><given-names>SC</given-names></name><name><surname>Smith</surname><given-names>E</given-names></name><name><surname>Reynolds</surname><given-names>L</given-names></name><name><surname>Markham</surname><given-names>J</given-names></name><name><surname>Marcellin-Little</surname><given-names>D</given-names></name><etal/></person-group>
+<article-title>Evaluation of a pressure walkway system for measurement of vertical limb forces in clinically normal dogs</article-title>. <source>Am J Vet Res</source> (<year>2006</year>) <volume>67</volume>:<fpage>277</fpage>–<lpage>82</lpage>.<pub-id pub-id-type="doi">10.2460/ajvr.67.2.277</pub-id><?supplied-pmid 16454633?><pub-id pub-id-type="pmid">16454633</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record>

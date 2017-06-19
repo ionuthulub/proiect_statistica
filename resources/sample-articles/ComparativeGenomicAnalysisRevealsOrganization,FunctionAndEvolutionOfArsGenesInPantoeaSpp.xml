@@ -1,0 +1,748 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5360009</identifier><datestamp>2017-04-04</datestamp><setSpec>frontmicrobio</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Microbiol</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Microbiol</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Microbiol.</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Microbiology</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1664-302X</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5360009</article-id>
+      <article-id pub-id-type="pmcid">PMC5360009</article-id>
+      <article-id pub-id-type="pmc-uid">5360009</article-id>
+      <article-id pub-id-type="doi">10.3389/fmicb.2017.00471</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Microbiology</subject>
+          <subj-group>
+            <subject>Original Research</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Comparative Genomic Analysis Reveals Organization, Function and Evolution of <italic>ars</italic> Genes in <italic>Pantoea</italic> spp.</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Liying</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/389646/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Jin</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/389655/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jing</surname>
+            <given-names>Chuanyong</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn001">
+            <sup>*</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/93236/overview"/>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <sup>1</sup>
+        <institution>State Key Laboratory of Environmental Chemistry and Ecotoxicology, Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences</institution>
+        <country>Beijing, China</country>
+      </aff>
+      <aff id="aff2">
+        <sup>2</sup>
+        <institution>College of Resources and Environment, University of Chinese Academy of Sciences</institution>
+        <country>Beijing, China</country>
+      </aff>
+      <aff id="aff3">
+        <sup>3</sup>
+        <institution>Department of Municipal and Environmental Engineering, School of Civil Engineering, Beijing Jiaotong University</institution>
+        <country>Beijing, China</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <p>Edited by: <italic>Manuel Espinosa, Consejo Superior de Investigaciones Científicas (CSIC), Spain</italic></p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Reviewed by: <italic>Yunyoung Kwak, Kyungpook National University, South Korea; Lukasz Drewniak, University of Warsaw, Poland; Ji-Hoon Lee, Chonbuk National University, South Korea</italic></p>
+        </fn>
+        <corresp id="fn001">*Correspondence: <italic>Chuanyong Jing, <email xlink:type="simple">cyjing@rcees.ac.cn</email></italic></corresp>
+        <fn fn-type="other" id="fn002">
+          <p>This article was submitted to Evolutionary and Genomic Microbiology, a section of the journal Frontiers in Microbiology</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>3</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2017</year>
+      </pub-date>
+      <volume>8</volume>
+      <elocation-id>471</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>04</day>
+          <month>11</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>07</day>
+          <month>3</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2017 Wang, Wang and Jing.</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <copyright-holder>Wang, Wang and Jing</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Numerous genes are involved in various strategies to resist toxic arsenic (As). However, the As resistance strategy in genus <italic>Pantoea</italic> is poorly understood. In this study, a comparative genome analysis of 23 <italic>Pantoea</italic> genomes was conducted. Two vertical genetic <italic>arsC</italic>-like genes without any contribution to As resistance were found to exist in the 23 <italic>Pantoea</italic> strains. Besides the two <italic>arsC</italic>-like genes, As resistance gene clusters <italic>arsRBC</italic> or <italic>arsRBCH</italic> were found in 15 <italic>Pantoea</italic> genomes. These <italic>ars</italic> clusters were found to be acquired by horizontal gene transfer (HGT) from sources related to <italic>Franconibacter helveticus, Serratia marcescens</italic>, and <italic>Citrobacter freundii</italic>. During the history of evolution, the <italic>ars</italic> clusters were acquired more than once in some species, and were lost in some strains, producing strains without As resistance capability. This study revealed the organization, distribution and the complex evolutionary history of As resistance genes in <italic>Pantoea</italic> spp.. The insights gained in this study improved our understanding on the As resistance strategy of <italic>Pantoea</italic> spp. and its roles in the biogeochemical cycling of As.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>comparative genomic</kwd>
+        <kwd>arsenic</kwd>
+        <kwd><italic>Pantoea</italic> spp.</kwd>
+        <kwd>arsenic resistance</kwd>
+        <kwd><italic>ars</italic> genes</kwd>
+      </kwd-group>
+      <counts>
+        <fig-count count="7"/>
+        <table-count count="1"/>
+        <equation-count count="0"/>
+        <ref-count count="43"/>
+        <page-count count="12"/>
+        <word-count count="0"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Introduction</title>
+      <p>Arsenic (As), one of the earliest known toxic elements, occurs naturally worldwide (<xref rid="B31" ref-type="bibr">Smith et al., 2002</xref>). To adapt to habitats with elevated As, microbes have evolved dynamic resistance mechanisms. The most ubiquitous and important strategy of As resistance is to reduce As(V) to As(III) and extrude it using <italic>ars</italic> operons with various genomic configurations in specific bacterial strains (<xref rid="B21" ref-type="bibr">Páezespino et al., 2009</xref>). The core genes of <italic>ars</italic> systems, however, are <italic>arsR</italic> (encoding the transcriptional repressor ArsR), <italic>arsB</italic> (encoding the arsenite efflux pump ArsB) and <italic>arsC</italic> (encoding arsenate reductase ArsC) (<xref rid="B40" ref-type="bibr">Xu et al., 1998</xref>). Besides this detoxification mechanism using <italic>ars</italic> systems, some strains possess the mechanism of As methylation-demethylation, changing inorganic As into organic forms using a distinct gene <italic>arsM</italic> (<xref rid="B22" ref-type="bibr">Qin et al., 2006</xref>; <xref rid="B42" ref-type="bibr">Zhao et al., 2015</xref>). Some strains are able to oxidize As(III) to As(V), which involve membrane-associated proteins, AoxAB (<xref rid="B13" ref-type="bibr">Levin and Tal, 2003</xref>; <xref rid="B9" ref-type="bibr">Ghosh et al., 2014</xref>). Some strains are able to reduce As(V) to As(III) with ArrAB as part of their respiratory processes transferring electrons to As and producing the energy for strains (<xref rid="B29" ref-type="bibr">Saltikov and Newman, 2003</xref>). The reported genes related to the strategy of As resistance are listed in <bold>Table <xref ref-type="table" rid="T1">1</xref></bold>.</p>
+      <table-wrap id="T1" position="float">
+        <label>Table 1</label>
+        <caption>
+          <p>Genes involved in arsenic resistance and transformation.</p>
+        </caption>
+        <table frame="hsides" rules="groups" cellspacing="5" cellpadding="5">
+          <thead>
+            <tr>
+              <th valign="top" align="left" rowspan="1" colspan="1">Function</th>
+              <th valign="top" align="left" rowspan="1" colspan="1">Gene</th>
+              <th valign="top" align="left" rowspan="1" colspan="1">Protein</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <bold>Arsenate reduction</bold>
+              </td>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <italic>arsR</italic>
+              </td>
+              <td valign="top" align="left" rowspan="1" colspan="1">Transcriptional regulator ArsR</td>
+            </tr>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1"/>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <italic>arsB</italic>
+              </td>
+              <td valign="top" align="left" rowspan="1" colspan="1">As(III) efflux pump protein</td>
+            </tr>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1"/>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <italic>arsC</italic>
+              </td>
+              <td valign="top" align="left" rowspan="1" colspan="1">As(V) reductase ArsC</td>
+            </tr>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1"/>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <italic>arsH</italic>
+              </td>
+              <td valign="top" align="left" rowspan="1" colspan="1">Putative flavoprotein</td>
+            </tr>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1"/>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <italic>arsA</italic>
+              </td>
+              <td valign="top" align="left" rowspan="1" colspan="1">As(III) active ATPase</td>
+            </tr>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1"/>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <italic>arsD</italic>
+              </td>
+              <td valign="top" align="left" rowspan="1" colspan="1">As metallochaperone</td>
+            </tr>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1"/>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <italic>arsO</italic>
+              </td>
+              <td valign="top" align="left" rowspan="1" colspan="1">Monooxygenase</td>
+            </tr>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1"/>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <italic>arsT</italic>
+              </td>
+              <td valign="top" align="left" rowspan="1" colspan="1">Putative thioredoxin system</td>
+            </tr>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1"/>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <italic>arsX</italic>
+              </td>
+              <td valign="top" align="left" rowspan="1" colspan="1">Unknown function</td>
+            </tr>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1"/>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <italic>arsN</italic>
+              </td>
+              <td valign="top" align="left" rowspan="1" colspan="1">Acetyltransferases</td>
+            </tr>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <bold>Respiratory reduction</bold>
+              </td>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <italic>arrA</italic>
+              </td>
+              <td valign="top" align="left" rowspan="1" colspan="1">Large subunit of respiratory As(V) reductase</td>
+            </tr>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1"/>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <italic>arrB</italic>
+              </td>
+              <td valign="top" align="left" rowspan="1" colspan="1">Small subunit of respiratory As(V) reductase</td>
+            </tr>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <bold>Arsenite oxidation</bold>
+              </td>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <italic>aioA</italic>
+              </td>
+              <td valign="top" align="left" rowspan="1" colspan="1">Large subunit of As oxidase</td>
+            </tr>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1"/>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <italic>aioB</italic>
+              </td>
+              <td valign="top" align="left" rowspan="1" colspan="1">Small subunit of As oxidase</td>
+            </tr>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1"/>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <italic>aioD</italic>
+              </td>
+              <td valign="top" align="left" rowspan="1" colspan="1">Biosynthesis protein A with molybdenum cofactor</td>
+            </tr>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1"/>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <italic>aioX</italic>
+              </td>
+              <td valign="top" align="left" rowspan="1" colspan="1">Phosphonate-binding periplasmic protein</td>
+            </tr>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1"/>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <italic>aioS</italic>
+              </td>
+              <td valign="top" align="left" rowspan="1" colspan="1">Histidine kinase for signal transduction</td>
+            </tr>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1"/>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <italic>aioC</italic>
+              </td>
+              <td valign="top" align="left" rowspan="1" colspan="1">Cytochrome c</td>
+            </tr>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <bold>Arsenic methylation</bold>
+              </td>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <italic>arsM</italic>
+              </td>
+              <td valign="top" align="left" rowspan="1" colspan="1">As(III) S-adenosylmethyltransferase</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>In traditional molecular biology research, As resistance traits are revealed primarily based on the cultivation of a specific strain, and it is impossible to study the As strategy of all strains in a genus. Nevertheless, understanding of such traits in all strains of a genus is sometime more desirable. Gaining this knowledge is no longer a challenge with the explosive development of high-throughput sequencing technology. The genomic sequence of a strain contains nearly all of the genetic information. Therefore, fundamental knowledge such as the phylogenetic, the genetic traits of As resistance and its evolutionary history can be obtained through comparative genomic analysis (<xref rid="B1" ref-type="bibr">Arsène-Ploetze et al., 2010</xref>; <xref rid="B5" ref-type="bibr">Colston et al., 2014</xref>). So here we use genomic information of <italic>Pantoea</italic> spp. and compared these genomes to explore and predict the strategy of As resistance and their evolutionary patterns in genus <italic>Pantoea</italic> as an example.</p>
+      <p><italic>Pantoea</italic> is a genus of Gram-negative, facultative anaerobic bacteria. This genus belongs to gamma <italic>Proteobacteria</italic>, family <italic>Gammaproteobacteria</italic>, and was recently separated from the genus <italic>Enterobacter</italic> (<xref rid="B7" ref-type="bibr">Gavini et al., 1989</xref>). Currently, the genus contains 26 species<sup><xref ref-type="fn" rid="fn01">1</xref></sup>. Members of this genus are found in various environmental matrices (<xref rid="B17" ref-type="bibr">Meng et al., 1995</xref>; <xref rid="B41" ref-type="bibr">Zhang and Birch, 1997</xref>; <xref rid="B23" ref-type="bibr">Rezzonico et al., 2009</xref>). In 2013, the strain <italic>Pantoea</italic> sp. IMH was an isolate that reported firstly as the strain having the As resistance capability within <italic>Pantoea</italic> species (<xref rid="B38" ref-type="bibr">Wu et al., 2013</xref>). Further, we sequenced the genome of <italic>Pantoea</italic> sp. IMH and found two <italic>ars</italic> clusters (<italic>arsR1B1C1H1</italic> and <italic>arsR2B2C2H2</italic>) co-contributing to its As resistance (<xref rid="B35" ref-type="bibr">Tian and Jing, 2014</xref>; <xref rid="B37" ref-type="bibr">Wang et al., 2016</xref>). However, the evolutionary history and genetic traits of As resistance in genus <italic>Pantoea</italic> are not fully understood.</p>
+      <p>Herein, we present the first study of the genetic traits of As resistance in <italic>Pantoea</italic> spp., as well as their evolutionary history. Two vertically transmitted <italic>arsC</italic>-like genes without any contribution to As resistance were found to exist in the 23 <italic>Pantoea</italic> strains. Besides these two <italic>arsC</italic>-like genes, As resistance gene clusters <italic>arsRBC</italic> or <italic>arsRBCH</italic> were found in 15 <italic>Pantoea</italic> genomes. These <italic>ars</italic> clusters were acquired by horizontal gene transfer (HGT) from sources related to <italic>Franconibacter helveticus, Serratia marcescens</italic>, and <italic>Citrobacter freundii</italic>. The insights gained in this study improve our understanding on the complex evolutionary history of As resistance genes and their roles in the biogeochemical cycling of As.</p>
+    </sec>
+    <sec sec-type="materials|methods" id="s1">
+      <title>Materials and Methods</title>
+      <sec>
+        <title>Phylogenetic Analysis</title>
+        <p>Phylogenetic trees of <italic>Pantoea</italic> species were constructed based on 100 single-copy core proteins shared by 23 <italic>Pantoea</italic> genomes and the genome of <italic>Tatumella</italic> sp. NML 06-3099 according to the following three methods: maximum likelihood (ML), neighbor joining (NJ), and Bayesian inference (BI). ML and NJ trees were computed by applying models with 1,000 bootstrap replicates and uniform rates in MEGA5 (<xref rid="B33" ref-type="bibr">Tamura, 2011</xref>). Multiple alignments of amino acid sequences were carried out by ClustalW, and the CONSEL program was used to select the best model of the trees (<xref rid="B30" ref-type="bibr">Shimodaira and Hasegawa, 2001</xref>; <xref rid="B34" ref-type="bibr">Thompson et al., 2002</xref>). The BI tree was generated using the MrBayes package with mixed models (<xref rid="B27" ref-type="bibr">Ronquist et al., 2012</xref>). The NJ tree of concatenated <italic>arsRBC</italic> homologs was generated according to the same method described above. MEGA5 or FigTree v.1.3.1<sup><xref ref-type="fn" rid="fn02">2</xref></sup> was used to illustrate the constructed trees.</p>
+      </sec>
+      <sec>
+        <title>Average Nucleotide Identity (ANI)</title>
+        <p>Assembled contigs were reconstituted from the RAST-generated GenBank files for 23 genomes by using the seqret function of the EMBOSS package (<xref rid="B24" ref-type="bibr">Rice et al., 2000</xref>). These 23 genomes were treated in the same manner to ensure that any biases were consistent across the entire dataset. JSpecies1.2.1 was used to analyze these contig sets for the ANI and tetramer usage patterns, using default parameters (<xref rid="B26" ref-type="bibr">Richter and Rosselló-Móra, 2009</xref>).</p>
+      </sec>
+      <sec>
+        <title>Comparative Genomics</title>
+        <p>All of the orthologous pairs between <italic>Pantoea</italic> test genomes were identified by Pan Genome Analysis Pipeline (PGAP) (<xref rid="B43" ref-type="bibr">Zhao et al., 2012</xref>). The common dataset of shared genes among test strains was defined as their core genome. The total set of genes with test genomes was defined as the pan genome. The set of genes in each strain not shared with other strains was defined as the unique genes. The details of the strains used are listed in Supplementary Table <xref ref-type="supplementary-material" rid="SM1">S1</xref>.</p>
+      </sec>
+      <sec>
+        <title>Construction of the Recombinant Plasmids and <italic>Escherichia coli</italic> Strains</title>
+        <p>A 3.86 kb <italic>Bam</italic>HI-<italic>Xba</italic>I DNA fragment containing the complete <italic>ars1</italic> cluster of <italic>Pantoea stewartii</italic> S301 (promoter region, 342 bp upstream of the start codon ATG of <italic>arsR</italic>, the contiguous four genes <italic>arsR1B1C1H1</italic> and 281 bp upstream of the start codon ATG of <italic>arsH</italic>) was PCR amplified with primers Ars1-F and Ars1-R (Supplementary Table <xref ref-type="supplementary-material" rid="SM1">S2</xref>). A 3.43 kb <italic>Bam</italic>HI-<italic>Xba</italic>I DNA fragment containing the complete <italic>ars2</italic> gene cluster of <italic>P. agglomerans</italic> Tx10 (a 280 bp region downstream of the stop codon TAA of <italic>arsC2</italic> and the contiguous ten genes <italic>arsR2B2C2H2</italic> and 328 bp downstream of the stop codon TAA of <italic>arsH2</italic>) was PCR amplified with primers Ars2-F and Ars2-R (Supplementary Table <xref ref-type="supplementary-material" rid="SM1">S2</xref>).</p>
+        <p>An 860 bp <italic>Bam</italic>HI-<italic>Xba</italic>I DNA fragment containing the complete <italic>arsC1-</italic>like gene of <italic>P. stewartii</italic> DC283 (promoter region, 221 bp upstream of the start codon ATG of <italic>arsC1</italic>-like gene, <italic>arsC1</italic>-like and 209 bp downstream of the stop codon TTA of <italic>arsC1</italic>-like gene) was PCR amplified with primers ArsC1-like-F and ArsC1-like-R (Supplementary Table <xref ref-type="supplementary-material" rid="SM1">S2</xref>). A 942 bp <italic>Bam</italic>HI-<italic>Xba</italic>I DNA fragment containing the complete <italic>arsC2</italic>-like gene of <italic>P. stewartii</italic> DC283 (promoter region, 265 bp upstream of the start codon ATG of <italic>arsC2</italic>-like gene, <italic>arsC2</italic>-like and 236 bp downstream of the stop codon TTA of <italic>arsC2</italic>-like gene) was PCR amplified with primers ArsC2-like-F and ArsC2-like-R (Supplementary Table <xref ref-type="supplementary-material" rid="SM1">S2</xref>).</p>
+        <p>The above PCR products were ligated to the <italic>Bam</italic>HI-<italic>Xba</italic>I site of plasmid pUC18, yielding plasmids pUC18-ars1, pUC18-ars2, pUC18-arsC1-like, and pUC18-arsC2-like. Then the plasmids were transferred to <italic>E. coli</italic> AW3110, yielding the recombinant <italic>E. coli</italic> AW3110-ars1, <italic>E. coli</italic> AW3110-ars2, <italic>E. coli</italic> AW3110-arsC1-like and <italic>E. coli</italic> AW3110-arsC2-like strains, respectively.</p>
+      </sec>
+      <sec>
+        <title>Strains, Plasmids, and Culture Conditions</title>
+        <p>The strains and plasmids used in this work are summarized in Supplementary Table <xref ref-type="supplementary-material" rid="SM1">S3</xref>. <italic>E. coli</italic> and <italic>Pantoea</italic> strains were grown in LB medium (per liter contains: 10 g tryptone, 5 g yeast, and 10 g NaCl) or LB plates (LB medium with w/v 1.5% agar) at 30°C. When appropriate, antibiotics were added at the following concentration: 100 μg/mL ampicillin. Resistance to As species was tested by plating serial dilutions of cultures of each strain onto agar plates containing filtered sodium arsenate (Na<sub>3</sub>AsO<sub>4</sub>).</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Results</title>
+      <sec>
+        <title>Genomic Features</title>
+        <p>To date, 26 species have been reported in genus <italic>Pantoea</italic> and strains of nine species (<italic>P. ananatis, P. agglomerans, P. stewartii, P. vagans, P. dispersa, P. septica, P. rodasii, P. rwandensis</italic>, and <italic>P. anthophila</italic>) have been sequenced<sup><xref ref-type="fn" rid="fn03">3</xref></sup>. To study the genetic traits and phylogenetic history of As resistance in genus <italic>Pantoea</italic>, 23 strains were chosen, containing two to three standard strains sequenced in each species and five unidentified strains (Supplementary Table <xref ref-type="supplementary-material" rid="SM1">S1</xref>). A summary of features for these 23 sequenced genomes is listed in Supplementary Table <xref ref-type="supplementary-material" rid="SM1">S1</xref>. The G+C contents of the 23 genomes range from 53.4 to 59.1. These genomes vary in size by approximately 1.6 mega-bases in average (ranging from 4.02 to 5.68 Mb) with coding sequence (CDS) numbers ranging from 3580 to 8894, indicating a substantial strain-to-strain variation.</p>
+      </sec>
+      <sec>
+        <title>Strain-Specific and Core Genes</title>
+        <p>To reveal the genomic features specific to each strain, we identified all orthologous pairs between the tested <italic>Pantoea</italic> genomes using PGAP. Our analysis of the total of 23 genomes revealed that a pan genome contains 48,207 putative protein-coding genes in the genus <italic>Pantoea</italic>. Out of these 48,207 genes, 10,896 (22.6%) were represented in the specific genomes of <italic>Pantoea</italic> spp., suggesting some frequency of horizontal gene acquisition from other taxa. The number of specific genes ranges from 131 to 1,285, with the smallest encoded by <italic>P. vagans</italic> C9-1 and the largest identified in <italic>P. agglomerans</italic> Tx10 (Supplementary Figure <xref ref-type="supplementary-material" rid="SM1">S1</xref>). The cluster of orthologous groups (COG) assignments reveal that a higher proportion of strain-specific genes in most of the strains can be assigned to the K (transcription), L (DNA replication), and M (cell wall/membrane/envelope biogenesis) categories (Supplementary Figure <xref ref-type="supplementary-material" rid="SM1">S2</xref>).</p>
+        <p>In contrast to the pan-genome, the core genome of <italic>Pantoea</italic> spp. contains 1,994 putative protein-coding genes, which represents 38.8–56.1% of the repertoire of protein coding genes of each strain, illustrating a small degree of genomic diversity in this group of bacteria (Supplementary Figure <xref ref-type="supplementary-material" rid="SM1">S1</xref>). The genomic analysis agrees with the fact that <italic>Pantoea</italic> strains are consistent in morphological and physiological appearance. Furthermore, the COG assignment results show that these core genes are in different functional categories (Supplementary Figure <xref ref-type="supplementary-material" rid="SM1">S3</xref>). In fact, the percentage of genes in each functional category remains rather similar (with an average divergence of 8.6%). This is consistent with an earlier report that larger prokaryotic genomes preferentially accumulate genes directly or indirectly involved in metabolism (<xref rid="B12" ref-type="bibr">Konstantinidis and Tiedje, 2004</xref>). These genes support a broader metabolic diversity, which, in turn, would improve the ecological success of <italic>Pantoea</italic> under more diverse environmental conditions.</p>
+      </sec>
+      <sec>
+        <title>Phylogenic Analyses</title>
+        <p>To associate the distribution of As resistance genes in <italic>Pantoea</italic> spp. with their phylogenetic affiliation, we constructed the phylogeny tree of the 23 <italic>Pantoea</italic> spp. based on 16S rRNA gene sequences using NJ methods rooted by <italic>Tatumella</italic> sp. NML 06-3099 (Supplementary Figure <xref ref-type="supplementary-material" rid="SM1">S9</xref>). This phylogenetic tree showed that the strains in the same species reported were grouped together except strain 848PVAG. At the same time, we constructed the phylogeny of the 23 genomes based on concatenation of the 100 core genes that are present as single copies in a genome using the ML method and rooted by <italic>Tatumella</italic> sp. NML 06-3099 (<bold>Figure <xref ref-type="fig" rid="F1">1</xref></bold>). The phylogenetic trees, inferred using BI and NJ methods (Supplementary Figures <xref ref-type="supplementary-material" rid="SM1">S4, S5</xref>), were congruent with the ML phylogenetic tree. These trees show that some strains in different species reported were grouped together, such as, FF5 and 848PVAG, ZBG6, GB1, MP2, and Tx10. The phylogeny based on the 100 core genes that are present as single copies in a genome showed a good correlation with that of 16S rRNA gene sequences, except for three strains ZBG6, GB1, and 299R. These results suggested that there were mistakes in the classification of <italic>Pantoea</italic> spp.. Further identification of the phylogenetic status of these strains was carried out as follows.</p>
+        <fig id="F1" position="float">
+          <label>FIGURE 1</label>
+          <caption>
+            <p><bold>Phylogenetic relationship of 23 <italic>Pantoea</italic> strains.</bold> Maximum likelihood (ML) phylogenetic tree was constructed based on 100 single-copy core proteins shared by 23 genomes and an out-group <italic>Tatumella</italic> sp. NML 06-3099.</p>
+          </caption>
+          <graphic xlink:href="fmicb-08-00471-g001"/>
+        </fig>
+        <p>The information gained from the phylogenetic analysis provides an important depiction of the evolutionary relationship between different strains, but it does not translate directly into the overall similarity of the genomes, which is usually determined through the DNA-DNA hybridization (DDH). Herein, ANI approach was used to overcome the difficulty of conventional laboratory-based DDH in evaluating the genomic similarity of bacteria (<xref rid="B26" ref-type="bibr">Richter and Rosselló-Móra, 2009</xref>). The ANI results justified the conclusion of phylogenetic analysis. As shown in <bold>Figure <xref ref-type="fig" rid="F2">2</xref></bold>, 23 strains were classified into 12 species based on their ANI ≥ 96%. For examples, LMG2665 and LMG20103 resulted in a higher ANI (99.3%), suggesting that they belong to the same species (<italic>P. ananatis</italic>). Strain 9140 and C91 resulted in a higher ANI (98.6%), suggesting that they belong to the same species (<italic>P. vagans</italic>). It was noteworthy that <italic>Panotea</italic> sp. IMH represented a novel species for the ANI ≥ 96% between IMH and other strains.</p>
+        <fig id="F2" position="float">
+          <label>FIGURE 2</label>
+          <caption>
+            <p><bold>Average Nucleotide Identity (ANI) (%) based on whole genome alignments.</bold> ANI values are colored red according to historical species cutoff value (≥96%). Strains in one species are marked out the same color.</p>
+          </caption>
+          <graphic xlink:href="fmicb-08-00471-g002"/>
+        </fig>
+        <p>Strains MP2, Tx10, GB1, and ZBG6 which grouped together were identified as strains of <italic>P. agglomerans</italic>. Meanwhile, this result confirms the synonymy of <italic>P.</italic> FF5 and 848 PVAG (<italic>P. vagans</italic>), and suggests that 299R is not a member of species <italic>P. agglomerans.</italic> In agreement with the phylogenetic analysis, our ANI results indicate that there are mistakes in the classification of strain 299R, 848PVAG, GB1, and ZBG6. This mis-classification was also reported in other genus and generally corrected with the advance in technology (<xref rid="B11" ref-type="bibr">Goris et al., 2007</xref>). To associate the distribution of As-related genes with their phylogenetic affiliation, in this article below we renamed strain 299R to <italic>P. reagglomerans</italic> 299R (<italic>P. agglomerans</italic> 299R), 848PVAG to <italic>P. septica</italic> 848PVAG (<italic>P. vagans</italic> 848PVAG), GB1 to <italic>P. agglomerans</italic> GB1 (<italic>P. ananatis</italic> GB1), and ZBG6 to <italic>P. agglomerans</italic> ZBG6 (<italic>P. vagans</italic> ZBG6).</p>
+      </sec>
+      <sec>
+        <title>Distribution and Organization of As-Related Genes in <italic>Pantoea</italic> Genomes</title>
+        <p>Only As resistance genes (<italic>ars</italic> genes) including <italic>arsR, arsB, arsC</italic>, and <italic>arsH</italic> were detected in most <italic>Pantoea</italic> genomes (Supplementary Table <xref ref-type="supplementary-material" rid="SM1">S4</xref> and <bold>Figure <xref ref-type="fig" rid="F3">3</xref></bold>). The <italic>arsC</italic> gene encoding arsenate reductase is involved in the transformation of As(V) to As(III), which is then excreted by the As efflux pump ArsB encoded by the <italic>arsB</italic> gene. Nevertheless, <italic>aio, arr</italic>, and <italic>arsM</italic> were not found in <italic>Pantoea</italic> genomes, suggesting that cytoplasmic As(V) reduction and As(III) extrusion are the As resistance strategy used in genus <italic>Pantoea</italic> spp.. This mechanism benefits the bacteria itself, though it enhances the toxicity to the surrounding environment.</p>
+        <fig id="F3" position="float">
+          <label>FIGURE 3</label>
+          <caption>
+            <p><bold>Distribution and organization of <italic>ars</italic> genes and <italic>arsC</italic>-like genes in 23 <italic>Pantoea</italic> strains.</bold>
+<italic>arsC, arsB, arsR, arsH</italic>, and <italic>arsC</italic>-like genes are marked with different colors. There are only <italic>arsC</italic>-like genes in Sub-group I, <italic>arsR1B1C1</italic> or <italic>arsR1B1C1H1</italic> in Sub-group II, <italic>arsR2B2C2</italic> or <italic>arsR2B2C2H2</italic> in Sub-group III, and both <italic>arsR1B1C1H1</italic> and <italic>arsR2B2C2H2</italic> in Sub-group IV.</p>
+          </caption>
+          <graphic xlink:href="fmicb-08-00471-g003"/>
+        </fig>
+        <p>The <italic>ars</italic> genes in a genome are prone to group together as <italic>ars</italic> clusters (<italic>arsRBC</italic> and <italic>arsRBCH</italic>). Although comparison of the COG assignments of 23 genomes revealed that the DNA sequences between homologous genes within these <italic>ars</italic> clusters are conserved, some variations exist in DNA sequences, which can be divided into two sub-groups (<italic>ars1</italic> and <italic>ars2</italic>) (<bold>Figure <xref ref-type="fig" rid="F3">3</xref></bold>). Unlike the two <italic>ars</italic> clusters in <italic>Pantoea</italic> sp. IMH, only one <italic>ars</italic> cluster, either <italic>ars1</italic> or <italic>ars2</italic>, was observed in other strains (Supplementary Table <xref ref-type="supplementary-material" rid="SM1">S2</xref> and <bold>Figure <xref ref-type="fig" rid="F3">3</xref></bold>). The <italic>ars</italic> gene clusters generally exhibited more than 80% identity within each sub-group and about 54% identity between two sub-groups. Actually, the <italic>ars</italic> clusters were not detected in eight strains including Sc1, BL1, 9140, DC283, MP7, C91, ND04, and FF5. Moreover, two <italic>arsC</italic>-like genes with only 25% homology (<italic>arsC1</italic>-like and <italic>arsC2</italic>-like) were found in the 23 genomes. Based on the different <italic>ars</italic> genes distributions, the 23 strains were categorized into four sub-groups and discussed as follows. The overall distribution and organization of As resistance genes in 23 <italic>Pantoea</italic> strains are summarized in <bold>Figure <xref ref-type="fig" rid="F3">3</xref></bold>.</p>
+      </sec>
+      <sec>
+        <title>Evolution and the Origin of <italic>ars</italic> Clusters</title>
+        <p>The distribution and organization of <italic>ars</italic> genes in <italic>Pantoea</italic> raise a question as to their evolution. The deviant G+C content is used as a detect method of HGT (<xref rid="B19" ref-type="bibr">Ochman et al., 2000</xref>; <xref rid="B39" ref-type="bibr">Xie et al., 2014</xref>). We detected the G+C content of <italic>ars</italic> clusters and their corresponding genomes. The results showed that the G+C contents of the <italic>ars1</italic> clusters are higher than those of the genomes in <italic>Pantoea</italic> strains (56.3–57.8 vs. 53.4–54.7) except <italic>P. septica</italic> 848PVAG (<italic>P. vagans</italic> 848PVAG) and <italic>P. dispersa</italic> EGD-AAK13; the G+C contents of the <italic>ars2</italic> clusters are lower than those of the genomes in <italic>Pantoea</italic> strains (50.6–52.4 vs. 53.7–58.8), showing variation of G+C content between clusters and the corresponding genomes. These results indicated that these <italic>ars</italic> clusters may be acquired in <italic>Pantoea</italic> strains by HGT (Supplementary Table <xref ref-type="supplementary-material" rid="SM1">S4</xref> and Figure <xref ref-type="supplementary-material" rid="SM1">S6</xref>). To further elucidate the evolution of the <italic>ars</italic> gene clusters, we compared the chromosomal regions flanking the <italic>ars</italic> gene clusters among the 23 <italic>Pantoea</italic> strains and found that the genes in the upstream and downstream regions were conserved among strains of the same species (<bold>Figure <xref ref-type="fig" rid="F4">4</xref></bold>). For example, the DNA polymerase V subunit UmuC gene and adenosine deaminase gene in the upstream and Cd(II)/Pb(II)-responsive transcriptional regulator gene and ATPase P gene in the downstream are conserved for the <italic>ars</italic> clusters in the strain Tx10, MP2, ZBG6, and GB1 within the species <italic>P. agglomerans</italic> strains. The same species strains share the same insertion sites, whereas the different species’ strains result in different insertion sites, suggesting that <italic>ars</italic> clusters may be acquired more than once.</p>
+        <fig id="F4" position="float">
+          <label>FIGURE 4</label>
+          <caption>
+            <p><bold>Synteny of the chromosomal regions flanking the <italic>ars</italic> gene cluster among each species-group</bold>.</p>
+          </caption>
+          <graphic xlink:href="fmicb-08-00471-g004"/>
+        </fig>
+        <p>Interestingly, as shown in <bold>Figure <xref ref-type="fig" rid="F4">4</xref></bold>, the flanking regions of the <italic>ars</italic> gene clusters in strain <italic>P. stewartii</italic> S301 and <italic>P. stewartii</italic> A206 were homologous to the corresponding regions of strain <italic>P. stewartii</italic> DC283; the same phenomenon was found in strain <italic>P. septica</italic> 848PVAG (<italic>P. vagans</italic> 848PVAG) and <italic>P. septica</italic> FF5, and strain <italic>P. anthophila</italic> 11-2 and <italic>Pantoea</italic> sp. Sc1. This result suggests that <italic>ars</italic> clusters may be lost in <italic>P. stewartii</italic> DC283, <italic>P. septica</italic> FF5, and <italic>Pantoea</italic> sp. Sc1.</p>
+        <p>To gain insights into the origin of <italic>ars</italic> genes clusters in <italic>Pantoea</italic>, a NJ phylogenetic tree was constructed based on the ArsRBC protein sequences. As shown in <bold>Figure <xref ref-type="fig" rid="F5">5</xref></bold>, the strains possessing <italic>ars1</italic> and <italic>ars2</italic> clusters form separate groups. Notably, the phylogeny reveals that the <italic>ars1</italic> and <italic>ars</italic> clusters of <italic>F. helveticus</italic> were sister groups, and <italic>ars2</italic> grouped to <italic>ars</italic> clusters of <italic>S. marcescens</italic> and <italic>C. freundii</italic>. These results imply that the <italic>ars1</italic> cluster may be acquired via HGT from <italic>F. helveticus</italic>, and <italic>ars2</italic> from <italic>S. marcescens and C. freundii</italic> in early evolutionary history.</p>
+        <fig id="F5" position="float">
+          <label>FIGURE 5</label>
+          <caption>
+            <p><bold>Neighbor joining phylogenetic tree of the ArsRBC protein sequences derived from <italic>Pantoea</italic> spp. strains and other representative species.</bold> A total of 1,000 bootstrap replicates was made, and bootstrap values are indicated at each node. <italic>ars1</italic> cluster grouped together marked in red, <italic>ars2</italic> cluster formed in another group marked in blue.</p>
+          </caption>
+          <graphic xlink:href="fmicb-08-00471-g005"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Two <italic>arsC</italic>-Like Genes in <italic>Pantoea</italic></title>
+        <p>Our studies reveal that two <italic>arsC</italic>-like genes (<italic>arsC1</italic>-like and <italic>arsC2</italic>-like) are found in the 23 genomes with just 25% homology (<bold>Figure <xref ref-type="fig" rid="F3">3</xref></bold>). Our phylogenetic analysis showed that the ArsC-like sequences formed distinct groups, which were clearly divergent from conventional arsenate reductase (<bold>Figure <xref ref-type="fig" rid="F6">6</xref></bold>). It was reported that Cys-12, Arg-60, Arg-94, and Arg-107 were four conserved residues of the ArsC protein in the process of arsenic resistance (<xref rid="B10" ref-type="bibr">Gladysheva et al., 1996</xref>). Cys-12 was identified as a catalytic residue and was activated by nearby residues Arg-60, Arg-94, and Arg-107 (<xref rid="B16" ref-type="bibr">Martin et al., 2001</xref>). Alignment analysis of a<italic>rsC</italic> and <italic>arsC</italic>-like genes shows that Cys-12 and Arg-94 residues were conserved, but residues Arg-107 and Arg-60 in two ArsC-like proteins were not conserved (Supplementary Figure <xref ref-type="supplementary-material" rid="SM1">S8</xref>). These results suggest that these two <italic>arsC</italic>-like genes are not involved in the As resistance.</p>
+        <fig id="F6" position="float">
+          <label>FIGURE 6</label>
+          <caption>
+            <p><bold>Neighbor-joining tree based on ArsC/ArsC-like proteins.</bold> ArsC/ArsC-like sequences were derived from 23 <italic>Pantoea</italic> strains and the representative microorganisms. ArsC sequence of <italic>Bacillus subtilis</italic> 168 was used as an out group.</p>
+          </caption>
+          <graphic xlink:href="fmicb-08-00471-g006"/>
+        </fig>
+        <p>To explore the evolution of these two <italic>arsC</italic>-like genes in <italic>Pantoea</italic>, molecular phylogenetic analysis, molecular conservation, and linear representation analysis were used (<xref rid="B25" ref-type="bibr">Rice and Lampson, 1995</xref>; <xref rid="B18" ref-type="bibr">Nelson et al., 1999</xref>; <xref rid="B2" ref-type="bibr">Brochier-Armanet and Forterre, 2006</xref>; <xref rid="B6" ref-type="bibr">Dagan et al., 2008</xref>). The comparative analysis showed that the two <italic>arsC</italic>-like genes are conserved in all of the 23 (Supplementary Figure <xref ref-type="supplementary-material" rid="SM1">S7</xref>). Phylogenetic analysis showed that <italic>arsC1</italic>-like and <italic>arsC2</italic>-like genes were grouped together, respectively (<bold>Figure <xref ref-type="fig" rid="F6">6</xref></bold>). These results suggested that the two <italic>arsC</italic>-like genes evolved with a possible evolutionary scenario of that there is a common ancestor. Further, we compared the flanking regions of the two <italic>arsC</italic>-like genes. Interestingly, two genes in the upstream (the uracil phosphoribosyl transferase genes and uracil/xanthine transporter genes) and two genes in the downstream (sulfur reduction protein DsrE and GntR family transcriptional regulator genes) are conserved for <italic>arsC1</italic>-like genes. The two genes in the upstream (DNA-binding response regulator genes and multidrug efflux RND transporter permease genes) and two genes in the downstream (succinyl-diaminopimelate desuccinylase genes and membrane protein genes) are also conserved for <italic>arsC2</italic>-like genes (Supplementary Figure <xref ref-type="supplementary-material" rid="SM1">S7</xref>). This observation also suggests that <italic>arsC1</italic>-like and <italic>arsC2</italic>-like genes were the vertical genetic genes in the genus <italic>Pantoea</italic>. Possibility, they may have been the main As resistance contributors in early times and later had evolved with deviance.</p>
+      </sec>
+      <sec>
+        <title>Functional Analysis of <italic>ars</italic> Gene and <italic>arsC</italic>-Like Genes</title>
+        <p>To verify that the <italic>ars</italic> gene clusters are the contributors to the As resistance, the <italic>ars1</italic> cluster with its promoter from <italic>P. stewartii</italic> S301, a representative strain with the <italic>ars1</italic> cluster, and the <italic>ars2</italic> cluster with its promoter from <italic>P. agglomerans</italic> Tx10, a representative strain with the <italic>ars2</italic> cluster, were PCR amplified and then ligated into vector pUC18 and further transferred to <italic>E. coli</italic> AW3110 (without any As resistance genes). The growth of the yielded recombinant <italic>E. coli</italic> strains <italic>E. coli-</italic>ars1 and <italic>E. coli-</italic>ars2, was tested in 5 mM concentration As(V). As shown in <bold>Figure <xref ref-type="fig" rid="F7">7</xref></bold>, both <italic>E. coli-</italic>ars1 and <italic>E. coli-</italic>ars2 survived in 5 mM As(V), and <italic>E. coli-</italic>ars1 grew better than <italic>E. coli-</italic>ars2. This result suggests that both the <italic>ars1</italic> and <italic>ars2</italic> clusters enabled <italic>E. coli</italic> AW3110 to resist As, and <italic>ars1</italic> seemed to have a more effective As resistance capability than <italic>ars2</italic>.</p>
+        <fig id="F7" position="float">
+          <label>FIGURE 7</label>
+          <caption>
+            <p><bold>The heterologous expression of <italic>ars1, ars2, arsC1</italic>-like and <italic>arsC2</italic>-like in <italic>E. coli</italic> AW3110.</bold> The pUC18-<italic>ars1</italic>, pUC18-<italic>ars2</italic>, pUC18-<italic>arsC1</italic>-like and pUC18-<italic>arsC2</italic>-like plasmids (Supplementary Table <xref ref-type="supplementary-material" rid="SM1">S3</xref>) were transformed, along with the empty vector pUC18 in <italic>Escherichia coli</italic> AW3110. <italic>E. coli</italic> W3110 (with <italic>arsRBC</italic> cluster) as a control. Serial 5 μl dilutions of the strains were then plated on LB agar medium with 5 mM As(V). Pictures were taken after 48 h at 30°C.</p>
+          </caption>
+          <graphic xlink:href="fmicb-08-00471-g007"/>
+        </fig>
+        <p>To test the functions of <italic>arsC1</italic>-like and <italic>arsC2</italic>-like genes, the <italic>arsC1-</italic>like gene and <italic>arsC2</italic>-like gene with their promoters from <italic>P. stewartii</italic> DC283 were PCR amplified and then ligated into vector pUC18 and further transferred to <italic>E. coli</italic> AW3110. As shown in <bold>Figure <xref ref-type="fig" rid="F7">7</xref></bold>, neither the <italic>arsC1</italic>-like nor <italic>arsC2-</italic>like gene enables <italic>E. coli</italic> AW3110 to resist As. In line with the alignment result, the function analysis demonstrates that these two <italic>arsC</italic>-like genes do not contribute to As resistance.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Discussion</title>
+      <p><italic>Pantoea</italic> is a genus with 26 members identified by DDH, a gold standard for prokaryotic species identification. However, laboratory-based DDH results may be irreproducible, and vary depending on the reannealing temperature (<xref rid="B8" ref-type="bibr">Gevers et al., 2005</xref>). With the rapid development in technology and decline in sequencing cost, promising new measurements such as ANI are being developed to evaluate the genomic similarity of bacteria (<xref rid="B26" ref-type="bibr">Richter and Rosselló-Móra, 2009</xref>). In this study, we identified the 23 <italic>Pantoea</italic> spp. phylogenetic status using ANI, together with phylogenetic trees based on concatenated sequences of the 100 core genes (<bold>Figures <xref ref-type="fig" rid="F1">1</xref>, <xref ref-type="fig" rid="F2">2</xref></bold>). Our results showed that strain 299R, 848PVAG, GB1, and ZBG6 were misnamed. We reclassified strain 299R to <italic>P. reagglomerans</italic> 299R (<italic>P. agglomerans</italic> 299R), 848PVAG to <italic>P. septica</italic> 848PVAG (<italic>P. vagans</italic> 848PVAG), GB1 to <italic>P. agglomerans</italic> GB1 (<italic>P. ananatis</italic> GB1), and ZBG6 to <italic>P. agglomerans</italic> ZBG6 (<italic>P. vagans</italic> ZBG6). Our study provided data from genus <italic>Pantoea</italic> with a complex and controversial taxonomy and demonstrated the accuracy of a bioinformatics approach, such as ANI, to identify new species and to correct erroneous identifications from previous studies.</p>
+      <p>A previous study suggested that the <italic>ars</italic> system is a widespread As resistance mechanism (<xref rid="B21" ref-type="bibr">Páezespino et al., 2009</xref>). <italic>Pantoea</italic> sp. IMH was found to resist As by means of <italic>ars</italic> clusters. <italic>arsRBC</italic> is located on the large universal <italic>Pantoea</italic> plasmids of four stains including <italic>P. agglomerans</italic> E325, <italic>P. agglomerans</italic> MP2, <italic>P. eucalypti</italic>αB, and <italic>P. anthophila</italic> Sc1 (<xref rid="B14" ref-type="bibr">Maayer et al., 2012</xref>). This information leads to the hypothesis that plasmids may be involved in the evolution of As resistance mechanism by <italic>ars</italic> genes in <italic>Pantoea</italic> spp. However, there are untouched questions such as what are the mechanisms of the other <italic>Pantoea</italic> spp. and what is the evolutionary history of genetic elements involved in the As resistance? To answer these questions, we collected the genome sequences of 23 strains in nine species in NCBI (<italic>P. ananatis, P. agglomerans, P. stewartii, P. vagans, P. dispersa, P. septica, P. rodasii, P. rwandensis</italic>, and <italic>P. anthophila</italic>). The sequencing results provided us with mass genomic information to detect the presence and the locations of As-related genes in <italic>Pantoea</italic> spp. Our study for the first time systematically analyzed the As resistance genes and revealed the As resistance traits in genus <italic>Pantoea</italic>. Our research provided the definitive evidence that that As resistance strategy in <italic>Pantoea</italic> spp. only involved the detoxification mechanism through <italic>ars</italic> clusters, not the respiratory reduction mechanism through <italic>arr</italic> clusters. This detoxification strategy was obtained by HGT. This conclusion can likely to be extended to most bacteria. We speculate that evolutionarily ancient microbes were exposed to As surroundings on ancient earth (<xref rid="B20" ref-type="bibr">Oremland et al., 2009</xref>). To overcome the As-induced selection pressure, microbes evolved <italic>ars</italic> genes in their genomes for survival by HGT. Therefore, <italic>ars</italic> has very early origins and represents a widespread As resistance mechanism.</p>
+      <p>Two scattered <italic>arsC</italic>-like genes exist in each genome of the 23 <italic>Pantoea</italic> strains, but they exhibited no functional As resistance. It is rare for <italic>arsC</italic>-like genes to show no As resistance capabilities (<xref rid="B3" ref-type="bibr">Butcher et al., 2000</xref>; <xref rid="B29" ref-type="bibr">Saltikov and Newman, 2003</xref>). Compared to functional protein ArsC, residues Arg-107 and Arg-60 of ArsC-like protein were variant (Supplementary Figure <xref ref-type="supplementary-material" rid="SM1">S8</xref>). We speculate that in early times, the ancestor of <italic>Pantoea</italic> spp. evolved the <italic>arsC</italic> gene to resist As, but later evolved with deviance during adaption to As-free niches, and thus retained non-functional <italic>arsC</italic>-like genes in some genomes.</p>
+      <p>The <italic>ars</italic> genes are abundant and tend to organize in typical <italic>arsRBC</italic> cluster structures (<bold>Figure <xref ref-type="fig" rid="F3">3</xref></bold>). Apart from these operons, <italic>arsRBCH</italic> operons are widely observed. In genus <italic>Pantoea</italic>, these kinds of structures were anticipated, for these strains descended from a recent common ancestor. Our study suggests that <italic>ars</italic> clusters may be acquired by HGT from <italic>F. helveticus, S. marcescens</italic>, and <italic>C. freundii</italic> strains. This is consistent with recent literature showing that bacterial As resistance and transformation was a trait acquired via HGT, driven by adaptation to habitats containing As (<xref rid="B4" ref-type="bibr">Cai et al., 2009</xref>; <xref rid="B36" ref-type="bibr">Villegas-Torres et al., 2011</xref>). Interestingly, <italic>ars</italic> clusters are absent in some strains, suggesting that some microbes may have lost their As resistance genes during adaption to As-free niches. In addition, the number of As resistance genes in strains isolated from As-rich environments is much higher than in strains from other environments (<xref rid="B15" ref-type="bibr">Macur et al., 2004</xref>; <xref rid="B32" ref-type="bibr">Sutton et al., 2009</xref>). Compared to the evolutionary pattern of <italic>ars</italic> operons (<xref rid="B28" ref-type="bibr">Rosen, 1999</xref>), the evolution of As resistance genes (<italic>ars</italic> clusters) in <italic>Pantoea</italic> spp. involves a mix of HGT and loss, providing insight into the complex evolutionary history of As resistance.</p>
+    </sec>
+    <sec>
+      <title>Author Contributions</title>
+      <p>LW and CJ conceived and designed the study. LW performed the laboratory work and data analysis. LW, JW, and CJ drafted the tables and figures, and prepared the main manuscript.</p>
+    </sec>
+    <sec>
+      <title>Conflict of Interest Statement</title>
+      <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+    </sec>
+    <sec>
+      <title>Data Accessibility</title>
+      <p>The NCBI accession numbers of 23 draft genome sequences of <italic>Pantoea</italic> are listed in Supplementary Table <xref ref-type="supplementary-material" rid="SM1">S1</xref>.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We acknowledge the financial support of the National Basic Research Program of China (2015CB932003), the Strategic Priority Research Program of the Chinese Academy of Sciences (XDB14020302), and the National Natural Science Foundation of China (41373123, 41425016, 41503094, and 21321004). We thank Yongguan Zhu for the strain <italic>E. coli</italic> AW3110.</p>
+    </ack>
+    <fn-group>
+      <fn id="fn01">
+        <label>1</label>
+        <p>
+          <ext-link ext-link-type="uri" xlink:href="http://www.bacterio.net/pantoea.html">http://www.bacterio.net/pantoea.html</ext-link>
+        </p>
+      </fn>
+      <fn id="fn02">
+        <label>2</label>
+        <p>
+          <ext-link ext-link-type="uri" xlink:href="http://tree.bio.ed.ac.uk/software/figtree/">http://tree.bio.ed.ac.uk/software/figtree/</ext-link>
+        </p>
+      </fn>
+      <fn id="fn03">
+        <label>3</label>
+        <p>
+          <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/genome/?term=pantoea">http://www.ncbi.nlm.nih.gov/genome/?term=pantoea</ext-link>
+        </p>
+      </fn>
+    </fn-group>
+    <sec sec-type="supplementary material">
+      <title>Supplementary Material</title>
+      <p>The Supplementary Material for this article can be found online at: <ext-link ext-link-type="uri" xlink:href="http://journal.frontiersin.org/article/10.3389/fmicb.2017.00471/full#supplementary-material">http://journal.frontiersin.org/article/10.3389/fmicb.2017.00471/full#supplementary-material</ext-link></p>
+      <supplementary-material content-type="local-data" id="SM1">
+        <media xlink:href="Data_Sheet_1.PDF">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Arsène-Ploetze</surname><given-names>F.</given-names></name><name><surname>Koechler</surname><given-names>S.</given-names></name><name><surname>Marchal</surname><given-names>M.</given-names></name><name><surname>Coppée</surname><given-names>J. Y.</given-names></name><name><surname>Chandler</surname><given-names>M.</given-names></name><name><surname>Bonnefoy</surname><given-names>V.</given-names></name><etal/></person-group> (<year>2010</year>). <article-title>Structure, function, and evolution of the <italic>Thiomonas</italic> spp. genome.</article-title>
+<source><italic>PLoS Genet.</italic></source>
+<volume>6</volume>:<issue>e1000859</issue>
+<pub-id pub-id-type="doi">10.1371/journal.pgen.1000859</pub-id></mixed-citation>
+      </ref>
+      <ref id="B2">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brochier-Armanet</surname><given-names>C.</given-names></name><name><surname>Forterre</surname><given-names>P.</given-names></name></person-group> (<year>2006</year>). <article-title>Widespread distribution of archaeal reverse gyrase in thermophilic bacteria suggests a complex history of vertical inheritance and lateral gene transfers.</article-title>
+<source><italic>Archaea</italic></source>
+<volume>2</volume>
+<fpage>83</fpage>–<lpage>93</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B3">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Butcher</surname><given-names>B. G.</given-names></name><name><surname>Deane</surname><given-names>S. M.</given-names></name><name><surname>Rawlings</surname><given-names>D. E.</given-names></name></person-group> (<year>2000</year>). <article-title>The chromosomal arsenic resistance genes of <italic>Thiobacillus ferrooxidans</italic> have an unusual arrangement and confer increased arsenic and antimony resistance to <italic>Escherichia coli</italic>.</article-title>
+<source><italic>Appl. Environ. Microbiol.</italic></source>
+<volume>66</volume>
+<fpage>1826</fpage>–<lpage>1833</lpage>. <pub-id pub-id-type="doi">10.1128/AEM.66.5.1826-1833.2000</pub-id><pub-id pub-id-type="pmid">10788346</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cai</surname><given-names>L.</given-names></name><name><surname>Liu</surname><given-names>G.</given-names></name><name><surname>Rensing</surname><given-names>C.</given-names></name><name><surname>Wang</surname><given-names>G.</given-names></name></person-group> (<year>2009</year>). <article-title>Genes involved in arsenic transformation and resistance associated with different levels of arsenic-contaminated soils.</article-title>
+<source><italic>BMC Microbiol.</italic></source>
+<volume>9</volume>:<issue>4</issue>
+<pub-id pub-id-type="doi">10.1186/1471-2180-9-4</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Colston</surname><given-names>S. M.</given-names></name><name><surname>Fullmer</surname><given-names>M. S.</given-names></name><name><surname>Beka</surname><given-names>L.</given-names></name><name><surname>Lamy</surname><given-names>B.</given-names></name><name><surname>Gogarten</surname><given-names>J. P.</given-names></name><name><surname>Graf</surname><given-names>J.</given-names></name></person-group> (<year>2014</year>). <article-title>Bioinformatic genome comparisons for taxonomic and phylogenetic assignments using aeromonas as a test case.</article-title>
+<source><italic>MBio</italic></source>
+<volume>5</volume>:<issue>e2136-14</issue>
+<pub-id pub-id-type="doi">10.1128/mBio.02136-14</pub-id></mixed-citation>
+      </ref>
+      <ref id="B6">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dagan</surname><given-names>T.</given-names></name><name><surname>Artzyrandrup</surname><given-names>Y.</given-names></name><name><surname>Martin</surname><given-names>W.</given-names></name></person-group> (<year>2008</year>). <article-title>Modular networks and cumulative impact of lateral transfer in prokaryote genome evolution.</article-title>
+<source><italic>Proc. Natl. Acad. Sci. U.S.A.</italic></source>
+<volume>105</volume>
+<fpage>10039</fpage>–<lpage>10044</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0800679105</pub-id><pub-id pub-id-type="pmid">18632554</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gavini</surname><given-names>F.</given-names></name><name><surname>Mergaert</surname><given-names>J.</given-names></name><name><surname>Bej</surname><given-names>A.</given-names></name><name><surname>Mielcarek</surname><given-names>C.</given-names></name><name><surname>Izard</surname><given-names>D.</given-names></name><name><surname>Kersters</surname><given-names>K.</given-names></name><etal/></person-group> (<year>1989</year>). <article-title>Transfer of <italic>Enterobacter agglomerans</italic> (Beijerinck 1888) Ewing and Fife 1972 to <italic>Pantoea</italic> gen. nov. as <italic>Pantoea agglomerans</italic> comb. nov. and description of <italic>Pantoea dispersa</italic> sp. nov.</article-title>
+<source><italic>Int. J. Syst. Evol. Microbiol.</italic></source>
+<volume>39</volume>
+<fpage>337</fpage>–<lpage>345</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B8">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gevers</surname><given-names>D.</given-names></name><name><surname>Cohan</surname><given-names>F. M.</given-names></name><name><surname>Lawrence</surname><given-names>J. G.</given-names></name><name><surname>Spratt</surname><given-names>B. G.</given-names></name><name><surname>Coenye</surname><given-names>T.</given-names></name><name><surname>Feil</surname><given-names>E. J.</given-names></name><etal/></person-group> (<year>2005</year>). <article-title>Opinion: re-evaluating prokaryotic species.</article-title>
+<source><italic>Nat. Rev. Microbiol.</italic></source>
+<volume>3</volume>
+<fpage>733</fpage>–<lpage>739</lpage>. <pub-id pub-id-type="doi">10.1038/nrmicro1236</pub-id><pub-id pub-id-type="pmid">16138101</pub-id></mixed-citation>
+      </ref>
+      <ref id="B9">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ghosh</surname><given-names>D.</given-names></name><name><surname>Bhadury</surname><given-names>P.</given-names></name><name><surname>Routh</surname><given-names>J.</given-names></name></person-group> (<year>2014</year>). <article-title>Diversity of arsenite oxidizing bacterial communities in arsenic-rich deltaic aquifers in West Bengal, India.</article-title>
+<source><italic>Front. Microbiol.</italic></source>
+<volume>5</volume>:<issue>602</issue>
+<pub-id pub-id-type="doi">10.3389/fmicb.2014.00602</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gladysheva</surname><given-names>T.</given-names></name><name><surname>Liu</surname><given-names>J.</given-names></name><name><surname>Rosen</surname><given-names>B. P.</given-names></name></person-group> (<year>1996</year>). <article-title>His-8 lowers the pKa of the essential Cys-12 residue of the ArsC arsenate reductase of plasmid R773.</article-title>
+<source><italic>J. Biol. Chem.</italic></source>
+<volume>271</volume>
+<fpage>33256</fpage>–<lpage>33260</lpage>. <pub-id pub-id-type="doi">10.1074/jbc.271.52.33256</pub-id><pub-id pub-id-type="pmid">8969183</pub-id></mixed-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Goris</surname><given-names>J.</given-names></name><name><surname>Konstantinidis</surname><given-names>K. T.</given-names></name><name><surname>Klappenbach</surname><given-names>J. A.</given-names></name><name><surname>Coenye</surname><given-names>T.</given-names></name><name><surname>Vandamme</surname><given-names>P.</given-names></name><name><surname>Tiedje</surname><given-names>J. M.</given-names></name></person-group> (<year>2007</year>). <article-title>DNA-DNA hybridization values and their relationship to whole-genome sequence similarities.</article-title>
+<source><italic>Int. J. Syst. Evol. Microbiol.</italic></source>
+<volume>57</volume>
+<fpage>81</fpage>–<lpage>91</lpage>. <pub-id pub-id-type="doi">10.1099/ijs.0.64483-0</pub-id><pub-id pub-id-type="pmid">17220447</pub-id></mixed-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Konstantinidis</surname><given-names>K. T.</given-names></name><name><surname>Tiedje</surname><given-names>J. M.</given-names></name></person-group> (<year>2004</year>). <article-title>Trends between gene content and genome size in prokaryotic species with larger genomes.</article-title>
+<source><italic>Proc. Natl. Acad. Sci. U.S.A.</italic></source>
+<volume>101</volume>
+<fpage>3160</fpage>–<lpage>3165</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0308653100</pub-id><pub-id pub-id-type="pmid">14973198</pub-id></mixed-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Levin</surname><given-names>D.</given-names></name><name><surname>Tal</surname><given-names>A.</given-names></name></person-group> (<year>2003</year>). <article-title>Arsenite oxidase aox genes from a metal-resistant beta-proteobacterium.</article-title>
+<source><italic>J. Bacteriol.</italic></source>
+<volume>185</volume>
+<fpage>135</fpage>–<lpage>141</lpage>. <pub-id pub-id-type="doi">10.1186/1471-2164-11-709</pub-id><pub-id pub-id-type="pmid">12486049</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Maayer</surname><given-names>P. D.</given-names></name><name><surname>Chan</surname><given-names>W. Y.</given-names></name><name><surname>Blom</surname><given-names>J.</given-names></name><name><surname>Venter</surname><given-names>S. N.</given-names></name><name><surname>Duffy</surname><given-names>B.</given-names></name><name><surname>Smits</surname><given-names>T. H. M.</given-names></name><etal/></person-group> (<year>2012</year>). <article-title>The large universal <italic>Pantoea</italic> plasmid LPP-1 plays a major role in biological and ecological diversification.</article-title>
+<source><italic>BMC Genomics</italic></source>
+<volume>13</volume>:<issue>625</issue>
+<pub-id pub-id-type="doi">10.1186/1471-2164-13-625</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Macur</surname><given-names>R. E.</given-names></name><name><surname>Jackson</surname><given-names>C. R.</given-names></name><name><surname>Botero</surname><given-names>L. M.</given-names></name><name><surname>Mcdermott</surname><given-names>T. R.</given-names></name><name><surname>Inskeep</surname><given-names>W. P.</given-names></name></person-group> (<year>2004</year>). <article-title>Bacterial populations associated with the oxidation and reduction of arsenic in an unsaturated soil.</article-title>
+<source><italic>Environ. Sci. Technol.</italic></source>
+<volume>38</volume>
+<fpage>104</fpage>–<lpage>111</lpage>.<pub-id pub-id-type="pmid">14740724</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Martin</surname><given-names>P.</given-names></name><name><surname>DeMel</surname><given-names>S.</given-names></name><name><surname>Shi</surname><given-names>J.</given-names></name><name><surname>Gladysheva</surname><given-names>T.</given-names></name><name><surname>Gatti</surname><given-names>D. L.</given-names></name><name><surname>Rosen</surname><given-names>B. P.</given-names></name><etal/></person-group> (<year>2001</year>). <article-title>Insights into the structure, solvation, and mechanism of ArsC arsenate reductase, a novel arsenic detoxification enzyme.</article-title>
+<source><italic>Structure</italic></source>
+<volume>9</volume>
+<fpage>1071</fpage>–<lpage>1081</lpage>. <pub-id pub-id-type="doi">10.1016/S0969-2126(01)00672-4</pub-id><pub-id pub-id-type="pmid">11709171</pub-id></mixed-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Meng</surname><given-names>M.</given-names></name><name><surname>Sun</surname><given-names>W. Q.</given-names></name><name><surname>Geelhaar</surname><given-names>L. A.</given-names></name><name><surname>Kumar</surname><given-names>G.</given-names></name><name><surname>Patel</surname><given-names>A. R.</given-names></name><name><surname>Payne</surname><given-names>G. F.</given-names></name><etal/></person-group> (<year>1995</year>). <article-title>Denitration of glycerol trinitrate by resting cells and cell extracts of <italic>Bacillus thuringiensis/cereus</italic> and <italic>Enterobacter agglomerans</italic>.</article-title>
+<source><italic>Appl. Environ. Microbiol.</italic></source>
+<volume>61</volume>
+<fpage>2548</fpage>–<lpage>2553</lpage>.<pub-id pub-id-type="pmid">7618866</pub-id></mixed-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nelson</surname><given-names>K. E.</given-names></name><name><surname>Clayton</surname><given-names>R. A.</given-names></name><name><surname>Gill</surname><given-names>S. R.</given-names></name><name><surname>Gwinn</surname><given-names>M. L.</given-names></name><name><surname>Dodson</surname><given-names>R. J.</given-names></name><name><surname>Haft</surname><given-names>D. H.</given-names></name><etal/></person-group> (<year>1999</year>). <article-title>Evidence for lateral gene transfer between Archaea and Bacteria from genome sequence of <italic>Thermotoga maritima</italic>.</article-title>
+<source><italic>Nature</italic></source>
+<volume>399</volume>
+<fpage>323</fpage>–<lpage>329</lpage>. <pub-id pub-id-type="doi">10.1038/20601</pub-id><pub-id pub-id-type="pmid">10360571</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ochman</surname><given-names>H.</given-names></name><name><surname>Lawrence</surname><given-names>J. G.</given-names></name><name><surname>Groisman</surname><given-names>E. A.</given-names></name></person-group> (<year>2000</year>). <article-title>Lateral gene transfer and the nature of bacterial innovation.</article-title>
+<source><italic>Nature</italic></source>
+<volume>405</volume>
+<fpage>299</fpage>–<lpage>304</lpage>. <pub-id pub-id-type="doi">10.1038/35012500</pub-id><pub-id pub-id-type="pmid">10830951</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Oremland</surname><given-names>R. S.</given-names></name><name><surname>Saltikov</surname><given-names>C. W.</given-names></name><name><surname>Wolfe-Simon</surname><given-names>F.</given-names></name><name><surname>Stolz</surname><given-names>J. F.</given-names></name></person-group> (<year>2009</year>). <article-title>Arsenic in the evolution of earth and extraterrestrial ecosystems.</article-title>
+<source><italic>Geomicrobiol. J.</italic></source>
+<volume>26</volume>
+<fpage>522</fpage>–<lpage>536</lpage>. <pub-id pub-id-type="doi">10.1080/01490450903102525</pub-id></mixed-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Páezespino</surname><given-names>D.</given-names></name><name><surname>Tamames</surname><given-names>J.</given-names></name><name><surname>De</surname><given-names>L. V.</given-names></name><name><surname>Cánovas</surname><given-names>D.</given-names></name></person-group> (<year>2009</year>). <article-title>Microbial responses to environmental arsenic.</article-title>
+<source><italic>Biometals</italic></source>
+<volume>22</volume>
+<fpage>117</fpage>–<lpage>130</lpage>. <pub-id pub-id-type="doi">10.1007/s10534-008-9195-y</pub-id><pub-id pub-id-type="pmid">19130261</pub-id></mixed-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Qin</surname><given-names>J.</given-names></name><name><surname>Rosen</surname><given-names>B. P.</given-names></name><name><surname>Zhang</surname><given-names>Y.</given-names></name><name><surname>Wang</surname><given-names>G.</given-names></name><name><surname>Franke</surname><given-names>S.</given-names></name><name><surname>Rensing</surname><given-names>C.</given-names></name></person-group> (<year>2006</year>). <article-title>Arsenic detoxification and evolution of trimethylarsine gas by a microbial arsenite S-adenosylmethionine methyltransferase.</article-title>
+<source><italic>Proc. Natl. Acad. Sci. U.S.A.</italic></source>
+<volume>103</volume>
+<fpage>2075</fpage>–<lpage>2080</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0506836103</pub-id><pub-id pub-id-type="pmid">16452170</pub-id></mixed-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rezzonico</surname><given-names>F.</given-names></name><name><surname>Smits</surname><given-names>T. H.</given-names></name><name><surname>Montesinos</surname><given-names>E.</given-names></name><name><surname>Frey</surname><given-names>J. E.</given-names></name><name><surname>Duffy</surname><given-names>B.</given-names></name></person-group> (<year>2009</year>). <article-title>Genotypic comparison of <italic>Pantoea agglomerans</italic> plant and clinical strains.</article-title>
+<source><italic>BMC Microbiol.</italic></source>
+<volume>9</volume>:<issue>204</issue>
+<pub-id pub-id-type="doi">10.1186/1471-2180-9-204</pub-id></mixed-citation>
+      </ref>
+      <ref id="B24">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rice</surname><given-names>P.</given-names></name><name><surname>Longden</surname><given-names>I.</given-names></name><name><surname>Bleasby</surname><given-names>A.</given-names></name></person-group> (<year>2000</year>). <article-title>EMBOSS: the european molecular biology open software suite.</article-title>
+<source><italic>Trends Genet.</italic></source>
+<volume>16</volume>
+<fpage>276</fpage>–<lpage>277</lpage>. <pub-id pub-id-type="doi">10.1016/S0168-9525(00)02024-2</pub-id><pub-id pub-id-type="pmid">10827456</pub-id></mixed-citation>
+      </ref>
+      <ref id="B25">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rice</surname><given-names>S. A.</given-names></name><name><surname>Lampson</surname><given-names>B. C.</given-names></name></person-group> (<year>1995</year>). <article-title>Phylogenetic comparison of retron elements among the myxobacteria: evidence for vertical inheritance.</article-title>
+<source><italic>J. Bacteriol.</italic></source>
+<volume>177</volume>
+<fpage>37</fpage>–<lpage>45</lpage>. <pub-id pub-id-type="doi">10.1128/jb.177.1.37-45.1995</pub-id><pub-id pub-id-type="pmid">7798147</pub-id></mixed-citation>
+      </ref>
+      <ref id="B26">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Richter</surname><given-names>M.</given-names></name><name><surname>Rosselló-Móra</surname><given-names>R.</given-names></name></person-group> (<year>2009</year>). <article-title>Shifting the genomic gold standard for the prokaryotic species definition.</article-title>
+<source><italic>Proc. Natl. Acad. Sci. U.S.A.</italic></source>
+<volume>106</volume>
+<fpage>19126</fpage>–<lpage>19131</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0906412106</pub-id><pub-id pub-id-type="pmid">19855009</pub-id></mixed-citation>
+      </ref>
+      <ref id="B27">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ronquist</surname><given-names>F.</given-names></name><name><surname>Teslenko</surname><given-names>M.</given-names></name><name><surname>van</surname><given-names>der Mark P.</given-names></name><name><surname>Ayres</surname><given-names>D. L.</given-names></name><name><surname>Darling</surname><given-names>A.</given-names></name><name><surname>Höhna</surname><given-names>S.</given-names></name><etal/></person-group> (<year>2012</year>). <article-title>MrBayes 3.2: efficient Bayesian phylogenetic inference and model choice across a large model space.</article-title>
+<source><italic>Syst. Biol.</italic></source>
+<volume>61</volume>
+<fpage>539</fpage>–<lpage>542</lpage>. <pub-id pub-id-type="doi">10.1093/sysbio/sys029</pub-id><pub-id pub-id-type="pmid">22357727</pub-id></mixed-citation>
+      </ref>
+      <ref id="B28">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rosen</surname><given-names>B. P.</given-names></name></person-group> (<year>1999</year>). <article-title>Families of arsenic transporters.</article-title>
+<source><italic>Trends Microbiol.</italic></source>
+<volume>7</volume>
+<fpage>207</fpage>–<lpage>212</lpage>.<pub-id pub-id-type="pmid">10354596</pub-id></mixed-citation>
+      </ref>
+      <ref id="B29">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Saltikov</surname><given-names>C. W.</given-names></name><name><surname>Newman</surname><given-names>D. K.</given-names></name></person-group> (<year>2003</year>). <article-title>Genetic identification of a respiratory arsenate reductase.</article-title>
+<source><italic>Proc. Natl. Acad. Sci. U.S.A.</italic></source>
+<volume>100</volume>
+<fpage>10983</fpage>–<lpage>10988</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1834303100</pub-id><pub-id pub-id-type="pmid">12939408</pub-id></mixed-citation>
+      </ref>
+      <ref id="B30">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shimodaira</surname><given-names>H.</given-names></name><name><surname>Hasegawa</surname><given-names>M.</given-names></name></person-group> (<year>2001</year>). <article-title>CONSEL: for assessing the confidence of phylogenetic tree selection.</article-title>
+<source><italic>Bioinformatics</italic></source>
+<volume>17</volume>
+<fpage>1246</fpage>–<lpage>1247</lpage>. <pub-id pub-id-type="doi">10.1093/bioinformatics/17.12.1246</pub-id><pub-id pub-id-type="pmid">11751242</pub-id></mixed-citation>
+      </ref>
+      <ref id="B31">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Smith</surname><given-names>A. H.</given-names></name><name><surname>Lopipero</surname><given-names>P. A.</given-names></name><name><surname>Bates</surname><given-names>M. N.</given-names></name><name><surname>Steinmaus</surname><given-names>C. M.</given-names></name></person-group> (<year>2002</year>). <article-title>Public health. Arsenic epidemiology and drinking water standards.</article-title>
+<source><italic>Science</italic></source>
+<volume>296</volume>
+<fpage>2145</fpage>–<lpage>2146</lpage>. <pub-id pub-id-type="doi">10.1126/science.1072896</pub-id><pub-id pub-id-type="pmid">12077388</pub-id></mixed-citation>
+      </ref>
+      <ref id="B32">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sutton</surname><given-names>N. B.</given-names></name><name><surname>van</surname><given-names>der Kraan G. M.</given-names></name><name><surname>van</surname><given-names>Loosdrecht M. C.</given-names></name><name><surname>Muyzer</surname><given-names>G.</given-names></name><name><surname>Bruining</surname><given-names>J.</given-names></name><name><surname>Schotting</surname><given-names>R. J.</given-names></name></person-group> (<year>2009</year>). <article-title>Characterization of geochemical constituents and bacterial populations associated with As mobilization in deep and shallow tube wells in Bangladesh.</article-title>
+<source><italic>Water Res.</italic></source>
+<volume>43</volume>
+<fpage>1720</fpage>–<lpage>1730</lpage>. <pub-id pub-id-type="doi">10.1016/j.watres.2009.01.006</pub-id><pub-id pub-id-type="pmid">19215956</pub-id></mixed-citation>
+      </ref>
+      <ref id="B33">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tamura</surname><given-names>K.</given-names></name></person-group> (<year>2011</year>). <article-title>MEGA5: molecular evolutionary genetics analysis using maximum likelihood, evolutionary distance, and maximum parsimony methods.</article-title>
+<source><italic>Mol. Biol. Evol.</italic></source>
+<volume>28</volume>
+<fpage>2731</fpage>–<lpage>2739</lpage>. <pub-id pub-id-type="doi">10.1093/molbev/msr121</pub-id><pub-id pub-id-type="pmid">21546353</pub-id></mixed-citation>
+      </ref>
+      <ref id="B34">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Thompson</surname><given-names>J. D.</given-names></name><name><surname>Gibson</surname><given-names>T. J.</given-names></name><name><surname>Higgins</surname><given-names>D. G.</given-names></name></person-group> (<year>2002</year>). <article-title>Multiple sequence alignment using ClustalW and ClustalX.</article-title>
+<source><italic>Curr. Protoc. Bioinformatics</italic></source>
+<comment>Chater 2:Unit 2.3</comment>
+<pub-id pub-id-type="doi">10.1002/0471250953.bi0203s00</pub-id></mixed-citation>
+      </ref>
+      <ref id="B35">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tian</surname><given-names>H.</given-names></name><name><surname>Jing</surname><given-names>C.</given-names></name></person-group> (<year>2014</year>). <article-title>Genome sequence of the aerobic arsenate-reducing bacterium <italic>Pantoea</italic> sp. strain IMH.</article-title>
+<source><italic>Genome Announc.</italic></source>
+<volume>2</volume>:<issue>e267-14</issue>
+<pub-id pub-id-type="doi">10.1128/genomeA.00267-14</pub-id></mixed-citation>
+      </ref>
+      <ref id="B36">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Villegas-Torres</surname><given-names>M. F.</given-names></name><name><surname>Bedoya-Reina</surname><given-names>O. C.</given-names></name><name><surname>Salazar</surname><given-names>C.</given-names></name><name><surname>Vives-Florez</surname><given-names>M. J.</given-names></name><name><surname>Dussan</surname><given-names>J.</given-names></name></person-group> (<year>2011</year>). <article-title>Horizontal <italic>arsC</italic> gene transfer among microorganisms isolated from arsenic polluted soil.</article-title>
+<source><italic>Int. Biodeter. Biodegradation</italic></source>
+<volume>65</volume>
+<fpage>147</fpage>–<lpage>152</lpage>. <pub-id pub-id-type="doi">10.1016/j.ibiod.2010.10.007</pub-id></mixed-citation>
+      </ref>
+      <ref id="B37">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>L.</given-names></name><name><surname>Zhuang</surname><given-names>X.</given-names></name><name><surname>Zhuang</surname><given-names>G.</given-names></name><name><surname>Jing</surname><given-names>C.</given-names></name></person-group> (<year>2016</year>). <article-title>Arsenic resistance strategy in <italic>Pantoea</italic> sp. IMH: organization, function and evolution of ars genes.</article-title>
+<source><italic>Sci. Rep.</italic></source>
+<volume>6</volume>:<issue>39195</issue>
+<pub-id pub-id-type="doi">10.1038/srep39195</pub-id></mixed-citation>
+      </ref>
+      <ref id="B38">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wu</surname><given-names>Q.</given-names></name><name><surname>Du</surname><given-names>J.</given-names></name><name><surname>Zhuang</surname><given-names>G.</given-names></name><name><surname>Jing</surname><given-names>C.</given-names></name></person-group> (<year>2013</year>). <article-title><italic>Bacillus</italic> sp. SXB and <italic>Pantoea</italic> sp. IMH, aerobic As(V)-reducing bacteria isolated from arsenic-contaminated soil.</article-title>
+<source><italic>J. Appl. Microbiol.</italic></source>
+<volume>114</volume>
+<fpage>713</fpage>–<lpage>721</lpage>. <pub-id pub-id-type="doi">10.1111/jam.12093</pub-id><pub-id pub-id-type="pmid">23210693</pub-id></mixed-citation>
+      </ref>
+      <ref id="B39">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Xie</surname><given-names>J. B.</given-names></name><name><surname>Du</surname><given-names>Z.</given-names></name><name><surname>Bai</surname><given-names>L.</given-names></name><name><surname>Tian</surname><given-names>C.</given-names></name><name><surname>Zhang</surname><given-names>Y.</given-names></name><name><surname>Xie</surname><given-names>J. Y.</given-names></name><etal/></person-group> (<year>2014</year>). <article-title>Comparative genomic analysis of N2-fixing and non-N2-fixing <italic>Paenibacillus</italic> spp.: organization, evolution and expression of the nitrogen fixation genes.</article-title>
+<source><italic>PLoS Genet.</italic></source>
+<volume>10</volume>:<issue>e1004231</issue>
+<pub-id pub-id-type="doi">10.1371/journal.pgen.1004231</pub-id></mixed-citation>
+      </ref>
+      <ref id="B40">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Xu</surname><given-names>C.</given-names></name><name><surname>Zhou</surname><given-names>T.</given-names></name><name><surname>Kuroda</surname><given-names>M.</given-names></name><name><surname>Rosen</surname><given-names>B. P.</given-names></name></person-group> (<year>1998</year>). <article-title>Metalloid resistance mechanisms in prokaryotes.</article-title>
+<source><italic>J. Biochem.</italic></source>
+<volume>123</volume>
+<fpage>16</fpage>–<lpage>23</lpage>.<pub-id pub-id-type="pmid">9504403</pub-id></mixed-citation>
+      </ref>
+      <ref id="B41">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhang</surname><given-names>L.</given-names></name><name><surname>Birch</surname><given-names>R. G.</given-names></name></person-group> (<year>1997</year>). <article-title>The gene for albicidin detoxification from <italic>Pantoea dispersa</italic> encodes an esterase and attenuates pathogenicity of <italic>Xanthomonas albilineans</italic> to sugarcane.</article-title>
+<source><italic>Proc. Natl. Acad. Sci. U.S.A.</italic></source>
+<volume>94</volume>
+<fpage>9984</fpage>–<lpage>9989</lpage>.<pub-id pub-id-type="pmid">9275238</pub-id></mixed-citation>
+      </ref>
+      <ref id="B42">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhao</surname><given-names>C.</given-names></name><name><surname>Zhang</surname><given-names>Y.</given-names></name><name><surname>Chan</surname><given-names>Z.</given-names></name><name><surname>Chen</surname><given-names>S.</given-names></name><name><surname>Yang</surname><given-names>S.</given-names></name></person-group> (<year>2015</year>). <article-title>Insights into arsenic multi-operons expression and resistance mechanisms in <italic>Rhodopseudomonas palustris</italic> CGA009.</article-title>
+<source><italic>Front. Microbiol.</italic></source>
+<volume>6</volume>:<issue>986</issue>
+<pub-id pub-id-type="doi">10.3389/fmicb.2015.00986</pub-id></mixed-citation>
+      </ref>
+      <ref id="B43">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhao</surname><given-names>Y.</given-names></name><name><surname>Wu</surname><given-names>J.</given-names></name><name><surname>Yang</surname><given-names>J.</given-names></name><name><surname>Sun</surname><given-names>S.</given-names></name><name><surname>Xiao</surname><given-names>J.</given-names></name><name><surname>Yu</surname><given-names>J.</given-names></name></person-group> (<year>2012</year>). <article-title>PGAP: pan-genomes analysis pipeline.</article-title>
+<source><italic>Bioinformatics</italic></source>
+<volume>28</volume>
+<fpage>416</fpage>–<lpage>418</lpage>. <pub-id pub-id-type="doi">10.1093/bioinformatics/btr655</pub-id><pub-id pub-id-type="pmid">22130594</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record>

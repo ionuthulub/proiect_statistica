@@ -1,0 +1,801 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5362654</identifier><datestamp>2017-04-04</datestamp><setSpec>springeropen</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Drug Saf</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Drug Saf</journal-id>
+      <journal-title-group>
+        <journal-title>Drug Safety</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0114-5916</issn>
+      <issn pub-type="epub">1179-1942</issn>
+      <publisher>
+        <publisher-name>Springer International Publishing</publisher-name>
+        <publisher-loc>Cham</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5362654</article-id>
+      <article-id pub-id-type="pmcid">PMC5362654</article-id>
+      <article-id pub-id-type="pmc-uid">5362654</article-id>
+      <article-id pub-id-type="pmid">28074423</article-id>
+      <article-id pub-id-type="publisher-id">501</article-id>
+      <article-id pub-id-type="doi">10.1007/s40264-016-0501-2</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Original Research Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Effectiveness of Risk Evaluation and Mitigation Strategies (REMS) for Lenalidomide and Thalidomide: Patient Comprehension and Knowledge Retention</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Brandenburg</surname>
+            <given-names>Nancy A.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bwire</surname>
+            <given-names>Robert</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Freeman</surname>
+            <given-names>John</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Houn</surname>
+            <given-names>Florence</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1"/>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-6732-7284</contrib-id>
+          <name>
+            <surname>Sheehan</surname>
+            <given-names>Paul</given-names>
+          </name>
+          <address>
+            <phone>+01 (908) 679-1909</phone>
+            <email>psheehan@celgene.com</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zeldis</surname>
+            <given-names>Jerome B.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1"/>
+        </contrib>
+        <aff id="Aff1"><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0461 1802</institution-id><institution-id institution-id-type="GRID">grid.418722.a</institution-id><institution/><institution>Celgene Corporation, </institution></institution-wrap>556 Morris Ave, Summit, NJ 07901 USA </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>1</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>10</day>
+        <month>1</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <year>2017</year>
+      </pub-date>
+      <volume>40</volume>
+      <issue>4</issue>
+      <fpage>333</fpage>
+      <lpage>341</lpage>
+      <permissions>
+        <copyright-statement>© The Author(s) 2017</copyright-statement>
+        <license license-type="OpenAccess">
+          <license-p>
+<bold>Open Access</bold>This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 International License (http://creativecommons.org/licenses/by-nc/4.0/), which permits any noncommercial use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.</license-p>
+        </license>
+      </permissions>
+      <abstract id="Abs1">
+        <sec>
+          <title>Introduction</title>
+          <p>The effectiveness of patient education activities conducted within the lenalidomide and thalidomide risk evaluation and mitigation strategies (REMS) programs was evaluated by measuring understanding of serious risk and safe-use messages.</p>
+        </sec>
+        <sec>
+          <title>Methods</title>
+          <p>Results from mandatory knowledge, attitude, and behavior surveys and voluntary patient surveys completed between June 2012 and June 2013 were analyzed, and responses to questions relating to compliance with birth control measures and understanding of safe-use messages are presented by patient risk category.</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p>In total, 73,645 patients were enrolled into the REMS programs for lenalidomide and thalidomide and completed mandatory surveys prior to medication dispense. Of these, 2790 (3.8%) completed an additional voluntary survey. Among voluntary survey participants, for all patient pregnancy risk categories, reported compliance with birth control requirements was above 90% when starting therapy and at follow-up. At the beginning of therapy, complete compliance was 96.3%; 3 months later it was 96.4%. Patient understanding of safe-use messages was very high in all pregnancy risk groups, notably for messages repeated at each physician visit. Overall, 98.2% of patients knew that lenalidomide and thalidomide could cause birth defects, which is part of the repeated educational messaging. In contrast, 87.1% recalled that unused product should be returned to their healthcare professional, which is not included in repeated messaging.</p>
+        </sec>
+        <sec>
+          <title>Conclusion</title>
+          <p>The lenalidomide and thalidomide REMS programs enhance patient understanding of safe-use messages, resulting in high levels of compliance with the birth control precautions essential to prevent fetal exposure to these known and potential human teratogens. Overall compliance was maintained after 3 months of follow-up and throughout therapy.</p>
+        </sec>
+        <sec>
+          <title>Electronic supplementary material</title>
+          <p>The online version of this article (doi:10.1007/s40264-016-0501-2) contains supplementary material, which is available to authorized users.</p>
+        </sec>
+      </abstract>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution-wrap>
+              <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/100006436</institution-id>
+              <institution>Celgene</institution>
+            </institution-wrap>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>issue-copyright-statement</meta-name>
+          <meta-value>© Springer International Publishing Switzerland 2017</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="FPar1">
+      <title>Key Points</title>
+      <p>
+<table-wrap id="Taba"><table frame="hsides" rules="groups"><tbody><tr><td align="left">Regular risk evaluation and mitigation strategies (REMS) patient survey data indicate high levels of understanding/retention of REMS safe-use messages.</td></tr><tr><td align="left">High compliance rates with REMS program contraception requirements were also reflected.</td></tr></tbody></table></table-wrap>
+</p>
+    </sec>
+    <sec id="Sec1">
+      <title>Introduction</title>
+      <p>The exposure of thousands of unborn fetuses to thalidomide in the 1950s and 1960s resulted in major changes to the US pharmacovigilance and risk management legislation and regulations [<xref ref-type="bibr" rid="CR1">1</xref>, <xref ref-type="bibr" rid="CR2">2</xref>]. Thalidomide was first marketed in Europe as a non-barbiturate sedative in the late 1950s, and preclinical and clinical studies had led to the conclusion that it was non-toxic in humans [<xref ref-type="bibr" rid="CR3">3</xref>]. Thalidomide was found to be antiemetic and was used extensively to treat and prevent ‘morning sickness’ associated with pregnancy. In 1961, two physicians independently associated thalidomide use in pregnancy with congenital malformations including phocomelia, amelia, syndactyly, and underdeveloped long bones [<xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR5">5</xref>]. Fetal thalidomide exposure has also been associated with a range of internal defects, resulting in an early mortality rate of around 40% [<xref ref-type="bibr" rid="CR6">6</xref>]. Once the link between thalidomide and birth defects was established, the drug was withdrawn worldwide and US pharmaceutical regulatory processes were strengthened [<xref ref-type="bibr" rid="CR7">7</xref>].</p>
+      <p>Interest in thalidomide revived when it was shown to be effective in treating erythema nodosum leprosum (ENL), an inflammatory reaction that complicates lepromatous leprosy [<xref ref-type="bibr" rid="CR8">8</xref>]. Subsequently, thalidomide was found to inhibit the expression of tumor necrosis factor (TNF), also known as ‘cachectin’, a cytokine associated with wasting [<xref ref-type="bibr" rid="CR9">9</xref>]. The HIV/AIDS community began to use thalidomide to treat HIV-associated wasting, creating a need to allow access to thalidomide for those who might benefit, while preventing access by those who could be at risk from the drug’s teratogenic effects.</p>
+      <p>In 1998, thalidomide was approved by the US FDA for acute treatment of the cutaneous manifestations of moderate to severe ENL. Prior to its approval, thalidomide was found to be anti-angiogenic [<xref ref-type="bibr" rid="CR10">10</xref>], leading to research into its use to treat angiomas and malignancies. Subsequent clinical studies determined thalidomide’s activity in multiple myeloma (MM) [<xref ref-type="bibr" rid="CR11">11</xref>, <xref ref-type="bibr" rid="CR12">12</xref>]. In 2006, thalidomide (THALOMID<sup>®</sup>; Celgene Corporation, Summit, NJ, USA) in combination with dexamethasone was approved by the FDA to treat newly diagnosed MM.</p>
+      <p>While Celgene was developing thalidomide, it created chemical congeners called IMiD<sup>®</sup> products that shared many of the immune modulatory and other properties of thalidomide. Celgene discovered that each IMiD product had slightly different properties from each other and from thalidomide. The first IMiD product to be commercialized was lenalidomide (REVLIMID<sup>®</sup>, Celgene Corporation), which was approved by the FDA in 2005 for the treatment of transfusion-dependent anemia due to low- or intermediate-1-risk myelodysplastic syndromes associated with a deletion 5q abnormality and in 2006 in combination with dexamethasone for MM in patients who have received at least one prior therapy.</p>
+      <p>The approvals of lenalidomide and thalidomide were achieved in a different regulatory environment from that of the 1950s and 1960s and, in tandem with approval of these drugs, systems were implemented to prevent fetal exposure [<xref ref-type="bibr" rid="CR13">13</xref>, <xref ref-type="bibr" rid="CR14">14</xref>]. Since the 2007 FDA Amendments Act, the FDA has required sponsors of new drug applications (NDAs), biologics license applications (BLAs), generic and biosimilar applications to submit a risk evaluation and mitigation strategies (REMS) program if there is concern that the risks of the product cannot be addressed by routine product labelling. A REMS program is intended to ensure that, through the implementation of additional risk-mitigation measures, the benefits of the drug outweigh the risks. All REMS programs include a timetable for submission of assessments, and the FDA may require that a product-specific REMS program includes a communication plan, medication guide, patient package insert, ‘elements to assure safe use’ (ETASU), and an implementation system.</p>
+      <p>Lenalidomide and thalidomide have REMS programs with ETASUs that have two goals: (1) to prevent the risk of embryo-fetal exposure and (2) to inform prescribers, patients, and pharmacists of the serious risks and safe-use conditions of the product. To achieve these goals, some key safe-use messages in the REMS programs are repeated at each physician visit. The repeated messages vary according to patient risk categories but include warnings on birth defects, sexual intercourse, birth control, drug sharing, and donations to blood and sperm banks.</p>
+      <p>One of the ETASU measures introduced to achieve these goals is to ensure the product is dispensed to patients enrolled in the REMS only after they have received, and confirm they understand, comprehensive safe-use education messages and agree to participate in frequent mandatory knowledge, attitude, and behavior (KAB) surveys. Additional voluntary patient surveys were conducted up to 2013 to examine patient understanding and compliance with safe-use measures.</p>
+      <p>While the FDA has been able to mandate REMS programs since 2007, published data available on the effectiveness of these programs are limited. In an evaluation of REMS medication guides, 30.3% of medication guide assessments led to ‘acceptable knowledge’ (≥80% correct responses), with higher correct response rates reported for REMS programs including ETASUs [<xref ref-type="bibr" rid="CR15">15</xref>]. Previous analysis of voluntary survey data from the lenalidomide RevAssist<sup>®</sup> risk management program (from 2006) reported over 95% comprehension of safe-use messaging for male patients and females of childbearing potential [<xref ref-type="bibr" rid="CR14">14</xref>].</p>
+      <p>This study was conducted to evaluate the effectiveness of patient education activities in the lenalidomide and thalidomide REMS programs by analyzing the results of the mandatory KAB surveys and additional voluntary patient surveys to assess comprehension of safe-use messages and patient-reported compliance with birth control measures.</p>
+    </sec>
+    <sec id="Sec2">
+      <title>Methods</title>
+      <p>The surveys described here were conducted in support of a regulatory commitment of the REMS programs to serve as a practical indicator of safe-use conditions rather than for research purposes. Mandatory surveys from June 2012 to June 2013 were interrogated alongside data from the voluntary surveys from June 2012 to February 2013 to establish receipt of patient brochures, patient understanding of safe-use messages, and reported compliance with birth control requirements. Demographic data were collected for both survey populations.</p>
+      <sec id="Sec3">
+        <title>Lenalidomide and Thalidomide Risk Evaluation and Mitigation Strategies (REMS) Program</title>
+        <p>The main elements of the Celgene REMS programs are presented in Fig. <xref rid="Fig1" ref-type="fig">1</xref>. Every prescriber intending to prescribe lenalidomide or thalidomide must first become certified into the respective REMS program. A certified prescriber may then enroll patients into the REMS program in a similar manner. The prescriber provides the patient with educational material highlighting the serious risks and safe-use conditions of the product and describes the frequent interactions with the REMS program during therapy. All patient materials were written to be comprehensible by a patient at 8th grade literacy levels. The prescriber and patient choose a unique identifier that is used in future REMS interactions, and information about the patient risk category, age, and indication is recorded in the Celgene REMS database. Throughout therapy, both the prescriber and the patient are required to provide the REMS program with information that confirms continued patient understanding of the safe-use measures before each subsequent prescription can be filled.<fig id="Fig1"><label>Fig. 1</label><caption><p>Flowchart highlighting the main components of the Celgene risk evaluation and mitigation strategies (REMS) programs. <italic>PPAF</italic> patient–physician agreement form</p></caption><graphic xlink:href="40264_2016_501_Fig1_HTML" id="MO1"/></fig>
+</p>
+        <p>The safe-use messages provided to patients prior to enrollment into the REMS program are as follows: (1) these products can cause birth defects, (2) contraceptive measures must be taken while receiving therapy, (3) these drugs cannot be shared, (4) patients must not donate blood to a blood bank, (5) any unused product must be returned to a healthcare professional. This information is described in patient brochures and in the patient–physician agreement form (PPAF) that is signed by patients and returned to Celgene. The PPAF also includes patient demographics and <italic>International Classification of Diseases</italic> (ICD) diagnosis codes, which are provided by the prescriber. The serious risk messages are also conveyed in the prescriber brochure to ensure prescribers are sufficiently informed to educate their patients about the risks before initiating therapy. Safe-use messages appropriate to the patients’ risk categories are repeated at each physician visit.</p>
+        <p>Other patient resources include a patient resource kit, which contains a REMS patient guide and an emergency contraception brochure. These materials are provided to the patient at the time of enrollment by the prescriber in support of the PPAF discussion. They are also available publicly on the REMS websites (<ext-link ext-link-type="uri" xlink:href="http://www.revlimidrems.com">http://www.revlimidrems.com</ext-link> for lenalidomide; <ext-link ext-link-type="uri" xlink:href="http://www.thalomidrems.com">http://www.thalomidrems.com</ext-link> for thalidomide). Additionally, each patient is counseled by a REMS-certified counselor with a REMS Education and Counseling Checklist for Pharmacies before each dispense.</p>
+        <p>Importantly, lenalidomide and thalidomide are dispensed to patients enrolled in the REMS only after they have received, and confirmed they understand, comprehensive safe-use messages. All patients must agree to participate in frequent KAB surveys initially, as well as during treatment, with the frequency depending on patient risk category. These surveys may be taken online, via an interactive voice-response system, or by calling the Celgene Customer Care Center. Mandatory surveys occur monthly for boys, men, girls who have not undergone menarche, and females of reproductive potential, and every 6 months for women not of reproductive potential. The number and nature of questions varies between risk categories. Mandatory surveys for adult males and females of reproductive potential include questions on the use of birth control methods and drug sharing. The survey for females of reproductive potential also includes questions that confirm their risk category, obtains confirmation of acceptable contraception behaviors as outlined by REMS, and affirms the patient understands the potential for the product to cause birth defects.</p>
+        <p>Mandatory surveys are also completed by prescribers when a prescription is written. Prescriber surveys include questions on contraception counselling, pregnancy testing, and drug prescribing. All mandatory surveys for patients and prescribers are reviewed using a computer algorithm that ‘flags’ discrepant responses that indicate a potential cause for concern. Responses were identified as discrepant if (1) they diverged from the desired answers or (2) there was discrepancy between patient and prescriber responses. If a flag occurs to halt the REMS authorization process, an outbound call from Celgene is placed to the prescriber to provide the appropriate patient information to remedy the flag and verify safe-use conditions. All flags must be resolved prior to drug dispense.</p>
+      </sec>
+      <sec id="Sec4">
+        <title>Voluntary Patient Survey</title>
+        <p>Patients in the REMS program indicated on the PPAF whether they would be willing to participate in additional voluntary surveys (an initial survey for patients ≤14 days from initial dispense and a follow-up for patients &gt;90 days from enrollment) that further examined their understanding and compliance with safe-use measures in relation to the REMS program. The patients who volunteered were categorized into one of four risk categories (children, females of childbearing potential, females not of childbearing potential, and adult males). Of these patients, one child (if available) and at least 77 other patients were randomly selected each week for the voluntary patient population. All eligible females of childbearing potential were included in the initial survey, whereas one-third of eligible females of childbearing potential were included in the follow-up survey (with no minimum or maximum number for patients in this category in either survey). The remaining patients were randomly selected from the females not of childbearing potential (40%, minimum of four patients) and adult males (60%, minimum of six patients).</p>
+        <p>The survey queried patients whether they were provided with the REMS program education materials and engaged in sufficient conversations with their healthcare providers to understand the contents. Patients were then classified into pregnancy risk groups similar to those in the mandatory KAB survey. Short- and long-term understanding and retention of educational materials was evaluated by sampling patients within 14 days of the first lenalidomide or thalidomide prescription (short-term retention) and after they had received therapy for at least 3 months (long-term retention).</p>
+        <p>The voluntary surveys also assessed patient compliance with birth control requirements. Acceptable forms of birth control for patients receiving lenalidomide and thalidomide include true abstinence or one highly effective and one additional effective method of contraception. Highly effective contraception methods include an intrauterine device, hormonal birth control pills or devices, tubal ligation, or partner’s vasectomy. Additional effective methods include male condom, diaphragm, or cervical cap. The THALOMID (thalidomide) voluntary patient survey for female patients of childbearing potential is provided in the Electronic Supplementary Material.</p>
+        <p>Information provided during enrollment into the mandatory REMS program and the optional voluntary patient survey, together with the results from the mandatory surveys, was analyzed to determine the effectiveness of patient education activities.</p>
+      </sec>
+    </sec>
+    <sec id="Sec5">
+      <title>Results</title>
+      <sec id="Sec6">
+        <title>Patients in the REMS Programs</title>
+        <p>Between June 2012 and June 2013, a total of 73,645 patients enrolled into the REMS programs, including 56,709 patients receiving lenalidomide and 16,936 patients receiving thalidomide. The vast majority of patients (82.9%) enrolled in the REMS were treated for MM, with lower numbers of patients treated for myelodysplastic syndrome (6.4%), ENL (0.1%), and other conditions (10.5%).</p>
+        <p>The distribution of patients by risk category is summarized in Fig. <xref rid="Fig2" ref-type="fig">2</xref>a. Consistent with published epidemiological data for MM [<xref ref-type="bibr" rid="CR16">16</xref>], there were more males (40,774 [55.4%]) than females (32,871 [44.6%]). Of the female patients, 2216 (6.7%) were of reproductive potential, and the majority (93.1%) were adult females not of reproductive potential, indicating the older population expected for patients with the diseases associated with the use of these drugs. Children represented &lt;1% of the enrolled patients.<fig id="Fig2"><label>Fig. 2</label><caption><p>Characteristics of the patient populations. <bold>a</bold> Distribution of patients enrolled in the lenalidomide and thalidomide Risk Evaluation and Mitigation Strategies (REMS) programs between June 2012 and June 2013 by risk category (<italic>N</italic> = 73,645). <bold>b</bold> Distribution of patients in the voluntary survey population by risk category (<italic>N</italic> = 2790). <bold>C</bold> Proportion of patients in the voluntary survey population who received and read the patient education brochure by risk category</p></caption><graphic xlink:href="40264_2016_501_Fig2_HTML" id="MO2"/></fig>
+</p>
+        <p>Of the 73,645 patients enrolled in the REMS programs, 10,391 (14.1%) agreed to participate in the additional voluntary survey. Of these, 3981 patients were randomly selected for inclusion in the voluntary survey sample, of whom 2790 (70.1%) responded. The distribution of responding patients is presented by risk category in Fig. <xref rid="Fig2" ref-type="fig">2</xref>b. The proportion of patients in each risk category was generally consistent with those recorded for the whole population enrolled in the REMS programs (Fig. <xref rid="Fig2" ref-type="fig">2</xref>a), with more females of reproductive potential, as expected from the sampling strategy used (see Methods). The voluntary survey confirmed that 89.4% of patients received the initial education materials from their healthcare professional and 85.9% read them before starting treatment with lenalidomide or thalidomide (Fig. <xref rid="Fig2" ref-type="fig">2</xref>c).</p>
+        <p>During the study period, 264,417 mandatory patient surveys were performed and 14,848 (5.6%) were flagged as a potential cause for concern (Table <xref rid="Tab1" ref-type="table">1</xref>). Females of reproductive potential had the highest number of flagged surveys (6062 [45.0%]), all of which were resolved before the patient received her prescription. Follow-up determined that 696 (11.5%) were due to the patient not understanding or not complying with risk/safe-use messages. These reports were investigated and resolved prior to drug dispense, as described in the Methods section. A further 4025 (66.4%) of the surveys for females of reproductive potential were flagged because, since their initial enrollment into the REMS program, the patient had either had their uterus removed, or their menstrual periods had stopped for more than 24 months. These patients were re-classified as females not of reproductive potential.<table-wrap id="Tab1"><label>Table 1</label><caption><p>Distribution of risk evaluation and mitigation strategies (REMS) patient survey flags by pregnancy risk category (June 2012–June 2013)</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Risk category</th><th align="left">Surveys completed (<italic>N</italic>)</th><th align="left">Number (%) of surveys flagged</th></tr></thead><tbody><tr><td align="left">Females of reproductive potential (adult and child)</td><td char="." align="char">13,481</td><td char="(" align="char">6062 (45.0)</td></tr><tr><td align="left">Females not of reproductive potential (adult and child)</td><td char="." align="char">33,364</td><td char="(" align="char">5289 (15.9)</td></tr><tr><td align="left">Males (adult and child)</td><td char="." align="char">217,572</td><td char="(" align="char">3497 (1.6)</td></tr><tr><td align="left">Total</td><td char="." align="char">264,417</td><td char="(" align="char">14,848 (5.6)</td></tr></tbody></table></table-wrap>
+</p>
+        <p>The voluntary surveys for the same period indicated that 97.9% of the women of reproductive potential and adult females not of reproductive potential (<italic>n</italic> = 1126) surveyed understood that women should not get pregnant while taking the product, and 94.0% complied with birth control requirements at initial survey (91.2% at follow-up), demonstrating the effectiveness of these interventions in ensuring patient understanding of, and compliance with, safe-use messages.</p>
+      </sec>
+      <sec id="Sec7">
+        <title>Compliance with Birth Control Requirements</title>
+        <p>Patient-reported compliance with pregnancy-prevention measures was determined in the voluntary survey. Compliance with the required two forms of birth control was assessed when starting therapy and 3 months later (Table <xref rid="Tab2" ref-type="table">2</xref>). Reported birth control compliance was high: 96.3% of patients used the required birth control when starting therapy, and 96.4% reconfirmed this later.<table-wrap id="Tab2"><label>Table 2</label><caption><p>Patient birth control compliance by risk category (voluntary survey), June 2012–February 2013</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Risk category</th><th align="left">Initial surveys</th><th align="left">Initial birth control compliance (%)</th><th align="left">Follow-up surveys</th><th align="left">Follow-up birth control compliance (%)</th></tr></thead><tbody><tr><td align="left">Females of reproductive potential</td><td char="." align="char">233</td><td char="(" align="char">219 (94.0)</td><td char="." align="char">147</td><td char="(" align="char">134 (91.2)</td></tr><tr><td align="left">Males (adult and child)</td><td char="." align="char">1532</td><td char="(" align="char">1480 (96.6)</td><td char="." align="char">1443</td><td char="(" align="char">1399 (97.0)</td></tr><tr><td align="left">Total</td><td char="." align="char">1765</td><td char="(" align="char">1699 (96.3)</td><td char="." align="char">1590</td><td char="(" align="char">1533 (96.4)</td></tr></tbody></table></table-wrap>
+</p>
+      </sec>
+      <sec id="Sec8">
+        <title>Understanding of Safe<italic>-</italic>Use Messages</title>
+        <p>The impact of repeated educational messages on patient understanding and compliance with safe-use messages was assessed by reviewing surveys conducted in the voluntary survey population several months after starting therapy (Table <xref rid="Tab3" ref-type="table">3</xref>).<table-wrap id="Tab3"><label>Table 3</label><caption><p>Patient understanding of messages by risk category (voluntary survey), June 2012–February 2013</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Message</th><th align="left">Females of reproductive potential</th><th align="left">Adult females not of reproductive potential</th><th align="left">Males aged ≥18 years</th><th align="left">Males aged 12–17 years</th><th align="left">Children aged &lt;12 years</th><th align="left">Total (%)</th></tr></thead><tbody><tr><td align="left">Total surveyed</td><td align="left">147</td><td align="left">979</td><td align="left">1441</td><td align="left">2</td><td align="left">7</td><td align="left">2576</td></tr><tr><td align="left">Product can cause birth defects</td><td align="left">146</td><td align="left">958</td><td align="left">1417</td><td align="left">2</td><td align="left">7</td><td align="left">2530 (98.2)</td></tr><tr><td align="left">Sharing product with others can be dangerous</td><td align="left">146</td><td align="left">969</td><td align="left">1417</td><td align="left">2</td><td align="left">7</td><td align="left">2541 (98.6)</td></tr><tr><td align="left">Women should not get pregnant while taking product</td><td align="left">144</td><td align="left">958</td><td align="left">–</td><td align="left">–</td><td align="left">–</td><td align="left">1102 (97.9)</td></tr><tr><td align="left">Men should use condoms while on product if they are sexually active with a woman who is able to become pregnant</td><td align="left">–</td><td align="left">–</td><td align="left">1418</td><td align="left">2</td><td align="left">–</td><td align="left">1420 (98.4)</td></tr><tr><td align="left">Unused product needs to be returned</td><td align="left">129</td><td align="left">866</td><td align="left">1239</td><td align="left">2</td><td align="left">7</td><td align="left">2243 (87.1)</td></tr></tbody></table></table-wrap>
+</p>
+        <p>Overall understanding of safe-use messages was very high: around 98% of patients demonstrated an understanding of most of these messages. Importantly, 98.2% of patients knew that lenalidomide and thalidomide can cause birth defects, which is part of the repeated educational messaging, whereas 87.1% recalled that unused product should be returned to their healthcare professional, which is not included in repeated messaging (Table <xref rid="Tab3" ref-type="table">3</xref>).</p>
+      </sec>
+    </sec>
+    <sec id="Sec9">
+      <title>Discussion</title>
+      <p>Effectiveness of the REMS programs for lenalidomide and thalidomide in driving patient understanding and retention of safe-use messages was assessed using data from mandatory KAB assessments and voluntary patient surveys. Patients surveyed had high levels of compliance with birth control requirements, both initially and at follow-up, as well as very high levels of understanding of safe-use messages. This study determined that mandated REMS programs are effective tools for educating patients in the safe use of lenalidomide and thalidomide and re-enforcing compliance with safe-use measures by repeated messaging. Previous studies have determined that levels of fetal exposure to both lenalidomide and thalidomide are very low in patients enrolled in US risk management programs for these drugs [<xref ref-type="bibr" rid="CR13">13</xref>, <xref ref-type="bibr" rid="CR14">14</xref>]. A third Celgene IMiD product, pomalidomide (Pomalyst<sup>®</sup>, approved in the USA for advanced MM in 2013) is distributed through an REMS identical to that for lenalidomide. It is anticipated that the REMS program will be similarly effective for this product.</p>
+      <p>Patient understanding of safe-use messages in the Celgene REMS programs reported in this study (approximately 98% for key messages related to pregnancy, teratogenicity, and sharing the product) is consistent with the high levels of understanding reported in a previous analysis of voluntary surveys conducted as part of the original lenalidomide risk management program (RevAssist<sup>®</sup>) [<xref ref-type="bibr" rid="CR14">14</xref>]. However, published data on the effectiveness of messaging in other REMS programs are limited. A recent study investigating patient understanding of key risks based on medication guide assessments for 66 drugs between September 2008 and June 2012 found that primary drug risk knowledge questions were answered correctly by 63.8% of respondents on average [<xref ref-type="bibr" rid="CR15">15</xref>]. Higher rates were recorded for REMS that also included ETASU or a communication plan and ETASU (89.8 and 82.7%, respectively). The continued high understanding of safe-use messages for patients in the Celgene REMS programs is consistent with the higher rate of patient understanding in REMS programs with ETASUs and indicates the relative effectiveness of the Celgene programs.</p>
+      <p>The high reported adherence to birth control measures for the Celgene REMS programs is particularly important given the teratogenic potential of the drugs involved. Thalidomide is a proven human teratogen, and lenalidomide caused thalidomide-like malformations in newborn monkeys in pre-clinical studies. Therefore, both must be considered products with teratogenic potential [<xref ref-type="bibr" rid="CR17">17</xref>]. A limitation of the current study is that the surveys do not report on patient behavior, which may not necessarily reflect survey responses. In a study of oral contraception use in over 6 million US women of childbearing age, only 59.8% of those receiving both category X medications and oral contraceptives were considered to be adherent to oral contraception [<xref ref-type="bibr" rid="CR18">18</xref>]. Consequently, an estimated 5.8% of pregnancies in the USA occur in women receiving medications of known teratogenic risk (categories D or X) [<xref ref-type="bibr" rid="CR19">19</xref>]. In this context, the high reported adherence to birth control requirements in this study (consistently over 90%) indicates the effectiveness of repeated messaging enabling understanding of birth control requirements in the REMS programs for lenalidomide and thalidomide. Crucially, Celgene risk management measures have been executed over 18 years, with no reported births with teratogenicity due to Celgene products.</p>
+      <p>In this study, understanding was particularly high for safe-use messages that were part of repeated messaging. For each of these safety messages, around 98% of patients demonstrated understanding, considerably higher than for a message not included in repeated messaging (Table <xref rid="Tab3" ref-type="table">3</xref>). This demonstrates the crucial role of repeated messaging in the REMS programs, particularly for messages related to teratogenicity and the need for adequate birth control measures. The high rate of understanding of these messages is reflected in a high rate of reported adherence to birth control measures. Repeated messaging has previously been shown to be effective in influencing prescriber behavior in a study of the provision of calcium and vitamin D supplements to UK patients receiving anti-epileptic drugs [<xref ref-type="bibr" rid="CR20">20</xref>]. In the Celgene REMS programs, the use of mandatory monthly (for patients of reproductive potential) or 6-monthly (for other patients) KAB surveys allows patients’ continued understanding of safe-use messages to be regularly and continually assessed prior to dispensing. Approximately 5% of the 264,417 surveys completed during this study were flagged, providing the opportunity to investigate and resolve concerns before lenalidomide or thalidomide was dispensed.</p>
+      <p>It should be noted that the surveys described here were conducted in support of a regulatory commitment of the REMS programs to serve as a practical indicator of safe-use conditions rather than for research purposes. Consequently, the goals and objectives of these surveys differ from those of surveys conducted as purely research exercises. One limitation of this study is the limited duration of follow-up. Messaging within REMS programs needs to be developed to prevent patient ‘fatigue’ with repeated messaging [<xref ref-type="bibr" rid="CR21">21</xref>], which could potentially diminish patients’ attention to serious risk and safe-use messaging. There was no evidence in this study that the repeated messaging in the lenalidomide and thalidomide REMS programs led to a reduction in patients’ attention to safety messages; however, there was no follow-up beyond 3 months. Additional studies are required to assess whether repeated messaging leads to diminution of patient attention.</p>
+      <p>In addition, although analysis of the patient surveys allowed us to assess patient understanding of REMS messaging, it did not provide any data on the impact of the REMS programs on prescribers. We believe that the results presented in this report, the record of birth control compliance with other category X drugs, and the overarching REMS programs rationale should be considered when evaluating the burden incurred by healthcare providers in relation to REMS programs. In a survey of 364 healthcare providers in Southern California, USA, most respondents (63%) considered that REMS improved patient safety, whereas 62% considered that REMS was very or somewhat meaningful in improving patient safety. Among oncology prescribers (<italic>N</italic> = 28), 68% considered that REMS improved patient safety, whereas 75% responded that REMS was meaningful [<xref ref-type="bibr" rid="CR22">22</xref>]. Despite this, the additional administrative burden incurred by REMS programs is a recognized concern among oncology practitioners [<xref ref-type="bibr" rid="CR21">21</xref>, <xref ref-type="bibr" rid="CR23">23</xref>]. To mitigate this, online enrollment systems have been developed to minimize the administrative burden on healthcare providers enrolling patients in the REMS programs for lenalidomide and thalidomide [<xref ref-type="bibr" rid="CR24">24</xref>]. Further studies are required to assess the burden of REMS programs and to evaluate potential improvements to the REMS process.</p>
+      <p>The necessary extra administrative burden incurred by these REMS programs must be considered in the context of the risk of fetal exposure and the effectiveness of the programs in preventing this exposure. Data presented here and elsewhere [<xref ref-type="bibr" rid="CR13">13</xref>, <xref ref-type="bibr" rid="CR14">14</xref>] clearly demonstrate that these programs drive the high levels of patient understanding and compliance necessary to prevent fetal exposure.</p>
+    </sec>
+    <sec id="Sec10">
+      <title>Conclusion</title>
+      <p>Lenalidomide and thalidomide are both important treatments for an increasing variety of malignant conditions. For these and other teratogenic compounds to be used safely, it is crucial that both the pharmaceutical industry and regulatory authorities work to minimize the risk of fetal exposure. The data from this study support the conclusion that the lenalidomide and thalidomide REMS programs in the USA enhance patient understanding of safe-use messages, leading to high levels of compliance with the birth control precautions essential to prevent fetal exposure to these known and potential human teratogens. The 3-month follow-up with the voluntary survey means there are no data on longer-term patient understanding of the REMS. However, the mandatory surveys show that overall compliance was maintained after 3 months of follow-up and throughout therapy.</p>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Electronic supplementary material</title>
+      <sec id="Sec11">
+        <p>Below is the link to the electronic supplementary material. 
+<supplementary-material content-type="local-data" id="MOESM1"><media xlink:href="40264_2016_501_MOESM1_ESM.pdf"><caption><p>Supplementary material 1 (PDF 1043 kb)</p></caption></media></supplementary-material>
+</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>Medical writing and editorial support for the preparation of the manuscript was provided by Graham Buttrick, PhD, of Insight Medical Writing (Oxford, UK) and funded by Celgene Corporation.</p>
+    </ack>
+    <notes notes-type="COI-statement">
+      <title>Compliance with Ethical Standards</title>
+      <sec id="FPar2">
+        <title>Funding</title>
+        <p>This study was sponsored by Celgene Corporation.</p>
+      </sec>
+      <sec id="FPar3">
+        <title>Conflicts of interest</title>
+        <p>Robert Bwire, John Freeman, Florence Houn, and Paul Sheehan are employees of Celgene Corporation. Nancy Brandenburg and Jerome Zeldis are former Celgene employees.</p>
+      </sec>
+      <sec id="FPar4">
+        <title>Patient consent</title>
+        <p>All patients included in the study gave consent for their data to be used on the PPAF. Ethical approval was not required for this study.</p>
+      </sec>
+    </notes>
+    <ref-list id="Bib1">
+      <title>References</title>
+      <ref id="CR1">
+        <label>1.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rehman</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Arfons</surname>
+              <given-names>LM</given-names>
+            </name>
+            <name>
+              <surname>Lazarus</surname>
+              <given-names>HM</given-names>
+            </name>
+          </person-group>
+          <article-title>The rise, fall and subsequent triumph of thalidomide: lessons learned in drug development</article-title>
+          <source>Ther Adv Hematol.</source>
+          <year>2011</year>
+          <volume>2</volume>
+          <fpage>291</fpage>
+          <lpage>308</lpage>
+          <pub-id pub-id-type="doi">10.1177/2040620711413165</pub-id>
+          <?supplied-pmid 23556097?>
+          <pub-id pub-id-type="pmid">23556097</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR2">
+        <label>2.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Waller</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <source>An introduction to pharmacovigilance</source>
+          <year>2010</year>
+          <publisher-loc>Chichester</publisher-loc>
+          <publisher-name>Wiley-Blackwell</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR3">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Somers</surname>
+              <given-names>GF</given-names>
+            </name>
+          </person-group>
+          <article-title>Pharmacological properties of thalidomide (α-phthalimido glutarimide), a new sedative</article-title>
+          <source>Br J Pharmacol Chemother.</source>
+          <year>1960</year>
+          <volume>15</volume>
+          <fpage>111</fpage>
+          <lpage>116</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1476-5381.1960.tb01217.x</pub-id>
+          <?supplied-pmid 13832739?>
+          <pub-id pub-id-type="pmid">13832739</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR4">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lenz</surname>
+              <given-names>W</given-names>
+            </name>
+          </person-group>
+          <article-title>Kindliche missbildungen nach medikament-einnahme während der gravidität?</article-title>
+          <source>Dtsch Med Wochenschr</source>
+          <year>1961</year>
+          <volume>86</volume>
+          <fpage>2555</fpage>
+          <lpage>2556</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR5">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McBride</surname>
+              <given-names>WG</given-names>
+            </name>
+          </person-group>
+          <article-title>Thalidomide and congenital abnormalities</article-title>
+          <source>Lancet</source>
+          <year>1961</year>
+          <volume>2</volume>
+          <fpage>1358</fpage>
+          <pub-id pub-id-type="doi">10.1016/S0140-6736(61)90927-8</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR6">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Smithells</surname>
+              <given-names>RW</given-names>
+            </name>
+            <name>
+              <surname>Newman</surname>
+              <given-names>CG</given-names>
+            </name>
+          </person-group>
+          <article-title>Recognition of thalidomide defects</article-title>
+          <source>J Med Genet</source>
+          <year>1992</year>
+          <volume>29</volume>
+          <fpage>716</fpage>
+          <lpage>723</lpage>
+          <pub-id pub-id-type="doi">10.1136/jmg.29.10.716</pub-id>
+          <?supplied-pmid 1433232?>
+          <pub-id pub-id-type="pmid">1433232</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR7">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Greene</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Podolsky</surname>
+              <given-names>SH</given-names>
+            </name>
+          </person-group>
+          <article-title>Reform, regulation, and pharmaceuticals—the Kefauver-Harris Amendments at 50</article-title>
+          <source>N Engl J Med</source>
+          <year>2012</year>
+          <volume>367</volume>
+          <fpage>1481</fpage>
+          <lpage>1483</lpage>
+          <pub-id pub-id-type="doi">10.1056/NEJMp1210007</pub-id>
+          <?supplied-pmid 23075174?>
+          <pub-id pub-id-type="pmid">23075174</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR8">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Iyer</surname>
+              <given-names>CG</given-names>
+            </name>
+            <name>
+              <surname>Languillon</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Ramanujam</surname>
+              <given-names>K</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>WHO co-ordinated short-term double-blind trial with thalidomide in the treatment of acute lepra reactions in male lepromatous patients</article-title>
+          <source>Bull World Health Organ</source>
+          <year>1971</year>
+          <volume>45</volume>
+          <fpage>719</fpage>
+          <lpage>732</lpage>
+          <?supplied-pmid 4947831?>
+          <pub-id pub-id-type="pmid">4947831</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR9">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sampaio</surname>
+              <given-names>EP</given-names>
+            </name>
+            <name>
+              <surname>Sarno</surname>
+              <given-names>EN</given-names>
+            </name>
+            <name>
+              <surname>Galilly</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Thalidomide selectively inhibits tumor necrosis factor alpha production by stimulated human monocytes</article-title>
+          <source>J Exp Med</source>
+          <year>1991</year>
+          <volume>173</volume>
+          <fpage>699</fpage>
+          <lpage>703</lpage>
+          <pub-id pub-id-type="doi">10.1084/jem.173.3.699</pub-id>
+          <?supplied-pmid 1997652?>
+          <pub-id pub-id-type="pmid">1997652</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR10">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>D’Amato</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Loughnan</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Flynn</surname>
+              <given-names>E</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Thalidomide is an inhibitor of angiogenesis</article-title>
+          <source>Proc Natl Acad Sci USA</source>
+          <year>1994</year>
+          <volume>91</volume>
+          <fpage>4082</fpage>
+          <lpage>4085</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.91.9.4082</pub-id>
+          <?supplied-pmid 7513432?>
+          <pub-id pub-id-type="pmid">7513432</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR11">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Singhal</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Mehta</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Desikan</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Antitumor activity of thalidomide in refractory multiple myeloma</article-title>
+          <source>N Engl J Med</source>
+          <year>1999</year>
+          <volume>341</volume>
+          <fpage>1565</fpage>
+          <lpage>1571</lpage>
+          <pub-id pub-id-type="doi">10.1056/NEJM199911183412102</pub-id>
+          <?supplied-pmid 10564685?>
+          <pub-id pub-id-type="pmid">10564685</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR12">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rajkumar</surname>
+              <given-names>SV</given-names>
+            </name>
+            <name>
+              <surname>Blood</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Vesole</surname>
+              <given-names>D</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Phase III clinical trial of thalidomide plus dexamethasone compared with dexamethasone alone in newly diagnosed multiple myeloma: a clinical trial coordinated by the Eastern Cooperative Oncology Group</article-title>
+          <source>J Clin Oncol</source>
+          <year>2006</year>
+          <volume>24</volume>
+          <fpage>431</fpage>
+          <lpage>436</lpage>
+          <pub-id pub-id-type="doi">10.1200/JCO.2005.03.0221</pub-id>
+          <?supplied-pmid 16365178?>
+          <pub-id pub-id-type="pmid">16365178</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR13">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Uhl</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Cox</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Rogan</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Thalidomide use in the US: experience with pregnancy testing in the S.T.E.P.S. programme</article-title>
+          <source>Drug Saf</source>
+          <year>2006</year>
+          <volume>29</volume>
+          <fpage>321</fpage>
+          <lpage>329</lpage>
+          <pub-id pub-id-type="doi">10.2165/00002018-200629040-00003</pub-id>
+          <?supplied-pmid 16569081?>
+          <pub-id pub-id-type="pmid">16569081</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR14">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Castaneda</surname>
+              <given-names>CP</given-names>
+            </name>
+            <name>
+              <surname>Zeldis</surname>
+              <given-names>JB</given-names>
+            </name>
+            <name>
+              <surname>Freeman</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>RevAssist: a comprehensive risk minimization programme for preventing fetal exposure to lenalidomide</article-title>
+          <source>Drug Saf</source>
+          <year>2008</year>
+          <volume>31</volume>
+          <fpage>743</fpage>
+          <lpage>752</lpage>
+          <pub-id pub-id-type="doi">10.2165/00002018-200831090-00003</pub-id>
+          <?supplied-pmid 18707189?>
+          <pub-id pub-id-type="pmid">18707189</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR15">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Knox</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Hampp</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Willy</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Patient understanding of drug risks: an evaluation of medication guide assessments</article-title>
+          <source>Pharmacoepidemiol Drug Saf</source>
+          <year>2015</year>
+          <volume>24</volume>
+          <fpage>518</fpage>
+          <lpage>525</lpage>
+          <pub-id pub-id-type="doi">10.1002/pds.3762</pub-id>
+          <?supplied-pmid 25808393?>
+          <pub-id pub-id-type="pmid">25808393</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR16">
+        <label>16.</label>
+        <mixed-citation publication-type="other">Howlader N, Noone AM, Krapcho M, et al (eds). SEER Cancer Statistics Review, 1975–2011, National Cancer Institute. Bethesda, MD. <ext-link ext-link-type="uri" xlink:href="http://seer.cancer.gov/csr/1975_2011/">http://seer.cancer.gov/csr/1975_2011/</ext-link>. Based on November 2013 SEER data submission, posted to the SEER website, April 2014. Accessed 6 Nov 2014.</mixed-citation>
+      </ref>
+      <ref id="CR17">
+        <label>17.</label>
+        <mixed-citation publication-type="other">Celgene Corporation. REVLIMID [lenalidomide] full prescribing information 2015. <ext-link ext-link-type="uri" xlink:href="http://www.revlimid.com/wp-content/uploads/2013/11/PI.pdf">http://www.revlimid.com/wp-content/uploads/2013/11/PI.pdf</ext-link>. Accessed 19 Feb 2015.</mixed-citation>
+      </ref>
+      <ref id="CR18">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Steinkellner</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Denison</surname>
+              <given-names>SE</given-names>
+            </name>
+          </person-group>
+          <article-title>Adherence to oral contraception in women on Category X medications</article-title>
+          <source>Am J Med</source>
+          <year>2010</year>
+          <volume>123</volume>
+          <fpage>929</fpage>
+          <lpage>934</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.amjmed.2010.05.009</pub-id>
+          <?supplied-pmid 20920695?>
+          <pub-id pub-id-type="pmid">20920695</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR19">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Andrade</surname>
+              <given-names>SE</given-names>
+            </name>
+            <name>
+              <surname>Raebel</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Morse</surname>
+              <given-names>AN</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Use of prescription medications with a potential for fetal harm among pregnant women</article-title>
+          <source>Pharmacoepidemiol Drug Saf</source>
+          <year>2006</year>
+          <volume>15</volume>
+          <fpage>546</fpage>
+          <lpage>554</lpage>
+          <pub-id pub-id-type="doi">10.1002/pds.1235</pub-id>
+          <?supplied-pmid 16586470?>
+          <pub-id pub-id-type="pmid">16586470</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR20">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Minshall</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Mahon</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Neligan</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Bone protection and anti-epileptic drugs: the effect of audit and computer messaging on supplementation prescribing practices</article-title>
+          <source>Seizure.</source>
+          <year>2013</year>
+          <volume>22</volume>
+          <fpage>757</fpage>
+          <lpage>759</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.seizure.2013.06.002</pub-id>
+          <?supplied-pmid 23810527?>
+          <pub-id pub-id-type="pmid">23810527</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR21">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <collab>American Pharmacists Association</collab>
+          </person-group>
+          <article-title>APhA 2011 REMS white paper: summary of the REMS stakeholder meeting on improving program design and implementation</article-title>
+          <source>J Am Pharm Assoc.</source>
+          <year>2011</year>
+          <volume>51</volume>
+          <fpage>340</fpage>
+          <lpage>358</lpage>
+          <pub-id pub-id-type="doi">10.1331/JAPhA.2011.11519</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR22">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rashid</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Cheetham</surname>
+              <given-names>TC</given-names>
+            </name>
+            <name>
+              <surname>Aranda</surname>
+              <given-names>G</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A descriptive evaluation of prescriber perceptions and experience with Risk Evaluation and Mitigation Strategy (REMS) programs in an integrated health care system</article-title>
+          <source>Ther Innov Regul Sci.</source>
+          <year>2015</year>
+          <volume>49</volume>
+          <fpage>503</fpage>
+          <lpage>510</lpage>
+          <pub-id pub-id-type="doi">10.1177/2168479014567318</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR23">
+        <label>23.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Frame</surname>
+              <given-names>JN</given-names>
+            </name>
+            <name>
+              <surname>Jacobson</surname>
+              <given-names>JO</given-names>
+            </name>
+            <name>
+              <surname>Vogel</surname>
+              <given-names>WH</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Assessment of risk evaluation and mitigation strategies in oncology: summary of the oncology risk evaluation and mitigation strategies workshop</article-title>
+          <source>J Oncol Pract.</source>
+          <year>2013</year>
+          <volume>9</volume>
+          <fpage>e24</fpage>
+          <lpage>e39</lpage>
+          <pub-id pub-id-type="doi">10.1200/JOP.2012.000620</pub-id>
+          <?supplied-pmid 23814522?>
+          <pub-id pub-id-type="pmid">23814522</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR24">
+        <label>24.</label>
+        <mixed-citation publication-type="other">Celgene: REMS program portal. <ext-link ext-link-type="uri" xlink:href="https://www.celgeneriskmanagement.com">https://www.celgeneriskmanagement.com</ext-link>.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record>

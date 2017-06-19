@@ -1,0 +1,550 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5359856</identifier><datestamp>2017-04-04</datestamp><setSpec>jri</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Reprod Infertil</journal-id>
+      <journal-id journal-id-type="iso-abbrev">J Reprod Infertil</journal-id>
+      <journal-id journal-id-type="publisher-id">JRI</journal-id>
+      <journal-id journal-id-type="pmc">JRI</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Reproduction &amp; Infertility</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">2228-5482</issn>
+      <issn pub-type="epub">2251-676X</issn>
+      <publisher>
+        <publisher-name>Avicenna Research Institute</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5359856</article-id>
+      <article-id pub-id-type="pmcid">PMC5359856</article-id>
+      <article-id pub-id-type="pmc-uid">5359856</article-id>
+      <article-id pub-id-type="publisher-id">jri-17-185</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Original Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>BMP15 and GDF9 Gene Mutations in Premature Ovarian Failure</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kumar</surname>
+            <given-names>Ravindra</given-names>
+          </name>
+          <xref ref-type="aff" rid="AFF1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="C1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Alwani</surname>
+            <given-names>Madhuri</given-names>
+          </name>
+          <xref ref-type="aff" rid="AFF2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kosta</surname>
+            <given-names>Susmit</given-names>
+          </name>
+          <xref ref-type="aff" rid="AFF1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kaur</surname>
+            <given-names>Ravjyot</given-names>
+          </name>
+          <xref ref-type="aff" rid="AFF2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Agarwal</surname>
+            <given-names>Sarita</given-names>
+          </name>
+          <xref ref-type="aff" rid="AFF3">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+        <aff id="AFF1"><label>1-</label> Central Research Laboratory, Sri Aurobindo Medical College and PG Institute, Indore, India</aff>
+        <aff id="AFF2"><label>2-</label> Department of Obstetrics &amp; Gynaecology, Sri Aurobindo Medical College and PG Institute, Indore, India</aff>
+        <aff id="AFF3"><label>3-</label> Department of Genetics, Sanjay Gandhi Post Graduate Institute of Medical Sciences, Lucknow, India</aff>
+      </contrib-group>
+      <author-notes>
+        <corresp id="C1"><label>*</label><italic>Corresponding Author:</italic> Ravindra Kumar, Scientist and Head Central Research Laboratory, Sri Aurobindo Medical College and Post Graduate Institute, Indore Ujjain Highway, Indore Madhya Pradesh, India, <italic>E-mail:</italic><email>ravindrachhabra@gmail.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <season>Jan-Mar</season>
+        <year>2017</year>
+      </pub-date>
+      <volume>18</volume>
+      <issue>1</issue>
+      <fpage>185</fpage>
+      <lpage>189</lpage>
+      <history>
+        <date date-type="received">
+          <day>21</day>
+          <month>5</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>31</day>
+          <month>7</month>
+          <year>2016</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright© 2017, Avicenna Research Institute.</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <license>
+          <license-p>This work is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License which allows users to read, copy, distribute and make derivative works for non-commercial purposes from the material, as long as the author of the original work is cited properly.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <sec>
+          <title>Background:</title>
+          <p>Premature ovarian failure (POF) is an ovarian defect characterized by the premature depletion of ovarian follicles before the age of 40, representing one major cause of female infertility. Mutations in bone morphogenetic protein 15 (BMP15) and growth differentiation factor 9 (GDF9) have been shown to be associated with POF.</p>
+        </sec>
+        <sec>
+          <title>Methods:</title>
+          <p>Genomic DNA was isolated from 52 idiopathic premature ovarian failure patients and 100 normal control individuals. Exons of BMP15 and GDF9 gene were amplified using PCR method and subjected to directed sequencing. Variants were identified by comparing the sequences obtained with normal sequences from NCBI database.</p>
+        </sec>
+        <sec>
+          <title>Results:</title>
+          <p>Four BMP15 gene variants were identified in 6 patients in heterozygous condition. Out of these 4 variants, 3 variants namely, c.165A&gt;T (p.Glu55Asp), c.538 G&gt;T (p.Aln180 Ser) and c. 510_512 delT were novel variants. In silico analysis using SIFT, Provean and Polyphen 2 score predicted the non-deleterious effect of c.165A&gt;T and c.538 G&gt;T variant. 788insTCT variant was identified in 3 patients. No variant was identified in GDF9 gene in any patients and controls.</p>
+        </sec>
+        <sec>
+          <title>Conclusion:</title>
+          <p>Although the variant has been identified in BMP15 gene but it may not be associated with the premature ovarian failure.</p>
+        </sec>
+      </abstract>
+      <kwd-group>
+        <kwd>Bone morphogenetic protein 15</kwd>
+        <kwd>Female infertility</kwd>
+        <kwd>Gene mutation</kwd>
+        <kwd>Growth differentiation factor 9</kwd>
+        <kwd>Premature ovarian failure</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Premature ovarian failure (POF) is characterized by hyper gonadotropic ovarian deficiency with primary or secondary amenorrhoea (<xref rid="B1" ref-type="bibr">1</xref>). It affects 0.0001% of females by the age of 20 years, 0.001% by 30 years and 0.01% by 40 years, showing the one major cause of female infertility (<xref rid="B2" ref-type="bibr">2</xref>).</p>
+      <p>Ovarian function is regulated by a combined stimulus of gonadotropins, follicular stimulating hormone (FSH), luteinizing hormone, and local ovarian factors such as inhibins, activins, bone morphogenetic protein 15 (BMP15) and growth differentiation factor 9 (GDF9). A familial accumulation of the POF syndrome has been observed in between 4 and 31% of the patients with POF which suggests dominant genetic etiology (<xref rid="B3" ref-type="bibr">3</xref>).</p>
+      <p>BMP15 and GDF9 belong to transforming growth factor-β (TGF-β) superfamily (<xref rid="B4" ref-type="bibr">4</xref>, <xref rid="B5" ref-type="bibr">5</xref>). Genes belonging to TGF β superfamily regulate many aspects of development by activating transmembrane serine/threonine kinase receptors (<xref rid="B6" ref-type="bibr">6</xref>). BMP15 has been shown to stimulate granulosa cell growth and promotes the progression of folliculogenesis from the primary stage to the follicle stimulating hormone (FSH) dependent stage (<xref rid="B7" ref-type="bibr">7</xref>–<xref rid="B9" ref-type="bibr">9</xref>). Mutations in BMP15 gene have been found as a culprit for POF in several worldwide cohorts with a variable prevalence between 1.5 and 12% (<xref rid="B10" ref-type="bibr">10</xref>–<xref rid="B12" ref-type="bibr">12</xref>). However, Zhang et al. (<xref rid="B13" ref-type="bibr">13</xref>) and Ledig et al. (<xref rid="B14" ref-type="bibr">14</xref>) failed to find any association between BMP15 and POF.</p>
+      <p>GDF9 is also expressed in the oocyte and its products can form noncovalent heterodimers acting in a synergistic manner on the function of surrounding follicular granulosa cells (<xref rid="B15" ref-type="bibr">15</xref>). GDF9 gene variations in humans described so far in different ethnicities are all heterozygous, affect exclusively the pro-region with a prevalence of 1.4%, and are not detected in the control samples (<xref rid="B16" ref-type="bibr">16</xref>–<xref rid="B18" ref-type="bibr">18</xref>).</p>
+      <p>Due to these conflicting results of various studies, this study was planned to evaluate the association between growth differentiation factor 9 (GDF9) and bone morphogenetic protein 15 (BMP15) genes mutations with premature ovarian failure.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Methods</title>
+      <sec sec-type="subjects">
+        <title>Subjects:</title>
+        <p>Patients with a diagnosis of POF were recruited from the Department of Obstetrics and Gynaecology, Sri Aurobindo Medical Collage and PG Institute, Indore during the period between September 2012 and March 2015. A total of 52 patients with idiopathic premature ovarian failure or insufficiency subjects with 46XX karyotype were enrolled in the present study. The patients had a mean age of 29.82±6.0 years (range, 17–39 years). Less than 40 year old healthy individuals visiting the department for routine investigations were selected as the control group. All the control individuals had a regular menstrual cycle, and normal reproductive hormone levels and chromosomes.</p>
+        <p>The inclusion criteria of all participants were ≤40 years of age, duration of amenorrhea ≥6 months, serum FSH level ≥40 <italic>IU/l</italic> on two or more occasions with the presence of amenorrhea. Individuals with a history of ovarian surgery, radiotherapy, chemotherapy or other factors, which may damage ovarian functions, were excluded. The present study was approved by the Ethics Review Committee of the Sri Aurobindo Medical Collage and PG Institute. Written informed consent was obtained from all participants following a detailed description of the potential benefits of the investigation.</p>
+      </sec>
+      <sec sec-type="methods">
+        <title>DNA extraction, sequencing and analysis:</title>
+        <p>All the laboratory investigations were performed in Central Research Laboratory of the institute; 5 <italic>ml</italic> venous blood sample was drawn in EDTA vacutainer. Genomic DNA was extracted from the blood using a QIAamp DNA isolation kit according to the manufacturer’s instructions, and the concentration was determined using Qubit Fluorometer (Life Technologies). PCR amplification of the GDF9 and BMP15 genes was performed using the primers shown in <xref ref-type="table" rid="T1">table 1</xref>, in a 50 <italic>μl</italic> reaction volume containing 50 <italic>nmol</italic> DNA template, 200 <italic>nmol</italic> dNTP, 10 <italic>pmol</italic> forward and reverse primers, 1 <italic>U</italic> Taq DNA polymerase and ddH2O, under the PCR amplification conditions shown in <xref ref-type="table" rid="T1">table 1</xref>. The PCR products were purified by DNA purification kit and subjected to direct sequencing using big dye terminator kit 3.1 (Applied Biosystems).</p>
+        <table-wrap id="T1" position="float">
+          <label>Table 1.</label>
+          <caption>
+            <p>Primers and protocols used for PCR amplification of GDF9 and BMP15</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>Gene</bold>
+                </th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">
+                  <bold>Location</bold>
+                </th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">
+                  <bold>Primer sequence</bold>
+                </th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">
+                  <bold>PCR amplification protocol</bold>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>GDF9</bold>
+                </td>
+                <td align="left" valign="middle" rowspan="1" colspan="1"/>
+                <td align="center" valign="middle" rowspan="1" colspan="1"/>
+                <td align="center" valign="middle" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1"/>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Exon 1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">F,5′-TAGTCCACCCACACACCTGA-3′;<break/>R,5′-CCAGAAGCCTGAGAACCA -3′<break/>F,5′-TTCCTCCTTTGGTTTTGCTG-3′;<break/>R,5′-AAAGCTCTGGAGTCTGGCTG -3′<break/>F,5′-TTCTATCTGTTGGGCGAGGT-3′;<break/>R,5′-CATCTTCCCTCCACCCAGT-3′<break/>F, 5′-CTGCCTGTTGTGTTGACTGA-3′;<break/>R,5′-TCTGAATCCATTTGTGTTTCTTTC-3′</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">94°<italic>C</italic> for 5 <italic>min</italic>, followed by 30 cycles at 94°<italic>C</italic> for 30 <italic>s</italic>, 58°<italic>C</italic> for 30 <italic>s</italic> and 72°<italic>C</italic> for 30 <italic>s</italic>, then finally 72°<italic>C</italic> for 7 <italic>min</italic></td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1"/>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Exon 2</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">F,5′-CTCTCGGCAGAGCTCCATAC-3′;<break/>R,5′-GGGGACACCAGAGTCATGTT-3′<break/>F,5′-CGCAGAGGTCAGGAAACTGT-3′;<break/>R,5′-GGTCTTGGCACTGAGGAGTC-3′<break/>F,5′-TGAAAGACCAGCTGGAGCA-3′;<break/>R,5′-TCAGATTGAAGGAAGCTGGG-3′<break/>F,5′-TCGGTATGGCTCTCCAGTTC-3′;<break/>R,5′-AATATATCAAGCTTTCTCTTGAAG-3′</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">94°<italic>C</italic> for 5 <italic>min</italic>, followed by 30 cycles at 94°<italic>C</italic> for 30 <italic>s</italic>, 58°<italic>C</italic> for 30 <italic>s</italic> and 72°<italic>C</italic> for 30 <italic>s</italic>, then finally 72°<italic>C</italic> for 7 <italic>min</italic></td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+                  <bold>BMP15</bold>
+                </td>
+                <td align="center" valign="middle" rowspan="1" colspan="1"/>
+                <td align="center" valign="middle" rowspan="1" colspan="1"/>
+                <td align="center" valign="middle" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1"/>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Exon 1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">F, 5′-TTGTGTTGGGGCCTGTTGTT-3′;<break/>R,5′-GGTACAACTCCAGCATGTACC-3′<break/>F,5′-GCTGCTAGAAGAATCCCCTG-3′;<break/>R,5′-AACCCACCAATTCCCTTTT-3′</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">94°<italic>C</italic> for 5 <italic>min</italic>, followed by 30 cycles at 94°<italic>C</italic> for 60 <italic>s</italic>, 58°<italic>C</italic> for 60 <italic>s</italic> and 72°<italic>C</italic> for 60 <italic>s</italic>, then finally 72°<italic>C</italic> for 7 <italic>min</italic></td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1"/>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Exon 2</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">F,5′-AATATTCATGTTAAGAGGTAAGA-3′;<break/>R,5′-AGGAAGGGAAGTGGTTGGTT-3′<break/>F,5′-TCAATCTCTCCTGCCATGTGG-3′;<break/>R,5′-TGTCCAAGGATGAAGAGCC -3′<break/>F,5′-TGGTCTTGAGCTCTGGCATG-3′;<break/>R,5′-CTGATTTGGAAAGGGTGGAG-3′</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">94°<italic>C</italic> for 5 <italic>min</italic>, followed by 30 cycles at 94°<italic>C</italic> for 30 <italic>s</italic>, 58°<italic>C</italic> for 30 <italic>s</italic> and 72°<italic>C</italic> for 30 <italic>s</italic>, then finally 72°<italic>C</italic> for 7 <italic>min</italic></td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>The sequencing chromatograms were assessed using the ABI sequence scanner program and the sequences of the GDF9 and BMP15 genes were aligned to those registered in Gene Bank (<ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/genbank/">http://www.ncbi.nlm.nih.gov/genbank/</ext-link>) for the identification of mutant loci.</p>
+        <p>To determine the potentially deleterious effect of the amino acid changes, Provean software (<ext-link ext-link-type="uri" xlink:href="http://provean.jcvi.org/index.php">http://provean.jcvi.org/index.php</ext-link>), SIFT software (<ext-link ext-link-type="uri" xlink:href="http://sift.jcvi.org">http://sift.jcvi.org</ext-link>) and Polyphen 2 software (<ext-link ext-link-type="uri" xlink:href="http://genetics.bwh.harvard.edu/pph2/">http://genetics.bwh.harvard.edu/pph2/</ext-link>) were used. Provean software predicts whether an amino acid substitution or indel has an impact on the biological function of a protein (<xref rid="B19" ref-type="bibr">19</xref>). The SIFT software predicts whether an amino acid substitution affects protein function based on sequence homology and the physical properties of amino acids (<xref rid="B20" ref-type="bibr">20</xref>). PolyPhen-2 (Polymorphism Phenotyping v2) predicts possible impact of amino acid substitutions on the structure and function of human proteins using straightforward physical and evolutionary comparative considerations (<xref rid="B21" ref-type="bibr">21</xref>).</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <p>Sequencing data collection and analysis were successfully performed for the GDF9 and BMP15 genes in all the cases and controls, which included non-familial POF cases; no variant was observed in the coding region of the GDF9 gene of any case and control sample. Four variants of BMP15 gene were observed in cases which included two missense substitutions, one in exon I and the other in exon II position (<xref ref-type="table" rid="T2">Table 2</xref>). FS 788-ins-TCT was present in 3 cases. Three novel variants were observed in our cohort namely, c.510–512del T, c.165A&gt;T (p.Glu55Asp) and c.538 G&gt;T (p.Aln 180Ser). c.510–512del T is the frameshift variant resulting in elongated chain and by dominant negative effect it impairs the function of normal protein. The c.165A&gt;T (p.Glu.55Asp) is a missense variant and changes the glutamic acid to asparagine at position 55. Provean score for this missense variant was −0.61(cut off score &gt;−2.5) and SIFT prediction score was 0.108 (Cut off &gt;0.05). Both of these scores predicted the neutral effect of this missense variant. This variant was predicted to be benign with a score of 0.007 (sensitivity: 0.96; specificity: 0.75) by PolyPhen 2 software.</p>
+      <table-wrap id="T2" position="float">
+        <label>Table 2.</label>
+        <caption>
+          <p>Sequence variation in the BMP15 gene in POF patients</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <th align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>Sequence variation</bold>
+              </th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>AA change</bold>
+              </th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>Protein domain</bold>
+              </th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>No. of patients</bold>
+              </th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>No. of controls</bold>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>165A&gt;T</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Glu55Asp</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Exon 1</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">1/52</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">0/100</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>538 G&gt;T</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Arg180Leu</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Exon 2</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">1/52</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">0/100</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>788insTCT</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">ins263L</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Exon 2</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">3/52</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">0/100</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>510–512 Del T</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">-</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Exon 2</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">1/52</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">0/100</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>In other patients of POF, c.538 G&gt;T (p. Aln 180 Ser) missense variant was observed. This variant also has neutral effect on the protein function as predicted by Provean (0.17) and SIFT score (0.418). PolyPhen 2 also predicted this variant as benign with score of 0.156 (sensitivity: 0.92; specificity: 0.87). The clinical characteristics of the patients carrying BMP15 variants are detailed in <xref ref-type="table" rid="T3">table 3</xref>. No variant in BMP15 gene was observed in the control group.</p>
+      <table-wrap id="T3" position="float">
+        <label>Table 3.</label>
+        <caption>
+          <p>Characteristics of patients having BMP15 gene mutation</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <th align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>BMP15 gene variant</bold>
+              </th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>Ethnic origin</bold>
+              </th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>Age</bold>
+              </th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>Amenorrhoea</bold>
+              </th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>FSH level (<italic>mIU/ml</italic>)</bold>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>165A&gt;T</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Indian</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">31</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Secondary</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">109</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>538 G&gt;T</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Indian</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">33</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Secondary</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">96</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>788insTCT</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Indian</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">28</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Secondary</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">136</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>788insTCT</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Indian</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">32</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Secondary</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">116</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>788insTCT</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Indian</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">35</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Secondary</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">98</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>510–512-deletion</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Indian</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">35</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">Secondary</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">138</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>POF is mostly portrayed as a heterogeneous genetic disorder but its etiology still remains elusive. Studies have illuminated the comprehensive role of two oocyte derived growth factors, GDF9 and BMP15, as the main driving force for the proliferation and progression of somatic follicle cells (<xref rid="B22" ref-type="bibr">22</xref>). The BMP15 gene plays a vital role in early human folliculogenesis and it is characterized as a strong candidate gene for POF. BMP15 is a member of the large superfamily of the transforming growth factor β (TGFβ) proteins involved in diverse cellular processes during embryonic development and tissue formation (<xref rid="B23" ref-type="bibr">23</xref>). The main roles of BMP15 include a) the promotion of follicle maturation from the primordial gonadotropin independent phases of folliculogenesis; b) regulation of follicular GC sensitivity to FSH action; c) prevention of GC apoptosis; d) promotion of oocyte developmental competence; and e) regulation of ovulation quota (<xref rid="B9" ref-type="bibr">9</xref>, <xref rid="B24" ref-type="bibr">24</xref>).</p>
+      <p>In the present study, four variants in BMP15 gene were identified of which three variants were novel.</p>
+      <p>c.165A&gt;T (p.Glu55Asp) and c.538 G&gt;T (p.Aln 180Ser) variants has no deleterious effect as predicted by in silico analysis.</p>
+      <p>Previous studies reported different variant C. 538G&gt;A (p.Aln180Thr) at the same position at which we observed C.538G&gt;T (p.Aln180Ser) (<xref rid="B11" ref-type="bibr">11</xref>, <xref rid="B25" ref-type="bibr">25</xref>). Similar to our prediction previous reports also shows no deleterious effect of this variant.</p>
+      <p>788insTCT variant was observed in three patients in our study. This variant has been identified in patients presenting with POF in many previous studies (<xref rid="B6" ref-type="bibr">6</xref>, <xref rid="B12" ref-type="bibr">12</xref>, <xref rid="B25" ref-type="bibr">25</xref>, <xref rid="B27" ref-type="bibr">27</xref>). This insertion may be considered as a polymorphism as it was previously identified in controls as well (<xref rid="B6" ref-type="bibr">6</xref>, <xref rid="B11" ref-type="bibr">11</xref>, <xref rid="B26" ref-type="bibr">26</xref>, <xref rid="B27" ref-type="bibr">27</xref>). This variant was not found in any of the control subjects.</p>
+      <p>No variant was observed in GDF9 gene in either patients or controls. This is in contrast to the study done by dixit et al. (<xref rid="B17" ref-type="bibr">17</xref>) and Laissue et al. (<xref rid="B11" ref-type="bibr">11</xref>) which show the GDF9 variants in POF patients.</p>
+    </sec>
+    <sec sec-type="conclusion">
+      <title>Conclusion</title>
+      <p>In conclusion, the present study provided evidence for naturally occurring variants in association with POF and points to the massive importance of BMP15 as a vital candidate gene, which should also be studied in other populations. Although software assessment of the variants reveals their neutral effect, their functional implication cannot be ruled out altogether. Experimental studies should be conducted to determine the real implication of those variations.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgement</title>
+      <p>This study was financed by the Department of Science and Technology, New Delhi, India.</p>
+    </ack>
+    <fn-group>
+      <fn>
+        <p>
+          <bold>Conflict of Interest</bold>
+        </p>
+        <p>The authors report no declarations of interest. Source of funding was DST, New Delhi, India.</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <label>1.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Coulam</surname><given-names>CB.</given-names></name></person-group>
+<article-title>Premature gonadal failure</article-title>. <source>Fertil Steril</source>. <year>1982</year>;<volume>38</volume>(<issue>6</issue>):<fpage>645</fpage>–<lpage>55</lpage>.<pub-id pub-id-type="pmid">7141005</pub-id></mixed-citation>
+      </ref>
+      <ref id="B2">
+        <label>2.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Coulam</surname><given-names>CB</given-names></name><name><surname>Adamson</surname><given-names>SC</given-names></name><name><surname>Annegers</surname><given-names>JF.</given-names></name></person-group>
+<article-title>Incidence of premature ovarian failure</article-title>. <source>Obstet Gynecol</source>. <year>1986</year>; <volume>67</volume>(<issue>4</issue>):<fpage>604</fpage>–<lpage>6</lpage>.<pub-id pub-id-type="pmid">3960433</pub-id></mixed-citation>
+      </ref>
+      <ref id="B3">
+        <label>3.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dixit</surname><given-names>H</given-names></name><name><surname>Rao</surname><given-names>L</given-names></name><name><surname>Padmalatha</surname><given-names>V</given-names></name><name><surname>Raseswari</surname><given-names>T</given-names></name><name><surname>Kapu</surname><given-names>AK</given-names></name><name><surname>Panda</surname><given-names>B</given-names></name><etal/></person-group>
+<article-title>Genes governing premature ovarian failure</article-title>. <source>Reprod Biomed Online</source>. <year>2010</year>;<volume>20</volume>(<issue>6</issue>): <fpage>724</fpage>–<lpage>40</lpage>.<pub-id pub-id-type="pmid">20382564</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <label>4.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chand</surname><given-names>AL</given-names></name><name><surname>Ponnampalam</surname><given-names>AP</given-names></name><name><surname>Harris</surname><given-names>SE</given-names></name><name><surname>Winship</surname><given-names>IM</given-names></name><name><surname>Shelling</surname><given-names>AN.</given-names></name></person-group>
+<article-title>Mutational analysis of BMP15 and GDF9 as candidate genes for premature ovarian failure</article-title>. <source>Fertil Steril</source>. <year>2006</year>;<volume>86</volume>(<issue>4</issue>):<fpage>1009</fpage>–<lpage>12</lpage>.<pub-id pub-id-type="pmid">17027369</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <label>5.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Richards</surname><given-names>JS</given-names></name><name><surname>Russell</surname><given-names>DL</given-names></name><name><surname>Ochsner</surname><given-names>S</given-names></name><name><surname>Hsieh</surname><given-names>M</given-names></name><name><surname>Doyle</surname><given-names>KH</given-names></name><name><surname>Falender</surname><given-names>AE</given-names></name><etal/></person-group>
+<article-title>Novel signaling pathways that control ovarian follicular development, ovulation, and luteinization</article-title>. <source>Recent Prog Horm Res</source>. <year>2002</year>;<volume>5</volume><issue>7</issue>:<fpage>195</fpage>–<lpage>220</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B6">
+        <label>6.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Di Pasquale</surname><given-names>E</given-names></name><name><surname>Beck-Peccoz</surname><given-names>P</given-names></name><name><surname>Persani</surname><given-names>L.</given-names></name></person-group>
+<article-title>Hypergonadotropic ovarian failure associated with an inherited mutation of human bone morphogenetic protein-15 (BMP15) gene</article-title>. <source>Am J Hum Genet</source>. <year>2004</year>;<volume>75</volume> (<issue>1</issue>):<fpage>106</fpage>–<lpage>11</lpage>.<pub-id pub-id-type="pmid">15136966</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <label>7.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chang</surname><given-names>H</given-names></name><name><surname>Brown</surname><given-names>CW</given-names></name><name><surname>Matzuk</surname><given-names>MM.</given-names></name></person-group>
+<article-title>Genetic analysis of the mammalian transforming growth factor-beta superfamily</article-title>. <source>Endocr Rev</source>. <year>2002</year>;<volume>23</volume>(<issue>6</issue>):<fpage>787</fpage>–<lpage>823</lpage>.<pub-id pub-id-type="pmid">12466190</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <label>8.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Otsuka</surname><given-names>F</given-names></name><name><surname>Yao</surname><given-names>Z</given-names></name><name><surname>Lee</surname><given-names>T</given-names></name><name><surname>Yamamoto</surname><given-names>S</given-names></name><name><surname>Erickson</surname><given-names>GF</given-names></name><name><surname>Shimasaki</surname><given-names>S.</given-names></name></person-group>
+<article-title>Bone morphogenetic protein-15. Identification of target cells and biological functions</article-title>. <source>J Biol Chem</source>. <year>2000</year>;<volume>275</volume>(<issue>50</issue>):<fpage>39523</fpage>–<lpage>8</lpage>.<pub-id pub-id-type="pmid">10998422</pub-id></mixed-citation>
+      </ref>
+      <ref id="B9">
+        <label>9.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shimasaki</surname><given-names>S</given-names></name><name><surname>Moore</surname><given-names>RK</given-names></name><name><surname>Otsuka</surname><given-names>F</given-names></name><name><surname>Erickson</surname><given-names>GF.</given-names></name></person-group>
+<article-title>The bone morphogenetic protein system in mammalian reproduction</article-title>. <source>Endocr Rev</source>. <year>2004</year>;<volume>25</volume>(<issue>1</issue>):<fpage>72</fpage>–<lpage>101</lpage>.<pub-id pub-id-type="pmid">14769828</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <label>10.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Di Pasquale</surname><given-names>E</given-names></name><name><surname>Rossetti</surname><given-names>R</given-names></name><name><surname>Marozzi</surname><given-names>A</given-names></name><name><surname>Bodega</surname><given-names>B</given-names></name><name><surname>Borgato</surname><given-names>S</given-names></name><name><surname>Cavell</surname><given-names>L</given-names></name><etal/></person-group>
+<article-title>Identification of new variants of human BMP15 gene in a large cohort of women with premature ovarian failure</article-title>. <source>J Clin Endocrinol Metab</source>. <year>2006</year>;<volume>91</volume>(<issue>5</issue>):<fpage>1976</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="pmid">16464940</pub-id></mixed-citation>
+      </ref>
+      <ref id="B11">
+        <label>11.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Laissue</surname><given-names>P</given-names></name><name><surname>Christin-Maitre</surname><given-names>S</given-names></name><name><surname>Touraine</surname><given-names>P</given-names></name><name><surname>Kuttenn</surname><given-names>F</given-names></name><name><surname>Ritvos</surname><given-names>O</given-names></name><name><surname>Aittomaki</surname><given-names>K</given-names></name><etal/></person-group>
+<article-title>Mutations and sequence variants in GDF9 and BMP15 in patients with premature ovarian failure</article-title>. <source>Eur J Endocrinol</source>. <year>2006</year>;<volume>154</volume>(<issue>5</issue>):<fpage>739</fpage>–<lpage>44</lpage>.<pub-id pub-id-type="pmid">16645022</pub-id></mixed-citation>
+      </ref>
+      <ref id="B12">
+        <label>12.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rossetti</surname><given-names>R</given-names></name><name><surname>Di Pasquale</surname><given-names>E</given-names></name><name><surname>Marozzi</surname><given-names>A</given-names></name><name><surname>Bione</surname><given-names>S</given-names></name><name><surname>Toniolo</surname><given-names>D</given-names></name><name><surname>Grammatico</surname><given-names>P</given-names></name><etal/></person-group>
+<article-title>BMP15 mutations associated with primary ovarian insufficiency cause a defective production of bioactive protein</article-title>. <source>Hum Mutat</source>. <year>2009</year>;<volume>30</volume>(<issue>5</issue>):<fpage>804</fpage>–<lpage>10</lpage>.<pub-id pub-id-type="pmid">19263482</pub-id></mixed-citation>
+      </ref>
+      <ref id="B13">
+        <label>13.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhang</surname><given-names>P</given-names></name><name><surname>Shi</surname><given-names>YH</given-names></name><name><surname>Wang</surname><given-names>LC</given-names></name><name><surname>Chen</surname><given-names>ZJ.</given-names></name></person-group>
+<article-title>Sequence variants in exons of the BMP-15 gene in Chinese patients with premature ovarian failure</article-title>. <source>Acta Obstet Gynecol Scand</source>. <year>2007</year>;<volume>86</volume>(<issue>5</issue>):<fpage>585</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="pmid">17464588</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <label>14.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ledig</surname><given-names>S</given-names></name><name><surname>Röpke</surname><given-names>A</given-names></name><name><surname>Haeusler</surname><given-names>G</given-names></name><name><surname>Hinney</surname><given-names>B</given-names></name><name><surname>Wieacker</surname><given-names>P.</given-names></name></person-group>
+<article-title>BMP15 mutations in XX gonadal dysgenesis and premature ovarian failure</article-title>. <source>Am J Obstet Gynecol</source>. <year>2008</year>;<volume>198</volume>(<issue>1</issue>):<fpage>84.e1</fpage>–<lpage>5</lpage>.<pub-id pub-id-type="pmid">17826728</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <label>15.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yan</surname><given-names>C</given-names></name><name><surname>Wang</surname><given-names>P</given-names></name><name><surname>DeMayo</surname><given-names>J</given-names></name><name><surname>DeMayo</surname><given-names>FJ</given-names></name><name><surname>Elvin</surname><given-names>JA</given-names></name><name><surname>Carino</surname><given-names>C</given-names></name><etal/></person-group>
+<article-title>Synergistic roles of bone morphogenetic protein 15 and growth differentiation factor 9 in ovarian function</article-title>. <source>Mol Endocrinol</source>. <year>2001</year>;<volume>15</volume>(<issue>6</issue>): <fpage>854</fpage>–<lpage>66</lpage>.<pub-id pub-id-type="pmid">11376106</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <label>16.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Takebayashi</surname><given-names>K</given-names></name><name><surname>Takakura</surname><given-names>K</given-names></name><name><surname>Wang</surname><given-names>H</given-names></name><name><surname>Kimura</surname><given-names>F</given-names></name><name><surname>Kasahara</surname><given-names>K</given-names></name><name><surname>Noda</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Mutation analysis of the growth differentiation factor-9 and -9B genes in patients with premature ovarian failure and polycystic ovary syndrome</article-title>. <source>Fertil Steril</source>. <year>2000</year>;<volume>74</volume>(<issue>5</issue>): <fpage>976</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="pmid">11056243</pub-id></mixed-citation>
+      </ref>
+      <ref id="B17">
+        <label>17.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dixit</surname><given-names>H</given-names></name><name><surname>Rao</surname><given-names>LK</given-names></name><name><surname>Padmalatha</surname><given-names>V</given-names></name><name><surname>Kanakavalli</surname><given-names>M</given-names></name><name><surname>Deenadayal</surname><given-names>M</given-names></name><name><surname>Gupta</surname><given-names>N</given-names></name><etal/></person-group>
+<article-title>Mutational screening of the coding region of growth differentiation factor 9 gene in Indian women with ovarian failure</article-title>. <source>Menopause</source>. <year>2005</year>;<volume>12</volume>(<issue>6</issue>):<fpage>749</fpage>–<lpage>54</lpage>.<pub-id pub-id-type="pmid">16278619</pub-id></mixed-citation>
+      </ref>
+      <ref id="B18">
+        <label>18.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhao</surname><given-names>H</given-names></name><name><surname>Qin</surname><given-names>Y</given-names></name><name><surname>Kovanci</surname><given-names>E</given-names></name><name><surname>Simpson</surname><given-names>JL</given-names></name><name><surname>Chen</surname><given-names>ZJ</given-names></name><name><surname>Rajkovic</surname><given-names>A.</given-names></name></person-group>
+<article-title>Analyses of GDF9 mutation in 100 Chinese women with premature ovarian failure</article-title>. <source>Fertil Steril</source>. <year>2007</year>;<volume>88</volume>(<issue>5</issue>):<fpage>1474</fpage>–<lpage>6</lpage>.<pub-id pub-id-type="pmid">17482612</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <label>19.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Choi</surname><given-names>Y</given-names></name><name><surname>Sims</surname><given-names>GE</given-names></name><name><surname>Murphy</surname><given-names>S</given-names></name><name><surname>Miller</surname><given-names>JR</given-names></name><name><surname>Chan</surname><given-names>AP.</given-names></name></person-group>
+<article-title>Predicting the functional effect of amino acid substitutions and indels</article-title>. <source>PLoS One</source>. <year>2012</year>;<volume>7</volume>(<issue>10</issue>): <fpage>e46688</fpage>.<pub-id pub-id-type="pmid">23056405</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <label>20.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ng</surname><given-names>PC</given-names></name><name><surname>Henikoff</surname><given-names>S.</given-names></name></person-group>
+<article-title>SIFT: Predicting amino acid changes that affect protein function</article-title>. <source>Nucleic Acids Res</source>. <year>2003</year>;<volume>31</volume>(<issue>13</issue>):<fpage>3812</fpage>–<lpage>4</lpage>.<pub-id pub-id-type="pmid">12824425</pub-id></mixed-citation>
+      </ref>
+      <ref id="B21">
+        <label>21.</label>
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Adzhubei</surname><given-names>I</given-names></name><name><surname>Jordan</surname><given-names>DM</given-names></name><name><surname>Sunyaev</surname><given-names>SR.</given-names></name></person-group>
+<article-title>Predicting functional effect of human missense mutations using PolyPhen-2</article-title>. <source>Curr Protoc Hum Genet</source>. <year>2013</year>; Chapter 7:Unit7.<fpage>20</fpage>.</mixed-citation>
+      </ref>
+      <ref id="B22">
+        <label>22.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhao</surname><given-names>ZZ</given-names></name><name><surname>Painter</surname><given-names>JN</given-names></name><name><surname>Palmer</surname><given-names>JS</given-names></name><name><surname>Webb</surname><given-names>PM</given-names></name><name><surname>Hayward</surname><given-names>NK</given-names></name><name><surname>Whiteman</surname><given-names>DC</given-names></name><etal/></person-group>
+<article-title>Variation in bone morphogenetic protein 15 is not associated with spontaneous human dizygotic twinning</article-title>. <source>Hum Reprod</source>. <year>2008</year>;<volume>23</volume>(<issue>10</issue>):<fpage>2372</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="pmid">18614612</pub-id></mixed-citation>
+      </ref>
+      <ref id="B23">
+        <label>23.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hogan</surname><given-names>BL.</given-names></name></person-group>
+<article-title>Bone morphogenetic proteins: multifunctional regulators of vertebrate development</article-title>. <source>Genes Dev</source>. <year>1996</year>;<volume>10</volume>(<issue>13</issue>):<fpage>1580</fpage>–<lpage>94</lpage>.<pub-id pub-id-type="pmid">8682290</pub-id></mixed-citation>
+      </ref>
+      <ref id="B24">
+        <label>24.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hashimoto</surname><given-names>O</given-names></name><name><surname>Moore</surname><given-names>RK</given-names></name><name><surname>Shimasaki</surname><given-names>S.</given-names></name></person-group>
+<article-title>Posttranslational processing of mouse and human BMP-15: potential implication in the determination of ovulation quota</article-title>. <source>Proc Natl Acad Sci USA</source>. <year>2005</year>;<volume>102</volume> (<issue>15</issue>):<fpage>5426</fpage>–<lpage>31</lpage>.<pub-id pub-id-type="pmid">15809424</pub-id></mixed-citation>
+      </ref>
+      <ref id="B25">
+        <label>25.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tiotiu</surname><given-names>D</given-names></name><name><surname>Alvaro Mercadal</surname><given-names>B</given-names></name><name><surname>Imbert</surname><given-names>R</given-names></name><name><surname>Verbist</surname><given-names>J</given-names></name><name><surname>Demeestere</surname><given-names>I</given-names></name><name><surname>De Leener</surname><given-names>A</given-names></name><etal/></person-group>
+<article-title>Variants of the BMP15 gene in a cohort of patients with premature ovarian failure</article-title>. <source>Hum Reprod</source>. <year>2010</year>;<volume>25</volume>(<issue>6</issue>):<fpage>1581</fpage>–<lpage>7</lpage>.<pub-id pub-id-type="pmid">20364024</pub-id></mixed-citation>
+      </ref>
+      <ref id="B26">
+        <label>26.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dixit</surname><given-names>H</given-names></name><name><surname>Rao</surname><given-names>LK</given-names></name><name><surname>Padmalatha</surname><given-names>VV</given-names></name><name><surname>Kanakavalli</surname><given-names>M</given-names></name><name><surname>Deenadayal</surname><given-names>M</given-names></name><name><surname>Gupta</surname><given-names>N</given-names></name><etal/></person-group>
+<article-title>Missense mutations in the BMP15 gene are associated with ovarian failure</article-title>. <source>Hum Genet</source>. <year>2006</year>;<volume>119</volume>(<issue>4</issue>):<fpage>408</fpage>–<lpage>15</lpage>.<pub-id pub-id-type="pmid">16508750</pub-id></mixed-citation>
+      </ref>
+      <ref id="B27">
+        <label>27.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>B</given-names></name><name><surname>Wen</surname><given-names>Q</given-names></name><name><surname>Ni</surname><given-names>F</given-names></name><name><surname>Zhou</surname><given-names>S</given-names></name><name><surname>Wang</surname><given-names>J</given-names></name><name><surname>Cao</surname><given-names>Y</given-names></name><etal/></person-group>
+<article-title>Analyses of growth differentiation factor 9 (GDF9) and bone morphogenetic protein 15 (BMP 15) mutation in Chinese women with premature ovarian failure</article-title>. <source>Clin Endocrinol (Oxf)</source>. <year>2010</year>;<volume>72</volume>(<issue>1</issue>): <fpage>135</fpage>–<lpage>6</lpage>.<pub-id pub-id-type="pmid">19438907</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record>

@@ -1,0 +1,800 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5359625</identifier><datestamp>2017-04-04</datestamp><setSpec>frontplantsci</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Plant Sci</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Plant Sci</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Plant Sci.</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Plant Science</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1664-462X</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5359625</article-id>
+      <article-id pub-id-type="pmcid">PMC5359625</article-id>
+      <article-id pub-id-type="pmc-uid">5359625</article-id>
+      <article-id pub-id-type="doi">10.3389/fpls.2017.00275</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Plant Science</subject>
+          <subj-group>
+            <subject>Original Research</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Interrelationship between Abscisic Acid and Reactive Oxygen Species Plays a Key Role in Barley Seed Dormancy and Germination</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ishibashi</surname>
+            <given-names>Yushi</given-names>
+          </name>
+          <xref ref-type="author-notes" rid="fn001">
+            <sup>*</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/389344/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Aoki</surname>
+            <given-names>Nozomi</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kasa</surname>
+            <given-names>Shinsuke</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sakamoto</surname>
+            <given-names>Masatsugu</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kai</surname>
+            <given-names>Kyohei</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tomokiyo</surname>
+            <given-names>Reisa</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Watabe</surname>
+            <given-names>Gaku</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yuasa</surname>
+            <given-names>Takashi</given-names>
+          </name>
+          <xref ref-type="author-notes" rid="fn002">
+            <sup>†</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Iwaya-Inoue</surname>
+            <given-names>Mari</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <institution>Crop Science Laboratory, Faculty of Agriculture, Kyushu University</institution>
+        <country>Fukuoka, Japan</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <p>Edited by: <italic>Irene Murgia, University of Milan, Italy</italic></p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Reviewed by: <italic>Farida Minibayeva, Kazan Institute of Biochemistry and Biophysics (RAS), Russia; Hayat El-Maarouf-Bouteau, University Pierre and Marie Curie (UPMC), France</italic></p>
+        </fn>
+        <corresp id="fn001">*Correspondence: <italic>Yushi Ishibashi, <email xlink:type="simple">yushi@agr.kyushu-u.ac.jp</email></italic></corresp>
+        <fn fn-type="other" id="fn002">
+          <p><sup>†</sup>Present address: <italic>Takashi Yuasa, Department of Agricultural and Environmental Sciences, Faculty of Agriculture, University of Miyazaki, Miyazaki, Japan</italic></p>
+        </fn>
+        <fn fn-type="other" id="fn003">
+          <p>This article was submitted to Plant Physiology, a section of the journal Frontiers in Plant Science</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>3</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2017</year>
+      </pub-date>
+      <volume>8</volume>
+      <elocation-id>275</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>02</day>
+          <month>11</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>14</day>
+          <month>2</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2017 Ishibashi, Aoki, Kasa, Sakamoto, Kai, Tomokiyo, Watabe, Yuasa and Iwaya-Inoue.</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <copyright-holder>Ishibashi, Aoki, Kasa, Sakamoto, Kai, Tomokiyo, Watabe, Yuasa and Iwaya-Inoue</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Seed dormancy is one of the adaptive responses in the plant life cycle and an important agronomic trait. Reactive oxygen species (ROS) release seed dormancy and promote seed germination in several cereal crops; however, the key regulatory mechanism of ROS-mediated seed dormancy and germination remains controversial. Here, we focused on the relationship between hydrogen peroxide (a ROS) and abscisic acid (ABA) in dormant and non-dormant barley seeds. The hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) level produced in barley seed embryos after imbibition was higher in non-dormant seeds than in dormant seeds. H<sub>2</sub>O<sub>2</sub> regulated the ABA content in the embryos through ABA-8′-hydroxylase, an ABA catabolic enzyme. Moreover, compared with non-dormant seeds, in dormant seeds the activity of NADPH oxidase, which produces ROS, was lower, whereas the activity of catalase, which is a H<sub>2</sub>O<sub>2</sub> scavenging enzyme, was higher, as was the expression of <italic>HvCAT2</italic>. Furthermore, precocious germination of isolated immature embryos was suppressed by the transient introduction of HvCAT2 driven by the maize (<italic>Zea mays</italic>) ubiquitin promoter. <italic>HvCAT2</italic> expression was regulated through an ABA-responsive transcription factor (HvABI5) induced by ABA. These results suggest that the changing of balance between ABA and ROS is active in barley seed embryos after imbibition and regulates barley seed dormancy and germination.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>abscisic acid</kwd>
+        <kwd>barley</kwd>
+        <kwd>catalase</kwd>
+        <kwd>embryo</kwd>
+        <kwd>reactive oxygen species</kwd>
+        <kwd>seed dormancy</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source id="cn001">Japan Society for the Promotion of Science<named-content content-type="fundref-id">10.13039/501100001691</named-content></funding-source>
+        </award-group>
+      </funding-group>
+      <counts>
+        <fig-count count="6"/>
+        <table-count count="0"/>
+        <equation-count count="0"/>
+        <ref-count count="67"/>
+        <page-count count="10"/>
+        <word-count count="0"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Introduction</title>
+      <p>Seed dormancy and germination are crucial stages in a plant’s life. In wild plant species, seed dormancy plays a key role in ensuring survival by blocking germination until conditions become favorable for the later stages of germination and growth of that species (<xref rid="B8" ref-type="bibr">Bewley, 1997</xref>). Unlike many wild plant species, cultivated crops such as barley (<italic>Hordeum vulgare</italic> L.) and wheat (<italic>Triticum aestivum</italic> L.) display weak grain dormancy at maturity due to selective breeding against dormancy for uniform and vigorous germination on industrial and agricultural fields. For malting barley, long dormancy increases costs and potential damage resulting from grain storage (<xref rid="B10" ref-type="bibr">Carn, 1980</xref>). In addition, cool, moist conditions in the field can disrupt seed dormancy and cause PHS, resulting in serious losses of grain yield and quality (<xref rid="B24" ref-type="bibr">Gubler et al., 2005</xref>; <xref rid="B53" ref-type="bibr">Rodríguez et al., 2015</xref>). Therefore, research aimed at understanding environmental and genetic controls of dormancy will assist in the development of new strategies for industrial utilization and the elimination of PHS worldwide in domesticated crops.</p>
+      <p>Plant hormones such as GAs and ABA play key roles in seed dormancy and germination. In particular, ABA is considered to be the key molecule in dormancy induction and maintenance (<xref rid="B19" ref-type="bibr">Finkelstein et al., 2008</xref>; <xref rid="B53" ref-type="bibr">Rodríguez et al., 2015</xref>; <xref rid="B56" ref-type="bibr">Shu et al., 2016</xref>). During seed development, embryonic ABA is required to impose lasting dormancy (<xref rid="B43" ref-type="bibr">Nambara and Marion-Poll, 2005</xref>), and <italic>de novo</italic> ABA synthesis in the embryo during imbibition ensures maintenance of dormancy (<xref rid="B33" ref-type="bibr">Kucera et al., 2005</xref>). Dormancy release by after-ripening is mediated by a decrease in ABA content in imbibed wheat and barley grains as a result of the coordinated promotion of ABA catabolism and repression of ABA biosynthesis genes (<xref rid="B40" ref-type="bibr">Millar et al., 2006</xref>; <xref rid="B30" ref-type="bibr">Jacobsen et al., 2013</xref>). In several species, the transcriptional regulation of nine-<italic>cis</italic>-epoxycarotenoid dioxygenase (<italic>NCED</italic>) and ABA-8′-hydroxylase (<italic>ABA8</italic>′<italic>OH</italic>) genes are considered key steps in this control mechanism (<xref rid="B44" ref-type="bibr">Nambara et al., 2010</xref>). In barley, <italic>HvNCED1</italic> is particularly important in the regulation of primary dormancy in blue light (<xref rid="B23" ref-type="bibr">Gubler et al., 2008</xref>) or at high temperatures (<xref rid="B37" ref-type="bibr">Leymarie et al., 2008</xref>), whereas <italic>HvNCED2</italic> expression has been implicated in the induction of primary dormancy (<xref rid="B13" ref-type="bibr">Chono et al., 2006</xref>) and the maintenance of secondary dormancy (<xref rid="B37" ref-type="bibr">Leymarie et al., 2008</xref>). The <italic>HvABA8</italic>′<italic>OH1</italic> gene plays a major role in that ABA catabolism that is required to alleviate barley grain dormancy (<xref rid="B13" ref-type="bibr">Chono et al., 2006</xref>; <xref rid="B40" ref-type="bibr">Millar et al., 2006</xref>; <xref rid="B23" ref-type="bibr">Gubler et al., 2008</xref>). ABA functions are regulated, in part, by crosstalk with other hormones such as GA and their associated signaling networks. Application of GA, an antagonist of ABA, can break dormancy in cereals (<xref rid="B31" ref-type="bibr">Jacobsen et al., 2002</xref>; <xref rid="B60" ref-type="bibr">Tuttle et al., 2015</xref>).</p>
+      <p>Recently, it was reported that several signal molecules such as nitric oxide (NO) and ROS also regulate seed dormancy and germination (<xref rid="B39" ref-type="bibr">Ma et al., 2016</xref>). In barley, ROS break seed dormancy and promote germination (<xref rid="B20" ref-type="bibr">Fontaine et al., 1994</xref>; <xref rid="B28" ref-type="bibr">Ishibashi et al., 2010</xref>; <xref rid="B1" ref-type="bibr">Bahin et al., 2011</xref>). The relationships between ROS, seed dormancy, and germination have been described for many plant species, including <italic>Zinnia elegans</italic>, and sunflower (<xref rid="B45" ref-type="bibr">Ogawa and Iwabuchi, 2001</xref>; <xref rid="B47" ref-type="bibr">Oracz et al., 2007</xref>). Hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>), which is a ROS, is regarded as a signaling hub for the regulation of seed dormancy and germination; the precise regulation of H<sub>2</sub>O<sub>2</sub> accumulation by the cell antioxidant machinery is essential to achieve a balance between oxidative signaling that promotes germination and oxidative damage that prevents or delays germination (<xref rid="B64" ref-type="bibr">Wojtyla et al., 2016</xref>). These findings were clearly summarized and presented by <xref rid="B4" ref-type="bibr">Bailly et al. (2008)</xref> as the principle of the “oxidative window” for germination. According to this hypothesis, both lower and higher levels of ROS impair seed germination, which is only possible within a defined range of concentrations.</p>
+      <p>Recent evidence shows that the selective oxidation of proteins and mRNAs can act as a positive regulator of seed germination (<xref rid="B32" ref-type="bibr">Job et al., 2005</xref>; <xref rid="B47" ref-type="bibr">Oracz et al., 2007</xref>; <xref rid="B5" ref-type="bibr">Barba-Espín et al., 2010</xref>; <xref rid="B7" ref-type="bibr">Bazin et al., 2011</xref>). <xref rid="B7" ref-type="bibr">Bazin et al. (2011)</xref> showed that approximately 24 stored mRNAs undergo oxidation during sunflower (<italic>Helianthus annuus</italic>) after-ripening. ROS production during germination contributes to reserve mobilization through oxidative modifications of stored proteins; storage organs may then recognize these modifications as signals to mobilize reserves to the rapidly growing axis. Due to the abundance of available seed storage proteins, the oxidized forms of these proteins such as heat shock proteins and elongation factors can also be considered as actor of ROS signaling in seed germination (<xref rid="B32" ref-type="bibr">Job et al., 2005</xref>; <xref rid="B5" ref-type="bibr">Barba-Espín et al., 2010</xref>). <xref rid="B47" ref-type="bibr">Oracz et al. (2007)</xref> proposed a mechanism for seed dormancy release that involves a change in proteome oxidation resulting from the accumulation of ROS during the after-ripening phase.</p>
+      <p>The breaking of dormancy by ROS has also been reported in relation to plant hormone signaling in several seeds (<xref rid="B15" ref-type="bibr">El-Maarouf-Bouteau et al., 2013</xref>). Studies on phytohormone interactions in germinated seeds have shown that exogenously applied ABA inhibits ROS accumulation in barley (<xref rid="B27" ref-type="bibr">Ishibashi et al., 2012</xref>), rice (<italic>Oryza sativa</italic>; <xref rid="B65" ref-type="bibr">Ye et al., 2012</xref>), lettuce (<xref rid="B67" ref-type="bibr">Zhang et al., 2014</xref>), and sunflower (<xref rid="B16" ref-type="bibr">El-Maarouf-Bouteau et al., 2015</xref>). By contrast, the addition of GA enhances the production of ROS, mainly superoxide and H<sub>2</sub>O<sub>2</sub>, found in radish plants (<xref rid="B55" ref-type="bibr">Schopfer et al., 2001</xref>) and <italic>Arabidopsis</italic> (<xref rid="B38" ref-type="bibr">Liu et al., 2010</xref>; <xref rid="B35" ref-type="bibr">Lariguet et al., 2013</xref>). <xref rid="B1" ref-type="bibr">Bahin et al. (2011)</xref> suggested that exogenously applied H<sub>2</sub>O<sub>2</sub> does not influence ABA biosynthesis and signaling but has a pronounced effect on GA signaling, resulting in the modulation of hormonal balance and in subsequent germination initiation. The modulation of phytohormone balance during germination by exogenously applied H<sub>2</sub>O<sub>2</sub> is also a product of changes in H<sub>2</sub>O<sub>2</sub> levels in seeds treated with GA and ABA. Exogenous H<sub>2</sub>O<sub>2</sub> and NADPH oxidase inhibitor increased ABA catabolism by enhancing the expression of <italic>CYP707A</italic> genes, which encode ABA 8′-hydroxylases, and enhanced the expression of genes for GA synthesis in dormant <italic>Arabidopsis</italic> seeds (<xref rid="B38" ref-type="bibr">Liu et al., 2010</xref>) and non-dormant barley seeds (<xref rid="B26" ref-type="bibr">Ishibashi et al., 2015</xref>). In non-dormant barley seeds, H<sub>2</sub>O<sub>2</sub> accumulation via superoxide produced by NADPH oxidases promote GA biosynthesis in embryos; the resulting GA induces and activates NADPH oxidases in aleurone cells, and the H<sub>2</sub>O<sub>2</sub> accumulated by the NADPH oxidases induce α-amylase in these cells (<xref rid="B26" ref-type="bibr">Ishibashi et al., 2015</xref>). Therefore, it is likely that ROS is central molecule in the regulation of barley seed dormancy and germination through GA and ABA. However, the role of H<sub>2</sub>O<sub>2</sub> interactions with phytohormones in the regulation of barley seed dormancy and germination is still open to debate. The mechanism of dormancy breaking by ROS needs to be examined in detail. In this study, we, therefore, focused on the balance between plant hormones and ROS in dormant and non-dormant seeds.</p>
+    </sec>
+    <sec sec-type="materials|methods" id="s1">
+      <title>Materials and Methods</title>
+      <sec>
+        <title>Plant Material</title>
+        <p><italic>Hordeum vulgare</italic> L. ‘Ichibanboshi’ grains, which were grown at Kyushu University, were harvested on June 5, 2010. Experiments were carried out with dormant grains that had been stored at -28°C from harvest until the experiments began in order to maintain their initial dormancy (<xref rid="B36" ref-type="bibr">Lenoir et al., 1983</xref>). Non-dormant grains were used as controls (i.e., grains from the same harvest but stored for 6 months at 23°C).</p>
+      </sec>
+      <sec>
+        <title>Germination Test</title>
+        <p>Five replications of 20 seeds each sterilized with sodium hypochlorite were placed on filter paper in a 9-cm Petri dish, to which 6 mL of a solution of 100 mM hydrogen peroxide, 20 mM sodium ascorbate, and distilled water as control was added. The dishes were then incubated in the dark at 22°C (CRB-41L, HITACHI), and the germinating seeds, defined as seeds whose radical protruded through the seed coat, were counted daily for 5 days.</p>
+      </sec>
+      <sec>
+        <title>Hydrogen Peroxide Content</title>
+        <p>Hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) content in embryos isolated from seed after imbibition was measured according to the method of <xref rid="B47" ref-type="bibr">Oracz et al. (2007)</xref> by using a peroxidase-based assay with 3-dimethylaminobenzoic acid and 1.3 mM 3-methyl-2-benzothiazolinone hydrazone to measure H<sub>2</sub>O<sub>2</sub> (<xref rid="B46" ref-type="bibr">O’Kane et al., 1996</xref>).</p>
+      </sec>
+      <sec>
+        <title>ABA Content</title>
+        <p>To measure the ABA content in embryos, we isolated embryos from 20 seeds that had imbibed for 48 h and stored them at -80°C. ABA levels were measured by using a Phytodetek Competitive ELISA kit (Agdia). Each experiment comprised five biological replicates.</p>
+      </sec>
+      <sec>
+        <title>Quantitative Real-Time PCR</title>
+        <p>Total RNA was extracted from embryos isolated after germination treatment or from embryoless half-seeds by using the SDS/phenol/LiCl method (<xref rid="B11" ref-type="bibr">Chirgwin et al., 1979</xref>). cDNA synthesis and amplification were conducted as described by <xref rid="B26" ref-type="bibr">Ishibashi et al. (2015)</xref>. The amount of each gene transcript was normalized against the amount of mRNA for <italic>HvActin</italic> (<xref rid="B59" ref-type="bibr">Trevaskis et al., 2006</xref>) by using the method of <xref rid="B50" ref-type="bibr">Pfaffl (2001)</xref>. The sequences for the <italic>HvActin</italic> primer came from <xref rid="B26" ref-type="bibr">Ishibashi et al. (2015)</xref>; the other primer sequences are shown in Supplementary Table <xref ref-type="supplementary-material" rid="SM1">S1</xref>.</p>
+      </sec>
+      <sec>
+        <title>Barley Transient Expression Assay</title>
+        <p>The plasmid was transformed by particle bombardment into immature embryos according to the method of <xref rid="B49" ref-type="bibr">Pellegrineschi et al. (2002)</xref> and <xref rid="B42" ref-type="bibr">Nakamura et al. (2011)</xref>. For this assay, <italic>H. vulgare</italic> L. ‘Seijo-17’ immature grains, which were grown at Kyushu University, were harvested, and immature embryos isolated from the immature grain. The immature embryos were bombarded with each plasmid, <italic>Ubi:HvCAT</italic> or <italic>Ubi:GUS</italic>, which was constructed to express each gene under the control of the promoter region and the first intron of the maize ubiquitin (<italic>Ubi-1</italic>) gene (<xref rid="B58" ref-type="bibr">Toki et al., 1992</xref>; <xref rid="B14" ref-type="bibr">Christensen and Quail, 1996</xref>). After bombardment, the immature embryos were transferred to 1/2MS medium containing 200 mg/L MES and 30 g/L maltose, and were incubated at 25°C for 2.5 days. We checked introduction of each genes using RT-PCR (Supplementary Figure <xref ref-type="supplementary-material" rid="SM2">S1</xref>).</p>
+      </sec>
+      <sec>
+        <title>Electrophoretic Mobility Shift Assay</title>
+        <p>The EMSA was performed as described by <xref rid="B62" ref-type="bibr">Wang et al. (2011)</xref>. Recombinant pGEX-HvABI5 proteins were produced in <italic>Escherichia coli</italic> BL21 (DE3) pLysE. The <italic>E. coli</italic> cells were lysed by sonication, and purified with glutathione–Sepharose 4B beads (GE Healthcare). Double-stranded oligonucleotide spanning the ACGT core motif upstream of <italic>HvCAT2</italic> was prepared and carried out labeling according to the protocol provided with the DIG Kit (Roche Diagnostics). EMSAs were carried out using a DIG Gel Shift kit, 2nd Generation (Roche Diagnostics) according to the manufacturer’s instructions. The primer sequences for constructing the pGEX-HvABI5 vector and the probe sequences for the EMSA are shown in Supplementary Table <xref ref-type="supplementary-material" rid="SM1">S1</xref>.</p>
+      </sec>
+      <sec>
+        <title>Enzyme Activities</title>
+        <p>To measure enzyme activities, we isolated embryos from 20 seeds that had imbibed for 48 h and stored them at -80°C. The enzyme activities of APX, GPX, SOD, and CAT were measured as described by <xref rid="B29" ref-type="bibr">Ishibashi et al. (2008)</xref>. NADPH oxidase activity was assayed according to the method of <xref rid="B61" ref-type="bibr">Van Gestelen et al. (1997)</xref> and <xref rid="B54" ref-type="bibr">Sarath et al. (2007)</xref>. Protein concentration was determined by using the method <xref rid="B9" ref-type="bibr">Bradford (1976)</xref>. The results are expressed as μmol mg<sup>-1</sup> protein.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Results</title>
+      <sec>
+        <title>Germination Rate and Hydrogen Peroxide Content of Dormant and Non-dormant Seeds</title>
+        <p>Non-dormant seeds had a germination rate of 22% at 1 day after imbibition (DAI), and 85% had germinated at 3 DAI. Dormant seeds had a germination rate of 27 and 50% at 3 and 5 DAI, respectively (<bold>Figure <xref ref-type="fig" rid="F1">1A</xref></bold>). At 2 DAI, the H<sub>2</sub>O<sub>2</sub> content in the non-dormant seeds was higher six times that in the dormant seeds (<bold>Figures <xref ref-type="fig" rid="F1">1B,C</xref></bold>). In addition, nine barley cultivars that were at different stages of dormancy had positive correlations with the H<sub>2</sub>O<sub>2</sub> contents of their embryos after imbibition (Supplementary Figure <xref ref-type="supplementary-material" rid="SM2">S2</xref>). These data strongly suggest that non-dormant seeds accumulate H<sub>2</sub>O<sub>2</sub> in the embryo after imbibition, but dormant seeds do not.</p>
+        <fig id="F1" position="float">
+          <label>FIGURE 1</label>
+          <caption>
+            <p><bold>Germination percentage and hydrogen peroxide content in dormant and non-dormant seeds. (A)</bold> Time course of the percentage of germination of dormant (closed circles) and non-dormant (open circles) seeds. Embryos removed from dormant <bold>(B)</bold> and non-dormant <bold>(C)</bold> seeds after imbibition were used to determine hydrogen peroxide contents (<italic>n</italic> = 5).</p>
+          </caption>
+          <graphic xlink:href="fpls-08-00275-g001"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Hydrogen Peroxide and Sodium Ascorbate Regulate Barley Seed Germination through ABA Catabolism</title>
+        <p>The germination rate of dormant seeds treated with H<sub>2</sub>O<sub>2</sub> was significantly higher than that of the control (<bold>Figure <xref ref-type="fig" rid="F2">2A</xref></bold>). In contrast, the germination rate of non-dormant seeds treated with sodium ascorbate was significantly lower than that of the control (<bold>Figure <xref ref-type="fig" rid="F2">2B</xref></bold>). In addition, H<sub>2</sub>O<sub>2</sub> and sodium ascorbate treatments were increased and decreased the H<sub>2</sub>O<sub>2</sub> contents in the embryos after imbibition, respectively (Supplementary Figure <xref ref-type="supplementary-material" rid="SM2">S4</xref>). We previously reported that a decrease in ROS, induced by the NADPH oxidase inhibitor DPI, in the embryos of barley seeds suppressed ABA catabolism in those embryos after imbibition (<xref rid="B26" ref-type="bibr">Ishibashi et al., 2015</xref>). Therefore, we examined ABA content and biosynthesis, as well as the expression of ABA catabolism-related genes, in the embryos of dormant or non-dormant seeds treated with sodium ascorbate or H<sub>2</sub>O<sub>2</sub>, respectively. In the dormant seeds, the ABA content of the embryos treated with H<sub>2</sub>O<sub>2</sub> was significantly decreased compared with that in the control (<bold>Figure <xref ref-type="fig" rid="F2">2C</xref></bold>). In the non-dormant seeds, the ABA content of the embryos treated with sodium ascorbate was significantly higher than that in the control (<bold>Figure <xref ref-type="fig" rid="F2">2D</xref></bold>). The expression of <italic>HvNCED1</italic>, one of the ABA biosynthesis-related genes and a key gene regulating primary dormancy of barley (<xref rid="B40" ref-type="bibr">Millar et al., 2006</xref>), in the embryos did not differ significantly regardless of dormancy or treatment (<bold>Figures <xref ref-type="fig" rid="F2">2E,F</xref></bold>). However, the expression of <italic>ABA8</italic>′<italic>-OH1</italic>, one of the ABA catabolism-related genes and a key gene regulating primary dormancy of barley (<xref rid="B40" ref-type="bibr">Millar et al., 2006</xref>), in the embryo, was suppressed by sodium ascorbate in the non-dormant seeds and increased by H<sub>2</sub>O<sub>2</sub> in the dormant seeds (<bold>Figures <xref ref-type="fig" rid="F2">2G,H</xref></bold>). These results indicate that ROS regulate ABA catabolism in the embryos of non-dormant and dormant seeds by regulating HvABA8′-OH1.</p>
+        <fig id="F2" position="float">
+          <label>FIGURE 2</label>
+          <caption>
+            <p><bold>Germination rate, ABA contents, and expression of ABA metabolism-related genes in dormant and non-dormant seeds.</bold> Embryos removed from seeds after 48 h imbibition were used to determine ABA contents and gene expression. <bold>(A,B)</bold> Germination rate after 48 h imbibition; <bold>(C,D)</bold> ABA contents; <bold>(E,F)</bold>
+<italic>HvNCED1</italic> expression; <bold>(G,H)</bold>
+<italic>HvABA8</italic>′<italic>-OH1</italic> expression. <bold>(C)</bold> control (distilled water); <bold>(H)</bold> 100 mM hydrogen peroxide; <bold>(A)</bold> 20 mM sodium ascorbate. (<sup>∗∗</sup><italic>P</italic> &lt; 0.01, Student’s test, <italic>n</italic> = 5).</p>
+          </caption>
+          <graphic xlink:href="fpls-08-00275-g002"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Activities of Antioxidant Enzymes and NADPH Oxidase in the Embryos of Non-dormant and Dormant Seeds</title>
+        <p>Then, we examined the activities of antioxidant enzymes such as APX, GPX, SOD, and CAT, as well as the activity of NADPH oxidase (<bold>Figure <xref ref-type="fig" rid="F3">3</xref></bold>), because the H<sub>2</sub>O<sub>2</sub> contents of the embryos during germination were higher in non-dormant seeds than in dormant seeds (<bold>Figure <xref ref-type="fig" rid="F1">1</xref></bold>). APX activity in the embryos of dormant seeds was significantly higher than that of the embryos of non-dormant seeds (<bold>Figure <xref ref-type="fig" rid="F3">3A</xref></bold>), although GPX activity was the same in the embryos of both non-dormant and dormant seeds (<bold>Figure <xref ref-type="fig" rid="F3">3B</xref></bold>). In contrast, SOD and CAT activities in the embryos of dormant seeds were significantly lower than those in the embryos of non-dormant seeds (<bold>Figures <xref ref-type="fig" rid="F3">3C,D</xref></bold>). We previously reported that NADPH oxidase plays a role in barley seed germination through the regulation of GA and ABA signaling (<xref rid="B26" ref-type="bibr">Ishibashi et al., 2015</xref>). Therefore, we examined NADPH oxidase activity in the embryos of dormant and non-dormant seeds (<bold>Figure <xref ref-type="fig" rid="F3">3E</xref></bold>). NADPH oxidase activity was significantly higher in non-dormant seeds than in dormant seeds. These results suggest that the production of ROS in the embryos of barley seeds after imbibition is regulated by SOD, CAT, and NADPH oxidase.</p>
+        <fig id="F3" position="float">
+          <label>FIGURE 3</label>
+          <caption>
+            <p><bold>Activity of antioxidant enzymes and NADPH oxidase in dormant and non-dormant seeds.</bold> Embryos removed from seeds after 48 h imbibition were used. <bold>(A)</bold> APX; <bold>(B)</bold>, GPX; <bold>(C)</bold>, SOD; <bold>(D)</bold>, CAT; <bold>(E)</bold>, NADPH oxidase. D, dormant seed; ND, non-dormant seed. (<sup>∗∗</sup><italic>P</italic> &lt; 0.01, Student’s test, <italic>n</italic> = 5).</p>
+          </caption>
+          <graphic xlink:href="fpls-08-00275-g003"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Transient Expression of CAT in Immature Embryos Decreases Their Ability to Germinate</title>
+        <p>We examined the expression of <italic>HvSOD</italic> and <italic>HvCAT</italic> in the embryos of non-dormant and dormant seeds. After 24 h imbibition, the expression of <italic>HvSOD</italic> and <italic>HvCAT2</italic> was increased in the embryos of dormant seeds compared with that in the embryos of non-dormant seeds (<bold>Figures <xref ref-type="fig" rid="F4">4A,C</xref></bold>), while, after 48 h imbibition, the expression of <italic>HvSOD</italic> and <italic>HvCAT2</italic> were high in the embryo of non-dormant and dormant seeds, respectively (<bold>Figures <xref ref-type="fig" rid="F4">4B,D</xref></bold>). SOD catalyzes the reduction of the superoxide anion to hydrogen peroxide, and CAT catalyzes the decomposition of hydrogen peroxide to water. In wheat, the expression of CAT in dormant seeds was higher than that in non-dormant seeds during seed maturation (<xref rid="B29" ref-type="bibr">Ishibashi et al., 2008</xref>). In sunflower seed, relationship between CAT activity and germination is a quite close (<xref rid="B3" ref-type="bibr">Bailly et al., 1998</xref>). Additionally, <xref rid="B1" ref-type="bibr">Bahin et al. (2011)</xref> have reported that the CAT regulates hydrogen peroxide content in embryo of barley dormant seed. Therefore, we focus on the role of CAT in barley seed dormancy and germination. To examine the function of HvCAT2, which directly scavenges hydrogen peroxide, in barley seed germination, we transiently overexpressed HvCAT2 in immature embryos and examined their germination. HvCAT2 driven by the maize (<italic>Zea mays</italic>) ubiquitin promoter (Ubi:HvCAT2) was directly bombarded into immature embryos isolated from Himalaya seeds at approximately 10 days after anthesis. In general, cultured immature wheat embryos germinate precociously (<xref rid="B63" ref-type="bibr">Williamson et al., 1985</xref>). However, we observed a significant decrease in the germination percentage of immature embryos that were transformed with Ubi:HvCAT2 (<bold>Figure <xref ref-type="fig" rid="F4">4E</xref></bold>). In contrast, immature embryos transformed with the control construct β-glucuronidase (GUS) driven by the maize ubiquitin promoter (Ubi:GUS) germinated well (<bold>Figure <xref ref-type="fig" rid="F4">4E</xref></bold>). <xref rid="B42" ref-type="bibr">Nakamura et al. (2011)</xref> previously reported that the Ubi:TaMFT construct, in a similar transient assay, completely suppressed the germination of immature embryos of wheat because the TaMFT protein moved from the scutellum and coleorhiza to other parts of the seed. The partial effect of Ubi:HvCAT2 in our study was likely caused by scavenging H<sub>2</sub>O<sub>2</sub> which across cell membranes in plants (<xref rid="B25" ref-type="bibr">Hooijmaijers et al., 2012</xref>), even though HvCAT2 cannot move from the scutellum and coleorhiza to other parts of the seed.</p>
+        <fig id="F4" position="float">
+          <label>FIGURE 4</label>
+          <caption>
+            <p><bold>Expression of HvSOD and HvCAT2 in dormant and non-dormant seeds and the germination percentage in the transient HvCAT2 expression assay.</bold> Embryos removed from seeds after 24 h <bold>(A,C)</bold> and 48 h <bold>(B,D)</bold> imbibition were used to determine gene expression levels. <bold>(A,B)</bold>
+<italic>HvSOD</italic> expression; <bold>(C,D)</bold>
+<italic>HvCAT2</italic> expression. <bold>(E)</bold> Time course of the germination percentage after transformation with Ubi:HvCAT2 (closed circles) or Ubi:GUS (open circles). The barley cultivar Himalaya was used. D, dormant seed; ND, non-dormant seed. (<sup>∗</sup><italic>P</italic> &lt; 0.05, <sup>∗∗</sup><italic>P</italic> &lt; 0.01, Student’s test, <italic>n</italic> = 5).</p>
+          </caption>
+          <graphic xlink:href="fpls-08-00275-g004"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>ABA Regulates the Expression of <italic>HvCAT2</italic> through HvABI5</title>
+        <p>Abscisic acid significantly increased the expression of <italic>HvCAT2</italic> in the barley seed embryo (<bold>Figures <xref ref-type="fig" rid="F5">5A,B</xref></bold>). To explore the underlying mechanisms by which ABA regulates the expression of <italic>HvCAT2</italic> during seed germination, we analyzed the promoter sequences of HvCAT2 and found an ABA response element (ABRE), which is a <italic>cis</italic>-acting element recognized by several bZIP transcription factors, such as ABI5, AREB1, AREB2, and ABF3, that function in ABA signal transduction (Supplementary Figure <xref ref-type="supplementary-material" rid="SM2">S5</xref>; <xref rid="B18" ref-type="bibr">Finkelstein and Lynch, 2000</xref>). These bZIP transcription factors mediate downstream gene expression in <italic>Arabidopsis</italic> upon binding to the ABRE (<xref rid="B21" ref-type="bibr">Furihata et al., 2006</xref>; <xref rid="B66" ref-type="bibr">Yoshida et al., 2010</xref>). Our finding suggests that the expression of <italic>HvCAT2</italic> may be regulated by bZIP transcription factors involved in ABA signaling. Indeed, the expression of <italic>HvABI5</italic> in the barley seed embryo was increased by ABA (<bold>Figures <xref ref-type="fig" rid="F5">5C,D</xref></bold>). Therefore, to test this possibility, we used EMSA analyses to investigate whether HvABI5 directly binds to the promoter of HvCAT2 containing the ABRE element (<bold>Figure <xref ref-type="fig" rid="F5">5E</xref></bold>). The recombinant protein of GST–HvABI5 showed binding activities to HvCAT2 promoter fragment, and the DNA-binding activity was suppressed by competitor.</p>
+        <fig id="F5" position="float">
+          <label>FIGURE 5</label>
+          <caption>
+            <p><bold>Expression of HvCAT2 and HvABI5 in non-dormant seeds treated with 50 μM ABA and the direct interaction between HvABI5 and the HvHAT2 promoter as determined by EMSA.</bold> Embryos removed from seeds after 24 h <bold>(A,C)</bold> and 48 h <bold>(B,D)</bold> imbibition were used to determine gene expression levels. <bold>(A,B)</bold>
+<italic>HvCAT2;</italic>
+<bold>(C,D)</bold>
+<italic>HvABI5</italic>. <bold>(E)</bold> The retarded DNA-protein complex was reduced by competition using either the wild-type or the unlabeled probes at a 100× molar excess. The arrows indicate the positions of the shifted bands and free probes, respectively. (<sup>∗∗</sup><italic>P</italic> &lt; 0.01, Student’s test, <italic>n</italic> = 5).</p>
+          </caption>
+          <graphic xlink:href="fpls-08-00275-g005"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec>
+      <title>Discussion</title>
+      <p>The present study demonstrates that the balance between ABA and ROS in the barley seed embryo is involved in the regulation of seed dormancy and germination. The first line of evidence supporting this conclusion is the relationship between seed dormancy and H<sub>2</sub>O<sub>2</sub> level, because the degree of seed dormancy was dependent on the H<sub>2</sub>O<sub>2</sub> levels in the embryo after imbibition (<bold>Figure <xref ref-type="fig" rid="F1">1</xref></bold> and Supplementary Figure <xref ref-type="supplementary-material" rid="SM2">S2</xref>). Additionally, germination rate of dormant seeds were promoted by H<sub>2</sub>O<sub>2</sub> and suppressed by sodium ascorbate, while that of non-dormant seeds were suppressed by sodium ascorbate, but not promoted by H<sub>2</sub>O<sub>2</sub> (<bold>Figure <xref ref-type="fig" rid="F2">2A</xref></bold> and Supplementary Figure <xref ref-type="supplementary-material" rid="SM2">S3</xref>). There have been several reports about the relationship between ROS and seed dormancy and germination, many of which are focused on phytohormone signaling and ROS involvement (<xref rid="B48" ref-type="bibr">Oracz and Karpiński, 2016</xref>). H<sub>2</sub>O<sub>2</sub> has been implicated in dormancy alleviation via its activation of GA signaling and synthesis rather than repression of ABA signaling (<xref rid="B1" ref-type="bibr">Bahin et al., 2011</xref>). In sunflower seed, however, ROS interact at the transcriptional level with the ABA signaling pathway (<xref rid="B16" ref-type="bibr">El-Maarouf-Bouteau et al., 2015</xref>). We previously reported that ROS produced by NADPH oxidase in the embryos of barley seeds promoted the catabolism of ABA (<xref rid="B26" ref-type="bibr">Ishibashi et al., 2015</xref>). In the present study, NADPH oxidase activity in the embryos of non-dormant seeds was higher than that in the embryos of dormant seeds (<bold>Figure <xref ref-type="fig" rid="F3">3E</xref></bold>). In non-dormant seeds, ABA content in the embryos treated with ascorbate was higher than that in treated with distilled water, whereas, in dormant seeds, the ABA content in the embryos treated with H<sub>2</sub>O<sub>2</sub> was lower than in treated with distilled water (<bold>Figures <xref ref-type="fig" rid="F2">2C,D</xref></bold>). In addition, the regulation of ABA in the embryos of both dormant and non-dormant seeds could be attributed to the induction of <italic>HvABA8</italic>′<italic>-OH1</italic> by ROS (<bold>Figures <xref ref-type="fig" rid="F2">2G,H</xref></bold>). Two genes encoding ABA8′-OH have been identified in barley, and <italic>HvABA8</italic>′<italic>OH1</italic> is predominantly expressed in the embryos of imbibing seeds (<xref rid="B40" ref-type="bibr">Millar et al., 2006</xref>). Of note, <italic>HvABA8</italic>′<italic>OH1</italic> expression is closely associated with ABA level and germination capacity (<xref rid="B13" ref-type="bibr">Chono et al., 2006</xref>). Consistent with these facts, the knocking down of <italic>ABA8</italic>′<italic>OH1</italic> leads to increased seed ABA levels and to enhanced dormancy (<xref rid="B23" ref-type="bibr">Gubler et al., 2008</xref>). ROS produced after imbibition is involved in the regulation of barley seed dormancy and germination through the catabolism of ABA; therefore, we focused on the mechanism of ROS production. It had been reported that ROS generated by NADPH oxidases regulate barley seed germination through GA/ABA metabolism and signaling in the embryo and aleurone cells (<xref rid="B26" ref-type="bibr">Ishibashi et al., 2015</xref>). In the present study, H<sub>2</sub>O<sub>2</sub> content and NADPH oxidase activity in the embryos of dormant seeds were lower than those in the embryos of non-dormant seeds (<bold>Figures <xref ref-type="fig" rid="F1">1B,C</xref>, <xref ref-type="fig" rid="F3">3E</xref></bold>). In the embryos of barley seeds, ABA suppressed the activity of NADPH oxidases (<xref rid="B26" ref-type="bibr">Ishibashi et al., 2015</xref>). The decrease in ABA content by catabolism in the embryo after imbibition is promoted by ROS production through NADPH oxidase. In <italic>Arabidopsis</italic>, ABA treatment induces the expression of <italic>NADPH oxidases</italic> (<italic>AtrbohD</italic> and <italic>AtrbohF</italic>) in guard cells (<xref rid="B34" ref-type="bibr">Kwak et al., 2003</xref>). The ROS enhanced by NADPH oxidase could result in enhanced ABA accumulation, whereas enhanced ABA could result in enhanced ROS production in guard cells, creating a positive feedback loop to mediate stomatal closure (<xref rid="B41" ref-type="bibr">Mittler and Blumwald, 2015</xref>). Our results indicate that in the embryo after imbibition, ROS and ABA act antagonistically to regulate seed dormancy and germination, although this suggestion is inconsistent with other reports.</p>
+      <p>In this study, we also examined the activity of the antioxidant enzymes SOD, CAT, and peroxidases (APX, GPX) that can scavenge ROS. The CAT activities in the embryos of the dormant seeds were significantly higher than those in the embryos of the non-dormant seeds (<bold>Figure <xref ref-type="fig" rid="F3">3D</xref></bold>). These results suggest that the H<sub>2</sub>O<sub>2</sub> contents in the embryos of dormant and non-dormant seeds depend on CAT activity. CAT is reported to play an important role in the seed germination process. CAT expression levels increase in germinating sunflower seeds prior to radicle protrusion, with a concomitant decrease in H<sub>2</sub>O<sub>2</sub> content (<xref rid="B2" ref-type="bibr">Bailly, 2004</xref>). A similar increase in CAT activity has been described during the germination of maize, soybean, <italic>Arabidopsis</italic>, and sweet corn seeds (<xref rid="B52" ref-type="bibr">Puntarulo et al., 1991</xref>; <xref rid="B22" ref-type="bibr">Gallardo et al., 2001</xref>; <xref rid="B51" ref-type="bibr">Posmyk et al., 2001</xref>; <xref rid="B12" ref-type="bibr">Chiu et al., 2002</xref>). In dormant barley seeds, H<sub>2</sub>O<sub>2</sub> treatment induced an increase in CAT activity that was associated with accumulation of the <italic>HvCAT2</italic> transcript in the embryos (<xref rid="B1" ref-type="bibr">Bahin et al., 2011</xref>). Barley has two CAT isozymes, HvCAT1 and HvCAT2; however, <italic>HvCAT1</italic> was not expressed in our embryos (data not shown). In the present study, the expression of <italic>HvCAT2</italic> in the embryos of dormant seeds was significantly higher than in those of non-dormant seeds (<bold>Figure <xref ref-type="fig" rid="F4">4A</xref></bold>). In nine cultivars that were at different stages of dormancy, <italic>HvCAT2</italic> expression correlated with the germination index except for one cultivar (Supplementary Figure <xref ref-type="supplementary-material" rid="SM2">S6</xref>). In addition, precocious germination of isolated immature embryos was suppressed by the transient introduction of HvCAT2 driven by the maize (<italic>Zea mays</italic>) ubiquitin promoter (<bold>Figure <xref ref-type="fig" rid="F4">4E</xref></bold>). These results indicated that CAT is involved in germination of barley seed after imbibition through the regulation of ROS.</p>
+      <p>The expression of <italic>HvCAT2</italic> was suppressed by ABA (<bold>Figures <xref ref-type="fig" rid="F5">5A,B</xref></bold>, also <xref rid="B1" ref-type="bibr">Bahin et al., 2011</xref>); therefore, we investigated the promoter sequence of <italic>HvCAT2</italic>. The promoter sequence included an ABA-responsive element (ABRE), an ABRE-related coupling element (CE), and RY repeat motifs (Supplementary Figure <xref ref-type="supplementary-material" rid="SM2">S5</xref>). Interestingly, the promoter of <italic>Sdr4</italic>, which regulates rice seed dormancy, has seven RY repeats, which are important for seed-specific gene expression and are the target of the VP1/ABI3 subfamily of B3 domain transcription factors (<xref rid="B6" ref-type="bibr">Baumlein et al., 1992</xref>), along with the ABRE and CE (<xref rid="B57" ref-type="bibr">Sugimoto et al., 2010</xref>). The dormancy state is characterized by the transcription of genes with large numbers of ABRE sequences to which transcription factors like ABI5 bind to regulate seed dormancy (<xref rid="B17" ref-type="bibr">Finch-Savage and Leubner-Metzger, 2006</xref>). In the present study, the expression of HvABI5 in the embryos was increased by ABA (<bold>Figure <xref ref-type="fig" rid="F5">5C</xref></bold>), but not HvVP1 (data not shown). Moreover, we determined that recombinant HvABI5 binds to the HvCAT2 promoter including the ABRE (<bold>Figure <xref ref-type="fig" rid="F5">5E</xref></bold>). These results suggest that the expression of <italic>HvCAT2</italic> is regulated through HvABI5 induced by ABA.</p>
+      <p><xref rid="B1" ref-type="bibr">Bahin et al. (2011)</xref> suggested that H<sub>2</sub>O<sub>2</sub> plays a role in the alleviation of barley seed dormancy through the activation of GA signaling and/or biosynthesis rather than through the inhibition of ABA signaling. They found that exogenously applied H<sub>2</sub>O<sub>2</sub> does not influence ABA biosynthesis and signaling but does have a pronounced effect on GA signaling, resulting in the modulation of hormonal balance and in subsequent germination initiation. However, by using dormant and non-dormant seeds in this study, we found that H<sub>2</sub>O<sub>2</sub> regulated ABA content through HvABA8′-OH1-mediated catabolism of ABA (<bold>Figures <xref ref-type="fig" rid="F2">2C,D,G,H</xref></bold>). <xref rid="B38" ref-type="bibr">Liu et al. (2010)</xref> proposed a hypothetical model that explains the interrelationships between H<sub>2</sub>O<sub>2</sub> and NO in the regulation of <italic>Arabidopsis</italic> seed germination in terms of the joint actions of ABA and GA. According to this model, H<sub>2</sub>O<sub>2</sub> can interrupt the dormancy of <italic>Arabidopsis</italic> seeds through two pathways. The first pathway relies on the enhancement of ABA catabolism and GA biosynthesis. The signaling molecule (NO) does not regulate GA biosynthesis directly but instead acts as a temporary signaling molecule involved in the H<sub>2</sub>O<sub>2</sub> regulation of ABA catabolism. The second pathway assumes negative regulation of GA biosynthesis by ABA. We previously reported that ROS induced by NADPH oxidase regulate barley seed germination by promoting ABA catabolism and GA biosynthesis (<xref rid="B26" ref-type="bibr">Ishibashi et al., 2015</xref>). Our results in this study suggest that dormant seeds maintain high ABA contents, promoting <italic>HvCAT2</italic> expression through ABI5 for H<sub>2</sub>O<sub>2</sub> catabolism. In addition, ABA catabolism through HvABA8′OH1 was promoted by H<sub>2</sub>O<sub>2</sub>. Therefore, dormant seeds had low ROS contents with decreased <italic>HvABA8</italic>′<italic>OH1</italic> expression, which maintained high ABA contents. Taken together, our findings suggest that the interrelationship between ABA and ROS may play an important role in seed dormancy and germination, as shown in <bold>Figure <xref ref-type="fig" rid="F6">6</xref></bold>, although it should also be added that the mechanism might be included in seedling stage.</p>
+      <fig id="F6" position="float">
+        <label>FIGURE 6</label>
+        <caption>
+          <p><bold>The interrelationship between ABA and ROS involved in barley seed dormancy and germination</bold>.</p>
+        </caption>
+        <graphic xlink:href="fpls-08-00275-g006"/>
+      </fig>
+    </sec>
+    <sec>
+      <title>Author Contributions</title>
+      <p>Conceived and designed the experiments: YI, TY, and MI-I. Performed the experiments: YI, SK, MS, NA, KK, RT, and GW. Analyzed the data: YI, NA, TY, and MI-I. Contributed reagents/materials/analysis tools: YI, SK, MS, NA, KK, RT, and GW. Wrote the paper: YI and MI-I.</p>
+    </sec>
+    <sec>
+      <title>Conflict of Interest Statement</title>
+      <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>This work was supported by JSPS KAKENHI Grant Number 16H06183.</p>
+    </ack>
+    <sec sec-type="supplementary material">
+      <title>Supplementary Material</title>
+      <p>The Supplementary Material for this article can be found online at: <ext-link ext-link-type="uri" xlink:href="http://journal.frontiersin.org/article/10.3389/fpls.2017.00275/full#supplementary-material">http://journal.frontiersin.org/article/10.3389/fpls.2017.00275/full#supplementary-material</ext-link></p>
+      <supplementary-material content-type="local-data" id="SM1">
+        <media xlink:href="Table_1.PDF">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM2">
+        <media xlink:href="Presentation_1.PDF">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bahin</surname><given-names>E.</given-names></name><name><surname>Bailly</surname><given-names>C.</given-names></name><name><surname>Sotta</surname><given-names>B.</given-names></name><name><surname>Kranner</surname><given-names>I.</given-names></name><name><surname>Corbineau</surname><given-names>F.</given-names></name><name><surname>Leymarie</surname><given-names>J.</given-names></name></person-group> (<year>2011</year>). <article-title>Crosstalk between reactive oxygen species and hormonal signaling pathways regulates grain dormancy in barley.</article-title>
+<source><italic>Plant Cell Environ.</italic></source>
+<volume>34</volume>
+<fpage>980</fpage>–<lpage>993</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-3040.2011.02298.x</pub-id><pub-id pub-id-type="pmid">21388415</pub-id></mixed-citation>
+      </ref>
+      <ref id="B2">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bailly</surname><given-names>C.</given-names></name></person-group> (<year>2004</year>). <article-title>Active oxygen species and antioxidants in seed biology.</article-title>
+<source><italic>Seed Sci. Res.</italic></source>
+<volume>4</volume>
+<fpage>93</fpage>–<lpage>107</lpage>. <pub-id pub-id-type="doi">10.1079/SSR2004159</pub-id></mixed-citation>
+      </ref>
+      <ref id="B3">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bailly</surname><given-names>C.</given-names></name><name><surname>Benamar</surname><given-names>A.</given-names></name><name><surname>Corbineau</surname><given-names>F.</given-names></name><name><surname>Côme</surname><given-names>D.</given-names></name></person-group> (<year>1998</year>). <article-title>Free radical scavenging as affected by accelerated ageing and subsequent priming in sunflower seeds.</article-title>
+<source><italic>Physiol. Planta.</italic></source>
+<volume>104</volume>
+<fpage>646</fpage>–<lpage>652</lpage>. <pub-id pub-id-type="doi">10.1034/j.1399-3054.1998.1040418.x</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bailly</surname><given-names>C.</given-names></name><name><surname>El-Maarouf-Bouteau</surname><given-names>H.</given-names></name><name><surname>Corbineau</surname><given-names>F.</given-names></name></person-group> (<year>2008</year>). <article-title>From intracellular signaling networks to cell death: the dual role of reactive oxygen species in seed physiology.</article-title>
+<source><italic>C. R. Biol.</italic></source>
+<volume>331</volume>
+<fpage>806</fpage>–<lpage>814</lpage>. <pub-id pub-id-type="doi">10.1016/j.crvi.2008.07.022</pub-id><pub-id pub-id-type="pmid">18926495</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Barba-Espín</surname><given-names>G.</given-names></name><name><surname>Díaz-Vivancos</surname><given-names>P.</given-names></name><name><surname>Clemente-Moreno</surname><given-names>M. J.</given-names></name><name><surname>Albacete</surname><given-names>A.</given-names></name><name><surname>Faize</surname><given-names>L.</given-names></name><name><surname>Faize</surname><given-names>M.</given-names></name><etal/></person-group> (<year>2010</year>). <article-title>Interaction between hydrogen peroxide and plant hormones during germination and the early growth of pea seedlings.</article-title>
+<source><italic>Plant Cell Environ.</italic></source>
+<volume>33</volume>
+<fpage>981</fpage>–<lpage>994</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-3040.2010.02120.x</pub-id><pub-id pub-id-type="pmid">20102539</pub-id></mixed-citation>
+      </ref>
+      <ref id="B6">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Baumlein</surname><given-names>H.</given-names></name><name><surname>Nagyt</surname><given-names>I.</given-names></name><name><surname>Villarroel</surname><given-names>R.</given-names></name><name><surname>Inzé</surname><given-names>D.</given-names></name><name><surname>Wobus</surname><given-names>U.</given-names></name></person-group> (<year>1992</year>). <article-title>Cis-analysis of a seed protein gene promoter: the conservative RY repeat CATGCATG within the legumin box is essential for tissue-specific expression of a legumin gene.</article-title>
+<source><italic>Plant J.</italic></source>
+<volume>2</volume>
+<fpage>233</fpage>–<lpage>239</lpage>.<pub-id pub-id-type="pmid">1338774</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bazin</surname><given-names>J.</given-names></name><name><surname>Batlla</surname><given-names>D.</given-names></name><name><surname>Dussert</surname><given-names>S.</given-names></name><name><surname>Maarouf-Bouteau</surname><given-names>H. E.</given-names></name><name><surname>Bailly</surname><given-names>C.</given-names></name></person-group> (<year>2011</year>). <article-title>Role of relative humidity, temperature, and water status in dormancy alleviation of sunflower seeds during dry after-ripening.</article-title>
+<source><italic>J. Exp. Bot.</italic></source>
+<volume>62</volume>
+<fpage>627</fpage>–<lpage>640</lpage>. <pub-id pub-id-type="doi">10.1093/jxb/erq314</pub-id><pub-id pub-id-type="pmid">20978143</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bewley</surname><given-names>D.</given-names></name></person-group> (<year>1997</year>). <article-title>Seed germination and dormancy.</article-title>
+<source><italic>Plant Cell</italic></source>
+<volume>9</volume>
+<fpage>1055</fpage>–<lpage>1066</lpage>. <pub-id pub-id-type="doi">10.1105/tpc.9.7.1055</pub-id><pub-id pub-id-type="pmid">12237375</pub-id></mixed-citation>
+      </ref>
+      <ref id="B9">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bradford</surname><given-names>M. M.</given-names></name></person-group> (<year>1976</year>). <article-title>Rapid and sensitive method for the quantitation of microgram quantities of protein utilizing the principle of protein-dye binding.</article-title>
+<source><italic>Anal. Biochem.</italic></source>
+<volume>72</volume>
+<fpage>248</fpage>–<lpage>254</lpage>. <pub-id pub-id-type="doi">10.1016/0003-2697(76)90527-3</pub-id><pub-id pub-id-type="pmid">942051</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Carn</surname><given-names>J. D.</given-names></name></person-group> (<year>1980</year>). <article-title>“Detection of rain damaged barley at harvest (pre-harvest sprouting),” in</article-title>
+<source><italic>Proceedings of the 30th Annual Australian Cereal Chemistry Conference</italic></source> (<publisher-loc>Melbourne, VIC</publisher-loc>: <publisher-name>Royal Australian Chemistry Institute</publisher-name>) <fpage>34</fpage>–<lpage>38</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chirgwin</surname><given-names>J. M.</given-names></name><name><surname>Przybyla</surname><given-names>A. E.</given-names></name><name><surname>MacDonald</surname><given-names>R. J.</given-names></name><name><surname>Rutter</surname><given-names>W. J.</given-names></name></person-group> (<year>1979</year>). <article-title>Isolation of biologically active ribonucleic acid from sources enriched in ribonuclease.</article-title>
+<source><italic>Biochemistry</italic></source>
+<volume>24</volume>
+<fpage>5294</fpage>–<lpage>5299</lpage>. <pub-id pub-id-type="doi">10.1021/bi00591a005</pub-id></mixed-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chiu</surname><given-names>K. Y.</given-names></name><name><surname>Chen</surname><given-names>C. L.</given-names></name><name><surname>Sung</surname><given-names>J. M.</given-names></name></person-group> (<year>2002</year>). <article-title>Effect of priming temperature on storability of primed sh-2 sweet corn seed.</article-title>
+<source><italic>Crop Sci.</italic></source>
+<volume>42</volume>
+<fpage>1996</fpage>–<lpage>2003</lpage>. <pub-id pub-id-type="doi">10.2135/cropsci2002.1996</pub-id></mixed-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chono</surname><given-names>M.</given-names></name><name><surname>Honda</surname><given-names>I.</given-names></name><name><surname>Shinoda</surname><given-names>S.</given-names></name><name><surname>Kushiro</surname><given-names>T.</given-names></name><name><surname>Kamiya</surname><given-names>Y.</given-names></name><name><surname>Nambara</surname><given-names>E.</given-names></name><etal/></person-group> (<year>2006</year>). <article-title>Field studies on the regulation of abscisic acid content and germinability during grain development of barley: molecular and chemical analysis of pre-harvest sprouting.</article-title>
+<source><italic>J. Exp. Bot.</italic></source>
+<volume>57</volume>
+<fpage>2421</fpage>–<lpage>2434</lpage>. <pub-id pub-id-type="doi">10.1093/jxb/erj215</pub-id><pub-id pub-id-type="pmid">16798848</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Christensen</surname><given-names>A. H.</given-names></name><name><surname>Quail</surname><given-names>P. H.</given-names></name></person-group> (<year>1996</year>). <article-title>Ubiquitin promoter-based vectors for high-level expression of selectable and/or screenable marker genes in monocotyledonous plants.</article-title>
+<source><italic>Transgenic Res.</italic></source>
+<volume>5</volume>
+<fpage>213</fpage>–<lpage>218</lpage>. <pub-id pub-id-type="doi">10.1007/BF01969712</pub-id><pub-id pub-id-type="pmid">8673150</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>El-Maarouf-Bouteau</surname><given-names>H.</given-names></name><name><surname>Meimoun</surname><given-names>P.</given-names></name><name><surname>Job</surname><given-names>C.</given-names></name><name><surname>Job</surname><given-names>D.</given-names></name><name><surname>Bailly</surname><given-names>C.</given-names></name></person-group> (<year>2013</year>). <article-title>Role of protein and mRNA oxidation in seed dormancy and germination.</article-title>
+<source><italic>Front. Plant Sci.</italic></source>
+<volume>4</volume>:<issue>77</issue>
+<pub-id pub-id-type="doi">10.3389/fpls.2013.00077</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>El-Maarouf-Bouteau</surname><given-names>H.</given-names></name><name><surname>Sajjad</surname><given-names>Y.</given-names></name><name><surname>Bazin</surname><given-names>J.</given-names></name><name><surname>Langlade</surname><given-names>N.</given-names></name><name><surname>Cristescu</surname><given-names>S. M.</given-names></name><name><surname>Balzergue</surname><given-names>S.</given-names></name><etal/></person-group> (<year>2015</year>). <article-title>Reactive oxygen species, abscisic acid and ethylene interact to regulate sunflower seed germination.</article-title>
+<source><italic>Plant Cell Environ.</italic></source>
+<volume>38</volume>
+<fpage>364</fpage>–<lpage>374</lpage>. <pub-id pub-id-type="doi">10.1111/pce.12371</pub-id><pub-id pub-id-type="pmid">24811898</pub-id></mixed-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Finch-Savage</surname><given-names>W. E.</given-names></name><name><surname>Leubner-Metzger</surname><given-names>G.</given-names></name></person-group> (<year>2006</year>). <article-title>Seed dormancy and the control of germination.</article-title>
+<source><italic>New Phytol.</italic></source>
+<volume>171</volume>
+<fpage>501</fpage>–<lpage>523</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-8137.2006.01787.x</pub-id><pub-id pub-id-type="pmid">16866955</pub-id></mixed-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Finkelstein</surname><given-names>R. R.</given-names></name><name><surname>Lynch</surname><given-names>T. J.</given-names></name></person-group> (<year>2000</year>). <article-title>The Arabidopsis abscisic acid response gene <italic>ABI5</italic> encodes a basic leucine zipper transcription factor.</article-title>
+<source><italic>Plant Cell</italic></source>
+<volume>12</volume>
+<fpage>599</fpage>–<lpage>609</lpage>. <pub-id pub-id-type="doi">10.1105/tpc.12.4.599</pub-id><pub-id pub-id-type="pmid">10760247</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Finkelstein</surname><given-names>R.</given-names></name><name><surname>Reeves</surname><given-names>W.</given-names></name><name><surname>Ariizumi</surname><given-names>T.</given-names></name><name><surname>Steber</surname><given-names>C.</given-names></name></person-group> (<year>2008</year>). <article-title>Molecular aspects of seed dormancy.</article-title>
+<source><italic>Ann. Rev. Plant Biol.</italic></source>
+<volume>59</volume>
+<fpage>387</fpage>–<lpage>415</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.arplant.59.032607.092740</pub-id><pub-id pub-id-type="pmid">18257711</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fontaine</surname><given-names>O.</given-names></name><name><surname>Huault</surname><given-names>C.</given-names></name><name><surname>Pavis</surname><given-names>N.</given-names></name><name><surname>Billard</surname><given-names>J. P.</given-names></name></person-group> (<year>1994</year>). <article-title>Dormancy breakage of Hordeum vulgare seeds: effects of hydrogen peroxide and scarification on glutathione level and glutathione reductase activity.</article-title>
+<source><italic>Plant Physiol. Biochem.</italic></source>
+<volume>32</volume>
+<fpage>677</fpage>–<lpage>683</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Furihata</surname><given-names>T.</given-names></name><name><surname>Maruyama</surname><given-names>K.</given-names></name><name><surname>Fujita</surname><given-names>Y.</given-names></name><name><surname>Umezawa</surname><given-names>T.</given-names></name><name><surname>Yoshida</surname><given-names>R.</given-names></name><name><surname>Shinozaki</surname><given-names>K.</given-names></name><etal/></person-group> (<year>2006</year>). <article-title>ABA-dependent multisite phosphorylation regulates the activity of a transcription activator AREB1.</article-title>
+<source><italic>Proc. Nati. Acad. Sci. U.S.A.</italic></source>
+<volume>103</volume>
+<fpage>1988</fpage>–<lpage>1993</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0505667103</pub-id></mixed-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gallardo</surname><given-names>K.</given-names></name><name><surname>Job</surname><given-names>C.</given-names></name><name><surname>Groot</surname><given-names>S. P.</given-names></name><name><surname>Puype</surname><given-names>M.</given-names></name><name><surname>Demol</surname><given-names>H.</given-names></name><name><surname>Vandekerckhove</surname><given-names>J.</given-names></name><etal/></person-group> (<year>2001</year>). <article-title>Proteomic analysis of <italic>Arabidopsis</italic> seed germination and priming.</article-title>
+<source><italic>Plant Physiol.</italic></source>
+<volume>126</volume>
+<fpage>835</fpage>–<lpage>848</lpage>. <pub-id pub-id-type="doi">10.1104/pp.126.2.835</pub-id><pub-id pub-id-type="pmid">11402211</pub-id></mixed-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gubler</surname><given-names>F.</given-names></name><name><surname>Hughes</surname><given-names>T.</given-names></name><name><surname>Waterhouse</surname><given-names>P.</given-names></name><name><surname>Jacobsen</surname><given-names>J.</given-names></name></person-group> (<year>2008</year>). <article-title>Regulation of dormancy in barley by blue light and after-ripening: effects on abscisic acid and gibberellin metabolism.</article-title>
+<source><italic>Plant Physiol.</italic></source>
+<volume>147</volume>
+<fpage>886</fpage>–<lpage>896</lpage>. <pub-id pub-id-type="doi">10.1104/pp.107.115469</pub-id><pub-id pub-id-type="pmid">18408047</pub-id></mixed-citation>
+      </ref>
+      <ref id="B24">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gubler</surname><given-names>F.</given-names></name><name><surname>Millar</surname><given-names>A. A.</given-names></name><name><surname>Jacobsen</surname><given-names>J. V.</given-names></name></person-group> (<year>2005</year>). <article-title>Dormancy release, ABA and pre-harvest sprouting.</article-title>
+<source><italic>Curr. Opin. Plant Biol.</italic></source>
+<volume>8</volume>
+<fpage>183</fpage>–<lpage>187</lpage>. <pub-id pub-id-type="doi">10.1016/j.pbi.2005.01.011</pub-id><pub-id pub-id-type="pmid">15752999</pub-id></mixed-citation>
+      </ref>
+      <ref id="B25">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hooijmaijers</surname><given-names>C.</given-names></name><name><surname>Rhee</surname><given-names>J. Y.</given-names></name><name><surname>Kwak</surname><given-names>K. J.</given-names></name><name><surname>Chung</surname><given-names>G. C.</given-names></name><name><surname>Horie</surname><given-names>T.</given-names></name><name><surname>Katsuhara</surname><given-names>M.</given-names></name><etal/></person-group> (<year>2012</year>). <article-title>Hydrogen peroxide permeability of plasma membrane aquaporins of <italic>Arabidopsis thaliana</italic>.</article-title>
+<source><italic>J. Plant Res.</italic></source>
+<volume>125</volume>
+<fpage>147</fpage>–<lpage>153</lpage>. <pub-id pub-id-type="doi">10.1007/s10265-011-0413-2</pub-id><pub-id pub-id-type="pmid">21390558</pub-id></mixed-citation>
+      </ref>
+      <ref id="B26">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ishibashi</surname><given-names>Y.</given-names></name><name><surname>Kasa</surname><given-names>S.</given-names></name><name><surname>Sakamoto</surname><given-names>M.</given-names></name><name><surname>Aoki</surname><given-names>N.</given-names></name><name><surname>Kai</surname><given-names>K.</given-names></name><name><surname>Yuasa</surname><given-names>T.</given-names></name><etal/></person-group> (<year>2015</year>). <article-title>A role for reactive oxygen species produced by NADPH oxidases in the embryo and aleurone cells in barley seed germination.</article-title>
+<source><italic>PLoS ONE</italic></source>
+<volume>10</volume>:<issue>e0143173</issue>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0143173</pub-id></mixed-citation>
+      </ref>
+      <ref id="B27">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ishibashi</surname><given-names>Y.</given-names></name><name><surname>Tawaratsumida</surname><given-names>T.</given-names></name><name><surname>Kondo</surname><given-names>K.</given-names></name><name><surname>Kasa</surname><given-names>S.</given-names></name><name><surname>Sakamoto</surname><given-names>M.</given-names></name><name><surname>Aoki</surname><given-names>N.</given-names></name><etal/></person-group> (<year>2012</year>). <article-title>Reactive oxygen species are involved in gibberellin/abscisic acid signaling in barley aleurone cells.</article-title>
+<source><italic>Plant Physiol.</italic></source>
+<volume>158</volume>
+<fpage>1705</fpage>–<lpage>1714</lpage>. <pub-id pub-id-type="doi">10.1104/pp.111.192740</pub-id><pub-id pub-id-type="pmid">22291200</pub-id></mixed-citation>
+      </ref>
+      <ref id="B28">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ishibashi</surname><given-names>Y.</given-names></name><name><surname>Tawaratsumida</surname><given-names>T.</given-names></name><name><surname>Zheng</surname><given-names>S. H.</given-names></name><name><surname>Yuasa</surname><given-names>T.</given-names></name><name><surname>Iwaya-Inoue</surname><given-names>M.</given-names></name></person-group> (<year>2010</year>). <article-title>NADPH oxidases act as key enzyme on germination and seedling growth in barley (<italic>Hordeum vulgare</italic> L.).</article-title>
+<source><italic>Plant Prod. Sci.</italic></source>
+<volume>13</volume>
+<fpage>45</fpage>–<lpage>52</lpage>. <pub-id pub-id-type="doi">10.1626/pps.13.45</pub-id></mixed-citation>
+      </ref>
+      <ref id="B29">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ishibashi</surname><given-names>Y.</given-names></name><name><surname>Yamamoto</surname><given-names>K.</given-names></name><name><surname>Tawaratsumida</surname><given-names>T.</given-names></name><name><surname>Yuasa</surname><given-names>T.</given-names></name><name><surname>Iwaya-Inoue</surname><given-names>M.</given-names></name></person-group> (<year>2008</year>). <article-title>Hydrogen peroxide scavenging regulates germination ability during wheat (<italic>Triticum aestivum</italic> L.) seed maturation.</article-title>
+<source><italic>Plant Signal. Behav.</italic></source>
+<volume>3</volume>
+<fpage>183</fpage>–<lpage>188</lpage>. <pub-id pub-id-type="doi">10.4161/psb.3.3.5540</pub-id><pub-id pub-id-type="pmid">19513213</pub-id></mixed-citation>
+      </ref>
+      <ref id="B30">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jacobsen</surname><given-names>J. V.</given-names></name><name><surname>Barrero</surname><given-names>J. M.</given-names></name><name><surname>Hughes</surname><given-names>T.</given-names></name><name><surname>Julkowska</surname><given-names>M.</given-names></name><name><surname>Taylor</surname><given-names>J. M.</given-names></name><name><surname>Xu</surname><given-names>Q.</given-names></name><etal/></person-group> (<year>2013</year>). <article-title>Roles for blue light, jasmonate and nitric oxide in the regulation of dormancy and germination in wheat grain (<italic>Triticum aestivum</italic> L).</article-title>
+<source><italic>Planta</italic></source>
+<volume>238</volume>
+<fpage>121</fpage>–<lpage>138</lpage>. <pub-id pub-id-type="doi">10.1007/s00425-013-1878-0</pub-id><pub-id pub-id-type="pmid">23588419</pub-id></mixed-citation>
+      </ref>
+      <ref id="B31">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jacobsen</surname><given-names>J. V.</given-names></name><name><surname>Pearce</surname><given-names>D. W.</given-names></name><name><surname>Poole</surname><given-names>A. T.</given-names></name><name><surname>Pharis</surname><given-names>R. P.</given-names></name><name><surname>Mander</surname><given-names>L. N.</given-names></name></person-group> (<year>2002</year>). <article-title>Abscisic acid, phaseic acid and gibberellin contents associated with dormancy and germination in barley.</article-title>
+<source><italic>Physiol. Planta.</italic></source>
+<volume>115</volume>
+<fpage>428</fpage>–<lpage>441</lpage>. <pub-id pub-id-type="doi">10.1034/j.1399-3054.2002.1150313.x</pub-id></mixed-citation>
+      </ref>
+      <ref id="B32">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Job</surname><given-names>C.</given-names></name><name><surname>Rajjou</surname><given-names>L.</given-names></name><name><surname>Lovigny</surname><given-names>Y.</given-names></name><name><surname>Belghazi</surname><given-names>M.</given-names></name><name><surname>Job</surname><given-names>D.</given-names></name></person-group> (<year>2005</year>). <article-title>Patterns of protein oxidation in <italic>Arabidopsis</italic> seeds during germination.</article-title>
+<source><italic>Plant Physiol.</italic></source>
+<volume>138</volume>
+<fpage>790</fpage>–<lpage>802</lpage>. <pub-id pub-id-type="doi">10.1104/pp.105.062778</pub-id><pub-id pub-id-type="pmid">15908592</pub-id></mixed-citation>
+      </ref>
+      <ref id="B33">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kucera</surname><given-names>B.</given-names></name><name><surname>Cohn</surname><given-names>M. A.</given-names></name><name><surname>Leubner-Metzger</surname><given-names>G.</given-names></name></person-group> (<year>2005</year>). <article-title>Plant hormone interactions during seed dormancy release and germination.</article-title>
+<source><italic>Seed Sci. Res.</italic></source>
+<volume>15</volume>
+<fpage>281</fpage>–<lpage>307</lpage>. <pub-id pub-id-type="doi">10.1079/SSR2005218</pub-id></mixed-citation>
+      </ref>
+      <ref id="B34">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kwak</surname><given-names>J. M.</given-names></name><name><surname>Mori</surname><given-names>I. C.</given-names></name><name><surname>Pei</surname><given-names>Z.-M.</given-names></name><name><surname>Leonhardt</surname><given-names>N.</given-names></name><name><surname>Torres</surname><given-names>M. A.</given-names></name><name><surname>Dangl</surname><given-names>J. L.</given-names></name><etal/></person-group> (<year>2003</year>). <article-title>NADPH oxidase <italic>AtrbohD</italic> and <italic>AtrbohF</italic> genes function in ROS-dependent ABA signaling in <italic>Arabidopsis</italic>.</article-title>
+<source><italic>EMBO J.</italic></source>
+<volume>22</volume>
+<fpage>2623</fpage>–<lpage>2633</lpage>. <pub-id pub-id-type="doi">10.1093/emboj/cdg277</pub-id><pub-id pub-id-type="pmid">12773379</pub-id></mixed-citation>
+      </ref>
+      <ref id="B35">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lariguet</surname><given-names>P.</given-names></name><name><surname>Ranocha</surname><given-names>P.</given-names></name><name><surname>De Meyer</surname><given-names>M.</given-names></name><name><surname>Barbier</surname><given-names>O.</given-names></name><name><surname>Penel</surname><given-names>C.</given-names></name><name><surname>Dunand</surname><given-names>C.</given-names></name></person-group> (<year>2013</year>). <article-title>Identification of a hydrogen peroxide signalling pathway in the control of light-dependent germination in <italic>Arabidopsis</italic>.</article-title>
+<source><italic>Planta</italic></source>
+<volume>238</volume>
+<fpage>381</fpage>–<lpage>395</lpage>. <pub-id pub-id-type="doi">10.1007/s00425-013-1901-5</pub-id><pub-id pub-id-type="pmid">23716184</pub-id></mixed-citation>
+      </ref>
+      <ref id="B36">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lenoir</surname><given-names>C.</given-names></name><name><surname>Corbineau</surname><given-names>F.</given-names></name><name><surname>Côme</surname><given-names>D.</given-names></name></person-group> (<year>1983</year>). <article-title>Rôle des glumelles dans la dormance des semences d’orge.</article-title>
+<source><italic>Physiol. Végétale</italic></source>
+<volume>121</volume>
+<fpage>633</fpage>–<lpage>643</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B37">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Leymarie</surname><given-names>J.</given-names></name><name><surname>Robayo-Romero</surname><given-names>M. E.</given-names></name><name><surname>Gendreau</surname><given-names>E.</given-names></name><name><surname>Benech-Arnold</surname><given-names>R. L.</given-names></name><name><surname>Corbineau</surname><given-names>F.</given-names></name></person-group> (<year>2008</year>). <article-title>Involvement of ABA in induction of secondary dormancy in barley (<italic>Hordeum vulgare</italic> L.) seeds.</article-title>
+<source><italic>Plant Cell Physiol.</italic></source>
+<volume>49</volume>
+<fpage>1830</fpage>–<lpage>1838</lpage>. <pub-id pub-id-type="doi">10.1093/pcp/pcn164</pub-id><pub-id pub-id-type="pmid">18974197</pub-id></mixed-citation>
+      </ref>
+      <ref id="B38">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liu</surname><given-names>Y.</given-names></name><name><surname>Ye</surname><given-names>N.</given-names></name><name><surname>Liu</surname><given-names>R.</given-names></name><name><surname>Chen</surname><given-names>M.</given-names></name><name><surname>Zhang</surname><given-names>J.</given-names></name></person-group> (<year>2010</year>). <article-title>H<sub>2</sub>O<sub>2</sub> mediates the regulation of ABA catabolism and GA biosynthesis in <italic>Arabidopsis</italic> seed dormancy and germination.</article-title>
+<source><italic>J. Exp. Bot.</italic></source>
+<volume>61</volume>
+<fpage>2979</fpage>–<lpage>2990</lpage>. <pub-id pub-id-type="doi">10.1093/jxb/erq125</pub-id><pub-id pub-id-type="pmid">20460363</pub-id></mixed-citation>
+      </ref>
+      <ref id="B39">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ma</surname><given-names>Z.</given-names></name><name><surname>Marsolais</surname><given-names>F.</given-names></name><name><surname>Bykova</surname><given-names>N. V.</given-names></name><name><surname>Igamberdiev</surname><given-names>A. U.</given-names></name></person-group> (<year>2016</year>). <article-title>Nitric oxide and reactive oxygen species mediate metabolic changes in barley seed embryo during germination.</article-title>
+<source><italic>Front. Plant Sci.</italic></source>
+<volume>7</volume>:<issue>138</issue>
+<pub-id pub-id-type="doi">10.3389/fpls.2016.00138</pub-id></mixed-citation>
+      </ref>
+      <ref id="B40">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Millar</surname><given-names>A. A.</given-names></name><name><surname>Jacobsen</surname><given-names>J. V.</given-names></name><name><surname>Ross</surname><given-names>J. J.</given-names></name><name><surname>Helliwell</surname><given-names>C. A.</given-names></name><name><surname>Poole</surname><given-names>A. T.</given-names></name><name><surname>Scofield</surname><given-names>G.</given-names></name><etal/></person-group> (<year>2006</year>). <article-title>Seed dormancy and ABA metabolism in <italic>Arabidopsis</italic> and barley: the role of ABA 8′-hydroxylase.</article-title>
+<source><italic>Plant J.</italic></source>
+<volume>45</volume>
+<fpage>942</fpage>–<lpage>954</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-313X.2006.02659.x</pub-id><pub-id pub-id-type="pmid">16507085</pub-id></mixed-citation>
+      </ref>
+      <ref id="B41">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mittler</surname><given-names>R.</given-names></name><name><surname>Blumwald</surname><given-names>E.</given-names></name></person-group> (<year>2015</year>). <article-title>The roles of ROS and ABA in systemic acquired acclimation.</article-title>
+<source><italic>Plant Cell</italic></source>
+<volume>27</volume>
+<fpage>64</fpage>–<lpage>70</lpage>. <pub-id pub-id-type="doi">10.1105/tpc.114.133090</pub-id><pub-id pub-id-type="pmid">25604442</pub-id></mixed-citation>
+      </ref>
+      <ref id="B42">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nakamura</surname><given-names>S.</given-names></name><name><surname>Abe</surname><given-names>F.</given-names></name><name><surname>Kawahigashi</surname><given-names>H.</given-names></name><name><surname>Nakazono</surname><given-names>K.</given-names></name><name><surname>Tagiri</surname><given-names>A.</given-names></name><name><surname>Matsumoto</surname><given-names>T.</given-names></name><etal/></person-group> (<year>2011</year>). <article-title>A wheat homolog of MOTHER OF FT AND TFL1 acts in the regulation of germination.</article-title>
+<source><italic>Plant Cell</italic></source>
+<volume>23</volume>
+<fpage>3215</fpage>–<lpage>3229</lpage>. <pub-id pub-id-type="doi">10.1105/tpc.111.088492</pub-id><pub-id pub-id-type="pmid">21896881</pub-id></mixed-citation>
+      </ref>
+      <ref id="B43">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nambara</surname><given-names>E.</given-names></name><name><surname>Marion-Poll</surname><given-names>A.</given-names></name></person-group> (<year>2005</year>). <article-title>Abscisic acid biosynthesis and catabolism.</article-title>
+<source><italic>Ann. Rev. Plant Biol.</italic></source>
+<volume>56</volume>
+<fpage>165</fpage>–<lpage>185</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.arplant.56.032604.144046</pub-id><pub-id pub-id-type="pmid">15862093</pub-id></mixed-citation>
+      </ref>
+      <ref id="B44">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nambara</surname><given-names>E.</given-names></name><name><surname>Okamoto</surname><given-names>M.</given-names></name><name><surname>Tatematsu</surname><given-names>K.</given-names></name><name><surname>Yano</surname><given-names>R.</given-names></name><name><surname>Seo</surname><given-names>M.</given-names></name><name><surname>Kamiya</surname><given-names>Y.</given-names></name></person-group> (<year>2010</year>). <article-title>Abscisic acid and the control of seed dormancy and germination.</article-title>
+<source><italic>Seed Sci. Res.</italic></source>
+<volume>20</volume>
+<fpage>55</fpage>–<lpage>67</lpage>. <pub-id pub-id-type="doi">10.1017/S0960258510000012</pub-id></mixed-citation>
+      </ref>
+      <ref id="B45">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ogawa</surname><given-names>K.</given-names></name><name><surname>Iwabuchi</surname><given-names>M.</given-names></name></person-group> (<year>2001</year>). <article-title>Mechanism for promoting the germination of <italic>Zinnia elegans</italic> seeds by hydrogen peroxide.</article-title>
+<source><italic>Plant Cell Physiol.</italic></source>
+<volume>42</volume>
+<fpage>286</fpage>–<lpage>291</lpage>. <pub-id pub-id-type="doi">10.1093/pcp/pce032</pub-id><pub-id pub-id-type="pmid">11266579</pub-id></mixed-citation>
+      </ref>
+      <ref id="B46">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>O’Kane</surname><given-names>D.</given-names></name><name><surname>Gill</surname><given-names>V.</given-names></name><name><surname>Boyd</surname><given-names>P.</given-names></name><name><surname>Burdon</surname><given-names>R.</given-names></name></person-group> (<year>1996</year>). <article-title>Chilling, oxidative stress and antioxidant responses in <italic>Arabidopsis thaliana</italic> callus.</article-title>
+<source><italic>Planta</italic></source>
+<volume>198</volume>
+<fpage>371</fpage>–<lpage>377</lpage>. <pub-id pub-id-type="doi">10.1007/BF00620053</pub-id><pub-id pub-id-type="pmid">8717134</pub-id></mixed-citation>
+      </ref>
+      <ref id="B47">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Oracz</surname><given-names>K.</given-names></name><name><surname>El-Maarouf-Bouteau</surname><given-names>H.</given-names></name><name><surname>Farrant</surname><given-names>J. M.</given-names></name><name><surname>Cooper</surname><given-names>K.</given-names></name><name><surname>Belghazi</surname><given-names>M.</given-names></name><name><surname>Job</surname><given-names>C.</given-names></name><etal/></person-group> (<year>2007</year>). <article-title>ROS production and protein oxidation as a novel mechanism of seed dormancy alleviation.</article-title>
+<source><italic>Plant J.</italic></source>
+<volume>50</volume>
+<fpage>452</fpage>–<lpage>465</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-313X.2007.03063.x</pub-id><pub-id pub-id-type="pmid">17376157</pub-id></mixed-citation>
+      </ref>
+      <ref id="B48">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Oracz</surname><given-names>K.</given-names></name><name><surname>Karpiński</surname><given-names>S.</given-names></name></person-group> (<year>2016</year>). <article-title>Phytohormones signaling pathways and ROS involvement in seed germination.</article-title>
+<source><italic>Front. Plant Sci.</italic></source>
+<volume>7</volume>:<issue>864</issue>
+<pub-id pub-id-type="doi">10.3389/fpls.2016.00864</pub-id></mixed-citation>
+      </ref>
+      <ref id="B49">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pellegrineschi</surname><given-names>A.</given-names></name><name><surname>Noguera</surname><given-names>L. M.</given-names></name><name><surname>Skovmand</surname><given-names>B.</given-names></name><name><surname>Brito</surname><given-names>R. M.</given-names></name><name><surname>Velazquez</surname><given-names>L.</given-names></name><name><surname>Salgado</surname><given-names>M. M.</given-names></name><etal/></person-group> (<year>2002</year>). <article-title>Identification of highly transformable wheat genotypes for mass production of fertile transgenic plants.</article-title>
+<source><italic>Genome</italic></source>
+<volume>45</volume>
+<fpage>421</fpage>–<lpage>430</lpage>. <pub-id pub-id-type="doi">10.1139/g01-154</pub-id><pub-id pub-id-type="pmid">11962639</pub-id></mixed-citation>
+      </ref>
+      <ref id="B50">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pfaffl</surname><given-names>M. W.</given-names></name></person-group> (<year>2001</year>). <article-title>A new mathematical model for relative quantification in real-time RT-PCR.</article-title>
+<source><italic>Nucl. Acids Res.</italic></source>
+<volume>29</volume>
+<fpage>2002</fpage>–<lpage>2007</lpage>. <pub-id pub-id-type="doi">10.1093/nar/29.9.e45</pub-id></mixed-citation>
+      </ref>
+      <ref id="B51">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Posmyk</surname><given-names>M. M.</given-names></name><name><surname>Corbineau</surname><given-names>F.</given-names></name><name><surname>Vinel</surname><given-names>D.</given-names></name><name><surname>Bailly</surname><given-names>C.</given-names></name><name><surname>Côme</surname><given-names>D.</given-names></name></person-group> (<year>2001</year>). <article-title>Osmoconditioning reduces physiological and biochemical damage induced by chilling in soybean seeds.</article-title>
+<source><italic>Physiol. Planta.</italic></source>
+<volume>111</volume>
+<fpage>473</fpage>–<lpage>482</lpage>. <pub-id pub-id-type="doi">10.1034/j.1399-3054.2001.1110407.x</pub-id></mixed-citation>
+      </ref>
+      <ref id="B52">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Puntarulo</surname><given-names>S.</given-names></name><name><surname>Galleano</surname><given-names>M.</given-names></name><name><surname>Sanchez</surname><given-names>R. A.</given-names></name><name><surname>Boveris</surname><given-names>A.</given-names></name></person-group> (<year>1991</year>). <article-title>Superoxide anion and hydrogen peroxide metabolism in soybean embryonic axes during germination.</article-title>
+<source><italic>Biochim. Biophys. Acta</italic></source>
+<volume>1074</volume>
+<fpage>277</fpage>–<lpage>283</lpage>. <pub-id pub-id-type="doi">10.1016/0304-4165(91)90164-C</pub-id><pub-id pub-id-type="pmid">1648400</pub-id></mixed-citation>
+      </ref>
+      <ref id="B53">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rodríguez</surname><given-names>M. V.</given-names></name><name><surname>Barrero</surname><given-names>J. M.</given-names></name><name><surname>Corbineau</surname><given-names>F.</given-names></name><name><surname>Gubler</surname><given-names>F.</given-names></name><name><surname>Benech-Arnold</surname><given-names>R. L.</given-names></name></person-group> (<year>2015</year>). <article-title>Dormancy in cereals (not too much, not so little): about the mechanisms behind this trait.</article-title>
+<source><italic>Seed Sci. Res.</italic></source>
+<volume>25</volume>
+<fpage>99</fpage>–<lpage>119</lpage>. <pub-id pub-id-type="doi">10.1017/S0960258515000021</pub-id></mixed-citation>
+      </ref>
+      <ref id="B54">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sarath</surname><given-names>G.</given-names></name><name><surname>Mitchell</surname><given-names>R.</given-names></name><name><surname>Hou</surname><given-names>G.</given-names></name><name><surname>Baird</surname><given-names>L. M.</given-names></name></person-group> (<year>2007</year>). <article-title>Reactive oxygen species, ABA and nitric oxide interactions on the germination of warm-season C4 grasses.</article-title>
+<source><italic>Planta</italic></source>
+<volume>226</volume>
+<fpage>697</fpage>–<lpage>708</lpage>. <pub-id pub-id-type="doi">10.1007/s00425-007-0517-z</pub-id><pub-id pub-id-type="pmid">17431667</pub-id></mixed-citation>
+      </ref>
+      <ref id="B55">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schopfer</surname><given-names>P.</given-names></name><name><surname>Plachy</surname><given-names>C.</given-names></name><name><surname>Frahry</surname><given-names>G.</given-names></name></person-group> (<year>2001</year>). <article-title>Release of reactive oxygen intermediates (superoxide radicals, hydrogen peroxide, and hydroxyl radicals) and peroxidase in germinating radish seeds controlled by light, gibberellin, and abscisic acid.</article-title>
+<source><italic>Plant Physiol.</italic></source>
+<volume>125</volume>
+<fpage>1591</fpage>–<lpage>1602</lpage>. <pub-id pub-id-type="doi">10.1104/pp.125.4.1591</pub-id><pub-id pub-id-type="pmid">11299341</pub-id></mixed-citation>
+      </ref>
+      <ref id="B56">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shu</surname><given-names>K.</given-names></name><name><surname>Liu</surname><given-names>X. D.</given-names></name><name><surname>Xie</surname><given-names>Q.</given-names></name><name><surname>He</surname><given-names>Z. H.</given-names></name></person-group> (<year>2016</year>). <article-title>Two faces of one seed: hormonal regulation of dormancy and germination.</article-title>
+<source><italic>Mol. Plant</italic></source>
+<volume>9</volume>
+<fpage>34</fpage>–<lpage>45</lpage>. <pub-id pub-id-type="doi">10.1016/j.molp.2015.08.010</pub-id><pub-id pub-id-type="pmid">26343970</pub-id></mixed-citation>
+      </ref>
+      <ref id="B57">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sugimoto</surname><given-names>K.</given-names></name><name><surname>Takeuchi</surname><given-names>Y.</given-names></name><name><surname>Ebana</surname><given-names>K.</given-names></name><name><surname>Miyao</surname><given-names>A.</given-names></name><name><surname>Hirochika</surname><given-names>H.</given-names></name><name><surname>Hara</surname><given-names>N.</given-names></name><etal/></person-group> (<year>2010</year>). <article-title>Molecular cloning of Sdr4, a regulator involved in seed dormancy and domestication of rice.</article-title>
+<source><italic>Proc. Nati. Acad. Sci. U.S.A.</italic></source>
+<volume>107</volume>
+<fpage>5792</fpage>–<lpage>5797</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0911965107</pub-id></mixed-citation>
+      </ref>
+      <ref id="B58">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Toki</surname><given-names>S.</given-names></name><name><surname>Takamatsu</surname><given-names>S.</given-names></name><name><surname>Nojiri</surname><given-names>C.</given-names></name><name><surname>Ooba</surname><given-names>S.</given-names></name><name><surname>Anzai</surname><given-names>H.</given-names></name><name><surname>Iwata</surname><given-names>M.</given-names></name><etal/></person-group> (<year>1992</year>). <article-title>Expression of a maize ubiquitin gene promoter-bar chimeric gene in transgenic rice plants.</article-title>
+<source><italic>Plant Physiol.</italic></source>
+<volume>100</volume>
+<fpage>1503</fpage>–<lpage>1507</lpage>. <pub-id pub-id-type="doi">10.1104/pp.100.3.1503</pub-id><pub-id pub-id-type="pmid">16653150</pub-id></mixed-citation>
+      </ref>
+      <ref id="B59">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Trevaskis</surname><given-names>B.</given-names></name><name><surname>Hemming</surname><given-names>M. N.</given-names></name><name><surname>Peacock</surname><given-names>W. J.</given-names></name><name><surname>Dennis</surname><given-names>E. J.</given-names></name></person-group> (<year>2006</year>). <article-title>HvVRN2 responds to daylength, whereas HvVRN1 is regulated by vernalization and developmental status.</article-title>
+<source><italic>Plant Physiol.</italic></source>
+<volume>140</volume>
+<fpage>1397</fpage>–<lpage>1405</lpage>. <pub-id pub-id-type="doi">10.1104/pp.105.073486</pub-id><pub-id pub-id-type="pmid">16500994</pub-id></mixed-citation>
+      </ref>
+      <ref id="B60">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tuttle</surname><given-names>K. M.</given-names></name><name><surname>Martinez</surname><given-names>S. A.</given-names></name><name><surname>Schramm</surname><given-names>E. C.</given-names></name><name><surname>Takebayashi</surname><given-names>Y.</given-names></name><name><surname>Seo</surname><given-names>M.</given-names></name><name><surname>Steber</surname><given-names>C. M.</given-names></name></person-group> (<year>2015</year>). <article-title>Grain dormancy loss is associated with changes in ABA and GA sensitivity and hormone accumulation in bread wheat, <italic>Triticum aestivum</italic> (L).</article-title>
+<source><italic>Seed Sci. Res.</italic></source>
+<volume>25</volume>
+<fpage>179</fpage>–<lpage>193</lpage>. <pub-id pub-id-type="doi">10.1017/S0960258515000057</pub-id></mixed-citation>
+      </ref>
+      <ref id="B61">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Van Gestelen</surname><given-names>P.</given-names></name><name><surname>Asard</surname><given-names>H.</given-names></name><name><surname>Caubergs</surname><given-names>R. J.</given-names></name></person-group> (<year>1997</year>). <article-title>Solubilization and separation of a plant plasma membrane NADPH-O2- synthase from other NAD(P)H oxidoreductases.</article-title>
+<source><italic>Plant Physiol.</italic></source>
+<volume>115</volume>
+<fpage>543</fpage>–<lpage>550</lpage>. <pub-id pub-id-type="doi">10.1104/pp.115.2.543</pub-id><pub-id pub-id-type="pmid">12223822</pub-id></mixed-citation>
+      </ref>
+      <ref id="B62">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>L.</given-names></name><name><surname>Hua</surname><given-names>D.</given-names></name><name><surname>He</surname><given-names>J.</given-names></name><name><surname>Duan</surname><given-names>Y.</given-names></name><name><surname>Chen</surname><given-names>Z.</given-names></name><name><surname>Hong</surname><given-names>X.</given-names></name><etal/></person-group> (<year>2011</year>). <article-title>Auxin Response Factor2 (ARF2) and its regulated homeodomain gene HB33 mediate abscisic acid response in <italic>Arabidopsis</italic>.</article-title>
+<source><italic>PLoS Genet.</italic></source>
+<volume>7</volume>:<issue>e1002172</issue>
+<pub-id pub-id-type="doi">10.1371/journal.pgen.1002172</pub-id></mixed-citation>
+      </ref>
+      <ref id="B63">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Williamson</surname><given-names>J. D.</given-names></name><name><surname>Quatrano</surname><given-names>R. S.</given-names></name><name><surname>Cuming</surname><given-names>A. C.</given-names></name></person-group> (<year>1985</year>). <article-title>Em polypep- tide and its messenger RNA levels are modulated by abscisic acid during embryogenesis in wheat.</article-title>
+<source><italic>Eur. J. Biochem.</italic></source>
+<volume>152</volume>
+<fpage>501</fpage>–<lpage>507</lpage>. <pub-id pub-id-type="doi">10.1111/j.1432-1033.1985.tb09224.x</pub-id><pub-id pub-id-type="pmid">2932332</pub-id></mixed-citation>
+      </ref>
+      <ref id="B64">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wojtyla</surname><given-names>L.</given-names></name><name><surname>Lechowska</surname><given-names>K.</given-names></name><name><surname>Kubala</surname><given-names>S.</given-names></name><name><surname>Garnczarska</surname><given-names>M.</given-names></name></person-group> (<year>2016</year>). <article-title>Different modes of hydrogen peroxide action during seed germination.</article-title>
+<source><italic>Front. Plant Sci.</italic></source>
+<volume>7</volume>:<issue>66</issue>
+<pub-id pub-id-type="doi">10.3389/fpls.2016.00066</pub-id></mixed-citation>
+      </ref>
+      <ref id="B65">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ye</surname><given-names>N. H.</given-names></name><name><surname>Zhu</surname><given-names>G. H.</given-names></name><name><surname>Liu</surname><given-names>Y. G.</given-names></name><name><surname>Zhang</surname><given-names>A. Y.</given-names></name><name><surname>Li</surname><given-names>Y. X.</given-names></name><name><surname>Liu</surname><given-names>R.</given-names></name><etal/></person-group> (<year>2012</year>). <article-title>Ascorbic acid and reactive oxygen species are involved in the inhibition of seed germination by abscisic acid in rice seeds.</article-title>
+<source><italic>J. Exp. Bot.</italic></source>
+<volume>63</volume>
+<fpage>1809</fpage>–<lpage>1822</lpage>. <pub-id pub-id-type="doi">10.1093/jxb/err336</pub-id><pub-id pub-id-type="pmid">22200664</pub-id></mixed-citation>
+      </ref>
+      <ref id="B66">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yoshida</surname><given-names>T.</given-names></name><name><surname>Fujita</surname><given-names>Y.</given-names></name><name><surname>Sayama</surname><given-names>H.</given-names></name><name><surname>Kidokoro</surname><given-names>S.</given-names></name><name><surname>Maruyama</surname><given-names>K.</given-names></name><name><surname>Mizoi</surname><given-names>J.</given-names></name><etal/></person-group> (<year>2010</year>). <article-title>AREB1, AREB2, and ABF3 are master transcription factors that cooperatively regulate ABRE-dependent ABA signaling involved in drought stress tolerance and require ABA for full activation.</article-title>
+<source><italic>Plant J.</italic></source>
+<volume>61</volume>
+<fpage>672</fpage>–<lpage>685</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-313X.2009.04092.x</pub-id><pub-id pub-id-type="pmid">19947981</pub-id></mixed-citation>
+      </ref>
+      <ref id="B67">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhang</surname><given-names>Y.</given-names></name><name><surname>Chen</surname><given-names>B.</given-names></name><name><surname>Xu</surname><given-names>Z.</given-names></name><name><surname>Shi</surname><given-names>Z.</given-names></name><name><surname>Chen</surname><given-names>S.</given-names></name><name><surname>Huang</surname><given-names>X.</given-names></name><etal/></person-group> (<year>2014</year>). <article-title>Involvement of reactive oxygen species in endosperm cap weakening and embryo elongation growth during lettuce seed germination.</article-title>
+<source><italic>J. Exp. Bot.</italic></source>
+<volume>65</volume>
+<fpage>3189</fpage>–<lpage>3200</lpage>. <pub-id pub-id-type="doi">10.1093/jxb/eru167</pub-id><pub-id pub-id-type="pmid">24744430</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+    <glossary>
+      <title>Abbreviations</title>
+      <def-list id="DL1">
+        <def-item>
+          <term>ABA</term>
+          <def>
+            <p>abscisic acid</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>ABI5</term>
+          <def>
+            <p>ABA insensitive 5</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>APX</term>
+          <def>
+            <p>ascorbate peroxidase</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>CAT</term>
+          <def>
+            <p>catalase</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>EMSA</term>
+          <def>
+            <p>electrophoretic mobility shift assay</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>GA</term>
+          <def>
+            <p>gibberellin</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>GPX</term>
+          <def>
+            <p>glutathione peroxidase </p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>H<sub>2</sub>O<sub>2</sub></term>
+          <def>
+            <p>hydrogen peroxide</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>PHS</term>
+          <def>
+            <p>pre-harvest sprouting</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>ROS</term>
+          <def>
+            <p>reactive oxygen species</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>SOD</term>
+          <def>
+            <p>superoxide dismutase</p>
+          </def>
+        </def-item>
+      </def-list>
+    </glossary>
+  </back>
+</article>
+
+</metadata></record>

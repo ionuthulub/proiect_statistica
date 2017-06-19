@@ -1,0 +1,687 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5359857</identifier><datestamp>2017-04-04</datestamp><setSpec>jri</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Reprod Infertil</journal-id>
+      <journal-id journal-id-type="iso-abbrev">J Reprod Infertil</journal-id>
+      <journal-id journal-id-type="publisher-id">JRI</journal-id>
+      <journal-id journal-id-type="pmc">JRI</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Reproduction &amp; Infertility</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">2228-5482</issn>
+      <issn pub-type="epub">2251-676X</issn>
+      <publisher>
+        <publisher-name>Avicenna Research Institute</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5359857</article-id>
+      <article-id pub-id-type="pmcid">PMC5359857</article-id>
+      <article-id pub-id-type="pmc-uid">5359857</article-id>
+      <article-id pub-id-type="publisher-id">jri-17-190</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Original Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Certain Less Invasive Infertility Treatments Associated with Different Levels of Pregnancy-Related Anxiety in Pregnancies Conceived via <italic>In Vitro</italic> Fertilization</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Stevenson</surname>
+            <given-names>Eleanor Lowndes</given-names>
+          </name>
+          <xref ref-type="aff" rid="AFF1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="C1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sloane</surname>
+            <given-names>Richard</given-names>
+          </name>
+          <xref ref-type="aff" rid="AFF2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <aff id="AFF1"><label>1-</label> Division of Health for Women, Children and Families, School of Nursing, Duke University, Durham, USA</aff>
+        <aff id="AFF2"><label>2-</label> School of Medicine, Duke University, Durham, USA</aff>
+      </contrib-group>
+      <author-notes>
+        <corresp id="C1"><label>*</label><italic>Corresponding Author:</italic> Eleanor L Stevenson, Division of Health for Women, Children and Families, School of Nursing, Duke University, 307 Trent Drive, Durham, NC 27710, USA <italic>E-mail:</italic><email>eleanor.stevenson@duke.edu</email></corresp>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <season>Jan-Mar</season>
+        <year>2017</year>
+      </pub-date>
+      <volume>18</volume>
+      <issue>1</issue>
+      <fpage>190</fpage>
+      <lpage>196</lpage>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>2</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>24</day>
+          <month>5</month>
+          <year>2016</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright© 2017, Avicenna Research Institute.</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <license>
+          <license-p>This work is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License which allows users to read, copy, distribute and make derivative works for non-commercial purposes from the material, as long as the author of the original work is cited properly.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <sec>
+          <title>Background:</title>
+          <p>Research supports that <italic>in vitro</italic> fertilization causes anxiety and that anxiety can continue into the resulting pregnancy. Most women who have IVF will have a less invasive treatment for infertility prior to IVF; however, it is unclear if specific less invasive treatment cycles impact anxiety that is experienced in the pregnancy resulting from IVF.</p>
+        </sec>
+        <sec>
+          <title>Methods:</title>
+          <p>A prospective study was conducted for women who became pregnant via IVF, and data was collected about reported previous non-IVF treatment cycles as well as Pregnancy Related Anxiety Measure. Latent Class Analysis was conducted A p-value of ≤0.05 was considered significant.</p>
+        </sec>
+        <sec>
+          <title>Results:</title>
+          <p>144 subjects participated and were highly educated, affluent, married, and primarily white. The LCA process yielded two groups that on average had similar levels on most items except for use of intra uterine insemination and/or ovarian stimulation. This information was used to generate four exhaustive and mutually exclusive groups: Stimulation Only (stim-only), Stimulation and Intra uterine Insemination (stim-IUI), Intra uterine Insemination only (IUI only), or No Treatment (No Tx). ANOVA found that those in the Stim Only group had statistically significantly higher PRAM scores than the Stim IUI (p=0.0036), the IUI only group (p=0.05), and the No Tx group (p=0.0013).</p>
+        </sec>
+        <sec>
+          <title>Conclusion:</title>
+          <p>Women who become pregnant via IVF and had a history of non-<italic>in vitro</italic> fertilization cycles that only involved ovarian stimulation experienced more pregnancy-specific anxiety in the pregnancy that results from <italic>in vitro</italic> fertilization.</p>
+        </sec>
+      </abstract>
+      <kwd-group>
+        <kwd>Infertility</kwd>
+        <kwd>Intra uterine insemination</kwd>
+        <kwd><italic>In vitro</italic> fertilization</kwd>
+        <kwd>Pregnancy anxiety</kwd>
+        <kwd>Stress</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Fifteen percent of women worldwide experience infertility during their lifetime (<xref rid="B1" ref-type="bibr">1</xref>). Use of assisted reproductive technology (ART) such as <italic>in vitro</italic> fertilization (IVF) to treat fertility problems continues to rise due to successes and advances in science (<xref rid="B1" ref-type="bibr">1</xref>, <xref rid="B2" ref-type="bibr">2</xref>). Despite this trend, there is a lack of clear understanding of the psychological experience especially anxiety a woman experiences during the pregnancy that follows successful treatment with IVF. Additionally, it is unclear what may put women who ultimately achieve a pregnancy at increased risk for experiencing increases in anxiety in the pregnancy that follows successful IVF. Understanding how anxiety is experienced during pregnancy is critical because of potential impact on pregnancy outcomes. In the general preterm birth literature, there is support for a positive relationship between pregnancy-related anxiety and preterm birth (<xref rid="B3" ref-type="bibr">3</xref>, <xref rid="B4" ref-type="bibr">4</xref>).</p>
+      <p>Treatment for infertility is expensive and physically invasive which can be repeated for months or years before a pregnancy is achieved, or the decision is made to discontinue treatment. Treatment can vary greatly based on the diagnosis. Most couples will be offered less invasive treatment options including ovulation stimulating medications with or without intra uterine insemination (IUI), IUI without use of medication prior to ART including IVF (Stevenson, Hersheberger &amp; Bergh, 2016) and some will seek IVF upon definitive diagnosis of underlying infertility cause such as complete blockage of fallopian tubes or severe male-factor infertility, thus bypassing less invasive treatment options.</p>
+      <p>Women who are being treated for infertility report increasing amounts of emotional distress during the treatment process (<xref rid="B5" ref-type="bibr">5</xref>) with infertility-related stress impacting emotional distress (<xref rid="B6" ref-type="bibr">6</xref>). The emotional distress experienced can carry over into resulting pregnancy from infertility treatment. Qualitative research has found that women who are pregnant following IVF experience their pregnancies differently than women who conceive without assistance, specifically, perceiving their pregnancies as special and hard won (<xref rid="B7" ref-type="bibr">7</xref>, <xref rid="B8" ref-type="bibr">8</xref>). Additionally, quantitative research has found increases in stress, particularly pregnancy-related anxiety, in women pregnant via IVF as compared to women who conceive without assistance (<xref rid="B9" ref-type="bibr">9</xref>).</p>
+      <p>The process of infertility treatment can take a long time to navigate. One study found that the average time spent on fertility care was 125 hours in an 18-month period of time. This translated to 15.6 working days, with the majority of time spent on visits with the provider. Additionally, there was a direct relationship between time spent on care and fertility-related stress (<xref rid="B10" ref-type="bibr">10</xref>). Data supports that emotional distress increases over time in treatment (<xref rid="B11" ref-type="bibr">11</xref>). While anxiety has been shown to increase during a treatment cycle of IVF and length of IVF treatment has been associated with increases in stress (<xref rid="B12" ref-type="bibr">12</xref>), what is less clear is whether utilization of specific less invasive treatment leading up to IVF contributes to anxiety experienced in a resulting pregnancy. Therefore, the aim of this exploratory study of women in the early second trimester of a post-IVF pregnancy was to assess whether certain less invasive treatment options including ovarian stimulation-only cycles, ovarian stimulation with IUI cycles, IUI only cycles, and no previous treatment affect pregnancy-specific anxiety levels.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Methods</title>
+      <p>The study had a prospective design targeting a population of pregnant women via IVF. Participants were recruited upon discharge to their obstetrician or midwife, typically at gestational week 8, from a large, private infertility practice in the North Eastern United States. Participation in the study commenced at gestational week 12, and women who expressed interest were sent several reminders about participation until gestational week 18. Inclusion criteria were female, 25–40 years of age, single or twin fetus gestation between weeks 12 and 20 gestation and ability to read and write English. Exclusion criteria included having a selective reduction in current pregnancy, and being medically or obstetrically high-risk requiring perinatologist to follow the pregnancy. Between weeks 12–18, participants logged onto the dedicated website, completed consent, and answered the study questionnaires. Approval was obtained from the New York University Committee on Activities Involving Human Subjects, and all subjects provided informed consent prior to participation in this study. The analysis sample included 144 women, which was as many participants that the study team had capacity to recruit and manage. All participants provided informed consent and submitted study questionnaires.</p>
+      <p>Subjects completed survey questions about their demographic data, as well as the number of previous treatment cycles for infertility prior to IVF including stimulated cycles (<italic>i.e</italic>. clomiphene citrate or gonadotrophins) either with or without IUI, non-stimulated IUI cycles, or no previous treatment. The demographic questionnaire included age, marital status, education, income, and race. Clinical characteristics such as history of miscarriage, number of IVF cycles, and length of infertility were also collected. Number of miscarriages was dichotomized as either a history of miscarriage or no history of miscarriage. IVF count data was also recoded as either one IVF cycle or more than one cycle.</p>
+      <p>They were also asked about their perception of anxiety specific to pregnancy using the Pregnancy-Related Anxiety Measure (PRAM). The Pregnancy-Related Anxiety Measure (PRAM) (<xref rid="B13" ref-type="bibr">13</xref>) is a 5-item scale assessed maternal fears and anxiety related to the health of the baby and the labor and delivery process and confidence in the obstetrician and other health care providers. The revised 10-item version used in this study was comprised of an expanded set of items 48 that was used to assess the extent to which women worry or feel concerned about their health, their baby’s health, labor and delivery, and caring for the baby. The pregnancy-related anxiety score ranged from 10–40, with a higher score indicating more pregnancy-related anxiety. The internal reliability of the scale was found to be acceptable (Cronbach’s α= 0.78).</p>
+      <p>Descriptive statistics were used to summarize the demographic and clinical characteristics of the sample. In order to explore groups of subjects in the database, Latent Class Analysis (LCA) was conducted to identify patterns with the group definition variables. Unlike standard clustering techniques, LCA allows for statistical testing of model fit and class membership is probabilistic, with membership probabilities computed from the estimated model parameters. In the initial step of the analyses, increasingly complex models (adding more latent classes) were estimated to determine the optimal number of latent classes to fit the data. Following standard practice, the optimal number of latent classes was determined by comparing the Bayesian Information Criterion (BIC) of the candidate models, as well as applying substantive interpretability and clinical judgment to select between candidate models (<italic>i.e</italic>., Do the classes defined by a given model possess a more discernible clinical significance or meaning than those defined by another model?).</p>
+      <p>As described below, the LCA process yielded 2 classes of subjects which on average agreed on all response items except for use of IUI and/or ovarian stimulation. Post hoc to the LCA process, four analytic groups were developed: Stim Only, Stim IUI, IUI only, or No Tx.</p>
+      <p>Groups were evaluated for differences in PRAM levels using ANOVA. The level of significance was set at 0.05 for each test due the exploratory phase of this research. Cronbach’s alphas were calculated on the PRAM.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <p><xref ref-type="table" rid="T1">Table 1</xref> presents a summary of the demographic, clinical, and PRAM characteristics of the 144 women in the early second trimester of a post-IVF pregnancy. The mean age was 33.5 years, (range of 25 to 40, SD=3.9, median=34), and the majority of the sample was Caucasian (74.8%). Approximately, 8% of the sample was Hispanic or Latino. Among the 144 women, 98.6% were married or living with a partner, 81.3% reported having a bachelor’s degree or higher, and 70.0% had an annual household income of $100K or greater. The mean length of infertility was 31.5 months (range of 3 to 168 months, SD=27.6, median=24). Those with months of infertility less than 12 were likely due to a previously identified diagnosis that required a clinical decision to pursue IVF without following traditional guidelines of waiting for 12 months of unprotected intercourse without success first. Most of the women reported only one IVF cycle (59.0%), a negative history of miscarriage (61.1%), and gave birth to a singleton (72.9%). PRAM mean score was 20.5 (range of 10–38, SD= 6.0, median=20.0).</p>
+      <table-wrap id="T1" position="float">
+        <label>Table 1.</label>
+        <caption>
+          <p>Sample characteristics</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <th align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>Characteristic</bold>
+              </th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>Frequency</bold>
+              </th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>%</bold>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>Married/Living with partner (n=144)</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">142</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">98.6%</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>Education level (n=144)</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  1: High school graduate or GED</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">3</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">2.1%</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  2: Trade/Technical school/Other</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">9</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">6.2%</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  3: Associate’s degree/Some college</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">15</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">10.4%</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  4: Bachelor’s degree</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">46</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">31.9%</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  5: Some graduate school</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">8</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">5.6%</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  6: Graduate/Professional degree</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">63</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">43.8%</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>Income (n=143)</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  1: Under $50,000</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">3</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">2.1%</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  2: $50,000–75,000</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">17</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">11.9%</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  3: $75,001–100,000</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">23</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">16.1%</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  4: $100,001–125,000</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">30</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">21.0%</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  5: $125,001–$150,000</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">15</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">10.5%</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  6: &gt; $150,000</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">55</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">38.5%</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>Ethnicity/Race (n=143)</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  0: Black/African American</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">3</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">2.1%</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  0: Asian</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">23</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">16.1%</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  0: Other</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">10</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">7.0%</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  1: White</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">107</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">74.8%</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  Hispanic/Latino (n=143)</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">11</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">8.0%</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>Miscarriage history (n=144)</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  0: No</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">88</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">61.1%</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  1: One miscarriage</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">28</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">26.4%</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  1: Two or miscarriages</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">18</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">12.5%</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>Twin pregnancy (n=144)</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  0: Singleton</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">105</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">72.9%</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  1: Twins</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">39</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">27.1%</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>Number of IVF cycles (n=144)</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  0: One cycle</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">85</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">59.0%</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  1: More than one cycle</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">59</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">41.0%</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>The LCA process yielded two groups that on average had similar levels on most items (age, number of IVF cycles, number of previous miscarriages, previous living children, gestational size, and use of laparoscopy, amniocentesis, and saline sonography). There were two items in which they differed, use of IUI and/or ovarian stimulation. This information was used to generate four exhaustive and mutually exclusive groups: Stim Only, Stim IUI, IUI only, or No Tx. ANOVA found that those in the Stim Only group had statistically significantly higher PRAM scores than the Stim IUI group (p=0.0036) and the No Tx group (p= 0.0013), and the IUI only group (p=0.05) (<xref ref-type="table" rid="T2">Table 2</xref>).</p>
+      <table-wrap id="T2" position="float">
+        <label>Table 2.</label>
+        <caption>
+          <p>LCA results</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <th rowspan="3" align="left" valign="middle" colspan="1"/>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>Neither IUI or Clomid (N)</bold>
+              </th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>IUI alone (I)</bold>
+              </th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>Clomid alone (C)</bold>
+              </th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>IUI and Clomid (IC)</bold>
+              </th>
+              <th rowspan="3" align="center" valign="middle" colspan="1">
+                <bold>Significant pairwise tests <sup><xref ref-type="table-fn" rid="TFN2">*</xref></sup></bold>
+              </th>
+            </tr>
+            <tr>
+              <th colspan="4" align="left" valign="middle" rowspan="1">
+                <hr/>
+              </th>
+            </tr>
+            <tr>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>N=52</bold>
+              </th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>6</bold>
+              </th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>15</bold>
+              </th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">
+                <bold>71</bold>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>Characteristic</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Age, in year (mean, sd)</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">33.4 (4.0)</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">37.8 (0.8)</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">30.7 (3.4)</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">33.8 (3.6)</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">N/SO, N/I, I/SI, SO/SI, SO/I</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Length of infertility, in months (mean, sd)</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">2.2 (2.3)</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">3.5 (4.0)</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">2.3 (1.9)</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">2.3 (2.4)</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">PRAM pregnancy-related anxiety score (mean, sd)</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">19.6 (5.6)</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">19.7 (4.1)</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">25.1 (7.5)</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">20.3 (5.7)</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">N/SO, SI/SO</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>Characteristic</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  Married/Living with partner (%)</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">98.1</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">100</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">100</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">98.6</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  Some graduate school or more (%)</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">42.3</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">100</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">53.3</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">59.2</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  Income at least $100,000</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">67.3</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">33.3</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">66.7</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">74.7</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  White ethnicity/Race</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">71.2</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">50.0</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">66.7</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">80.3</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>Miscarriage history</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  0: No</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">75.0</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">33.3</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">53.3</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">54.9</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  1: One miscarriage</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">15.4</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">16.7</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">20.0</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">36.6</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>Twin pregnancy</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  Twins</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">21.2</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">16.7</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">20.0</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">33.8</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">
+                <bold>Number of IVF cycles</bold>
+              </td>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">  One cycle</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">59.6</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">66.7</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">33.3</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">63.4</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1"/>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn id="TFN1">
+            <p>SD=Standard deviation; PRAM=Pregnancy-Related Anxiety Scale; N=No Tx, I=IUI only, SO=Stim only, SI=Stim IUI</p>
+          </fn>
+          <fn id="TFN2">
+            <p><sup>*</sup>Significant at p=0.05</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>The present study sought to understand if certain previous less invasive infertility treatments leading up to a successful IVF cycle were associated with increased pregnancy-related anxiety. Surprisingly, the findings showed that women with a history of stimulated only cycles (<italic>i.e</italic>. clomiphene citrate and intercourse) had more pregnancy-related anxiety following a successful IVF than women who had more complex previous treatment including IUI (with or without stimulation) or no treatment at all.</p>
+      <p>The subjects for this study were recruited from a very large Reproductive Endocrinology (RE) center that serviced a densely populated geographic area in the Northeast of the U.S. Typical care for women with fertility concerns was to initially be seen by their primary women’s care provider for evaluation and possible treatment which could often include an ovulation inducing medication such as clomiphene citrate (<xref rid="B14" ref-type="bibr">14</xref>). Sometimes, these medications are prescribed for several cycles without a comprehensive medical evaluation of the underlying condition, and following unsuccessful treatment the women are then referred on to the RE for complete evaluation and initiation of a comprehensive treatment plan. For some, a diagnosis of unexplained infertility is determined, which supports utilization of IVF instead of less invasive methods such as IUI with or without ovarian stimulation (<xref rid="B15" ref-type="bibr">15</xref>), therefore many of these women may not be treated with cycles that include IUI. While these women have a tangible treatment plan, those for whom no identifiable reason can be found for their infertility may be left with uncertainty about their status including the ability to maintain a health pregnancy.</p>
+      <p>Uncertainty in disease processes can have a significant role in how anxiety may manifest for individuals. The unpredictability associated with not having a definitive diagnosis plays an important role in determining emotional responses and can create a reaction of sustained anxiety instead of short-term fear (<xref rid="B16" ref-type="bibr">16</xref>). For women who are experiencing unexplained infertility, they have already had many unsuccessful natural cycles before even liaising with medical professionals. If they continue under the care of their primary women’s care provider, they will experience even more cycles before ultimately seeking evaluation from the RE. A comprehensive evaluation (<xref rid="B17" ref-type="bibr">17</xref>) that ultimately does not find an underlying cause of the infertility may contribute to the feeling of unpredictability. For those who ultimately achieve a pregnancy via IVF, they acknowledge that their pregnancy was very difficult to achieve and if something were to negatively occur, there is uncertainty they would be able to achieve another (<xref rid="B8" ref-type="bibr">8</xref>). Women pregnant after IVF report certain activities that underscore their belief about the fragility of the pregnancy including checking for vaginal bleeding often and the feeling of assurance after each normal ultrasound scan (<xref rid="B18" ref-type="bibr">18</xref>).</p>
+      <p>When examining other literature, the uncertainty of the diagnosis has been evaluated in women with infertility issues. In one study, researchers found that anxiety played a significant role for women with unexplained infertility going through treatment as compared to those with a definitive diagnosis (<xref rid="B19" ref-type="bibr">19</xref>) because of a reaction to the ambiguous medical situation with its uncertain prognosis. This anxiety can change throughout the evaluation and treatment process. Early on, the main anxiety was thought to be related to a physical inferiority complex, while later it was influenced by anxiety related to what others outside the family say about the inability to conceive and give birth to a child (<xref rid="B20" ref-type="bibr">20</xref>). In another study examining the psychological experience of infertility treatment over the course of several years, women experienced an acute stress response to the initial diagnosis and treatment plan. Emotional strain was higher during the first year, and then dropped in the second year. If treatment continued into year three, this strain markedly increased. Additionally, aspects of women’s personal relationship with partners were affected in the third year including negatively impacting marital adjustment and sexual satisfaction (<xref rid="B11" ref-type="bibr">11</xref>).</p>
+      <p>Not surprisingly, the ambiguity and uncertainty of unexplained infertility causes a higher level of anxiety, which has the potential to carry into the pregnancy. Once pregnant, women have more anxiety about whether the pregnancy will be successful (<xref rid="B21" ref-type="bibr">21</xref>, <xref rid="B22" ref-type="bibr">22</xref>). This may be because of a perception that their body is “broken” and may lead them to think that whatever was the roadblock to achieving a pregnancy will also affect the ability to have a successful birth outcome. In one qualitative study, women who had previous unsuccessful treatments were more focused on possible physical problems in the pregnancy (<xref rid="B23" ref-type="bibr">23</xref>).</p>
+      <p>Having a better understanding of risk factors for anxiety experienced by women undergoing infertility treatment who subsequently became pregnant has significant implications for improved clinical practice. For women still navigating the process of treatment, having a comprehensive understanding of how women navigate the evaluation and treatment process will help providers better meet the psychosocial needs of women, particularly those for whom no definitive cause of the infertility is found. It is important to appreciate that this study represented women who continued treatment through a successful IVF procedure. A substantial number of couples being treated for fertility will discontinue fertility care before achieving pregnancy with main contributing reasons for withdrawal including emotional distress and poor prognosis (<xref rid="B24" ref-type="bibr">24</xref>). Only half of women with infertility will receive the treatment that is needed to achieve a pregnancy. One significant contributor for this disparity is the discontinuation of care. Many will stop for reasons other than poor prognosis or the cost of treatment, but rather because of burden of treatment (<xref rid="B22" ref-type="bibr">22</xref>). The burden of treatment is so great for many women who ultimately decide to pursue other avenues such as adoption or child-free living. Based on the results of this study, it is clear that there is a level of anxiety that is tolerable to be able to continue treatment through a successful IVF cycle. Additional research is needed to uncover a potential threshold of acceptable anxiety, as well mediating and moderating factors that contribute to the experience of anxiety during the process of infertility treatment. Regardless, the evidence supports that despite the threshold, women who have only been treated with ovulation induction medications still have increases in anxiety about the resulting pregnancy following IVF.</p>
+      <p>This is an important consideration for those caring for women who become pregnant via IVF, as these patients may require additional emotional support during treatment. It has been suggested in the literature that patients who have IVF have their care experience improved by minimizing the burden associated with the process. First, patient vulnerability to anxiety and other negative psychosocial experiences can be improved with evidence-based screening for psychological distress at the start of treatment and when indicated, appropriate referral for support (<xref rid="B25" ref-type="bibr">25</xref>). Additionally, staff caring for women can reduce the potential for negative patient-staff interactions with increased staff training about issues in communication/interaction skills, promoting shared decision making (<xref rid="B25" ref-type="bibr">25</xref>, <xref rid="B26" ref-type="bibr">26</xref>).</p>
+      <p>This study had limitations that should be acknowledged. While current trends in clinical care support the notion that women have been treated with an ovulation induction medication such as clomiphene citrate prior to comprehensive evaluation with the RE, the study would have benefited from ascertaining the specific diagnosis of women reporting their pregnancy-specific anxiety and therefore could have been incorporated into the data analysis, thus strengthening the findings. Also, capturing the number of less invasive treatment cycles subjects had prior to utilizing IVF would help to add dimension to the understanding of this phenomena. Finally, as anxiety has been shown to fluctuate throughout pregnancy (<xref rid="B27" ref-type="bibr">27</xref>), measuring this variable over multiple time points would allow for elucidation of how women who are pregnant via IVF experience pregnancy anxiety more comprehensively.</p>
+    </sec>
+    <sec sec-type="conclusion">
+      <title>Conclusion</title>
+      <p>This study showed that the impact of previous less invasive infertility treatments prior to a successful IVF cycle was associated with increased pregnancy-related anxiety in the resulting pregnancy and women who had a history of stimulated only cycles (<italic>i.e</italic>. clomiphene citrate and intercourse) previous to their successful IVF had more pregnancy-related anxiety during their pregnancy conceived via IVF than those who had more complex previous treatment which included IUI (with or without stimulation) or no treatment at all. The understanding of the fact that the women who had only been previously treated with ovulation inducing medications without IUI helps understand the patient care experience such that better identification of those at risk for increased anxiety in pregnancy can be made, and an appropriate clinical response can be made for women who are experiencing increases in pregnancy-specific anxiety.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn>
+        <p>
+          <bold>Conflict of Interest</bold>
+        </p>
+        <p>Authors declare no conflict of interest.</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <label>1.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Stephen</surname><given-names>EH</given-names></name><name><surname>Chandra</surname><given-names>A</given-names></name><name><surname>King</surname><given-names>RB.</given-names></name></person-group>
+<article-title>Supply of and demand for assisted reproductive technologies in the United States: clinic- and population-based data, 1995–2010</article-title>. <source>Fertil Steril</source>. <year>2016</year>;<volume>105</volume>(<issue>2</issue>):<fpage>451</fpage>–<lpage>8</lpage>.<pub-id pub-id-type="pmid">26597629</pub-id></mixed-citation>
+      </ref>
+      <ref id="B2">
+        <label>2.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sunderam</surname><given-names>S</given-names></name><name><surname>Kissin</surname><given-names>DM</given-names></name><name><surname>Crawford</surname><given-names>SB</given-names></name><name><surname>Folger</surname><given-names>SG</given-names></name><name><surname>Jamieson</surname><given-names>DJ</given-names></name><name><surname>Barfield</surname><given-names>WD.</given-names></name></person-group>
+<article-title>Assisted reproductive technology surveillance-United States, 2011</article-title>. <source>MMWR Surveill Summ</source>. <year>2014</year>;<volume>63</volume>(<issue>10</issue>):<fpage>1</fpage>–<lpage>28</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B3">
+        <label>3.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sazonova</surname><given-names>A</given-names></name><name><surname>Källen</surname><given-names>K</given-names></name><name><surname>Thurin-Kjellberg</surname><given-names>A</given-names></name><name><surname>Wennerholm</surname><given-names>UB</given-names></name><name><surname>Bergh</surname><given-names>C.</given-names></name></person-group>
+<article-title>Obstetric outcome after in vitro fertilization with single or double embryo transfer</article-title>. <source>Hum Reprod</source>. <year>2011</year>;<volume>26</volume>(<issue>2</issue>):<fpage>442</fpage>–<lpage>50</lpage>.<pub-id pub-id-type="pmid">21126967</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <label>4.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wisborg</surname><given-names>K</given-names></name><name><surname>Ingerslev</surname><given-names>HJ</given-names></name><name><surname>Henriksen</surname><given-names>TB.</given-names></name></person-group>
+<article-title>In vitro fertilization and preterm delivery, low birth weight, and admission to the neonatal intensive care unit: a prospective follow-up study</article-title>. <source>Fertil Steril</source>. <year>2010</year>;<volume>94</volume> (<issue>6</issue>):<fpage>2102</fpage>–<lpage>6</lpage>.<pub-id pub-id-type="pmid">20188361</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <label>5.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Greil</surname><given-names>AL</given-names></name><name><surname>Slauson-Blevins</surname><given-names>K</given-names></name><name><surname>McQuillan</surname><given-names>J.</given-names></name></person-group>
+<article-title>The experience of infertility: a review of recent literature</article-title>. <source>Sociol Health Illn</source>. <year>2010</year>;<volume>32</volume>(<issue>1</issue>):<fpage>140</fpage>–<lpage>62</lpage>.<pub-id pub-id-type="pmid">20003036</pub-id></mixed-citation>
+      </ref>
+      <ref id="B6">
+        <label>6.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gana</surname><given-names>K</given-names></name><name><surname>Jakubowska</surname><given-names>S.</given-names></name></person-group>
+<article-title>Relationship between infertility-related stress and emotional distress and marital satisfaction</article-title>. <source>J Health Psychol</source>. <year>2016</year>;<volume>21</volume>(<issue>6</issue>):<fpage>1043</fpage>–<lpage>54</lpage>.<pub-id pub-id-type="pmid">25139894</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <label>7.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Olshansky</surname><given-names>EF.</given-names></name></person-group>
+<article-title>Psychosocial implications of pregnancy after infertility</article-title>. <source>NAACOGS Clin Issu Perinat Womens Health Nurs</source>. <year>1990</year>;<volume>1</volume>(<issue>3</issue>):<fpage>342</fpage>–<lpage>7</lpage>.<pub-id pub-id-type="pmid">2206754</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <label>8.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sandelowski</surname><given-names>M</given-names></name><name><surname>Harris</surname><given-names>BG</given-names></name><name><surname>Black</surname><given-names>BP.</given-names></name></person-group>
+<article-title>Relinquishing infertility: the work of pregnancy for infertile couples</article-title>. <source>Qual Health Res</source>. <year>1992</year>;<volume>2</volume>(<issue>3</issue>):<fpage>282</fpage>–<lpage>301</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B9">
+        <label>9.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gourounti</surname><given-names>K.</given-names></name></person-group>
+<article-title>Psychological stress and adjustment in pregnancy following assisted reproductive technology and spontaneous conception: A systematic review</article-title>. <source>Women Health</source>. <year>2016</year>;<volume>56</volume>(<issue>1</issue>):<fpage>98</fpage>–<lpage>118</lpage>.<pub-id pub-id-type="pmid">26212077</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <label>10.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wu</surname><given-names>AK</given-names></name><name><surname>Elliott</surname><given-names>P</given-names></name><name><surname>Katz</surname><given-names>PP</given-names></name><name><surname>Smith</surname><given-names>JF.</given-names></name></person-group>
+<article-title>Time costs of fertility care: the hidden hardship of building a family</article-title>. <source>Fertil Steril</source>. <year>2013</year>;<volume>99</volume>(<issue>7</issue>):<fpage>2025</fpage>–<lpage>30</lpage>.<pub-id pub-id-type="pmid">23454007</pub-id></mixed-citation>
+      </ref>
+      <ref id="B11">
+        <label>11.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Berg</surname><given-names>BJ</given-names></name><name><surname>Wilson</surname><given-names>JF.</given-names></name></person-group>
+<article-title>Psychological functioning across stages of treatment for infertility</article-title>. <source>J Behav Med</source>. <year>1991</year>;<volume>14</volume>(<issue>1</issue>):<fpage>11</fpage>–<lpage>26</lpage>.<pub-id pub-id-type="pmid">2038042</pub-id></mixed-citation>
+      </ref>
+      <ref id="B12">
+        <label>12.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mahajan</surname><given-names>NN</given-names></name><name><surname>Turnbull</surname><given-names>DA</given-names></name><name><surname>Davies</surname><given-names>MJ</given-names></name><name><surname>Jindal</surname><given-names>UN</given-names></name><name><surname>Briggs</surname><given-names>NE</given-names></name><name><surname>Taplin</surname><given-names>JE.</given-names></name></person-group>
+<article-title>Changes in affect and state anxiety across an in vitro fertilization/intracytoplasmic sperm injection cycle</article-title>. <source>Fertil Steril</source>. <year>2010</year>; <volume>93</volume>(<issue>2</issue>):<fpage>517</fpage>–<lpage>26</lpage>.<pub-id pub-id-type="pmid">19243748</pub-id></mixed-citation>
+      </ref>
+      <ref id="B13">
+        <label>13.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wadhwa</surname><given-names>PD</given-names></name><name><surname>Sandman</surname><given-names>CA</given-names></name><name><surname>Porto</surname><given-names>M</given-names></name><name><surname>Dunkel-Schetter</surname><given-names>C</given-names></name><name><surname>Garite</surname><given-names>TJ.</given-names></name></person-group>
+<article-title>The association between prenatal stress and infant birth weight and gestational age at birth: a prospective investigation</article-title>. <source>Am J Obstet Gynecol</source>. <year>1993</year>;<volume>169</volume>(<issue>4</issue>):<fpage>858</fpage>–<lpage>65</lpage>.<pub-id pub-id-type="pmid">8238139</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <label>14.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Check</surname><given-names>JH.</given-names></name></person-group>
+<article-title>A practical approach to diagnosing and treating infertility by the generalist in obstetrics and gynecology</article-title>. <source>Clin Exp Obstet Gynecol</source>. <year>2015</year>; <volume>42</volume>(<issue>4</issue>):<fpage>405</fpage>–<lpage>10</lpage>.<pub-id pub-id-type="pmid">26411200</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <label>15.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pandian</surname><given-names>Z</given-names></name><name><surname>Gibreel</surname><given-names>A</given-names></name><name><surname>Bhattacharya</surname><given-names>S.</given-names></name></person-group>
+<article-title>In vitro fertilisation for unexplained subfertility</article-title>. <source>Cochrane Database Syst Rev</source>. <year>2015</year>;<volume>11</volume>:<fpage>CD003357</fpage>.</mixed-citation>
+      </ref>
+      <ref id="B16">
+        <label>16.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Davies</surname><given-names>CD</given-names></name><name><surname>Craske</surname><given-names>MG.</given-names></name></person-group>
+<article-title>Psychophysiological responses to unpredictable threat: effects of cue and temporal unpredictability</article-title>. <source>Emotion</source>. <year>2015</year>;<volume>15</volume>(<issue>2</issue>): <fpage>195</fpage>–<lpage>200</lpage>.<pub-id pub-id-type="pmid">25603130</pub-id></mixed-citation>
+      </ref>
+      <ref id="B17">
+        <label>17.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Stevenson</surname><given-names>EL</given-names></name><name><surname>Hershberger</surname><given-names>PE</given-names></name><name><surname>Bergh</surname><given-names>PA.</given-names></name></person-group>
+<article-title>Evidence-Based Care for Couples With Infertility</article-title>. <source>J Obstet Gynecol Neonatal Nurs</source>. <year>2016</year>;<volume>45</volume>(<issue>1</issue>):<fpage>100</fpage>–<lpage>10</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B18">
+        <label>18.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hjelmstedt</surname><given-names>A</given-names></name><name><surname>Widstrom</surname><given-names>AM</given-names></name><name><surname>Collins</surname><given-names>A.</given-names></name></person-group>
+<article-title>Psychological correlates of prenatal attachment in women who conceived after in vitro fertilization and women who conceived naturally</article-title>. <source>Birth</source>. <year>2006</year>;<volume>33</volume>(<issue>4</issue>):<fpage>303</fpage>–<lpage>10</lpage>.<pub-id pub-id-type="pmid">17150069</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <label>19.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dhaliwal</surname><given-names>LK</given-names></name><name><surname>Gupta</surname><given-names>KR</given-names></name><name><surname>Gopalan</surname><given-names>S</given-names></name><name><surname>Kulhara</surname><given-names>P.</given-names></name></person-group>
+<article-title>Psychological aspects of infertility due to various causes--prospective study</article-title>. <source>Int J Fertil Womens Med</source>. <year>2004</year>;<volume>49</volume>(<issue>1</issue>):<fpage>44</fpage>–<lpage>8</lpage>.<pub-id pub-id-type="pmid">15038509</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <label>20.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chiba</surname><given-names>H</given-names></name><name><surname>Mori</surname><given-names>E</given-names></name><name><surname>Morioka</surname><given-names>Y</given-names></name><name><surname>Kashiwakura</surname><given-names>M</given-names></name><name><surname>Nadaoka</surname><given-names>T</given-names></name><name><surname>Saito</surname><given-names>H</given-names></name><etal/></person-group>
+<article-title>Stress of female infertility: relations to length of treatment</article-title>. <source>Gynecol Obstet Invest</source>. <year>1997</year>;<volume>43</volume>(<issue>3</issue>):<fpage>171</fpage>–<lpage>7</lpage>.<pub-id pub-id-type="pmid">9127130</pub-id></mixed-citation>
+      </ref>
+      <ref id="B21">
+        <label>21.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Darwiche</surname><given-names>J</given-names></name><name><surname>Lawrence</surname><given-names>C</given-names></name><name><surname>Vial</surname><given-names>Y</given-names></name><name><surname>Wunder</surname><given-names>D</given-names></name><name><surname>Stiefel</surname><given-names>F</given-names></name><name><surname>Germond</surname><given-names>M</given-names></name><etal/></person-group>
+<article-title>Anxiety and psychological stress before prenatal screening in first-time mothers who conceived through IVF/ICSI or spontaneously</article-title>. <source>Women Health</source>. <year>2014</year>;<volume>54</volume>(<issue>5</issue>):<fpage>474</fpage>–<lpage>85</lpage>.<pub-id pub-id-type="pmid">24794917</pub-id></mixed-citation>
+      </ref>
+      <ref id="B22">
+        <label>22.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McMahon</surname><given-names>CA</given-names></name><name><surname>Boivin</surname><given-names>J</given-names></name><name><surname>Gibson</surname><given-names>FL</given-names></name><name><surname>Hammarberg</surname><given-names>K</given-names></name><name><surname>Wynter</surname><given-names>K</given-names></name><name><surname>Saunders</surname><given-names>D</given-names></name><etal/></person-group>
+<article-title>Pregnancy-specific anxiety, ART conception and infant temperament at 4 months post-partum</article-title>. <source>Hum Reprod</source>. <year>2013</year>;<volume>28</volume> (<issue>4</issue>):<fpage>997</fpage>–<lpage>1005</lpage>.<pub-id pub-id-type="pmid">23427229</pub-id></mixed-citation>
+      </ref>
+      <ref id="B23">
+        <label>23.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dornelles</surname><given-names>LM</given-names></name><name><surname>MacCallum</surname><given-names>F</given-names></name><name><surname>Lopes</surname><given-names>RC</given-names></name><name><surname>Piccinini</surname><given-names>CA</given-names></name><name><surname>Passos</surname><given-names>EP.</given-names></name></person-group>
+<article-title>The experience of pregnancy resulting from Assisted Reproductive Technology (ART) treatment: A qualitative Brazilian study</article-title>. <source>Women Birth</source>. <year>2016</year>;<volume>29</volume>(<issue>2</issue>):<fpage>123</fpage>–<lpage>7</lpage>.<pub-id pub-id-type="pmid">26388215</pub-id></mixed-citation>
+      </ref>
+      <ref id="B24">
+        <label>24.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brandes</surname><given-names>M</given-names></name><name><surname>van der Steen</surname><given-names>JO</given-names></name><name><surname>Bokdam</surname><given-names>SB</given-names></name><name><surname>Hamilton</surname><given-names>CJ</given-names></name><name><surname>de Bruin</surname><given-names>JP</given-names></name><name><surname>Nelen</surname><given-names>WL</given-names></name><etal/></person-group>
+<article-title>When and why do subfertile couples discontinue their fertility care? A longitudinal cohort study in a secondary care subfertility population</article-title>. <source>Hum Reprod</source>. <year>2009</year>;<volume>24</volume> (<issue>12</issue>):<fpage>3127</fpage>–<lpage>35</lpage>.<pub-id pub-id-type="pmid">19783833</pub-id></mixed-citation>
+      </ref>
+      <ref id="B25">
+        <label>25.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gameiro</surname><given-names>S</given-names></name><name><surname>Boivin</surname><given-names>J</given-names></name><name><surname>Domar</surname><given-names>A.</given-names></name></person-group>
+<article-title>Optimal in vitro fertilization in 2020 should reduce treatment burden and enhance care delivery for patients and staff</article-title>. <source>Fertil Steril</source>. <year>2013</year>;<volume>100</volume>(<issue>2</issue>):<fpage>302</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="pmid">23830151</pub-id></mixed-citation>
+      </ref>
+      <ref id="B26">
+        <label>26.</label>
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Leonard</surname><given-names>J</given-names></name><name><surname>Stevenson</surname><given-names>EL.</given-names></name></person-group>
+<article-title>Team communication: critical in the care of the couple with fertility challenges</article-title>. In: <person-group person-group-type="editor"><name><surname>Stevenson</surname><given-names>EL</given-names></name><name><surname>Hershberger</surname><given-names>PE</given-names></name></person-group>, editors. <source>Fertility and Assisted Reproductive Technology (ART): Theory, practice, policy, and research for health care professionals</source>. <publisher-loc>New York, NY</publisher-loc>: <publisher-name>Springer Publishing Company</publisher-name>; <year>2016</year> p. <fpage>295</fpage>–<lpage>309</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B27">
+        <label>27.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hjelmstedt</surname><given-names>A</given-names></name><name><surname>Widström</surname><given-names>A</given-names></name><name><surname>Wramsby</surname><given-names>HM</given-names></name><name><surname>Collins</surname><given-names>A.</given-names></name></person-group>
+<article-title>Patterns of emotional responses to pregnancy, experience of pregnancy and attitudes to parenthood among IVF couples: a longitudinal study</article-title>. <source>J Psychosom Obstet Gynaecol</source>. <year>2003</year>;<volume>24</volume>(<issue>3</issue>):<fpage>153</fpage>–<lpage>62</lpage>.<pub-id pub-id-type="pmid">14584302</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record>

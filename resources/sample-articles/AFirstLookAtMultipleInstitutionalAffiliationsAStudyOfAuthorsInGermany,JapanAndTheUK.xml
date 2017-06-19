@@ -1,0 +1,662 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5362650</identifier><datestamp>2017-04-04</datestamp><setSpec>springeropen</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Scientometrics</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Scientometrics</journal-id>
+      <journal-title-group>
+        <journal-title>Scientometrics</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0138-9130</issn>
+      <publisher>
+        <publisher-name>Springer Netherlands</publisher-name>
+        <publisher-loc>Dordrecht</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5362650</article-id>
+      <article-id pub-id-type="pmcid">PMC5362650</article-id>
+      <article-id pub-id-type="pmc-uid">5362650</article-id>
+      <article-id pub-id-type="publisher-id">2257</article-id>
+      <article-id pub-id-type="doi">10.1007/s11192-017-2257-6</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A first look at multiple institutional affiliations: a study of authors in Germany, Japan and the UK</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hottenrott</surname>
+            <given-names>Hanna</given-names>
+          </name>
+          <address>
+            <email>hanna.hottenrott@tum.de</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Lawson</surname>
+            <given-names>Cornelia</given-names>
+          </name>
+          <address>
+            <email>c.lawson@bath.ac.uk</email>
+          </address>
+          <xref ref-type="aff" rid="Aff4">4</xref>
+          <xref ref-type="aff" rid="Aff5">5</xref>
+        </contrib>
+        <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ISNI">0000000123222966</institution-id><institution-id institution-id-type="GRID">grid.6936.a</institution-id><institution>TUM School of Management, </institution><institution>Technische Universität München, </institution></institution-wrap>Arcisstraße 21, 80333 Munich, Germany </aff>
+        <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0492 4665</institution-id><institution-id institution-id-type="GRID">grid.13414.33</institution-id><institution/><institution>Centre for European Economic Research (ZEW), </institution></institution-wrap>Mannheim, Germany </aff>
+        <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 0668 7884</institution-id><institution-id institution-id-type="GRID">grid.5596.f</institution-id><institution>Department of Managerial Economics, Strategy and Innovation, </institution><institution>K.U. Leuven, </institution></institution-wrap>Leuven, Belgium </aff>
+        <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2162 1699</institution-id><institution-id institution-id-type="GRID">grid.7340.0</institution-id><institution>School of Management, </institution><institution>University of Bath, </institution></institution-wrap>Quarry Rd, Bath, BA2 7AY UK </aff>
+        <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1756 2683</institution-id><institution-id institution-id-type="GRID">grid.454290.e</institution-id><institution>BRICK, </institution><institution>Collegio Carlo Alberto, </institution></institution-wrap>Moncalieri (TO), Italy </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>1</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>28</day>
+        <month>1</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <year>2017</year>
+      </pub-date>
+      <volume>111</volume>
+      <issue>1</issue>
+      <fpage>285</fpage>
+      <lpage>295</lpage>
+      <history>
+        <date date-type="received">
+          <day>25</day>
+          <month>8</month>
+          <year>2016</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© The Author(s) 2017</copyright-statement>
+        <license license-type="OpenAccess">
+          <license-p>
+<bold>Open Access</bold>This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.</license-p>
+        </license>
+      </permissions>
+      <abstract id="Abs1">
+        <p>This study sheds light on the unexplored phenomenon of multiple institutional affiliations using scientific publications. Institutional affiliations are important in the organisation and governance of science. Multiple affiliations may alter the traditional framework of academic employment and careers and may require a reappraisal of institutional assessment based on research outcomes of affiliated staff. Results for authors in three major science and technology nations (Germany, Japan and the UK) and in three fields (biology, chemistry, and engineering) show that multiple affiliations have at least doubled over the past few years. The analysis proposes three major types of multiple affiliations that depend on the structure of the research sector and its international openness. Highly internationalised and higher education-centred affiliations are most common for researchers in the UK whereas Germany and Japan have stronger cross-sector affiliation patterns. International multiple affiliations are, however, still more common in Germany compared to Japan which is characterised by a domestic, cross-sector affiliation distribution. Moreover, multiple affiliation authors are more often found on high impact papers, particularly in the case of authors from Japan and Germany in the fields of biology and chemistry.</p>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <title>Keywords</title>
+        <kwd>SCI</kwd>
+        <kwd>Multiple affiliations</kwd>
+        <kwd>Dual appointment</kwd>
+        <kwd>International collaboration</kwd>
+        <kwd>Science-industry collaboration</kwd>
+        <kwd>High-impact research</kwd>
+      </kwd-group>
+      <kwd-group xml:lang="--">
+        <title>JEL Classification</title>
+        <kwd>I23</kwd>
+        <kwd>J45</kwd>
+        <kwd>O30</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution-wrap>
+              <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/501100001659</institution-id>
+              <institution>Deutsche Forschungsgemeinschaft</institution>
+            </institution-wrap>
+          </funding-source>
+          <award-id>HO5390/1-1</award-id>
+          <principal-award-recipient>
+            <name>
+              <surname>Hottenrott</surname>
+              <given-names>Hanna</given-names>
+            </name>
+          </principal-award-recipient>
+        </award-group>
+        <award-group>
+          <funding-source>
+            <institution-wrap>
+              <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/501100001691</institution-id>
+              <institution>Japan Society for the Promotion of Science</institution>
+            </institution-wrap>
+          </funding-source>
+          <award-id>PE15033</award-id>
+          <principal-award-recipient>
+            <name>
+              <surname>Lawson</surname>
+              <given-names>Cornelia</given-names>
+            </name>
+          </principal-award-recipient>
+        </award-group>
+        <award-group>
+          <funding-source>
+            <institution-wrap>
+              <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/501100003484</institution-id>
+              <institution>Heinrich-Heine-Universität Düsseldorf</institution>
+            </institution-wrap>
+          </funding-source>
+          <award-id>SFF-F2014/626-15</award-id>
+          <principal-award-recipient>
+            <name>
+              <surname>Hottenrott</surname>
+              <given-names>Hanna</given-names>
+            </name>
+          </principal-award-recipient>
+        </award-group>
+        <award-group>
+          <funding-source>
+            <institution-wrap>
+              <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/501100000837</institution-id>
+              <institution>University of Nottingham</institution>
+            </institution-wrap>
+          </funding-source>
+          <award-id>ICF</award-id>
+          <principal-award-recipient>
+            <name>
+              <surname>Lawson</surname>
+              <given-names>Cornelia</given-names>
+            </name>
+          </principal-award-recipient>
+        </award-group>
+      </funding-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>issue-copyright-statement</meta-name>
+          <meta-value>© Akadémiai Kiadó, Budapest, Hungary 2017</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="Sec1" sec-type="introduction">
+      <title>Introduction</title>
+      <p>Recent literature has emphasised the importance of intra- as well as inter-institutional collaborations for academic research, which has been documented by the increase in team sizes and cross-institutional collaborations on co-authored papers (Adams et al. <xref ref-type="bibr" rid="CR1">2005</xref>; Wuchty et al. <xref ref-type="bibr" rid="CR18">2007</xref>; Jones et al. <xref ref-type="bibr" rid="CR8">2008</xref>). In this academic environment that promotes collaboration and mobility (Fernandez-Zubieta et al. <xref ref-type="bibr" rid="CR6">2016</xref>), multiple affiliations are increasingly recognised as facilitating knowledge exchange (ESF <xref ref-type="bibr" rid="CR5">2013</xref>) and have been said to become more widespread (Enders and Musselin <xref ref-type="bibr" rid="CR4">2008</xref>). Nonetheless, to date there has been little systematic assessment of the extent and patterns of these multiple affiliations, primarily due to the lack of sufficient bibliometric data which would allow for determining such links (Katz and Martin <xref ref-type="bibr" rid="CR11">1997</xref>).</p>
+      <p>There are several factors that may contribute to multiple affiliations. Individual scientists may seek affiliations to gain access to additional research resources or networks, as affiliation to an institution is closely linked to resource access, research infrastructure and career opportunities (Long <xref ref-type="bibr" rid="CR14">1978</xref>; Long and McGuinnis <xref ref-type="bibr" rid="CR15">1981</xref>; Fox <xref ref-type="bibr" rid="CR7">1983</xref>; Stephan <xref ref-type="bibr" rid="CR17">2012</xref>), but may also be motivated by personal financial benefits (Stephan <xref ref-type="bibr" rid="CR17">2012</xref>). While co-authorship can be an effective way of expanding a research group’s competencies, co-affiliation may constitute a way of forming stronger ties between researchers and institutions (ESF <xref ref-type="bibr" rid="CR5">2013</xref>). Lander (<xref ref-type="bibr" rid="CR12">2015</xref>) for instance, found some evidence that in the case of infection and immunity researchers in Canada multiple affiliations facilitate co-authorship. Co-affiliation may also reduce the (administrative) burden of using an institution’s research infrastructure compared to collaboration through co-authorship alone. Furthermore, researchers may seek additional affiliations to increase the visibility and geographic reach of their work, especially if they are placed in more peripheral regions or institutions.</p>
+      <p>On the institutional side, performance assessments have led universities across the globe to become more proactive in attracting the most prolific researchers in a bid to enhance their position in national and international rankings (Stephan <xref ref-type="bibr" rid="CR17">2012</xref>). Offering the option of additional affiliations to the most able researchers in a field may provide institutions with access to ‘frontline’ researchers (ESF <xref ref-type="bibr" rid="CR5">2013</xref>). For example, universities in China and Saudi Arabia created special part-time positions to attract leading foreign scholars to enhance their prestige and ranking, which saw an increase in papers from both countries, but with science that did not always originate there (Xin and Normile <xref ref-type="bibr" rid="CR19">2006</xref>; Bhattacharjee <xref ref-type="bibr" rid="CR2">2011</xref>). Affiliations are also offered by past employers in an effort to maintain links with alumni employees and may therefore constitute a direct consequence of increased mobility. Public, non-profit and private sector research centres moreover offer affiliations in order to foster mobility and facilitate research collaborations and knowledge exchange with the academic sector (ESF <xref ref-type="bibr" rid="CR5">2013</xref>).</p>
+      <p>The drivers (such as resource access, personal finances or institutional competition) and implications (such as collaboration or research advancement) of multiple affiliations likely differ by the type of affiliation under consideration, as well as by the institutional contexts in which these affiliations form. Thus, for any assessment of their potential implications, one first requires a better understanding of the forms that multiple affiliations take and how they differ between disciplines and countries with distinct science governance structures.</p>
+      <p>Addressing the current lack of evidence regarding multiple affiliations, this study proposes an analysis of institutional affiliations based on scientific publications that makes use of a new author-institution tag available in Web of Science (WoS) since 2008. The new tag allows us to unambiguously link authors to their institutions and to determine whether an author has multiple affiliations.<xref ref-type="fn" rid="Fn1">1</xref> We then analyse the types of multiple affiliations in terms of cross-sector and cross-country affiliations. Further, incorporating citation data we investigate the link between multiple affiliations and publication impact. Looking at authors in Germany, Japan and the UK (thus straddling three major science and technology nations) and in three fields (biology, chemistry, and engineering), our results demonstrate that multiple affiliations have increased over the past few years. Yet, the types of multiple affiliations depend on the structure of the research sector and its international openness.</p>
+      <p>While this analysis can only provide a first look at the extent and structure of multiple affiliations, we anticipate the findings will encourage more research into their contractual and organisational nature. We also hope to spur discussion regarding academic employment and affiliations that no longer require the day-to-day commitment of academics, with implications for institutional assessment (currently based on research outcomes of affiliated staff) and the funding of academic research, both nationally and internationally.</p>
+    </sec>
+    <sec id="Sec2">
+      <title>Data and methods</title>
+      <p>The data used in this study are author-institution pairs retrieved from Web of Science. First we select a set of journals based on the 2013 journal citation report (JCR, Thomson Reuters) in three fields: bioscience, chemistry, and engineering. Journals listed in the JCR are sorted by <italic>eigenfactor</italic> score, a rating of journal importance based on the number of incoming, journal-impact-weighted citations, that enables us to consider journals across all quality spectra. The bottom 50% of the <italic>eigenfactor</italic> distribution is discarded as they represent primarily national journals of little importance within the field. The remaining journals are split into four quartiles of the <italic>eigenfactor</italic> distribution for each scientific field and five journals are randomly drawn from each quartile, thus obtaining three samples of 20 journals by field, stratified by <italic>eigenfactor</italic> score. For each journal we check on a subsample of articles whether addresses are correctly listed and we drop and replace journals with any address inconsistencies. Documents published in each of the selected journals and with an address in one of the three selected countries (Germany, Japan and the UK) are downloaded from WoS for the years 2008–2014. The retrieval relies on author addresses as listed in WoS. Overall, we consider records of 13,827 bioscience articles, 12,155 chemistry articles and 5274 engineering articles.</p>
+      <p>Each author on the selected publications is attributed one or more institution based on the [C1] author address field in WoS. The [C1] field provides address information separately for each author and lists more than one address per author where this occurs. We split each publication record by author and address to build a table with author-institution lines. These author-institution records are checked for any address inconsistencies, i.e. whether address information is missing for one or more authors. Publications that do not report addresses for all their authors are excluded. The number of excluded publications is 1351, or 3.8% of all publications.</p>
+      <p>Only authors with at least one address in Germany, Japan or the UK are retained. In total we identify 36,035 authors with an address in Germany, 57,604 with an address in Japan, and 31,648 with an address in the UK. It is important to note that this study does not attempt to disambiguate author names and the same author can appear in the data multiple times. As the goal is to provide an application of the [C1] field for measuring multiple affiliations and to gain first insights and identify general trends, no author disambiguation was performed. However, results are robust to the deletion of all repeated names within one subject area and year, or to the deletion of all duplicate names in general.</p>
+      <p>All addresses appearing in the data are coded by institution type and country. In doing so, each institution is assigned a unique code to ensure that multiple addresses are truly different and to exclude multiple affiliations ‘within’ the same institution. The coding was undertaken semi-manually, meaning that a search algorithm first identified address entries containing word elements such as “UNIV” and marked these as universities. All entries were then checked manually and organisation names searched online to assign institution types.<xref ref-type="fn" rid="Fn2">2</xref> We not only coded institutions in the three countries of interest but also institutions in other countries if an author had a secondary affiliation there. In total we identified 4064 different institutions. These institutions were coded as belonging to the higher education sector (HEI),<xref ref-type="fn" rid="Fn3">3</xref> public or semi-governmental research institutes (PRO), non-profit research institutes (NGO), private sector institutions, government, or other institutions (such as industry associations).<xref ref-type="fn" rid="Fn4">4</xref> Each institution was moreover assigned a country code. The maximum number of affiliations at truly different institutions observed for one author is seven, while the maximum number of different institution types is three.</p>
+      <p>In addition, the number of citations received up to 31st March 2016 is collected for all articles in the sample to measure the impact of multiple affiliations. This means that we have different citation windows depending on the year of publication. As the citation count is highly field and year sensitive, we follow Lee et al. (<xref ref-type="bibr" rid="CR13">2015</xref>) and consider papers that are in the top 1% of citations in their field in each year (as of March 2016) as papers with high scientific impact. This alternative measure corrects for any year or subject bias of the pure citation count. Only 3163 authors in our sample appear on articles that are in the top 1%, we therefore also consider the top 10% as an alternative measure (21,139 authors). This method of determining impact may be preferable to pure citation counts as it is less sensitive to year and field differences.</p>
+    </sec>
+    <sec id="Sec3" sec-type="results">
+      <title>Results</title>
+      <sec id="Sec4">
+        <title>Trends in multiple affiliations</title>
+        <p>Table <xref rid="Tab1" ref-type="table">1</xref> shows the total number of authors reported on the selected publications by country and field, as well as the number and proportion of authors that report more than one institutional address. Of the more than 118,000 authors in the sample, 7.2% have more than one institution attached, with some differences across countries and subject areas.<xref ref-type="fn" rid="Fn5">5</xref> The proportion of authors with multiple institutional addresses is highest with more than 9% of authors in biology and chemistry in the case of Germany, and biology in the case of the UK. This already suggests some country and subject-specific differences regarding the extent of multiple affiliations.<table-wrap id="Tab1"><label>Table 1</label><caption><p>Number of authors by field, and number of authors with addresses in multiple institutions (based on author-publication pairs for the years 2008–2014)</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Country</th><th align="left">Subject</th><th align="left">No. of authors</th><th align="left">No. of authors with multiple affiliation</th><th align="left">Proportion (%)</th></tr></thead><tbody><tr><td align="left" rowspan="3">Japan</td><td align="left">Biology</td><td char="." align="char">34,294</td><td char="." align="char">1993</td><td char="." align="char">5.81</td></tr><tr><td align="left">Chemistry</td><td char="." align="char">18,242</td><td char="." align="char">1297</td><td char="." align="char">7.11</td></tr><tr><td align="left">Engineering</td><td char="." align="char">4273</td><td char="." align="char">350</td><td char="." align="char">8.19</td></tr><tr><td align="left" rowspan="3">Germany</td><td align="left">Biology</td><td char="." align="char">12,180</td><td char="." align="char">1183</td><td char="." align="char">9.71</td></tr><tr><td align="left">Chemistry</td><td char="." align="char">16,034</td><td char="." align="char">1480</td><td char="." align="char">9.23</td></tr><tr><td align="left">Engineering</td><td char="." align="char">5971</td><td char="." align="char">417</td><td char="." align="char">6.98</td></tr><tr><td align="left" rowspan="3">UK</td><td align="left">Biology</td><td char="." align="char">10,317</td><td char="." align="char">1050</td><td char="." align="char">10.18</td></tr><tr><td align="left">Chemistry</td><td char="." align="char">11,069</td><td char="." align="char">630</td><td char="." align="char">5.69</td></tr><tr><td align="left">Engineering</td><td char="." align="char">6355</td><td char="." align="char">355</td><td char="." align="char">5.59</td></tr><tr><td align="left">Total</td><td align="left"/><td char="." align="char">118,532</td><td char="." align="char">8553</td><td char="." align="char">7.22</td></tr></tbody></table></table-wrap>
+</p>
+        <p>Author-institution pairings are available from 2008 onwards which means that we can also observe whether there is a trend towards more institutional affiliations since then. Figure <xref rid="Fig1" ref-type="fig">1</xref> shows how the share of authors with more than one affiliation address evolved over the 2008–2014 period. We see an upward trend in multiple affiliations in all scientific fields and countries from about 5% in 2008 to 10% in 2014. For Japanese authors in bioscience, however, this increase only happened after 2012 and multiple affiliations are still lower than for bioscience authors in Germany and the UK.<fig id="Fig1"><label>Fig. 1</label><caption><p>Share of authors with multiple affiliations, 2008–2014, by country and field. <italic>Note</italic> Colour scheme from Bischof (<xref ref-type="bibr" rid="CR3">2016</xref>)</p></caption><graphic xlink:href="11192_2017_2257_Fig1_HTML" id="MO1"/></fig>
+</p>
+        <p>These results of a significant and growing proportion of authors with multiple affiliations also corroborate the increasing importance of studying multiple affiliations in the context of scientific research.</p>
+      </sec>
+      <sec id="Sec5">
+        <title>Main affiliations in the three countries</title>
+        <p>The research structure differs between the three countries and subject areas, and these differences are reflected in the types of institutions that publish academic research. Table <xref rid="Tab2" ref-type="table">2</xref> reports the different forms of institutional affiliations within the three countries for all 118,532 authors. For this purpose all multiple affiliations outside the focus country are excluded and only affiliations within each of the three countries considered. We observe, that most authors have their address within a HEI. This share is highest for authors in the UK, where 86% of authors have at least one address within a HEI.<xref ref-type="fn" rid="Fn6">6</xref> The share of authors with an address in a HEI is lowest in Germany (69%) and especially in engineering, where only 55% of authors are affiliated with a HEI. Outside the higher education sector authors are primarily affiliated to PROs. In Germany, PROs account for 22% of all author addresses, which has its root in a large non-academic public research sector in Germany. In Japan, PROs account for 12% and in the UK for just 3% of all authors. NGOs are an important affiliation only amongst bioscience authors in the UK, through institutions such as the Wellcome Trust. Here, they account for almost 8% of authors. Private sector authors are found mostly in engineering in Germany and Japan with more than 16% of authors, and in bioscience in Japan with 15%. In the UK they account for just 6% of authors. Government appears as a frequent affiliation amongst engineering and chemistry authors in Germany and the UK with 3–7% of authors.<table-wrap id="Tab2"><label>Table 2</label><caption><p>Author affiliations ‘within’ the three countries (in % of all authors)</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Country</th><th align="left">Discipline</th><th align="left">HEI</th><th align="left">PRO</th><th align="left">NGO</th><th align="left">Private</th><th align="left">Government</th><th align="left">Other</th></tr></thead><tbody><tr><td align="left" rowspan="3">Japan</td><td align="left">Bioscience</td><td align="left">75.62</td><td char="." align="char">11.10</td><td align="left">0.78</td><td char="." align="char">14.95</td><td align="left">0.84</td><td align="left">0.13</td></tr><tr><td align="left">Chemistry</td><td align="left">82.43</td><td char="." align="char">13.01</td><td align="left">1.13</td><td char="." align="char">6.34</td><td align="left">0.89</td><td align="left">0.13</td></tr><tr><td align="left">Engineering</td><td align="left">73.06</td><td char="." align="char">13.37</td><td align="left">0.82</td><td char="." align="char">16.57</td><td align="left">0.54</td><td align="left">0.21</td></tr><tr><td align="left" rowspan="3">Germany</td><td align="left">Bioscience</td><td align="left">72.50</td><td char="." align="char">24.80</td><td align="left">0.27</td><td char="." align="char">4.98</td><td align="left">1.35</td><td align="left">0.21</td></tr><tr><td align="left">Chemistry</td><td align="left">71.30</td><td char="." align="char">19.08</td><td align="left">0.81</td><td char="." align="char">8.15</td><td align="left">4.52</td><td align="left">0.04</td></tr><tr><td align="left">Engineering</td><td align="left">55.38</td><td char="." align="char">23.87</td><td align="left">1.09</td><td char="." align="char">16.65</td><td align="left">6.88</td><td align="left">0.02</td></tr><tr><td align="left" rowspan="3">UK</td><td align="left">Bioscience</td><td align="left">81.73</td><td char="." align="char">5.68</td><td align="left">7.57</td><td char="." align="char">4.37</td><td align="left">2.01</td><td align="left">0.10</td></tr><tr><td align="left">Chemistry</td><td align="left">87.51</td><td char="." align="char">1.97</td><td align="left">0.45</td><td char="." align="char">7.06</td><td align="left">3.84</td><td align="left">0.17</td></tr><tr><td align="left">Engineering</td><td align="left">90.07</td><td char="." align="char">2.03</td><td align="left">0.02</td><td char="." align="char">5.90</td><td align="left">2.91</td><td align="left">0.03</td></tr></tbody></table><table-wrap-foot><p>Row sums are larger than 100% as authors can belong to more than one institution type. Only addresses within the three countries are considered. Both, single and multiple affiliation authors are considered</p></table-wrap-foot></table-wrap>
+</p>
+        <p>The address breakdown by country and sector reflects the research activities of the various sectors in the three countries as well as the research structure. Higher publication participation amongst private sector authors in Japan and Germany compared to the UK suggests that more commonality between sectors and opportunities for joint research may exist there, which may also be conducive to multiple affiliations.</p>
+      </sec>
+      <sec id="Sec6">
+        <title>Cross-sector and international affiliations</title>
+        <p>Multiple affiliations can occur across all sectors. Figure <xref rid="Fig2" ref-type="fig">2</xref> reports the share of authors with two or more HEI affiliations, and HEI and selected cross-sector affiliations over all multiple affiliations by countries and fields, including affiliations with institutions abroad. Only the most common combinations are reported. Amongst UK authors, more than 60% with multiple affiliations have a cross-HEI affiliation, i.e. belong to two or more HEI, regardless of academic field. For authors with at least one address in Germany or Japan, this share is much lower at fewer than 40% of multiple afilliation authors. Instead, cross-sector affiliations, especially with PROs, are more often observed. This is reflective of the stronger public research sectors in the two countries, which also seems to extend into joint appointments. For UK authors, cross-affiliations with the non-governmental charity research sector (NGO) are of importance in the biosciences. The share of authors with joint HEI and private sector affiliations is highest in engineering (12%) and for authors in Japan (10%), that is, in those areas, where private sector publications are more often found. Multiple affiliations with other sectors, such as national and local government agencies are less often found. Also cross-affiliations that do not include at least one university are rarely observed. Only 5% of authors with multiple affiliations do not concern HEI authors.<fig id="Fig2"><label>Fig. 2</label><caption><p>Cross-sector affiliations as share of authors with multiple affiliations, by country and field. <italic>Note</italic> Bar sums can be larger than 100% as authors can belong to more than two institution types. Colour scheme from Bischof (<xref ref-type="bibr" rid="CR3">2016</xref>)</p></caption><graphic xlink:href="11192_2017_2257_Fig2_HTML" id="MO2"/></fig>
+</p>
+        <p>Additional affiliations can not only be in a different sector but also with an institution abroad. We propose to plot affiliations along their international and cross-sector dimensions, to quantify the difference in cross-affiliations between countries and fields. We do this by plotting the share of multiple affiliation authors with a cross-sector affiliation on the <italic>x</italic>-axis and the share of multiple affiliation authors with an international affiliation on the <italic>y</italic>-axis for each country and field combination.</p>
+        <p>Figure <xref rid="Fig3" ref-type="fig">3</xref> shows that cross-sector affiliations are more common amongst authors with at least one address in Japan or Germany, as already seen in Fig. <xref rid="Fig2" ref-type="fig">2</xref>. For authors with an address in Japan the domestic nature of multiple affiliations is particularly strong, while authors in Germany show slightly higher levels of internationalisation with 40–50% of multiple affiliations involving an institution abroad. Authors with at least one address in the UK, on the other hand, are characterised by little cross-sector but high international cross-affiliations. This means that authors in the UK primarily cross-affiliate with HEIs abroad. The graphical representation in Fig. <xref rid="Fig3" ref-type="fig">3</xref> thus shows that in this three-country – three-field analysis we can observe three classes of multiple affiliations: (A) a highly internationalised, HEI-centred affiliation distribution as represented by authors in the UK, (B) a balanced affiliation distribution as seen in Germany, and (C) a domestic, cross-sector affiliation distribution as seen in Japan.<fig id="Fig3"><label>Fig. 3</label><caption><p>Cross-sector and international cross-affiliations as share of authors with multiple affiliations, by country and field</p></caption><graphic xlink:href="11192_2017_2257_Fig3_HTML" id="MO3"/></fig>
+</p>
+      </sec>
+      <sec id="Sec7">
+        <title>Impact and multiple affiliations</title>
+        <p>Previous literature has linked collaboration to higher research quality and impact in terms of citations (Katz and Hicks <xref ref-type="bibr" rid="CR10">1997</xref>; Wuchty et al. <xref ref-type="bibr" rid="CR18">2007</xref>). Using publication level information regarding citations received up to 31st March 2016, we can investigate whether multiple affiliations too are associated with higher impact publications. One may expect a correlation between author numbers and multiple affiliations, and co-author numbers thus to act as confounding factor, however, there is no significant correlation between the two (6.51 vs. 6.50 authors, <italic>p</italic> &gt; 0.1), with the exception of chemistry in Japan and Germany.</p>
+        <p>Table <xref rid="Tab3" ref-type="table">3</xref> reports the differences in the number of citations and the share of top-impact papers between those with and without multiple affiliations. It shows that, in the case of Japan, authors with multiple affiliations have higher citation numbers and are more often found on top impact publications in bioscience and chemistry. In the case of Germany, only bioscience publications with multiple affiliation authors have statistically significantly more citations or top impact articles than those with single affiliation status. Finally, UK authors with multiple affiliations do not receive more citations or have more top 1% articles. They do, however, still publish more articles in the top 10% in bioscience and engineering, but not chemistry. These correlations suggest that for UK authors their primarily international affiliations are less associated with higher article impact. Bioscience and chemistry authors in Japan, on the other hand, show higher publication impact that may be due to their links with PROs, but may also represent funding relationships.<table-wrap id="Tab3"><label>Table 3</label><caption><p>Citation impact of authors with single versus multiple affiliations</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="2">Discipline</th><th align="left" rowspan="2">Country</th><th align="left" colspan="3">Citation numbers</th><th align="left" colspan="3">Top 1%-cited (in %)</th><th align="left" colspan="3">Top 10%-cited (in %)</th></tr><tr><th align="left">Single-affil</th><th align="left">Multi-affil</th><th align="left">
+<italic>t</italic> test</th><th align="left">Single-affil</th><th align="left">Multi-affil</th><th align="left">
+<italic>χ</italic>
+<sup>2</sup> test</th><th align="left">Single-affil</th><th align="left">Multi-affil</th><th align="left">
+<italic>χ</italic>
+<sup>2</sup> test</th></tr></thead><tbody><tr><td align="left" rowspan="3">Japan</td><td align="left">Bioscience</td><td char="." align="char">9.5</td><td char="." align="char">18.3</td><td align="left">***</td><td char="." align="char">0.8</td><td char="." align="char">4.3</td><td align="left">***</td><td char="." align="char">4.8</td><td char="." align="char">14.6</td><td align="left">***</td></tr><tr><td align="left">Chemistry</td><td char="." align="char">12.1</td><td char="." align="char">18.4</td><td align="left">***</td><td char="." align="char">0.7</td><td char="." align="char">1.2</td><td align="left">**</td><td char="." align="char">11.7</td><td char="." align="char">24.6</td><td align="left">***</td></tr><tr><td align="left">Engineering</td><td char="." align="char">6.0</td><td char="." align="char">6.7</td><td align="left"/><td char="." align="char">0.5</td><td char="." align="char">2.0</td><td align="left">***</td><td char="." align="char">9.7</td><td char="." align="char">11.4</td><td align="left"/></tr><tr><td align="left" rowspan="3">Germany</td><td align="left">Bioscience</td><td char="." align="char">26.0</td><td char="." align="char">34.8</td><td align="left">***</td><td char="." align="char">5.9</td><td char="." align="char">11.9</td><td align="left">***</td><td char="." align="char">25.5</td><td char="." align="char">38.5</td><td align="left">***</td></tr><tr><td align="left">Chemistry</td><td char="." align="char">19.5</td><td char="." align="char">21.6</td><td align="left"/><td char="." align="char">2.3</td><td char="." align="char">2.8</td><td align="left"/><td char="." align="char">23.1</td><td char="." align="char">31.9</td><td align="left">***</td></tr><tr><td align="left">Engineering</td><td char="." align="char">6.9</td><td char="." align="char">6.7</td><td align="left"/><td char="." align="char">0.3</td><td char="." align="char">0.0</td><td align="left"/><td char="." align="char">12.1</td><td char="." align="char">13.4</td><td align="left"/></tr><tr><td align="left" rowspan="3">UK</td><td align="left">Bioscience</td><td char="." align="char">35.5</td><td char="." align="char">33.0</td><td align="left"/><td char="." align="char">10.0</td><td char="." align="char">9.9</td><td align="left"/><td char="." align="char">35.5</td><td char="." align="char">40.7</td><td align="left">***</td></tr><tr><td align="left">Chemistry</td><td char="." align="char">20.9</td><td char="." align="char">17.5</td><td align="left">**</td><td char="." align="char">2.2</td><td char="." align="char">1.1</td><td align="left">*</td><td char="." align="char">25.6</td><td char="." align="char">27.0</td><td align="left"/></tr><tr><td align="left">Engineering</td><td char="." align="char">8.0</td><td char="." align="char">8.3</td><td align="left"/><td char="." align="char">1.2</td><td char="." align="char">2.0</td><td align="left"/><td char="." align="char">14.2</td><td char="." align="char">19.7</td><td align="left">***</td></tr></tbody></table><table-wrap-foot><p>*** (**, *) indicate significance levels of 1% (5%, 10%) using a <italic>t</italic>-test or a <italic>χ</italic>
+<sup>2</sup> test. Significance levels remain in ANOVAs that control for author counts</p></table-wrap-foot></table-wrap>
+</p>
+      </sec>
+    </sec>
+    <sec id="Sec8" sec-type="conclusion">
+      <title>Conclusion</title>
+      <p>This paper studied multiple affiliations of authors in research publications. Results for three scientific fields (biology, chemistry and engineering) and three countries (Germany, Japan and the UK) showed that multiple affiliations are widespread and have increased in all fields and countries during the period 2008–2014.</p>
+      <p>We found that multiple affiliations reflect the dynamics of the research sector in specific countries and proposed a classification of the cross-sector and international dimension of author affiliations. To summarise, we find three types of multiple affiliations that can be classified as (A) a highly internationalised, HEI centred affiliation distribution as represented by researchers in the UK, (B) a balanced affiliation distribution as seen in Germany, and (C) a domestic, cross-sector affiliation distribution as seen in Japan. These results suggest that cross-sector affiliations are highest in countries and fields with a large non-university research sector, while cross-country affiliations are highest in countries with an international research base. An analysis of other countries may find additional types. However, the occurrence of low cross-sector affiliations paired with low internationalisation, that is, where academic authors are primarily affiliated with other domestic universities, may be limited by academic employment contracts which generally still limit such arrangements.</p>
+      <p>These observed differences have consequences for the types of networking that can be achieved through multiple affiliations in different countries. For example, international affiliations may help to preserve links to ‘frontline’ research institutions, while cross-sector affiliations may be more conducive to knowledge transfer and mobility between sectors (ESF <xref ref-type="bibr" rid="CR5">2013</xref>). Our results did, however, show that most multiple affiliations of academics are with other universities or with PROs, including in the cases of Japan and Germany. The role of multiple affiliations as a facilitator for knowledge transfer between distinct sectors (ESF <xref ref-type="bibr" rid="CR5">2013</xref>) may therefore be rather limited.</p>
+      <p>We also find some evidence that multiple affiliation authors are more often found on high impact papers. This complements existing findings of a positive correlation between collaboration and citations (Katz and Hicks <xref ref-type="bibr" rid="CR10">1997</xref>; Wuchty et al. <xref ref-type="bibr" rid="CR18">2007</xref>). Regardless of author team size, citation numbers are higher for authors with multiple affiliations in the biosciences and chemistry in Japan and Germany. In the UK, however, we only find smaller correlations. Resource access considerations may thus be the driver for multiple affiliations in Germany and Japan, while in the UK this may not be the case as they may simply have less to gain from additional affiliation due to their already higher citation numbers.</p>
+      <p>Nevertheless, several limitations apply. For example, this analysis does not determine whether the association between citations and affiliations found in Japan and Germany is driven by the affiliation itself, through access to human or other resources, or whether perhaps more able academics are more likely to engage in additional affiliations. To investigate these causal relationships, more information on individual authors is required. Moreover, it is not clear how well publication data can capture multiple affiliations. While institutions may encourage researchers to list them, this may be dependent on the rewards offered. Authors may also take strategic decisions regarding the affiliations they list, depending on the journal or the type of research undertaken. A longitudinal study of authors is therefore encouraged to uncover authors’ choices regarding institution address selection. It is further not clear from publication data what the nature of multiple affiliations is, i.e. whether they are due to second appointments, visiting periods, research funding, or other types of arrangements. We also cannot be certain about an author’s home institution when multiple addresses are listed. This may affect the interpretation of some of the findings as foreign university researchers could be affiliating with PROs, private sector institutions or others in one of the three countries in this analysis. Publications may also not represent the preferred dissemination method for academic authors that are also affiliated with the private or government sector. These may rely on alternative dissemination channels such as reports and thus not be captured through publications in top field journals.</p>
+      <p>Regardless, our results document multiple affiliations as another factor in the international and inter-institutional collaboration of academic research as well as its correlation with high impact research. These insights thus contribute to the discussion about increases in team sizes and cross-institutional collaborations on co-authored papers (Adams et al. <xref ref-type="bibr" rid="CR1">2005</xref>; Wuchty et al. <xref ref-type="bibr" rid="CR18">2007</xref>; Jones et al. <xref ref-type="bibr" rid="CR8">2008</xref>).</p>
+      <p>The findings also have direct implications for research policy. On the one hand there are multiple affiliations that work as a reallocation mechanism between institutions, which may benefit resource use efficiency, knowledge exchange and collaboration, and should therefore be encouraged. On the other hand there are assessment- or income-driven affiliations, which could give rise to institutions that act purely as a PO-Box for researchers with little or no actual research undertaken there. Such affiliations can distort institutional performance measures and rankings and have ethical implications, due to a lack of research contribution from the additional institution (Safaei et al. <xref ref-type="bibr" rid="CR16">2016</xref>). Multiple affiliations may also reflect (or may be a symptom of) a decline of institutional support for academics, especially regarding resource constraints in university-based research or the casualisation of the academic profession, which require academics to seek resources and work roles outside their main institution. We therefore encourage more research into multiple affiliations in other country and field contexts, and are confident that our analysis will encourage a discourse regarding their scientific and institutional impact.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn id="Fn1">
+        <label>1</label>
+        <p>This tag has previously been used by Lander (<xref ref-type="bibr" rid="CR12">2015</xref>) to determine multiple affiliations amongst infection and immunity researchers in Vancouver, Canada.</p>
+      </fn>
+      <fn id="Fn2">
+        <label>2</label>
+        <p>Coding of institution types in Japan additionally made use of WoS address dictionaries provided by the National Institute of Science and Technology Policy (NISTEP) (<ext-link ext-link-type="uri" xlink:href="http://www.nistep.go.jp">http://www.nistep.go.jp</ext-link>).</p>
+      </fn>
+      <fn id="Fn3">
+        <label>3</label>
+        <p>In the case of Japan this denotes national, regional (public) and private universities; in Germany it includes universities, technical universities and universities of applied sciences (UAS).</p>
+      </fn>
+      <fn id="Fn4">
+        <label>4</label>
+        <p>Hospitals were assigned to one of the institution types depending on their organisational structure. The majority were university teaching hospitals and thus assigned to HEI.</p>
+      </fn>
+      <fn id="Fn5">
+        <label>5</label>
+        <p>The shares are higher at 12% if we consider multiple affiliations within the same institution. However, such intra-institutional multiple affiliations are not the focus of this analysis.</p>
+      </fn>
+      <fn id="Fn6">
+        <label>6</label>
+        <p>This share is higher than previous research by Katz and Hicks (<xref ref-type="bibr" rid="CR9">1996</xref>) suggested. The difference may be due to changes in the UK public research sector organisation, where many previously independent research council laboratories and hospitals have experienced a closer integration with universities.</p>
+      </fn>
+    </fn-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We are grateful for comments from Reiner Grundmann, Heike Jons, Francesco Lissoni, Sotaro Shibayama and Paula Stephan provided during the preparation of this research. Thanks are also due to participants of the LEI-BRICK Workshop (Torino), the BMBF workshop (Kassel), the BEWIP Seminar (TU München), APIC (Fukuoka) and a NISTEP Seminar. The authors acknowledge financial support through a Grant by the DFG (HO5390/1-1), a JSPS postdoctoral fellowship grant (PE15033), a University of Düsseldorf Strategic Research Fund (SFF-F2014/626-15) and a University of Nottingham International Collaboration Fund.</p>
+    </ack>
+    <ref-list id="Bib1">
+      <title>References</title>
+      <ref id="CR1">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Adams</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Black</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Clemmons</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Stephan</surname>
+              <given-names>PE</given-names>
+            </name>
+          </person-group>
+          <article-title>Scientific teams and institutional collaborations: Evidence from U.S. universities, 1981–1999</article-title>
+          <source>Research Policy</source>
+          <year>2005</year>
+          <volume>34</volume>
+          <fpage>259</fpage>
+          <lpage>285</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.respol.2005.01.014</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR2">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bhattacharjee</surname>
+              <given-names>Y</given-names>
+            </name>
+          </person-group>
+          <article-title>Saudi universities offer cash in exchange for academic prestige</article-title>
+          <source>Science</source>
+          <year>2011</year>
+          <volume>334</volume>
+          <fpage>1244</fpage>
+          <lpage>1355</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR3">
+        <mixed-citation publication-type="other">Bischof, D. (2016). BLINDSCHEMES: Stata module to provide graph schemes sensitive to color vision deficiency. <italic>Statistical Software Components S458251</italic>. Chestnut Hill, MA: Boston College.</mixed-citation>
+      </ref>
+      <ref id="CR4">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Enders</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Musselin</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <collab>OECD</collab>
+          </person-group>
+          <article-title>Back to the future? the academic professions in the 21st century</article-title>
+          <source>Higher education to 2030, vol 1 demography</source>
+          <year>2008</year>
+          <publisher-loc>Paris</publisher-loc>
+          <publisher-name>OECD</publisher-name>
+          <fpage>125</fpage>
+          <lpage>150</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR5">
+        <mixed-citation publication-type="other">ESF (2013). New concepts of researcher mobility—a comprehensive approach including combined/part-time positions. <italic>Science Policy Briefing 49</italic>. Strasbourg: European Science Foundation.</mixed-citation>
+      </ref>
+      <ref id="CR6">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fernandez-Zubieta</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Geuna</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Lawson</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Productivity pay-offs from academic mobility: Should I stay or should I go?</article-title>
+          <source>Industrial and Corporate Change</source>
+          <year>2016</year>
+          <volume>25</volume>
+          <fpage>91</fpage>
+          <lpage>114</lpage>
+          <pub-id pub-id-type="doi">10.1093/icc/dtv034</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR7">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fox</surname>
+              <given-names>MF</given-names>
+            </name>
+          </person-group>
+          <article-title>Publication productivity among scientists: A critical review</article-title>
+          <source>Social Studies of Science</source>
+          <year>1983</year>
+          <volume>13</volume>
+          <fpage>283</fpage>
+          <lpage>305</lpage>
+          <pub-id pub-id-type="doi">10.1177/030631283013002005</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR8">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jones</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Wuchty</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Uzzi</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Multi-university research teams: Shifting impact, geography, and stratification in science</article-title>
+          <source>Science</source>
+          <year>2008</year>
+          <volume>322</volume>
+          <fpage>1259</fpage>
+          <lpage>1262</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.1158357</pub-id>
+          <pub-id pub-id-type="pmid">18845711</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR9">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Katz</surname>
+              <given-names>JS</given-names>
+            </name>
+            <name>
+              <surname>Hicks</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Where is science going?</article-title>
+          <source>Science, Technology and Human Values</source>
+          <year>1996</year>
+          <volume>21</volume>
+          <fpage>379</fpage>
+          <lpage>406</lpage>
+          <pub-id pub-id-type="doi">10.1177/016224399602100401</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR10">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Katz</surname>
+              <given-names>JS</given-names>
+            </name>
+            <name>
+              <surname>Hicks</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>How much is collaboration worth? a calibrated bibliometric model</article-title>
+          <source>Scientometrics</source>
+          <year>1997</year>
+          <volume>40</volume>
+          <fpage>541</fpage>
+          <lpage>554</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF02459299</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR11">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Katz</surname>
+              <given-names>JS</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>BR</given-names>
+            </name>
+          </person-group>
+          <article-title>What is research collaboration?</article-title>
+          <source>Research Policy</source>
+          <year>1997</year>
+          <volume>26</volume>
+          <fpage>1</fpage>
+          <lpage>18</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0048-7333(96)00917-1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR12">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lander</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Proximity at a distance: The role of institutional and geographical proximities in Vancouver’s infection and immunity research collaborations</article-title>
+          <source>Industry and Innovation</source>
+          <year>2015</year>
+          <volume>22</volume>
+          <fpage>575</fpage>
+          <lpage>596</lpage>
+          <pub-id pub-id-type="doi">10.1080/13662716.2015.1104242</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR13">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>Y-N</given-names>
+            </name>
+            <name>
+              <surname>Walsh</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Creativity in scientific teams: Unpacking novelty and impact</article-title>
+          <source>Research Policy</source>
+          <year>2015</year>
+          <volume>44</volume>
+          <fpage>684</fpage>
+          <lpage>697</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.respol.2014.10.007</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR14">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Long</surname>
+              <given-names>JS</given-names>
+            </name>
+          </person-group>
+          <article-title>Productivity and academic position in the scientific career</article-title>
+          <source>American Sociological Review</source>
+          <year>1978</year>
+          <volume>43</volume>
+          <fpage>889</fpage>
+          <lpage>908</lpage>
+          <pub-id pub-id-type="doi">10.2307/2094628</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR15">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Long</surname>
+              <given-names>JS</given-names>
+            </name>
+            <name>
+              <surname>McGuinnis</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Organizational context and scientific productivity</article-title>
+          <source>American Sociological Review</source>
+          <year>1981</year>
+          <volume>46</volume>
+          <fpage>422</fpage>
+          <lpage>442</lpage>
+          <pub-id pub-id-type="doi">10.2307/2095262</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR16">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Safaei</surname>
+              <given-names>MR</given-names>
+            </name>
+            <name>
+              <surname>Goodarzi</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Mahian</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Dahari</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Wongwises</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>A survey of using multiple affiliations by scholars in scientific articles</article-title>
+          <source>Scientometrics</source>
+          <year>2016</year>
+          <volume>107</volume>
+          <fpage>317</fpage>
+          <lpage>318</lpage>
+          <pub-id pub-id-type="doi">10.1007/s11192-016-1875-8</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR17">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stephan</surname>
+              <given-names>PE</given-names>
+            </name>
+          </person-group>
+          <source>How economics shapes science</source>
+          <year>2012</year>
+          <publisher-loc>Cambridge, MA</publisher-loc>
+          <publisher-name>Harvard University Press</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR18">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wuchty</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Uzzi</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>The increasing dominance of teams in the production of knowledge</article-title>
+          <source>Science</source>
+          <year>2007</year>
+          <volume>316</volume>
+          <fpage>1036</fpage>
+          <lpage>1039</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.1136099</pub-id>
+          <pub-id pub-id-type="pmid">17431139</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR19">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xin</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Normile</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Frustrations mount over China’s high-priced hunt for trophy professors</article-title>
+          <source>Science</source>
+          <year>2006</year>
+          <volume>313</volume>
+          <fpage>1721</fpage>
+          <lpage>1723</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.313.5794.1721</pub-id>
+          <pub-id pub-id-type="pmid">16990526</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record>

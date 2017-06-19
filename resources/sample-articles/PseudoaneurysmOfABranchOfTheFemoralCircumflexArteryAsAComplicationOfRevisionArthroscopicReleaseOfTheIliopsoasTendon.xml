@@ -1,0 +1,275 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5360095</identifier><datestamp>2017-04-04</datestamp><setSpec>sicotj</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="case-report">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">SICOT J</journal-id>
+      <journal-id journal-id-type="iso-abbrev">SICOT J</journal-id>
+      <journal-id journal-id-type="publisher-id">sicotj</journal-id>
+      <journal-title-group>
+        <journal-title>SICOT-J</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2426-8887</issn>
+      <publisher>
+        <publisher-name>EDP Sciences</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5360095</article-id>
+      <article-id pub-id-type="pmcid">PMC5360095</article-id>
+      <article-id pub-id-type="pmc-uid">5360095</article-id>
+      <article-id pub-id-type="pmid">28322718</article-id>
+      <article-id pub-id-type="doi">10.1051/sicotj/2017012</article-id>
+      <article-id pub-id-type="publisher-id">sicotj160158</article-id>
+      <article-id pub-id-type="other">10.1051/sicotj/2017012</article-id>
+      <article-categories>
+        <subj-group subj-group-type="section">
+          <subject>Hip</subject>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+          <subject>Case Report</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Pseudoaneurysm of a branch of the femoral circumflex artery as a complication of revision arthroscopic release of the iliopsoas tendon</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Nakano</surname>
+            <given-names>Naoki</given-names>
+          </name>
+          <xref ref-type="aff" rid="AFF1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lisenda</surname>
+            <given-names>Laughter</given-names>
+          </name>
+          <xref ref-type="aff" rid="AFF1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Khanduja</surname>
+            <given-names>Vikas</given-names>
+          </name>
+          <xref ref-type="aff" rid="AFF1">1</xref>
+          <xref ref-type="corresp" rid="FN1">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="AFF1">
+        <label>1</label>
+        <addr-line>
+Department of Trauma and Orthopaedics, Addenbrooke’s Hospital, Cambridge University Hospitals NHS Foundation Trust Hills Road Cambridge
+CB2 0QQ UK
+</addr-line>
+      </aff>
+      <author-notes>
+        <corresp id="FN1"><label>*</label>Corresponding author: <email>vk279@cam.ac.uk</email></corresp>
+      </author-notes>
+      <pub-date date-type="collection" publication-format="electronic">
+        <year>2017</year>
+      </pub-date>
+      <pub-date date-type="pub" publication-format="electronic">
+        <day>22</day>
+        <month>3</month>
+        <year>2017</year>
+      </pub-date>
+      <volume>3</volume>
+      <issue-id pub-id-type="publisher-id">sicotj/2017/01</issue-id>
+      <elocation-id>26</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>03</day>
+          <month>12</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>13</day>
+          <month>2</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© The Authors, published by EDP Sciences, 2017</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <copyright-holder>The Authors</copyright-holder>
+        <license license-type="open-access">
+          <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Treatment of painful internal snapping hip via arthroscopic release of the iliopsoas tendon is becoming the preferred option over open techniques because of the benefits of minimal dissection and fewer complications. However, complications do occur with arthroscopic techniques as well. We present the case of a 33-year-old woman who presented with painful internal snapping of her right hip and underwent arthroscopic release of the iliopsoas tendon. Following the procedure she continued to complain of pain in her groin and was therefore investigated further with a magnetic resonance imaging (MRI) which revealed a swelling near the femoral circumflex vessels. A computed tomography (CT) angiogram revealed a 15 mm pseudoaneurysm of the femoral circumflex artery, which was successfully treated by selective catheterisation and embolisation. Hip arthroscopists should be sufficiently familiar with the vascular anatomy around the hip and keep this complication in mind when releasing the iliopsoas tendon arthroscopically especially in revision cases with adhesions.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Pseudoaneurysm</kwd>
+        <kwd>Femoral circumflex artery</kwd>
+        <kwd>Arthroscopic iliopsoas tendon release</kwd>
+        <kwd>Iliopsoas snapping</kwd>
+        <kwd>Embolisation</kwd>
+      </kwd-group>
+      <counts>
+        <fig-count count="4"/>
+        <table-count count="0"/>
+        <equation-count count="0"/>
+        <ref-count count="12"/>
+        <page-count count="4"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="S1">
+      <title>Introduction</title>
+      <p>Internal snapping of the hip occurs when the iliopsoas tendon snaps over the iliopectineal eminence or across the femoral head as the hip is brought from flexion, abduction and external rotation to extension. If non-operative treatment, which includes physiotherapy to stretch the muscle, fails then open or arthroscopic release of the iliopsoas tendon has been described as being effective in relieving the snapping sensation, reducing pain and restoring function [<xref rid="R1" ref-type="bibr">1</xref>]. Complications from open procedures such as transient sensory loss in the anterolateral aspect of the thigh have been reported to occur with high frequency [<xref rid="R2" ref-type="bibr">2</xref>], thus, arthroscopic release of the iliopsoas tendon was introduced as an adjunct to hip arthroscopy for operative treatment of this problem [<xref rid="R1" ref-type="bibr">1</xref>, <xref rid="R3" ref-type="bibr">3</xref>]. Arthroscopic release of the iliopsoas consists of dividing the tendinous portion of the iliopsoas between the level of the acetabulum and the lesser trochanter, which leads to functional lengthening of the musculotendinous unit while leaving the muscle belly intact, and it has been shown to effectively alleviate pain associated with internal snapping of the hip [<xref rid="R1" ref-type="bibr">1</xref>, <xref rid="R2" ref-type="bibr">2</xref>].</p>
+      <p>Except for persistent snapping after release, complications following arthroscopic release of the iliopsoas tendon have not been reported thus far [<xref rid="R4" ref-type="bibr">4</xref>]. In this report, we present a rare case of a pseudoaneurysm, which occurred in the femoral circumflex artery after arthroscopic release of the iliopsoas tendon.</p>
+    </sec>
+    <sec id="S2">
+      <title>Case presentation</title>
+      <p>A 33-year-old woman was referred to our tertiary young adult hip service for evaluation of right hip pain, which had been affecting her for over six months along with mechanical symptoms of snapping. She had undergone an arthroscopy of her hip previously for an acetabular labral tear and recovered well following the same. She did not report of any definite history of injury, which had led to the onset of her symptoms.</p>
+      <p>The examination of her right hip revealed that she had a normal gait, and flexion was limited to 90°. Internal rotation in 90°of flexion was limited to 20° and external rotation in 90°of flexion was 40°. The impingement test was positive and there was definite snapping palpable in the groin on extending her hip from a flexed and abducted position, which was painful. Dorsalis pedis was well palpable. Plain radiographs did not reveal any signs of dysplasia and showed a well-preserved joint space. A dynamic ultrasound scan showed that the iliopsoas tendon snapped as she extended her hip from flexed and externally rotated position.</p>
+      <p>Physiotherapy to stretch her iliopsoas and an ultrasound guided injection of steroid was not quite successful and since she was quite symptomatic, revision arthroscopic intervention was planned. At arthroscopy, the labrum was frayed and therefore debrided but was stable and the iliopsoas was released from the peripheral compartment via the transcapsular approach. Whilst dissecting the iliopsoas tendon, a gush of blood was found, and the oozing channel was coagulated with the radiofrequency probe. After 20 min of the pressure dressing, there was no further ooze found. There was also no evidence of any distal vascular deficit, and the Doppler showed a good pulse at the dorsalis pedis and the posterior tibial artery.</p>
+      <p>However, two weeks following the procedure, she still had an uncomfortable feeling in her right hip. A magnetic resonance imaging (MRI) scan was arranged which showed a 20 mm reasonably well-defined focus of abnormal signal immediately medial to the psoas tendon just proximal to its insertion, which was consistent with a haematoma. An angiogram showed that there was a 15 mm pseudoaneurysm in the right groin, which arose from a circumflex femoral branch that arose directly from the posterior aspect of the femoral circumflex artery, immediately proximal to the profunda bifurcation (<xref ref-type="fig" rid="F1">Figure 1</xref>). She underwent selective catheterisation and embolisation with micro coils (<xref ref-type="fig" rid="F2">Figure 2</xref>). The aneurysm was accessed from the left common femoral artery by retrograde puncture, and 4Fr sheath was used. Following embolisation, she was asymptomatic and a repeat X-ray, computed tomography (CT) (<xref ref-type="fig" rid="F3">Figure 3</xref>) and MRI showed satisfactory embolisation of the pseudoaneurysm with preservation of perfusion of the surrounding muscles.</p>
+      <p>
+<fig id="F1" orientation="portrait" position="float"><label>Figure 1.</label><caption><p>An angiogram of pre-embolisation. A 15 mm pseudoaneurysm which arose from a circumflex femoral branch that arose directly from the posterior aspect of the femoral circumflex artery is shown (arrow).</p></caption><alternatives><graphic xlink:href="sicotj-3-26-fig1"/><graphic specific-use="thumbnail" xlink:href="sicotj-3-26-fig1_small"/></alternatives></fig>
+</p>
+      <p>
+<fig id="F2" orientation="portrait" position="float"><label>Figure 2.</label><caption><p>An angiogram of post-embolisation. A pseudoaneurysm was embolised with micro coils.</p></caption><alternatives><graphic xlink:href="sicotj-3-26-fig2"/><graphic specific-use="thumbnail" xlink:href="sicotj-3-26-fig2_small"/></alternatives></fig>
+</p>
+      <p>
+<fig id="F3" orientation="portrait" position="float"><label>Figure 3.</label><caption><p>A CT appearance of pre- and post-embolisation. A pseudoaneurysm was embolised with micro coils (arrow).</p></caption><alternatives><graphic xlink:href="sicotj-3-26-fig3"/><graphic specific-use="thumbnail" xlink:href="sicotj-3-26-fig3_small"/></alternatives></fig>
+</p>
+    </sec>
+    <sec sec-type="discussion" id="S3">
+      <title>Discussion</title>
+      <p>We present a rare case of a pseudoaneurysm following arthroscopic release of the iliopsoas tendon for painful iliopsoas snapping. Although, arthroscopy has been thought of as a relatively safe procedure, it is not free of complications [<xref rid="R5" ref-type="bibr">5</xref>–<xref rid="R11" ref-type="bibr">11</xref>]. An endoscopic release of the iliopsoas tendon can be done at the level of the hip capsule via the central or peripheral compartments or at its attachment at the lesser trochanter [<xref rid="R3" ref-type="bibr">3</xref>]. The posterior surface of the iliopsoas muscle and tendon is in close contact with the anterior capsule of the hip. This close relationship allows performing an iliopsoas tenotomy from the peripheral compartment of the hip.</p>
+      <p>The femoral circumflex artery consists of two branches: medial femoral circumflex artery (MFCA) and lateral femoral circumflex artery (LFCA). The MFCA has its origin from the deep femoral artery of the femoral artery [<xref rid="R12" ref-type="bibr">12</xref>]. The MFCA usually has five branches: ascending, descending, acetabular, superficial, and deep. The deep branch of the MFCA is the one which is the most responsible for the vascularisation of the femoral head and neck. It has its origin medially from the femoral artery between the pectineus and iliopsoas tendons, along the inferior border of externus obturator muscle. The LFCA arises from the lateral side of the deep femoral artery in most of the cases. From this point, it goes to a lateral position just behind the sartorius and rectus femoris and between the divisions of the femoral nerve. At this level, it gives origin to the ascending, transverse and descending branches (<xref ref-type="fig" rid="F4">Figure 4</xref>).</p>
+      <p>
+<fig id="F4" orientation="portrait" position="float"><label>Figure 4.</label><caption><p>Arteries around the proximal femur. (A) Iliopsoas muscle, (B) profunda femoris artery, (C) medial femoral circumflex artery, (D) lateral femoral circumflex artery, (E) ascending branch of lateral femoral circumflex artery, (F) transverse branch of lateral femoral circumflex artery, (G) descending branch of lateral femoral circumflex artery.</p></caption><alternatives><graphic xlink:href="sicotj-3-26-fig4"/><graphic specific-use="thumbnail" xlink:href="sicotj-3-26-fig4_small"/></alternatives></fig>
+</p>
+      <p>In this current case, adhesions around the hip joint due to the previous arthroscopy could have contributed to the tethering of the vessels around the zona orbicularis leading to the formation of the pseudoaneurysm. It should also be noted that a vessel is not the only structure which could be damaged during arthroscopic release of the iliopsoas tendon. Some branches of the femoral nerve lie directly over the anterior surface of the iliopsoas muscle. These branches are at risk when a release of the iliopsoas tendon is performed, although, in a more distal position, they are protected by the presence of the iliopsoas bursa and the vastus intermedius [<xref rid="R3" ref-type="bibr">3</xref>]. Hip arthroscopists should bear the possibility of adhesions and these complications especially when performing revision hip arthroscopy; however, it is not difficult to comprehend that such a complication could happen even during an open procedure.</p>
+      <p>As a conclusion, we present a rare case of a pseudoaneurysm, which occurred in the femoral circumflex artery after revision arthroscopic release of the iliopsoas tendon. Hip arthroscopists should bear this complication in mind when releasing the snapping iliopsoas tendon arthroscopically especially in the background of adhesions in revision cases.</p>
+    </sec>
+    <sec id="S4">
+      <title>Conflict of interest</title>
+      <p>NN, LL and VK certify that they have no financial conflict of interest in connection with this article.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="R1">
+        <label>1</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Flanum</surname>
+<given-names>ME</given-names></string-name>, <string-name><surname>Keene</surname>
+<given-names>JS</given-names></string-name>, <string-name><surname>Blankenbaker</surname>
+<given-names>DG</given-names></string-name>, <string-name><surname>Desmet</surname>
+<given-names>AA</given-names></string-name> (<year>2007</year>) <article-title>Arthroscopic treatment of the painful “internal” snapping hip: results of a new endoscopic technique and imaging protocol</article-title>. <source>Am J Sports Med</source>
+<volume>35</volume>(<issue>5</issue>), <fpage>770</fpage>–<lpage>779</lpage>.<pub-id pub-id-type="pmid">17351120</pub-id></mixed-citation>
+      </ref>
+      <ref id="R2">
+        <label>2</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Jacobson</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Allen</surname>
+<given-names>WC</given-names></string-name> (<year>1990</year>) <article-title>Surgical correction of the snapping iliopsoas tendon</article-title>. <source>Am J Sports Med</source>
+<volume>18</volume>(<issue>5</issue>), <fpage>470</fpage>–<lpage>474</lpage>.<pub-id pub-id-type="pmid">2252086</pub-id></mixed-citation>
+      </ref>
+      <ref id="R3">
+        <label>3</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Ilizaliturri</surname>
+<given-names>VM</given-names>
+<suffix>Jr.</suffix></string-name>, <string-name><surname>Villalobos</surname>
+<given-names>FE</given-names>
+<suffix>Jr.</suffix></string-name>, <string-name><surname>Chaidez</surname>
+<given-names>PA</given-names></string-name>, <string-name><surname>Valero</surname>
+<given-names>FS</given-names></string-name>, <string-name><surname>Aguilera</surname>
+<given-names>JM</given-names></string-name> (<year>2005</year>) <article-title>Internal snapping hip syndrome treatment by endoscopic release of the iliopsoas tendon</article-title>. <source>Arthroscopy</source>
+<volume>21</volume>(<issue>11</issue>), <fpage>1375</fpage>–<lpage>1380</lpage>.<pub-id pub-id-type="pmid">16325091</pub-id></mixed-citation>
+      </ref>
+      <ref id="R4">
+        <label>4</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Shu</surname>
+<given-names>B</given-names></string-name>, <string-name><surname>Safran</surname>
+<given-names>MR</given-names></string-name> (<year>2011</year>) <article-title>Case report: bifid iliopsoas tendon causing refractory internal snapping hip</article-title>. <source>Clin Orthop Relat Res</source>
+<volume>469</volume>(<issue>1</issue>), <fpage>289</fpage>–<lpage>293</lpage>.<pub-id pub-id-type="pmid">20593254</pub-id></mixed-citation>
+      </ref>
+      <ref id="R5">
+        <label>5</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Leunig</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Ganz</surname>
+<given-names>R</given-names></string-name> (<year>2014</year>) <article-title>The evolution and concepts of joint-preserving surgery of the hip</article-title>. <source>Bone Joint J.</source>
+<volume>96-B</volume>(<issue>1</issue>), <fpage>5</fpage>–<lpage>18</lpage>.</mixed-citation>
+      </ref>
+      <ref id="R6">
+        <label>6</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Fayad</surname>
+<given-names>TE</given-names></string-name>, <string-name><surname>Khan</surname>
+<given-names>MA</given-names></string-name>, <string-name><surname>Haddad</surname>
+<given-names>FS</given-names></string-name> (<year>2013</year>) <article-title>Femoroacetabular impingement: an arthroscopic solution</article-title>. <source>Bone Joint J.</source>
+<volume>95-B</volume>(<issue>11 Suppl A</issue>), <fpage>26</fpage>–<lpage>30</lpage>.<pub-id pub-id-type="pmid">24187347</pub-id></mixed-citation>
+      </ref>
+      <ref id="R7">
+        <label>7</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Bedi</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Kelly</surname>
+<given-names>BT</given-names></string-name>, <string-name><surname>Khanduja</surname>
+<given-names>V</given-names></string-name> (<year>2013</year>) <article-title>Arthroscopic hip preservation surgery: current concepts and perspective</article-title>. <source>Bone Joint J.</source>
+<volume>95-B</volume>(<issue>1</issue>), <fpage>10</fpage>–<lpage>19</lpage>.<pub-id pub-id-type="pmid">23307667</pub-id></mixed-citation>
+      </ref>
+      <ref id="R8">
+        <label>8</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Griffiths</surname>
+<given-names>EJ</given-names></string-name>, <string-name><surname>Khanduja</surname>
+<given-names>V</given-names></string-name> (<year>2012</year>) <article-title>Hip arthroscopy: evolution, current practice and future developments</article-title>. <source>Int Orthop.</source>
+<volume>36</volume>(<issue>6</issue>), <fpage>1115</fpage>–<lpage>1121</lpage>.<pub-id pub-id-type="pmid">22371112</pub-id></mixed-citation>
+      </ref>
+      <ref id="R9">
+        <label>9</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Imam</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Khanduja</surname>
+<given-names>V</given-names></string-name> (<year>2011</year>) <article-title>Current concepts in the diagnosis and management of femoroacetabular impingement</article-title>. <source>Int Orthop.</source>
+<volume>35</volume>(<issue>10</issue>), <fpage>1427</fpage>–<lpage>1435</lpage>.<pub-id pub-id-type="pmid">21755334</pub-id></mixed-citation>
+      </ref>
+      <ref id="R10">
+        <label>10</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Khanduja</surname>
+<given-names>V</given-names></string-name>, <string-name><surname>Villar</surname>
+<given-names>RN</given-names></string-name> (<year>2006</year>) <article-title>Arthroscopic surgery of the hip: current concepts and recent advances</article-title>. <source>J Bone Joint Surg Br.</source>
+<volume>88</volume>(<issue>12</issue>), <fpage>1557</fpage>–<lpage>1566</lpage>.<pub-id pub-id-type="pmid">17159164</pub-id></mixed-citation>
+      </ref>
+      <ref id="R11">
+        <label>11</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Khanduja</surname>
+<given-names>V</given-names></string-name>, <string-name><surname>Villar</surname>
+<given-names>RN</given-names></string-name> (<year>2007</year>) <article-title>The arthroscopic management of femoroacetabular impingement</article-title>. <source>Knee Surg Sports Traumatol Arthrosc.</source>
+<volume>15</volume>(<issue>8</issue>), <fpage>1035</fpage>–<lpage>1040</lpage>.<pub-id pub-id-type="pmid">17534600</pub-id></mixed-citation>
+      </ref>
+      <ref id="R12">
+        <label>12</label>
+        <mixed-citation publication-type="journal">
+<string-name><surname>Gautier</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Ganz</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Krugel</surname>
+<given-names>N</given-names></string-name>, <string-name><surname>Gill</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Ganz</surname>
+<given-names>R</given-names></string-name> (<year>2000</year>) <article-title>Anatomy of the medial femoral circumflex artery and its surgical implications</article-title>. <source>J Bone Joint Surg Br</source>
+<volume>82</volume>(<issue>5</issue>), <fpage>679</fpage>–<lpage>683</lpage>.<pub-id pub-id-type="pmid">10963165</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+    <notes>
+      <boxed-text position="float" orientation="portrait">
+        <p>
+<bold>Cite this article as:</bold> Nakano N, Lisenda L &amp; Khanduja V (2017) Pseudoaneurysm of a branch of the femoral circumflex artery as a complication of revision arthroscopic release of the iliopsoas tendon. SICOT J, <bold>3</bold>, 26</p>
+      </boxed-text>
+    </notes>
+  </back>
+</article>
+
+</metadata></record>

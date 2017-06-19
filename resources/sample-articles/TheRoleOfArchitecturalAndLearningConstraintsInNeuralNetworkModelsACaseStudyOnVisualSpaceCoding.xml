@@ -1,0 +1,1092 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5360096</identifier><datestamp>2017-04-04</datestamp><setSpec>frontcompneuro</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Comput Neurosci</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Comput Neurosci</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Comput. Neurosci.</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Computational Neuroscience</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1662-5188</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5360096</article-id>
+      <article-id pub-id-type="pmcid">PMC5360096</article-id>
+      <article-id pub-id-type="pmc-uid">5360096</article-id>
+      <article-id pub-id-type="doi">10.3389/fncom.2017.00013</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Neuroscience</subject>
+          <subj-group>
+            <subject>Original Research</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Role of Architectural and Learning Constraints in Neural Network Models: A Case Study on Visual Space Coding</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Testolin</surname>
+            <given-names>Alberto</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn001">
+            <sup>*</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/75580/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>De Filippo De Grazia</surname>
+            <given-names>Michele</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/82432/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zorzi</surname>
+            <given-names>Marco</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn002">
+            <sup>*</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/9606/overview"/>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <sup>1</sup>
+        <institution>Department of General Psychology and Padova Neuroscience Center, University of Padova</institution>
+        <country>Padova, Italy</country>
+      </aff>
+      <aff id="aff2">
+        <sup>2</sup>
+        <institution>San Camillo Hospital IRCCS</institution>
+        <country>Venice, Italy</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <p>Edited by: Marcel van Gerven, Radboud University Nijmegen, Netherlands</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Reviewed by: Michael W. Spratling, King's College London, UK; Kandan Ramakrishnan, University of Amsterdam, Netherlands</p>
+        </fn>
+        <corresp id="fn001">*Correspondence: Alberto Testolin <email xlink:type="simple">alberto.testolin@unipd.it</email></corresp>
+        <corresp id="fn002">Marco Zorzi <email xlink:type="simple">marco.zorzi@unipd.it</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>3</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2017</year>
+      </pub-date>
+      <volume>11</volume>
+      <elocation-id>13</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>30</day>
+          <month>11</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>27</day>
+          <month>2</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2017 Testolin, De Filippo De Grazia and Zorzi.</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <copyright-holder>Testolin, De Filippo De Grazia and Zorzi</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The recent “deep learning revolution” in artificial neural networks had strong impact and widespread deployment for engineering applications, but the use of deep learning for neurocomputational modeling has been so far limited. In this article we argue that unsupervised deep learning represents an important step forward for improving neurocomputational models of perception and cognition, because it emphasizes the role of generative learning as opposed to discriminative (supervised) learning. As a case study, we present a series of simulations investigating the emergence of neural coding of visual space for sensorimotor transformations. We compare different network architectures commonly used as building blocks for unsupervised deep learning by systematically testing the type of receptive fields and gain modulation developed by the hidden neurons. In particular, we compare Restricted Boltzmann Machines (RBMs), which are stochastic, generative networks with bidirectional connections trained using contrastive divergence, with autoencoders, which are deterministic networks trained using error backpropagation. For both learning architectures we also explore the role of sparse coding, which has been identified as a fundamental principle of neural computation. The unsupervised models are then compared with supervised, feed-forward networks that learn an explicit mapping between different spatial reference frames. Our simulations show that both architectural and learning constraints strongly influenced the emergent coding of visual space in terms of distribution of tuning functions at the level of single neurons. Unsupervised models, and particularly RBMs, were found to more closely adhere to neurophysiological data from single-cell recordings in the primate parietal cortex. These results provide new insights into how basic properties of artificial neural networks might be relevant for modeling neural information processing in biological systems.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>connectionist modeling</kwd>
+        <kwd>unsupervised deep learning</kwd>
+        <kwd>restricted Boltzmann machines</kwd>
+        <kwd>autoencoders</kwd>
+        <kwd>sparseness</kwd>
+        <kwd>space coding</kwd>
+        <kwd>gain modulation</kwd>
+        <kwd>sensorimotor transformations</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source id="cn001">European Research Council<named-content content-type="fundref-id">10.13039/501100000781</named-content></funding-source>
+        </award-group>
+        <award-group>
+          <funding-source id="cn002">Università degli Studi di Padova<named-content content-type="fundref-id">10.13039/501100003500</named-content></funding-source>
+        </award-group>
+      </funding-group>
+      <counts>
+        <fig-count count="9"/>
+        <table-count count="1"/>
+        <equation-count count="8"/>
+        <ref-count count="78"/>
+        <page-count count="17"/>
+        <word-count count="11363"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="s1">
+      <title>Introduction</title>
+      <p>Artificial neural network models aim at explaining human cognition and behavior in terms of the emergent consequences of a large number of simple, subcognitive processes (McClelland et al., <xref rid="B46" ref-type="bibr">2010</xref>). Within this framework, the pattern seen in overt behavior (macroscopic dynamics of the system) reflects the coordinated operations of simple biophysical mechanisms (microscopic dynamics of the system), such as the propagation of activation and inhibition among elementary processing units. Though this general tenet is shared by all connectionist models, there is large variability in processing architectures and learning algorithms, which turns into varying degrees of psychological and biological realism (e.g., Thorpe and Imbert, <xref rid="B72" ref-type="bibr">1989</xref>; O'Reilly, <xref rid="B51" ref-type="bibr">1998</xref>). When the aim is to investigate high-level cognitive functions, simplification is essential (McClelland, <xref rid="B45" ref-type="bibr">2009</xref>) and the underlying processing mechanisms do not need to faithfully implement the neuronal circuits supposed to carry out such functions in the brain. However, modelers should strive to consider biological plausibility if this can bridge different levels of description (Testolin and Zorzi, <xref rid="B71" ref-type="bibr">2016</xref>).</p>
+      <p>Recent theoretical and technical progress in artificial neural networks has significantly expanded the range of tasks that can be solved by machine intelligence. In particular, the advent of powerful parallel computing architectures based on Graphic Processing Units (GPUs), coupled with the availability of “big data,” has allowed to create and train large-scale, hierarchical neural networks known as <italic>deep neural networks</italic> (LeCun et al., <xref rid="B40" ref-type="bibr">2015</xref>, for review). These powerful learning systems achieve impressive performance in many challenging cognitive tasks, such as visual object recognition (Krizhevsky et al., <xref rid="B39" ref-type="bibr">2012</xref>), speech processing (Mohamed et al., <xref rid="B49" ref-type="bibr">2012</xref>) and natural language understanding (Collobert et al., <xref rid="B12" ref-type="bibr">2011</xref>). However, while the impact of deep learning for engineering applications is undisputed, its relevance for modeling neural information processing in biological systems still needs to be fully evaluated (for seminal attempts, see Stoianov and Zorzi, <xref rid="B67" ref-type="bibr">2012</xref>; Khaligh-Razavi and Kriegeskorte, <xref rid="B37" ref-type="bibr">2014</xref>; Güçlü and van Gerven, <xref rid="B26" ref-type="bibr">2015</xref>).</p>
+      <p>One critical aspect of most deep learning systems is the reliance on a feed-forward architecture trained with error backpropagation (Rumelhart et al., <xref rid="B60" ref-type="bibr">1986</xref>), which has been repeatedly shown to yield state-of-the-art performance in a variety of problems (LeCun et al., <xref rid="B40" ref-type="bibr">2015</xref>). However, the assumptions that learning is largely discriminative (e.g., classification or function learning) and that an external teaching signal is always available at each learning event (i.e., all training data is “labeled”) are clearly implausible from both a cognitive and a biological perspective (Zorzi et al., <xref rid="B78" ref-type="bibr">2013</xref>; Cox and Dean, <xref rid="B13" ref-type="bibr">2014</xref>). Reinforcement learning is a valuable alternative and it has already shown promising results when combined with deep learning (Mnih et al., <xref rid="B48" ref-type="bibr">2015</xref>; Silver et al., <xref rid="B65" ref-type="bibr">2016</xref>), but there is a broad range of situations where learning seems to be fully unsupervised and its only objective is that of discovering the latent structure of the input data in order to build rich, internal representations of the environment (Hinton and Sejnowski, <xref rid="B34" ref-type="bibr">1999</xref>). We argue that more realistic neurocognitive models should therefore also exploit unsupervised forms of deep learning, where the objective is not to explicitly classify the input patterns but rather to discover internal representations by fitting a hierarchical generative model to the sensory data (Hinton, <xref rid="B29" ref-type="bibr">2007</xref>, <xref rid="B31" ref-type="bibr">2013</xref>; Zorzi et al., <xref rid="B78" ref-type="bibr">2013</xref>). Compared to its supervised counterpart, this modeling approach emphasizes the role of feedback, recurrent connections (Sillito et al., <xref rid="B64" ref-type="bibr">2006</xref>), which carry top-down expectations that are gradually adjusted to better reflect the observed data (Hinton and Ghahramani, <xref rid="B32" ref-type="bibr">1997</xref>; Friston, <xref rid="B22" ref-type="bibr">2010</xref>) and which can be used to implement concurrent probabilistic inference along the whole cortical hierarchy (Lee and Mumford, <xref rid="B42" ref-type="bibr">2003</xref>; Gilbert and Sigman, <xref rid="B24" ref-type="bibr">2007</xref>). Notably, top-down processing is also relevant for understanding attentional mechanisms in terms of modulation of neural information processing (Kastner and Ungerleider, <xref rid="B35" ref-type="bibr">2000</xref>).</p>
+      <p>A powerful class of stochastic neural networks that learn a generative model of the data is that of Restricted Boltzmann Machines (RBMs), which can efficiently discover internal representations (i.e., latent features) using Hebbian-like learning mechanisms (Hinton, <xref rid="B28" ref-type="bibr">2002</xref>). RBMs constitute the building block of hierarchical generative models such as Deep Belief Networks (Hinton and Salakhutdinov, <xref rid="B33" ref-type="bibr">2006</xref>) and Deep Boltzmann Machines (Salakhutdinov, <xref rid="B62" ref-type="bibr">2015</xref>). These unsupervised deep learning models have been successfully used to simulate a variety of cognitive functions, such as numerosity perception (Stoianov and Zorzi, <xref rid="B67" ref-type="bibr">2012</xref>), letter perception (Testolin et al., under review), location-invariant visual word recognition (Di Bono and Zorzi, <xref rid="B18" ref-type="bibr">2013</xref>), and visual hallucinations in psychiatric syndromes (Reichert et al., <xref rid="B57" ref-type="bibr">2013</xref>). A similar approach has been used to simulate how early visual cortical representations are adapted to statistical regularities in natural images, in order to predict single voxel responses to natural images and identify images from stimulus-evoked multiple voxel responses (Güçlü and van Gerven, <xref rid="B27" ref-type="bibr">2014</xref>). A temporal extension of RBMs has also been recently used to model sequential orthographic processing and spontaneous pseudoword generation (Testolin et al., <xref rid="B70" ref-type="bibr">2016</xref>).</p>
+      <p>Unsupervised deep learning can be implemented using an alternative architecture based on autoencoders (Bengio et al., <xref rid="B4" ref-type="bibr">2007</xref>), which are deterministic, feed-forward networks whose learning goal is to accurately reconstruct the input data into a separate layer of output units. Single-layer autoencoders are trained using error backpropagation, and can be stacked in order to build more complex, multi-layer architectures. However, despite the common view that RBMs and autoencoders could be considered equivalent (Ranzato et al., <xref rid="B56" ref-type="bibr">2007</xref>), we note that their underlying architectural and learning assumptions are significantly different. In this study we empirically compare RBMs and autoencoders in terms of the type of internal encoding emerging in the hidden neurons. Moreover, we investigate how additional learning constraints, such as sparsity and limitation of computational resources (i.e., hidden layer size), could influence the representations developed by the networks. As a case study, we focus on the problem of learning visuospatial coding for sensorimotor transformations, which is a prominent example of how the emergentist approach based on learning in artificial neural networks has offered important insights into the computations performed by biological neurons (Zipser and Andersen, <xref rid="B77" ref-type="bibr">1988</xref>).</p>
+      <p>Sensorimotor transformations refer to the process by which sensory stimuli are converted into motor commands. For example, reaching requires to map visual information, represented in retinal coordinates, into a system of coordinates that is centered on the effector. Coordinate transformations can be accomplished by combining sensory information with extra-retinal information, such as postural signals representing the position of eyes, head, or hand, thereby obtaining abstract representations of the space interposed between the sensory input and the motor output (Pouget and Snyder, <xref rid="B54" ref-type="bibr">2000</xref>). Single-neuron recordings from monkey posterior parietal cortex have shown that the response amplitude of many neurons indeed depends on the position of the eyes, thereby unveiling a fundamental coding principle used to perform this type of signal integration (Andersen et al., <xref rid="B2" ref-type="bibr">1985</xref>). The term <italic>gain field</italic> was coined to describe this gaze-dependent response of parietal neurons, and since then the notion of <italic>gain modulation</italic> has been generalized to indicate the multiplicative control of one neuron's responses by the responses of another set of neurons (Salinas and Thier, <xref rid="B63" ref-type="bibr">2000</xref>). Another fundamental property unveiled by neuronal recordings is that the encoding of space used for coordinate transformations involves a variety of different, complementary frames of reference. For example, although many parietal neurons are centered on retinal coordinates (Andersen et al., <xref rid="B2" ref-type="bibr">1985</xref>; Duhamel et al., <xref rid="B19" ref-type="bibr">1992</xref>), others represent space using body-centered (Snyder et al., <xref rid="B66" ref-type="bibr">1998</xref>) or effector-centered (Sakata et al., <xref rid="B61" ref-type="bibr">1995</xref>) coordinate systems. Moreover, some neurons exhibit multiple gain modulation (Chang et al., <xref rid="B8" ref-type="bibr">2009</xref>), suggesting more complex forms of spatial coding. For example, postural information related to both eye and head positions can be combined in order to encode “gaze” direction (Brotchie et al., <xref rid="B5" ref-type="bibr">1995</xref>; Stricanne et al., <xref rid="B68" ref-type="bibr">1996</xref>; Duhamel et al., <xref rid="B20" ref-type="bibr">1997</xref>).</p>
+      <p>From a computational perspective, the seminal work of Zipser and Andersen (<xref rid="B77" ref-type="bibr">1988</xref>) showed that gain modulation could spontaneously emerge in supervised, feed-forward neural networks trained to explicitly map visual targets into head-centered coordinates, giving as input any arbitrary pair of eye and retinal positions. Similar results have been observed using more biologically-plausible learning settings, such as reinforcement learning (Mazzoni et al., <xref rid="B44" ref-type="bibr">1991</xref>) and predictive coding (De Meyer and Spratling, <xref rid="B16" ref-type="bibr">2011</xref>). Note that these learning settings assume that gain modulation emerges because the task implies to establish a mapping between different reference frames. However, it is unclear whether the form of modulation and the distribution of neuronal tuning functions is influenced by the type of learning algorithm and/or by the nature of the learning task (i.e., learning input-output mappings vs. unsupervised learning of internal representations). We also note that a popular alternative framework for modeling sensorimotor transformations is not based on learning, but rather stipulates that parietal neurons represent a set of basis functions that combine visual and postural information (for review, see Pouget and Snyder, <xref rid="B54" ref-type="bibr">2000</xref>).</p>
+      <p>In summary, space coding represents an interesting case study for testing the adequacy of different neural network architectures and learning algorithms, because it provides a wealth of neurophysiological data (both at the population and single-neuron levels), and it departs from the classic problem of visual object recognition investigated in the large majority of deep learning research.</p>
+    </sec>
+    <sec sec-type="materials and methods" id="s2">
+      <title>Materials and methods</title>
+      <p>In this section we describe the space coding tasks used in our simulations, including training and test stimuli, the different learning architectures, and the procedures for analyzing the emergent neural representations.</p>
+      <sec>
+        <title>Space coding tasks</title>
+        <p>In this study we consider a visual signal in retinotopic coordinates and two different postural signals, one for eye position and another for a generic “effector,” which might represent, for example, the position of the hand. We do not consider the integration between different modalities (see Xing and Andersen, <xref rid="B76" ref-type="bibr">2000</xref>, for a computational investigation of multimodal integration in several coordinate frames). We implemented three types of space coding tasks to test the different learning architectures.</p>
+        <sec>
+          <title>Unsupervised learning with no coordinate transformation</title>
+          <p>The first learning architecture is depicted in Figure <xref ref-type="fig" rid="F1">1A</xref>. Unsupervised learning is represented by undirected arrows, which connect the sensory input to a separate layer of hidden neurons. The input signal to the network consists of a visual map, which represents target location in retinotopic coordinates, and two postural maps, which represent eye and effector positions. The learning goal is only to build a compact representation of these input signals in the hidden layer, which is later read-out by a simple linear associator in order to establish a mapping with the corresponding motor program. Details of input and output representations are provided in Section Dataset and Stimuli. The unsupervised learning phase does not involve any coordinate transformation because information about the motor program is not available.</p>
+          <fig id="F1" position="float">
+            <label>Figure 1</label>
+            <caption>
+              <p><bold>Graphical representations of the learning architectures used to simulate the space coding tasks</bold>. Undirected edges entail bidirectional (recurrent) connections, while directed arrows represent feed-forward connections. <bold>(A)</bold> Unsupervised learning with no coordinate transformation. <bold>(B)</bold> Unsupervised learning with coordinate transformation. <bold>(C)</bold> Supervised learning with coordinate transformation.</p>
+            </caption>
+            <graphic xlink:href="fncom-11-00013-g0001"/>
+          </fig>
+        </sec>
+        <sec>
+          <title>Unsupervised learning with coordinate transformation</title>
+          <p>The second learning architecture is depicted in Figure <xref ref-type="fig" rid="F1">1B</xref>. The input signal to the network still consists of a visual map and two postural maps, but in this case we also provide as input the corresponding motor program. In this setting the unsupervised learning phase implicitly involves coordinate transformation (i.e., different coordinate systems become associated). In order to compare the mapping accuracy of different learning architectures using the same method, the motor program is still read-out from hidden neurons via a simple linear associator.</p>
+        </sec>
+        <sec>
+          <title>Supervised learning with coordinate transformation</title>
+          <p>The third learning architecture is depicted in Figure <xref ref-type="fig" rid="F1">1C</xref>, and it corresponds to the model used by Zipser and Andersen (<xref rid="B77" ref-type="bibr">1988</xref>). The input is the same of the unsupervised architecture shown in Figure <xref ref-type="fig" rid="F1">1A</xref>, but in this case supervised learning (directed arrows) is used to establish an explicit mapping between input signals and motor programs. As for the previous architectures, accuracy of the motor program is also tested by read-out from hidden neurons via linear association.</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>Dataset and stimuli</title>
+        <p>The representation format adopted for the sensory stimuli was the same used in previous computational investigations (Zipser and Andersen, <xref rid="B77" ref-type="bibr">1988</xref>; Pouget and Snyder, <xref rid="B54" ref-type="bibr">2000</xref>; De Filippo De Grazia et al., <xref rid="B15" ref-type="bibr">2012</xref>), which is broadly consistent with neurophysiological data recorded in animals performing tasks involving coordinate transformations (e.g., Andersen et al., <xref rid="B2" ref-type="bibr">1985</xref>).</p>
+        <p>The visual input to the models consisted in a real-valued vector representing the position of the stimulus as a Gaussian peak of activity in a specific location. These visible neurons simulate the activity of the cortical areas supplying retinotopic sensory information to the posterior parietal cortex. The retinotopic map consisted in a square matrix of 17 × 17 neurons, which employed a population code with Gaussian tuning functions (standard deviation = 4°). Visual receptive fields were uniformly spread between −9° and +9° with increments of 3°, both in the horizontal and vertical dimensions.</p>
+        <p>Four postural maps, each one consisting of 17 neurons, were used to represent the horizontal and vertical positions of the eye and the effector. These visible neurons used a sigmoid activation function (steepness parameter = 0.125) to represent postural information between −18 and +18°, with steps of 3°.</p>
+        <p>The motor program consisted in a real-valued vector representing the target position of the stimulus. Similarly to the retinotopic map, it was coded as a square matrix of 25 × 25 neurons, which employed a population code with Gaussian tuning functions to represent target position in coordinates centered on the effector (standard deviation = 6°). Motor programs were uniformly spread between −9° and +9° with increments of 3°, both in the horizontal and vertical dimensions.</p>
+        <p>In order to create the stimuli dataset, all possible combinations of visual input and postural signals were first generated, and the corresponding motor program (target location) was computed. We then balanced the patterns to ensure that target locations were equally distributed across the motor map to avoid position biases when decoding the motor program. This resulted in a total of 28,880 patterns, which were randomly split into a training set (20,000 patterns) and an independent test set (8,880 patterns). The latter was used to assess the generalization performance of the models.</p>
+      </sec>
+      <sec>
+        <title>Learning architectures</title>
+        <p>Despite they differ in several aspects, Boltzmann machines and autoencoders can both be defined within the mathematical framework of energy-based models (Ranzato et al., <xref rid="B56" ref-type="bibr">2007</xref>), where the learning objective is to carve the surface of an energy function so as to minimize the energies of training points and maximize the energies of unobserved points. A set of latent variables is used to learn an internal code that can efficiently represent the observed data points, and since the number of latent variables is usually smaller than that of the observed variables the encoding process can be interpreted as a form of dimensionality reduction (Hinton and Salakhutdinov, <xref rid="B33" ref-type="bibr">2006</xref>). In this unsupervised setting, the model learns the statistical structure of the data without the need for any explicit, external label.</p>
+        <sec>
+          <title>Restricted boltzmann machines (RBMs)</title>
+          <p>Boltzmann machines are stochastic neural networks that use a set of hidden neurons to model the latent causes of the observed data vectors, which are presented to the network through a set of visible neurons (Ackley et al., <xref rid="B1" ref-type="bibr">1985</xref>). In the “restricted” case, the network connectivity is constrained in order to obtain a bipartite graph (i.e., there are no connections within the same layer; see Figure <xref ref-type="fig" rid="F2">2A</xref> for a graphical representation). The behavior of the network is driven by an energy function <italic>E</italic>, which defines the joint distribution of the hidden and visible neurons by assigning a probability value to each of their possible configurations:
+<disp-formula id="E1"><mml:math id="M1"><mml:mrow><mml:mi>p</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>v</mml:mi><mml:mo>,</mml:mo><mml:mi>h</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msup><mml:mi>e</mml:mi><mml:mrow><mml:mo>−</mml:mo><mml:mi>E</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>v</mml:mi><mml:mo>,</mml:mo><mml:mo> </mml:mo><mml:mi>h</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:msup></mml:mrow><mml:mi>Z</mml:mi></mml:mfrac></mml:mrow></mml:math></disp-formula>
+where <italic>v</italic> and <italic>h</italic> are the column vectors containing the values of visible and hidden neurons, respectively, and <italic>Z</italic> is the partition function. The energy function is defined as a linear combination of visible and hidden neurons' activation:
+<disp-formula id="E2"><mml:math id="M2"><mml:mrow><mml:mi>E</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>v</mml:mi><mml:mo>,</mml:mo><mml:mi>h</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo>=</mml:mo><mml:mo>−</mml:mo><mml:msup><mml:mi>b</mml:mi><mml:mi>T</mml:mi></mml:msup><mml:mi>v</mml:mi><mml:mo>−</mml:mo><mml:msup><mml:mi>c</mml:mi><mml:mi>T</mml:mi></mml:msup><mml:mi>h</mml:mi><mml:mo>−</mml:mo><mml:msup><mml:mi>h</mml:mi><mml:mi>T</mml:mi></mml:msup><mml:mi>W</mml:mi><mml:mi>v</mml:mi></mml:mrow></mml:math></disp-formula>
+where <italic>W</italic> is the matrix of connections weights, <italic>b</italic> and <italic>c</italic> are two additional parameters known as unit biases and <italic>T</italic> denotes the transpose operator. Since there are no connections within the same layer, hidden neurons are conditionally independent given the state of visible neurons (and vice versa). In particular, the activation probability of the neurons in each layer conditioned on the activation of the neurons in the opposite layer can be efficiently computed in one parallel step:
+<disp-formula id="E3"><mml:math id="M3"><mml:mtable columnalign="left"><mml:mtr columnalign="left"><mml:mtd columnalign="left"><mml:mrow><mml:mi>P</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>h</mml:mi><mml:mi>j</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo>|</mml:mo><mml:mi>v</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mo>=</mml:mo></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mi>σ</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>c</mml:mi><mml:mi>j</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mrow><mml:msup><mml:mstyle mathsize="140%" displaystyle="true"><mml:mo>∑</mml:mo></mml:mstyle><mml:mtext>​</mml:mtext></mml:msup></mml:mrow><mml:mi>i</mml:mi></mml:msub><mml:msub><mml:mi>w</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mi>j</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mi>v</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mtd></mml:mtr><mml:mtr columnalign="left"><mml:mtd columnalign="left"><mml:mrow><mml:mi>P</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>v</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo>|</mml:mo><mml:mi>h</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mo>=</mml:mo></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mi>σ</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>b</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mrow><mml:msup><mml:mstyle mathsize="140%" displaystyle="true"><mml:mo>∑</mml:mo></mml:mstyle><mml:mtext>​</mml:mtext></mml:msup></mml:mrow><mml:mi>j</mml:mi></mml:msub><mml:msub><mml:mi>w</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mi>j</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mi>h</mml:mi><mml:mi>j</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:math></disp-formula>
+where σ is the sigmoid function, <italic>c</italic><sub><italic>j</italic></sub> and <italic>b</italic><sub><italic>i</italic></sub> are the biases of hidden and visible neurons (<italic>h</italic><sub><italic>j</italic></sub> and <italic>v</italic><sub><italic>i</italic></sub> respectively), and <italic>w</italic><sub><italic>ij</italic></sub> is the connection weight between <italic>h</italic><sub><italic>j</italic></sub> and <italic>v</italic><sub><italic>i</italic></sub>. Learning in RBMs can be performed through maximum-likelihood, where each weight should be changed at each step according to a Hebbian-like learning rule:
+<disp-formula id="E4"><mml:math id="M4"><mml:mrow><mml:mi>Δ</mml:mi><mml:mi>W</mml:mi><mml:mo>=</mml:mo><mml:mi>η</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:msup><mml:mi>v</mml:mi><mml:mo>+</mml:mo></mml:msup><mml:msup><mml:mi>h</mml:mi><mml:mo>+</mml:mo></mml:msup><mml:mo>−</mml:mo><mml:msup><mml:mi>v</mml:mi><mml:mo>−</mml:mo></mml:msup><mml:msup><mml:mi>h</mml:mi><mml:mo>−</mml:mo></mml:msup><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math></disp-formula>
+where η represents the learning rate, <italic>v</italic><sup>+</sup><italic>h</italic><sup>+</sup> are the visible-hidden correlations computed on the training data (positive phase), and <italic>v</italic><sup>−</sup><italic>h</italic><sup>−</sup> are the visible-hidden correlations computed according to the model's expectations (negative phase). Model's expectations have been traditionally computed by running Gibbs sampling algorithms until the network reached equilibrium (Ackley et al., <xref rid="B1" ref-type="bibr">1985</xref>). However, more efficient algorithms such as contrastive divergence (Hinton, <xref rid="B28" ref-type="bibr">2002</xref>) speed-up learning by approximating the log-probability gradient. The reader is referred to Hinton (<xref rid="B30" ref-type="bibr">2010</xref>) and Zorzi et al. (<xref rid="B78" ref-type="bibr">2013</xref>) for more details about RBMs and for the discussion of hyper-parameters of the learning algorithm.</p>
+          <fig id="F2" position="float">
+            <label>Figure 2</label>
+            <caption>
+              <p><bold>Graphical representations of the different learning architectures used in the simulations. (A)</bold> Restricted Boltzmann Machine (RBM): the learning objective is to accurately reconstruct the input patterns presented through the visible layer (<italic>v</italic>) by relying on a set of hidden units (<italic>h</italic>), which represent the latent structure of the data. The reconstruction is performed by using a weight matrix (<italic>W</italic>) that contains symmetric (i.e., undirected) connections. <bold>(B)</bold> Autoencoder: as for RBMs, the learning objective is to accurately reconstruct the input patterns presented through the visible layer (<italic>v</italic>) by relying on a set of hidden units (<italic>h</italic>). However, the reconstruction is performed on a separate layer of units (<italic>v_rec</italic>) by using two weight matrices (<italic>W</italic><sup>1</sup> and <italic>W</italic><sup>2</sup>) that contain directed connections. <bold>(C)</bold> Feed-forward, supervised network: in contrast to RBMs and autoencoders, the learning objective is to minimize the mapping error between the input patterns presented through the visible layer (<italic>v</italic>) and a distinct set of output patterns presented through a dedicated layer (<italic>out</italic>).</p>
+            </caption>
+            <graphic xlink:href="fncom-11-00013-g0002"/>
+          </fig>
+          <p>In our simulations, RBMs were trained using 1-step contrastive divergence with a learning rate of 0.03, a weight decay of 0.0002 and a momentum coefficient of 0.9, which was initialized to 0.5 for the first few epochs. Learning was performed using a mini-batch scheme, with a mini-batch size of 4 patterns, for a total of 100 learning epochs (reconstruction error always converged). Sparse representations were encouraged by forcing the network's internal representations to rely on a limited number of active hidden units, that is, by driving the probability <italic>q</italic> of a unit to be active to a certain desired (low) probability <italic>p</italic> (Lee et al., <xref rid="B41" ref-type="bibr">2008</xref>). For logistic units, this can be practically implemented by first calculating the quantity <italic>q-p</italic>, which is then multiplied by a scaling factor and added to the biases of each hidden units at every weight update. When the sparsity constraint was applied, we always verified that the average activation of hidden units was indeed maintained below the desired level. All the simulations were performed using an efficient implementation of RBMs on graphic processors (Testolin et al., <xref rid="B69" ref-type="bibr">2013</xref>). The complete source code is available for download<xref ref-type="fn" rid="fn0001"><sup>1</sup></xref>.</p>
+        </sec>
+        <sec>
+          <title>Autoencoders</title>
+          <p>Similarly to RBMs, autoencoders rely on a single layer of nonlinear hidden units to compactly represent the statistical regularities of the training data. However, autoencoders are feed-forward, deterministic networks trained with error backpropagation (Bengio et al., <xref rid="B4" ref-type="bibr">2007</xref>). The training data is presented to a layer of input units, and the learning goal is to accurately reconstruct such input vector into a separate, output layer. An autoencoder is therefore composed of a set of encoding weights <italic>W</italic><sup>1</sup> that are used to compute the activation of hidden <italic>h</italic> units given the activation of input units <italic>v</italic>, and a set of decoding weights <italic>W</italic><sup>2</sup> that are used to compute the network reconstructions <italic>v_rec</italic> from the activations of hidden units:</p>
+          <disp-formula id="E5">
+            <mml:math id="M5">
+              <mml:mtable columnalign="left">
+                <mml:mtr>
+                  <mml:mtd>
+                    <mml:mtext>           </mml:mtext>
+                    <mml:mi>h</mml:mi>
+                    <mml:mo>=</mml:mo>
+                    <mml:mi>σ</mml:mi>
+                    <mml:mo stretchy="false">(</mml:mo>
+                    <mml:msup>
+                      <mml:mi>W</mml:mi>
+                      <mml:mn>1</mml:mn>
+                    </mml:msup>
+                    <mml:mi>v</mml:mi>
+                    <mml:mo>+</mml:mo>
+                    <mml:mi>c</mml:mi>
+                    <mml:mo stretchy="false">)</mml:mo>
+                  </mml:mtd>
+                </mml:mtr>
+                <mml:mtr>
+                  <mml:mtd>
+                    <mml:mi>v</mml:mi>
+                    <mml:mo>_</mml:mo>
+                    <mml:mi>r</mml:mi>
+                    <mml:mi>e</mml:mi>
+                    <mml:mi>c</mml:mi>
+                    <mml:mo>=</mml:mo>
+                    <mml:mi>σ</mml:mi>
+                    <mml:mo stretchy="false">(</mml:mo>
+                    <mml:msup>
+                      <mml:mi>W</mml:mi>
+                      <mml:mn>2</mml:mn>
+                    </mml:msup>
+                    <mml:mi>h</mml:mi>
+                    <mml:mo>+</mml:mo>
+                    <mml:mi>b</mml:mi>
+                    <mml:mo stretchy="false">)</mml:mo>
+                  </mml:mtd>
+                </mml:mtr>
+              </mml:mtable>
+            </mml:math>
+          </disp-formula>
+          <p>where <italic>b</italic> and <italic>c</italic> are the vectors of output and hidden unit biases, and σ is the sigmoid function (see Figure <xref ref-type="fig" rid="F2">2B</xref> for a graphical representation). The error function <italic>E</italic> to be minimized corresponds to the average reconstruction error, which is quantified by the sum across all output units of the squared difference between the original and the reconstructed values:</p>
+          <disp-formula id="E6">
+            <mml:math id="M6">
+              <mml:mrow>
+                <mml:mi>E</mml:mi>
+                <mml:mo>=</mml:mo>
+                <mml:mfrac>
+                  <mml:mn>1</mml:mn>
+                  <mml:mi>N</mml:mi>
+                </mml:mfrac>
+                <mml:munderover>
+                  <mml:mrow>
+                    <mml:msup>
+                      <mml:mstyle mathsize="140%" displaystyle="true">
+                        <mml:mo>∑</mml:mo>
+                      </mml:mstyle>
+                      <mml:mtext>​</mml:mtext>
+                    </mml:msup>
+                  </mml:mrow>
+                  <mml:mrow>
+                    <mml:mi>n</mml:mi>
+                    <mml:mtext> </mml:mtext>
+                    <mml:mo>=</mml:mo>
+                    <mml:mn>1</mml:mn>
+                  </mml:mrow>
+                  <mml:mi>N</mml:mi>
+                </mml:munderover>
+                <mml:munderover>
+                  <mml:mrow>
+                    <mml:msup>
+                      <mml:mstyle mathsize="140%" displaystyle="true">
+                        <mml:mo>∑</mml:mo>
+                      </mml:mstyle>
+                      <mml:mtext>​</mml:mtext>
+                    </mml:msup>
+                  </mml:mrow>
+                  <mml:mrow>
+                    <mml:mi>k</mml:mi>
+                    <mml:mo> </mml:mo>
+                    <mml:mo>=</mml:mo>
+                    <mml:mo> </mml:mo>
+                    <mml:mn>1</mml:mn>
+                  </mml:mrow>
+                  <mml:mi>K</mml:mi>
+                </mml:munderover>
+                <mml:msup>
+                  <mml:mrow>
+                    <mml:mo stretchy="false">(</mml:mo>
+                    <mml:msub>
+                      <mml:mi>v</mml:mi>
+                      <mml:mi>k</mml:mi>
+                    </mml:msub>
+                    <mml:mo>−</mml:mo>
+                    <mml:mi>v</mml:mi>
+                    <mml:mo>_</mml:mo>
+                    <mml:mi>r</mml:mi>
+                    <mml:mi>e</mml:mi>
+                    <mml:msub>
+                      <mml:mi>c</mml:mi>
+                      <mml:mi>k</mml:mi>
+                    </mml:msub>
+                    <mml:mo stretchy="false">)</mml:mo>
+                  </mml:mrow>
+                  <mml:mn>2</mml:mn>
+                </mml:msup>
+                <mml:mo>+</mml:mo>
+                <mml:msup>
+                  <mml:mi>β</mml:mi>
+                  <mml:mo>*</mml:mo>
+                </mml:msup>
+                <mml:msub>
+                  <mml:mi>Ω</mml:mi>
+                  <mml:mrow>
+                    <mml:mi>s</mml:mi>
+                    <mml:mi>p</mml:mi>
+                    <mml:mi>a</mml:mi>
+                    <mml:mi>r</mml:mi>
+                    <mml:mi>s</mml:mi>
+                    <mml:mi>i</mml:mi>
+                    <mml:mi>t</mml:mi>
+                    <mml:mi>y</mml:mi>
+                  </mml:mrow>
+                </mml:msub>
+              </mml:mrow>
+            </mml:math>
+          </disp-formula>
+          <p>where <italic>K</italic> is the number of output units and <italic>N</italic> is the number of training patterns. Similarly to RBMs, sparse representations can be induced by adding to the cost function a regularization term Ω<sub><italic>sparsity</italic></sub> that takes a large value when the average activation value <italic>q</italic> of each hidden neuron diverges from a certain desired (low) value <italic>p</italic>. In particular, the sparsity constraint was implemented as the Kullback-Leibler divergence from <italic>q</italic> to <italic>p</italic>:</p>
+          <disp-formula id="E7">
+            <mml:math id="M7">
+              <mml:mtable columnalign="left">
+                <mml:mtr columnalign="left">
+                  <mml:mtd columnalign="left">
+                    <mml:mrow>
+                      <mml:msub>
+                        <mml:mi>Ω</mml:mi>
+                        <mml:mrow>
+                          <mml:mi>s</mml:mi>
+                          <mml:mi>p</mml:mi>
+                          <mml:mi>a</mml:mi>
+                          <mml:mi>r</mml:mi>
+                          <mml:mi>s</mml:mi>
+                          <mml:mi>i</mml:mi>
+                          <mml:mi>t</mml:mi>
+                          <mml:mi>y</mml:mi>
+                        </mml:mrow>
+                      </mml:msub>
+                      <mml:mo>=</mml:mo>
+                      <mml:munderover>
+                        <mml:mo>∑</mml:mo>
+                        <mml:mrow>
+                          <mml:mi>i</mml:mi>
+                          <mml:mo>=</mml:mo>
+                          <mml:mn>1</mml:mn>
+                        </mml:mrow>
+                        <mml:mrow>
+                          <mml:mi>H</mml:mi>
+                        </mml:mrow>
+                      </mml:munderover>
+                      <mml:mi>K</mml:mi>
+                      <mml:mi>L</mml:mi>
+                      <mml:mrow>
+                        <mml:mo>(</mml:mo>
+                        <mml:mrow>
+                          <mml:mi>p</mml:mi>
+                          <mml:mo> </mml:mo>
+                          <mml:mo>|</mml:mo>
+                          <mml:mo>|</mml:mo>
+                          <mml:mo> </mml:mo>
+                          <mml:msub>
+                            <mml:mi>q</mml:mi>
+                            <mml:mi>i</mml:mi>
+                          </mml:msub>
+                        </mml:mrow>
+                        <mml:mo>)</mml:mo>
+                      </mml:mrow>
+                    </mml:mrow>
+                  </mml:mtd>
+                </mml:mtr>
+              </mml:mtable>
+            </mml:math>
+          </disp-formula>
+          <p>where <italic>H</italic> is the number of hidden units. As for RBMs, when sparsity was applied we always verified that the average activation of hidden units was indeed maintained below the desired level.</p>
+          <p>In our simulations, we used an efficient implementation of autoencoders provided by the MATLAB Neural Network toolbox (Demuth and Beale, <xref rid="B17" ref-type="bibr">1993</xref>). Learning was performed using standard scaled conjugate gradient descent (Møller, <xref rid="B47" ref-type="bibr">1993</xref>) with adaptive learning rate, using a weight decay factor of 0.0002 and a batch processing scheme, for a total of 150 learning epochs (reconstruction error always converged).</p>
+        </sec>
+        <sec>
+          <title>Feed-forward, supervised networks</title>
+          <p>In order to better assess the impact of the learning regimen, we compared the unsupervised learning architectures described above with a standard, supervised architecture implemented as a feed-forward network with one hidden layer (Zipser and Andersen, <xref rid="B77" ref-type="bibr">1988</xref>). Similarly to autoencoders, learning can be performed using error backpropagation (see Figure <xref ref-type="fig" rid="F2">2C</xref> for a graphical representation). We used an efficient implementation of feed-forward networks provided by the MATLAB Neural Network toolbox<xref ref-type="fn" rid="fn0002"><sup>2</sup></xref>. Learning rate was set to 0.05 and training was performed for a total of 2500 learning epochs (output error always converged).</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>Testing procedure</title>
+        <p>For each experimental setting, we run 10 different networks in order to collect simulation statistics. In the results, we therefore always report mean values along with standard deviations.</p>
+        <sec>
+          <title>Decoding internal representations by linear read-out</title>
+          <p>Following unsupervised learning, a linear read-out was performed from the internal (hidden layer) distributed representations of the networks in order to assess how well they could support a supervised mapping to the target motor program through a simple linear projection (Pouget and Snyder, <xref rid="B54" ref-type="bibr">2000</xref>). The read-out was implemented using a linear neural network trained with the delta rule (Widrow and Hoff, <xref rid="B75" ref-type="bibr">1960</xref>). Learning was performed for 250 epochs using mini-batches of 20 patterns. Learning rate was set to 0.07, and weight decay of 0.000001 was used as a regularizer. Classifier performance was always measured on the separate test set. Test errors always matched those obtained on the training set, indicating that the read-out was robust to overfitting.</p>
+          <p>The output of the classifier was first compared with the target motor program by computing the Root Mean Squared Error (RMSE) between the two matrices. However, a more useful performance measure was obtained by first decoding the Center Of Mass (COM) of the output distribution, which was then compared with the actual coordinates of the motor program. This measure allows to quantify the read-out error in degrees: following Zipser and Andersen (<xref rid="B77" ref-type="bibr">1988</xref>), the mapping was considered to be successful if the error was below the distance between the centers of the Gaussian tuning functions in the retinotopic map (i.e., 3°). If the latter mapping accuracy was not achieved, we did not consider the network for subsequent analyses. We found the RMSE and COM measures to be always consistent with each other, so we only report COM results.</p>
+        </sec>
+        <sec>
+          <title>Measuring single-neuron and population sparseness</title>
+          <p>An index of <italic>single-neuron sparseness</italic> was computed using a well-established procedure employed in neurophysiological investigations (Rolls and Tovee, <xref rid="B59" ref-type="bibr">1995</xref>; Vinje and Gallant, <xref rid="B74" ref-type="bibr">2000</xref>), which describes the activity fraction <italic>a</italic> of each neuron across stimuli as:</p>
+          <disp-formula id="E8">
+            <mml:math id="M8">
+              <mml:mtable columnalign="left">
+                <mml:mtr columnalign="left">
+                  <mml:mtd columnalign="left">
+                    <mml:mrow>
+                      <mml:mi>a</mml:mi>
+                      <mml:mo>=</mml:mo>
+                      <mml:mfrac>
+                        <mml:mrow>
+                          <mml:msup>
+                            <mml:mrow>
+                              <mml:mrow>
+                                <mml:mo>(</mml:mo>
+                                <mml:mrow>
+                                  <mml:msup>
+                                    <mml:mstyle mathsize="140%" displaystyle="true">
+                                      <mml:mo>∑</mml:mo>
+                                    </mml:mstyle>
+                                    <mml:mtext>​</mml:mtext>
+                                  </mml:msup>
+                                  <mml:msub>
+                                    <mml:mi>r</mml:mi>
+                                    <mml:mi>i</mml:mi>
+                                  </mml:msub>
+                                  <mml:mo>/</mml:mo>
+                                  <mml:mi>n</mml:mi>
+                                </mml:mrow>
+                                <mml:mo>)</mml:mo>
+                              </mml:mrow>
+                            </mml:mrow>
+                            <mml:mn>2</mml:mn>
+                          </mml:msup>
+                        </mml:mrow>
+                        <mml:mrow>
+                          <mml:msup>
+                            <mml:mstyle mathsize="140%" displaystyle="true">
+                              <mml:mo>∑</mml:mo>
+                            </mml:mstyle>
+                            <mml:mtext>​</mml:mtext>
+                          </mml:msup>
+                          <mml:mo stretchy="false">(</mml:mo>
+                          <mml:msup>
+                            <mml:mrow>
+                              <mml:msub>
+                                <mml:mi>r</mml:mi>
+                                <mml:mi>i</mml:mi>
+                              </mml:msub>
+                            </mml:mrow>
+                            <mml:mn>2</mml:mn>
+                          </mml:msup>
+                          <mml:mo>/</mml:mo>
+                          <mml:mi>n</mml:mi>
+                          <mml:mo stretchy="false">)</mml:mo>
+                        </mml:mrow>
+                      </mml:mfrac>
+                    </mml:mrow>
+                  </mml:mtd>
+                </mml:mtr>
+              </mml:mtable>
+            </mml:math>
+          </disp-formula>
+          <p>where <italic>r</italic><sub><italic>i</italic></sub> is the firing rate of the neuron to the <italic>i</italic>-th stimulus in the set of <italic>n</italic> stimuli. This is a useful measure of the extent of the tail of the distribution, in this case of the firing rates of the neuron to each stimulus. Mean single-neuron sparseness for each network was then calculated by averaging the activity fraction <italic>a</italic> across all hidden neurons. A low value (minimum value is 0, maximum value is 1) indicates that the distribution has a long tail, which means that, on average, each neuron has high activation levels only for a small subset of input patterns. This method for quantifying sparseness has a number of advantages (Rolls and Tovee, <xref rid="B59" ref-type="bibr">1995</xref>): (a) it results from formal analyses of the capacity of neural networks using an approach derived from theoretical physics (Treves and Rolls, <xref rid="B73" ref-type="bibr">1991</xref>); (b) it can be applied both to binary neurons and to neurons with continuous (graded) firing rates; (c) it makes no assumption about the form of the firing rate distribution and (d) it makes no assumption about the mean and the variance of the firing rate.</p>
+          <p>Following Froudarakis et al. (<xref rid="B23" ref-type="bibr">2014</xref>) we also computed an index of <italic>population sparseness</italic>, on which the activity fraction is computed over the entire hidden layer, that is, by considering <italic>r</italic><sub><italic>i</italic></sub> as the firing rate of the <italic>i</italic>-th neuron and <italic>n</italic> as the total number of neurons. Mean population sparseness for each network was then calculated by averaging the activity fraction <italic>a</italic> across all stimuli. A low value of population sparseness indicates that, on average, each stimulus elicits high activations only for a small subset of hidden neurons.</p>
+        </sec>
+        <sec>
+          <title>Receptive fields emerging in the hidden neurons</title>
+          <p>In order to qualitatively assess the type of visual features extracted by individual hidden neurons, we first analyzed the weight matrices by separately plotting the strengths of the connections between each hidden neuron and all the visible neurons corresponding to the retinal input. Weights were plotted on a gray scale, with dark colors indicating strong inhibitory connections and light colors representing positive, excitatory connections. This allowed to assess whether hidden neurons learned location-specific receptive fields, for example by developing stronger projections to specific regions of the visual field.</p>
+        </sec>
+        <sec>
+          <title>Gain modulation indexes</title>
+          <p>We then analyzed the response of hidden neurons using a standard approach adopted in neurophysiological studies to assess gain modulation in parietal neurons (Andersen et al., <xref rid="B2" ref-type="bibr">1985</xref>). First, we probed the hidden neurons in order to only select the “visual” ones, that is, those responding to the portion of input vectors representing the retinotopic map (De Filippo De Grazia et al., <xref rid="B15" ref-type="bibr">2012</xref>). To this aim, we first recorded all hidden neurons' activations when the network received as input only all possible combinations of eye and effector positions (i.e., the retinotopic map and, if present, the motor program, were set to zero), and for each neuron we selected the positions corresponding to maximum activation. We then probed again each neuron, this time providing as input all possible retinotopic signals along with the preferred combination of postural signals. The neuron was considered as visual if its maximum activity differed by more than 10% from that recorded in the absence of visual input. Non-visual neurons were discarded from subsequent analyses<xref ref-type="fn" rid="fn0003"><sup>3</sup></xref>. We then computed a gain modulation index (GMI) for each neuron by recording its response to each target location as a function of eye and effector position (Pouget and Snyder, <xref rid="B54" ref-type="bibr">2000</xref>). We first identified the combination of postural and retinal input producing the maximum neuron activation value. Starting from this input combination, we systematically varied each postural variable (one at a time, keeping all the others fixed) and computed gain modulation as the normalized ratio between the maximum and minimum activation values. Therefore, each neuron was characterized by four different GMIs, representing the gain for each postural variable with respect to horizontal and vertical axes. We finally sorted all hidden neurons into four different categories based on the combination of GMI indexes (using a threshold of 0.5 to establish modulation): (i) no modulation (i.e., purely visual neurons), (ii) modulation by eye position only, (iii) modulation by effector position only, and (iv) modulation by both eye and effector position.</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="s3">
+      <title>Results</title>
+      <p>Learning always converged for all models. For unsupervised models, convergence was monitored by measuring the mean reconstruction error on the whole training set. Autoencoders required more learning epochs to converge, but also achieved a lower reconstruction error compared to RBMs. This is probably due to the fact that autoencoders are natively real-valued. Existing real-valued extensions of RBMs (Cho et al., <xref rid="B9" ref-type="bibr">2011</xref>) assume that the input values are normally distributed, which was not our case, so we preferred to use standard RBMs. Learning in the feed-forward, supervised models required almost 20 times more epochs to converge (the number of epochs required by each learning architecture is reported in Table <xref ref-type="table" rid="T1">1</xref>).</p>
+      <table-wrap id="T1" position="float">
+        <label>Table 1</label>
+        <caption>
+          <p><bold>Read-out errors for each learning architecture and space coding task, as a function of hidden layer size</bold>.</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <th valign="top" align="left" rowspan="1" colspan="1">
+                <bold>Space coding task</bold>
+              </th>
+              <th valign="top" align="center" rowspan="1" colspan="1">
+                <bold>Layer size</bold>
+              </th>
+              <th valign="top" align="center" colspan="2" style="border-bottom: thin solid #000000;" rowspan="1">
+                <bold>RBMs</bold>
+              </th>
+              <th valign="top" align="center" colspan="2" style="border-bottom: thin solid #000000;" rowspan="1">
+                <bold>Autoencoders</bold>
+              </th>
+              <th valign="top" align="center" colspan="2" style="border-bottom: thin solid #000000;" rowspan="1">
+                <bold>Supervised Feed-forward</bold>
+              </th>
+            </tr>
+            <tr>
+              <th rowspan="1" colspan="1"/>
+              <th rowspan="1" colspan="1"/>
+              <th valign="top" align="center" rowspan="1" colspan="1">
+                <bold>Read-out</bold>
+              </th>
+              <th valign="top" align="center" rowspan="1" colspan="1">
+                <bold>Epochs</bold>
+              </th>
+              <th valign="top" align="center" rowspan="1" colspan="1">
+                <bold>Read-out</bold>
+              </th>
+              <th valign="top" align="center" rowspan="1" colspan="1">
+                <bold>Epochs</bold>
+              </th>
+              <th valign="top" align="center" rowspan="1" colspan="1">
+                <bold>Read-out</bold>
+              </th>
+              <th valign="top" align="center" rowspan="1" colspan="1">
+                <bold>Epochs</bold>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1">No transformation</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">200</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">1.59 (0.08)</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">100</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">1.05 (0.05)</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">150</td>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1"/>
+              <td valign="top" align="center" rowspan="1" colspan="1">300</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">1.39 (0.07)</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">100</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">0.91 (0.04)</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">150</td>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1"/>
+              <td valign="top" align="center" rowspan="1" colspan="1">400</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">1.30 (0.08)</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">100</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">0.86 (0.04)</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">150</td>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1"/>
+              <td valign="top" align="center" rowspan="1" colspan="1">500</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">1.25 (0.04)</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">100</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">0.89 (0.02)</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">150</td>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1"/>
+              <td valign="top" align="center" rowspan="1" colspan="1">600</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">1.23 (0.05)</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">100</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">0.90 (0.02)</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">150</td>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr style="border-bottom: thin solid #000000;">
+              <td rowspan="1" colspan="1"/>
+              <td valign="top" align="center" rowspan="1" colspan="1">700</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">1.33 (0.04)</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">100</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">0.90 (0.03)</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">150</td>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1">Coordinate transformation</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">500</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">1.55 (0.15)</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">100</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">1.45 (0.05)</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">150</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">1.46 (0.06)</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">2,500</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1"/>
+              <td valign="top" align="center" rowspan="1" colspan="1">600</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">1.47 (0.12)</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">100</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">1.46 (0.06)</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">150</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">1.45 (0.02)</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">2,500</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1"/>
+              <td valign="top" align="center" rowspan="1" colspan="1">700</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">1.52 (0.11)</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">100</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">1.45 (0.05)</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">150</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">1.46 (0.05)</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">2,500</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1"/>
+              <td valign="top" align="center" rowspan="1" colspan="1">800</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">1.57 (0.11)</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">100</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">1.47 (0.08)</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">150</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">1.47 (0.08)</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">2,500</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1"/>
+              <td valign="top" align="center" rowspan="1" colspan="1">900</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">1.56 (0.16)</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">100</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">1.45 (0.07)</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">150</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">1.47 (0.04)</td>
+              <td valign="top" align="center" rowspan="1" colspan="1">2,500</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <p><italic>Read-out errors are in degrees, and standard deviations are reported in parentheses. The “Epochs” column shows the number of epochs required by each learning architecture to converge</italic>.</p>
+        </table-wrap-foot>
+      </table-wrap>
+      <p>A first, qualitative analysis shows that RBMs and autoencoders developed different types of receptive fields. As shown in Figure <xref ref-type="fig" rid="F3">3</xref>, autoencoders learned homogeneous, location-specific receptive fields that uniformly covered the central regions of the visual input. On the other hand, while some neurons in the RBMs learned location-specific receptive fields resembling those of autoencoders, other neurons developed more complex receptive fields covering larger regions of the visual fields, sometimes also simultaneously covering symmetrical portions of the input image.</p>
+      <fig id="F3" position="float">
+        <label>Figure 3</label>
+        <caption>
+          <p><bold>Visual receptive fields</bold>. Samples of receptive fields emerging from RBMs (top panel) and autoencoders (bottom panel) on the unsupervised learning task that did not require coordinate transformations. Similar receptive fields emerged from the unsupervised learning task involving coordinate transformations.</p>
+        </caption>
+        <graphic xlink:href="fncom-11-00013-g0003"/>
+      </fig>
+      <p>The quantitative analyses (see Section Testing Procedure) allowed to group hidden neurons into different categories according to their response profiles. In line with empirical findings (Duhamel et al., <xref rid="B20" ref-type="bibr">1997</xref>), there were always some neurons that did not exhibit any form of gain modulation (i.e., “purely visual” neurons), that is, they responded to visual stimuli at a given spatial location regardless of eye- or effector- positions. However, the majority of neurons developed gain fields, which in some cases were modulated exclusively by either eye or effector position (see, for example, top panels of Figure <xref ref-type="fig" rid="F4">4</xref>), while in other cases were modulated by both eye and effector position, resulting in multiple gain fields (bottom panels of Figure <xref ref-type="fig" rid="F4">4</xref>).</p>
+      <fig id="F4" position="float">
+        <label>Figure 4</label>
+        <caption>
+          <p><bold>Gain field coding</bold>. Examples of single (top panels) and multiple (bottom panels) gain fields emerging in the hidden neurons of RBMs <bold>(left)</bold> and autoencoders <bold>(right)</bold>. Colors represent the amount of activation, with yellow indicating highest activation and dark blue indicating lowest activation. Single gain fields are characterized by a modulation of the neuron's activation that depends only on one postural signal (in the figure, effector position for the RBM and eye position for the autoencoder). In multiple gain fields, the activation is modulated by both signals.</p>
+        </caption>
+        <graphic xlink:href="fncom-11-00013-g0004"/>
+      </fig>
+      <sec>
+        <title>Unsupervised learning without coordinate transformation</title>
+        <p>In a first set of simulations, the number of hidden units was fixed to 400<xref ref-type="fn" rid="fn0004"><sup>4</sup></xref>, while the sparsity constraint was varied between 0.004 (very strong sparsity constraint, requiring low average activation) and 0.3 (mild sparsity constraint). As shown in Figure <xref ref-type="fig" rid="F5">5</xref>, the effect of sparsity constraints on the two unsupervised architectures was markedly different. Levels of sparsity constraints in the first two rows are represented using a color scale, where lighter tones indicate stronger sparsity and dark tones indicate mild sparsity. Gain modulation in RBMs (Figure <xref ref-type="fig" rid="F5">5A</xref>) was not affected by imposing sparsity constraints. In all cases, we found a modest percentage (around 10%) of purely visual neurons, which were not modulated by any postural information. A more consistent percentage of neurons (20–25%) were modulated either by eye or by effector positions, while the remaining neurons (40–50%) exhibited multiple gain fields. Read-out accuracy (Figure <xref ref-type="fig" rid="F5">5C</xref>) was always good, except for the networks trained with very strong sparsity constraints (0.01 and 0.004), where learning failed and read-out accuracy did not achieve a mean error lower than 3°. The lowest read-out error (around 1.3°) was obtained with a sparsity constraint of 0.05. In contrast, autoencoders were extremely sensitive to sparsity constraints: Strong sparsity constraints resulted in a compressed code where the majority of hidden neurons (60%) exhibited multiple gain fields (Figure <xref ref-type="fig" rid="F5">5B</xref>). When the sparsity pressure was reduced gain fields gradually disappeared, and the majority of neurons did not exhibit any modulation at all. Read-out error was generally lower compared to RBMs, and learning failed only for the networks trained with extreme (0.004) or without any sparsity constraints (Figure <xref ref-type="fig" rid="F5">5D</xref>). Notably, also for autoencoders the lowest read-out error (around 0.9°) was obtained with a sparsity constraint of 0.05, which also resulted in a distribution of gain fields more similar to that of RBMs.</p>
+        <fig id="F5" position="float">
+          <label>Figure 5</label>
+          <caption>
+            <p><bold>Effect of sparsity constraints</bold>. Distribution of gain field types emerging in the hidden neurons of RBMs <bold>(A)</bold> and autoencoders <bold>(B)</bold> with varying levels of sparsity constraint. Sparsity constraints are represented in different columns using a color scale, where lighter tones indicate stronger sparsity constraints and dark red indicates mild sparsity constraints. Read-out errors obtained at each level of sparsity constraint for RBMs <bold>(C)</bold> and autoencoders <bold>(D)</bold>. Single-neuron and population sparseness as a function of sparsity constraints for RBMs <bold>(E)</bold>, and autoencoders <bold>(F)</bold>. Note that small values indicate stronger sparseness.</p>
+          </caption>
+          <graphic xlink:href="fncom-11-00013-g0005"/>
+        </fig>
+        <p>Interestingly, the objective indexes of sparseness revealed that RBMs are naturally much sparser than autoencoders (see bottom panels of Figure <xref ref-type="fig" rid="F5">5</xref>). Indeed, the level of sparsity constraint turned out to have a very weak effect on population sparseness in RBMs (Figure <xref ref-type="fig" rid="F5">5E</xref>), as also confirmed by linear regression [<italic>r</italic><sup>2</sup> = 0.32, b = 0.05, <italic>p</italic> &lt; 0.001, <italic>n</italic> = 50]. Single-neuron sparseness was only affected when the sparsity constraint operated below a critical level of 0.1. In order to measure what would be the “spontaneous” index of sparseness in RBMs, we trained an additional set of networks without imposing any sparsity constraint, which resulted in a single-neuron sparseness of 0.56 and a population sparseness of 0.28, showing that RBMs naturally exhibit a remarkable sparseness. In contrast, sparsity constraints in autoencoders had a marked effect on both single-neuron sparseness and population sparseness (Figure <xref ref-type="fig" rid="F5">5F</xref>), suggesting that this architecture naturally develops extremely distributed internal representations. In particular, the effect of level of sparsity constraint on population sparseness for autoencoders [linear regression: <italic>r</italic><sup>2</sup> = 0.88, b = 0.43, <italic>p</italic> &lt; 0.001, <italic>n</italic> = 50] was almost one order of magnitude higher compared to RBMs. In order to measure the spontaneous index of sparseness in autoencoders, we trained an additional set of networks with a very low sparsity constraint (0.8), which is the borderline condition that still guaranteed successful learning. The latter simulations yielded sparseness values indicating non-sparse, highly distributed representations (single-neuron sparseness = 0.97; population sparseness = 0.98).</p>
+        <p>In a second set of simulations, the sparsity constraint for both architectures was fixed to the value leading to the best performance (0.05), while the size of the hidden layer was varied systematically between 200 and 700 neurons in steps of 100. This range allowed to explore the effect of relatively large increases and decreases of hidden layer sizes with respect to the previous simulations, without compromising the learning accuracy. For both architectures, the read-out accuracy was not affected by hidden layer size, and the mapping error was always below 2° (read-out errors for all different hidden layer sizes are reported in Table <xref ref-type="table" rid="T1">1</xref>). However, as shown in Figure <xref ref-type="fig" rid="F6">6</xref>, also in this case the manipulation had different effects for the two architectures (lighter colors indicate smaller sizes). The type of encoding developed by RBMs (Figure <xref ref-type="fig" rid="F6">6A</xref>) was affected by hidden layer size: When the number of hidden neurons decreased the network developed more compressed codes, by increasing the percentage of multiple gain fields and reducing the percentage of neurons modulated by only eye or effector positions. Interestingly, it turned out that the manipulation of hidden layer size had a clear impact also on the underlying sparseness of the representation (Figure <xref ref-type="fig" rid="F6">6C</xref>). Indeed, both single-neuron and population sparseness decreased as a function of number of hidden neurons [linear regressions: single-neuron sparseness, <italic>r</italic><sup>2</sup> = 0.92, b = 0.22, <italic>p</italic> &lt; 0.001, <italic>n</italic> = 60; population sparseness, <italic>r</italic><sup>2</sup> = 0.96, b = 0.21, <italic>p</italic> &lt; 0.001, <italic>n</italic> = 60]. This result suggests that the distribution of gain fields in RBMs might in fact be modulated by the underlying sparseness of the representation. This was confirmed by the high correlation between the percentage of multiple gain-fields and the objective sparseness indexes [Pearson correlations: single-neuron sparseness: <italic>r</italic> = −0.85, <italic>p</italic> &lt; 0.001; population sparseness, <italic>r</italic> = −0.92, <italic>p</italic> &lt; 0.001].</p>
+        <fig id="F6" position="float">
+          <label>Figure 6</label>
+          <caption>
+            <p><bold>Effect of hidden layer size, with strong sparsity constraint</bold>. Distribution of gain field types emerging at the hidden layer of RBMs <bold>(A)</bold> and autoencoders <bold>(B)</bold> with varying number of hidden neurons and sparsity constraint fixed to 0.05. Lighter tones indicate smaller layers and dark blue indicates larger layers. Single-neuron and population sparseness as a function of hidden layer size for RBMs <bold>(C)</bold> and autoencoders <bold>(D)</bold>. Note that small values indicate stronger sparseness.</p>
+          </caption>
+          <graphic xlink:href="fncom-11-00013-g0006"/>
+        </fig>
+        <p>On the contrary, neuronal tuning functions in autoencoders were not affected by hidden layer size, as this architecture always developed uniformly distributed types of gain fields (Figure <xref ref-type="fig" rid="F6">6B</xref>). Interestingly, as for RBMs the reduction of hidden layer size caused a decrease in both single-neuron sparseness and population sparseness [linear regressions: single-neuron sparseness, <italic>r</italic><sup>2</sup> = 0.98, b = 0.25, <italic>p</italic> &lt; 0.001, <italic>n</italic> = 60; population sparseness, <italic>r</italic><sup>2</sup> = 0.98, b = 0.23, <italic>p</italic> &lt; 0.001, <italic>n</italic> = 60]. However, the sparseness indexes did not correlate with the percentage of multiple gain-fields [all <italic>p</italic> &gt; 0.05]. This suggests that similar changes in the underlying sparseness do not produce the same effect on the gain field distribution in RBMs and autoencoders.</p>
+        <p>In order to better clarify if the size of the hidden layer in RBMs modulates the distribution of gain fields only when sparseness is externally forced (i.e., when using a sparsity constraint of 0.05), in a subsequent set of simulations the sparsity constraint was set to a weak level (0.2) and the size of the hidden layer was manipulated as in the previous condition. In this case the distribution of gain fields did not systematically change (Figure <xref ref-type="fig" rid="F7">7A</xref>) but, notably, also the population sparseness was not affected (Figure <xref ref-type="fig" rid="F7">7C</xref>) [linear regression: <italic>r</italic><sup>2</sup> = 0.24, b = 0.03, <italic>p</italic> &lt; 0.001, <italic>n</italic> = 60]. Correlation analyses still revealed a correlation between population sparseness and the percentage of multimodal gain fields [<italic>r</italic> = −0.54, <italic>p</italic> &lt; 0.001], while the correlation with single-neuron sparseness was not significant [<italic>p</italic> &gt; 0.05]. These results show that, for RBMs, population sparseness is a robust predictor of the distribution of gain fields: if RBMs must rely only of few active neurons to represent each sensory stimulus, they will develop more compressed spatial codes, such as those based on multiple gain fields. The corresponding simulation with autoencoders was relatively uninformative, because the weak level of sparsity constraint resulted in the absence of multimodal gain fields (Figure <xref ref-type="fig" rid="F7">7B</xref>).</p>
+        <fig id="F7" position="float">
+          <label>Figure 7</label>
+          <caption>
+            <p><bold>Effect of hidden layer size, with moderate sparsity constraint</bold>. Distribution of gain field types emerging at the hidden layer of RBMs <bold>(A)</bold> and autoencoders <bold>(B)</bold> with varying number of hidden neurons and sparsity constraint fixed to 0.2. Lighter tones indicate smaller layers and dark blue indicates larger layers. Single-neuron and population sparseness as a function of hidden layer size for RBMs <bold>(C)</bold> and autoencoders <bold>(D)</bold>. Note that small values indicate stronger sparseness.</p>
+          </caption>
+          <graphic xlink:href="fncom-11-00013-g0007"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Unsupervised learning with coordinate transformation</title>
+        <p>As discussed before, in this learning setting the motor program was included as input during unsupervised learning. This implies that two different coordinate systems (i.e., retinotopic and motor) are implicitly associated during training. For these simulations, we focused on hidden layer size, which was varied between 500 and 900 neurons in steps of 100. Note that the larger number of hidden neurons with respect to the previous simulations is motivated by the increased size and complexity of the training patterns. The sparsity constraint was fixed to 0.05, which was the value resulting in more accurate read-outs and more balanced distribution of gain fields for both RBMs and autoencoders in the previous set of simulations. For both architectures, read-out accuracy was always good (mapping error below 2°) and it was not affected by hidden layer size (see Table <xref ref-type="table" rid="T1">1</xref>). As shown in Figure <xref ref-type="fig" rid="F8">8</xref>, RBMs generally developed a larger percentage of gain fields compared to autoencoders. In particular, the number of multiple gain fields was much higher for RBMs. Interestingly, for both architectures also in this case the manipulation of hidden layer size produced a systematic change in the sparseness indexes [linear regressions: RBMs single-neuron sparseness, <italic>r</italic><sup>2</sup> = 0.98, b = 0.14, <italic>p</italic> &lt; 0.001, <italic>n</italic> = 50; RBMs population sparseness, <italic>r</italic><sup>2</sup> = 0.95, b = 0.07, <italic>p</italic> &lt; 0.001, <italic>n</italic> = 50; autoencoders single-neuron sparseness, <italic>r</italic><sup>2</sup> = 0.98, b = 0.10, <italic>p</italic> &lt; 0.001, <italic>n</italic> = 60; autoencoders population sparseness, <italic>r</italic><sup>2</sup> = 0.98, b = 0.06, <italic>p</italic> &lt; 0.001, <italic>n</italic> = 60]. For both architectures, population and single-neuron sparseness were highly correlated with the percentage of multiple gain fields [Pearson correlations: RBMs single-neuron sparseness, <italic>r</italic> = −0.94, <italic>p</italic> &lt; 0.001; RBMs population sparseness, <italic>r</italic> = −0.96, <italic>p</italic> &lt; 0.001; autoencoders single-neuron sparseness, <italic>r</italic> = −0.88, <italic>p</italic> &lt; 0.001; autoencoders population sparseness, <italic>r</italic> = −0.88, <italic>p</italic> &lt; 0.001]. This finding corroborates the hypothesis that, especially for RBMs, reducing the number of active neurons results in more compressed codes based on multiple gain fields, which might be particularly advantageous in the current scenario since learning involved coordinate transformations. In contrast, fewer neurons in autoencoders exhibited multiple gain modulation (Figure <xref ref-type="fig" rid="F8">8B</xref>), even if also in this case the percentage of multiple gain fields was proportional to the underlying level of sparseness.</p>
+        <fig id="F8" position="float">
+          <label>Figure 8</label>
+          <caption>
+            <p><bold>Unsupervised learning involving coordinate transformations</bold>. Distribution of gain field types emerging at the hidden layer of RBMs <bold>(A)</bold> and autoencoders <bold>(B)</bold> with varying number of hidden neurons. Lighter tones indicate smaller layers and dark blue indicates larger layers. Single-neuron and population sparseness as a function of hidden layer size for RBMs <bold>(C)</bold> and autoencoders <bold>(D)</bold>. Note that small values indicate stronger sparseness.</p>
+          </caption>
+          <graphic xlink:href="fncom-11-00013-g0008"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Supervised learning with coordinate transformation</title>
+        <p>The final set of simulations reproduced the feed-forward, supervised architecture used by Zipser and Andersen (<xref rid="B77" ref-type="bibr">1988</xref>). As in their original work, we did not enforce sparse coding. The size of the hidden layer was varied between 500 and 900 in steps of 100. Learning always converged and both the feed-forward mapping error and the read-out error were below 3° (see Table <xref ref-type="table" rid="T1">1</xref>). As shown in Figure <xref ref-type="fig" rid="F9">9</xref>, this type of learning architecture developed a strikingly lower proportion of gain-modulated neurons in the hidden layer: Almost 80% of the neurons did not exhibit any form of gain field. The remaining ones were almost uniformly distributed across the three other types (about 8% for either eye or effector position; 10% for multiple gain modulation). Moreover, differently from the unsupervised architectures, the type of gain modulation was not affected by changes in the hidden layer size. This result is remarkable, because it suggests that feed-forward, supervised architectures are much less prone to develop efficient forms of space coding based on gain fields. One possible explanation for this finding is that the type of coding used to represent the motor program might have affected the efficiency of error backpropagation, which was not able to properly propagate the error signals across the hidden layer. Indeed, also Zipser and Andersen (<xref rid="B77" ref-type="bibr">1988</xref>) found some discrepancy between the type of gain modulations developed when using a monotonic output format compared to the Gaussian output format (which was adopted in the present study). However, the previous simulations with autoencoders showed that backpropagation can give rise to a variety of strong gain modulations when it is applied within an unsupervised learning setting. Another, more critical factor might instead be the absence of sparsity constraints, which were not used in the feed-forward models but turned out to be fundamental with autoencoders.</p>
+        <fig id="F9" position="float">
+          <label>Figure 9</label>
+          <caption>
+            <p><bold>Supervised learning of coordinate transformations</bold>. Distribution of gain field types emerging at the hidden layer of a feed-forward, supervised neural network similar to that used by Zipser and Andersen (<xref rid="B77" ref-type="bibr">1988</xref>) with varying number of hidden neurons. Lighter tones indicate smaller layers and dark blue indicates larger layers.</p>
+          </caption>
+          <graphic xlink:href="fncom-11-00013-g0009"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="s4">
+      <title>Discussion</title>
+      <p>In this study we investigated the role of architectural and learning constraints in neural network models that learned to encode spatial information resulting from the combination of visual and postural signals. Results showed that, compared to the supervised architecture originally proposed by Zipser and Andersen (<xref rid="B77" ref-type="bibr">1988</xref>), unsupervised architectures like Restricted Boltzmann Machines (RBMs) and autoencoders discover space codes that more closely reproduce the distribution of neuronal tuning functions observed in neurophysiological experiments. In particular, the majority of hidden neurons of RBMs and autoencoders exhibited gain modulation, which in some cases only depended either on eye or effector position, while in other cases depended on both eye and effector positions, thereby resulting in multiple gain fields. In fact, all unsupervised models developed a much higher percentage of gain modulated neurons compared to the supervised models. Although the precise distribution of gain field types in the cerebral cortex depends on the exact recording site (Colby and Goldberg, <xref rid="B11" ref-type="bibr">1999</xref>), our simulations suggest that this efficient form of encoding emerges more naturally if the task requires to reconstruct the whole sensory input, rather than to simply discover a feed-forward mapping to a target motor program. In other words, gain field coding might be useful when the goal is to discover “good” internal representations of the input data, that is, when the aim is to unveil and more explicitly encode the latent factors underlying the input data distribution.</p>
+      <p>As a general principle, the quality of an internal representation should reflect how well the learned features disentangle as many factors of variation as possible, at the same time discarding as little information about the data as is practical (Bengio et al., <xref rid="B3" ref-type="bibr">2013</xref>). In the specific case of sensorimotor transformations, it has been proposed that good internal representations should have a variety of properties, such as the ability to combine the input signal in a nonlinear way, the ability to fully cover the range of possible input values, and the ability to represent multiple reference frames simultaneously within the same neurons (Pouget and Snyder, <xref rid="B54" ref-type="bibr">2000</xref>). Populations of gain modulated neurons satisfy these requirements, allowing to encode visual space using a flexible set of basis functions. Notably, our simulations showed that this allows to learn coordinate transformations in two separate stages, by first learning the set of basis functions in a completely unsupervised way, and then learning appropriate mappings to target motor commands by relying on explicit supervision or reinforcement signals (Pouget and Snyder, <xref rid="B54" ref-type="bibr">2000</xref>).</p>
+      <p>Our analyses also highlighted several differences in the spatial codes learned by RBMs and autoencoders, despite the fact that these two unsupervised architectures are often considered similar, if not equivalent (Ranzato et al., <xref rid="B56" ref-type="bibr">2007</xref>; Coates et al., <xref rid="B10" ref-type="bibr">2011</xref>). Even from a simple, qualitative analysis of the visual receptive fields, it turned out that these models developed different internal representations. Subsequent analyses conducted to investigate the emergence of gain fields further revealed that the distribution of hidden neurons' tuning functions in RBMs and autoencoders was similar only for a very narrow choice of the hyper-parameters. An important finding was that RBMs spontaneously exhibited a remarkable level of sparseness, which made them insensitive to external sparsity constraints, and which encouraged the emergence of compressed forms of spatial coding based on gain modulation. The spontaneous level of sparseness in RBMs could be manipulated only within a narrow range, by imposing an extreme sparsity constraint and jointly reducing the size of the hidden layer. This forced the internal representations to rely on even fewer neurons, and produced an increase in the percentage of multiple gain fields. These findings are consistent with the intuition that reducing the computational resources forces the networks to discover more complex (and compressed) forms of encoding, such as those resulting from the combination of many sensory/postural variables into multiple gain fields. Notably, for RBMs this was the case even when the task did not involve any coordinate transformations, which implied that postural variables were orthogonal. In other words, despite the fact that eye and effector positions were varied independently across training patterns, the RBMs with fewer active neurons often combined these signals together, resulting in an increase of multiple gain fields. Nevertheless, unlike autoencoders, RBMs always dedicated some representational resources also to encode eye and effector positions independently.</p>
+      <p>Autoencoders turned out to rely on much more distributed representations compared to RBMs, and were therefore extremely sensitive to external sparsity constraints. This implies that, compared to RBMs, autoencoders have an additional hyper-parameter that must be carefully tuned. Notably, when the sparsity pressure was reduced hidden neurons in the autoencoders did not develop any form of gain modulation. Only for specific values of sparsity constraints autoencoders could reproduce the variety of gain field types observed in neurophysiological data (Brotchie et al., <xref rid="B5" ref-type="bibr">1995</xref>; Graziano et al., <xref rid="B25" ref-type="bibr">1997</xref>; Snyder et al., <xref rid="B66" ref-type="bibr">1998</xref>; Chang et al., <xref rid="B8" ref-type="bibr">2009</xref>), with a distribution compatible with that of RBMs. However, in autoencoders the underlying sparseness indexes did not seem to be systematically related to the complexity of the emergent spatial codes. Though these findings alone do not allow to adjudicate between models, they call for a more systematic investigation of these different learning architectures, possibly spanning other domains and using a more direct comparison to neurophysiological data.</p>
+      <p>A plausible explanation for the striking differences in the spontaneous level of sparseness between RBMs and autoencoders can be found when considering the different processing dynamics embedded in these two neural network models. Indeed, in autoencoders the activation of each hidden neuron is deterministic, and simply corresponds to the (possibly graded) value returned by the non-linear, logistic activation function. In RBMs, instead, the value returned by the logistic function is treated as a probability, and the final activation of each hidden neuron is obtained by performing a stochastic binarization step. This important difference likely produces more sharp neuronal activations, driving RBMs to develop more sparse representations compared to autoencoders.</p>
+      <p>From a broader perspective, we believe that stochastic neural networks such as RBMs and their extension into hierarchical generative models will have an increasingly central role in neurocomputational modeling, because they provide a unique bridge between high-level descriptions of cognition in terms of Bayesian computation and low-level, mechanistic explanations inspired by the biophysical properties of real neuronal networks (Testolin and Zorzi, <xref rid="B71" ref-type="bibr">2016</xref>). For example, generative neural networks are compatible with Bayesian approaches based on probabilistic population codes (Ma et al., <xref rid="B43" ref-type="bibr">2006</xref>), which have been successfully used to simulate sensorimotor transformations with basis functions (Pouget and Sejnowski, <xref rid="B53" ref-type="bibr">1997</xref>; Pouget and Snyder, <xref rid="B54" ref-type="bibr">2000</xref>). RBMs extend the basis function approach by explaining how learning might shape the emergent neuronal gain fields, and they could similarly be combined with attractor dynamics to simulate optimal statistical inference over multisensory spatial representations (cf. Pouget et al., <xref rid="B52" ref-type="bibr">2002</xref>) and spatial remapping in attention orienting (cf. Casarotti et al., <xref rid="B7" ref-type="bibr">2012</xref>).</p>
+      <p>Moreover, the fact that generative networks can simulate both evoked (feed-forward) and intrinsic (feedback) neuronal activity makes them particularly suited to investigate spontaneous brain activity, which has been recognized as a fundamental property of the brain (Raichle, <xref rid="B55" ref-type="bibr">2015</xref>) but whose computational role is still largely unknown. An intriguing hypothesis suggests that intrinsic activity could help with driving the brain close to states that are probable to be valid inferences once an external input arrives, thus potentially shortening the reaction time of the system (Fiser et al., <xref rid="B21" ref-type="bibr">2010</xref>). Stochastic, generative networks are consistent with this “sampling-based” framework, and also support the idea that neuronal noise could play an important role during sampling (Kirkpatrick et al., <xref rid="B38" ref-type="bibr">1983</xref>), for example by keeping the system in a metastable state that facilitates flexible settling into the most appropriate configuration (Kelso, <xref rid="B36" ref-type="bibr">2012</xref>; Deco et al., <xref rid="B14" ref-type="bibr">2013</xref>). Notably, we are also beginning to better understand how these powerful models could be implemented with biologically more realistic architectures, such as those incorporating temporal dynamics and spike-based communication (Buesing et al., <xref rid="B6" ref-type="bibr">2011</xref>; Nessler et al., <xref rid="B50" ref-type="bibr">2013</xref>).</p>
+      <p>In conclusion, we hope that the recent breakthroughs in neurally-inspired machine learning will attract the interest of the neuroscience community, as these models hold great promise for improving our understanding of how learning shapes and organizes information processing in complex neuronal networks.</p>
+    </sec>
+    <sec id="s5">
+      <title>Author contributions</title>
+      <p>AT, MD, and MZ equally contributed to the research design. AT implemented the simulations. AT and MD analyzed the data. AT and MZ wrote the paper. All the authors are accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.</p>
+      <sec>
+        <title>Conflict of interest statement</title>
+        <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>This research was supported by grants from the European Research Council (no. 210922) and by the University of Padova (Strategic Grant NEURAT) to MZ. We are grateful to the Reviewers for their helpful comments on a previous version of this article.</p>
+    </ack>
+    <fn-group>
+      <fn id="fn0001">
+        <p>
+          <sup>1</sup>
+          <ext-link ext-link-type="uri" xlink:href="http://ccnl.psy.unipd.it/research/deeplearning">http://ccnl.psy.unipd.it/research/deeplearning</ext-link>
+        </p>
+      </fn>
+      <fn id="fn0002">
+        <p><sup>2</sup>MATLAB provides several improved versions of the standard backpropagation algorithm. An extended set of preliminary simulations was used to establish the best performing variant. In particular, these training functions were tested: <italic>traingdm</italic> (gradient descent with momentum); <italic>traingda</italic> (gradient descent with adaptive learning rate); <italic>traingdx</italic> (gradient descent with momentum and adaptive learning rate); <italic>trainscg</italic> (scaled conjugate gradient) and <italic>trainrp</italic> (resilient backpropagation). The most stable and accurate learning algorithm was resilient backpropagation (Riedmiller and Braun, <xref rid="B58" ref-type="bibr">1993</xref>).</p>
+      </fn>
+      <fn id="fn0003">
+        <p><sup>3</sup>It turned out that more than 95% of hidden neurons responded to the visual input, with a minimum activation value exceeding a threshold of 0.1.</p>
+      </fn>
+      <fn id="fn0004">
+        <p><sup>4</sup>The initial size of the hidden layer was determined empirically based on a set of pilot simulations to guarantee reliable and relatively fast convergence of learning.</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ackley</surname><given-names>D.</given-names></name><name><surname>Hinton</surname><given-names>G. E.</given-names></name><name><surname>Sejnowski</surname><given-names>T. J.</given-names></name></person-group> (<year>1985</year>). <article-title>A learning algorithm for Boltzmann machines</article-title>. <source>Cogn. Sci.</source>
+<volume>9</volume>, <fpage>147</fpage>–<lpage>169</lpage>. <pub-id pub-id-type="doi">10.1207/s15516709cog0901_7</pub-id></mixed-citation>
+      </ref>
+      <ref id="B2">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Andersen</surname><given-names>R. A.</given-names></name><name><surname>Essick</surname><given-names>G. K.</given-names></name><name><surname>Siegel</surname><given-names>R. M.</given-names></name></person-group> (<year>1985</year>). <article-title>Encoding of spatial location by posterior parietal neurons</article-title>. <source>Science</source>
+<volume>230</volume>, <fpage>456</fpage>–<lpage>458</lpage>. <pub-id pub-id-type="doi">10.1126/science.4048942</pub-id><?supplied-pmid 4048942?><pub-id pub-id-type="pmid">4048942</pub-id></mixed-citation>
+      </ref>
+      <ref id="B3">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bengio</surname><given-names>Y.</given-names></name><name><surname>Courville</surname><given-names>A.</given-names></name><name><surname>Vincent</surname><given-names>P.</given-names></name></person-group> (<year>2013</year>). <article-title>Representation learning: a review and new perspectives</article-title>. <source>IEEE Trans. Pattern Anal. Mach. Intell</source>. <volume>35</volume>, <fpage>1798</fpage>–<lpage>1828</lpage>. <pub-id pub-id-type="doi">10.1109/TPAMI.2013.50</pub-id><?supplied-pmid 23787338?><pub-id pub-id-type="pmid">23787338</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bengio</surname><given-names>Y.</given-names></name><name><surname>Lamblin</surname><given-names>P.</given-names></name><name><surname>Popovici</surname><given-names>D.</given-names></name><name><surname>Larochelle</surname><given-names>H.</given-names></name></person-group> (<year>2007</year>). <article-title>Greedy layer-wise training of deep networks</article-title>. <source>Adv. Neural Inf. Process. Syst.</source>
+<volume>19</volume>, <fpage>153</fpage>–<lpage>170</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B5">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brotchie</surname><given-names>P. R.</given-names></name><name><surname>Andersen</surname><given-names>R. A.</given-names></name><name><surname>Snyder</surname><given-names>L. H.</given-names></name><name><surname>Goodman</surname><given-names>S. J.</given-names></name></person-group> (<year>1995</year>). <article-title>Head position signals used by parietal neurons to encode locations of visual stimuli</article-title>. <source>Nature</source>
+<volume>375</volume>, <fpage>232</fpage>–<lpage>235</lpage>. <pub-id pub-id-type="doi">10.1038/375232a0</pub-id><?supplied-pmid 7746323?><pub-id pub-id-type="pmid">7746323</pub-id></mixed-citation>
+      </ref>
+      <ref id="B6">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Buesing</surname><given-names>L.</given-names></name><name><surname>Bill</surname><given-names>J.</given-names></name><name><surname>Nessler</surname><given-names>B.</given-names></name><name><surname>Maass</surname><given-names>W.</given-names></name></person-group> (<year>2011</year>). <article-title>Neural dynamics as sampling: a model for stochastic computation in recurrent networks of spiking neurons</article-title>. <source>PLoS Comput. Biol.</source>
+<volume>7</volume>:<fpage>e1002211</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pcbi.1002211</pub-id><?supplied-pmid 22096452?><pub-id pub-id-type="pmid">22096452</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Casarotti</surname><given-names>M.</given-names></name><name><surname>Lisi</surname><given-names>M.</given-names></name><name><surname>Umiltà</surname><given-names>C.</given-names></name><name><surname>Zorzi</surname><given-names>M.</given-names></name></person-group> (<year>2012</year>). <article-title>Paying attention through eye movements: a computational investigation of the premotor theory of spatial attention</article-title>. <source>J. Cogn. Neurosci.</source>
+<volume>24</volume>, <fpage>1519</fpage>–<lpage>1531</lpage>. <pub-id pub-id-type="doi">10.1162/jocn_a_00231</pub-id><?supplied-pmid 22452561?><pub-id pub-id-type="pmid">22452561</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chang</surname><given-names>S. W.</given-names></name><name><surname>Papadimitriou</surname><given-names>C.</given-names></name><name><surname>Snyder</surname><given-names>L. H.</given-names></name></person-group> (<year>2009</year>). <article-title>Using a compound gain field to compute a reach plan</article-title>. <source>Neuron</source>
+<volume>64</volume>, <fpage>744</fpage>–<lpage>755</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuron.2009.11.005</pub-id><?supplied-pmid 20005829?><pub-id pub-id-type="pmid">20005829</pub-id></mixed-citation>
+      </ref>
+      <ref id="B9">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Cho</surname><given-names>K.</given-names></name><name><surname>Ilin</surname><given-names>A.</given-names></name><name><surname>Raiko</surname><given-names>T.</given-names></name></person-group> (<year>2011</year>). <article-title>Improved learning algorithms for restricted boltzmann machines</article-title>, in <source>International Conference on Artificial Neural Networks</source> (<publisher-loc>Espoo</publisher-loc>), <fpage>10</fpage>–<lpage>17</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Coates</surname><given-names>A.</given-names></name><name><surname>Arbor</surname><given-names>A.</given-names></name><name><surname>Ng</surname><given-names>A. Y.</given-names></name></person-group> (<year>2011</year>). <article-title>An analysis of single-layer networks in unsupervised feature learning</article-title>. <source>Int. Conference Artif. Intell. Stat.</source>
+<volume>15</volume>, <fpage>215</fpage>–<lpage>223</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Colby</surname><given-names>C. L.</given-names></name><name><surname>Goldberg</surname><given-names>M. E.</given-names></name></person-group> (<year>1999</year>). <article-title>Space and attention in parietal cortex</article-title>. <source>Annu. Rev. Neurosci.</source>
+<volume>22</volume>, <fpage>319</fpage>–<lpage>349</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.neuro.22.1.319</pub-id><?supplied-pmid 10202542?><pub-id pub-id-type="pmid">10202542</pub-id></mixed-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Collobert</surname><given-names>R.</given-names></name><name><surname>Weston</surname><given-names>J.</given-names></name><name><surname>Bottou</surname><given-names>L.</given-names></name><name><surname>Karlen</surname><given-names>M.</given-names></name><name><surname>Kavukcuoglu</surname><given-names>K.</given-names></name><name><surname>Kuksa</surname><given-names>P.</given-names></name></person-group> (<year>2011</year>). <article-title>Natural language processing (almost) from scratch</article-title>. <source>J. Mach. Learn. Res.</source>
+<volume>12</volume>, <fpage>2493</fpage>–<lpage>2537</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cox</surname><given-names>D. D.</given-names></name><name><surname>Dean</surname><given-names>T.</given-names></name></person-group> (<year>2014</year>). <article-title>Neural networks and neuroscience-inspired computer vision</article-title>. <source>Curr. Biol.</source>
+<volume>24</volume>, <fpage>R921</fpage>–<lpage>R929</lpage>. <pub-id pub-id-type="doi">10.1016/j.cub.2014.08.026</pub-id><?supplied-pmid 25247371?><pub-id pub-id-type="pmid">25247371</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Deco</surname><given-names>G.</given-names></name><name><surname>Jirsa</surname><given-names>V. K.</given-names></name><name><surname>McIntosh</surname><given-names>A. R.</given-names></name></person-group> (<year>2013</year>). <article-title>Resting brains never rest: computational insights into potential cognitive architectures</article-title>. <source>Trends Neurosci.</source>
+<volume>36</volume>, <fpage>268</fpage>–<lpage>274</lpage>. <pub-id pub-id-type="doi">10.1016/j.tins.2013.03.001</pub-id><?supplied-pmid 23561718?><pub-id pub-id-type="pmid">23561718</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>De Filippo De Grazia</surname><given-names>M.</given-names></name><name><surname>Cutini</surname><given-names>S.</given-names></name><name><surname>Lisi</surname><given-names>M.</given-names></name><name><surname>Zorzi</surname><given-names>M.</given-names></name></person-group> (<year>2012</year>). <article-title>Space coding for sensorimotor transformations can emerge through unsupervised learning</article-title>. <source>Cogn. Process.</source>
+<volume>13</volume>, <fpage>141</fpage>–<lpage>146</lpage>. <pub-id pub-id-type="doi">10.1007/s10339-012-0478-4</pub-id><?supplied-pmid 22802037?><pub-id pub-id-type="pmid">22802037</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>De Meyer</surname><given-names>K.</given-names></name><name><surname>Spratling</surname><given-names>M. W.</given-names></name></person-group> (<year>2011</year>). <article-title>Multiplicative gain modulation arises through unsupervised learning in a predictive coding model of cortical function</article-title>. <source>Neural Comput.</source>
+<volume>23</volume>, <fpage>1536</fpage>–<lpage>1567</lpage>. <pub-id pub-id-type="doi">10.1162/NECO_a_00130</pub-id><?supplied-pmid 21395434?><pub-id pub-id-type="pmid">21395434</pub-id></mixed-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Demuth</surname><given-names>H.</given-names></name><name><surname>Beale</surname><given-names>M.</given-names></name></person-group> (<year>1993</year>). <source>Neural Network Toolbox for Use with MATLAB</source>. <publisher-loc>Natick, MA</publisher-loc>: <publisher-name>The MathWorks, Inc</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Di Bono</surname><given-names>M. G.</given-names></name><name><surname>Zorzi</surname><given-names>M.</given-names></name></person-group> (<year>2013</year>). <article-title>Deep generative learning of location-invariant visual word recognition</article-title>. <source>Front. Psychol.</source>
+<volume>4</volume>:<fpage>635</fpage>. <pub-id pub-id-type="doi">10.3389/fpsyg.2013.00635</pub-id><?supplied-pmid 24065939?><pub-id pub-id-type="pmid">24065939</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Duhamel</surname><given-names>J. R.</given-names></name><name><surname>Colby</surname><given-names>C. L.</given-names></name><name><surname>Goldberg</surname><given-names>M. E.</given-names></name></person-group> (<year>1992</year>). <article-title>The updating of the representation of visual space in parietal cortex by intended eye movements</article-title>. <source>Science</source>
+<volume>255</volume>, <fpage>90</fpage>–<lpage>92</lpage>. <pub-id pub-id-type="doi">10.1126/science.1553535</pub-id><?supplied-pmid 1553535?><pub-id pub-id-type="pmid">1553535</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Duhamel</surname><given-names>J. R.</given-names></name><name><surname>Bremmer</surname><given-names>F.</given-names></name><name><surname>Ben Hamed</surname><given-names>S.</given-names></name><name><surname>Graf</surname><given-names>W.</given-names></name></person-group> (<year>1997</year>). <article-title>Spatial invariance of visual receptive fields in parietal cortex neurons</article-title>. <source>Nature</source>
+<volume>389</volume>, <fpage>845</fpage>–<lpage>848</lpage>. <pub-id pub-id-type="doi">10.1038/39865</pub-id><?supplied-pmid 9349815?><pub-id pub-id-type="pmid">9349815</pub-id></mixed-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fiser</surname><given-names>J.</given-names></name><name><surname>Berkes</surname><given-names>P.</given-names></name><name><surname>Orbán</surname><given-names>G.</given-names></name><name><surname>Lengyel</surname><given-names>M.</given-names></name></person-group> (<year>2010</year>). <article-title>Statistically optimal perception and learning: from behavior to neural representations</article-title>. <source>Trends Cogn. Sci.</source>
+<volume>14</volume>, <fpage>119</fpage>–<lpage>130</lpage>. <pub-id pub-id-type="doi">10.1016/j.tics.2010.01.003</pub-id><?supplied-pmid 20153683?><pub-id pub-id-type="pmid">20153683</pub-id></mixed-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Friston</surname><given-names>K.</given-names></name></person-group> (<year>2010</year>). <article-title>The free-energy principle: a unified brain theory?</article-title>
+<source>Nat. Rev. Neurosci.</source>
+<volume>11</volume>, <fpage>127</fpage>–<lpage>138</lpage>. <pub-id pub-id-type="doi">10.1038/nrn2787</pub-id><?supplied-pmid 20068583?><pub-id pub-id-type="pmid">20068583</pub-id></mixed-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Froudarakis</surname><given-names>E.</given-names></name><name><surname>Berens</surname><given-names>P.</given-names></name><name><surname>Ecker</surname><given-names>A. S.</given-names></name><name><surname>Cotton</surname><given-names>R. J.</given-names></name><name><surname>Sinz</surname><given-names>F. H.</given-names></name><name><surname>Yatsenko</surname><given-names>D.</given-names></name><etal/></person-group>. (<year>2014</year>). <article-title>Population code in mouse V1 facilitates readout of natural scenes through increased sparseness</article-title>. <source>Nat. Neurosci.</source>
+<volume>17</volume>, <fpage>851</fpage>–<lpage>857</lpage>. <pub-id pub-id-type="doi">10.1038/nn.3707</pub-id><?supplied-pmid 24747577?><pub-id pub-id-type="pmid">24747577</pub-id></mixed-citation>
+      </ref>
+      <ref id="B24">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gilbert</surname><given-names>C. D.</given-names></name><name><surname>Sigman</surname><given-names>M.</given-names></name></person-group> (<year>2007</year>). <article-title>Brain states: top-down influences in sensory processing</article-title>. <source>Neuron</source>
+<volume>54</volume>, <fpage>677</fpage>–<lpage>696</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuron.2007.05.019</pub-id><?supplied-pmid 17553419?><pub-id pub-id-type="pmid">17553419</pub-id></mixed-citation>
+      </ref>
+      <ref id="B25">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Graziano</surname><given-names>M. S.</given-names></name><name><surname>Hu</surname><given-names>X. T.</given-names></name><name><surname>Gross</surname><given-names>C. G.</given-names></name></person-group> (<year>1997</year>). <article-title>Visuospatial properties of ventral premotor cortex</article-title>. <source>J. Neurophysiol.</source>
+<volume>77</volume>, <fpage>2268</fpage>–<lpage>2292</lpage>. <?supplied-pmid 9163357?><pub-id pub-id-type="pmid">9163357</pub-id></mixed-citation>
+      </ref>
+      <ref id="B26">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Güçlü</surname><given-names>U.</given-names></name><name><surname>van Gerven</surname><given-names>M. A. J.</given-names></name></person-group> (<year>2015</year>). <article-title>Deep neural networks reveal a gradient in the complexity of neural representations across the ventral stream</article-title>. <source>J. Neurosci.</source>
+<volume>35</volume>, <fpage>10005</fpage>–<lpage>10014</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.5023-14.2015</pub-id><?supplied-pmid 26157000?><pub-id pub-id-type="pmid">26157000</pub-id></mixed-citation>
+      </ref>
+      <ref id="B27">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Güçlü</surname><given-names>U.</given-names></name><name><surname>van Gerven</surname><given-names>M. A. J.</given-names></name></person-group> (<year>2014</year>). <article-title>Unsupervised feature learning improves prediction of human brain activity in response to natural images</article-title>. <source>PLoS Comput. Biol.</source>
+<volume>10</volume>:<fpage>e1003724</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pcbi.1003724</pub-id><?supplied-pmid 25101625?><pub-id pub-id-type="pmid">25101625</pub-id></mixed-citation>
+      </ref>
+      <ref id="B28">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hinton</surname><given-names>G. E.</given-names></name></person-group> (<year>2002</year>). <article-title>Training products of experts by minimizing contrastive divergence</article-title>. <source>Neural Comput.</source>
+<volume>14</volume>, <fpage>1771</fpage>–<lpage>1800</lpage>. <pub-id pub-id-type="doi">10.1162/089976602760128018</pub-id><?supplied-pmid 12180402?><pub-id pub-id-type="pmid">12180402</pub-id></mixed-citation>
+      </ref>
+      <ref id="B29">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hinton</surname><given-names>G. E.</given-names></name></person-group> (<year>2007</year>). <article-title>Learning multiple layers of representation</article-title>. <source>Trends Cogn. Sci.</source>
+<volume>11</volume>, <fpage>428</fpage>–<lpage>34</lpage>. <pub-id pub-id-type="doi">10.1016/j.tics.2007.09.004</pub-id><?supplied-pmid 17921042?><pub-id pub-id-type="pmid">17921042</pub-id></mixed-citation>
+      </ref>
+      <ref id="B30">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Hinton</surname><given-names>G. E.</given-names></name></person-group> (<year>2010</year>). <source>A Practical Guide to Training Restricted Boltzmann Machines</source>. Tech. Rep. UTML TR 2010-003, <publisher-name>Univ. Toronto</publisher-name>
+<volume>9</volume>, <fpage>1</fpage>.</mixed-citation>
+      </ref>
+      <ref id="B31">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hinton</surname><given-names>G. E.</given-names></name></person-group> (<year>2013</year>). <article-title>Where do features come from?</article-title>. <source>Cogn. Sci</source>. <volume>38</volume>, <fpage>1</fpage>–<lpage>24</lpage>. <pub-id pub-id-type="doi">10.1111/cogs.12049</pub-id><?supplied-pmid 23800216?><pub-id pub-id-type="pmid">24070563</pub-id></mixed-citation>
+      </ref>
+      <ref id="B32">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hinton</surname><given-names>G. E.</given-names></name><name><surname>Ghahramani</surname><given-names>Z.</given-names></name></person-group> (<year>1997</year>). <article-title>Generative models for discovering sparse distributed representations</article-title>. <source>Philos. Trans. R. Soc. Lond. B. Biol. Sci.</source>
+<volume>352</volume>, <fpage>1177</fpage>–<lpage>1190</lpage>. <pub-id pub-id-type="doi">10.1098/rstb.1997.0101</pub-id><?supplied-pmid 9304685?><pub-id pub-id-type="pmid">9304685</pub-id></mixed-citation>
+      </ref>
+      <ref id="B33">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hinton</surname><given-names>G. E.</given-names></name><name><surname>Salakhutdinov</surname><given-names>R.</given-names></name></person-group> (<year>2006</year>). <article-title>Reducing the dimensionality of data with neural networks</article-title>. <source>Science</source>
+<volume>313</volume>, <fpage>504</fpage>–<lpage>507</lpage>. <pub-id pub-id-type="doi">10.1126/science.1127647</pub-id><?supplied-pmid 16873662?><pub-id pub-id-type="pmid">16873662</pub-id></mixed-citation>
+      </ref>
+      <ref id="B34">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Hinton</surname><given-names>G. E.</given-names></name><name><surname>Sejnowski</surname><given-names>T. J.</given-names></name></person-group> (<year>1999</year>). <source>Unsupervised Learning: Foundations of Neural Computation.</source>
+<publisher-loc>Cambridge, MA</publisher-loc>: <publisher-name>MIT Press</publisher-name> Available at: <ext-link ext-link-type="uri" xlink:href="http://books.google.com/books?hl=it&amp;lr=&amp;id=yj04Y0lje4cC&amp;pgis=1">http://books.google.com/books?hl=it&amp;lr=&amp;id=yj04Y0lje4cC&amp;pgis=1</ext-link> [Accessed July 4, 2012].</mixed-citation>
+      </ref>
+      <ref id="B35">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kastner</surname><given-names>S.</given-names></name><name><surname>Ungerleider</surname><given-names>L. G.</given-names></name></person-group> (<year>2000</year>). <article-title>Mechanisms of visual attention in the human cortex</article-title>. <source>Annu. Rev. Neurosci.</source>
+<volume>23</volume>, <fpage>315</fpage>–<lpage>341</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.neuro.23.1.315</pub-id><?supplied-pmid 10845067?><pub-id pub-id-type="pmid">10845067</pub-id></mixed-citation>
+      </ref>
+      <ref id="B36">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kelso</surname><given-names>J. A.</given-names></name></person-group> (<year>2012</year>). <article-title>Multistability and metastability: understanding dynamic coordination in the brain</article-title>. <source>Philos. Trans. R. Soc. Lond. B Biol. Sci.</source>
+<volume>367</volume>, <fpage>906</fpage>–<lpage>918</lpage>. <pub-id pub-id-type="doi">10.1098/rstb.2011.0351</pub-id><?supplied-pmid 22371613?><pub-id pub-id-type="pmid">22371613</pub-id></mixed-citation>
+      </ref>
+      <ref id="B37">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Khaligh-Razavi</surname><given-names>S. M.</given-names></name><name><surname>Kriegeskorte</surname><given-names>N.</given-names></name></person-group> (<year>2014</year>). <article-title>Deep Supervised, but not unsupervised, models may explain IT cortical representation</article-title>. <source>PLoS Comput. Biol.</source>
+<volume>10</volume>:<fpage>e1003915</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pcbi.1003915</pub-id><?supplied-pmid 25375136?><pub-id pub-id-type="pmid">25375136</pub-id></mixed-citation>
+      </ref>
+      <ref id="B38">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kirkpatrick</surname><given-names>S.</given-names></name><name><surname>Gelatt</surname><given-names>C. D.</given-names><suffix>Jr.</suffix></name><name><surname>Vecchi</surname><given-names>M. P.</given-names></name></person-group> (<year>1983</year>). <article-title>Optimization by simmulated annealing</article-title>. <source>Science</source>
+<volume>220</volume>, <fpage>671</fpage>–<lpage>680</lpage>. <pub-id pub-id-type="doi">10.1126/science.220.4598.671</pub-id><?supplied-pmid 17813860?><pub-id pub-id-type="pmid">17813860</pub-id></mixed-citation>
+      </ref>
+      <ref id="B39">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Krizhevsky</surname><given-names>A.</given-names></name><name><surname>Sutskever</surname><given-names>I.</given-names></name><name><surname>Hinton</surname><given-names>G. E.</given-names></name></person-group> (<year>2012</year>). <article-title>ImageNet classification with deep convolutional neural networks</article-title>. <source>Adv. Neural Inf. Process. Syst.</source>
+<volume>24</volume>, <fpage>609</fpage>–<lpage>616</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B40">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>LeCun</surname><given-names>Y.</given-names></name><name><surname>Bengio</surname><given-names>Y.</given-names></name><name><surname>Hinton</surname><given-names>G.</given-names></name></person-group> (<year>2015</year>). <article-title>Deep learning</article-title>. <source>Nature</source>
+<volume>521</volume>, <fpage>436</fpage>–<lpage>444</lpage>. <pub-id pub-id-type="doi">10.1038/nature14539</pub-id><?supplied-pmid 26017442?><pub-id pub-id-type="pmid">26017442</pub-id></mixed-citation>
+      </ref>
+      <ref id="B41">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lee</surname><given-names>H.</given-names></name><name><surname>Ekanadham</surname><given-names>C.</given-names></name><name><surname>Ng</surname><given-names>A. Y.</given-names></name></person-group> (<year>2008</year>). <article-title>Sparse deep belief net models for visual area V2</article-title>. <source>Adv. Neural Inf. Process. Syst</source>. <volume>20</volume>, <fpage>873</fpage>–<lpage>880</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B42">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lee</surname><given-names>T. S.</given-names></name><name><surname>Mumford</surname><given-names>D.</given-names></name></person-group> (<year>2003</year>). <article-title>Hierarchical Bayesian inference in the visual cortex</article-title>. <source>J. Opt. Soc. Am. A</source>
+<volume>20</volume>:<fpage>1434</fpage>. <pub-id pub-id-type="doi">10.1364/josaa.20.001434</pub-id><?supplied-pmid 12868647?><pub-id pub-id-type="pmid">12868647</pub-id></mixed-citation>
+      </ref>
+      <ref id="B43">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ma</surname><given-names>W. J.</given-names></name><name><surname>Beck</surname><given-names>J. M.</given-names></name><name><surname>Latham</surname><given-names>P. E.</given-names></name><name><surname>Pouget</surname><given-names>A.</given-names></name></person-group> (<year>2006</year>). <article-title>Bayesian inference with probabilistic population codes</article-title>. <source>Nat. Neurosci.</source>
+<volume>9</volume>, <fpage>1432</fpage>–<lpage>1438</lpage>. <pub-id pub-id-type="doi">10.1038/nn1790</pub-id><?supplied-pmid 17057707?><pub-id pub-id-type="pmid">17057707</pub-id></mixed-citation>
+      </ref>
+      <ref id="B44">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mazzoni</surname><given-names>P.</given-names></name><name><surname>Andersen</surname><given-names>R. A.</given-names></name><name><surname>Jordan</surname><given-names>M. I.</given-names></name></person-group> (<year>1991</year>). <article-title>A more biologically plausible learning rule for neural networks</article-title>. <source>Proc. Natl. Acad. Sci. U.S. A.</source>
+<volume>88</volume>:<fpage>4433</fpage>. <pub-id pub-id-type="doi">10.1073/pnas.88.10.4433</pub-id><?supplied-pmid 1903542?><pub-id pub-id-type="pmid">1903542</pub-id></mixed-citation>
+      </ref>
+      <ref id="B45">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McClelland</surname><given-names>J. L.</given-names></name></person-group> (<year>2009</year>). <article-title>The place of modeling in cognitive science</article-title>. <source>Top. Cogn. Sci.</source>
+<volume>1</volume>, <fpage>11</fpage>–<lpage>38</lpage>. <pub-id pub-id-type="doi">10.1111/j.1756-8765.2008.01003.x</pub-id><?supplied-pmid 25164798?><pub-id pub-id-type="pmid">25164798</pub-id></mixed-citation>
+      </ref>
+      <ref id="B46">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McClelland</surname><given-names>J. L.</given-names></name><name><surname>Botvinick</surname><given-names>M. M.</given-names></name><name><surname>Noelle</surname><given-names>D. C.</given-names></name><name><surname>Plaut</surname><given-names>D. C.</given-names></name><name><surname>Rogers</surname><given-names>T. T.</given-names></name><name><surname>Seidenberg</surname><given-names>M. S.</given-names></name><etal/></person-group>. (<year>2010</year>). <article-title>Letting structure emerge: connectionist and dynamical systems approaches to cognition</article-title>. <source>Trends Cogn. Sci.</source>
+<volume>14</volume>, <fpage>348</fpage>–<lpage>356</lpage>. <pub-id pub-id-type="doi">10.1016/j.tics.2010.06.002</pub-id><?supplied-pmid 20598626?><pub-id pub-id-type="pmid">20598626</pub-id></mixed-citation>
+      </ref>
+      <ref id="B47">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Møller</surname><given-names>M. F.</given-names></name></person-group> (<year>1993</year>). <article-title>A scaled conjugate gradient algorithm for fast supervised learning</article-title>. <source>Neural Netw.</source>
+<volume>6</volume>, <fpage>525</fpage>–<lpage>533</lpage>. <pub-id pub-id-type="doi">10.1016/S0893-6080(05)80056-5</pub-id></mixed-citation>
+      </ref>
+      <ref id="B48">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mnih</surname><given-names>V.</given-names></name><name><surname>Kavukcuoglu</surname><given-names>K.</given-names></name><name><surname>Silver</surname><given-names>D.</given-names></name><name><surname>Rusu</surname><given-names>A. A.</given-names></name><name><surname>Veness</surname><given-names>J.</given-names></name><name><surname>Bellemare</surname><given-names>M. G.</given-names></name><etal/></person-group>. (<year>2015</year>). <article-title>Human-level control through deep reinforcement learning</article-title>. <source>Nature</source>
+<volume>518</volume>, <fpage>529</fpage>–<lpage>533</lpage>. <pub-id pub-id-type="doi">10.1038/nature14236</pub-id><?supplied-pmid 25719670?><pub-id pub-id-type="pmid">25719670</pub-id></mixed-citation>
+      </ref>
+      <ref id="B49">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mohamed</surname><given-names>A.</given-names></name><name><surname>Dahl</surname><given-names>G. E.</given-names></name><name><surname>Hinton</surname><given-names>G. E.</given-names></name></person-group> (<year>2012</year>). <article-title>Acoustic modeling using deep belief networks</article-title>. <source>IEEE Trans. Audio. Speech. Lang. Proces.</source>
+<volume>20</volume>, <fpage>14</fpage>–<lpage>22</lpage>. <pub-id pub-id-type="doi">10.1109/TASL.2011.2109382</pub-id></mixed-citation>
+      </ref>
+      <ref id="B50">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nessler</surname><given-names>B.</given-names></name><name><surname>Pfeiffer</surname><given-names>M.</given-names></name><name><surname>Buesing</surname><given-names>L.</given-names></name><name><surname>Maass</surname><given-names>W.</given-names></name></person-group> (<year>2013</year>). <article-title>Bayesian computation emerges in generic cortical microcircuits through spike-timing-dependent plasticity</article-title>. <source>PLoS Comput. Biol.</source>
+<volume>9</volume>:<fpage>e1003037</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pcbi.1003037</pub-id><?supplied-pmid 23633941?><pub-id pub-id-type="pmid">23633941</pub-id></mixed-citation>
+      </ref>
+      <ref id="B51">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>O'Reilly</surname><given-names>R. C.</given-names></name></person-group> (<year>1998</year>). <article-title>Six principles for biologically based computational models of cortical cognition</article-title>. <source>Trends Cogn. Sci.</source>
+<volume>2</volume>, <fpage>455</fpage>–<lpage>462</lpage>. <pub-id pub-id-type="doi">10.1016/S1364-6613(98)01241-8</pub-id><?supplied-pmid 21227277?><pub-id pub-id-type="pmid">21227277</pub-id></mixed-citation>
+      </ref>
+      <ref id="B52">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pouget</surname><given-names>A.</given-names></name><name><surname>Deneve</surname><given-names>S.</given-names></name><name><surname>Duhamel</surname><given-names>J.-R.</given-names></name></person-group> (<year>2002</year>). <article-title>A computational perspective on the neural basis of multisensory spatial representations</article-title>. <source>Nat. Rev. Neurosci.</source>
+<volume>3</volume>, <fpage>741</fpage>–<lpage>747</lpage>. <pub-id pub-id-type="doi">10.1038/nrn914</pub-id><?supplied-pmid 12209122?><pub-id pub-id-type="pmid">12209122</pub-id></mixed-citation>
+      </ref>
+      <ref id="B53">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pouget</surname><given-names>A.</given-names></name><name><surname>Sejnowski</surname><given-names>T. J.</given-names></name></person-group> (<year>1997</year>). <article-title>Spatial transformations in the parietal cortex using basis functions</article-title>. <source>J. Cogn. Neurosci.</source>
+<volume>9</volume>, <fpage>222</fpage>–<lpage>237</lpage>. <pub-id pub-id-type="doi">10.1162/jocn.1997.9.2.222</pub-id><?supplied-pmid 23962013?><pub-id pub-id-type="pmid">23962013</pub-id></mixed-citation>
+      </ref>
+      <ref id="B54">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pouget</surname><given-names>A.</given-names></name><name><surname>Snyder</surname><given-names>L. H.</given-names></name></person-group> (<year>2000</year>). <article-title>Computational approaches to sensorimotor transformations</article-title>. <source>Nat. Neurosci.</source>
+<volume>3</volume>, <fpage>1192</fpage>–<lpage>1198</lpage>. <pub-id pub-id-type="doi">10.1038/81469</pub-id><?supplied-pmid 11127837?><pub-id pub-id-type="pmid">11127837</pub-id></mixed-citation>
+      </ref>
+      <ref id="B55">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Raichle</surname><given-names>M. E.</given-names></name></person-group> (<year>2015</year>). <article-title>The restless brain: how intrinsic activity organizes brain function</article-title>. <source>Philos. Trans. R. Soc. Lond. B Biol. Sci.</source>
+<volume>370</volume>, <fpage>20140172</fpage>–<lpage>20140172</lpage>. <pub-id pub-id-type="doi">10.1098/rstb.2014.0172</pub-id><?supplied-pmid 25823869?><pub-id pub-id-type="pmid">25823869</pub-id></mixed-citation>
+      </ref>
+      <ref id="B56">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ranzato</surname><given-names>M. A.</given-names></name><name><surname>Boureau</surname><given-names>L.</given-names></name><name><surname>Chopra</surname><given-names>S.</given-names></name><name><surname>LeCun</surname><given-names>Y.</given-names></name></person-group> (<year>2007</year>). <article-title>A unified energy-based framework for 913 unsupervised learning</article-title>, in <source>Proceedings Conference on AI</source>. Available online at: 914 <ext-link ext-link-type="uri" xlink:href="http://scholar.google.com/scholar?hl=en&amp;btnG=Search&amp;q=intitle:A+Unified+Energy-Based+Framework+for+Unsupervised+Learning#0">http://scholar.google.com/scholar?hl=en&amp;btnG=Search&amp;q=intitle:A+Unified+Energy-Based+Framework+for+Unsupervised+Learning#0</ext-link> [Accessed July 16, 2014].</mixed-citation>
+      </ref>
+      <ref id="B57">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Reichert</surname><given-names>D. P.</given-names></name><name><surname>Seriès</surname><given-names>P.</given-names></name><name><surname>Storkey</surname><given-names>A. J.</given-names></name></person-group> (<year>2013</year>). <article-title>Charles Bonnet syndrome: evidence for a generative model in the cortex?</article-title>
+<source>PLoS Comput. Biol.</source>
+<volume>9</volume>:<fpage>e1003134</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pcbi.1003134</pub-id><?supplied-pmid 23874177?><pub-id pub-id-type="pmid">23874177</pub-id></mixed-citation>
+      </ref>
+      <ref id="B58">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Riedmiller</surname><given-names>M.</given-names></name><name><surname>Braun</surname><given-names>H.</given-names></name></person-group> (<year>1993</year>). <article-title>A direct adaptive method for faster backpropagation learning: The RPROP algorithm</article-title>, in <source>IEEE International Conference on Neural Networks</source> (<publisher-loc>San Francisco, CA</publisher-loc>), <fpage>586</fpage>–<lpage>591</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B59">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rolls</surname><given-names>E. T.</given-names></name><name><surname>Tovee</surname><given-names>M. J.</given-names></name></person-group> (<year>1995</year>). <article-title>Sparseness of the neuronal representation of stimuli in the primate temporal visual cortex</article-title>. <source>J. Neurophysiol.</source>
+<volume>73</volume>, <fpage>713</fpage>–<lpage>26</lpage>. <?supplied-pmid 7760130?><pub-id pub-id-type="pmid">7760130</pub-id></mixed-citation>
+      </ref>
+      <ref id="B60">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rumelhart</surname><given-names>D. E.</given-names></name><name><surname>Hinton</surname><given-names>G. E.</given-names></name><name><surname>Williams</surname><given-names>R. J.</given-names></name></person-group> (<year>1986</year>). <article-title>Learning representations by back-propagating errors</article-title>. <source>Nature</source>
+<volume>323</volume>, <fpage>533</fpage>–<lpage>536</lpage>. <pub-id pub-id-type="doi">10.1038/323533a0</pub-id></mixed-citation>
+      </ref>
+      <ref id="B61">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sakata</surname><given-names>H.</given-names></name><name><surname>Taira</surname><given-names>M.</given-names></name><name><surname>Murata</surname><given-names>A.</given-names></name><name><surname>Mine</surname><given-names>S.</given-names></name></person-group> (<year>1995</year>). <article-title>Neural mechanisms of visual guidance of hand action in the parietal cortex of the monkey</article-title>. <source>Cereb. Cortex</source>
+<volume>5</volume>, <fpage>429</fpage>–<lpage>438</lpage>. <pub-id pub-id-type="doi">10.1093/cercor/5.5.429</pub-id><?supplied-pmid 8547789?><pub-id pub-id-type="pmid">8547789</pub-id></mixed-citation>
+      </ref>
+      <ref id="B62">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Salakhutdinov</surname><given-names>R.</given-names></name></person-group> (<year>2015</year>). <article-title>Learning deep generative models</article-title>. <source>Annu. Rev. Stat. Appl.</source>
+<volume>2</volume>, <fpage>361</fpage>–<lpage>385</lpage>. <pub-id pub-id-type="doi">10.1146/annurev-statistics-010814-020120</pub-id></mixed-citation>
+      </ref>
+      <ref id="B63">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Salinas</surname><given-names>E.</given-names></name><name><surname>Thier</surname><given-names>P.</given-names></name></person-group> (<year>2000</year>). <article-title>Gain modulation: a major computational principle of the central nervous system</article-title>. <source>Neuron</source>
+<volume>27</volume>, <fpage>15</fpage>–<lpage>21</lpage>. <pub-id pub-id-type="doi">10.1016/S0896-6273(00)00004-0</pub-id><?supplied-pmid 10939327?><pub-id pub-id-type="pmid">10939327</pub-id></mixed-citation>
+      </ref>
+      <ref id="B64">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sillito</surname><given-names>A. M.</given-names></name><name><surname>Cudeiro</surname><given-names>J.</given-names></name><name><surname>Jones</surname><given-names>H. E.</given-names></name></person-group> (<year>2006</year>). <article-title>Always returning: feedback and sensory processing in visual cortex and thalamus</article-title>. <source>Trends Neurosci.</source>
+<volume>29</volume>, <fpage>307</fpage>–<lpage>316</lpage>. <pub-id pub-id-type="doi">10.1016/j.tins.2006.05.001</pub-id><?supplied-pmid 16713635?><pub-id pub-id-type="pmid">16713635</pub-id></mixed-citation>
+      </ref>
+      <ref id="B65">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Silver</surname><given-names>D.</given-names></name><name><surname>Huang</surname><given-names>A.</given-names></name><name><surname>Maddison</surname><given-names>C. J.</given-names></name><name><surname>Guez</surname><given-names>A.</given-names></name><name><surname>Sifre</surname><given-names>L.</given-names></name><name><surname>van den Driessche</surname><given-names>G.</given-names></name><etal/></person-group>. (<year>2016</year>). <article-title>Mastering the game of Go with deep neural networks and tree search</article-title>. <source>Nature</source>
+<volume>529</volume>, <fpage>484</fpage>–<lpage>489</lpage>. <pub-id pub-id-type="doi">10.1038/nature16961</pub-id><?supplied-pmid 26819042?><pub-id pub-id-type="pmid">26819042</pub-id></mixed-citation>
+      </ref>
+      <ref id="B66">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Snyder</surname><given-names>L. H.</given-names></name><name><surname>Grieve</surname><given-names>K. L.</given-names></name><name><surname>Brotchie</surname><given-names>P.</given-names></name><name><surname>Andersen</surname><given-names>R. A.</given-names></name></person-group> (<year>1998</year>). <article-title>Separate body- and world-referenced representations of visual space in parietal cortex</article-title>. <source>Nature</source>
+<volume>394</volume>, <fpage>887</fpage>–<lpage>891</lpage>. <?supplied-pmid 9732870?><pub-id pub-id-type="pmid">9732870</pub-id></mixed-citation>
+      </ref>
+      <ref id="B67">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Stoianov</surname><given-names>I.</given-names></name><name><surname>Zorzi</surname><given-names>M.</given-names></name></person-group> (<year>2012</year>). <article-title>Emergence of a “visual number sense” in hierarchical generative models</article-title>. <source>Nat. Neurosci.</source>
+<volume>15</volume>, <fpage>194</fpage>–<lpage>196</lpage>. <pub-id pub-id-type="doi">10.1038/nn.2996</pub-id><?supplied-pmid 22231428?><pub-id pub-id-type="pmid">22231428</pub-id></mixed-citation>
+      </ref>
+      <ref id="B68">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Stricanne</surname><given-names>B.</given-names></name><name><surname>Andersen</surname><given-names>R. A.</given-names></name><name><surname>Mazzoni</surname><given-names>P.</given-names></name></person-group> (<year>1996</year>). <article-title>Eye-centered, head-centered, and intermediate coding of remembered sound locations in area LIP</article-title>. <source>J. Neurophysiol.</source>
+<volume>76</volume>, <fpage>2071</fpage>–<lpage>2076</lpage>. <?supplied-pmid 8890315?><pub-id pub-id-type="pmid">8890315</pub-id></mixed-citation>
+      </ref>
+      <ref id="B69">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Testolin</surname><given-names>A.</given-names></name><name><surname>Stoianov</surname><given-names>I.</given-names></name><name><surname>De Filippo De Grazia</surname><given-names>M.</given-names></name><name><surname>Zorzi</surname><given-names>M.</given-names></name></person-group> (<year>2013</year>). <article-title>Deep unsupervised learning on a desktop PC : a primer for cognitive scientists</article-title>. <source>Front. Psychol.</source>
+<volume>4</volume>:<fpage>251</fpage>. <pub-id pub-id-type="doi">10.3389/fpsyg.2013.00251</pub-id><?supplied-pmid 23653617?><pub-id pub-id-type="pmid">23653617</pub-id></mixed-citation>
+      </ref>
+      <ref id="B70">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Testolin</surname><given-names>A.</given-names></name><name><surname>Stoianov</surname><given-names>I.</given-names></name><name><surname>Sperduti</surname><given-names>A.</given-names></name><name><surname>Zorzi</surname><given-names>M.</given-names></name></person-group> (<year>2016</year>). <article-title>Learning orthographic structure with sequential generative neural networks</article-title>. <source>Cogn. Sci.</source>
+<volume>40</volume>, <fpage>579</fpage>–<lpage>606</lpage>. <pub-id pub-id-type="doi">10.1111/cogs.12258</pub-id><?supplied-pmid 26073971?><pub-id pub-id-type="pmid">26073971</pub-id></mixed-citation>
+      </ref>
+      <ref id="B71">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Testolin</surname><given-names>A.</given-names></name><name><surname>Zorzi</surname><given-names>M.</given-names></name></person-group> (<year>2016</year>). <article-title>Probabilistic models and generative neural networks: towards an unified framework for modeling normal and impaired neurocognitive functions</article-title>. <source>Front. Comput. Neurosci.</source>
+<volume>10</volume>:<fpage>73</fpage>. <pub-id pub-id-type="doi">10.3389/fncom.2016.00073</pub-id><?supplied-pmid 27468262?><pub-id pub-id-type="pmid">27468262</pub-id></mixed-citation>
+      </ref>
+      <ref id="B72">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Thorpe</surname><given-names>S. J.</given-names></name><name><surname>Imbert</surname><given-names>M.</given-names></name></person-group> (<year>1989</year>). <article-title>Biological constraints on connectionist modelling</article-title>. <source>Connect. Perspect.</source>
+<volume>1</volume>, <fpage>1</fpage>–<lpage>36</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B73">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Treves</surname><given-names>A.</given-names></name><name><surname>Rolls</surname><given-names>E. T.</given-names></name></person-group> (<year>1991</year>). <article-title>What determines the capacity of autoassociative memories in the brain?</article-title>
+<source>Netw. Comput. Neural Syst.</source>
+<volume>2</volume>, <fpage>371</fpage>–<lpage>397</lpage>. <pub-id pub-id-type="doi">10.1088/0954-898X_2_4_004</pub-id></mixed-citation>
+      </ref>
+      <ref id="B74">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vinje</surname><given-names>W. E.</given-names></name><name><surname>Gallant</surname><given-names>J. L.</given-names></name></person-group> (<year>2000</year>). <article-title>Sparse Coding and decorrelation in primary visual cortex during natural vision</article-title>. <source>Science</source>
+<volume>287</volume>, <fpage>1273</fpage>–<lpage>1276</lpage>. <pub-id pub-id-type="doi">10.1126/science.287.5456.1273</pub-id><?supplied-pmid 10678835?><pub-id pub-id-type="pmid">10678835</pub-id></mixed-citation>
+      </ref>
+      <ref id="B75">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Widrow</surname><given-names>B.</given-names></name><name><surname>Hoff</surname><given-names>M.</given-names></name></person-group> (<year>1960</year>). <article-title>Adaptive Switching Circuits</article-title>, in <source>IRE WESCON Convention Record</source>, <fpage>96</fpage>–<lpage>140</lpage>. Available online at: <ext-link ext-link-type="uri" xlink:href="http://www-isl.stanford.edu/people/widrow/papers/c1960adaptiveswitching.pdf">http://www-isl.stanford.edu/people/widrow/papers/c1960adaptiveswitching.pdf</ext-link> [Accessed November 29, 2014].</mixed-citation>
+      </ref>
+      <ref id="B76">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Xing</surname><given-names>J.</given-names></name><name><surname>Andersen</surname><given-names>R. A.</given-names></name></person-group> (<year>2000</year>). <article-title>Models of the posterior parietal cortex which perform multimodal integration and represent space in several coordinate frames</article-title>. <source>J. Cogn. Neurosci.</source>
+<volume>12</volume>, <fpage>601</fpage>–<lpage>614</lpage>. <pub-id pub-id-type="doi">10.1162/089892900562363</pub-id><?supplied-pmid 10936913?><pub-id pub-id-type="pmid">10936913</pub-id></mixed-citation>
+      </ref>
+      <ref id="B77">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zipser</surname><given-names>D.</given-names></name><name><surname>Andersen</surname><given-names>R.</given-names></name></person-group> (<year>1988</year>). <article-title>A back-propagation programmed network that simulates response properties of a subset of posterior parietal neurons</article-title>. <source>Nature</source>
+<volume>331</volume>, <fpage>679</fpage>–<lpage>684</lpage>. <pub-id pub-id-type="doi">10.1038/331679a0</pub-id><?supplied-pmid 3344044?><pub-id pub-id-type="pmid">3344044</pub-id></mixed-citation>
+      </ref>
+      <ref id="B78">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zorzi</surname><given-names>M.</given-names></name><name><surname>Testolin</surname><given-names>A.</given-names></name><name><surname>Stoianov</surname><given-names>I.</given-names></name></person-group> (<year>2013</year>). <article-title>Modeling language and cognition with deep unsupervised learning: a tutorial overview</article-title>. <source>Front. Psychol.</source>
+<volume>4</volume>:<fpage>515</fpage>. <pub-id pub-id-type="doi">10.3389/fpsyg.2013.00515</pub-id><?supplied-pmid 23970869?><pub-id pub-id-type="pmid">23970869</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record>

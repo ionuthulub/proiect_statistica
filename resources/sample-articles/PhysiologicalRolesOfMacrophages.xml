@@ -1,0 +1,2824 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5362657</identifier><datestamp>2017-04-04</datestamp><setSpec>springeropen</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="review-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Pflugers Arch</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Pflugers Arch</journal-id>
+      <journal-title-group>
+        <journal-title>Pflugers Archiv</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0031-6768</issn>
+      <issn pub-type="epub">1432-2013</issn>
+      <publisher>
+        <publisher-name>Springer Berlin Heidelberg</publisher-name>
+        <publisher-loc>Berlin/Heidelberg</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5362657</article-id>
+      <article-id pub-id-type="pmcid">PMC5362657</article-id>
+      <article-id pub-id-type="pmc-uid">5362657</article-id>
+      <article-id pub-id-type="pmid">28185068</article-id>
+      <article-id pub-id-type="publisher-id">1945</article-id>
+      <article-id pub-id-type="doi">10.1007/s00424-017-1945-7</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Invited Review</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Physiological roles of macrophages</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Gordon</surname>
+            <given-names>Siamon</given-names>
+          </name>
+          <address>
+            <email>siamon.gordon@path.ox.ac.uk</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-2331-127X</contrib-id>
+          <name>
+            <surname>Martinez-Pomares</surname>
+            <given-names>Luisa</given-names>
+          </name>
+          <address>
+            <email>luisa.m@nottingham.ac.uk</email>
+          </address>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+        </contrib>
+        <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="GRID">grid.145695.a</institution-id><institution>Graduate Institute of Biomedical Sciences, College of Medicine, </institution><institution>Chang Gung University, </institution></institution-wrap>Taoyuan City, 33302 Taiwan </aff>
+        <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1936 8948</institution-id><institution-id institution-id-type="GRID">grid.4991.5</institution-id><institution>Sir William Dunn School of Pathology, </institution><institution>Oxford University, </institution></institution-wrap>Oxford, UK </aff>
+        <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1936 8868</institution-id><institution-id institution-id-type="GRID">grid.4563.4</institution-id><institution>School of Life Sciences, </institution><institution>University of Nottingham, </institution></institution-wrap>Nottingham, UK </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <day>9</day>
+        <month>2</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>9</day>
+        <month>2</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <year>2017</year>
+      </pub-date>
+      <volume>469</volume>
+      <issue>3</issue>
+      <fpage>365</fpage>
+      <lpage>374</lpage>
+      <history>
+        <date date-type="received">
+          <day>20</day>
+          <month>1</month>
+          <year>2017</year>
+        </date>
+        <date date-type="accepted">
+          <day>29</day>
+          <month>1</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© The Author(s) 2017</copyright-statement>
+        <license license-type="OpenAccess">
+          <license-p>
+<bold>Open Access</bold> This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.</license-p>
+        </license>
+      </permissions>
+      <abstract id="Abs1">
+        <p>Macrophages are present in mammals from midgestation, contributing to physiologic homeostasis throughout life. Macrophages arise from yolk sac and foetal liver progenitors during embryonic development in the mouse and persist in different organs as heterogeneous, self-renewing tissue-resident populations. Bone marrow-derived blood monocytes are recruited after birth to replenish tissue-resident populations and to meet further demands during inflammation, infection and metabolic perturbations. Macrophages of mixed origin and different locations vary in replication and turnover, but are all active in mRNA and protein synthesis, fulfilling organ-specific and systemic trophic functions, in addition to host defence. In this review, we emphasise selected properties and non-immune functions of tissue macrophages which contribute to physiologic homeostasis.</p>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <title>Keywords</title>
+        <kwd>Macrophages</kwd>
+        <kwd>Homeostasis</kwd>
+        <kwd>Tissue heterogeneity</kwd>
+        <kwd>Physiology</kwd>
+        <kwd>Receptors</kwd>
+        <kwd>Phagocytosis</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution>University of Nottingham</institution>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>issue-copyright-statement</meta-name>
+          <meta-value>© Springer-Verlag Berlin Heidelberg 2017</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="Sec1">
+      <title>Introduction</title>
+      <p>“The constancy of the internal environment is the condition for full and independent life: the mechanism that makes it possible is that which assured that maintenance, within the internal environment, conditions necessary for the life of these elements” (Claude Bernard).</p>
+      <p>The concept of homeostasis as a physiological principle, a term proposed by the neuroscientist Walter Cannon (1871–1945) and based on the work of Claude Bernard (1813–1878), has influenced the thinking of many macrophage investigators. Elie Metchnikoff (1845–1916), a comparative zoologist who initially was intrigued by intracellular digestion in invertebrates, became an experimental immunologist when he appreciated the role of phagocytes in tissue orthobiosis and inflammation [<xref ref-type="bibr" rid="CR67">67</xref>]. Hans Selye (1907–1982) drew attention to the non-specific neuro-endocrine adaptations of the body to biological stress; however, the contributions of the mononuclear phagocyte system to the mechanisms of homeostasis and stress responses have not achieved full recognition. In this review, we consider topics related to the role of macrophages in development, metabolism and tissue-specific functions in different organs, to illustrate their remarkable ability to recognise and respond to the changing needs of the body. A general overview of the main topic covered is provided in Fig. <xref rid="Fig1" ref-type="fig">1</xref>.<fig id="Fig1"><label>Fig. 1</label><caption><p>Physiological roles of macrophages and macrophages heterogeneity. Phenotypic heterogeneity of tissue macrophages is triggered by differences in cellular origin (self-replicated cells of embryonic origin vs monocyte-derived), tissue environment and adaptation to the physiological requirements of the organism (shown on the <italic>left</italic>). Macrophage heterogeneity underpins the vast range of physiological roles performed of these cells (shown on the <italic>right</italic>). Phenotypic heterogeneity is consolidated by tissue-specific “chromatin landscapes” in macrophages in response to environmental signals. Macrophages display a wide range of “sensor systems” in the form of <italic>(a)</italic> cell surface and intracellular pattern recognition receptors that detect microbe-associated molecular patterns and damage-associated molecular patterns; <italic>(b)</italic> receptors for apoptotic cells; <italic>(c)</italic> cytokine receptors such as IFN-γ and IL-4Rα that promote M1/M2-like activation, respectively; <italic>(d)</italic> receptors for neurotransmitters as well as <italic>(e)</italic> receptors that regulate macrophage activation in situ such as the inhibitory receptors SIRP1-α and CD200R. Integrins <italic>(f)</italic> mediate interaction with extracellular matrix. Macrophages produce numerous molecules that contribute to tissue remodelling and inflammation and mediate clearance of apoptotic bodies, cell debris and soluble compounds such as collagen and lysosomal hydrolases. High phagocytic and endocytic activities as well as motility are central to the ability of macrophages to support tissue-dependent functions. <italic>RNS</italic> reactive nitrogen species, <italic>ROS</italic> reactive oxygen species</p></caption><graphic xlink:href="424_2017_1945_Fig1_HTML" id="MO1"/></fig>
+</p>
+      <p>Blood monocytes and tissue macrophages display many properties in common, but they adapt readily upon entering different tissue microenvironments, where they contribute to the general needs as well as specialised functions of individual organs. Reciprocal interactions between neighbouring cells and tissue macrophages are mediated by close contacts as well as secretory products which act at close range or distally via the circulation. Although primarily known as professional phagocytes [<xref ref-type="bibr" rid="CR29">29</xref>], which engulf dying cells during development and subsequently during adult life, it has not been generally appreciated that macrophage activities extend beyond immunology and host defence. They express a broad repertoire of surface and intracellular receptors and produce a large variety of regulated bioactive molecules; together with their ability to enter all tissues, in the steady state and on demand, they constitute a dispersed organ system, able to influence and respond to every other system in the body.</p>
+    </sec>
+    <sec id="Sec2">
+      <title>Cellular characteristics of the macrophage lineage: relevance to physiology</title>
+      <p>To set the stage for subsequent discussion, we briefly summarise some general properties of macrophages relevant to their functions in vivo. The cells originate from progenitors in the embryo and postnatally, as discussed further below, and are seeded throughout the body as relatively long lived, terminally differentiated haematopoietic cells. They are motile and display a range of membrane receptors to recognise and respond to a large repertoire of host-derived and foreign ligands [<xref ref-type="bibr" rid="CR29">29</xref>]. These include adhesion molecules, opsonic and non-opsonic receptors to mediate phagocytic clearance of particulates, including micro-organisms and apoptotic cells, and for endocytosis of soluble ligands. In addition, they are able to sense and respond to the presence of microbial constituents, including RNA and DNA, within their cytoplasm, activating intracellular inflammasomes [<xref ref-type="bibr" rid="CR32">32</xref>], caspase processing and release of IL-1β. A plethora of other cytokines, enzymes, growth factors, lipid-derived and low molecular metabolite products can also be secreted by macrophages in response to phagocytic and various stimuli and, in turn, act on macrophage receptors by autocrine mechanisms. Plasma membrane receptors co-operate in formation of a phagocytic synapse, excluding phosphatases such as CD45, and allow receptor kinases to initiate signalling pathways and cytoskeletal assembly, to bring about ingestion of particles [<xref ref-type="bibr" rid="CR21">21</xref>]. A sequence of dynamic interactions with vesicular membranes derived from the endoplasmic reticulum and Golgi apparatus accompanies phagosome maturation, fusion with primary lysosomes, acidification and digestion [<xref ref-type="bibr" rid="CR31">31</xref>, <xref ref-type="bibr" rid="CR39">39</xref>, <xref ref-type="bibr" rid="CR71">71</xref>]. Macrophages can internalise its entire surface membrane in 20 min, but recycle components equally rapidly to maintain membrane homeostasis [<xref ref-type="bibr" rid="CR51">51</xref>]. Heterophagy refers to uptake of extracellular cargo; autophagy, the sequestration of effete cytoplasm and intracellular organelles, is well developed in macrophages [<xref ref-type="bibr" rid="CR16">16</xref>]; genetic deficiency of lysosomal digestion or components of the autophagy pathway can result in storage diseases [<xref ref-type="bibr" rid="CR59">59</xref>] or chronic granulomatous inflammation [<xref ref-type="bibr" rid="CR68">68</xref>], respectively.</p>
+      <p>The uptake and killing of microbes and opsonised cellular targets by oxygen and nitrogen-derived radicals are mediated by assembly and activation of an NADPH oxidase and inducible nitric oxide synthetase, respectively [<xref ref-type="bibr" rid="CR23">23</xref>, <xref ref-type="bibr" rid="CR43">43</xref>]. The ingestion of apoptotic targets, a major physiologic function of tissue-resident and inflammatory macrophages, is mediated by a range of redundant receptors, using exposed phosphatidyl serine and other cues as ligands [<xref ref-type="bibr" rid="CR2">2</xref>]. Apoptotic cell uptake inhibits the inflammatory response associated with uptake of necrotic cells or microbes; anti-inflammatory products include TGF-β, IL-10 and PGE2 [<xref ref-type="bibr" rid="CR38">38</xref>]. The importance of phagoptotic killing during phagocytosis has been emphasised by the studies of Guy Brown and colleagues [<xref ref-type="bibr" rid="CR7">7</xref>]. Finally, macrophages can ingest membrane-enveloped nuclei or intracellular vesicles released from living cells or undergo cell fusion, to form multinucleated giant cells [<xref ref-type="bibr" rid="CR35">35</xref>].</p>
+    </sec>
+    <sec id="Sec3">
+      <title>Phenotypic adaptation of macrophages</title>
+      <p>Macrophage gene expression has been intensively studied in recent years and modules of genes regulated by a range of cytokines and other stimuli characterised in tissue-resident and inflammatory macrophages. Both pro- and anti-inflammatory pathways can be induced in macrophage populations, mediated by plasma membrane or cytoplasmic receptors. IFN-γ, for example, induces a characteristic profile of genes and proteins, often termed “classical or M1 activation” [<xref ref-type="bibr" rid="CR47">47</xref>]; prototypic markers include upregulation of MHCII antigens, pro-inflammatory cytokines and induction of i-NOS, whereas CD206 expression is selectively downregulated. By contrast, interleukin-4 and interleukin-13, binding to a common IL-4 receptor alpha chain, induce an “alternative, M2” phenotype, characterised by upregulation of CD206, transglutaminase 2, arginase and, in the mouse, chitinase-like molecules such as YM1 [<xref ref-type="bibr" rid="CR48">48</xref>]. An IL-13-specific receptor pathway has also been demonstrated by induction of macrophage homokaryon formation [<xref ref-type="bibr" rid="CR62">62</xref>]. Phenotypic changes in macrophages are underpinned by metabolic reprogramming. M1 macrophages utilise Warburg metabolism and M2 macrophage oxidative metabolism [<xref ref-type="bibr" rid="CR55">55</xref>]. The M1/M2 terminology arose as counterpart to Th1 and Th2 categories of adaptive immune responses, associated with the above and related cytokines. It is thought that instead of bimodal polarisation, a more complex phenotypic spectrum is more likely, especially in vivo [<xref ref-type="bibr" rid="CR50">50</xref>, <xref ref-type="bibr" rid="CR52">52</xref>]. In truth, there is overlap with other cytokine-induced stimuli, e.g. after IL-10 stimulation or immune complex activation [<xref ref-type="bibr" rid="CR19">19</xref>]. The stability or reversibility of phenotype in vivo needs a great deal of further study, at population and the single cell level. In addition, further studies on genetic and epigenetic mechanisms will contribute to a more sophisticated understanding of tissue-specific and generic macrophage phenotypic heterogeneity.</p>
+    </sec>
+    <sec id="Sec4">
+      <title>Macrophage heterogeneity under physiological conditions</title>
+      <p>The immune system comprises a complex network of cellular and soluble components that collaborate to respond to challenges, both infectious and non-infectious, identified as potential threats to the organism. Accordingly, immune constituents are widely distributed throughout tissues with specialised lymphoid organs, such as splenic white pulp and lymph nodes, mostly providing unique sites for the induction of specific acquired immunity.</p>
+      <p>To date, newcomers to the field are still surprised to learn that healthy tissues incorporate immune cells, in particular, macrophages which are cells commonly associated with protection against infection and as mediators of tissue damage. Macrophages, unlike neutrophils, are integral components of tissues; they contribute to organ development and maintenance of homeostasis through mechanisms similar to those exploited during infection to detect pathogens and trigger inflammation. Widespread distribution of macrophages is accompanied by substantial tissue-specific phenotypic and gene expression profile differences related to the specific environmental cues in each organ that foster tissue-specific macrophage function [<xref ref-type="bibr" rid="CR25">25</xref>]. Differences in gene expression are underpinned by the existence of distinct “chromatin landscapes” in each tissue macrophage population which are determined in large extent by the tissue environment [<xref ref-type="bibr" rid="CR44">44</xref>]. Furthermore, fully differentiated macrophages may retain the capacity to change their gene expression profile when exposed to a new tissue environment [<xref ref-type="bibr" rid="CR44">44</xref>], which highlights the potential ability of macrophages to undergo reprogramming even after differentiation. Phenotypically, there are instances of tissue adaptation in macrophages involving fine tuning of cellular activation thresholds. In mucosal tissues such as the respiratory and gastrointestinal tracts, macrophages display a higher threshold of activation as a means to minimise inflammation-mediated organ damage in response to repeated exposure to foreign material, including microbial products. In the case of alveolar macrophages, exposure to IL-10, surfactant proteins A and D and close interaction with respiratory epithelium through the inhibitory receptor CD200R and ανβ-6 tethered TGF-β, act as effective brakes of macrophage activation minimising the risk of unwanted inflammation [<xref ref-type="bibr" rid="CR40">40</xref>]. In the gut, macrophages are hyporesponsive to stimulation [<xref ref-type="bibr" rid="CR65">65</xref>]. Nevertheless, gut macrophages can trigger inflammation with one mechanism involving the detection of tissue damage through activation of the NLRC4 inflammasome which induces processing of pro-IL-1β constitutively expressed by intestinal macrophages [<xref ref-type="bibr" rid="CR20">20</xref>]. This mechanism ensures detection of pathogens that cause tissue damage through the production of virulence factors [<xref ref-type="bibr" rid="CR6">6</xref>, <xref ref-type="bibr" rid="CR70">70</xref>]. Macrophages in internal organs, less exposed to microbial constituents, present a lower activation threshold and are considered to be responsible for the induction of systemic inflammation in response to blood-borne pathogens, which can have deadly consequences in the case of sepsis [<xref ref-type="bibr" rid="CR30">30</xref>].</p>
+    </sec>
+    <sec id="Sec5">
+      <title>Origin of tissue macrophages</title>
+      <p>In addition to tissue-specific environmental cues, tissue-specific characteristics in macrophages can be linked in part to on site differentiation of macrophages from embryonic precursors during development and maintenance of macrophage numbers in tissues through self-renewal [<xref ref-type="bibr" rid="CR26">26</xref>, <xref ref-type="bibr" rid="CR63">63</xref>] with imprinting of macrophage transcriptional programmes by tissue factors of particular importance [<xref ref-type="bibr" rid="CR26">26</xref>]. Indeed, the original idea of monocytes as precursors of tissue macrophages that gave rise to the concept of “the mononuclear phagocyte system” proposed by van Furth et al. 1974 has been questioned by recent studies demonstrating that in many anatomical sites, tissue macrophages originate from precursors derived from the yolk sac during early embryogenesis with a second wave of embryonic precursors derived from foetal liver. This embryonic origin contrasts with the bone marrow origin for most immune cells [<xref ref-type="bibr" rid="CR18">18</xref>, <xref ref-type="bibr" rid="CR26">26</xref>, <xref ref-type="bibr" rid="CR33">33</xref>]. Definitive haematopoiesis takes place in the bone marrow after birth. These findings were accompanied by the identification in the mouse of two populations of circulating monocytes: classical Ly6c<sup>hi</sup> monocytes that originate directly from Ly6c + precursors and non-classical Ly6c<sup>low</sup> monocytes that derive from Ly6c<sup>high</sup> monocytes through the action of the transcription factor Nr4a1 [<xref ref-type="bibr" rid="CR18">18</xref>]. Further, monocytes are now perceived to be not just transitional cells on their way to tissues; some authors refer to circulating Ly6C<sup>lo</sup> monocytes as “blood macrophages” involved in the maintenance of the integrity of the endothelial barrier [<xref ref-type="bibr" rid="CR33">33</xref>]. Ly6C<sup>high</sup> monocytes contribute to replenishment of tissue macrophages with the rate of replenishment varying among anatomical sites. In the steady state, monocyte-derived tissue macrophages are almost non-existent in the case of brain as microglia are derived from yolk sac precursors. Similar scenarios have been observed in the case of Langerhans cells in the epidermis, alveolar macrophages in the lung and Kupffer cells in the liver. Monocyte-derived resident macrophages are more prevalent in the heart and pancreas (which display a slow replacement rate) and gut and dermis (which display a higher replacement rate) [<xref ref-type="bibr" rid="CR26">26</xref>, <xref ref-type="bibr" rid="CR63">63</xref>].</p>
+      <p>Ly6C<sup>high</sup> monocytes are recruited to tissues under steady state and inflammatory conditions. In the absence of inflammation, Ly6C<sup>high</sup> monocytes sample the tissues and transport material to draining lymph nodes without differentiating into macrophages or dendritic cells [<xref ref-type="bibr" rid="CR18">18</xref>]. Under inflammatory conditions, Ly6C<sup>high</sup> monocytes differentiate into macrophages and can give rise to tissue macrophages with capacity for self-renewal. This process is highly dependent on the tissue-depletion strategy used and the organ under consideration [<xref ref-type="bibr" rid="CR18">18</xref>].</p>
+    </sec>
+    <sec id="Sec6">
+      <title>Role of macrophages in development</title>
+      <sec id="Sec7">
+        <title>Osteoclasts and bone remodelling</title>
+        <p>Bone remodelling occurs throughout life and is influenced by physical activity, diet and hormones. Bone generation, promoted by cells of mesenchymal origin termed osteoblasts, is balanced by the action of cells of haematopoietic origin termed osteoclasts that mediate bone reabsorption. Bone formation and degradation need to be balanced as disequilibrium would lead to osteoporosis (loss of bone mass) or osteopetrosis (excess bone mineralisation). Further, bone remodelling controls Ca<sup>2+</sup> fluxes into and from the extracellular fluid which is required for the maintenance of the levels of calcium in blood [<xref ref-type="bibr" rid="CR4">4</xref>]. Osteoclasts belong to the myeloid lineage, are M-CSF (CSF-1)-dependent and are multinucleated. Osteoclastogenesis is dependent on receptor activator of NFκB ligands (RANKL). Osteoclasts attach to the bone surface and assume a polarised morphology. The area attached to the bone is sealed, bone is degraded by the release of acid and acidic collagenolytic enzymes and released material is secreted at the opposite side of the cell through transcytosis [<xref ref-type="bibr" rid="CR4">4</xref>]. Exchange of signals between osteoblasts and osteoclasts ensures that bone remodelling is regulated [<xref ref-type="bibr" rid="CR64">64</xref>]. For instance, osteoblast apoptosis upon bone damage promotes osteoclast recruitment to the bone surface and osteoblast-derived RANKL is essential for osteoclast differentiation. IL-33 produced by osteoblasts inhibits osteoclast formation. Similarly, osteoclasts influence osteoblast function through the production of cardiotrophin-1 and semaphorin 4D (CD100), which promote and inhibit bone formation, respectively [<xref ref-type="bibr" rid="CR64">64</xref>]. As a consequence of lack of bone resorption, bone marrow haematopoiesis does not occur due to lack of its anatomical niche. Csf1-deficient animals develop osteopetrosis and survive to adulthood because of extramedullary haematopoiesis in the spleen and liver and generation of osteoclasts takes place by compensatory expression of VEGF. Osteoclast generation enables the establishment of bone marrow haematopoiesis by enabling the creation of the haematopoietic niche [<xref ref-type="bibr" rid="CR54">54</xref>].</p>
+        <p>Remodelling deficiencies in the absence of macrophages have been observed in mammary glands, kidney and pancreas, which suggest an important role in morphogenesis; this can be due to the contribution of macrophages to extracellular matrix remodelling and a role in maintenance of the viability and function of stem cells [<xref ref-type="bibr" rid="CR73">73</xref>], as observed in mammary glands and liver.</p>
+      </sec>
+      <sec id="Sec8">
+        <title>Macrophages and erythropoiesis</title>
+        <p>Definitive erythropoiesis occurs in the bone marrow; in particular, terminal erythropoiesis takes place in erythroblastic islands where tight clusters can be found between erythroid precursors with a central macrophage [<xref ref-type="bibr" rid="CR8">8</xref>]. Molecules implicated in the interaction between erythroid precursors and macrophages include the erythroblast macrophage protein (Emp), the haemoglobin-haptoglobin receptor CD163, VLA-4 on erythroblasts and VCAM-1 on macrophages, and ICAM-4 on erythroblasts and αV integrin on macrophages. Erythroblastic islands have also been found in areas of definitive haematopoiesis such as foetal liver and splenic red pulp. Macrophages have been shown to promote erythropoiesis through the release of ferritin by exocytosis, which is internalised by erythroblasts where iron is released through acidification and proteolysis [<xref ref-type="bibr" rid="CR15">15</xref>]; factors associated with chronic inflammation such as IFN-ɣ, TNF-α, TGF-β and IL-6 inhibit erythropoiesis [<xref ref-type="bibr" rid="CR15">15</xref>]. Erythropoiesis is completely dependent on the phagocytic activity of macrophages. Macrophages phagocytose extruded erythrocyte nuclei which are released during the final phase of erythrocyte differentiation [<xref ref-type="bibr" rid="CR15">15</xref>]. This is possible through the maintenance of adhesion molecules such as Emp and β1 integrin and exposure of phosphatidyl serine at the surface of the membrane-enveloped nuclei [<xref ref-type="bibr" rid="CR15">15</xref>].</p>
+      </sec>
+      <sec id="Sec9">
+        <title>Macrophages and brain development</title>
+        <p>Microglia constitute the resident macrophage population in the brain and spinal cord and are yolk sac-derived. In addition to responding to tissue injury, ramified microglia have been shown to contribute to synaptic maturation during brain development [<xref ref-type="bibr" rid="CR58">58</xref>]. This process is termed “synaptic pruning” and involves the clearance of immature or defective neuronal synapses [<xref ref-type="bibr" rid="CR1">1</xref>]; microglia dysfunction is now considered a major cause of neuropsychiatric or neurological disorders as exemplified by the link between mutations in the gene encoding CSF1R to hereditary diffuse leukoencephalopathy with spheroids [<xref ref-type="bibr" rid="CR1">1</xref>]. Loss of function mutations in TREM-2, a receptor expressed by microglia in the CNS, have been associated with increased risk of developing late-onset Alzheimer’s disease [<xref ref-type="bibr" rid="CR75">75</xref>]. Microglia protect against extension of amyloid fibrils by wrapping around amyloid-β plaques [<xref ref-type="bibr" rid="CR11">11</xref>] and TREM-2 deficiency has been shown to disrupt this process [<xref ref-type="bibr" rid="CR75">75</xref>].</p>
+      </sec>
+      <sec id="Sec10">
+        <title>Macrophages and lung homeostasis</title>
+        <p>Alveoli are lined by the alveolar epithelium which is mainly composed of type I and type II alveolar epithelial cells. Type I epithelial cells cover 90% of the alveoli surface while type II epithelial cells are less abundant and mediate the synthesis, secretion and recycling of lung surfactant [<xref ref-type="bibr" rid="CR5">5</xref>, <xref ref-type="bibr" rid="CR46">46</xref>]. Alveolar surfactant is composed of lipids and proteins and keeps alveoli open by reducing surface tension during breathing. Alveolar macrophages reside in the alveoli and establish close interactions with alveolar epithelial cells, some of which involve interactions such as CD200R-CD200 and CD47-SIPRα as inhibitory receptors. Surfactant proteins A and D also contribute to inhibition of cellular activation in alveolar macrophages by engaging SIRPα [<xref ref-type="bibr" rid="CR37">37</xref>]. Alveolar macrophages are derived from embryonically derived foetal monocytes soon after birth through a process highly dependent on GM-CSF [<xref ref-type="bibr" rid="CR18">18</xref>]. They replicate in situ and, thus, are independent from monocyte input in most instances [<xref ref-type="bibr" rid="CR18">18</xref>]. Alveolar macrophages mediate 20–30% of surfactant lipid metabolism which explains the development of pulmonary alveolar proteinosis in GM-CSF-deficient mice and in mice lacking the ABC transporters (ABC-A1, ABCG1 or peroxisome proliferator-activating receptor gamma (PPAR-ɣ) which display inefficient surfactant catabolism in alveolar macrophages. These same genes are involved in cholesterol metabolism and transport by circulating monocytes and their deficiency has been linked to the development of atherosclerosis [<xref ref-type="bibr" rid="CR46">46</xref>].</p>
+      </sec>
+    </sec>
+    <sec id="Sec11">
+      <title>Macrophages and metabolism</title>
+      <sec id="Sec12">
+        <title>Macrophages and metabolic syndrome</title>
+        <p>The involvement of macrophages in metabolic homeostasis was highlighted by major changes in macrophage numbers (10–15 to 45–60% of stromal cells) and phenotype (shift from alternative activation to classical activation) in white adipose tissue in obese insulin-resistant animals and humans [<xref ref-type="bibr" rid="CR9">9</xref>, <xref ref-type="bibr" rid="CR17">17</xref>, <xref ref-type="bibr" rid="CR28">28</xref>, <xref ref-type="bibr" rid="CR49">49</xref>, <xref ref-type="bibr" rid="CR57">57</xref>]. These changes have also been observed in other metabolic tissues, liver and muscle, which implies a strong functional link between macrophage phenotype and parameters of tissue homeostasis [<xref ref-type="bibr" rid="CR49">49</xref>]. This is in agreement with macrophages contributing actively to maintenance of tissue homeostasis, but also acting as sensors of tissue dysfunction and promoters of inflammation in the absence of infection. In the case of the metabolic syndrome, the central role of macrophages derives in part from the negative impact of inflammation on signalling events downstream of the insulin receptor, making the cells within metabolic tissues resistant to the action of insulin [<xref ref-type="bibr" rid="CR49">49</xref>]. This effect in turn will lead to maladaptation in glucose metabolism, with increased insulin production by islet cells in the pancreas required to compensate for this inflammation-related effect and establishment of a pre-diabetic state [<xref ref-type="bibr" rid="CR49">49</xref>]. In healthy white adipose tissue, insulin sensitivity in adipocytes is maintained through the action of resident macrophages that express the anti-inflammatory cytokine IL-10 acting as insulin sensitiser. These adipose-tissue macrophages have a phenotype consistent with alternative activation resulting from exposure to IL-4 and IL-13. PPAR-ɣ expression by macrophages is essential for control of alternative activation and improves insulin resistance [<xref ref-type="bibr" rid="CR56">56</xref>]; eosinophils have been identified as the source of IL-4 in adipose tissue and lack of eosinophils has been associated with activation of adipose tissue macrophages and a tendency to develop insulin resistance in response to obesity [<xref ref-type="bibr" rid="CR72">72</xref>]. Changes in macrophage phenotype in white adipose tissue after chronic increase in energy uptake occur in response to metabolic stress in the adipocytes; this leads to the recruitment of inflammatory monocytes by CCL2, CCL5 and CCL8 [<xref ref-type="bibr" rid="CR73">73</xref>]. These inflammatory monocytes differentiate into classically activated macrophages, engulf dying adipocytes and further promote cellular activation. Cytokine production by these activated macrophages is considered major contributors to local and systemic insulin resistance. In the case of hepatic insulin resistance, Kupffer cells regulate the oxidation of fatty acids in hepatocytes; hepatic steatosis develops if Kupffer cells are unable to adopt an alternative activation phenotype because of loss of PPAR-δ in myeloid cells [<xref ref-type="bibr" rid="CR73">73</xref>].</p>
+      </sec>
+      <sec id="Sec13">
+        <title>Macrophages and iron recycling</title>
+        <p>Resident bone marrow macrophages and red pulp macrophages are essential for the process of erythrophagocytosis to recycle iron. Senescent or damaged erythrocytes are phagocytosed and digested to extract heme [<xref ref-type="bibr" rid="CR22">22</xref>]. Upon uptake, heme is degraded through the action of heme oxygenase (HO; predominantly HO-1) to release iron into the cytoplasm. Cytoplasmic iron is exported by ferroportin located at the plasma membrane [<xref ref-type="bibr" rid="CR22">22</xref>, <xref ref-type="bibr" rid="CR33">33</xref>]. Iron flux from macrophages exceeds iron adsorption through diet and iron stored in hepatocytes [<xref ref-type="bibr" rid="CR22">22</xref>]. Intriguingly, heme itself has been shown to induce the development of F4/80<sup>hi</sup>, VCAM<sup>hi</sup> iron recycling macrophages in bone marrow and spleen through induction of the transcription factor Spi-c [<xref ref-type="bibr" rid="CR33">33</xref>]. Red pulp macrophages also express Nramp1 and the haptoglobin-haemoglobin receptor (CD163) which further emphasises their important role in systemic iron haemostasis [<xref ref-type="bibr" rid="CR22">22</xref>]. There are several hypotheses regarding the signals recognised on aged erythrocytes by macrophages for their removal. These signals include the exposure of the universal apoptotic marker phosphatidyl serine in senescent erythrocytes, in spite of the fact that erythrocytes lack a cell nucleus and mitochondria and do not undergo canonical apoptotic process [<xref ref-type="bibr" rid="CR15">15</xref>]. Other possibilities include the loss of CD47 expression, i.e. lack of an inhibitory signal, and conformational changes in CD47 that enable an interaction between CD47 and thrombospondin-1 which results in increased uptake by red pulp macrophages [<xref ref-type="bibr" rid="CR15">15</xref>]. Splenic macrophages have also been implicated in the removal of intracellular inclusions in erythrocytes through a process that leaves the erythrocyte intact. These inclusion bodies are thought to be caused by oxidative damage [<xref ref-type="bibr" rid="CR15">15</xref>].</p>
+      </sec>
+    </sec>
+    <sec id="Sec14">
+      <title>Macrophages and tissue regeneration</title>
+      <p>Self-contained inflammation with preservation of organ function depends on multifaceted interactions between macrophages and recruited immune cells, particularly neutrophils and monocytes that ensure timely resolution through changes in the activation state of macrophages (from a M1 to a M2-like phenotype). These constitute a “lipid mediator class switch” which shifts the production of lipid mediators from pro-inflammatory (for instance the eicosanoids prostaglandin E2, and leukotriene B4 that promote vasodilatation and chemotaxis) to pro-resolving lipids (such as lipoxins, resolvins, protectins and maresins), production of proteins such as annexin A1, gaseous mediators (carbon monoxide), chemokine inactivation and release of acetylcholine by the vagus nerve [<xref ref-type="bibr" rid="CR34">34</xref>]. Resident macrophages dominate the induction of inflammatory responses in response to injury in the presence and absence of infection through activation of receptors by DAMPs and MAMPs. After stimulation, macrophages produce an array of cytokines such as TNF-α, IL-1β and IL-6 and chemokines as well as pro-inflammatory eicosanoids derived from arachidonic acid, an omega-6 fatty acid. Vasodilation and edema are followed by recruitment of neutrophils which are the first cells that enter the inflamed site. Neutrophil recruitment is favoured by the rapid exposure of P-selectin (CD62P) on activated endothelial cells followed by engagement of β2 integrins by the adhesion molecules ICAM-1 and ICAM-2, culminating in the process of diapedesis. Cues for directional cell migration are provided by the formation of chemokine gradients that guide the migrating neutrophil to the site of injury. Resolution of inflammation is now viewed as an active process and its de-regulation can hamper restoration of tissue function with lack of resolution leading to chronic inflammation and scar formation and fibrosis. The collaborative nature of the resolution process is illustrated by the requirement for transcellular metabolic events between leukocytes and epithelial cells and platelets for the synthesis of lipoxins, the first described pro-resolving lipids. Because of their potential for tissue damage, it appears counterintuitive to consider neutrophils’ essential partners for the resolution of inflammation. However, neutrophils promote resolution by enhancing monocyte recruitment by inducing changes in endothelial cells, for instance through shedding of IL-6Rα which complexes with IL-6. The IL-6Rα-IL-6 complex engages gp130 on endothelial cells and induces the production of E-selectin (CD62E) and VCAM1, thus promoting monocyte recruitment. In addition, apoptotic neutrophils change macrophage activation as uptake of apoptotic neutrophils is non-phlogistic, inducing IL-10, TGF-β and lipoxin synthesis by macrophages [<xref ref-type="bibr" rid="CR66">66</xref>]. These changes are associated with the sensing of an “inflammation threshold” established early during the induction phase and highly dependent on the nature and extent of the original insult. Molecular mechanisms underpinning this concept include the fact that prostaglandin E2 induces changes in the lipoxygenase activity of neutrophils from 5-lipoxygenase to 15-lipoxygenase, required for synthesis of lipoxins [<xref ref-type="bibr" rid="CR34">34</xref>]. During cardiac damage, inflammatory neutrophils and monocytes release oncostatin-M that induces the release by cardiomyocytes of Reg3β. Reg3β promotes the recruitment of reparative macrophages which favours the elimination of neutrophils [<xref ref-type="bibr" rid="CR26">26</xref>]. In addition, macrophages control the neutrophil lifespan through the release of TNF-α, Fas ligand (FasL) and TRAIL [<xref ref-type="bibr" rid="CR34">34</xref>].</p>
+      <p>The fate of the recruited monocytes and their contribution to repair depends on the organ and extent of damage. In the heart, recruited monocytes give rise to pro-inflammatory macrophages, while resident macrophages mediate tissue repair. In the spinal cord, both the pro-inflammatory and repair macrophages are monocyte-derived. While the pro-inflammatory macrophages derive from monocytes recruited through the CCR2-CCL2 pathway, repair-promoting macrophages derived from monocytes are recruited through a pathway involving VLA-4, VCAM-1 and CD73 [<xref ref-type="bibr" rid="CR26">26</xref>]. In other scenarios, recruited monocytes have been shown to convert from an initial pro-inflammatory (M1) phenotype to a healing, pro-resolving (M2) phenotype [<xref ref-type="bibr" rid="CR14">14</xref>, <xref ref-type="bibr" rid="CR60">60</xref>] consistent with plasticity of myeloid cells. This scenario has been observed in kidney [<xref ref-type="bibr" rid="CR45">45</xref>] and muscle [<xref ref-type="bibr" rid="CR3">3</xref>].</p>
+      <p>A key aspect during tissue regeneration and repair is the cross-talk between macrophages and stem cells. For instance, in liver, macrophage depletion has been shown to reduce invasiveness of liver progenitor cells into the parenchyma which is required for differentiation into hepatocytes [<xref ref-type="bibr" rid="CR10">10</xref>]. In addition, macrophages can be induced to produce Wnt3a after uptake of hepatic debris. Wnt3a promotes expression of Numb in liver progenitor cells which inhibits Notch and promotes differentiation into hepatocytes instead of biliary cells [<xref ref-type="bibr" rid="CR10">10</xref>]. Macrophages contribute to muscle regeneration with the sequential change from an early M1-like phenotype into a M2-like phenotype, essential for this process. Disruption of these changes in the phenotype of macrophages by blocking early inflammation (treatment with IL-10 or blocking IFN-ɣ) or late resolution (treatment with anti-IL-10) compromises muscle regeneration. Myogenic precursor cells are stimulated to migrate, grow and survive by macrophages with M1 cells stimulating proliferation and inhibiting fusion and M2 macrophages stimulating commitment of myogenic precursors and differentiation to form myotubes [<xref ref-type="bibr" rid="CR10">10</xref>]. In kidney, macrophages have been found to produce Wnt7b which promotes repair of basement membrane [<xref ref-type="bibr" rid="CR10">10</xref>].</p>
+      <p>Scar formation during wound healing can compromise organ function after injury and multiple reports have linked Th2 immunity to the regulation of tissue fibrosis, although the molecular processes of this effect are poorly understood [<xref ref-type="bibr" rid="CR24">24</xref>, <xref ref-type="bibr" rid="CR74">74</xref>]. Knipper et al. [<xref ref-type="bibr" rid="CR42">42</xref>] recently revealed an important cross-talk between macrophages and fibroblasts during wound healing in mouse injured skin, required to control the formation of collagen fibrils. This effect is dependent on the expression of IL-4-Rα by myeloid cells which, among others, induces the production of Relm-α, a well-characterised marker of macrophage activation in response to IL-4. IL-4Rα signalling during wound healing promotes the expression of Relm-α by macrophages, and Relm-α, in turn, induces the synthesis of the collagen-modifying enzyme lysyl hydroxylase 2 by fibroblasts, leading to fibrosis [<xref ref-type="bibr" rid="CR42">42</xref>]. In line with the major influence of the tissue environment on macrophage biology, in liver and muscle, Th2 immunity promotes tissue regeneration through direct action on parenchymal cells [<xref ref-type="bibr" rid="CR27">27</xref>, <xref ref-type="bibr" rid="CR36">36</xref>]; this suggests that macrophage contribution to wound healing is largely dependent on the intrinsic regenerative capacity of the tissue and, likely, the nature of the insult.</p>
+    </sec>
+    <sec id="Sec15">
+      <title>Macrophages and thermogenesis</title>
+      <p>Brown fat, termed brown adipose tissue, generates heat (thermogenesis) and plays an important role in maintaining body temperature. In contrast to white adipocytes, brown adipocytes contain multilocular fat droplets, a large number of mitochondria, and express high levels of UCP1 (uncoupling protein 1). UCP1 is located in the inner membrane of the mitochondria and uncouples electron transport to promote heat instead of ATP in brown adipocytes. In humans, brown adipose tissue was thought to be restricted to neonates but recent data have shown the presence of brown fat in adults [<xref ref-type="bibr" rid="CR12">12</xref>, <xref ref-type="bibr" rid="CR41">41</xref>, <xref ref-type="bibr" rid="CR69">69</xref>]. Adult human brown fat is dispersed in the supraclavicular, para-aortic and suprarenal regions, is cold-inducible and shares many characteristic with the cold-inducible beige fat found in the subcutaneous white adipose tissue of rodents [<xref ref-type="bibr" rid="CR61">61</xref>]. Beige fat refers to the presence of white adipocytes functionally similar to brown adipocytes within white fat and promotion of beige fat formation is considered as a potential therapeutic tool in the fight against obesity [<xref ref-type="bibr" rid="CR41">41</xref>]. Macrophages have been shown to be essential for adaptation to cold exposure that leads to lipolysis in white fat and thermogenesis in brown fat. The effect of macrophages depends on the acquisition of an alternative activated phenotype driven by lL-4/IL-13 and Stat-6 and that leads to secretion of catecholamines by these cells [<xref ref-type="bibr" rid="CR53">53</xref>]. Indeed, IL-4 exposure of macrophages induces production of the three enzymes required for catecholamine production: tyrosine hydroxylase, dopa decarboxylase and dopamine β-hydroxylase [<xref ref-type="bibr" rid="CR53">53</xref>]; the β3-adrenergic agonist CL-316246 was able to rescue the thermogenic defect in animals unable to produce IL-4 and IL-13 [<xref ref-type="bibr" rid="CR53">53</xref>]. In agreement with these findings in mice, oral administration of the β3-adrenergic receptor agonist mirabegron can stimulate human brown fat thermogenesis in humans [<xref ref-type="bibr" rid="CR13">13</xref>]. Macrophages, together with eosinophils and Th2 cytokines, have also been implicated in the remodelling of subcutaneous white fat into beige fat in mice [<xref ref-type="bibr" rid="CR61">61</xref>].</p>
+    </sec>
+    <sec id="Sec16">
+      <title>Conclusion and therapeutic opportunities</title>
+      <p>Macrophages are remarkable for their ability to sense their surroundings, produce a wide range of immune mediators alongside growth factors and opsonins, and their endocytic and phagocytic activity. The recognition of macrophages as intrinsic components of organs, adapted to the particular tissue environment and actively involved in homeostatic processes, opens the opportunity for macrophage-centred therapies that can be exploited to steer pathological processes towards outcomes that favour maintenance of organ function. Furthermore, the potential plasticity shown by these cells [<xref ref-type="bibr" rid="CR44">44</xref>] makes it possible to envisage the possibility of using in vitro-differentiated cells to treat disease by adoptive transfer.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn>
+        <p>This article is part of the special issue on macrophages in tissue homeostasis in Pflügers Archiv – European Journal of Physiology</p>
+      </fn>
+    </fn-group>
+    <ref-list id="Bib1">
+      <title>References</title>
+      <ref id="CR1">
+        <label>1.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Amit</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Winter</surname>
+              <given-names>DR</given-names>
+            </name>
+            <name>
+              <surname>Jung</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>The role of the local environment and epigenetics in shaping macrophage identity and their effect on tissue homeostasis</article-title>
+          <source>Nat Immunol</source>
+          <year>2016</year>
+          <volume>17</volume>
+          <fpage>18</fpage>
+          <lpage>25</lpage>
+          <pub-id pub-id-type="doi">10.1038/ni.3325</pub-id>
+          <?supplied-pmid 26681458?>
+          <pub-id pub-id-type="pmid">26681458</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR2">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arandjelovic</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Ravichandran</surname>
+              <given-names>KS</given-names>
+            </name>
+          </person-group>
+          <article-title>Phagocytosis of apoptotic cells in homeostasis</article-title>
+          <source>Nat Immunol</source>
+          <year>2015</year>
+          <volume>16</volume>
+          <fpage>907</fpage>
+          <lpage>917</lpage>
+          <pub-id pub-id-type="doi">10.1038/ni.3253</pub-id>
+          <?supplied-pmid 26287597?>
+          <pub-id pub-id-type="pmid">26287597</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR3">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arnold</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Henry</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Poron</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Baba-Amer</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>van Rooijen</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Plonquet</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Gherardi</surname>
+              <given-names>RK</given-names>
+            </name>
+            <name>
+              <surname>Chazaud</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Inflammatory monocytes recruited after skeletal muscle injury switch into antiinflammatory macrophages to support myogenesis</article-title>
+          <source>J Exp Med</source>
+          <year>2007</year>
+          <volume>204</volume>
+          <fpage>1057</fpage>
+          <lpage>1069</lpage>
+          <pub-id pub-id-type="doi">10.1084/jem.20070075</pub-id>
+          <?supplied-pmid 17485518?>
+          <pub-id pub-id-type="pmid">17485518</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR4">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bar-Shavit</surname>
+              <given-names>Z</given-names>
+            </name>
+          </person-group>
+          <article-title>The osteoclast: a multinucleated, hematopoietic-origin, bone-resorbing osteoimmune cell</article-title>
+          <source>J Cell Biochem</source>
+          <year>2007</year>
+          <volume>102</volume>
+          <fpage>1130</fpage>
+          <lpage>1139</lpage>
+          <pub-id pub-id-type="doi">10.1002/jcb.21553</pub-id>
+          <?supplied-pmid 17955494?>
+          <pub-id pub-id-type="pmid">17955494</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR5">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bhattacharya</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Westphalen</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Macrophage-epithelial interactions in pulmonary alveoli</article-title>
+          <source>Semin Immunopathol</source>
+          <year>2016</year>
+          <volume>38</volume>
+          <fpage>461</fpage>
+          <lpage>469</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00281-016-0569-x</pub-id>
+          <?supplied-pmid 27170185?>
+          <pub-id pub-id-type="pmid">27170185</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR6">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Blander</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Sander</surname>
+              <given-names>LE</given-names>
+            </name>
+          </person-group>
+          <article-title>Beyond pattern recognition: five immune checkpoints for scaling the microbial threat</article-title>
+          <source>Nat Rev Immunol</source>
+          <year>2012</year>
+          <volume>12</volume>
+          <fpage>215</fpage>
+          <lpage>225</lpage>
+          <pub-id pub-id-type="doi">10.1038/nri3167</pub-id>
+          <?supplied-pmid 22362354?>
+          <pub-id pub-id-type="pmid">22362354</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR7">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brown</surname>
+              <given-names>GC</given-names>
+            </name>
+            <name>
+              <surname>Vilalta</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Fricker</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Phagoptosis—cell death by phagocytosis—plays central roles in physiology, host defense and pathology</article-title>
+          <source>Curr Mol Med</source>
+          <year>2015</year>
+          <volume>15</volume>
+          <fpage>842</fpage>
+          <lpage>851</lpage>
+          <pub-id pub-id-type="doi">10.2174/156652401509151105130628</pub-id>
+          <?supplied-pmid 26511705?>
+          <pub-id pub-id-type="pmid">26511705</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR8">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chasis</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Mohandas</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Erythroblastic islands: niches for erythropoiesis</article-title>
+          <source>Blood</source>
+          <year>2008</year>
+          <volume>112</volume>
+          <fpage>470</fpage>
+          <lpage>478</lpage>
+          <pub-id pub-id-type="doi">10.1182/blood-2008-03-077883</pub-id>
+          <?supplied-pmid 18650462?>
+          <pub-id pub-id-type="pmid">18650462</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR9">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chawla</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>KD</given-names>
+            </name>
+            <name>
+              <surname>Goh</surname>
+              <given-names>YP</given-names>
+            </name>
+          </person-group>
+          <article-title>Macrophage-mediated inflammation in metabolic disease</article-title>
+          <source>Nat Rev Immunol</source>
+          <year>2011</year>
+          <volume>11</volume>
+          <fpage>738</fpage>
+          <lpage>749</lpage>
+          <pub-id pub-id-type="doi">10.1038/nri3071</pub-id>
+          <?supplied-pmid 21984069?>
+          <pub-id pub-id-type="pmid">21984069</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR10">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chazaud</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Macrophages: supportive cells for tissue repair and regeneration</article-title>
+          <source>Immunobiology</source>
+          <year>2014</year>
+          <volume>219</volume>
+          <fpage>172</fpage>
+          <lpage>178</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.imbio.2013.09.001</pub-id>
+          <?supplied-pmid 24080029?>
+          <pub-id pub-id-type="pmid">24080029</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR11">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Condello</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Yuan</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Schain</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Grutzendler</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Microglia constitute a barrier that prevents neurotoxic protofibrillar Abeta42 hotspots around plaques</article-title>
+          <source>Nat Commun</source>
+          <year>2015</year>
+          <volume>6</volume>
+          <fpage>6176</fpage>
+          <pub-id pub-id-type="doi">10.1038/ncomms7176</pub-id>
+          <?supplied-pmid 25630253?>
+          <pub-id pub-id-type="pmid">25630253</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR12">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cypess</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Lehman</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Tal</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Rodman</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Goldfine</surname>
+              <given-names>AB</given-names>
+            </name>
+            <name>
+              <surname>Kuo</surname>
+              <given-names>FC</given-names>
+            </name>
+            <name>
+              <surname>Palmer</surname>
+              <given-names>EL</given-names>
+            </name>
+            <name>
+              <surname>Tseng</surname>
+              <given-names>YH</given-names>
+            </name>
+            <name>
+              <surname>Doria</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Kolodny</surname>
+              <given-names>GM</given-names>
+            </name>
+            <name>
+              <surname>Kahn</surname>
+              <given-names>CR</given-names>
+            </name>
+          </person-group>
+          <article-title>Identification and importance of brown adipose tissue in adult humans</article-title>
+          <source>N Engl J Med</source>
+          <year>2009</year>
+          <volume>360</volume>
+          <fpage>1509</fpage>
+          <lpage>1517</lpage>
+          <pub-id pub-id-type="doi">10.1056/NEJMoa0810780</pub-id>
+          <?supplied-pmid 19357406?>
+          <pub-id pub-id-type="pmid">19357406</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR13">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cypess</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Weiner</surname>
+              <given-names>LS</given-names>
+            </name>
+            <name>
+              <surname>Roberts-Toler</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Franquet Elia</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Kessler</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Kahn</surname>
+              <given-names>PA</given-names>
+            </name>
+            <name>
+              <surname>English</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Chatman</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Trauger</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Doria</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Kolodny</surname>
+              <given-names>GM</given-names>
+            </name>
+          </person-group>
+          <article-title>Activation of human brown adipose tissue by a beta3-adrenergic receptor agonist</article-title>
+          <source>Cell Metab</source>
+          <year>2015</year>
+          <volume>21</volume>
+          <fpage>33</fpage>
+          <lpage>38</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cmet.2014.12.009</pub-id>
+          <?supplied-pmid 25565203?>
+          <pub-id pub-id-type="pmid">25565203</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR14">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Das</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Sinha</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Datta</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Abas</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Chaffee</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Sen</surname>
+              <given-names>CK</given-names>
+            </name>
+            <name>
+              <surname>Roy</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Monocyte and macrophage plasticity in tissue repair and regeneration</article-title>
+          <source>Am J Pathol</source>
+          <year>2015</year>
+          <volume>185</volume>
+          <fpage>2596</fpage>
+          <lpage>2606</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ajpath.2015.06.001</pub-id>
+          <?supplied-pmid 26118749?>
+          <pub-id pub-id-type="pmid">26118749</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR15">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>de Back</surname>
+              <given-names>DZ</given-names>
+            </name>
+            <name>
+              <surname>Kostova</surname>
+              <given-names>EB</given-names>
+            </name>
+            <name>
+              <surname>van Kraaij</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>van den Berg</surname>
+              <given-names>TK</given-names>
+            </name>
+            <name>
+              <surname>van Bruggen</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Of macrophages and red blood cells; a complex love story</article-title>
+          <source>Front Physiol</source>
+          <year>2014</year>
+          <volume>5</volume>
+          <fpage>9</fpage>
+          <?supplied-pmid 24523696?>
+          <pub-id pub-id-type="pmid">24523696</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR16">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Deretic</surname>
+              <given-names>V</given-names>
+            </name>
+          </person-group>
+          <article-title>Autophagy in leukocytes and other cells: mechanisms, subsystem organization, selectivity, and links to innate immunity</article-title>
+          <source>J Leukoc Biol</source>
+          <year>2016</year>
+          <volume>100</volume>
+          <fpage>969</fpage>
+          <lpage>978</lpage>
+          <pub-id pub-id-type="doi">10.1189/jlb.4MR0216-079R</pub-id>
+          <?supplied-pmid 27493243?>
+          <pub-id pub-id-type="pmid">27493243</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR17">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Donath</surname>
+              <given-names>MY</given-names>
+            </name>
+            <name>
+              <surname>Shoelson</surname>
+              <given-names>SE</given-names>
+            </name>
+          </person-group>
+          <article-title>Type 2 diabetes as an inflammatory disease</article-title>
+          <source>Nat Rev Immunol</source>
+          <year>2011</year>
+          <volume>11</volume>
+          <fpage>98</fpage>
+          <lpage>107</lpage>
+          <pub-id pub-id-type="doi">10.1038/nri2925</pub-id>
+          <?supplied-pmid 21233852?>
+          <pub-id pub-id-type="pmid">21233852</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR18">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Epelman</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Lavine</surname>
+              <given-names>KJ</given-names>
+            </name>
+            <name>
+              <surname>Randolph</surname>
+              <given-names>GJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Origin and functions of tissue macrophages</article-title>
+          <source>Immunity</source>
+          <year>2014</year>
+          <volume>41</volume>
+          <fpage>21</fpage>
+          <lpage>35</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.immuni.2014.06.013</pub-id>
+          <?supplied-pmid 25035951?>
+          <pub-id pub-id-type="pmid">25035951</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR19">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fleming</surname>
+              <given-names>BD</given-names>
+            </name>
+            <name>
+              <surname>Mosser</surname>
+              <given-names>DM</given-names>
+            </name>
+          </person-group>
+          <article-title>Regulatory macrophages: setting the threshold for therapy</article-title>
+          <source>Eur J Immunol</source>
+          <year>2011</year>
+          <volume>41</volume>
+          <fpage>2498</fpage>
+          <lpage>2502</lpage>
+          <pub-id pub-id-type="doi">10.1002/eji.201141717</pub-id>
+          <?supplied-pmid 21952805?>
+          <pub-id pub-id-type="pmid">21952805</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR20">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Franchi</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Kamada</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Nakamura</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Burberry</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Kuffa</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Suzuki</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Shaw</surname>
+              <given-names>MH</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>YG</given-names>
+            </name>
+            <name>
+              <surname>Nunez</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>NLRC4-driven production of IL-1beta discriminates between pathogenic and commensal bacteria and promotes host intestinal defense</article-title>
+          <source>Nat Immunol</source>
+          <year>2012</year>
+          <volume>13</volume>
+          <fpage>449</fpage>
+          <lpage>456</lpage>
+          <pub-id pub-id-type="doi">10.1038/ni.2263</pub-id>
+          <?supplied-pmid 22484733?>
+          <pub-id pub-id-type="pmid">22484733</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR21">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Freeman</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Goyette</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Furuya</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Woods</surname>
+              <given-names>EC</given-names>
+            </name>
+            <name>
+              <surname>Bertozzi</surname>
+              <given-names>CR</given-names>
+            </name>
+            <name>
+              <surname>Bergmeier</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Hinz</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>van der Merwe</surname>
+              <given-names>PA</given-names>
+            </name>
+            <name>
+              <surname>Das</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Grinstein</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Integrins form an expanding diffusional barrier that coordinates phagocytosis</article-title>
+          <source>Cell</source>
+          <year>2016</year>
+          <volume>164</volume>
+          <fpage>128</fpage>
+          <lpage>140</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cell.2015.11.048</pub-id>
+          <?supplied-pmid 26771488?>
+          <pub-id pub-id-type="pmid">26771488</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR22">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ganz</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>Macrophages and systemic iron homeostasis</article-title>
+          <source>J Innate Immun</source>
+          <year>2012</year>
+          <volume>4</volume>
+          <fpage>446</fpage>
+          <lpage>453</lpage>
+          <pub-id pub-id-type="doi">10.1159/000336423</pub-id>
+          <?supplied-pmid 22441209?>
+          <pub-id pub-id-type="pmid">22441209</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR23">
+        <label>23.</label>
+        <mixed-citation publication-type="other">Gaudet RG, Bradfield CJ, and MacMicking JD 2016 Evolution of cell-autonomous effector mechanisms in macrophages versus non-immune cells. Microbiol Spectr 4</mixed-citation>
+      </ref>
+      <ref id="CR24">
+        <label>24.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gause</surname>
+              <given-names>WC</given-names>
+            </name>
+            <name>
+              <surname>Wynn</surname>
+              <given-names>TA</given-names>
+            </name>
+            <name>
+              <surname>Allen</surname>
+              <given-names>JE</given-names>
+            </name>
+          </person-group>
+          <article-title>Type 2 immunity and wound healing: evolutionary refinement of adaptive immunity by helminths</article-title>
+          <source>Nat Rev Immunol</source>
+          <year>2013</year>
+          <volume>13</volume>
+          <fpage>607</fpage>
+          <lpage>614</lpage>
+          <pub-id pub-id-type="doi">10.1038/nri3476</pub-id>
+          <?supplied-pmid 23827958?>
+          <pub-id pub-id-type="pmid">23827958</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR25">
+        <label>25.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gautier</surname>
+              <given-names>EL</given-names>
+            </name>
+            <name>
+              <surname>Shay</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Greter</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Jakubzick</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Ivanov</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Helft</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Chow</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Elpek</surname>
+              <given-names>KG</given-names>
+            </name>
+            <name>
+              <surname>Gordonov</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Mazloom</surname>
+              <given-names>AR</given-names>
+            </name>
+            <name>
+              <surname>Ma'ayan</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Chua</surname>
+              <given-names>WJ</given-names>
+            </name>
+            <name>
+              <surname>Hansen</surname>
+              <given-names>TH</given-names>
+            </name>
+            <name>
+              <surname>Turley</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Merad</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Randolph</surname>
+              <given-names>GJ</given-names>
+            </name>
+            <name>
+              <surname>Immunological</surname>
+              <given-names>GC</given-names>
+            </name>
+          </person-group>
+          <article-title>Gene-expression profiles and transcriptional regulatory pathways that underlie the identity and diversity of mouse tissue macrophages</article-title>
+          <source>Nat Immunol</source>
+          <year>2012</year>
+          <volume>13</volume>
+          <fpage>1118</fpage>
+          <lpage>1128</lpage>
+          <pub-id pub-id-type="doi">10.1038/ni.2419</pub-id>
+          <?supplied-pmid 23023392?>
+          <pub-id pub-id-type="pmid">23023392</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR26">
+        <label>26.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ginhoux</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Guilliams</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Tissue-resident macrophage ontogeny and homeostasis</article-title>
+          <source>Immunity</source>
+          <year>2016</year>
+          <volume>44</volume>
+          <fpage>439</fpage>
+          <lpage>449</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.immuni.2016.02.024</pub-id>
+          <?supplied-pmid 26982352?>
+          <pub-id pub-id-type="pmid">26982352</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR27">
+        <label>27.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Goh</surname>
+              <given-names>YP</given-names>
+            </name>
+            <name>
+              <surname>Henderson</surname>
+              <given-names>NC</given-names>
+            </name>
+            <name>
+              <surname>Heredia</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>Red Eagle</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Odegaard</surname>
+              <given-names>JI</given-names>
+            </name>
+            <name>
+              <surname>Lehwald</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>KD</given-names>
+            </name>
+            <name>
+              <surname>Sheppard</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Mukundan</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Locksley</surname>
+              <given-names>RM</given-names>
+            </name>
+            <name>
+              <surname>Chawla</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Eosinophils secrete IL-4 to facilitate liver regeneration</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <year>2013</year>
+          <volume>110</volume>
+          <fpage>9914</fpage>
+          <lpage>9919</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.1304046110</pub-id>
+          <?supplied-pmid 23716700?>
+          <pub-id pub-id-type="pmid">23716700</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR28">
+        <label>28.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gordon</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Macrophage heterogeneity and tissue lipids</article-title>
+          <source>J Clin Invest</source>
+          <year>2007</year>
+          <volume>117</volume>
+          <fpage>89</fpage>
+          <lpage>93</lpage>
+          <pub-id pub-id-type="doi">10.1172/JCI30992</pub-id>
+          <?supplied-pmid 17200712?>
+          <pub-id pub-id-type="pmid">17200712</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR29">
+        <label>29.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gordon</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Phagocytosis: the legacy of Metchnikoff</article-title>
+          <source>Cell</source>
+          <year>2016</year>
+          <volume>166</volume>
+          <fpage>1065</fpage>
+          <lpage>1068</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cell.2016.08.017</pub-id>
+          <?supplied-pmid 27565334?>
+          <pub-id pub-id-type="pmid">27565334</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR30">
+        <label>30.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gotts</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>Matthay</surname>
+              <given-names>MA</given-names>
+            </name>
+          </person-group>
+          <article-title>Sepsis: pathophysiology and clinical management</article-title>
+          <source>BMJ</source>
+          <year>2016</year>
+          <volume>353</volume>
+          <fpage>i1585</fpage>
+          <pub-id pub-id-type="doi">10.1136/bmj.i1585</pub-id>
+          <?supplied-pmid 27217054?>
+          <pub-id pub-id-type="pmid">27217054</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR31">
+        <label>31.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Groves</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Dart</surname>
+              <given-names>AE</given-names>
+            </name>
+            <name>
+              <surname>Covarelli</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Caron</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecular mechanisms of phagocytic uptake in mammalian cells</article-title>
+          <source>Cell Mol Life Sci</source>
+          <year>2008</year>
+          <volume>65</volume>
+          <fpage>1957</fpage>
+          <lpage>1976</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00018-008-7578-4</pub-id>
+          <?supplied-pmid 18322649?>
+          <pub-id pub-id-type="pmid">18322649</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR32">
+        <label>32.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Guo</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Callaway</surname>
+              <given-names>JB</given-names>
+            </name>
+            <name>
+              <surname>Ting</surname>
+              <given-names>JP</given-names>
+            </name>
+          </person-group>
+          <article-title>Inflammasomes: mechanism of action, role in disease, and therapeutics</article-title>
+          <source>Nat Med</source>
+          <year>2015</year>
+          <volume>21</volume>
+          <fpage>677</fpage>
+          <lpage>687</lpage>
+          <pub-id pub-id-type="doi">10.1038/nm.3893</pub-id>
+          <?supplied-pmid 26121197?>
+          <pub-id pub-id-type="pmid">26121197</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR33">
+        <label>33.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Haldar</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Murphy</surname>
+              <given-names>KM</given-names>
+            </name>
+          </person-group>
+          <article-title>Origin, development, and homeostasis of tissue-resident macrophages</article-title>
+          <source>Immunol Rev</source>
+          <year>2014</year>
+          <volume>262</volume>
+          <fpage>25</fpage>
+          <lpage>35</lpage>
+          <pub-id pub-id-type="doi">10.1111/imr.12215</pub-id>
+          <?supplied-pmid 25319325?>
+          <pub-id pub-id-type="pmid">25319325</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR34">
+        <label>34.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Headland</surname>
+              <given-names>SE</given-names>
+            </name>
+            <name>
+              <surname>Norling</surname>
+              <given-names>LV</given-names>
+            </name>
+          </person-group>
+          <article-title>The resolution of inflammation: principles and challenges</article-title>
+          <source>Semin Immunol</source>
+          <year>2015</year>
+          <volume>27</volume>
+          <fpage>149</fpage>
+          <lpage>160</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.smim.2015.03.014</pub-id>
+          <?supplied-pmid 25911383?>
+          <pub-id pub-id-type="pmid">25911383</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR35">
+        <label>35.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Helming</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Winter</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Gordon</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>The scavenger receptor CD36 plays a role in cytokine-induced macrophage fusion</article-title>
+          <source>J Cell Sci</source>
+          <year>2009</year>
+          <volume>122</volume>
+          <fpage>453</fpage>
+          <lpage>459</lpage>
+          <pub-id pub-id-type="doi">10.1242/jcs.037200</pub-id>
+          <?supplied-pmid 19155290?>
+          <pub-id pub-id-type="pmid">19155290</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR36">
+        <label>36.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Heredia</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>Mukundan</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>FM</given-names>
+            </name>
+            <name>
+              <surname>Mueller</surname>
+              <given-names>AA</given-names>
+            </name>
+            <name>
+              <surname>Deo</surname>
+              <given-names>RC</given-names>
+            </name>
+            <name>
+              <surname>Locksley</surname>
+              <given-names>RM</given-names>
+            </name>
+            <name>
+              <surname>Rando</surname>
+              <given-names>TA</given-names>
+            </name>
+            <name>
+              <surname>Chawla</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Type 2 innate signals stimulate fibro/adipogenic progenitors to facilitate muscle regeneration</article-title>
+          <source>Cell</source>
+          <year>2013</year>
+          <volume>153</volume>
+          <fpage>376</fpage>
+          <lpage>388</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cell.2013.02.053</pub-id>
+          <?supplied-pmid 23582327?>
+          <pub-id pub-id-type="pmid">23582327</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR37">
+        <label>37.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hussell</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Bell</surname>
+              <given-names>TJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Alveolar macrophages: plasticity in a tissue-specific context</article-title>
+          <source>Nat Rev Immunol</source>
+          <year>2014</year>
+          <volume>14</volume>
+          <fpage>81</fpage>
+          <lpage>93</lpage>
+          <pub-id pub-id-type="doi">10.1038/nri3600</pub-id>
+          <?supplied-pmid 24445666?>
+          <pub-id pub-id-type="pmid">24445666</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR38">
+        <label>38.</label>
+        <mixed-citation publication-type="other">Janssen WJ, Bratton DL, Jakubzick CV, and Henson PM 2016 Myeloid Cell Turnover and Clearance. Microbiol Spectr 4</mixed-citation>
+      </ref>
+      <ref id="CR39">
+        <label>39.</label>
+        <mixed-citation publication-type="other">Jaumouille V, and Grinstein S 2016 Molecular mechanisms of phagosome formation. Microbiol Spectr 4</mixed-citation>
+      </ref>
+      <ref id="CR40">
+        <label>40.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kaur</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Bell</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Salek-Ardakani</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Hussell</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>Macrophage adaptation in airway inflammatory resolution</article-title>
+          <source>Eur Respir Rev</source>
+          <year>2015</year>
+          <volume>24</volume>
+          <fpage>510</fpage>
+          <lpage>515</lpage>
+          <pub-id pub-id-type="doi">10.1183/16000617.0030-2015</pub-id>
+          <?supplied-pmid 26324813?>
+          <pub-id pub-id-type="pmid">26324813</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR41">
+        <label>41.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Plutzky</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Brown fat and browning for the treatment of obesity and related metabolic disorders</article-title>
+          <source>Diabetes Metab J</source>
+          <year>2016</year>
+          <volume>40</volume>
+          <fpage>12</fpage>
+          <lpage>21</lpage>
+          <pub-id pub-id-type="doi">10.4093/dmj.2016.40.1.12</pub-id>
+          <?supplied-pmid 26912151?>
+          <pub-id pub-id-type="pmid">26912151</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR42">
+        <label>42.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Knipper</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Willenborg</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Brinckmann</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Bloch</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Maass</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Wagener</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Krieg</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Sutherland</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Munitz</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Rothenberg</surname>
+              <given-names>ME</given-names>
+            </name>
+            <name>
+              <surname>Niehoff</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Richardson</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Hammerschmidt</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Allen</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>Eming</surname>
+              <given-names>SA</given-names>
+            </name>
+          </person-group>
+          <article-title>Interleukin-4 receptor alpha signaling in myeloid cells controls collagen fibril assembly in skin repair</article-title>
+          <source>Immunity</source>
+          <year>2015</year>
+          <volume>43</volume>
+          <fpage>803</fpage>
+          <lpage>816</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.immuni.2015.09.005</pub-id>
+          <?supplied-pmid 26474656?>
+          <pub-id pub-id-type="pmid">26474656</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR43">
+        <label>43.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lambeth</surname>
+              <given-names>JD</given-names>
+            </name>
+          </person-group>
+          <article-title>NOX enzymes and the biology of reactive oxygen</article-title>
+          <source>Nat Rev Immunol</source>
+          <year>2004</year>
+          <volume>4</volume>
+          <fpage>181</fpage>
+          <lpage>189</lpage>
+          <pub-id pub-id-type="doi">10.1038/nri1312</pub-id>
+          <?supplied-pmid 15039755?>
+          <pub-id pub-id-type="pmid">15039755</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR44">
+        <label>44.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lavin</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Winter</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Blecher-Gonen</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>David</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Keren-Shaul</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Merad</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Jung</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Amit</surname>
+              <given-names>I</given-names>
+            </name>
+          </person-group>
+          <article-title>Tissue-resident macrophage enhancer landscapes are shaped by the local microenvironment</article-title>
+          <source>Cell</source>
+          <year>2014</year>
+          <volume>159</volume>
+          <fpage>1312</fpage>
+          <lpage>1326</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cell.2014.11.018</pub-id>
+          <?supplied-pmid 25480296?>
+          <pub-id pub-id-type="pmid">25480296</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR45">
+        <label>45.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Huen</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Nishio</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Nishio</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>HK</given-names>
+            </name>
+            <name>
+              <surname>Choi</surname>
+              <given-names>BS</given-names>
+            </name>
+            <name>
+              <surname>Ruhrberg</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Cantley</surname>
+              <given-names>LG</given-names>
+            </name>
+          </person-group>
+          <article-title>Distinct macrophage phenotypes contribute to kidney injury and repair</article-title>
+          <source>J Am Soc Nephrol</source>
+          <year>2011</year>
+          <volume>22</volume>
+          <fpage>317</fpage>
+          <lpage>326</lpage>
+          <pub-id pub-id-type="doi">10.1681/ASN.2009060615</pub-id>
+          <?supplied-pmid 21289217?>
+          <pub-id pub-id-type="pmid">21289217</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR46">
+        <label>46.</label>
+        <mixed-citation publication-type="other">Lopez-Rodriguez E, Gay-Jordi G, Mucci A, Lachmann N, Serrano-Mollar A 2016 Lung surfactant metabolism: early in life, early in disease and target in cell therapy. Cell Tissue Res</mixed-citation>
+      </ref>
+      <ref id="CR47">
+        <label>47.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Martinez</surname>
+              <given-names>FO</given-names>
+            </name>
+            <name>
+              <surname>Gordon</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>The M1 and M2 paradigm of macrophage activation: time for reassessment</article-title>
+          <source>F1000Prime Rep</source>
+          <year>2014</year>
+          <volume>6</volume>
+          <fpage>13</fpage>
+          <pub-id pub-id-type="doi">10.12703/P6-13</pub-id>
+          <?supplied-pmid 24669294?>
+          <pub-id pub-id-type="pmid">24669294</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR48">
+        <label>48.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Martinez</surname>
+              <given-names>FO</given-names>
+            </name>
+            <name>
+              <surname>Helming</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Milde</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Varin</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Melgert</surname>
+              <given-names>BN</given-names>
+            </name>
+            <name>
+              <surname>Draijer</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Thomas</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Fabbri</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Crawshaw</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Ho</surname>
+              <given-names>LP</given-names>
+            </name>
+            <name>
+              <surname>Ten Hacken</surname>
+              <given-names>NH</given-names>
+            </name>
+            <name>
+              <surname>Cobos Jimenez</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Kootstra</surname>
+              <given-names>NA</given-names>
+            </name>
+            <name>
+              <surname>Hamann</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Greaves</surname>
+              <given-names>DR</given-names>
+            </name>
+            <name>
+              <surname>Locati</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Mantovani</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Gordon</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Genetic programs expressed in resting and IL-4 alternatively activated mouse and human macrophages: similarities and differences</article-title>
+          <source>Blood</source>
+          <year>2013</year>
+          <volume>121</volume>
+          <fpage>e57</fpage>
+          <lpage>e69</lpage>
+          <pub-id pub-id-type="doi">10.1182/blood-2012-06-436212</pub-id>
+          <?supplied-pmid 23293084?>
+          <pub-id pub-id-type="pmid">23293084</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR49">
+        <label>49.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McNelis</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Olefsky</surname>
+              <given-names>JM</given-names>
+            </name>
+          </person-group>
+          <article-title>Macrophages, immunity, and metabolic disease</article-title>
+          <source>Immunity</source>
+          <year>2014</year>
+          <volume>41</volume>
+          <fpage>36</fpage>
+          <lpage>48</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.immuni.2014.05.010</pub-id>
+          <?supplied-pmid 25035952?>
+          <pub-id pub-id-type="pmid">25035952</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR50">
+        <label>50.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mosser</surname>
+              <given-names>DM</given-names>
+            </name>
+            <name>
+              <surname>Edwards</surname>
+              <given-names>JP</given-names>
+            </name>
+          </person-group>
+          <article-title>Exploring the full spectrum of macrophage activation</article-title>
+          <source>Nat Rev Immunol</source>
+          <year>2008</year>
+          <volume>8</volume>
+          <fpage>958</fpage>
+          <lpage>969</lpage>
+          <pub-id pub-id-type="doi">10.1038/nri2448</pub-id>
+          <?supplied-pmid 19029990?>
+          <pub-id pub-id-type="pmid">19029990</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR51">
+        <label>51.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Muller</surname>
+              <given-names>WA</given-names>
+            </name>
+            <name>
+              <surname>Steinman</surname>
+              <given-names>RM</given-names>
+            </name>
+            <name>
+              <surname>Cohn</surname>
+              <given-names>ZA</given-names>
+            </name>
+          </person-group>
+          <article-title>Membrane proteins of the vacuolar system. III. Further studies on the composition and recycling of endocytic vacuole membrane in cultured macrophages</article-title>
+          <source>J Cell Biol</source>
+          <year>1983</year>
+          <volume>96</volume>
+          <fpage>29</fpage>
+          <lpage>36</lpage>
+          <pub-id pub-id-type="doi">10.1083/jcb.96.1.29</pub-id>
+          <?supplied-pmid 6826650?>
+          <pub-id pub-id-type="pmid">6826650</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR52">
+        <label>52.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Murray</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Allen</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>Biswas</surname>
+              <given-names>SK</given-names>
+            </name>
+            <name>
+              <surname>Fisher</surname>
+              <given-names>EA</given-names>
+            </name>
+            <name>
+              <surname>Gilroy</surname>
+              <given-names>DW</given-names>
+            </name>
+            <name>
+              <surname>Goerdt</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Gordon</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Hamilton</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Ivashkiv</surname>
+              <given-names>LB</given-names>
+            </name>
+            <name>
+              <surname>Lawrence</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Locati</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Mantovani</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Martinez</surname>
+              <given-names>FO</given-names>
+            </name>
+            <name>
+              <surname>Mege</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Mosser</surname>
+              <given-names>DM</given-names>
+            </name>
+            <name>
+              <surname>Natoli</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Saeij</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Schultze</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Shirey</surname>
+              <given-names>KA</given-names>
+            </name>
+            <name>
+              <surname>Sica</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Suttles</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Udalova</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>van Ginderachter</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Vogel</surname>
+              <given-names>SN</given-names>
+            </name>
+            <name>
+              <surname>Wynn</surname>
+              <given-names>TA</given-names>
+            </name>
+          </person-group>
+          <article-title>Macrophage activation and polarization: nomenclature and experimental guidelines</article-title>
+          <source>Immunity</source>
+          <year>2014</year>
+          <volume>41</volume>
+          <fpage>14</fpage>
+          <lpage>20</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.immuni.2014.06.008</pub-id>
+          <?supplied-pmid 25035950?>
+          <pub-id pub-id-type="pmid">25035950</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR53">
+        <label>53.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>KD</given-names>
+            </name>
+            <name>
+              <surname>Qiu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Cui</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Goh</surname>
+              <given-names>YP</given-names>
+            </name>
+            <name>
+              <surname>Mwangi</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>David</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Mukundan</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Brombacher</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Locksley</surname>
+              <given-names>RM</given-names>
+            </name>
+            <name>
+              <surname>Chawla</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Alternatively activated macrophages produce catecholamines to sustain adaptive thermogenesis</article-title>
+          <source>Nature</source>
+          <year>2011</year>
+          <volume>480</volume>
+          <fpage>104</fpage>
+          <lpage>108</lpage>
+          <pub-id pub-id-type="doi">10.1038/nature10653</pub-id>
+          <?supplied-pmid 22101429?>
+          <pub-id pub-id-type="pmid">22101429</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR54">
+        <label>54.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Niida</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Kaku</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Amano</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Yoshida</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Kataoka</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Nishikawa</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Tanne</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Maeda</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Nishikawa</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Kodama</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Vascular endothelial growth factor can substitute for macrophage colony-stimulating factor in the support of osteoclastic bone resorption</article-title>
+          <source>J Exp Med</source>
+          <year>1999</year>
+          <volume>190</volume>
+          <fpage>293</fpage>
+          <lpage>298</lpage>
+          <pub-id pub-id-type="doi">10.1084/jem.190.2.293</pub-id>
+          <?supplied-pmid 10432291?>
+          <pub-id pub-id-type="pmid">10432291</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR55">
+        <label>55.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>O'Neill</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Pearce</surname>
+              <given-names>EJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Immunometabolism governs dendritic cell and macrophage function</article-title>
+          <source>J Exp Med</source>
+          <year>2016</year>
+          <volume>213</volume>
+          <fpage>15</fpage>
+          <lpage>23</lpage>
+          <pub-id pub-id-type="doi">10.1084/jem.20151570</pub-id>
+          <?supplied-pmid 26694970?>
+          <pub-id pub-id-type="pmid">26694970</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR56">
+        <label>56.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Odegaard</surname>
+              <given-names>JI</given-names>
+            </name>
+            <name>
+              <surname>Ricardo-Gonzalez</surname>
+              <given-names>RR</given-names>
+            </name>
+            <name>
+              <surname>Goforth</surname>
+              <given-names>MH</given-names>
+            </name>
+            <name>
+              <surname>Morel</surname>
+              <given-names>CR</given-names>
+            </name>
+            <name>
+              <surname>Subramanian</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Mukundan</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Red Eagle</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Vats</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Brombacher</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Ferrante</surname>
+              <given-names>AW</given-names>
+            </name>
+            <name>
+              <surname>Chawla</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Macrophage-specific PPARgamma controls alternative activation and improves insulin resistance</article-title>
+          <source>Nature</source>
+          <year>2007</year>
+          <volume>447</volume>
+          <fpage>1116</fpage>
+          <lpage>1120</lpage>
+          <pub-id pub-id-type="doi">10.1038/nature05894</pub-id>
+          <?supplied-pmid 17515919?>
+          <pub-id pub-id-type="pmid">17515919</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR57">
+        <label>57.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Olefsky</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Glass</surname>
+              <given-names>CK</given-names>
+            </name>
+          </person-group>
+          <article-title>Macrophages, inflammation, and insulin resistance</article-title>
+          <source>Annu Rev Physiol</source>
+          <year>2010</year>
+          <volume>72</volume>
+          <fpage>219</fpage>
+          <lpage>246</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev-physiol-021909-135846</pub-id>
+          <?supplied-pmid 20148674?>
+          <pub-id pub-id-type="pmid">20148674</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR58">
+        <label>58.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Paolicelli</surname>
+              <given-names>RC</given-names>
+            </name>
+            <name>
+              <surname>Bolasco</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Pagani</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Maggi</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Scianni</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Panzanelli</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Giustetto</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Ferreira</surname>
+              <given-names>TA</given-names>
+            </name>
+            <name>
+              <surname>Guiducci</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Dumas</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Ragozzino</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Gross</surname>
+              <given-names>CT</given-names>
+            </name>
+          </person-group>
+          <article-title>Synaptic pruning by microglia is necessary for normal brain development</article-title>
+          <source>Science</source>
+          <year>2011</year>
+          <volume>333</volume>
+          <fpage>1456</fpage>
+          <lpage>1458</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.1202529</pub-id>
+          <?supplied-pmid 21778362?>
+          <pub-id pub-id-type="pmid">21778362</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR59">
+        <label>59.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pastores</surname>
+              <given-names>GM</given-names>
+            </name>
+            <name>
+              <surname>Hughes</surname>
+              <given-names>DA</given-names>
+            </name>
+          </person-group>
+          <article-title>Non-neuronopathic lysosomal storage disorders: disease spectrum and treatments</article-title>
+          <source>Best Pract Res Clin Endocrinol Metab</source>
+          <year>2015</year>
+          <volume>29</volume>
+          <fpage>173</fpage>
+          <lpage>182</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.beem.2014.08.005</pub-id>
+          <?supplied-pmid 25987171?>
+          <pub-id pub-id-type="pmid">25987171</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR60">
+        <label>60.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Porcheray</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Viaud</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Rimaniol</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Leone</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Samah</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Dereuddre-Bosquet</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Dormont</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Gras</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Macrophage activation switching: an asset for the resolution of inflammation</article-title>
+          <source>Clin Exp Immunol</source>
+          <year>2005</year>
+          <volume>142</volume>
+          <fpage>481</fpage>
+          <lpage>489</lpage>
+          <?supplied-pmid 16297160?>
+          <pub-id pub-id-type="pmid">16297160</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR61">
+        <label>61.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Qiu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>KD</given-names>
+            </name>
+            <name>
+              <surname>Odegaard</surname>
+              <given-names>JI</given-names>
+            </name>
+            <name>
+              <surname>Cui</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Tian</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Locksley</surname>
+              <given-names>RM</given-names>
+            </name>
+            <name>
+              <surname>Palmiter</surname>
+              <given-names>RD</given-names>
+            </name>
+            <name>
+              <surname>Chawla</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Eosinophils and type 2 cytokine signaling in macrophages orchestrate development of functional beige fat</article-title>
+          <source>Cell</source>
+          <year>2014</year>
+          <volume>157</volume>
+          <fpage>1292</fpage>
+          <lpage>1308</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cell.2014.03.066</pub-id>
+          <?supplied-pmid 24906148?>
+          <pub-id pub-id-type="pmid">24906148</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR62">
+        <label>62.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sheikh</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Dickensheets</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Pedras-Vasconcelos</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Ramalingam</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Helming</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Gordon</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Donnelly</surname>
+              <given-names>RP</given-names>
+            </name>
+          </person-group>
+          <article-title>The interleukin-13 receptor-alpha1 chain is essential for induction of the alternative macrophage activation pathway by IL-13 but not IL-4</article-title>
+          <source>J Innate Immun</source>
+          <year>2015</year>
+          <volume>7</volume>
+          <fpage>494</fpage>
+          <lpage>505</lpage>
+          <pub-id pub-id-type="doi">10.1159/000376579</pub-id>
+          <?supplied-pmid 25766112?>
+          <pub-id pub-id-type="pmid">25766112</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR63">
+        <label>63.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sieweke</surname>
+              <given-names>MH</given-names>
+            </name>
+            <name>
+              <surname>Allen</surname>
+              <given-names>JE</given-names>
+            </name>
+          </person-group>
+          <article-title>Beyond stem cells: self-renewal of differentiated macrophages</article-title>
+          <source>Science</source>
+          <year>2013</year>
+          <volume>342</volume>
+          <fpage>1242974</fpage>
+          <pub-id pub-id-type="doi">10.1126/science.1242974</pub-id>
+          <?supplied-pmid 24264994?>
+          <pub-id pub-id-type="pmid">24264994</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR64">
+        <label>64.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sims</surname>
+              <given-names>NA</given-names>
+            </name>
+            <name>
+              <surname>Walsh</surname>
+              <given-names>NC</given-names>
+            </name>
+          </person-group>
+          <article-title>Intercellular cross-talk among bone cells: new factors and pathways</article-title>
+          <source>Curr Osteoporos Rep</source>
+          <year>2012</year>
+          <volume>10</volume>
+          <fpage>109</fpage>
+          <lpage>117</lpage>
+          <pub-id pub-id-type="doi">10.1007/s11914-012-0096-1</pub-id>
+          <?supplied-pmid 22427140?>
+          <pub-id pub-id-type="pmid">22427140</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR65">
+        <label>65.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Smythies</surname>
+              <given-names>LE</given-names>
+            </name>
+            <name>
+              <surname>Sellers</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Clements</surname>
+              <given-names>RH</given-names>
+            </name>
+            <name>
+              <surname>Mosteller-Barnum</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Meng</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Benjamin</surname>
+              <given-names>WH</given-names>
+            </name>
+            <name>
+              <surname>Orenstein</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>PD</given-names>
+            </name>
+          </person-group>
+          <article-title>Human intestinal macrophages display profound inflammatory anergy despite avid phagocytic and bacteriocidal activity</article-title>
+          <source>J Clin Invest</source>
+          <year>2005</year>
+          <volume>115</volume>
+          <fpage>66</fpage>
+          <lpage>75</lpage>
+          <pub-id pub-id-type="doi">10.1172/JCI200519229</pub-id>
+          <?supplied-pmid 15630445?>
+          <pub-id pub-id-type="pmid">15630445</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR66">
+        <label>66.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Soehnlein</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Lindbom</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Phagocyte partnership during the onset and resolution of inflammation</article-title>
+          <source>Nat Rev Immunol</source>
+          <year>2010</year>
+          <volume>10</volume>
+          <fpage>427</fpage>
+          <lpage>439</lpage>
+          <pub-id pub-id-type="doi">10.1038/nri2779</pub-id>
+          <?supplied-pmid 20498669?>
+          <pub-id pub-id-type="pmid">20498669</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR67">
+        <label>67.</label>
+        <mixed-citation publication-type="other">Teti G, Biondo C, and Beninati C 2016. The phagocyte, Metchnikoff, and the foundation of immunology. Microbiol Spectr 4</mixed-citation>
+      </ref>
+      <ref id="CR68">
+        <label>68.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>van de Veerdonk</surname>
+              <given-names>FL</given-names>
+            </name>
+            <name>
+              <surname>Dinarello</surname>
+              <given-names>CA</given-names>
+            </name>
+          </person-group>
+          <article-title>Deficient autophagy unravels the ROS paradox in chronic granulomatous disease</article-title>
+          <source>Autophagy</source>
+          <year>2014</year>
+          <volume>10</volume>
+          <fpage>1141</fpage>
+          <lpage>1142</lpage>
+          <pub-id pub-id-type="doi">10.4161/auto.28638</pub-id>
+          <?supplied-pmid 24879159?>
+          <pub-id pub-id-type="pmid">24879159</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR69">
+        <label>69.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>van Marken Lichtenbelt</surname>
+              <given-names>WD</given-names>
+            </name>
+            <name>
+              <surname>Vanhommerig</surname>
+              <given-names>JW</given-names>
+            </name>
+            <name>
+              <surname>Smulders</surname>
+              <given-names>NM</given-names>
+            </name>
+            <name>
+              <surname>Drossaerts</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Kemerink</surname>
+              <given-names>GJ</given-names>
+            </name>
+            <name>
+              <surname>Bouvy</surname>
+              <given-names>ND</given-names>
+            </name>
+            <name>
+              <surname>Schrauwen</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Teule</surname>
+              <given-names>GJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Cold-activated brown adipose tissue in healthy men</article-title>
+          <source>N Engl J Med</source>
+          <year>2009</year>
+          <volume>360</volume>
+          <fpage>1500</fpage>
+          <lpage>1508</lpage>
+          <pub-id pub-id-type="doi">10.1056/NEJMoa0808718</pub-id>
+          <?supplied-pmid 19357405?>
+          <pub-id pub-id-type="pmid">19357405</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR70">
+        <label>70.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vance</surname>
+              <given-names>RE</given-names>
+            </name>
+            <name>
+              <surname>Isberg</surname>
+              <given-names>RR</given-names>
+            </name>
+            <name>
+              <surname>Portnoy</surname>
+              <given-names>DA</given-names>
+            </name>
+          </person-group>
+          <article-title>Patterns of pathogenesis: discrimination of pathogenic and nonpathogenic microbes by the innate immune system</article-title>
+          <source>Cell Host Microbe</source>
+          <year>2009</year>
+          <volume>6</volume>
+          <fpage>10</fpage>
+          <lpage>21</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.chom.2009.06.007</pub-id>
+          <?supplied-pmid 19616762?>
+          <pub-id pub-id-type="pmid">19616762</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR71">
+        <label>71.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vieira</surname>
+              <given-names>OV</given-names>
+            </name>
+            <name>
+              <surname>Botelho</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Grinstein</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Phagosome maturation: aging gracefully</article-title>
+          <source>Biochem J</source>
+          <year>2002</year>
+          <volume>366</volume>
+          <fpage>689</fpage>
+          <lpage>704</lpage>
+          <pub-id pub-id-type="doi">10.1042/bj20020691</pub-id>
+          <?supplied-pmid 12061891?>
+          <pub-id pub-id-type="pmid">12061891</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR72">
+        <label>72.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wu</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Molofsky</surname>
+              <given-names>AB</given-names>
+            </name>
+            <name>
+              <surname>Liang</surname>
+              <given-names>HE</given-names>
+            </name>
+            <name>
+              <surname>Ricardo-Gonzalez</surname>
+              <given-names>RR</given-names>
+            </name>
+            <name>
+              <surname>Jouihan</surname>
+              <given-names>HA</given-names>
+            </name>
+            <name>
+              <surname>Bando</surname>
+              <given-names>JK</given-names>
+            </name>
+            <name>
+              <surname>Chawla</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Locksley</surname>
+              <given-names>RM</given-names>
+            </name>
+          </person-group>
+          <article-title>Eosinophils sustain adipose alternatively activated macrophages associated with glucose homeostasis</article-title>
+          <source>Science</source>
+          <year>2011</year>
+          <volume>332</volume>
+          <fpage>243</fpage>
+          <lpage>247</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.1201475</pub-id>
+          <?supplied-pmid 21436399?>
+          <pub-id pub-id-type="pmid">21436399</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR73">
+        <label>73.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wynn</surname>
+              <given-names>TA</given-names>
+            </name>
+            <name>
+              <surname>Chawla</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Pollard</surname>
+              <given-names>JW</given-names>
+            </name>
+          </person-group>
+          <article-title>Macrophage biology in development, homeostasis and disease</article-title>
+          <source>Nature</source>
+          <year>2013</year>
+          <volume>496</volume>
+          <fpage>445</fpage>
+          <lpage>455</lpage>
+          <pub-id pub-id-type="doi">10.1038/nature12034</pub-id>
+          <?supplied-pmid 23619691?>
+          <pub-id pub-id-type="pmid">23619691</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR74">
+        <label>74.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wynn</surname>
+              <given-names>TA</given-names>
+            </name>
+            <name>
+              <surname>Ramalingam</surname>
+              <given-names>TR</given-names>
+            </name>
+          </person-group>
+          <article-title>Mechanisms of fibrosis: therapeutic translation for fibrotic disease</article-title>
+          <source>Nat Med</source>
+          <year>2012</year>
+          <volume>18</volume>
+          <fpage>1028</fpage>
+          <lpage>1040</lpage>
+          <pub-id pub-id-type="doi">10.1038/nm.2807</pub-id>
+          <?supplied-pmid 22772564?>
+          <pub-id pub-id-type="pmid">22772564</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR75">
+        <label>75.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yuan</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Condello</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Keene</surname>
+              <given-names>CD</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Bird</surname>
+              <given-names>TD</given-names>
+            </name>
+            <name>
+              <surname>Paul</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>Luo</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Colonna</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Baddeley</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Grutzendler</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>TREM2 haplodeficiency in mice and humans impairs the microglia barrier function leading to decreased amyloid compaction and severe axonal dystrophy</article-title>
+          <source>Neuron</source>
+          <year>2016</year>
+          <volume>92</volume>
+          <fpage>252</fpage>
+          <lpage>264</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.neuron.2016.09.016</pub-id>
+          <?supplied-pmid 27710785?>
+          <pub-id pub-id-type="pmid">27710785</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record>

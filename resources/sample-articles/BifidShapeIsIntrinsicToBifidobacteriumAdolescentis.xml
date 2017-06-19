@@ -1,0 +1,765 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5359755</identifier><datestamp>2017-04-04</datestamp><setSpec>frontmicrobio</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Microbiol</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Microbiol</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Microbiol.</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Microbiology</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1664-302X</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5359755</article-id>
+      <article-id pub-id-type="pmcid">PMC5359755</article-id>
+      <article-id pub-id-type="pmc-uid">5359755</article-id>
+      <article-id pub-id-type="doi">10.3389/fmicb.2017.00478</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Microbiology</subject>
+          <subj-group>
+            <subject>Original Research</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Bifid Shape Is Intrinsic to <italic>Bifidobacterium adolescentis</italic></article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dhanashree</surname>
+            <given-names/>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rajashekharan</surname>
+            <given-names>Sharika</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Krishnaswamy</surname>
+            <given-names>Balamurugan</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kammara</surname>
+            <given-names>Rajagopal</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn001">
+            <sup>*</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/258285/overview"/>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <sup>1</sup>
+        <institution>Department of Protein Chemistry and Technology, Council of Scientific and Industrial Research – Central Food Technological Research Institute, Mysore</institution>
+        <country>India</country>
+      </aff>
+      <aff id="aff2">
+        <sup>2</sup>
+        <institution>Department of Biotechnology, Alagappa Univeristy, Karaikudi</institution>
+        <country>India</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <p>Edited by: <italic>Andrea Gomez-Zavaglia, Center for Research and Development in Food Cryotechnology (CONICET), Argentina</italic></p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Reviewed by: <italic>Atte Von Wright, University of Eastern Finland, Finland; Alberto Finamore, Food and Nutrition Research Center (CREA), Italy</italic></p>
+        </fn>
+        <corresp id="fn001">*Correspondence: <italic>Rajagopal Kammara, <email xlink:type="simple">krgopal22@rediffmail.com</email></italic></corresp>
+        <fn fn-type="other" id="fn002">
+          <p>This article was submitted to Food Microbiology, a section of the journal Frontiers in Microbiology</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>3</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2017</year>
+      </pub-date>
+      <volume>8</volume>
+      <elocation-id>478</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>12</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>08</day>
+          <month>3</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2017 Dhanashree, Rajashekharan, Krishnaswamy and Kammara.</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <copyright-holder>Dhanashree, Rajashekharan, Krishnaswamy and Kammara</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Although the genus <italic>Bifidobacterium</italic> was originally named for its bifid morphology, not all bifidobacterial species have a similar structure, and very few of them adopt a bifid shape under stress conditions. The exposure of respective bifidobacterial species to various conditions, such as different pH, temperatures, medium components, <italic>in vivo</italic> growth in <italic>Caenorhabditis elegans</italic>, and subculture, did not affect their diverse morphologies. Extensive scanning electron microscopy studies suggested that the bifid shape of <italic>B. adolescentis</italic> are maintained irrespective of the conditions. Hence, we conclude that the bifid morphology is intrinsic to <italic>B. adolescentis</italic>. Most bifidobacterial species are anaerobic and rod-shaped, whereas, after the first generation, they become microaerophilic or aerophilic. CaCl<sub>2</sub> (treatment of <italic>B. animalis</italic>) signaling triggered a change from the rod shape to the bifid shape and vice versa in <italic>B. adolescentis</italic>.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>bifid</kwd>
+        <kwd>polymorphic</kwd>
+        <kwd>
+          <italic>Bifidobacterium</italic>
+        </kwd>
+        <kwd>intrinsic</kwd>
+        <kwd>aerophilic</kwd>
+        <kwd>microaerophilic</kwd>
+      </kwd-group>
+      <counts>
+        <fig-count count="10"/>
+        <table-count count="1"/>
+        <equation-count count="1"/>
+        <ref-count count="38"/>
+        <page-count count="12"/>
+        <word-count count="0"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Introduction</title>
+      <p>The genus <italic>Bifidobacterium</italic> is so designated because in the reference species, one end was a rocket-shaped and the other, longitudinally split (<xref rid="B31" ref-type="bibr">Tissier, 1900</xref>). Various bifidobacterial species have been classified based on the nucleotide sequence encoding the 16S rRNA, Hsp60, and xylulose-5-phosphate (XFP; also called fructose-6-phosphate phosphoketolase/F6PPK). However, the lack of cutting-edge research into the taxonomy of the genus <italic>Bifidobacterium</italic> has meant that these species have been retained in <italic>Bifidobacterium</italic>, regardless of morphological differences. Because very few bifidobacterial strains have a bifid shape, even though some are polymorphic both rod-shaped and bifid-shaped species are retained in the single genus <italic>Bifidobacterium</italic>.</p>
+      <p>Investigators in the field, such as <xref rid="B37" ref-type="bibr">Weiss (1933)</xref>, <xref rid="B2" ref-type="bibr">Blaurock (1937)</xref>, <xref rid="B5" ref-type="bibr">Boventer (1938)</xref>, <xref rid="B38" ref-type="bibr">Weiss and Rettger (1938)</xref>, and <xref rid="B34" ref-type="bibr">Tomarelli et al. (1949a</xref>,<xref rid="B35" ref-type="bibr">b</xref>), have stressed the demand to develop optimal media for bifidobacterial s pecies. The reflection of variations in the bifid structures of <italic>Bifidobacterium</italic> and <italic>Lactobacillus acidophilus</italic> was confirmed by <xref rid="B10" ref-type="bibr">Herter (1907)</xref>, <xref rid="B3" ref-type="bibr">Bliuhdorn (1910)</xref>, <xref rid="B15" ref-type="bibr">Kendall and Haner (1924)</xref>. Since then, some have suggested that <italic>Bifidobacterium</italic> and <italic>Lactobacillus</italic> are two different genera (<xref rid="B29" ref-type="bibr">Sundman et al., 1959</xref>). Exposure to stress conditions causes the latter to adopt pleomorphic forms, including the bifid form. These observations were confirmed by <xref rid="B24" ref-type="bibr">Rodella (1908)</xref>, <xref rid="B7" ref-type="bibr">Cruickshank (1925)</xref>, <xref rid="B25" ref-type="bibr">Roos (1927)</xref>, and <xref rid="B30" ref-type="bibr">Synder et al. (1967)</xref> who reported that the alternative forms are uncommon and give an illusion of branching. <xref rid="B21" ref-type="bibr">Norris et al. (1950)</xref> confirmed that stress conditions induce the polymorphic forms of <italic>Bifidobacterium</italic>. However, the mechanisms underlying the bifid conformation are unknown, and there has been no account of this polymorphic/bifid morphology. Therefore, in this study, we investigated the bifid nature of <italic>Bifidobacterium</italic>. Studies of polymorphic bacterial morphologies by <xref rid="B20" ref-type="bibr">Moro (1905)</xref> and <xref rid="B32" ref-type="bibr">Tissier (1905)</xref> demonstrated that bifid-shaped organisms are present in the fecal material of breastfed infants. Populations of these organisms (bifid form) in the intestine represent the disease-free condition and are physiological significance. However, the cellular elements and physical parameters responsible for the upkeep of the bifid form <italic>in vivo</italic> and <italic>in vitro</italic> are yet to be determined.</p>
+      <p>According to available reports, there are about 63 different <italic>Bifidobacterium</italic> species. The nomenclature and taxonomy of these microbes are incomplete. Hence, it is critical to understand the diverse nature of <italic>Bifidobacterium</italic> and to determine the characteristic morphologies of all the <italic>Bifidobacterium</italic>. It is essential to determine whether this polymorphism is intrinsic to a particular species of <italic>Bifidobacterium</italic>. <xref rid="B38" ref-type="bibr">Weiss and Rettger (1938)</xref>, reported that these bacteria lose their bifid structure and change to the rod-shaped form in the subculture. Moreover, before subculture, they are strictly anaerobic, whereas after subculture, they are aerobic. The mechanisms of all these phenomena are yet obscure. In this study, we examine the polymorphic morphologies of the <italic>Bifidobacterium</italic>, and conclude that the bifid morphology is an intrinsic characteristic of <italic>B. adolescentis</italic>, whereas (very few) other species, including <italic>B. animalis</italic>, display polymorphic behavior only under stress conditions. However, all the other bifidobacterial species maintain their rod shape, regardless of the culture conditions, and rarely adopt the bifid shape.</p>
+      <p>In the <xref rid="B11" ref-type="bibr">Homma et al. (1960)</xref> showed that univalent cations induce this unique phenomenon. <xref rid="B17" ref-type="bibr">Kojima et al. (1970)</xref> confirmed the role of monovalent cations, including sodium chloride, sodium sulfate, sodium nitrate, tribasic sodium phosphate, and sodium acetate, in the induction of the bifid form. Later, the roles of chlorides of Ca<sup>++</sup>, Ba<sup>++</sup>, Mg<sup>++</sup>, Mn<sup>++</sup>, and Zn<sup>++</sup> were shown to play no role in this pleomorphism (<xref rid="B17" ref-type="bibr">Kojima et al., 1970</xref>). In the 1960s, glucose and sucrose were also proven to positively affect this polymorphism (<xref rid="B16" ref-type="bibr">Kojima et al., 1968</xref>).</p>
+      <p><xref rid="B33" ref-type="bibr">Tissier (1899)</xref>, <italic>L. bifidus</italic> was the only organism that was exhaustively dissected for its morphological variability. However, this work was incomplete because many bifidobacterial species are recognized today and many decades-old comparative morphological studies have not survived. In response to the original studies, the name ‘<italic>Bifidobacterium</italic>’ was suggested, but was considered equivocal, even then. In those days, fewer <italic>Bifidobacterium</italic> species were available, and <italic>L. bifidus</italic> may have been the only recognized bifidobacterial species. In 1950, 1968, and 1970, <italic>L. bifidus</italic> was the only strain in which this polymorphism was investigated. <xref rid="B17" ref-type="bibr">Kojima et al. (1970)</xref> demonstrated the role of CaCl<sub>2</sub> in inhibiting various bacterial morphological forms. The comparative study (by <xref rid="B17" ref-type="bibr">Kojima et al., 1970</xref>) of cell wall composition of the bifid and bacilloid forms reported are clearly shown the restriction of amino acid phenylalanine and methionine to bifid form and the presence of high content of the glucose compared to bacilloid form. Surprisingly, larger peptidoglycans were found in the bacilliform, whereas the average-sized peptidoglycans occur in the bifid form. These observations also support the contention that ‘<italic>Bifidobacterium</italic>’ is a misnomer. Not all <italic>Bifidobacterium</italic> shows the bifid morphology because it is not an intrinsic characteristic, and may be restricted to very few members of the genus.</p>
+      <p>To examine the different morphologies of the species included in the genus <italic>Bifidobacterium</italic>, we selected several bifidobacterial groups constructed by <xref rid="B4" ref-type="bibr">Bottacini et al. (2014)</xref>, each selected species corresponds to a particular group and subjected them to different stress conditions. The different Bifidobacterial groups were fed to the model system, <italic>Caenorhabditis elegans</italic> to assess their morphological changes during <italic>in vivo</italic> stress conditions and was characterized and analyzed through scanning electron microscopy (SEM). In this manuscript, we report our findings on the varied morphologies of the <italic>Bifidobacterium</italic>, detected with SEM and compound microscopy.</p>
+    </sec>
+    <sec sec-type="materials|methods" id="s1">
+      <title>Materials and Methods</title>
+      <p>Organisms: <italic>Bifidobacterium</italic> species, including <italic>B. animalis, B. longum</italic>, and <italic>B. adolescentis</italic>, etc., were obtained from the German collection of Microorganisms and Cell Cultures (Inhoffenstraße 7B, 38124 Braunschweig, Germany). For details, see <bold>Table <xref ref-type="table" rid="T1">1</xref></bold>. <italic>C. elegans</italic> and OP 50 <italic>Escherichia coli</italic> was a kind gift of Dr. Balamurugan.</p>
+      <table-wrap id="T1" position="float">
+        <label>Table 1</label>
+        <caption>
+          <p>Strains used in this study.</p>
+        </caption>
+        <table frame="hsides" rules="groups" cellspacing="5" cellpadding="5">
+          <thead>
+            <tr>
+              <th valign="top" align="left" rowspan="1" colspan="1">Bacterial strain</th>
+              <th valign="top" align="left" rowspan="1" colspan="1">Strain no.</th>
+              <th valign="top" align="left" rowspan="1" colspan="1">Reference</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1">1 <italic>B. animalis</italic> subspp. <italic>lactis</italic></td>
+              <td valign="top" align="left" rowspan="1" colspan="1">DSMZ 10140</td>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <xref rid="B18" ref-type="bibr">Meile et al., 1997</xref>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1">2 <italic>B. thermoacidophilum</italic> subspp. <italic>thermoacidophilum</italic></td>
+              <td valign="top" align="left" rowspan="1" colspan="1">DSMZ 15837</td>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <xref rid="B8" ref-type="bibr">Dong et al., 2000</xref>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1">3 <italic>B. adolescentis</italic></td>
+              <td valign="top" align="left" rowspan="1" colspan="1">DSMZ 20083</td>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <xref rid="B23" ref-type="bibr">Reuter, 1963</xref>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1">4 <italic>B. longum</italic> subspp. <italic>infantis</italic></td>
+              <td valign="top" align="left" rowspan="1" colspan="1">DSMZ 20088</td>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <xref rid="B23" ref-type="bibr">Reuter, 1963</xref>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1">5 <italic>B. longum</italic> subspp. <italic>longum</italic></td>
+              <td valign="top" align="left" rowspan="1" colspan="1">DSMZ 20219</td>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <xref rid="B23" ref-type="bibr">Reuter, 1963</xref>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1">6 <italic>B. asteroides</italic></td>
+              <td valign="top" align="left" rowspan="1" colspan="1">DSMZ 20089</td>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <xref rid="B27" ref-type="bibr">Scardovi and Trovatelli, 1969</xref>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1">7 <italic>B. animalis</italic></td>
+              <td valign="top" align="left" rowspan="1" colspan="1">DSMZ 20105</td>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <xref rid="B19" ref-type="bibr">Mitsuoka, 1969</xref>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1">8 <italic>B. breve</italic></td>
+              <td valign="top" align="left" rowspan="1" colspan="1">DSMZ 20213</td>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <xref rid="B23" ref-type="bibr">Reuter, 1963</xref>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1">9 <italic>B. indicum</italic></td>
+              <td valign="top" align="left" rowspan="1" colspan="1">DSMZ 20214</td>
+              <td valign="top" align="left" rowspan="1" colspan="1">
+                <xref rid="B27" ref-type="bibr">Scardovi and Trovatelli, 1969</xref>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top" align="left" rowspan="1" colspan="1">10 <italic>E. coli OP50</italic></td>
+              <td valign="top" align="left" rowspan="1" colspan="1"/>
+              <td valign="top" align="left" rowspan="1" colspan="1">A gift from Prof. Balamurugan</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <attrib>
+            <italic>B, Refers to Bifidobacterium.</italic>
+          </attrib>
+        </table-wrap-foot>
+      </table-wrap>
+      <sec>
+        <title>Media and Culture Conditions</title>
+        <p>Commercially available media, such as MRS (Oxoid, Milano, Italy) and Bifidobacterial broth (Hi-Media Laboratories, A-516, Swastik Disha Business Park, via Vadhani Industrial Estate, L.B.S. Marg, Mumbai-400 086, India) and agar medium, were used to grow the different Bifidobacterial species. The first generation of the Bifidobacteria was cultured in MRS broth (and also in Bifidobacterial broth when appropriate) at 37°C (without shaking) in an anaerobic chamber for 36 h. They were sub-cultured and grown in aerobic condition in the second generation.</p>
+      </sec>
+      <sec>
+        <title>Growing, Harvesting, and Growth Curve Studies</title>
+        <p>Bifidobacterial strains, <italic>B. animalis</italic>, <italic>B. longum</italic>, and <italic>B. adolescentis</italic>, were grown at different temperatures: room temperature, 30, 37, and 42°C. The bifidobacterial strains were streaked onto the MRS agar plate to produce single isolated colonies. The streaked plates were incubated at 37°C (for 36 h) under anaerobic conditions. A single colony was isolated, used to inoculate 10 ml of fresh MRS medium, and grown in an anaerobic growth chamber. An aliquot (1%) of each inoculum was subculture in 15 ml of fresh MRS medium to construct growth curves. The bacterial samples were collected every 6 h and the OD<sub>600</sub> measured. All the experiments were performed in triplicates.</p>
+      </sec>
+      <sec>
+        <title>Growth, Maturation, and Harvesting of <italic>C. elegans</italic></title>
+        <p>Wild-type <italic>C. elegans</italic> were obtained from CGC and maintained on NGM at 20°C. The standard <italic>E. coli</italic> OP50 strain was used as a food source. Age synchronized young adult worms were used in all experiments. Synchronization was obtained through bleaching of gravid hermaphrodites to obtain eggs that were plated onto seeded plates. The young adult nematodes were harvested from NGM plates by using M9 buffer and used for experiments. Was grown on NGM agar plates and fed internationally accepted feed (the standard <italic>E. coli</italic> OP50 strain), as described previously (<xref rid="B36" ref-type="bibr">Ward, 1973</xref>). Standard techniques (<xref rid="B12" ref-type="bibr">Hope, 1999</xref>; <xref rid="B28" ref-type="bibr">Stiernagle, 1999</xref>) for the maintenance and growth of nematodes on NGM were used.</p>
+      </sec>
+      <sec>
+        <title>Bacterial Strains and Growth Conditions for <italic>C. elegans</italic> Feeding</title>
+        <p><italic>Escherichia coli</italic> OP50 was grown overnight at 37°C at 200 rpm in Luria-Bertani medium. The bacterial lawns used for the <italic>C. elegans</italic> studies were prepared by spreading 10 μl of the bacterial strain onto nematode growth media (NGM) agar (0.25% peptone) in 3.5-cm plates. The plates were incubated overnight in an incubator at 37°C. They were allowed to equilibrate to room temperature before they were seeded with <italic>C. elegans</italic> and incubated at 20°C throughout the experiment.</p>
+        <p>All the bifidobacterial strains cited in the <bold>Table <xref ref-type="table" rid="T1">1</xref></bold> (except <italic>E. coli</italic>) were grown as shown above. Bacterial lawns were made by spreading 10 μl of the bifidobacterial strains onto MRS agar in 3.5-cm plates. A similar procedure to that described above was followed, but <italic>C. elegans</italic> was fed different Bifidobacterial (<italic>B. longum</italic> and <italic>B. adolescentis</italic>) strains rather than <italic>E. coli</italic> OP50. <italic>B. longum</italic> and <italic>B. adolescentis</italic> were considered further for these studies as it is preferred by the <italic>C. elegans</italic>. The second generation of this bacteria is microaerophilic therefore they can grow in aerobic condition, where <italic>C. elegans</italic> also grows.</p>
+      </sec>
+      <sec>
+        <title>Chemotaxis Assay</title>
+        <p>To determine whether the <italic>Bifidobacterium</italic> and their products (ocins) are non-toxic and safe for <italic>C. elegans</italic>, several experiments were performed (<xref rid="B6" ref-type="bibr">Brenner, 1974</xref>). The procedure follows as below. A Petri plate was divided into four parts, two opposite and one adjacent part labeled “Test”(A, B, and D) and the remaining as “Control” (C). All the sectors (A, B, C, and D) were equidistant from one another. Part A contained <italic>B. animalis</italic>, part B <italic>B. longum</italic>, part C the control <italic>E. coli</italic> OP50, and part D <italic>B. adolescentis</italic>. Approximately, 25 wild-type <italic>C. elegans</italic> that had been grown on <italic>E. coli</italic> OP50 were washed thoroughly and introduced into the center of the plate and the origin was marked with a circle to allow non-motile worms to be eliminated. The plates were incubated under optimal conditions, and analyzed the following day. All the bacteria were equidistant from the center where the worms started their journeys. The numbers of worms in each bacterial sector were scored after 12 and 24 h and the chemotaxis index (CI) was calculated by using the following formula.</p>
+        <disp-formula id="E1">
+          <mml:math id="M1">
+            <mml:mrow>
+              <mml:mi>CI</mml:mi>
+              <mml:mo>=</mml:mo>
+              <mml:mfrac>
+                <mml:mrow>
+                  <mml:mi>Worms on test bacterium</mml:mi>
+                  <mml:mo>−</mml:mo>
+                  <mml:mi>Worms in</mml:mi>
+                  <mml:mi/>
+                  <mml:mi/>
+                  <mml:mi/>
+                  <mml:mi>
+</mml:mi>
+                  <mml:mi>E</mml:mi>
+                  <mml:mn>.</mml:mn>
+                  <mml:mi>c</mml:mi>
+                  <mml:mi>o</mml:mi>
+                  <mml:mi>l</mml:mi>
+                  <mml:mi>i</mml:mi>
+                  <mml:mo>⁢</mml:mo>
+                  <mml:mi> </mml:mi>
+                  <mml:mi> OP50 </mml:mi>
+                </mml:mrow>
+                <mml:mrow>
+                  <mml:mi>Total number of worms</mml:mi>
+                </mml:mrow>
+              </mml:mfrac>
+            </mml:mrow>
+          </mml:math>
+        </disp-formula>
+      </sec>
+      <sec>
+        <title>Phenotypic Observations of <italic>Bifidobacterium</italic>-Fed <italic>C. elegans</italic> and <italic>C. elegans</italic> as a Model Organism to Understand the Polymorphic Morphologies of <italic>Bifidobacterium</italic></title>
+        <p><italic>Caenorhabditis elegans</italic> was used as a model organism to determine the ability of the nematode to consume <italic>Bifidobacterium</italic> and to understand the intrinsic morphology of <italic>B. adolescentis</italic>. Different <italic>Bifidobacterium</italic> (<italic>B. animalis</italic>, <italic>B. longum</italic>, and <italic>B. adolescentis</italic>) were grown in the appropriate medium, as described above. They were harvested, washed, and resuspended in the appropriate medium. <italic>C. elegans</italic> were fed with different ratios (1:10, 1:20, and so on) of <italic>Bifidobacterium</italic> and left for 72–96 h. They were harvested at different intervals (after 12, 24, 32 h, and so on) without rupture, and then smashed so that the internal microbes could be observed. The worms were washed, fixed with glutaraldehyde, after a series of wash animals were crushed on the slide and analyzed with SEM. The phenotypic changes in the nematodes fed <italic>Bifidobacterium</italic> were observed microscopically. The cells of <italic>B. adolescentis</italic>-fed worms were also lysed, and the supernatants observed with SEM and the bacteria were quantified (CFU).</p>
+      </sec>
+      <sec>
+        <title>Bifidobacterial (<italic>B. longum</italic> and <italic>B. adolescentis</italic>) Colonization of the <italic>C. elegans</italic> Digestive Tract</title>
+        <p>The method of <xref rid="B9" ref-type="bibr">Garsin et al. (2001)</xref>, with minor modifications, was used to estimate the approximate numbers of bacterial cells in the worms. Ten worms were selected, and the surface bacteria were removed by washing the worms 4–5 times with 5 μl of M9 buffer on agar plates. Each worm was transferred to a 0.5 ml centrifuge tube containing 20 μl of M9 buffer and mechanically disrupted with a Microtube pestle (Scientific Specialties, Inc., Lodi, CA, USA). The volume was then adjusted to 100 μl with M9 buffer (serially dilute and spread) and the numbers of bacteria [colony-forming units (cfu)] were estimated by spreading the culture on MRS agar plates. The plates were incubated at the appropriate temperature until the colonies were observed. The same colonies were washed well with M9 buffer and immediately fixed and observed with SEM. Genomic DNA was isolated from some bacteria and subjected to 16S rRNA amplification and alignment.</p>
+      </sec>
+      <sec>
+        <title>Understanding the Bifidobacterial Morphology through SEM</title>
+        <p>Scanning electron microscopy studies were conducted to understand the diverse morphology of <italic>Bifidobacterium</italic>. Various <italic>Bifidobacterium</italic> species were subjected to different conditions, including different media (MRS or <italic>Bifidobacterium</italic> broth) and different temperatures (in MRS at room temperature, 30, 37, or 42°C for SEM and Growth curve studies). They were also grown in MRS medium (for three generations also), with or without amino acids (667 mg/lt) (alanine + asparagine + glutamine + serine, or individually with alanine, asparagine, tryptophan, etc.) in the presence and absence of CaCl<sub>2</sub> (<xref rid="B13" ref-type="bibr">Husain et al., 1972</xref>), and on MRS with and without salts (0.2 M Na<sub>2</sub>SO<sub>4</sub>, 0.2 M NaCl, or 0.2 M CH<sub>3</sub>COONa) (<xref rid="B16" ref-type="bibr">Kojima et al., 1968</xref>, the effect of salt concentration studies) and at different pH (5–7.5). The pleomorphism of Bifidobacteria was understood by growing them <italic>in vivo</italic> (in <italic>C. elegans</italic>).</p>
+      </sec>
+      <sec>
+        <title>The Procedure Followed for SEM</title>
+        <p>The various bifidobacterial strains were harvested, and washed twice with phosphate buffer. The pelleted bacteria were fixed in 2% glutaraldehyde and incubated at 4°C 1 h/overnight. The cells were then harvested and washed with a 10–100% gradient of ethanol. The cells were resuspended in 50–100 μl of absolute alcohol. Approximately 2 μl of the sample was placed on a cover slip, dessicated and examined with SEM. The images were collected at 20,000 magnifications. Only appropriate and convincing images were considered in the analysis.</p>
+      </sec>
+      <sec>
+        <title>Genomic DNA Isolation</title>
+        <p>The commercial GeneJET Genomic DNA Purification Kit (Fermentas, Inc., 830 Harrington Court, Burlington, ON L7N 3N4, Canada) was used for genomic DNA isolation. In brief, a single isolated colony was used to inoculate 10 ml of MRS broth and grown overnight at 37°C without shaking under anaerobic conditions. The following day, the cells were harvested and heat treated at 37°C in the presence of 20 μg of lysozyme in Tris- HCl and EDTA buffer (pH 8.0). After treatment with proteinase K, RNAse A was added and the cells were incubated for 10 min at room temperature. The resulting mix was centrifuged at 12,000 rpm for 20 min, and the supernatant was transferred to a GeneJET column. After two washes with wash buffer, the DNA was finally eluted with Tris buffer (pH 8.0).</p>
+      </sec>
+      <sec>
+        <title>16S rRNA Amplification, Sequence Analysis, and Alignment</title>
+        <p>The genomic DNA extracted as described above was used as the template for the PCR amplification of 16S rRNA using the bifido16S universal primers 357F/926R (357F 5′-CCTACGGGAGGCAGCAG-3′; 926R 5′-CCGTCAATTCMTTTRAGT-3′) and DyNAzyme II DNA polymerase (Thermo Scientific). The cycling parameters were: initial denaturation at 95°C for 5 min, followed by 35 cycles at 95°C for 30 s, 56°C for 45 s, and 72°C for 1 min, and a final extension at 72°C for 5 min. Each reaction was analyzed on 1% agarose gel. The resulting PCR products were subjected to DNA sequencing with an ABI 310 DNA sequencer (institutional facility). Sequence similarity was determined with the National Center for Biotechnology Information BLAST tool (NCBI).</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Results</title>
+      <p>The analysis of the 16S rRNA nucleotide sequences, Hsp60, and F6PPK showed distinct differences between the <italic>Bifidobacterium</italic> species. From the group three species were chosen for the study as they symbolize all the Bifidobacteria species. Certainly temperature does play a major part in the growth of Bifidobacteria. All together the three species [<italic>B. animalis</italic> subsp. <italic>lactis</italic> (DSM accession no. 10140), <italic>B. adolescentis</italic> (DSM accession no. 20083), and <italic>B. longum</italic> (DSM accession number: <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="20219">20219</ext-link>)] grew well at 37°C reaching an OD<sub>600</sub> of 3.0–5.0 after 66 h of culturing (<bold>Figure <xref ref-type="fig" rid="F1">1B</xref></bold>). When the temperatures were reduced to 30°C the growth rates were drastically reduced (<bold>Figure <xref ref-type="fig" rid="F1">1A</xref></bold>). The whole of the Bifidobacteria species were unable to come to an OD<sub>600</sub> of 3.0 even after 72 h of growth. Nevertheless, considerable growth was observed for <italic>B</italic>. <italic>adolescentis</italic>. The remaining two Bifidobacteria grew very slowly, and an extended lag phase was discovered. When the growth curves were observed at an increased temperature of 42°C (<bold>Figure <xref ref-type="fig" rid="F1">1C</xref></bold>) an outcome similar to that discovered at lower temperatures was observed (<bold>Figure <xref ref-type="fig" rid="F1">1A</xref></bold>). Nevertheless, the cells did not obtain an OD<sub>600</sub> above 3.0, even after 72 h of growth. These results indicate that 37°C may be an optimal temperature for the growth of these bacterial strains (<bold>Figure <xref ref-type="fig" rid="F1">1B</xref></bold>). The growth curve studies further emphasize that <italic>B. animalis</italic> subsp. <italic>lactis</italic> is very slow growing (obtained an OD<sub>600</sub> of 2.0–2.5), and it maintained this growth rate at different temperatures (30–42°C). <italic>B. longum</italic> showed the greatest growth rates at 37°C, and its growth rate was greater than either of the other strains. Strikingly, <italic>B. adolescentis</italic> grew faster at 37°C, reaching an OD<sub>600</sub> of 3.0 in 30 h, a task which takes 48 h at 30°C and 72 h at 42°C.</p>
+      <fig id="F1" position="float">
+        <label>FIGURE 1</label>
+        <caption>
+          <p><bold>Growth curves of DSM 10140 (<italic>B. animalis</italic> subspp. <italic>lactis)</italic>, DSM 20083 (<italic>B. adolescentis</italic>), DSM 20219 (<italic>B. longum)</italic> at different temperatures. (A)</bold> 30°C, <bold>(B)</bold> 37°C, <bold>(C)</bold> 42°C.</p>
+        </caption>
+        <graphic xlink:href="fmicb-08-00478-g001"/>
+      </fig>
+      <p>Three different Bifidobacteria such as <italic>Bifidobacterium adolescentis, B. animalis</italic>, and <italic>B. longum</italic> was grown under different concentrations of oxygen and their growth curves analyzed. The results clearly demonstrated that as the concentration of oxygen in the system increased, the multiplication rate of the bacteria decreased and <italic>vice versa</italic> (data not shown). The different Bifidobacterial species displayed different resistance and susceptibility to oxygen (in the first generation). In the second generation, all the species grew aerobically, irrespective of the presence (of different concentrations) of oxygen. An oximetric study also showed that each <italic>Bifidobacterium</italic> species required different amounts of oxygen for growth, especially in the first generation. This further confirms that Bifidobacteria does show intolerance in the IInd generation, equally it is sensitive in the first generation (<xref rid="B1" ref-type="bibr">Beerens et al., 2000</xref>; <xref rid="B14" ref-type="bibr">Kawasaki et al., 2006</xref>; <xref rid="B26" ref-type="bibr">Ruiz et al., 2011</xref>).</p>
+      <p>To investigate the various morphologies of the Bifidobacterial species, they were subjected to various conditions and analyzed with SEM (<bold>Figures <xref ref-type="fig" rid="F2">2A–H</xref></bold>). The experiments were performed at different temperatures (37, 42°C; <bold>Figures <xref ref-type="fig" rid="F2">2A,B</xref></bold>), in different media (Supplementary Information), supplemented with an amino acid mixture containing alanine, aspartate, glutamate, and serine (<bold>Figure <xref ref-type="fig" rid="F2">2C</xref></bold>), and also individually supplemented with alanine (<bold>Figure <xref ref-type="fig" rid="F2">2D</xref></bold>), asparagine (<bold>Figure <xref ref-type="fig" rid="F2">2F</xref></bold>), tryptophan (<bold>Figure <xref ref-type="fig" rid="F2">2E</xref></bold>), or salts such as 0.2 M CH<sub>3</sub>COONa (<bold>Figure <xref ref-type="fig" rid="F2">2G</xref></bold>) and 0.25 M NaCl (<bold>Figure <xref ref-type="fig" rid="F2">2H</xref></bold>). The growth rate of the bacteria varied between species when the temperature was increased. All the species reached stationary phase after 36–48 h, at 37°C and after 42–60 h, at 42°C (<bold>Figures <xref ref-type="fig" rid="F1">1B,C</xref></bold>). Rather than considering all 63 different species of <italic>Bifidobacterium</italic>, we selected species representative of the groups of <xref rid="B4" ref-type="bibr">Bottacini et al. (2014)</xref>: <italic>B. animalis</italic> (DSM 10140), <italic>B. adolescentis</italic> (DSM 20083), and <italic>B. longum</italic> (DSM 20219) (<xref rid="B4" ref-type="bibr">Bottacini et al., 2014</xref>). We subjected them to different conditions, and observed any morphological changes with SEM. <bold>Figures <xref ref-type="fig" rid="F2">2</xref></bold>, <bold><xref ref-type="fig" rid="F10">10</xref></bold> clearly demonstrates the effects of each condition on the Bifidobacterial morphology. <italic>Bifidobacterium adolescentis</italic> (DSM 20083) metamorphosed from a bifid to a rod when grown on medium supplemented with alanine (A), asparagine (N), or 0.25 M NaCl. When <italic>B. longum</italic> (DSM 20219) was grown on medium supplemented with the four amino acids (Ala, Asp, Glu, and Ser), or separately with alanine (A) or asparagine (N), its morphology changed from elongated rods to bifids. However, <italic>B. animalis.</italic> subsp. <italic>lactis</italic> (DSM 10140) remained in the rod form, irrespective of its growth conditions.</p>
+      <fig id="F2" position="float">
+        <label>FIGURE 2</label>
+        <caption>
+          <p><bold>Scanning electron microscopy (SEM) of strains DSM 10140 (<italic>B. animalis</italic> subspp. <italic>lactis</italic>), DSM 20083 (<italic>B. adolescentis</italic>), DSM 20219 (<italic>B. longum)</italic> with different conditions like (A)</bold> 37°C, <bold>(B)</bold> 42°C, <bold>(C)</bold> media with alanine, aspartate, glutamate, serine, <bold>(D)</bold> media with alanine, <bold>(E)</bold> media with tryptophan, <bold>(F)</bold> media with asparagine, <bold>(G)</bold> media with 0.2 M sodium acetate, <bold>(H)</bold> media with 0.25 M sodium chloride.</p>
+        </caption>
+        <graphic xlink:href="fmicb-08-00478-g002"/>
+      </fig>
+      <sec>
+        <title>Supplementary Data to Understand the Other Bifidobacterial Species</title>
+        <p>Another five species, <italic>B. thermacidophilum</italic> (DSM 15837), <italic>B. infantis</italic> (DSM 20088), <italic>B. asteroides</italic> (DSM 20089), <italic>B. animalis</italic> (DSM 20105), and <italic>B. breve</italic> (DSM 20213) was also subjected to the different conditions described above, and the results are shown in the <bold>Supplementary Figure <xref ref-type="supplementary-material" rid="SM1">S1</xref></bold>. We noted a marked change in the morphology of <italic>B. thermacidophilum</italic> from rod- to bifid-shaped when grown on medium containing tryptophan. When <italic>B. asteroides</italic> was grown at 37°C, a mixed population of rod- and bifid-shaped bacteria were observed. Morphological changes were also observed when <italic>B. breve</italic> was grown with all four amino acids or with alanine alone, when it metamorphosed from rod- to bifid-shaped cells. <italic>Bifidobacterium infantis</italic> changed from rods to coccoids at 42°C. Almost all the other strains of <italic>Bifidobacterium</italic> maintained the rod shape under all the conditions tested, except as noted above. These findings confirm that <italic>B. animalis</italic> maintains its rod form irrespective of the conditions, implying that this morphology is an intrinsic characteristic. Therefore, <italic>B. animalis</italic> may be used as a reliable control when investigating the bifid nature of <italic>B. adolescentis</italic> (in MRS, at 37°C, and under anaerobic conditions). <italic>B. adolescentis and B. animalis</italic> (a control for rod shape) were exposed to other variable conditions, including various pH (<bold>Figure <xref ref-type="fig" rid="F3">3</xref></bold>), for different growth periods (<bold>Figure <xref ref-type="fig" rid="F4">4</xref></bold>), and in different concentrations of salt (<bold>Figure <xref ref-type="fig" rid="F5">5</xref></bold>). The bifid shape was maintained by <italic>B. adolescentis</italic> under all the conditions tested, whereas the control, <italic>B. animalis</italic>, retained the rod form. The bifid shape of <italic>B. adolescentis</italic> were also retained when it was grown for three successive generations under normal conditions (<bold>Figure <xref ref-type="fig" rid="F6">6</xref></bold>), in all of which the bifid shape was retained. This further affirms that the intrinsic bifid nature in the case of <italic>B. adolescentis</italic>, and rod shape in the case of <italic>B. animalis</italic>.</p>
+        <fig id="F3" position="float">
+          <label>FIGURE 3</label>
+          <caption>
+            <p><bold>Scanning electron microscopy of strains DSM 10140 (<italic>B. animalis</italic> subspp. <italic>lactis</italic>), DSM 20083 (<italic>B. adolescentis</italic>) in different pH condition</bold>.</p>
+          </caption>
+          <graphic xlink:href="fmicb-08-00478-g003"/>
+        </fig>
+        <fig id="F4" position="float">
+          <label>FIGURE 4</label>
+          <caption>
+            <p><bold>Scanning electron microscopy of strains DSM 10140 (<italic>B. animalis</italic> subspp. <italic>lactis</italic>), DSM 20083 (<italic>B. adolescentis</italic>) in different time interval</bold>.</p>
+          </caption>
+          <graphic xlink:href="fmicb-08-00478-g004"/>
+        </fig>
+        <fig id="F5" position="float">
+          <label>FIGURE 5</label>
+          <caption>
+            <p><bold>Scanning electron microscopy of strain DSM 10140 (<italic>B. animalis</italic> subspp. <italic>lactis</italic>), and DSM 20083 (<italic>B. adolescentis</italic>) in different salts with varied concentration</bold>.</p>
+          </caption>
+          <graphic xlink:href="fmicb-08-00478-g005"/>
+        </fig>
+        <fig id="F6" position="float">
+          <label>FIGURE 6</label>
+          <caption>
+            <p><bold>Scanning electron microscopy of strain DSM 20083 (<italic>B. adolescentis</italic>) at three different generations</bold>.</p>
+          </caption>
+          <graphic xlink:href="fmicb-08-00478-g006"/>
+        </fig>
+        <p>We also found that most <italic>Bifidobacterium</italic> species stably maintained their morphological (rod) shape, irrespective of the conditions. As shown in the <bold>Figure <xref ref-type="fig" rid="F2">2</xref></bold>, all the <italic>Bifidobacterium</italic> species were intrinsically rod-shaped, except <italic>B. adolescentis</italic>. Few of them adopted the bifid structure, and only under stress conditions (<bold>Figures <xref ref-type="fig" rid="F2">2C,D,F,G</xref></bold>
+<italic>B. longum</italic>; where C, D conditions corresponds to <italic>B. breve</italic> [shown in the Supplementary Information], E condition corresponds to <italic>B. thermacidophilum</italic> [shown in the Supplementary Information], and D, F, G conditions corresponds to <italic>B. adolescentis</italic>) [where C refers to the combination of four amino acids; D refer to alanine; E refers to tryptophan; F refers to asparagine; G refers to 0.2 M sodium acetate). However, <italic>B. adolescentis</italic> is intrinsically bifid-shaped and maintains its bifid morphology irrespective of the ambient conditions.</p>
+      </sec>
+      <sec>
+        <title><italic>Caenorhabditis elegans</italic> as a Model Organism for Pleomorphism Studies</title>
+        <p>To understand the bifid form of <italic>B. adolescentis</italic> and the forms of other <italic>Bifidobacterium</italic>, <italic>C. elegans</italic> was fed with different <italic>Bifidobacterium</italic> species and observed microscopically and by SEM. Based on chemotaxis study <italic>B. adolescentis</italic> and <italic>B. longum</italic> was considered for the study. Only <italic>B. adolescentis</italic> maintained the bifid shape in the gut of <italic>C. elegans</italic>. The <italic>B. adolescentis</italic>-fed <italic>C. elegans</italic> were dissected and centrifuged, and the supernatant was spread on an MRS agar plate. The numbers of bacteria were counted. The bacterial genomic DNA was isolated, and the 16S rRNA was amplified and analyzed, confirming that the isolated bacteria were <italic>B</italic>. <italic>adolescentis</italic>. The same culture was also subjected to an F6PPK assay, which confirmed the bacterial identity. The same bacteria were examined with confocal microscopy (<bold>Figure <xref ref-type="fig" rid="F7">7</xref></bold>), which confirmed their bifid morphology. Bifidobacteria species other than <italic>B. adolescentis</italic> maintained their intrinsic rod shape in the digestive tracts of the worms, confirming that this is their intrinsic shape, and changes only under stress conditions.</p>
+        <fig id="F7" position="float">
+          <label>FIGURE 7</label>
+          <caption>
+            <p><bold>Confocal images of <italic>B. adolescentis</italic> at different magnification (a)</bold> Mag- 10x, <bold>(b,c)</bold> Mag- 60x.</p>
+          </caption>
+          <graphic xlink:href="fmicb-08-00478-g007"/>
+        </fig>
+      </sec>
+      <sec>
+        <title><italic>Bifidobacterium</italic> is the Preferred Food of <italic>C. elegans</italic></title>
+        <p>Experiments were performed to understand the ability of <italic>C. elegans</italic> to consume <italic>Bifidobacterium</italic>. The food chosen by <italic>C. elegans</italic> from among probiotic organisms and a control was estimated both qualitatively (<bold>Figures <xref ref-type="fig" rid="F8">8A–D</xref></bold>) and quantitatively (<bold>Figure <xref ref-type="fig" rid="F8">8E</xref></bold>), and represented as the CI. The CI for <italic>B. longum</italic> was 8.5 and 9.8 at 12 and 24 h, respectively, and was 0.7 for <italic>B. adolescentis</italic> at 12 h. <italic>C. elegans</italic> contained no <italic>B. animalis</italic> or <italic>B. adolescentis</italic> at 24 h, indicating that <italic>C. elegans</italic> had not selected them. To validate the bacterial morphology <italic>in vivo</italic>, nematodes that had consumed <italic>B. longum</italic> or <italic>B. adolescentis</italic> were fixed and examined with SEM to determine the shapes of the bacteria at different magnifications (<bold>Figure <xref ref-type="fig" rid="F9">9</xref></bold>).</p>
+        <fig id="F8" position="float">
+          <label>FIGURE 8</label>
+          <caption>
+            <p><bold>Chemotaxis assay and chemotactic index (CI) for understanding the food of choice among the other strains by the <italic>Caenorhabditis elegans</italic> in comparison with control <italic>Escherichia coli</italic> OP50 vs. (A)</bold> DSM 10140 <bold>(B)</bold> DSM 20083 <bold>(C)</bold> DSM 20219 and <bold>(D)</bold> in combination with all. <bold>(E)</bold> If CI = –1.0 represents complete preference for <italic>E. coli</italic> OP50. +1.0 represents complete preference for the test bacterium. 0.0 represents an equal distribution.</p>
+          </caption>
+          <graphic xlink:href="fmicb-08-00478-g008"/>
+        </fig>
+        <fig id="F9" position="float">
+          <label>FIGURE 9</label>
+          <caption>
+            <p><bold>Morphology of <italic>B. adolescentis</italic> (DSM 20083) and, <italic>B. longum</italic> (DSM 20219) in <italic>C. elegans</italic> with different magnification (Mag). (A)</bold> DSM 20083 (<italic>B. adolescentis</italic>) in <italic>C. elegans</italic> Mag-1000x; <bold>(B)</bold> DSM 20083 (<italic>B. adolescentis</italic>) in <italic>C. elegans</italic> Mag-20,000x; <bold>(C)</bold> DSM 20219 (<italic>B. longum</italic>) in <italic>C. elegans</italic> Mag-5000x; <bold>(D)</bold> DSM 20219 (<italic>B. longum</italic>) in <italic>C. elegans</italic> Mag-50, 000x.</p>
+          </caption>
+          <graphic xlink:href="fmicb-08-00478-g009"/>
+        </fig>
+        <p>The results in the <bold>Figure <xref ref-type="fig" rid="F8">8E</xref></bold> clearly show that the nematodes greatly preferred <italic>Bifidobacterium</italic> to <italic>E. coli</italic> OP50 as its staple food. <italic>Caenorhabditi</italic>s also expressed a preference among the three different <italic>Bifidobacterium</italic> species tested, so <italic>C. elegans</italic> may be the best model organism in which to investigate this polymorphism of <italic>Bifidobacterium</italic>. We assayed the preference of <italic>C. elegans</italic> for bacterial species <italic>B. longum, B. adolescentis</italic>, and <italic>B. animalis</italic>. The nematodes showed a preference for <italic>B. longum</italic> over <italic>B. adolescentis</italic> and <italic>B. animalis</italic> (<bold>Figures <xref ref-type="fig" rid="F8">8A–D</xref></bold>). The histogram shows the CIs of wild-type <italic>C. elegans</italic> for bacterial strains <italic>B. longum</italic>, <italic>B. adolescentis</italic>, and <italic>B. animalis</italic> at 12 and 24 h (<bold>Figure <xref ref-type="fig" rid="F8">8E</xref></bold>). The data are the means ± SD of three independent biological replicates.</p>
+        <p>The health benefits of probiotic microbes are only observed when they reach the colon, after passing through the small intestine (low pH), and large intestine (alkaline conditions). During their progress, they are exposed to very harsh conditions. To understand the effects on their morphology, these Bifidobacteria were subjected to different pH. When exposed to increasing pH (<bold>Figure <xref ref-type="fig" rid="F3">3</xref></bold>), <italic>B. adolescentis</italic> slowly became coccoid, with a dramatic reduction in bifid bacteria. At pH 5.5, they maintained the bifid structure, but as the pH increased to 6, the bifid structure started to diminish, and at pH 7 and 7.5, the number of coccoid structures predominated, although no pointed elongated rods were observed (<bold>Figure <xref ref-type="fig" rid="F3">3</xref></bold>). This phenomenon indicates that before it reaches its destination, the morphology of <italic>B. adolescentis</italic> changes frequently to accommodate the ambient conditions. Bacterial movement may be faster in the coccoid state, and this state may be favored when no adhesion is required. For adhesion, a larger and rougher bacterial surface area is required, and therefore a bifid shape is favored. Thus, <italic>B. adolescentis</italic> always maintained its bifid shape, unless it senses adverse conditions, when its morphology changes.</p>
+        <p>When Bifidobacterial species were grown in the presence of different salts (0.2 M sodium acetate or 0.25 M sodium chloride) (<xref rid="B16" ref-type="bibr">Kojima et al., 1968</xref>), SEM clearly showed that there were no dramatic changes in their morphologies (<bold>Figures <xref ref-type="fig" rid="F2">2G,H</xref></bold>). A slight elongation of the rods was the only visible difference between salt-exposed <italic>B. longum</italic> and control <italic>B. longum</italic>. Importantly, the presence of lower concentration (0.001–0.01 M) NaCl did not affect the morphology of <italic>B. adolescentis</italic>, and its bifid structure did not change to the rod form. The bifid structure was observed at lower concentrations of salt, and as the concentration of salt increased, the bacteria assumed the rod shape. The rod structures started to diminish at a salt concentration of 0.005–0.01 M, whereas the bifid form started to shorten, until at 0.25 M salt, no bifid structures were seen (<bold>Figure <xref ref-type="fig" rid="F2">2H</xref></bold>, condition of <italic>B. adolescentis</italic>).</p>
+        <p>Scanning electron microscopy also showed that <italic>Bifidobacterium</italic> other than <italic>B. adolescentis</italic> adopted the bifid form, but only very rarely, and only under stress conditions (<bold>Figures <xref ref-type="fig" rid="F2">2B–H</xref></bold>). Therefore, it is clear that the bifid form is an intrinsic to <italic>B. adolescentis</italic>, but not to the other <italic>Bifidobacterium</italic> species, although a few Bifidobacterial species adopt the bifid form under stress conditions. <xref rid="B16" ref-type="bibr">Kojima et al. (1968)</xref> reported that changes to the bifid form occurred in different generations of <italic>Bifidobacterium</italic>, but our study clearly shows that the first, second and third generations of <italic>B. adolescentis</italic> maintained the bifid morphology (<bold>Figure <xref ref-type="fig" rid="F6">6</xref></bold>). Dramatic changes in <italic>B. adolescentis</italic> were only observed when it was exposed to different pH (pH 5.5–7.5), when it adopted a coccoid shape (<bold>Figure <xref ref-type="fig" rid="F3">3</xref></bold>). Therefore, the number of coccus-shaped bacteria was much higher depicted in the initiation of coccus formation, but reverted back to the bifid form. CaCl<sub>2</sub> plays a significant role in the conversion of <italic>Bifidobacterium</italic> from the bifid shape to the rod form, suggesting the involvement of calmodulin or a similar molecule. This phenomenon was observed when <italic>B. adolescentis</italic> were subjected to different concentrations of CaCl<sub>2</sub> (0.001–0.01 M). As the calcium concentration increased, the cells became rod-shaped, short, and bulging, with terminal buttons, and they also aggregated (<bold>Figure <xref ref-type="fig" rid="F5">5</xref></bold>).</p>
+        <p>We examined <italic>B. longum</italic> in experiments similar to those described above because it bears an intrinsic elongated rod structure. As recorded in <bold>Figure <xref ref-type="fig" rid="F2">2</xref></bold>, no dramatic changes were observed under different conditions, except when the cells were exposed to 42°C, their rod structures changed to extend elongated rods. At higher oxygen concentrations (10%), they aggregated and became elongated, with button/hyphal structures at their ends. When the concentration of oxygen was reduced, the hypha-like structures and cell aggregation, decreased (data not shown). A low concentration of calcium chloride (0.001 M) caused some defects, including cell shrinkage, the formation of wrinkles or holes, etc. As the levels increased from 0.005 to 0.01 M, the cells started out to change from rod-shaped to extensively elongated rods, as well as the bifid form. At all concentrations of CaCl<sub>2</sub>, the ratio of bifid-shaped <italic>B. adolescentis</italic> were drastically reduced in number (<bold>Figure <xref ref-type="fig" rid="F5">5</xref></bold>, DSM 20083). Structural alterations of different Bifidobacterial species subjected to different conditions are summarized in <bold>Figure <xref ref-type="fig" rid="F10">10</xref></bold>.</p>
+        <fig id="F10" position="float">
+          <label>FIGURE 10</label>
+          <caption>
+            <p><bold>Bifidobacterial species subjected to different conditions and their response are shown in the form of a wheel. (A–E)</bold> Shows summary of the Bifidobacteria and their morphologies after exposure to different conditions. Different strains of Bifidobacteria and their inter changed morphologies after subjected to different conditions are depicted. <bold>(A)</bold> bifid shape, <bold>(B)</bold> elongated rod (ER), <bold>(C)</bold> short rod (SR), <bold>(D)</bold> cocci, <bold>(E)</bold> different conditions.</p>
+          </caption>
+          <graphic xlink:href="fmicb-08-00478-g010"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec>
+      <title>Discussion</title>
+      <p>Many researchers have claimed that the <italic>Bifidobacterium</italic> species are strictly anaerobic, but no research has supported this theory. From our findings, we conclude that the <italic>Bifidobacterium</italic> species are microaerophilic because they can grow in the presence of a certain level of oxygen after the first generation. <xref rid="B37" ref-type="bibr">Weiss (1933)</xref> and <xref rid="B38" ref-type="bibr">Weiss and Rettger (1938)</xref> reported that <italic>L. bifidus</italic> and <italic>L. acidophilus</italic> is closely related, and are variants of the same species. This hypothesis was rejected for lack of evidence. Subsequently, <xref rid="B22" ref-type="bibr">Orla-Jensen (1943)</xref> reported that <italic>B. bifidum</italic> should be included in the order Actinomycetales. Weiss and Rettger later concluded that respect were two different kinds of <italic>Bifidobacterium</italic>: type 1 is aerobic and unbranched during primary isolation, and type 2 is anaerobic and branched. <xref rid="B38" ref-type="bibr">Weiss and Rettger (1938)</xref> proposed that all these organisms should be retained in <italic>Lactobacillus</italic>, but not in Actinomycetales. Established on the hypothesis of Weiss and Rettger, the Topley and Wilson’s Microbiology and Microbial Infection and Bergey’s Manual of Systematic Bacteriology adopted this classification. Orla-Jensen then proposed that the genus name should be converted to ‘<italic>Corynebacterium.</italic>’ It was reasoned that the use of different growth media for these bacteria may have caused the confusion concerning their nomenclature. These matters remain open today because most of these species are nevertheless brought up to as <italic>Bifidobacterium</italic>, although most are rod-formed. In 1967, using simple microscopy (not SEM), Masami Kojima found that cations play a significant role in the initiation of the bifid form. Nevertheless, we found that cations do not play a substantial role in bifid formation, although they induce the formation of elongated rods. To see the effects of NaCl on the bifidobacterial bifid and rod shapes, <italic>B. animalis</italic> subsp. <italic>lactis</italic> and <italic>B. adolescentis</italic> were grown in media containing 0.001–0.01 M salt (<bold>Figure <xref ref-type="fig" rid="F5">5</xref></bold>) (<xref rid="B16" ref-type="bibr">Kojima et al., 1968</xref>). Both strains maintained their intrinsic morphologies, although at 0.25 M NaCl, <italic>B. adolescentis</italic> reverted from a bifid to a rod-shaped structure (<bold>Figure <xref ref-type="fig" rid="F2">2H</xref></bold>). The <italic>B. adolescentis</italic> changes its intrinsic nature of bifid to rod when they are grown in bifid media (<bold>Supplementary Figure <xref ref-type="supplementary-material" rid="SM2">S2</xref></bold>) and remains same in the presence of amino acid such as asparagine, tryptophan, alanine (individually) (<bold>Supplementary Figure <xref ref-type="supplementary-material" rid="SM3">S3</xref></bold>) which is necessary for the branching of the bacteria (<xref rid="B13" ref-type="bibr">Husain et al., 1972</xref>).</p>
+      <p>These present studies showed that CaCl<sub>2</sub> plays a major part in abolishing the bifid shape, which is the intrinsic morphology of <italic>B. adolescentis</italic>. Nevertheless, no significant conclusions were drawn from <xref rid="B17" ref-type="bibr">Kojima et al. (1970)</xref> research group involving the effects of cations on the bifid form of <italic>Bifidobacterium</italic>. <xref rid="B16" ref-type="bibr">Kojima et al. (1968)</xref> concluded that a calcium-free environment induces the bifid state, whereas the presence of calcium induces the bacilloid form. Yet, in the present study, CaCl<sub>2</sub> induced the bacillus form of <italic>B. adolsecentis</italic>, despite its intrinsic bifid morphology. Therefore, although the bifid form is the intrinsic morphology of a few <italic>Bifidobacterial</italic> species, this is not absolute. CaCl<sub>2</sub> may be considered a suppressor of the bifid state, supporting the proposition that there are calmodulins, calmodulin-like proteins in the <italic>Bifidobacterium</italic> species.</p>
+      <p>Our SEM analysis clearly shows that the growth medium (bifidobacteria broth or MRS) and different conditions (such as various temperatures, pH, and salts) do play a major part in the pleomorphic morphology of the <italic>Bifidobacterium</italic>. The presence and absence of amino acids did not (dramatically) affect their morphologies, converting the rod structure to the bifid form or to cocci, or the bifid form to the rod form. Not all <italic>Bifidobacterium</italic> have a bifid morphology, and only a very few are intrinsically bifid-shaped, such as <italic>B. adolescentis.</italic> It is well-demonstrated in this study that the intrinsic morphologies of these bacteria are rod-shaped, and all but a few do not adopt the bifid form, even after exposure to stress conditions. Thus, the rod structure is the intrinsic morphology of most bifidobacterial species. These data confirm the theory that the name ‘<italic>Bifidobacterium</italic>’ is a misnomer. Therefore, taxonomists must revisit this name by picking up more data in the near future.</p>
+      <p>As we expected, <italic>Bifidobacterium</italic> was the intellectual nourishment of choice for the eukaryotic model system, <italic>C. elegans</italic>, although the standard food offered <italic>C. elegans</italic> experimentally has been <italic>E. coli</italic> OP50. The nematodes tended to indicate a preference for <italic>Bifidobacterium</italic> over <italic>E. coli</italic> OP50. <italic>C. elegans</italic> also differentiates among the <italic>Bifidobacterium</italic>, as seen in <bold>Figure <xref ref-type="fig" rid="F8">8</xref></bold>. Of the three <italic>Bifidobacterium</italic> species given as food, <italic>C. elegans</italic> preferred <italic>B. longum</italic> over <italic>B. adolescentis</italic> and <italic>B. animalis</italic>. The morphology of Bifidobacteria is intrinsically determined; the external factors don’t have anything to do with the same, example <italic>B. adolescentis.</italic> Equally it is the only strain out of eight tested in our study retained its bifid shape in the extremities.</p>
+    </sec>
+    <sec>
+      <title>Author Contributions</title>
+      <p>D executed the idea; RK conceptualized, planned, designed, analyzed, Interpreted results and wrote the manuscript. SR and BK all the <italic>C. elegans</italic> work planning and execution.</p>
+    </sec>
+    <sec>
+      <title>Conflict of Interest Statement</title>
+      <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>The Department of Biotechnology, India, the Director CFTRI, Mysore are appreciated for providing the facilities and funds. We also acknowledge Mr. Anbalagan, Department of CIFS, SEM and Confocal expert for helping us to capture the best possible pictures. The UGC-CSIR fellowship for D has been highly appreciated.</p>
+    </ack>
+    <sec sec-type="supplementary material">
+      <title>Supplementary Material</title>
+      <p>The Supplementary Material for this article can be found online at: <ext-link ext-link-type="uri" xlink:href="http://journal.frontiersin.org/article/10.3389/fmicb.2017.00478/full#supplementary-material">http://journal.frontiersin.org/article/10.3389/fmicb.2017.00478/full#supplementary-material</ext-link></p>
+      <supplementary-material content-type="local-data" id="SM1">
+        <label>FIGURE S1</label>
+        <caption>
+          <p><bold>Scanning electron microscopy of strains DSM 15837 (<italic>B. thermoacidophilus</italic>), DSM 20088 (<italic>B. infantis</italic>), DSM 20089 (<italic>B. asteroides</italic>), DSM 20105 (<italic>B. animalis</italic>), DSM 20213 (<italic>B. breve</italic>) with different conditions like (A)</bold> 37°C, <bold>(B)</bold> 42°C, <bold>(C)</bold> media with alanine, aspartate, glutamate, serine, <bold>(D)</bold> media with alanine, <bold>(E)</bold> media with tryptophan, <bold>(F)</bold> media with asparagine, media with 0.2 M sodium acetate, media with 0.25 M sodium chloride, <bold>(G)</bold> media with 0.2 M sodium acetate, <bold>(H)</bold> media with 0.25 M sodium chloride.</p>
+        </caption>
+        <media xlink:href="Image_1.tif">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="S1">
+        <media xlink:href="Image_1.tif">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM2">
+        <label>FIGURE S2</label>
+        <caption>
+          <p><bold>Scanning electron microscopy of strains DSM 10140 (<italic>B. animalis</italic> subspp. <italic>lactis</italic>), DSM 20083 (<italic>B. adolescentis</italic>) in bifid media at time interval</bold>.</p>
+        </caption>
+        <media xlink:href="Image_2.tif">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="S2">
+        <media xlink:href="Image_2.tif">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM3">
+        <label>FIGURE S3</label>
+        <caption>
+          <p><bold>Scanning electron microscopy of strains DSM 10140 (<italic>B. animalis</italic> subspp. lactis), DSM 20083 (<italic>B. adolescentis</italic>) in bifid media with (A)</bold> asparagine, <bold>(B)</bold> tryptophan, <bold>(C)</bold> alanine. Food choice assay: assaying the preference of <italic>C. elegans</italic> for bacterial species <italic>B. longum, B. adolescentis</italic>, and <italic>B. animalis</italic>. Nematodes showed a greater preference for <italic>B. longum</italic> than for <italic>B. adolescentis</italic>, or <italic>B. animalis</italic>. Chemotaxis assay: the histogram shows the chemotaxis index (CI) of wild-type <italic>C. elegans</italic> toward bacterial strains 20219, 20083, and 10140 after 12 and 24 h. Data are the means ± SD of three independent biological replicates.</p>
+        </caption>
+        <media xlink:href="Image_3.tif">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="S3">
+        <media xlink:href="Image_3.tif">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Beerens</surname><given-names>H.</given-names></name><name><surname>Gavini</surname><given-names>E.</given-names></name><name><surname>Neet</surname><given-names>C.</given-names></name></person-group> (<year>2000</year>). <article-title>Effect of exposure to air on 84 different strains of Bifidobacteria.</article-title>
+<source><italic>Anaerobe</italic></source>
+<volume>6</volume>
+<fpage>65</fpage>–<lpage>67</lpage>. <pub-id pub-id-type="doi">10.1006/anae.1999.0317</pub-id></mixed-citation>
+      </ref>
+      <ref id="B2">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Blaurock</surname><given-names>G.</given-names></name></person-group> (<year>1937</year>). <article-title>Zur Physiologie der Bifidusbakterien.</article-title>
+<source><italic>Monatsschr. Kinderheilk.</italic></source>
+<volume>68</volume>
+<fpage>304</fpage>–<lpage>309</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B3">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bliuhdorn</surname><given-names>K.</given-names></name></person-group> (<year>1910</year>). <article-title>Untersuchugen uiber den <italic>Bacillus</italic> bifidus communis und den so gen. <italic>Bacillus acidophilus</italic> (<italic>Streptobacillus faecalis</italic>).</article-title>
+<source><italic>Jahrb. Kinderheilk</italic></source>
+<volume>72</volume>
+<fpage>693</fpage>–<lpage>704</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B4">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bottacini</surname><given-names>F.</given-names></name><name><surname>Ventura</surname><given-names>M.</given-names></name><name><surname>van Sinderen</surname><given-names>D.</given-names></name><name><surname>Motherway</surname><given-names>M. O. C.</given-names></name></person-group> (<year>2014</year>). <article-title>Diversity, ecology and intestinal function of bifidobacteria.</article-title>
+<source><italic>Microb. Cell Fact.</italic></source>
+<volume>13(Suppl. 1)</volume>
+<issue>S4</issue>
+<pub-id pub-id-type="doi">10.1186/1475-2859-13-S1-S4</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Boventer</surname><given-names>K.</given-names></name></person-group> (<year>1938</year>). <article-title>Untersuchungen fiber das bacterium bifidum.</article-title>
+<source><italic>Zentralbl. Bakteriol. Parasitenk. Infektionskr. Hyg. Abt. Orig.</italic></source>
+<volume>142</volume>
+<fpage>419</fpage>–<lpage>430</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B6">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brenner</surname><given-names>S.</given-names></name></person-group> (<year>1974</year>). <article-title>The genetics of <italic>Caenorhabditis elegans</italic>.</article-title>
+<source><italic>Genetics</italic></source>
+<volume>77</volume>
+<fpage>71</fpage>–<lpage>94</lpage>.<pub-id pub-id-type="pmid">4366476</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cruickshank</surname><given-names>R.</given-names></name></person-group> (<year>1925</year>). <article-title><italic>Bacillus</italic> bifidus: its characters and isolation from the intestine of infants.</article-title>
+<source><italic>J. Hyg.</italic></source>
+<volume>24</volume>
+<fpage>241</fpage>–<lpage>254</lpage>. <pub-id pub-id-type="doi">10.1017/S0022172400008718</pub-id><pub-id pub-id-type="pmid">20474862</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dong</surname><given-names>X.</given-names></name><name><surname>Xin</surname><given-names>Y.</given-names></name><name><surname>Jian</surname><given-names>W.</given-names></name><name><surname>Liu</surname><given-names>X.</given-names></name><name><surname>Ling</surname><given-names>D.</given-names></name></person-group> (<year>2000</year>). <article-title><italic>Bifidobacterium thermacidophilum</italic> sp. nov., isolated from an anaerobic digester.</article-title>
+<source><italic>Int. J. Syst. Evol. Microbiol.</italic></source>
+<volume>50</volume>
+<fpage>119</fpage>–<lpage>125</lpage>. <pub-id pub-id-type="doi">10.1099/00207713-50-1-119</pub-id><pub-id pub-id-type="pmid">10826794</pub-id></mixed-citation>
+      </ref>
+      <ref id="B9">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Garsin</surname><given-names>D. A.</given-names></name><name><surname>Sifri</surname><given-names>C. D.</given-names></name><name><surname>Mylonakis</surname><given-names>E.</given-names></name><name><surname>Qin</surname><given-names>X.</given-names></name><name><surname>Singh</surname><given-names>K. V.</given-names></name><name><surname>Murray</surname><given-names>B. E.</given-names></name><etal/></person-group> (<year>2001</year>). <article-title>A simple model host for identifying gram-positive virulence factors.</article-title>
+<source><italic>Proc. Natl. Acad. Sci. U.S.A.</italic></source>
+<volume>98</volume>
+<fpage>10892</fpage>–<lpage>10897</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.191378698</pub-id><pub-id pub-id-type="pmid">11535834</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Herter</surname><given-names>C. A.</given-names></name></person-group> (<year>1907</year>). <source><italic>The Common Bacterial Infections of the Digestive Tract and the Intoxications Arising from Them.</italic></source>
+<publisher-loc>London</publisher-loc>: <publisher-name>Macmillan</publisher-name>
+<pub-id pub-id-type="doi">10.5962/bhl.title.30633</pub-id></mixed-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Homma</surname><given-names>N.</given-names></name><name><surname>Ota</surname><given-names>J.</given-names></name><name><surname>Arai</surname><given-names>S.</given-names></name></person-group> (<year>1960</year>). <article-title>Various carbonates affecting the branching of <italic>Lactobacillus</italic> bifidus.</article-title>
+<source><italic>Jpn. J. Pediatr.</italic></source>
+<volume>13</volume>:<issue>1274</issue>.</mixed-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Hope</surname><given-names>I. A.</given-names></name></person-group>
+<role>(ed.)</role> (<year>1999</year>). <source><italic>C. elegans: A Practical Approach</italic></source>
+<volume>(Vol. 213)</volume>
+<publisher-loc>Oxford</publisher-loc>: <publisher-name>Oxford University Press</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Husain</surname><given-names>I.</given-names></name><name><surname>Poupard</surname><given-names>J. A.</given-names></name><name><surname>Norris</surname><given-names>R. F.</given-names></name></person-group> (<year>1972</year>). <article-title>Influence of nutrition on the morphology of a strain of <italic>Bifidobacterium bifidum</italic>.</article-title>
+<source><italic>J. Bacteriol.</italic></source>
+<volume>111</volume>
+<fpage>841</fpage>–<lpage>844</lpage>.<pub-id pub-id-type="pmid">5053884</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kawasaki</surname><given-names>S.</given-names></name><name><surname>Mimura</surname><given-names>T.</given-names></name><name><surname>Satoh</surname><given-names>T.</given-names></name><name><surname>Takeda</surname><given-names>K.</given-names></name><name><surname>Nimura</surname><given-names>Y.</given-names></name></person-group> (<year>2006</year>). <article-title>Response of the microaerophilic <italic>Bifidobacteria</italic> spp <italic>B. boum</italic> and <italic>B. thermophilum</italic> to oxygen.</article-title>
+<source><italic>Appl. Environ. Microbiol.</italic></source>
+<volume>72</volume>
+<fpage>6854</fpage>–<lpage>6858</lpage>. <pub-id pub-id-type="doi">10.1128/AEM.01216-06</pub-id><pub-id pub-id-type="pmid">16950914</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kendall</surname><given-names>A. I.</given-names></name><name><surname>Haner</surname><given-names>R. C.</given-names></name></person-group> (<year>1924</year>). <article-title><italic>Bacillus</italic> Bifidus: LXXI. studies in bacterial metabolism.</article-title>
+<source><italic>J. Infect. Dis.</italic></source>
+<volume>35</volume>
+<fpage>77</fpage>–<lpage>88</lpage>. <pub-id pub-id-type="doi">10.1093/infdis/35.1.77</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kojima</surname><given-names>M.</given-names></name><name><surname>Suda</surname><given-names>S.</given-names></name><name><surname>Hotta</surname><given-names>S.</given-names></name><name><surname>Hamada</surname><given-names>K.</given-names></name></person-group> (<year>1968</year>). <article-title>Induction of pleomorphism in <italic>Lactobacillus</italic> bifidus.</article-title>
+<source><italic>J. Bacteriol.</italic></source>
+<volume>95</volume>
+<fpage>710</fpage>–<lpage>711</lpage>.<pub-id pub-id-type="pmid">5640389</pub-id></mixed-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kojima</surname><given-names>M.</given-names></name><name><surname>Suda</surname><given-names>S.</given-names></name><name><surname>Hotta</surname><given-names>S.</given-names></name><name><surname>Hamada</surname><given-names>K.</given-names></name></person-group> (<year>1970</year>). <article-title>Induction of pleomorphy and calcium ion deficiency in <italic>Lactobacillus</italic> bifidus.</article-title>
+<source><italic>J. Bacteriol.</italic></source>
+<volume>102</volume>
+<fpage>217</fpage>–<lpage>220</lpage>.<pub-id pub-id-type="pmid">5437726</pub-id></mixed-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Meile</surname><given-names>L.</given-names></name><name><surname>Ludwig</surname><given-names>W.</given-names></name><name><surname>Rueger</surname><given-names>U.</given-names></name><name><surname>Gut</surname><given-names>C.</given-names></name><name><surname>Kaufmann</surname><given-names>P.</given-names></name><name><surname>Dasen</surname><given-names>G.</given-names></name><etal/></person-group> (<year>1997</year>). <article-title><italic>Bifidobacterium lactis</italic> sp. nov., a moderately oxygen tolerant species isolated from fermented milk.</article-title>
+<source><italic>Syst. Appl. Microbiol.</italic></source>
+<volume>20</volume>
+<fpage>57</fpage>–<lpage>64</lpage>. <pub-id pub-id-type="doi">10.1016/S0723-2020(97)80048-3</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mitsuoka</surname><given-names>T.</given-names></name></person-group> (<year>1969</year>). <article-title>Comparative studies on bifidobacteria isolated from the alimentary tract of man and animals (including descriptions of <italic>Bifidobacterium thermophilum</italic> nov. spec. and <italic>Bifidobacterium pseudolongum</italic> nov. spec).</article-title>
+<source><italic>Zentralbl. Bakteriol. Orig.</italic></source>
+<volume>210</volume>
+<fpage>52</fpage>–<lpage>64</lpage>.<pub-id pub-id-type="pmid">5361078</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Moro</surname><given-names>E.</given-names></name></person-group> (<year>1905</year>). <article-title>Morphologische und biologische Untersuchungen über die Darmbakterien des Säuglings.</article-title>
+<source><italic>Jb. Kinderheik</italic></source>
+<volume>62</volume>:<issue>687</issue>.</mixed-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Norris</surname><given-names>R. F.</given-names></name><name><surname>Flanders</surname><given-names>T.</given-names></name><name><surname>Tomarelli</surname><given-names>R. M.</given-names></name><name><surname>György</surname><given-names>P.</given-names></name></person-group> (<year>1950</year>). <article-title>The isolation and cultivation of <italic>Lactobacillus</italic> bifidus: a comparison of branched and unbranched strains.</article-title>
+<source><italic>J. Bacteriol.</italic></source>
+<volume>60</volume>
+<fpage>681</fpage>–<lpage>696</lpage>.<pub-id pub-id-type="pmid">14824062</pub-id></mixed-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Orla-Jensen</surname><given-names>S.</given-names></name></person-group> (<year>1943</year>). <article-title>The lactic acid bacteria.</article-title>
+<source><italic>Ergainzungsband. Mem. Acad. Roy. Sci., Danemark, Sect. Sci. Biol.</italic></source>
+<volume>2</volume>
+<fpage>1</fpage>–<lpage>145</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation publication-type="journal"><collab>Reuter</collab> (<year>1963</year>). <article-title>Identisch mit <italic>Bifidobacterium</italic> adolescentis.</article-title>
+<source><italic>Parasitenkd. Infektionskr. Hyg. Abt. 1 Orig. Reihe A</italic></source>
+<volume>226</volume>
+<fpage>257</fpage>–<lpage>263</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B24">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rodella</surname><given-names>A.</given-names></name></person-group> (<year>1908</year>). <article-title>Magen Carcinoma und Milchsaure Bacillen.</article-title>
+<source><italic>Centralbl. f. Bakt., Abt. I</italic></source>
+<volume>47</volume>
+<fpage>445</fpage>–<lpage>466</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B25">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Roos</surname><given-names>C.</given-names></name></person-group> (<year>1927</year>). <article-title>Cultural characteristics (variation of <italic>Bacillus</italic> acidophilus).</article-title>
+<source><italic>J. Lab. Clin. Med.</italic></source>
+<volume>12</volume>:<issue>1053</issue>.</mixed-citation>
+      </ref>
+      <ref id="B26">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ruiz</surname><given-names>L.</given-names></name><name><surname>Gueimonde</surname><given-names>M.</given-names></name><name><surname>Ruas-Madiedo</surname><given-names>P.</given-names></name><name><surname>Ribbera</surname><given-names>A.</given-names></name><name><surname>Delos Reyes-Gavilan</surname><given-names>C.</given-names></name><name><surname>Ventura</surname><given-names>M.</given-names></name><etal/></person-group> (<year>2011</year>). <article-title>Molecular clues to understand the aerotolerance phenotype of <italic>Bifidobacterium</italic> animalis subsp. lactis.</article-title>
+<source><italic>Appl. Environ. Microbiol.</italic></source>
+<volume>78</volume>
+<fpage>644</fpage>–<lpage>656</lpage>. <pub-id pub-id-type="doi">10.1128/AEM.05455-11</pub-id><pub-id pub-id-type="pmid">22101052</pub-id></mixed-citation>
+      </ref>
+      <ref id="B27">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Scardovi</surname><given-names>V.</given-names></name><name><surname>Trovatelli</surname><given-names>L. D.</given-names></name></person-group> (<year>1969</year>). <article-title>New species of bifid bacteria from <italic>Apis mellifica</italic> L. and <italic>Apis indica</italic> F. A contribution to the taxonomy and biochemistry of the genus <italic>Bifidobacterium</italic>.</article-title>
+<source><italic>Zentralbl. Bakteriol. Parasitenkd. Infektionskr. Hyg.</italic></source>
+<volume>123</volume>
+<fpage>64</fpage>–<lpage>88</lpage>.<pub-id pub-id-type="pmid">4908741</pub-id></mixed-citation>
+      </ref>
+      <ref id="B28">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Stiernagle</surname><given-names>T.</given-names></name></person-group> (<year>1999</year>). <article-title>“Maintenance of <italic>C. elegans</italic>,” in</article-title>
+<source><italic>C. elegans A Practical Approached</italic></source>
+<role>ed.</role>
+<person-group person-group-type="editor"><name><surname>Hope</surname><given-names>I. A.</given-names></name></person-group> (<publisher-loc>Oxford</publisher-loc>: <publisher-name>Oxford University Press</publisher-name>) <fpage>51</fpage>–<lpage>67</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B29">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sundman</surname><given-names>V.</given-names></name><name><surname>Björksten</surname><given-names>K. A.</given-names></name><name><surname>Gyllenberg</surname><given-names>H. G.</given-names></name></person-group> (<year>1959</year>). <article-title>Morphology of the bifid bacteria (organisms previously incorrectly designated <italic>Lactobacillus</italic> bifidus) and some related genera.</article-title>
+<source><italic>Microbiology</italic></source>
+<volume>21</volume>
+<fpage>371</fpage>–<lpage>384</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B30">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Synder</surname><given-names>M. L.</given-names></name><name><surname>Slawson</surname><given-names>M. S.</given-names></name><name><surname>Bullock</surname><given-names>W.</given-names></name><name><surname>Parker</surname><given-names>R. B.</given-names></name></person-group> (<year>1967</year>). <article-title>Studies on oral filamentous bacteria. II. Serological relationships within the genera <italic>Actinomyces</italic>, <italic>Nocardia</italic>, <italic>Bacterionema</italic> and <italic>Leptotrichia</italic>.</article-title>
+<source><italic>J. Infect. Dis.</italic></source>
+<volume>117</volume>
+<fpage>341</fpage>–<lpage>345</lpage>. <pub-id pub-id-type="doi">10.1093/infdis/117.4.341</pub-id><pub-id pub-id-type="pmid">4965337</pub-id></mixed-citation>
+      </ref>
+      <ref id="B31">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Tissier</surname><given-names>H.</given-names></name></person-group> (<year>1900</year>). <source><italic>Recherches sur la Flore Intestinale des Nourrissons: état Normal et Pathologique.</italic></source>
+<publisher-loc>Paris</publisher-loc>: <publisher-name>G. Carré et C. Naud</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="B32">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tissier</surname><given-names>H.</given-names></name></person-group> (<year>1905</year>). <article-title>Repartition des microbes dans l’intestin du nourisson.</article-title>
+<source><italic>Ann. Inst. Pasteur</italic></source>
+<volume>19</volume>
+<fpage>109</fpage>–<lpage>123</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B33">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tissier</surname><given-names>M. H.</given-names></name></person-group> (<year>1899</year>). <article-title>La reaction chromophile d’Escherich et le Bacterium coli.</article-title>
+<source><italic>CR Acad. Sci. Ser. III Sci. Life Sci.</italic></source>
+<volume>51</volume>
+<fpage>943</fpage>–<lpage>945</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B34">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tomarelli</surname><given-names>R. M.</given-names></name><name><surname>Norris</surname><given-names>R. F.</given-names></name><name><surname>Gyorgy</surname><given-names>P.</given-names></name></person-group> (<year>1949a</year>). <article-title>Inability of vitamin B12 to replace the deoxyriboside requirement of a <italic>Lactobacillus</italic> bifidus.</article-title>
+<source><italic>J. Biol. Chem.</italic></source>
+<volume>179</volume>
+<fpage>485</fpage>–<lpage>486</lpage>.<pub-id pub-id-type="pmid">18119262</pub-id></mixed-citation>
+      </ref>
+      <ref id="B35">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tomarelli</surname><given-names>R. M.</given-names></name><name><surname>Norris</surname><given-names>R. F.</given-names></name><name><surname>Gyorgy</surname><given-names>P.</given-names></name><name><surname>Hassinen</surname><given-names>J. B.</given-names></name><name><surname>Bernhart</surname><given-names>F. W.</given-names></name></person-group> (<year>1949b</year>). <article-title>The nutrition of variants of <italic>Lactobacillus</italic> bifidus.</article-title>
+<source><italic>J. Biol. Chem.</italic></source>
+<volume>181</volume>
+<fpage>879</fpage>–<lpage>888</lpage>.<pub-id pub-id-type="pmid">15407057</pub-id></mixed-citation>
+      </ref>
+      <ref id="B36">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ward</surname><given-names>S.</given-names></name></person-group> (<year>1973</year>). <article-title>Chemotaxis by the nematode <italic>Caenorhabditis elegans</italic>: identification of attractants and analysis of the response by use of mutants.</article-title>
+<source><italic>Proc. Natl. Acad. Sci. U.S.A.</italic></source>
+<volume>70</volume>
+<fpage>817</fpage>–<lpage>821</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.70.3.817</pub-id><pub-id pub-id-type="pmid">4351805</pub-id></mixed-citation>
+      </ref>
+      <ref id="B37">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Weiss</surname><given-names>J. E.</given-names></name></person-group> (<year>1933</year>). Lactobacillus bifidus Tissier and Its Biological Position in the Group of Aciduric Organisms. Ph.D. Dissertation, Yale University, New Haven, CT.</mixed-citation>
+      </ref>
+      <ref id="B38">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Weiss</surname><given-names>J. E.</given-names></name><name><surname>Rettger</surname><given-names>L. F.</given-names></name></person-group> (<year>1938</year>). <article-title>Taxonomic relationships of Lactobacillus bifidus (B. bifidus Tissier) and <italic>Bacteroides</italic> bifidus.</article-title>
+<source><italic>J. Infect. Dis.</italic></source>
+<volume>62</volume>
+<fpage>115</fpage>–<lpage>120</lpage>. <pub-id pub-id-type="doi">10.1093/infdis/62.1.115</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+    <glossary>
+      <title>Abbreviations</title>
+      <def-list id="DL1">
+        <def-item>
+          <term>bp</term>
+          <def>
+            <p>base pair</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>F6PPK</term>
+          <def>
+            <p>fructose-6-phosphate phosphoketolase</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>Ocins</term>
+          <def>
+            <p>antimicrobial peptides/proteins of <italic>Lactobacillus, Bifidobacteria</italic> and <italic>Enterococcus</italic> spp.</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>OD</term>
+          <def>
+            <p>optical density</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>
+            <italic>xfp</italic>
+          </term>
+          <def>
+            <p>xylulose-5-phosphate/fructose-6-phosphate phosphoketolase.</p>
+          </def>
+        </def-item>
+      </def-list>
+    </glossary>
+  </back>
+</article>
+
+</metadata></record>

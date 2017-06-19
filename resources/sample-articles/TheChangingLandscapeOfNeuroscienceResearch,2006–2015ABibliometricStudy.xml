@@ -1,0 +1,1256 @@
+<record><header><identifier>oai:pubmedcentral.nih.gov:5360093</identifier><datestamp>2017-04-04</datestamp><setSpec>frontneurosci</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.0/ https://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Neurosci</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Neurosci</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Neurosci.</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Neuroscience</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1662-4548</issn>
+      <issn pub-type="epub">1662-453X</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC5360093</article-id>
+      <article-id pub-id-type="pmcid">PMC5360093</article-id>
+      <article-id pub-id-type="pmc-uid">5360093</article-id>
+      <article-id pub-id-type="doi">10.3389/fnins.2017.00120</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Neuroscience</subject>
+          <subj-group>
+            <subject>Original Research</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Changing Landscape of Neuroscience Research, 2006–2015: A Bibliometric Study</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yeung</surname>
+            <given-names>Andy Wai Kan</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="author-notes" rid="fn001">
+            <sup>*</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/363181/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Goto</surname>
+            <given-names>Tazuko K.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Leung</surname>
+            <given-names>W. Keung</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <sup>1</sup>
+        <institution>Oral and Maxillofacial Radiology, Applied Oral Sciences, Faculty of Dentistry, University of Hong Kong</institution>
+        <country>Hong Kong, Hong Kong</country>
+      </aff>
+      <aff id="aff2">
+        <sup>2</sup>
+        <institution>Department of Oral and Maxillofacial Radiology, Tokyo Dental College</institution>
+        <country>Tokyo, Japan</country>
+      </aff>
+      <aff id="aff3">
+        <sup>3</sup>
+        <institution>Periodontology, Faculty of Dentistry, University of Hong Kong</institution>
+        <country>Hong Kong, Hong Kong</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <p>Edited by: Mikhail Lebedev, Duke University, USA</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Reviewed by: Ping Zhou, Zhejiang University, China; Francisco Lopez-Munoz, Universidad Camilo José Cela, Spain; Andreas Charidimou, Harvard Medical School, USA</p>
+        </fn>
+        <corresp id="fn001">*Correspondence: Andy Wai Kan Yeung <email xlink:type="simple">ndyeung@hku.hk</email></corresp>
+        <fn fn-type="other" id="fn002">
+          <p>This article was submitted to Neuroprosthetics, a section of the journal Frontiers in Neuroscience</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>3</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2017</year>
+      </pub-date>
+      <volume>11</volume>
+      <elocation-id>120</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>28</day>
+          <month>11</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>27</day>
+          <month>2</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2017 Yeung, Goto and Leung.</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <copyright-holder>Yeung, Goto and Leung</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p><bold>Background:</bold> It is beneficial to evaluate changes in neuroscience research field regarding research directions and topics over a defined period. Such information enables stakeholders to quickly identify the most influential research and incorporate latest evidence into research-informed education. To our knowledge, no study reported changes in neuroscience literature over the last decade. Therefore, the current study determined research terms with highest citation scores, compared publication shares of research areas and contributing countries in this field from 2006 to 2015 and identified the most productive journals.</p>
+        <p><bold>Methods:</bold> Data were extracted from Web of Science and Journal Citation Reports (JCR). Only articles and reviews published in journals classified under the JCR “Neurosciences” category over the period of interest were included. Title and abstract fields of each included publication were extracted and analyzed via VOSviewer to identify recurring terms with high relative citation scores. Two term maps were produced for publications over the study period to illustrate the extent of co-occurrence, and the impact of terms was evaluated based on their relative citation scores. To further describe the recent research priority or “hot spots,” 10 terms with the highest relative citation scores were identified annually. In addition, by applying Bradford's law, we identified 10 journals being the most productive journals per annum over the survey period and evaluated their bilbiometric performances.</p>
+        <p><bold>Results:</bold> From 2006 to 2015, there were 47 terms involved in the annual lists of top 10 terms with highest relative citation scores. The most frequently recurring terms were autism (8), meta-analysis (7), functional connectivity (6), default mode network (4) and neuroimaging (4). Neuroscience research related to psychology and behavioral sciences showed an increase in publication share over the survey period, and China has become one of the major contributors to neuroscience research. Ten journals were frequently identified (≥8 years) as core journals within the survey period.</p>
+        <p><bold>Discussion:</bold> The landscape of neuroscience research has changed recently, and this paper provides contemporary overview for researchers and health care workers interested in this field's research and developments. Brain imaging and brain connectivity terms had high relative citation scores.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>bibliometrics</kwd>
+        <kwd>cells</kwd>
+        <kwd>diagnostic imaging</kwd>
+        <kwd>functional neuroimaging</kwd>
+        <kwd>information science</kwd>
+        <kwd>literature-based discovery</kwd>
+        <kwd>neurosciences</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source id="cn001">Research Grants Council, University Grants Committee<named-content content-type="fundref-id">10.13039/501100002920</named-content></funding-source>
+          <award-id rid="cn001">HKU 766212M</award-id>
+        </award-group>
+      </funding-group>
+      <counts>
+        <fig-count count="2"/>
+        <table-count count="4"/>
+        <equation-count count="0"/>
+        <ref-count count="43"/>
+        <page-count count="10"/>
+        <word-count count="7029"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="s1">
+      <title>Introduction</title>
+      <p>Neuroscience is an exciting research field, and many recent discoveries have informed paradigm-shifts and innovations. For instance, the 2014 Nobel Prize in Physiology or Medicine was awarded to Professors John O'Keefe, May-Britt Moser and Edvard Moser, neuroscientists who discovered place cells and grid cells that form a built-in, global positioning system inside the brain (O'keefe and Burgess, <xref rid="B26" ref-type="bibr">2005</xref>; Moser et al., <xref rid="B24" ref-type="bibr">2008</xref>). Indeed, neuroscience research has received substantial support across the globe. In the United States, the Human Connectome Project was launched in 2009 (Battery, <xref rid="B2" ref-type="bibr">2010</xref>), followed by the Brain Research through Advancing Innovative Neurotechnologies (BRAIN) Initiative in 2013 (Insel et al., <xref rid="B11" ref-type="bibr">2013</xref>). Concurrently, the Human Brain Project was initiated in Europe (Markram, <xref rid="B23" ref-type="bibr">2012</xref>). In Japan, the Brain Mapping by Integrated Neurotechnologies for Disease Studies (Brain/MINDS) program started in 2014, and the Brain Science and Brain-Like Intelligence Technology project will soon be officially launched by China, though significant preliminary research has already been done (Grillner et al., <xref rid="B9" ref-type="bibr">2016</xref>). With these abundant investments in neuroscience in recent years, more explorative, fundamental or basic research could be conducted, which eventually led to today's paradigm shifts—or paradigm shifts yet to come. For instance, the emergence of brain connectivity studies (Friston, <xref rid="B6" ref-type="bibr">2011</xref>) in recent years may enable us to compare and contrast the normal and diseased brains, and thus identify abnormal brain connectivity patterns as potential biomarkers for neurologic diseases. These advances in the neuroscience field not only drive significant progress in brain biology but also confer practical implications to medicine. We should evaluate and track the changes regarding the landscape of neuroscience research, to indicate evolution regarding research directions, health care priorities and prime translational research topics over a defined period. Such information enables stakeholders to clearly and quickly identify the most influential research works and incorporate the latest evidence into research-informed education.</p>
+      <p>Bibliometric studies could provide relevant evaluations and assessments of the social and scientific relevance of a specific discipline or research field of interest (López-Muñoz et al., <xref rid="B22" ref-type="bibr">2006</xref>, <xref rid="B21" ref-type="bibr">2014</xref>). There have been numerous bibliometric studies on the performance of neuroscience research outputs in specific countries, including China (Xu et al., <xref rid="B40" ref-type="bibr">2003</xref>), India (Shahabuddin, <xref rid="B28" ref-type="bibr">2013</xref>) and Sweden (Glänzel et al., <xref rid="B8" ref-type="bibr">2003</xref>). In addition, similar studies have been conducted in relevant research fields such as psychiatry and psychopharmacology (López-Muñoz et al., <xref rid="B22" ref-type="bibr">2006</xref>, <xref rid="B21" ref-type="bibr">2014</xref>). However, to our knowledge, no published study has reported overall changes in the landscape of neuroscience literature across the globe over the last decade.</p>
+      <p>Therefore, the aims of this study was to identify the most productive core journals in the field from 2006 to 2015, determine the research terms with the highest citation impact, and compare the publication shares of research areas and contributing countries across these 10 years.</p>
+    </sec>
+    <sec sec-type="materials and methods" id="s2">
+      <title>Materials and methods</title>
+      <sec>
+        <title>Date source</title>
+        <p>Data analyzed in this study were extracted from Web of Science (WoS) and Journal Citation Reports (JCR). Both required a subscription and were hosted by Thomson Reuters.</p>
+      </sec>
+      <sec>
+        <title>Data extraction</title>
+        <p>Publications indexed in WoS were included if they were: (1) articles or reviews; (2) published in journals under the JCR “Neurosciences” category; and (3) published from 2006 to 2015. Full records and cited references of the included publications were manually downloaded. The analyses at the literature level (term maps, annual high-impact terms and changes in research areas and contributing countries) were based on all these records; and for each publication, citations were counted until the end of November, 2016.</p>
+      </sec>
+      <sec>
+        <title>Term maps</title>
+        <p>For each year, the title and abstract fields of each included publication were extracted and analyzed via VOSviewer (van Eck and Waltman, <xref rid="B30" ref-type="bibr">2009</xref>). Two term maps, one for 2006 and one for 2015, were produced to illustrate a network of recurring keywords, showing their co-occurrence and relative citation impacts. The details of the established methods and algorithms have been described in previous publications (van Eck et al., <xref rid="B32" ref-type="bibr">2010</xref>; Waltman et al., <xref rid="B38" ref-type="bibr">2010</xref>). In brief, for each term map, only terms that occurred at least 100 times under binary counting were considered. Note that binary counting only considers the number of publications in which a term was present; it disregards the number of occurrences of a term within a single publication. General noun phrases were removed using an algorithm (van Eck and Waltman, <xref rid="B31" ref-type="bibr">2011</xref>). Of the remaining terms, 500 with the highest relevance score calculated via VOSviewer were used to form a term map to allow for network visualization. The algorithm was designed to ensure that terms that co-occurred more frequently were positioned closer to each other. Terms that occurred more frequently had larger bubbles. Before the final map was created, we visually inspected the map, removed irrelevant terms and combined the abbreviated forms of the noun phrases (Heersmink et al., <xref rid="B10" ref-type="bibr">2011</xref>). Depending on the citation counts of the respective publications, each term received a relative citation score (beginning at zero) that is represented by color. Blue (0) indicates below average, green (1) indicates average and red (≥2) indicates above average. The coloring scheme was based on previous publications (van Eck et al., <xref rid="B33" ref-type="bibr">2013</xref>; Waltman et al., <xref rid="B39" ref-type="bibr">2014</xref>).</p>
+      </sec>
+      <sec>
+        <title>Annual high-impact terms</title>
+        <p>For each year, we examined terms that occurred at least 100 times. We then used VOSviewer to calculate a relative citation score for each term based on citation counts. Normalized citation score based on average citation counts is one of the key concepts in bibliometrics (Waltman, <xref rid="B37" ref-type="bibr">2016</xref>). The calculation was performed as follows. For each year, each publication was given a normalized citation score by dividing its number of citations (received in that year) by the average number of citations of all publications (received in that year) of the neuroscience field. A score of 1 implies the citation count of that particular publication equals the average of all publications appearing in neuroscience field in that year. Subsequently, each term received its own relative citation score by averaging the normalized citation scores of all publications in which the term occurred in the title or abstract. Previous studies have documented the details of this automated procedure to identify terms with higher-than-average citation scores (van Eck et al., <xref rid="B33" ref-type="bibr">2013</xref>; Waltman et al., <xref rid="B39" ref-type="bibr">2014</xref>). We identified 10 relevant terms with the highest relative citation score (highest impact) for each year in the survey period. Their relative citation scores were tracked annually.</p>
+      </sec>
+      <sec>
+        <title>Growth of publication</title>
+        <p>Price's Law, one of the most widely utilized indicators for analyzing the growth of publication within a specific research field, which was regularly applied to evaluate whether publication in a research field has experienced an exponential growth over a pre-defined survey period (López-Muñoz et al., <xref rid="B22" ref-type="bibr">2006</xref>, <xref rid="B21" ref-type="bibr">2014</xref>), was utilized to assess the annual change in publication count in neuroscience journals in the current study. After plotting the annual publication count (y) against year (x), we applied the best-fitting linear and exponential trend lines to the plot and recorded the mathematical equations forming the trend lines. If the data fitted better to the exponential line than the linear line, results will be considered as fulfilling the Price's Law.</p>
+      </sec>
+      <sec>
+        <title>Changes in research areas and contributing countries</title>
+        <p>We identified the research areas and contributing countries of the publications in 2006 and 2015, the first and last year of the study period, respectively. These data were obtained by analyzing the search results in WoS. In WoS, publications (according to the journals where they were published) were classified into over 250 research areas in which each area contains papers similar in scope and citation characteristics<xref ref-type="fn" rid="fn0001"><sup>1</sup></xref>. To illustrate the relationship with social-health parameters, the relationship between the publication shares of the most productive countries and their respective total per capita expenditure on health<xref ref-type="fn" rid="fn0002"><sup>2</sup></xref> were evaluated, as described in previous bibliometric studies (López-Muñoz et al., <xref rid="B22" ref-type="bibr">2006</xref>, <xref rid="B17" ref-type="bibr">2008a</xref>, <xref rid="B21" ref-type="bibr">2014</xref>).</p>
+      </sec>
+      <sec>
+        <title>Core journals under Bradford's law and their performance</title>
+        <p>For each year, Bradford's law of scattering was applied to identify the core journals in the neuroscience category. The core journals identified for each year are those that contributed one-third of total publications for that year (Vickery, <xref rid="B35" ref-type="bibr">1948</xref>). To evaluate the bibliometric performance of the top 10 core journals (the 10 journals with highest frequency of occurrence in the annual core journal lists over the survey period), time trends of their Impact Factor (IF), Immediacy Index (II), and Eigenfactor Score (ES) were evaluated. IF indicates the yearly average citation count of its recent publications, II refers to the average citation count of current-year publications and ES, though similar to IF, weights citations according to the ranking of the citing journals. The time trends of IF, II, and ES were evaluated by separate linear regressions, with year as the independent variable (López-Abente and Muñoz-Tinoco, <xref rid="B16" ref-type="bibr">2005</xref>; Jayaratne and Zwahlen, <xref rid="B12" ref-type="bibr">2015</xref>). The slope, β, indicated the average magnitude of change over time, and <italic>R</italic><sup>2</sup> indicated the fitness of the regression model. Statistical analyses were performed with SPSS 23.0 (IBM, New York, USA). Results were significant if <italic>P</italic> &lt; 0.05.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="s3">
+      <title>Results</title>
+      <p>From 2006 to 2015, a total of 340,210 publications matched with the selection criteria of this study (all articles and reviews in JCR “Neurosciences” category), of which 305,175 were articles and 35,035 were reviews. The marked annual increase in the number of neuroscience publications from 2006 to 2015 followed a linear trend more closely than an exponential curve (Supplementary Figure <xref ref-type="supplementary-material" rid="SM1">1</xref>). The linear fitting of the data obtained a coefficient of determination of <italic>r</italic><sup>2</sup> = 0.9959, whereas the exponential fitting only obtained a coefficient of determination of <italic>r</italic><sup>2</sup> = 0.9914.</p>
+      <sec>
+        <title>Term maps</title>
+        <p>The term maps for 2006 and 2015 are shown in Figure <xref ref-type="fig" rid="F1">1</xref>. For both maps, terms on the left are more related to cellular, molecular or genetic neuroscience research using animal models, such as cell, protein, receptor, expression and mice. Terms on the right are more related to brain imaging involving humans, such as functional magnetic resonance imaging (fMRI), perception, task, performance and patient. For 2006, the red and orange bubbles are more concentrated on the right side of the map, e.g., fMRI and neuroimaging. For 2015, the red and orange bubbles are more concentrated on the left side of the map, e.g., microglia and neuroinflammation. Across the survey period, some of the basic terms remained red and orange, such as inflammation, microglia, mitochondria and tau. Clinical terms remained blue and green, such as mortality, multiple sclerosis, intracerebral hemorrhage and ischemic stroke.</p>
+        <fig id="F1" position="float">
+          <label>Figure 1</label>
+          <caption>
+            <p><bold>Term maps for neuroscience literature</bold>. In general, terms on the left are more related to cellular, molecular or genetic neuroscience, whereas terms on the right are more related to brain imaging. Bubble size is related to the occurrence of terms in the titles and abstracts in the included publications. Color is related to relative citation impact attributable to the terms, with blue indicating below average, green indicating average and red indicating above average. Moving from 2006 to 2015, it could be observed that the terms on the left were gaining relative citation impact compared to the terms on the right. Certain terms remained having relatively high citation scores, such as inflammation, microglia, mitochondria and tau (colored red and orange). Some remained having relatively low citation scores, such as ischemic stroke, intracerebral hemorrhage and mortality.</p>
+          </caption>
+          <graphic xlink:href="fnins-11-00120-g0001"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Annual high-impact terms</title>
+        <p>Ten relevant terms with highest impact were identified for each year from 2006 to 2015; they are listed in Table <xref ref-type="table" rid="T1">1</xref>. There were 47 terms over the survey period (Table <xref ref-type="table" rid="T1">1</xref>). The most frequently recurring term was autism (top 10 in 8 years out of 10). Next were meta-analysis (7 years out of 10), functional connectivity (6 years out of 10), default mode network (4 years out of 10) and neuroimaging (4 years out of 10). Over the last 3 years (2013–2015), three terms appeared on the top 10 list: melatonin, microglia and neurofibrillary tangle.</p>
+        <table-wrap id="T1" position="float">
+          <label>Table 1</label>
+          <caption>
+            <p><bold>Relative citation scores of recurring top 10 high impact terms (bold) from 2006 to 2015</bold>.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Term</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2006</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2007</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2008</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2009</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2010</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2011</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2012</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2013</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2014</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2015</bold>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Autism</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2.05</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2.17</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2.68</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>1.99</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>1.99</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2.42</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2.11</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.60</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>1.93</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.59</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cognitive control</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2.22</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2.37</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>1.83</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.66</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.47</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.23</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Decision making</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2.40</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.72</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>1.88</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>1.94</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.66</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.35</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.23</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.15</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.20</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Default mode network</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2.52</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2.28</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>1.82</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>1.80</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.62</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Diffusion tensor imaging</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2.35</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2.36</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2.44</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.77</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.76</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.56</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.28</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.34</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.14</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Functional connectivity</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>3.05</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2.56</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2.79</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2.37</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2.15</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>1.86</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.74</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.47</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Insula</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2.12</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2.01</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2.21</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.72</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.75</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.62</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.38</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.32</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Melatonin</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.76</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.90</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.94</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.07</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.19</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.39</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.35</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>1.85</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>1.87</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2.17</bold>
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Meta-analysis</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>1.98</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>3.30</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>3.10</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2.61</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2.34</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2.26</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>1.86</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.72</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.53</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Microglia</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.58</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.88</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.56</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.57</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.58</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.39</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.54</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>1.87</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>1.88</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>1.77</bold>
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">MicroRNA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>1.81</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>1.91</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>1.82</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.55</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Neurofibrillary tangle</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.16</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.48</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.50</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.77</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>1.86</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>1.86</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>1.74</bold>
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Neuroimaging</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>1.97</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.51</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.66</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>1.96</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.71</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>1.95</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>1.83</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.43</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.74</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.54</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Orbitofrontal cortex</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2.05</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2.02</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.72</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2.12</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.70</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.60</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.39</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.34</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Systematic review</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">NA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>1.94</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>1.92</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>1.90</bold>
+                </td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.52</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.60</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.55</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p><italic>NA, not available. Only terms that occupied a place in the annual top 10 list thrice or more over 2006–2015 were listed (n = 15). Other terms (n = 32) that were in the annual top 10 list ≤ 2 times over 2006–2015 included alpha synuclein, Alzheimer's disease, anterior cingulate cortex, astrocyte, autophagy, blood-oxygen-level dependent signal, brain function, brain network, cognition, drug addiction, emotion, executive function, fractional anisotropy, immune system, ketamine, Lewy body, major depressive disorder, medial prefrontal cortex, mild cognitive impairment, mind, mitochondrial dysfunction, morphometry, neurogenesis, obesity, oxytocin, posterior cingulate cortex, potential therapeutic target, rapamycin, social interaction, transcranial direct current stimulation, ventral striatum and voxel</italic>.</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Research areas with largest publication shares in 2006 and 2015</title>
+        <p>In 2006, the most productive research area was psychiatry, accounting for nearly one-tenth of relevant publications (2,762/29,379, Table <xref ref-type="table" rid="T2">2</xref>). In 2015, its share reduced to 7.35% (2,852/38,792) apparently as a result of 32.0% increase in total publication. It was replaced by psychology (3,076/38,792) as the most productive research area. By 2015, ophthalmology and zoology no longer occupied a place on the list, and they were replaced by immunology and “geriatrics, gerontology.” In fact, the publication share of “geriatrics, gerontology” in 2015 (676/38,792) was 1.74%, two times of that in 2006 (205/29,379).</p>
+        <table-wrap id="T2" position="float">
+          <label>Table 2</label>
+          <caption>
+            <p><bold>Top 10 research areas with largest publication shares in 2006 and 2015</bold>.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Research area</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2006 rank</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>% of share</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2015 rank</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>% of share</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>Differences in % share</bold>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Psychiatry</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">9.40</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">7.35</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">−2.05</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Physiology</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6.69</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.89</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">−1.80</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Behavioral sciences</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6.43</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">7.77</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+1.34</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Pharmacology, pharmacy</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6.39</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">7.20</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+0.81</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Biochemistry, molecular biology</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6.18</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.48</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">−1.70</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Psychology</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5.72</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">7.93</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+2.21</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Endocrinology, metabolism</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">7</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.10</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">7</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.24</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+0.14</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Radiology, nuclear medicine, medical imaging</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">8</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.03</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">8</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.06</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+0.03</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ophthalmology</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">9</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.82</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">26</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.71</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">−1.11</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Zoology</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">10</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.69</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">27</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.71</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">−0.98</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Immunology</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">12</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.28</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">9</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.92</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+0.64</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Geriatrics, gerontology</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">20</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.70</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">10</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.74</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+1.04</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p><italic>Research areas were defined by Web of Science hosted by Thomson Reuters</italic>.</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Most productive countries</title>
+        <p>The United States remained the leading country in neuroscience research output over the 10-year survey period. Despite a reduction in its publication share, the United States still accounted for 37% (14,279/38,792) of total publications and was the largest contributor in 2015. European countries, such as Germany and the United Kingdom, were also major contributors to the field. One country with a substantial increase in publication share was China: Between 2006 and 2015, its publication share in this field tripled (2006: 870/29,379 = 2.96%, vs. 2015: 4,358/38,792 = 11.23%, Table <xref ref-type="table" rid="T3">3</xref>). With regard to social-health data, it seemed that the publication shares of the most productive countries were directly proportional to their respective total per capita expenditure on health (Supplementary Figure <xref ref-type="supplementary-material" rid="SM2">2</xref>). However, if data from China and United States were excluded, the relationship became much less apparent.</p>
+        <table-wrap id="T3" position="float">
+          <label>Table 3</label>
+          <caption>
+            <p><bold>Top 10 most productive neuroscience research countries in 2006 and 2015</bold>.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>2015</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2006 rank</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>% of share</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>2015 rank</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>% of share</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>Differences in % share</bold>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">USA</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">41.05</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">36.81</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">−4.24</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Germany</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">9.93</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">10.20</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+0.27</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">UK</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">8.63</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">8.75</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+0.12</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Japan</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">8.36</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">7</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5.69</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">−2.67</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Canada</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6.47</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6.88</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+0.41</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Italy</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5.91</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6.49</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+0.58</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">France</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">7</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">5.48</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">8</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.99</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">−0.49</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Netherlands</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">8</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.42</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">10</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.20</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+0.78</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Australia</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">9</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.39</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">9</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4.54</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+1.15</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Spain</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">10</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.23</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">11</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">3.62</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+0.39</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">China</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">11</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.96</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">11.23</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+8.27</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p><italic>Each country had one count if it appears in the author affiliations field of a publication, as counted by Web of Science hosted by Thomson Reuters</italic>.</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Identification of core journals under Bradford's law</title>
+        <p>The number of neuroscience journals increased from 200 in 2006 to 256 in 2015. In parallel, the number of core journals doubled from 11 (11/200 = 5.5%) in 2006 to 22 (22/256 = 8.6%) in 2015 (Table <xref ref-type="table" rid="T4">4</xref>). Six journals were consistently included as core journals throughout 2006–2015, namely <italic>Brain Research, Journal of Neurophysiology, Journal of Neuroscience, NeuroImage, Neuroscience</italic>, and <italic>Neuroscience Letters</italic>. Together with four other journals, namely <italic>Behavioural Brain Research</italic> (9 years), <italic>Experimental Brain Research</italic> (9 years), <italic>European Journal of Neuroscience</italic> (8 years), and <italic>Journal of the Neurological Sciences</italic> (8 years), they formed the top ten core neuroscience journals. The complete list of 33 core neuroscience journals is presented in Supplementary Table <xref ref-type="supplementary-material" rid="SM3">1</xref>.</p>
+        <table-wrap id="T4" position="float">
+          <label>Table 4</label>
+          <caption>
+            <p><bold>Division of neuroscience journals and publications from 2006 to 2015 according to Bradford's law</bold>.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th rowspan="1" colspan="1"/>
+                <th valign="top" align="center" colspan="4" style="border-bottom: thin solid #000000;" rowspan="1">
+                  <bold>Journal number (publication count)</bold>
+                </th>
+              </tr>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Year</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>Zone 1: core</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>Zone 2</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>Zone 3</bold>
+                </th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+                  <bold>Total</bold>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">2006</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">11 (8,901)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">38 (8,989)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">151 (9,267)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">200 (27,157)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">2007</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">13 (9,472)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">40 (9,412)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">158 (9,550)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">211 (28,434)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">2008</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">15 (9,839)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">43 (9,918)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">163 (9,838)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">221 (29,595)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">2009</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">16 (10,283)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">47 (10,252)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">168 (10,016)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">231 (30,551)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">2010</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">16 (10,614)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">49 (10,770)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">174 (10,804)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">239 (32,188)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">2011</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">18 (11,131)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">51 (11,151)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">175 (11,029)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">244 (33,311)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">2012</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">19 (11,466)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">53 (11,449)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">180 (11,517)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">252 (34,432)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">2013</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">21 (11,818)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">54 (11,912)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">177 (11,789)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">252 (35,519)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">2014</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">21 (12,223)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">54 (12,273)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">177 (12,367)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">252 (36,863)</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">2015</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">22 (12,388)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">53 (12,392)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">181 (12,539)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">256 (37,319)</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p><italic>According to Bradford's law, journals were divided into three zones, and each zone should contain one-third of total publication count. Zone 1 journals were identified as core journals. Publication count here refers to the total count of articles and reviews</italic>.</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Bibliometric performance of core journals</title>
+        <p>In general, the core journals maintained their performance levels over the survey period. Most (7/10) core journals did not exhibit a significant change in IF from 2006 to 2015 (Figure <xref ref-type="fig" rid="F2">2A</xref>). One journal, <italic>Brain Research</italic>, had a significantly improved IF (β = 0.06, <italic>P</italic> &lt; 0.01), whereas two journals experienced a significant decrease in IF, namely <italic>Journal of Neurophysiology</italic> (β = −0.11, <italic>P</italic> &lt; 0.001) and <italic>Journal of Neuroscience</italic> (β = −0.16, <italic>P</italic> &lt; 0.001).</p>
+        <fig id="F2" position="float">
+          <label>Figure 2</label>
+          <caption>
+            <p><bold>Bibliometric performances of the key core journals. (A)</bold> Time trends of Impact Factor. <bold>(B)</bold> Time trends of Immediacy Index. <bold>(C)</bold> Time trends of Eigenfactor Score.</p>
+          </caption>
+          <graphic xlink:href="fnins-11-00120-g0002"/>
+        </fig>
+        <p>Six of the core journals did not have a significant change in II over the survey period (Figure <xref ref-type="fig" rid="F2">2B</xref>). Three journals had significantly improved II, namely <italic>Brain Research</italic> (β = 0.03, <italic>P</italic> = 0.01), <italic>NeuroImage</italic> (β = 0.07, <italic>P</italic> &lt; 0.01) and <italic>Neuroscience Letters</italic> (β = 0.01, <italic>P</italic> = 0.05). One journal, <italic>Journal of Neurophysiology</italic>, had a decreased II (β = −0.03, <italic>P</italic> &lt; 0.01).</p>
+        <p>In terms of ES, most (7/10) core journals were subject to a decrease, and only two an increase (Figure <xref ref-type="fig" rid="F2">2C</xref>). However, these changes were small (β = −0.02–0.00).</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="s4">
+      <title>Discussion</title>
+      <p>Using data from WoS and JCR, the results of the current study revealed transformations in the field of neuroscience research from 2006 to 2015 in terms of leading or core journals, distribution of publications, research context and contributions by country. No attempt was made to retrospectively analyze data earlier than 2006, because this study's focus only concerns recent bibliometric growth rather than the complete history of this research field. The annual growth of neuroscience publications over the survey period indicated non-fulfillment of Price's Law, i.e., no exponential growth was observed. It experienced a linear growth instead. This linear increment was consistent with publications in adjacent research fields such as psychiatry (López-Muñoz et al., <xref rid="B19" ref-type="bibr">2008b</xref>) and psychopharmacology (López-Muñoz et al., <xref rid="B18" ref-type="bibr">2013</xref>). On the other hand, there was an exponential increase in publications in melatonin (López-Muñoz et al., <xref rid="B20" ref-type="bibr">2016</xref>), bipolar disorder (López-Muñoz et al., <xref rid="B22" ref-type="bibr">2006</xref>) and attention-deficit hyperactivity disorder (López-Muñoz et al., <xref rid="B17" ref-type="bibr">2008a</xref>). Since the current study aimed at providing an overview of the neuroscience literature, we did not apply Lotka's Law to evaluate the productivity of individual researchers.</p>
+      <sec>
+        <title>Shifting of citation focus as seen from term maps</title>
+        <p>The term maps from Figure <xref ref-type="fig" rid="F1">1</xref> illustrated the shift of citation focus from general brain imaging terms to cellular, molecular and genetic terms. In recent years, molecular imaging of the brain is gaining attention, such as that related to neuroinflammation of microglia and macrophages (Venneti et al., <xref rid="B34" ref-type="bibr">2013</xref>) and neurodegeneration related to tau protein and Lewy body (Wakabayashi et al., <xref rid="B36" ref-type="bibr">2013</xref>). These research topics investigated in experimental animal models probably led to the increased relative citation impacts of these terms. Certain clinical topics remained having low citation impacts, such as multiple sclerosis, intracerebral hemorrhage and ischemic stroke.</p>
+      </sec>
+      <sec>
+        <title>Brain imaging terms as recurring high-impact terms</title>
+        <p>Results in Table <xref ref-type="table" rid="T1">1</xref> demonstrated that brain imaging terms occupied three of the top five recurring high-impact terms, namely default mode network, functional connectivity and neuroimaging. The rise in relative citation impact of brain connectivity terms was consistent with the launches of several research funds, including the aforementioned BRAIN Initiative, Human Brain Project and Human Connectome Project. There were two other terms related to brain connectivity among the top 10 highest impact terms (diffusion tensor imaging and fractional anisotropy). One popular research topic was to investigate the co-activation (also known as functional connectivity) of different brain regions (Yeung et al., <xref rid="B42" ref-type="bibr">2017b</xref>). One such network of co-activation during a resting state is called the default mode network, which is believed to be robust across populations, and, as a result, it has gained attention in recent years (Raichle and Snyder, <xref rid="B27" ref-type="bibr">2007</xref>). Another area that merits mention is the advancement in the use of statistics, such as the implementation of dynamic causal modeling to neuroimaging data in 2003 (Friston et al., <xref rid="B7" ref-type="bibr">2003</xref>), which have enabled an inference of effective connectivity. This application illustrates the directionality of communications between brain regions during particular experimental tasks (Nakamura et al., <xref rid="B25" ref-type="bibr">2013</xref>; Yeung et al., <xref rid="B43" ref-type="bibr">2016</xref>). Though the terms related to effective connectivity were not in the annual top 10 lists of high-impact terms during the survey period, they may well be a potential hot spot in the field in the future (Friston, <xref rid="B6" ref-type="bibr">2011</xref>).</p>
+      </sec>
+      <sec>
+        <title>The high impact of terms related to Alzheimer's disease over the last 3 years</title>
+        <p>As reported, three terms always appeared on the top 10 list of high-impact terms over the last 3 years, namely melatonin, microglia and neurofibrillary tangle. Collectively, these three terms are related to Alzheimer's disease. Evidence has suggested that Alzheimer's disease, with intracellular neurofibrillary tangle a widely recognized biomarker, is linked to neuroinflammatory changes caused by overactivation of microglia that can be alleviated by administration of melatonin (Smith et al., <xref rid="B29" ref-type="bibr">2012</xref>; Lin et al., <xref rid="B15" ref-type="bibr">2013</xref>). This effect of melatonin may be related to regulation of autophagy (Choi et al., <xref rid="B4" ref-type="bibr">2013</xref>). Moreover, we identified <italic>Journal of Alzheimer's Disease</italic> as one of the core journals (2010–2015) in the current study. Together, these findings suggest that topics relevant to this disease have recently become high impact.</p>
+      </sec>
+      <sec>
+        <title>Attention to autism</title>
+        <p>Autism appeared in the annual list of top 10 high-impact terms eight times in the 10-year survey period. On average, its relative citation score was 2.05 (citation count 2.05 times that of an average term), outperforming the relative citation score of other neurological disorders such as major depressive disorder (1.68) and mild cognitive impairment (1.33).</p>
+      </sec>
+      <sec>
+        <title>Research directions, health care priorities and prime translational research topics</title>
+        <p>Results of the current bibliometric study may help identify three important areas of neuroscience research: research directions, health care priorities and prime translational research topics. First, with regard to research directions, it could be observed that brain imaging was one of the highest impact over the last decade. Looking at health care priorities, as it was demonstrated that meta-analysis was a high-impact term in neuroscience field, researchers may consider conducting more meta-analyses to answer priority questions for better evidence-based practices in health care industry or health care services. As for prime translational research topics, brain connectivity had high impact; thus, its aberrations among patients with various neurodegenerative or neurological disorders can now be further investigated.</p>
+      </sec>
+      <sec>
+        <title>Increased publication share of geriatrics and gerontology</title>
+        <p>The publication share of geriatrics and gerontology doubled from 2006 to 2015. This was reasonably expected due to the aging population of the developed countries. As the elderly people are more prone to neurodegenerative and neuroinflammatory diseases such as Alzheimer's disease (Clegg et al., <xref rid="B5" ref-type="bibr">2013</xref>), the citation impact of terms relevant to neurodegeneration and neuroinflammation also increased over the study period.</p>
+      </sec>
+      <sec>
+        <title>The United States and European countries as major contributors</title>
+        <p>Despite changes in research hot spots, the most productive or research-leading countries did not change significantly between 2006 and 2015. Developed countries, mainly ones in the Western world, were still major contributors to neuroscience research, i.e., Australia, Canada, France, Germany, Japan, Netherlands, Italy, the United Kingdom and the United States. Incidentally, these countries were also previously identified as major contributors to various topics within or relevant to neuroscience, such as neuroimaging (Kim et al., <xref rid="B13" ref-type="bibr">2016</xref>; Yeung et al., <xref rid="B41" ref-type="bibr">2017a</xref>) and Parkinson's disease (Li et al., <xref rid="B14" ref-type="bibr">2008</xref>), which means these countries may have relatively more established research backgrounds and research funding. However, with more economic development and financial input into academic research, China has emerged as one of the important contributors in neuroscience research field in recent years. The correlation of publication share in neuroscience with the per capita health expenditure of the most productive countries might be consistent with the notion that the higher the spending on health, the more the research publication (López-Muñoz et al., <xref rid="B22" ref-type="bibr">2006</xref>, <xref rid="B21" ref-type="bibr">2014</xref>). However, it should be interpreted with caution because data from China and the United States were relatively influential as potential outliers.</p>
+      </sec>
+      <sec>
+        <title>Growth in publication and stability of key core journals identified by Bradford's law</title>
+        <p>The annual publication (articles and reviews) count of neuroscience research increased every year, as did the number of neuroscience journals. By applying Bradford's law of scattering, we revealed that the percentage of journals classified as core journals likewise increased over the study years. These changes indicated that this field has been growing and becoming more dispersed. Besides, the bibliometric performances of the key core journals were mostly stable over the study period.</p>
+      </sec>
+      <sec>
+        <title>Implications and future perspectives</title>
+        <p>The shift of citation focus as seen from term maps and Table <xref ref-type="table" rid="T1">1</xref> indicated the importance of co-existing animal models and <italic>in vitro</italic> studies together with human neuroimaging studies. While neuroimaging studies may continue to unveil the brain function or neural mechanism of relevant physiological processes, animal models and <italic>in vitro</italic> studies may also be required to explore and explain the details down to genetic, cellular or molecular levels.</p>
+        <p>Moreover, with the increasing publication count and wider distribution of publications among neuroscience journals, future publications should devise keywords, titles and abstracts more thoughtfully. Search strategy of fellow researchers should be taken into careful consideration so that the relevant works can be identified/retrieved from search engines or databases.</p>
+        <p>By considering the specific hot topics having high relative citation scores altogether, future work may focus on utilizing brain imaging and connectivity analyses to identify biomarkers that may signify neurodegenerative or neuroinflammatory tendency among the aging population.</p>
+      </sec>
+      <sec>
+        <title>Study limitations</title>
+        <p>This study has certain limitations. First, this study is retrospective, and, though it tracked past or recent trends, rapidly developing interests in a short (recent) period may not be accurately reflected. Second, the work examined in this study consists exclusively of articles and reviews published from 2006 to 2015 in JCR “Neurosciences” journals as indexed by WoS. It may not be sufficient to represent all neuroscience literature, such as other document formats published in journals or publications not included in this study. As neuroscience interacts with many other academic fields, some arguably relevant studies may have been published in journals not classified as neuroscience journals. However, it would be difficult to define search terms that effectively cover all papers touching on neuroscience across all scientific literature while simultaneously excluding irrelevant ones. Therefore, we focused on JCR “Neurosciences” journals. Third, the analyses in this study were based on data recorded in the WoS database. Although Google Scholar and other databases may offer broader coverage, much of this “extra” coverage may be attributed to journals with potentially limited audience. Given that we aimed to determine research changes in the core of the neuroscience community, we followed previous neuroscience bibliometric publications by only accessing WoS (Glänzel et al., <xref rid="B8" ref-type="bibr">2003</xref>; Li et al., <xref rid="B14" ref-type="bibr">2008</xref>; Bishop, <xref rid="B3" ref-type="bibr">2010</xref>). Therefore, the results from the current study should be interpreted with considerations that journals of other sections of JCR (pharmacology, diagnostic imaging, biochemistry, biology, etc.) were not included. Future studies may expand to them and consider the access to other databases such as PubMed/Medline, Scopus or Embase when deemed appropriate. Besides VOSviewer, future studies may consider using other bibliometric tools to further dissect the evidence, such as using Pajek to analyze the citation and co-authorship networks of selected data subsets (Batagelj and Mrvar, <xref rid="B1" ref-type="bibr">1998</xref>), and using Publish or Perish<xref ref-type="fn" rid="fn0003"><sup>3</sup></xref> to evaluate the distribution of citations received by selected authors in terms of h-index or g-index.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions" id="s5">
+      <title>Conclusions</title>
+      <p>To conclude, our findings revealed changes in the landscape of neuroscience research over the study period and provided a contemporary overview of neuroscience research for researchers and health care workers interested in this field. Brain imaging and brain connectivity have been shown to be hot topics, and Alzheimer's disease and associated topics have recently gained traction.</p>
+    </sec>
+    <sec id="s6">
+      <title>Author contributions</title>
+      <p>AY conceived the work, acquired and analyzed data and drafted the work. TG and WK facilitated the acquisition of data and critically revised the work. All authors have approved the final content of the manuscript.</p>
+    </sec>
+    <sec id="s7">
+      <title>Funding</title>
+      <p>This work was substantially supported by a grant from the Research Grants Council of the Hong Kong Special Administrative Region, China (HKU 766212M).</p>
+      <sec>
+        <title>Conflict of interest statement</title>
+        <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We thank Ms. Samantha Li from Faculty of Dentistry, The University of Hong Kong for statistical assistance.</p>
+    </ack>
+    <fn-group>
+      <fn id="fn0001">
+        <p>
+          <sup>1</sup>
+          <ext-link ext-link-type="uri" xlink:href="http://ipscience-help.thomsonreuters.com/inCites2Live/filterValuesGroup/researchAreaSchema.html">http://ipscience-help.thomsonreuters.com/inCites2Live/filterValuesGroup/researchAreaSchema.html</ext-link>
+        </p>
+      </fn>
+      <fn id="fn0002">
+        <p><sup>2</sup>Data available from <ext-link ext-link-type="uri" xlink:href="http://www.who.int/countries/en/">http://www.who.int/countries/en/</ext-link></p>
+      </fn>
+      <fn id="fn0003">
+        <p><sup>3</sup>Harzing, A. W. (2007) <italic>Publish or Perish</italic>. Available online at: <ext-link ext-link-type="uri" xlink:href="http://www.harzing.com/pop.htm">http://www.harzing.com/pop.htm</ext-link></p>
+      </fn>
+    </fn-group>
+    <sec sec-type="supplementary-material" id="s8">
+      <title>Supplementary material</title>
+      <p>The Supplementary Material for this article can be found online at: <ext-link ext-link-type="uri" xlink:href="http://journal.frontiersin.org/article/10.3389/fnins.2017.00120/full#supplementary-material">http://journal.frontiersin.org/article/10.3389/fnins.2017.00120/full#supplementary-material</ext-link></p>
+      <supplementary-material content-type="local-data" id="SM1">
+        <label>Supplementary Figure 1</label>
+        <caption>
+          <p><bold>Annual growth of neuroscience publication from 2006 to 2015</bold>. After plotting the annual publication count (y) against year (x), we applied the best-fitting linear (solid) and exponential (dash) trend lines to the plot. Results indicated the growth followed a linear trend (y = 1168.8x–2 × 10<sup>6</sup>, <italic>r</italic><sup>2</sup> = 0.9959) more closely than an exponential trend (y = 7 × 10<sup>−28</sup>e<sup>0.0363<italic>x</italic></sup>, <italic>r</italic><sup>2</sup> = 0.9914).</p>
+        </caption>
+        <media xlink:href="Image1.TIFF">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM2">
+        <label>Supplementary Figure 2</label>
+        <caption>
+          <p><bold>The relationship between the neuroscience publication share and the total per capita expenditure on health (USD$) among the most productive countries as surveyed in 2006 and 2015</bold>. The economic data was obtained from World Health Organization (<ext-link ext-link-type="uri" xlink:href="http://www.who.int/county/en/">http://www.who.int/county/en/</ext-link>). It seemed that the publication shares of the most productive countries were directly proportional to their respective total per capita expenditure on health (2006: <italic>r</italic><sup>2</sup> = 0.560, <italic>p</italic> = 0.005; 2015: <italic>r</italic><sup>2</sup> = 0.352, <italic>p</italic> = 0.054). However, if data from China and United States were excluded, the relationship became much less apparent (2006: <italic>r</italic><sup>2</sup> = 0.008, <italic>p</italic> = 0.817; 2015: <italic>r</italic><sup>2</sup> = 0.010, <italic>p</italic> = 0.800). AUS, Australia; CAN, Canada; CHI, China; FRA, France; GER, Germany; ITA, Italy; JAP, Japan; NET, Netherlands; SPA, Spain; UK, United Kingdom; USA, United States.</p>
+        </caption>
+        <media xlink:href="Image2.TIFF">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM3">
+        <label>Supplementary Table 1</label>
+        <caption>
+          <p><bold>List of core neuroscience journals from 2006 to 2015</bold>. A black dot denoted that journal belonged to the core journals (assigned to Zone 1 according to Bradford's law) in that year. NA, non-applicable because that journal did not exist in that year. Core journals are the most productive journals; together they contributed to one-third of total count of articles and reviews in the census year (Table <xref ref-type="table" rid="T4">4</xref>).</p>
+        </caption>
+        <media xlink:href="Table1.DOCX">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Batagelj</surname><given-names>V.</given-names></name><name><surname>Mrvar</surname><given-names>A.</given-names></name></person-group> (<year>1998</year>). <article-title>Pajek-program for large network analysis</article-title>. <source>Connections</source>
+<volume>21</volume>, <fpage>47</fpage>–<lpage>57</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B2">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Battery</surname><given-names>R. O.</given-names></name></person-group> (<year>2010</year>). <article-title>Human connectome project Awards $40 Million</article-title>. <source>J. Invest. Med.</source>
+<volume>58</volume>, <fpage>929</fpage>–<lpage>935</lpage>. <pub-id pub-id-type="doi">10.2310/JIM.0b013e3182025955</pub-id></mixed-citation>
+      </ref>
+      <ref id="B3">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bishop</surname><given-names>D. V.</given-names></name></person-group> (<year>2010</year>). <article-title>Which neurodevelopmental disorders get researched and why?</article-title>
+<source>PLoS ONE</source>
+<volume>5</volume>:<fpage>e15112</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pone.0015112</pub-id><?supplied-pmid 21152085?><pub-id pub-id-type="pmid">21152085</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Choi</surname><given-names>A. M.</given-names></name><name><surname>Ryter</surname><given-names>S. W.</given-names></name><name><surname>Levine</surname><given-names>B.</given-names></name></person-group> (<year>2013</year>). <article-title>Autophagy in human health and disease</article-title>. <source>New Engl. J. Med.</source>
+<volume>368</volume>, <fpage>651</fpage>–<lpage>662</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMra1205406</pub-id><?supplied-pmid 23406030?><pub-id pub-id-type="pmid">23406030</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Clegg</surname><given-names>A.</given-names></name><name><surname>Young</surname><given-names>J.</given-names></name><name><surname>Iliffe</surname><given-names>S.</given-names></name><name><surname>Rikkert</surname><given-names>M. O.</given-names></name><name><surname>Rockwood</surname><given-names>K.</given-names></name></person-group> (<year>2013</year>). <article-title>Frailty in elderly people</article-title>. <source>Lancet</source>
+<volume>381</volume>, <fpage>752</fpage>–<lpage>762</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(12)62167-9</pub-id><?supplied-pmid 23395245?><pub-id pub-id-type="pmid">23395245</pub-id></mixed-citation>
+      </ref>
+      <ref id="B6">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Friston</surname><given-names>K. J.</given-names></name></person-group> (<year>2011</year>). <article-title>Functional and effective connectivity: a review</article-title>. <source>Brain Connect.</source>
+<volume>1</volume>, <fpage>13</fpage>–<lpage>36</lpage>. <pub-id pub-id-type="doi">10.1089/brain.2011.0008</pub-id><?supplied-pmid 22432952?><pub-id pub-id-type="pmid">22432952</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Friston</surname><given-names>K. J.</given-names></name><name><surname>Harrison</surname><given-names>L.</given-names></name><name><surname>Penny</surname><given-names>W.</given-names></name></person-group> (<year>2003</year>). <article-title>Dynamic causal modelling</article-title>. <source>Neuroimage</source>
+<volume>19</volume>, <fpage>1273</fpage>–<lpage>1302</lpage>. <pub-id pub-id-type="doi">10.1016/S1053-8119(03)00202-7</pub-id><?supplied-pmid 12948688?><pub-id pub-id-type="pmid">12948688</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Glänzel</surname><given-names>W.</given-names></name><name><surname>Danell</surname><given-names>R.</given-names></name><name><surname>Persson</surname><given-names>O.</given-names></name></person-group> (<year>2003</year>). <article-title>The decline of Swedish neuroscience: decomposing a bibliometric national science indicator</article-title>. <source>Scientometrics</source>
+<volume>57</volume>, <fpage>197</fpage>–<lpage>213</lpage>. <pub-id pub-id-type="doi">10.1023/A:1024185601555</pub-id></mixed-citation>
+      </ref>
+      <ref id="B9">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Grillner</surname><given-names>S.</given-names></name><name><surname>Ip</surname><given-names>N.</given-names></name><name><surname>Koch</surname><given-names>C.</given-names></name><name><surname>Koroshetz</surname><given-names>W.</given-names></name><name><surname>Okano</surname><given-names>H.</given-names></name><name><surname>Polachek</surname><given-names>M.</given-names></name><etal/></person-group>. (<year>2016</year>). <article-title>Worldwide initiatives to advance brain research</article-title>. <source>Nat. Neurosci.</source>
+<volume>19</volume>, <fpage>1118</fpage>–<lpage>1122</lpage>. <pub-id pub-id-type="doi">10.1038/nn.4371</pub-id><?supplied-pmid 27571190?><pub-id pub-id-type="pmid">27571190</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Heersmink</surname><given-names>R.</given-names></name><name><surname>van den Hoven</surname><given-names>J.</given-names></name><name><surname>van Eck</surname><given-names>N. J.</given-names></name><name><surname>van den Berg</surname><given-names>J.</given-names></name></person-group> (<year>2011</year>). <article-title>Bibliometric mapping of computer and information ethics</article-title>. <source>Ethics Inf. Technol.</source>
+<volume>13</volume>, <fpage>241</fpage>–<lpage>249</lpage>. <pub-id pub-id-type="doi">10.1007/s10676-011-9273-7</pub-id></mixed-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Insel</surname><given-names>T. R.</given-names></name><name><surname>Landis</surname><given-names>S. C.</given-names></name><name><surname>Collins</surname><given-names>F. S.</given-names></name></person-group> (<year>2013</year>). <article-title>The NIH brain initiative</article-title>. <source>Science</source>
+<volume>340</volume>, <fpage>687</fpage>–<lpage>688</lpage>. <pub-id pub-id-type="doi">10.1126/science.1239276</pub-id><?supplied-pmid 23661744?><pub-id pub-id-type="pmid">23661744</pub-id></mixed-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jayaratne</surname><given-names>Y. S. N.</given-names></name><name><surname>Zwahlen</surname><given-names>R. A.</given-names></name></person-group> (<year>2015</year>). <article-title>The evolution of dental journals from 2003 to 2012: a bibliometric analysis</article-title>. <source>PLoS ONE</source>
+<volume>10</volume>:<fpage>e0119503</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pone.0119503</pub-id><?supplied-pmid 25781486?><pub-id pub-id-type="pmid">25781486</pub-id></mixed-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kim</surname><given-names>H. J.</given-names></name><name><surname>Yoon</surname><given-names>D. Y.</given-names></name><name><surname>Kim</surname><given-names>E. S.</given-names></name><name><surname>Lee</surname><given-names>K.</given-names></name><name><surname>Bae</surname><given-names>J. S.</given-names></name><name><surname>Lee</surname><given-names>J.-H.</given-names></name></person-group> (<year>2016</year>). <article-title>The 100 most-cited articles in neuroimaging: a bibliometric analysis</article-title>. <source>Neuroimage</source>
+<volume>139</volume>, <fpage>149</fpage>–<lpage>156</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuroimage.2016.06.029</pub-id><?supplied-pmid 27327516?><pub-id pub-id-type="pmid">27327516</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>T.</given-names></name><name><surname>Ho</surname><given-names>Y.-S.</given-names></name><name><surname>Li</surname><given-names>C.-Y.</given-names></name></person-group> (<year>2008</year>). <article-title>Bibliometric analysis on global Parkinson's disease research trends during 1991–2006</article-title>. <source>Neurosci. Lett.</source>
+<volume>441</volume>, <fpage>248</fpage>–<lpage>252</lpage>. <pub-id pub-id-type="doi">10.1016/j.neulet.2008.06.044</pub-id><?supplied-pmid 18582532?><pub-id pub-id-type="pmid">18582532</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lin</surname><given-names>L.</given-names></name><name><surname>Huang</surname><given-names>Q.-X.</given-names></name><name><surname>Yang</surname><given-names>S.-S.</given-names></name><name><surname>Chu</surname><given-names>J.</given-names></name><name><surname>Wang</surname><given-names>J.-Z.</given-names></name><name><surname>Tian</surname><given-names>Q.</given-names></name></person-group> (<year>2013</year>). <article-title>Melatonin in Alzheimer's disease</article-title>. <source>Int. J. Mol. Sci.</source>
+<volume>14</volume>, <fpage>14575</fpage>–<lpage>14593</lpage>. <pub-id pub-id-type="doi">10.3390/ijms140714575</pub-id><?supplied-pmid 23857055?><pub-id pub-id-type="pmid">23857055</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>López-Abente</surname><given-names>G.</given-names></name><name><surname>Muñoz-Tinoco</surname><given-names>C.</given-names></name></person-group> (<year>2005</year>). <article-title>Time trends in the impact factor of Public Health journals</article-title>. <source>BMC Public Health</source>
+<volume>5</volume>:<fpage>24</fpage>. <pub-id pub-id-type="doi">10.1186/1471-2458-5-24</pub-id><?supplied-pmid 15777471?><pub-id pub-id-type="pmid">15777471</pub-id></mixed-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>López-Muñoz</surname><given-names>F.</given-names></name><name><surname>Alamo</surname><given-names>C.</given-names></name><name><surname>Quintero-Gutiérrez</surname><given-names>F. J.</given-names></name><name><surname>García-García</surname><given-names>P.</given-names></name></person-group> (<year>2008a</year>). <article-title>A bibliometric study of international scientific productivity in attention-deficit hyperactivity disorder covering the period 1980–2005</article-title>. <source>Eur. Child Adolesc. Psychiatry</source>, <volume>17</volume>, <fpage>381</fpage>–<lpage>391</lpage>. <pub-id pub-id-type="doi">10.1007/s00787-008-0680-1</pub-id><?supplied-pmid 18431538?><pub-id pub-id-type="pmid">18431538</pub-id></mixed-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>López-Muñoz</surname><given-names>F.</given-names></name><name><surname>Castle</surname><given-names>D.</given-names></name><name><surname>Shen</surname><given-names>W.</given-names></name><name><surname>Moreno</surname><given-names>R.</given-names></name><name><surname>Huelves</surname><given-names>L.</given-names></name><name><surname>Pérez-Nieto</surname><given-names>M.</given-names></name><etal/></person-group>. (<year>2013</year>). <article-title>The Australian contribution to the literature on atypical antipsychotic drugs: a bibliometric study</article-title>. <source>Australasian Psychiatry</source>, <volume>21</volume>, <fpage>343</fpage>–<lpage>345</lpage>. <pub-id pub-id-type="doi">10.1177/1039856213492352</pub-id><?supplied-pmid 23804115?><pub-id pub-id-type="pmid">23804115</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>López-Muñoz</surname><given-names>F.</given-names></name><name><surname>García-García</surname><given-names>P.</given-names></name><name><surname>Sáiz-Ruiz</surname><given-names>J.</given-names></name><name><surname>Mezzich</surname><given-names>J. E.</given-names></name><name><surname>Rubio</surname><given-names>G.</given-names></name><name><surname>Vieta</surname><given-names>E.</given-names></name><etal/></person-group>. (<year>2008b</year>). <article-title>A bibliometric study of the use of the classification and diagnostic systems in psychiatry over the last 25 years</article-title>. <source>Psychopathology</source>
+<volume>41</volume>, <fpage>214</fpage>–<lpage>225</lpage>. <pub-id pub-id-type="doi">10.1159/000125555</pub-id><?supplied-pmid 18408417?><pub-id pub-id-type="pmid">18408417</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>López-Muñoz</surname><given-names>F.</given-names></name><name><surname>Povedano</surname><given-names>F. J.</given-names></name><name><surname>Alamo</surname><given-names>C.</given-names></name></person-group> (<year>2016</year>). <article-title>Bibliometric study of scientific research on melatonin during the last 25 years</article-title>, in <source>Melatonin, Neuroprotective Agents and Antidepressant Therapy</source>, eds <person-group person-group-type="editor"><name><surname>López-Muñoz</surname><given-names>F.</given-names></name><name><surname>Srinivasan</surname><given-names>V.</given-names></name><name><surname>de Berardis</surname><given-names>D.</given-names></name><name><surname>Álamo</surname><given-names>C.</given-names></name><name><surname>Kato</surname><given-names>T. A.</given-names></name></person-group> (<publisher-loc>New York, NY</publisher-loc>: <publisher-name>Springer</publisher-name>), <fpage>25</fpage>–<lpage>42</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>López-Muñoz</surname><given-names>F.</given-names></name><name><surname>Shen</surname><given-names>W. W.</given-names></name><name><surname>Shinfuku</surname><given-names>N.</given-names></name><name><surname>Pae</surname><given-names>C. U.</given-names></name><name><surname>Castle</surname><given-names>D. J.</given-names></name><name><surname>Chung</surname><given-names>A. K.</given-names></name><etal/></person-group> (<year>2014</year>). <article-title>A bibliometric study on second-generation antipsychotic drugs in the Asia–Pacific region</article-title>. <source>J. Exp. Clin. Med.</source>
+<volume>6</volume>, <fpage>111</fpage>–<lpage>117</lpage>. <pub-id pub-id-type="doi">10.1016/j.jecm.2014.06.001</pub-id></mixed-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>López-Muñoz</surname><given-names>F.</given-names></name><name><surname>Vieta</surname><given-names>E.</given-names></name><name><surname>Rubio</surname><given-names>G.</given-names></name><name><surname>García-García</surname><given-names>P.</given-names></name><name><surname>Alamo</surname><given-names>C.</given-names></name></person-group> (<year>2006</year>). <article-title>Bipolar disorder as an emerging pathology in the scientific literature: a bibliometric approach</article-title>. <source>J. Affect. Disord.</source>
+<volume>92</volume>, <fpage>161</fpage>–<lpage>170</lpage>. <pub-id pub-id-type="doi">10.1016/j.jad.2006.02.006</pub-id><?supplied-pmid 16530847?><pub-id pub-id-type="pmid">16530847</pub-id></mixed-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Markram</surname><given-names>H.</given-names></name></person-group> (<year>2012</year>). <article-title>The human brain project</article-title>. <source>Sci. Am.</source>
+<volume>306</volume>, <fpage>50</fpage>–<lpage>55</lpage>. <pub-id pub-id-type="doi">10.1038/scientificamerican0612-50</pub-id><?supplied-pmid 22649994?><pub-id pub-id-type="pmid">22649994</pub-id></mixed-citation>
+      </ref>
+      <ref id="B24">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Moser</surname><given-names>E. I.</given-names></name><name><surname>Kropff</surname><given-names>E.</given-names></name><name><surname>Moser</surname><given-names>M.-B.</given-names></name></person-group> (<year>2008</year>). <article-title>Place cells, grid cells, and the brain's spatial representation system</article-title>. <source>Neuroscience</source>
+<volume>31</volume>, <fpage>69</fpage>. <pub-id pub-id-type="doi">10.1146/annurev.neuro.31.061307.090723</pub-id><?supplied-pmid 18284371?><pub-id pub-id-type="pmid">18284371</pub-id></mixed-citation>
+      </ref>
+      <ref id="B25">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nakamura</surname><given-names>Y.</given-names></name><name><surname>Tokumori</surname><given-names>K.</given-names></name><name><surname>Tanabe</surname><given-names>H. C.</given-names></name><name><surname>Yoshiura</surname><given-names>T.</given-names></name><name><surname>Kobayashi</surname><given-names>K.</given-names></name><name><surname>Nakamura</surname><given-names>Y.</given-names></name><etal/></person-group>. (<year>2013</year>). <article-title>Localization of the primary taste cortex by contrasting passive and attentive conditions</article-title>. <source>Exp. Brain Res.</source>
+<volume>227</volume>, <fpage>185</fpage>–<lpage>197</lpage>. <pub-id pub-id-type="doi">10.1007/s00221-013-3499-z</pub-id><?supplied-pmid 23604572?><pub-id pub-id-type="pmid">23604572</pub-id></mixed-citation>
+      </ref>
+      <ref id="B26">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>O'keefe</surname><given-names>J.</given-names></name><name><surname>Burgess</surname><given-names>N.</given-names></name></person-group> (<year>2005</year>). <article-title>Dual phase and rate coding in hippocampal place cells: theoretical significance and relationship to entorhinal grid cells</article-title>. <source>Hippocampus</source>
+<volume>15</volume>, <fpage>853</fpage>–<lpage>866</lpage>. <pub-id pub-id-type="doi">10.1002/hipo.20115</pub-id><?supplied-pmid 16145693?><pub-id pub-id-type="pmid">16145693</pub-id></mixed-citation>
+      </ref>
+      <ref id="B27">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Raichle</surname><given-names>M. E.</given-names></name><name><surname>Snyder</surname><given-names>A. Z.</given-names></name></person-group> (<year>2007</year>). <article-title>A default mode of brain function: a brief history of an evolving idea</article-title>. <source>Neuroimage</source>
+<volume>37</volume>, <fpage>1083</fpage>–<lpage>1090</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuroimage.2007.02.041</pub-id><?supplied-pmid 17719799?><pub-id pub-id-type="pmid">17719799</pub-id></mixed-citation>
+      </ref>
+      <ref id="B28">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shahabuddin</surname><given-names>S. M.</given-names></name></person-group> (<year>2013</year>). <article-title>Mapping neuroscience research in India-a bibliometric approach</article-title>. <source>Curr. Sci.</source>
+<volume>104</volume>, <fpage>1619</fpage>–<lpage>1626</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B29">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Smith</surname><given-names>J. A.</given-names></name><name><surname>Das</surname><given-names>A.</given-names></name><name><surname>Ray</surname><given-names>S. K.</given-names></name><name><surname>Banik</surname><given-names>N. L.</given-names></name></person-group> (<year>2012</year>). <article-title>Role of pro-inflammatory cytokines released from microglia in neurodegenerative diseases</article-title>. <source>Brain Res. Bull.</source>
+<volume>87</volume>, <fpage>10</fpage>–<lpage>20</lpage>. <pub-id pub-id-type="doi">10.1016/j.brainresbull.2011.10.004</pub-id><?supplied-pmid 22024597?><pub-id pub-id-type="pmid">22024597</pub-id></mixed-citation>
+      </ref>
+      <ref id="B30">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>van Eck</surname><given-names>N. J.</given-names></name><name><surname>Waltman</surname><given-names>L.</given-names></name></person-group> (<year>2009</year>). <article-title>Software survey: VOSviewer, a computer program for bibliometric mapping</article-title>. <source>Scientometrics</source>
+<volume>84</volume>, <fpage>523</fpage>–<lpage>538</lpage>. <pub-id pub-id-type="doi">10.1007/s11192-009-0146-3</pub-id><?supplied-pmid 20585380?><pub-id pub-id-type="pmid">20585380</pub-id></mixed-citation>
+      </ref>
+      <ref id="B31">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>van Eck</surname><given-names>N. J.</given-names></name><name><surname>Waltman</surname><given-names>L.</given-names></name></person-group> (<year>2011</year>). <article-title>Text mining and visualization using VOSviewer</article-title>. <source>ISSI Newslett.</source>
+<volume>7</volume>, <fpage>50</fpage>–<lpage>54</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B32">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>van Eck</surname><given-names>N. J.</given-names></name><name><surname>Waltman</surname><given-names>L.</given-names></name><name><surname>Dekker</surname><given-names>R.</given-names></name><name><surname>van den Berg</surname><given-names>J.</given-names></name></person-group> (<year>2010</year>). <article-title>A comparison of two techniques for bibliometric mapping: multidimensional scaling and VOS</article-title>. <source>J. Am. Soc. Inform. Sci. Technol.</source>
+<volume>61</volume>, <fpage>2405</fpage>–<lpage>2416</lpage>. <pub-id pub-id-type="doi">10.1002/asi.21421</pub-id></mixed-citation>
+      </ref>
+      <ref id="B33">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>van Eck</surname><given-names>N. J.</given-names></name><name><surname>Waltman</surname><given-names>L.</given-names></name><name><surname>van Raan</surname><given-names>A. F.</given-names></name><name><surname>Klautz</surname><given-names>R. J.</given-names></name><name><surname>Peul</surname><given-names>W. C.</given-names></name></person-group> (<year>2013</year>). <article-title>Citation analysis may severely underestimate the impact of clinical research as compared to basic research</article-title>. <source>PLoS ONE</source>
+<volume>8</volume>:<fpage>e62395</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pone.0062395</pub-id><?supplied-pmid 23638064?><pub-id pub-id-type="pmid">23638064</pub-id></mixed-citation>
+      </ref>
+      <ref id="B34">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Venneti</surname><given-names>S.</given-names></name><name><surname>Lopresti</surname><given-names>B. J.</given-names></name><name><surname>Wiley</surname><given-names>C. A.</given-names></name></person-group> (<year>2013</year>). <article-title>Molecular imaging of microglia/macrophages in the brain</article-title>. <source>Glia</source>
+<volume>61</volume>, <fpage>10</fpage>–<lpage>23</lpage>. <pub-id pub-id-type="doi">10.1002/glia.22357</pub-id><?supplied-pmid 22615180?><pub-id pub-id-type="pmid">22615180</pub-id></mixed-citation>
+      </ref>
+      <ref id="B35">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vickery</surname><given-names>B. C.</given-names></name></person-group> (<year>1948</year>). <article-title>Bradford's law of scattering</article-title>. <source>J. Doc.</source>
+<volume>4</volume>, <fpage>198</fpage>–<lpage>203</lpage>. <pub-id pub-id-type="doi">10.1108/eb026133</pub-id></mixed-citation>
+      </ref>
+      <ref id="B36">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wakabayashi</surname><given-names>K.</given-names></name><name><surname>Tanji</surname><given-names>K.</given-names></name><name><surname>Odagiri</surname><given-names>S.</given-names></name><name><surname>Miki</surname><given-names>Y.</given-names></name><name><surname>Mori</surname><given-names>F.</given-names></name><name><surname>Takahashi</surname><given-names>H.</given-names></name></person-group> (<year>2013</year>). <article-title>The Lewy body in Parkinson's disease and related neurodegenerative disorders</article-title>. <source>Mol. Neurobiol.</source>
+<volume>47</volume>, <fpage>495</fpage>–<lpage>508</lpage>. <pub-id pub-id-type="doi">10.1007/s12035-012-8280-y</pub-id><?supplied-pmid 22622968?><pub-id pub-id-type="pmid">22622968</pub-id></mixed-citation>
+      </ref>
+      <ref id="B37">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Waltman</surname><given-names>L.</given-names></name></person-group> (<year>2016</year>). <article-title>A review of the literature on citation impact indicators</article-title>. <source>J. Inform.</source>
+<volume>10</volume>, <fpage>365</fpage>–<lpage>391</lpage>. <pub-id pub-id-type="doi">10.1016/j.joi.2016.02.007</pub-id></mixed-citation>
+      </ref>
+      <ref id="B38">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Waltman</surname><given-names>L.</given-names></name><name><surname>van Eck</surname><given-names>N. J.</given-names></name><name><surname>Noyons</surname><given-names>E. C.</given-names></name></person-group> (<year>2010</year>). <article-title>A unified approach to mapping and clustering of bibliometric networks</article-title>. <source>J. Informetr.</source>
+<volume>4</volume>, <fpage>629</fpage>–<lpage>635</lpage>. <pub-id pub-id-type="doi">10.1016/j.joi.2010.07.002</pub-id></mixed-citation>
+      </ref>
+      <ref id="B39">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Waltman</surname><given-names>L.</given-names></name><name><surname>van Raan</surname><given-names>A. F.</given-names></name><name><surname>Smart</surname><given-names>S.</given-names></name></person-group> (<year>2014</year>). <article-title>Exploring the relationship between the Engineering and Physical Sciences and the Health and Life Sciences by advanced bibliometric methods</article-title>. <source>PLoS ONE</source>
+<volume>9</volume>:<fpage>e111530</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pone.0111530</pub-id><?supplied-pmid 25360616?><pub-id pub-id-type="pmid">25360616</pub-id></mixed-citation>
+      </ref>
+      <ref id="B40">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Xu</surname><given-names>W.</given-names></name><name><surname>Chen</surname><given-names>Y.-Z.</given-names></name><name><surname>Shen</surname><given-names>Z.-C.</given-names></name></person-group> (<year>2003</year>). <article-title>Neuroscience output of China: a MEDLINE-based bibliometric study</article-title>. <source>Scientometrics</source>
+<volume>57</volume>, <fpage>399</fpage>–<lpage>409</lpage>. <pub-id pub-id-type="doi">10.1023/A:1025060819495</pub-id></mixed-citation>
+      </ref>
+      <ref id="B41">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yeung</surname><given-names>A. W. K.</given-names></name><name><surname>Goto</surname><given-names>T. K.</given-names></name><name><surname>Leung</surname><given-names>W. K.</given-names></name></person-group> (<year>2017a</year>). <article-title>A bibliometric review of research trends in neuroimaging</article-title>. <source>Curr. Sci.</source>
+<volume>112</volume>, <fpage>725</fpage>–<lpage>734</lpage>. <pub-id pub-id-type="doi">10.18520/cs/v112/i04/725-734</pub-id></mixed-citation>
+      </ref>
+      <ref id="B42">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yeung</surname><given-names>A. W. K.</given-names></name><name><surname>Goto</surname><given-names>T. K.</given-names></name><name><surname>Leung</surname><given-names>W. K.</given-names></name></person-group> (<year>2017b</year>). <article-title>Basic taste processing recruits bilateral anteroventral and middle dorsal insulae: an activation likelihood estimation meta-analysis of fMRI studies</article-title>. <source>Brain Behav.</source>. [Epub ahead of print]. <pub-id pub-id-type="doi">10.1002/brb3.655</pub-id></mixed-citation>
+      </ref>
+      <ref id="B43">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yeung</surname><given-names>A. W. K.</given-names></name><name><surname>Tanabe</surname><given-names>H. C.</given-names></name><name><surname>Suen</surname><given-names>J. L. K.</given-names></name><name><surname>Goto</surname><given-names>T. K.</given-names></name></person-group> (<year>2016</year>). <article-title>Taste intensity modulates effective connectivity from the insular cortex to the thalamus in humans</article-title>. <source>Neuroimage</source>
+<volume>135</volume>, <fpage>214</fpage>–<lpage>222</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuroimage.2016.04.057</pub-id><?supplied-pmid 27132544?><pub-id pub-id-type="pmid">27132544</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record>
