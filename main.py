@@ -123,7 +123,7 @@ def main():
 
         total = (0.5 * sentiment if sentiment > 0 else 0.25) + \
                 (0.05 if 10 <= average_words_per_sentence <= 20 else 0) + \
-                (0.25 * medical_terms_frequency) + views_score + publications_score
+                (0.25 * medical_terms_frequency * 3 if medical_terms_frequency < 0.33 else 0.25) + views_score + publications_score
         print total
     finally:
         shutil.rmtree(dir_name)
